@@ -1,0 +1,222 @@
+---
+title: Build | An Unorthodox Guide To Making Things Worth Making by Tony Fadell
+date: "2022-07-16"
+path: "/bookshelf/build"
+---
+
+## I. Brief Summary
+This book goes into my re-read section. It has pure wisdom on how to deal with product centric organization with actionable tactics. Building a long tenure in product development is both art and science. It is clear Tony Fadell is worth listening to because of his training from Steve Jobs but also post Apple where he built another world-class product called Nest. It is not luck when someone can do it twice. Fadell was responsible for iPod, iPhone and Nest thermostat. The book is a blueprint on how creative thinkers can bring ideas to the world. Not everyone has a luxury to be trained directly from world-class product builders, but this book has a lot to teach who are serious about product development.
+
+## II. Big Ideas
+- Part 1: Build Yourself
+    - The rigor that Tony talks about does not have to be around product that has a specific technology. It can be anything, a service or a store. It could be a recycling plant.
+    - When you are looking at the array of potential careers before you, the correct place to start is: what do I want to learn?
+        - Not how much money do I want to make?
+        - Not what title do I want to have?
+        - Not what company has enough name recognition that your mom can brutally crush the other moms.
+    - Following curiosity rather than a business school playbook about how to make money. Assume that for much of your twenties your choices will not work out.
+    - It is better to ask for forgiveness, not permission. If it turns out to be the wrong move, well, making a mistake is the best way to not make that mistake again. Do, fail, learn. The critical thing is to have a goal.
+    - Your parents will always have suggestion for you but feel free to ignore them. The judgement is colored by what they want the best for you. But twenties is the time to take risks. In your 30s and 40s, the window begins to close for most people because of responsibilities.
+    - The worst that happens from taking risk is having to move back with your parents.
+    - “If you make it, they will come” does not always work. The world has to be ready to want it. Customers need to see that your product solves a real problem they have today.
+    - If you are not solving a real problem, you can't start a revolution. A glaring example is Google Glass or Magic Leap. On the other hand, take Uber. Take whatever job you can at a company that is solving a real problem. Don't focus too much about the title. Focus on work. 
+    - On avoiding management consultants
+        - These consulting companies are led by tentative and risk averse CEOs
+        - They do massive audit, find the flaws, and present leadership with a new plan that will magically “fix” everything. This is a fairy tale.
+        - Too many new grads start here because of pay and luxury to travel around the world with powerful executives to learn how to make a business successful. But there is only one problem. You don't learn how to build or run a company.
+        - Steve Jobs on consultants: You do get a broad cut at companies but it's very thin. It's like a picture of a banana: you might get a very accurate picture but it's only two dimensions, and without the experience of actually doing it you never get three dimensional. So you might have a lot of pictures on your walls, you can show it off to your friends—I've worked in bananas, I've worked in peaches, I've worked in grapes—but you never really taste it.
+        - To do great things, to really learn, you can't shout suggestions from the rooftop then move on while someone else does the work. You have to get your hands dirty. You have to care about every step, lovingly craft every detail. You have to be there when it falls apart so you can put it back together.
+    - As an individual contributor you need to occasionally do two things: look up and look around.
+        - Look up: look beyond the next deadline or project and forward. Make sure the mission still makes sense.
+        - Look around: get out of your comfort zone and talk to other functional teams. Get their concerns and perspectives.
+        - CEO and executive team are focused on horizon. Managers keep their eyes focused 2-6 weeks out. Junior individual contributors spend 80 percent of their time looking straight down working on day to day. Your job isn't just doing your job but also to think from your CEO and manager's perspective. The destination lets you self-prioritize. 
+        - Talk to people who are closest to the customer.
+- Part 2: Build Your Career
+    - 6 things to know if you are thinking of becoming a manager:
+        - You don't have to be a manager to be successful. Plenty of people go back to being an individual contributor.
+        - Remember that once you become a manager, you'll stop doing the thing that made you successful in the first place. Your job is now communication, and more communication, recruiting, people management, budgets, reviews and conflict management.
+        - Becoming a manager is a discipline. Management is a learned skilled, not a talent.
+        - Being exacting and expecting great work is not a micromanagement. Your job is to make sure the team produces high-quality work.
+        - Honesty is more important than style. Everyone has a style—loud, quiet, emotional, analytical, excited, reserved. You can succeed in any of these styles as long as you never shy away from respectfully telling the team the uncomfortable hard truth.
+        - Don't worry that your team will outshine you. That should be your goal.
+    - When you are a manager, you are no longer responsible for the work, but responsible for human beings. That is why management is a job and hard.
+    - A superpower of a good manager is to be able to talk to different teams.
+    - Letting go is the hardest part of management. Letting team do their job and trusting them gives the team a breathing room. But you shouldn't give so much space that you are surprised when you see the product. Don't slide into mediocrity. Examining the product in great detail and caring deeply about quality of what your team is producing is not micromanagement.
+    - A good management practice is signing off on the process and then step away and letting team do the work.
+    - It is easy to let your 1:1s get into a friendly conversation, but should not come at the expense of diving into the agenda and figuring out what is working and what is not. 1:1s is a great way to get insights. And if you have to share something important with the person, don't wait. Tear off the band-aid. Be honest. Don't ignore the elephant in the room. Give them the reason why and remind them it is not to criticize but to help them grow.
+    - A great deal of management comes down to how you manage your own fears and anxieties. Your team amplifies your mood. This is why it is important to modulate yourself. But don't let that change your management style. If you get excited that means you get very excited. Stay true to your management style. If you are passionate, tell them why and explain your reasoning. This is why communicating is such a critical aspect of management.
+    - Helping people succeed is your job as a manager. You need to create a setting where they can surprise you. And where they can surpass you.
+    - You need to let go of taking pride in your individual daily accomplishments and start taking pride in the accrued wins of your team.
+    - Every decision has elements of data and opinion.
+        - There hundreds of tiny decisions every day and then there are critical ones that pop-up once in a while. At that moment, you are faced with data vs opinion.
+        - Data-driven: you can acquire, study, and debate facts and numbers that will allow you to be fairly confident in your choice. These decisions are relatively easy to make and defend your choices which most people on the team will agree with.
+        - Opinion-driven: you have to follow your gut and your vision for what you want to do, without the benefit of sufficient data to guide you or back you up. These decisions are always hard and will always be questioned because everyone has an opinion.
+        - Sometimes you have to double down on data and other times you have to look at all data but then trust your gut. 
+        - Data can't solve an opinion-based problem. No matter how much data you get, it will always be inconclusive. This leads to analysis-paralysis which is death by overthinking.
+        - If you don't have enough data to make a decision, you'll need insights to inform an opinion. Insights can be key learnings about your customers or your market or your product space. This will give you intuitive feeling for what you should do.
+        - Customer is always right, right? Except customer panels can't design for shit. People just can't articulate what they want clearly enough to definitely point in one direction or another, especially if they are considering something completely new or something they have never used before. Customers will always be more comfortable with what exists already, even if it is terrible.
+        - Being vowed by consultants and excited about numbers eliminates of making decisions themselves. Instead of moving forward with design, you'd hear, “Well, let's just test it.” Nobody takes the responsibility of making bold decisions. You run a test on Monday and same test on Friday to get opinion X and Y. Meanwhile you are paying millions of dollars who take months and years to get things out the door. At best this data isn't a guide but a crutch.
+        - If a product is new, there is nothing to compare it to, nothing to optimize, nothing to test. It is your job to define your target customer clearly, talk to them and what problems they had. It is your job to fix those problems. It is your job to get feedback about your designs. But then it is your job to use those insights to move forward and find a direction.
+        - Not everyone on the team will agree but it is your responsibility as a leader or a manager to explain that this isn't democracy, this is an opinion-based decision and you are not going to reach the right choice by consensus. But this ins't a dictatorship. You can't give orders without explaining yourself. Tell the team about your process and how you reached the decision. Explain them why. They might disagree but at least they'll trust you. These type of leaders, by the way, are hard to find.
+    - Throughout your career, you'll encounter some real assholes. 
+        - Political assholes: the people who master the art of corporate politics, but then do nothing but take credit for everyone else's work. They don't make anything themselves and are absent from making tough decisions. But when something goes down, they are there to remind you, “I told you so.” These assholes usually build a coalition of budding assholes around them.
+        - Controlling assholes: these are micromanagers who systematically strangle the creativity and joy out of the team. They resent any good idea and cannot be reasoned with. They get threatened by people who are more talented than them. They never give people credit for their work.
+        - Asshole assholes: they suck at work and everything else. These are mean, jealous and insecure jerks who you'd avoid at a party, but who inevitably sit immediately next to you at the office. They cannot deliver and are deeply unproductive. They will lie, craft gossip and manipulate others.
+        - Mission-driven assholes: these people who are crazy passionate and also a little crazy. Steve Jobs fall under this category. They speak most frankly, trampling the politics and steamroll right over the delicate social order of “how things are done around here.” Much like true assholes, they are neither easygoing nor easy to work with. Unlike true assholes, they care. They give a damn. They listen. They incredibly work hard and push their team to be better.
+        - When you are faced with assholes (controlling assholes): kill ’em with kindness, ignore them, try to ignore around them or quit. 
+        - Political assholes are a different beast. They are a mafia because of their coalition with others. 
+        - Most people aren't assholes. And even if they are, they are also human. Start with kindness. Try to make peace. Assume the best.
+    - Quit when you are no longer passionate about the mission or you've tried everything. But leave without a bad taste. People won't remember how you started, but they'll remember how you left. And don't just complain and quit because things are hard. Try everything you have in your arsenal.
+- Part 3: Build Your Product
+    - Make the intangible tangible. We are wired to focus our attention on tangible things that we can see and touch to the point that we overlook the importance of intangible experiences and feelings. 
+    - You should be able to map out and visualize exactly how a customer discovers, considers, installs, uses, fixes and even return your products. It all matters. These are all incredibly important part of user journey. Treat everything as one unit, one brand. All of it is one thing.
+    - You have to help customers come over the following questions:
+        - Why should I care?
+        - Why should I buy it?
+        - Why should I use it?
+        - Why should I stick with it?
+        - Why should I upgrade or buy the next version?
+    - Use personas and distinct personas such as man vs woman. Start with two human beings and then expand. That is how prototyping works.
+    - Use moment of frustration into a moment of delight. Nest had this problem where customers had to self-install so customers would have to look around for a screwdriver. To drive adoption, Nest created its own screwdriver which sped up the adoption journey. It ate their margins but it wasn't a straight COGS line item because it saved so much time on customer support.  And it wasn't just a hardware tool, but a marketing tool (I still have mine). And not only one screw head, but they added a few more so customers could use it for other things at home. People could use it practically for anything which also increased customer loyalty. When a company gives that kind of care and attention to every part of the journey, people notice. This is a great case study of customer delight and made Nest special.
+    - Every product should have a story, a narrative that explains why it needs to exist and how it will solve customer's problems. 
+    - A good story has 3 elements:
+        - It appeals to people's rational and emotional sides. 
+        - It takes complicated ideas and makes them simple. 
+        - It reminds people of the problem that's being solved—it focuses on the why.
+    - Jobs used analogies which gives customers superpowers. For example, Nest's rewarded customers who signed up for energy saving program by calling it a Rush Hour Rewards. It was easy to understand.
+    - Your version (V1) product should be disruptive, not evolutionary. But disruption alone will not guarantee success, you can't ignore the fundamentals of execution because you think all you need is a brilliant disruption. Assuming V1 was at least a critical success, the second version of your product is an evolution of first. Refine what you've made. 
+        - Evolution: a small, incremental step make something better.
+        - Disruption: a folk on the evolutionary tree, something fundamentally new that changes the status quo, usually by taking novel or revolutionary approach to an old problem.
+        - Execution: actually doing what you've promised to do and doing it well.
+    - The key is to find the right balance, not so disruptive that you won't be able to execute, not so easy to execute that nobody will care. You have to choose your battles. And if you are building something disruptive, your competition will almost dismiss you in the beginning and will most likely laugh in your face. In the stages of grief, that is what we call denial. And when you take their market share, they get pissed that they come with all sort of things: undercut your pricing, try to embarrass you with advertising, use negative press and put in agreements with sales channels to lock you out of market. They'll even litigate you. Iteration is a key in disruption. Constant upgrades will lock your competition out because anytime they catch up, you are already 50 steps ahead. It will crush their spirits.
+    - You need constraints to make good decisions and the best constraint in the world is time. Besides time, force as many constraints as possible such as money and people. Don't go on hiring spree when you are in concept stage.
+    - Watch the project heartbeat. If the heartbeat is too fast which is a team constantly updating the product, the customers start tuning out. They don't have time to learn how the product works and certainly not master it. Google is a perfect example.
+    - Predictability is important because it allows your team to know when they should be heads down working. Predictable world creates reliance amongst all stakeholders including customers. 
+        - Predictability allows you to codify a product development process rather than starting from scratch every time. It allows you to create a living document with checkpoints, milestones, schedules, and plans that trains new employees and teaches everyone: this is how do it. This the framework for how to build a product.
+        - Breaking the rhythm of your external heartbeat should be avoided at all costs, but sometimes it'll happen anyway.
+    - There are 3 profitability stages:
+        - Not remotely profitable which is version 1.
+        - Making unit economics or gross margins which is version 2. Keep in mind that fantastic unit economics are not enough to make a profitable company. You'll still be spending a lot to acquire customers and employees through sales and marketing.
+        - Making business economics or net margins which is version 3. The net profit with each subscription or product sold. Getting to this stage takes a long time because learning takes time.
+    - If you don't understand how customer adoption maps onto product and company development, you are missing a very important part of the puzzle.
+    - After companies find product/market fit, they can start to focus on profitability.
+        - Businesses that build with atoms are focused on COGS: cost of goods sold.
+        - Businesses that build with electrons are focused on CAC: customer acquisitions cost.
+        - Companies that build with both atoms and electrons have to worry about COGS and CAC, but should focus one at a time. First knock out COGS, then move on to CAC. Build the product, then add services. The iPod took 3 generations and 3 years before it reached profitable unit economics.
+    - Never undercut pricing on your valuable product. Jobs never wanted the phone to be subsidized. He wanted everyone to know its real price so they could value it appropriately.
+- Part 4: Build Your Business
+    - When coming across a great idea, practice delayed intuition which is to make better decisions, slow down.
+    - Most successful entrepreneurs are in their late thirties and forties. There's a reason why investor prefer to back second-time entrepreneurs even if they failed the first time around. It's because these founders spent their twenties screwing up and learning. They learn trial by fire. They bounce around like a pinball, constantly smacking their heads into something.
+    - Spend your time at your job understanding the business you are helping to build. Go from startup to a big company. Learn the problems that big companies face. Go beyond product, the organization, the processes, the governance, the politics.
+    - Having two co-founders work well. But there can be only one CEO.
+    - Every time you raise capital, you should think of it as a marriage: a long-term commitment between two individuals based on trust, mutual respect, and shared goals. Don't play games.
+    - B2C, B2B, B2B2C or some yet unimagined acronym, you can only serve one master. You can only have one customer. Understand your customer and your demographics.
+    - There are 2 kinds of work/life balance: true work/life balance and personal balance when you are working. Take a real break if it is the latter. Give your mind some time to breath.
+    - When in crisis mode, it doesn't matter if the crisis was caused by your mistake or your team or a fluke accident: accept responsibility for how it has affected customers and apologize. Keep your focus on how to fix the problem, not who to blame. As a leader, you will have to get into the weeds but let the team do their jobs without you breathing down their necks. Get advice from your mentor. And do not slack on communication. Clear your calendar on all non-essential things until crisis are reverted.
+- Part 5: Build Your Team
+    - What you are building never matters as much as who you are building it with.
+    - Growth will break your company. You need smart organizational design and communication style or you risk alienating the team and cratering the culture. Use breakpoints, they happen in the transitions between team sizes.
+    - Everything that needs to be created needs to be designed, not just products and marketing, but processes, experiences, organizations, forms, materials. At its core, designing simply means thinking through a problem and finding an elegant solution. Employ design thinking and avoid habituation. This will force you to think hard and differently about the problems and solutions. Design will force you have a beginner's mindset. Some of the following design questions while picking a name. Same process can be applied for other design exercise.
+        - Who is your customer and where will they encounter this name?
+        - What are you trying to get your customer to think or feel about your product?
+        - What brand attributes or product features are most important to highlight with this name?
+        - Is this product part of a family of products or is it stand-alone?
+        - What will the next version be called?
+        - Should the name be evocative of a feeling or idea or a straightforward description?
+        - Once you come up with a list, begin to use names in context.
+        - How does it work in a sentence?
+        - How do you use it in print?
+        - How do you use it graphically?
+    - Marketing cannot be just figured out at the very end. Use marketing to prototype your product narrative. The best marketing is just telling the truth. While good marketing is anchored in human connection and empathy, creating and implementing your marketing programs can and should be a rigorous and analytical process. Templates can be used mentioned in this chapter.
+    - What is product management? Why do different companies treat this role differently? It is because of the stupid abbreviation. Is it project management? Is it program management? Is it product marketing? Or is it product management?
+        - Product management or product marketing manager should be one role and have same responsibility. They work with almost every part of the business to get the product spec'd built and brought to market. But more importantly product managers are the voice to the customer. They keep every team in check to make sure they don't lose sight of the ultimate goal—happy, satisfied customers. Product managers gives customer a voice on all teams.
+        - Project managers coordinate tasks, meetings, calendars and assets to enable individual projects to get it done on time. Project managers are more than just glorified note takers. If the product manager is the voice of the product, the project manager is the voice of the project.
+        - Program manager supervises group of projects and project managers focusing on long-term business objectives and short-term deliverables.
+        - Responsibilities of product managers:
+            - Spec out what the product should do and the road map for where it will go over time.
+            - Determine and maintain the messaging matrix.
+            - Work with engineering to get the product built according to spec.
+            - Work with design to make it intuitive and attractive to the target customer.
+            - Work with marketing to help them understand the technical nuances in order to develop effective creative to communicate the messaging.
+            - Present the product to management and get feedback from the execs.
+            - Work with sales and finance to make sure the product has a market and can eventually make money.
+            - Work with customer support to write necessary instructions, help manage problems, and take in customer requests and complaints.
+            - Work with PR to address public perceptions, write the mock press release, and often act as a spokesperson.
+            - Work on less defined stuff: look for places where customer is unhappy and whatever else.
+        - Greg Joswiak at Apple was a great product manager from whom Tony Fadell learned from. If Job was good at telling stories, Joswiak was good at product. He becomes the customer and starts poking holes at product from the end user perspective. No one cared about battery life when iPod was being built, but Joswiak did.
+        - Product manager has to be a master negotiator and communicator. They have to influence people, build bridges and mend road maps. They have to know which battles are worth fighting for. This is why great product managers are hard to hire.
+        - Product manager is a needle in a haystack. An almost impossible combination of structured thinker and visionary leader with incredible passion but also firm follow-through, who's a vibrant people person but fascinated with technology, an incredible communicator who can work with engineering and think through marketing and not forget the business model, the economics, profitability, PR. They have to be pushy but with a smile, to know when to hold fast and when to let one side.
+    - Rather than focusing on rewarding salespeople immediately after a transaction, vest the commission so they stick around for longer. Old sales model is no longer viable because during crisis, sales incentives are to sell more even if it is a broken product. If product is on pause, they'll be motivated to leave because of fully vested commissions. A customer-centric organization would not allow this. 
+    - Law firms are about billable hours. Having a trusted lawyer in-house is better than a billable lawyer.
+- Part 6: Be CEO
+    - There's nothing to prepare you for CEO. CEOs job is to give a shit, to care.
+    - CEO sets the tone of the company.
+    - Most people are happy with 90 percent good. But going from 90 to 95 percent is halfway to perfect. Push for excellence and when you are top of the pyramid, it will trickle down.
+    - Do not fool yourself understanding the difference between benefits vs perks. An oversupply of perks not only hurt a company's bottom line, but also employee morale. Some people can become obsessed with what they can get rather than what they can do believing perks to be a right, not a privilege. Then when times get tough or when the perks don't scale, they become outraged that their “rights” are being taken away. 
+        - Jobs never gave out Apple products as free. He didn't want employees to devalue the very things they were working on.
+        - Google has been trying to cut costs for years, but it is impossible to claw your way back.
+        - Perks are a new sense of entitlement. Screw massages! You need money to build business.
+    - A CEO is not a king or queen. It's not a lifetime appointment. At some point, you have to step down.
+    
+## III. Quotes
+- The world is full of mediocre, middle-of-the-road companies creating mediocre, middle-of-the-road crap, but I've spent my entire life chasing after the products and people that strive for excellence. I've been incredibly lucky to learn from the best—from bold, passionate people who made a dent in the world.
+- A good mentor won't hand you the answers, but they will try to help you see your problem from a new perspective. They'll loan you some of their hard-fought advice, so you can discover your own solution.
+- This book isn't trying to be a biography, I am not dead yet. It's a mentor in a box. It's an advice encyclopedia. 
+- Your first job out of college connects in a straight line to your second and your third, that at each stage of your career you'll use your inevitable wins to propel yourself forward.
+- Adulthood is commonly thought of as the time when learning is over and living begins. Yes! I've graduated I am done! But learning never ends.
+- Traditional schooling trains people to think incorrectly about failure. You are taught a subject, you take a test, and if you fail, that's it. You are done. But once you are out of school, there is no book, no test, no grade. And if you fail, you learn.
+- The only failure in your twenties is inaction. The rest is trial and error. — Anonymous 
+- The million of hidden decisions you'll discover when you leave home.
+- Joyful workplace could make a joyful product.
+- So even if the experience kicks your ass, the force of that kick will propel you into a new stage of your life. And you'll figure out what to do next.
+- Cool technology isn't enough. A great team isn't enough. Plenty of funding isn't enough. Too many people throw themselves at hot trends, anticipating a gold rush, and end up falling off a cliff. 
+- If you are not solving a real problem, you can't start a revolution.
+- If there are gods of software design and coding, they are Bill Atkinson and Andy Hertzfeld.
+- I can't make you the smartest or the brightest, but it's doable to be the most knowledgeable. It's possible to gather more information than somebody else. — Bill Gurley
+- Don't get stuck between the elephant's toes so you can never see the whole beast. It's easy to mistake navigating process, red tape, job leveling, and politics for real personal growth.
+- Startups that blow all their funding on Ping-Pong instructors and free beer aren't focused on the right things.
+- The rush of imposter syndrome was almost overwhelming.
+- Even if your hands aren't on the product, they should still be on the wheel.
+- I did therapy and yoga to find balance, to change the way I reacted to the world, to better understand myself and my emotions and how others perceived them.
+- Even if every business book on Earth told me to be quiet, calming voice on the team, I couldn't do it all the time.
+- Most managers are afraid that the people who work for them are going to be better than them. But you need to think of being a manager more like being a parent or a mentor. What loving parents wants their child NOT to succeed? You want your kids to be more successful than you, right? — Kwon Oh-hyun, former CEO of Samsung Semiconductor
+- If you are a manager—congratulations, you are now a parent. Not because you should treat your employees like children, but because it's now your responsibility to help them work through failure and find success. And to be thrilled when they do.
+- The data wasn't guide. At best, it was a crutch. At worst, cement shoes. It was analysis paralysis.
+- A/B testing and user testing is not product design. It's a tool. A test. At best, a diagnosis. It can tell you that something is not working, but it won't tell you how to fix it. Or it can show you an option that solves one hyperlocal issue but breaks something else downstream.
+- You can A/B test where the “Buy” button should go on a Web page, whether it should be blue or orange, but you shouldn't be testing whether or not a customer should buy online.
+- In the case of every first-generation product, we could have been shoveling forever. There was never going to be enough data to make an assured choice.
+- We made decisions. I made decisions. This is in. This is out. This is how it's going to work.
+- Storytelling is at the heart of sales. And right now you are selling—your vision, your gut, your opinion.
+- Most decisions we make are data-informed, but they are not data-made.
+- Pushing greatness doesn't make you an asshole. Challenging assumptions doesn't make you an asshole.
+- There's a world difference between being emphatic and passionate to benefit the customer versus bullying someone to appease your own ego.
+- Your product isn't only your product. It's the whole user experience.
+- If they can't innovate, they'll litigate.
+- You need some constraints to force you to dig deep and get creative, to push envelopes you hadn't thought you open before.
+- If you wait for your product to be perfect, you will never finish.
+- Every project needs a heartbeat.
+-  The heartbeats of companies that work with atoms rather than electrons are often way too slow. Because atoms are scary: you can't relaunch an atom.
+- We like to think that we are not ruled by schedules, that we can throw off the chains of habit at anytime, but most people are creatures of routine.
+- Your product has to learn how to crawl, and then walk, before it can run.
+- They were asking us to predict the future with near 100 percent confidence. They were asking for proof that a baby could run a marathon before it had even learned to walk. These guys didn't know much about babies. They knew even less about how to create a new business. That's why so many Kickstarter projects have failed.
+- You make the product. You fix the product. You build the business. Every product. Every company. Every time.
+- The best ideas are painkillers, not vitamins.
+- The why always has to be crisp and easy to articulate.
+- Once you have a really strong why, you have the germ of a great idea.
+- Throwing darts at a wall is not how you pick a great idea. Anything worth doing take takes time.
+- The world is full of people who have an idea and want to start a company.
+- Getting from 0 to 1 is a huge lift.
+- The calculus of risk and reward has to make sense.
+- The cake is a microcosm of the larger problems of growth.
+- It's either grow or die. Stasis is stagnation. Change is the only option.
+- Every organism starts as a single cell. That cell divides into two, four, sixteen. In the beginning each cell is the same, but quickly they break out and individualize. This one is going to be a nerve, this one a muscle. The more the organism grows, the more differentiated each cell has to be, more complicated the system becomes. But it also becomes more resilient, able to survive for years, decades. The same happens in business.
+- Being a good designer is more a way of thinking than a way of drawing. It's not just about making things pretty, it's about making them better.
+- Steve Jobs often said, the best marketing is just telling the truth.
+- When yet another CEO tells me they have no idea what a product manager does, it always makes me think of design in the eighties.
+- If you are selling brake systems to a car company, you'd better really understand brakes.
+- The superpower of every product manager is empathy.
+- Building a product is like making a song.
+- Freedom is a double-edged sword, but it is still a sword.
+- Free will screw you every time.
+- As the number of perks increase, people's reason for being at their job can begin to blur as well.
+- Perks are frosting. High-fructose corn syrup. And nobody will begrudge you a little sugar, everyone likes sweets from time to time. But stuffing your face full of them from morning to night isn't exactly a recipe of happiness.

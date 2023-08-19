@@ -1,0 +1,203 @@
+---
+title: Design Of Everyday Things by Donald A. Norman
+date: "2022-10-07"
+path: "/bookshelf/design-of-everyday-things"
+---
+## I. Brief Summary
+This is a must-read for problem solvers and anyone who wants to design products that are both environmental and human friendly. Design is misunderstood for beautifying products, but Donald Norman makes a case for Human Centered Design and describes how designers should operate and think. Design is how humans experience and interact with everyday products. Good design also takes human psychology and habits into consideration. Norman provides lots of everyday examples, such as doors and switches which are difficult to operate. Norman goes through human-centered design and design thinking, going into specific techniques like idea convergence and divergence. I loved this book and plan on coming to this several times.
+
+## II. Big Ideas
+- Principles of design:
+    - Use both knowledge in the world and knowledge in the head.
+    - Simplify the structure of tasks.
+    - Make things visible: bridge gulfs between Execution and Evaluation.
+    - Get the mappings right.
+    - Exploit the power of constraints.
+    - Design for error.
+    - When all else fails, standardize.
+- Major design fields:
+    - Industrial design: Creation, development and specification of products and systems for the benefit of user and manufacturer.
+    - Interaction design: Focus on how people interact with technology. “Enhance people’s understanding of what can be done, what is happening, and what has just occurred.”
+    - Experience design: Designing products, processes, services, events and environments with a focus on quality and enjoyment of the experience.
+- Human-centered design (HCD): “The process that ensures that the designs match the needs and capabilities of the people for whom they are intended.”
+    - This approach is complementary to the industrial, interaction and experience design fields.
+    - HCD is a philosophy.
+- Experience: The quality of a user-interaction.
+    - The result can run the spectrum from enjoyably productive to failed outcomes that are frustrating and confusing.
+    - Cognition and emotion are strongly intertwined.
+- Terminologies described by Norman:
+    - Affordance: Affordances describe the relationship between a person and an object. They signal to the person exactly how the object might be used. Affordances describe RELATIONSHIPS, not a property. They determine what actions are possible.
+    - Signifier: Signifiers communicate HOW something should be used; e.g. the purpose/structure/operation of something. Norman makes the point that designers should focus on signifiers, but be aware of affordances.
+    Mapping: Mapping describes the relationship between a control and its results. The best mappings are intuitive.
+    - Conceptual Models: We all know what conceptual models are. Good ones are derived from affordances and signifiers and allow us to predict the effect of our actions. They give us mental models for how we can think about using a product.
+        - Conceptual models are explanations, often simplified, of how something works. Example: The computer “desktop” with its attendant files, folders and icons helps users create a conceptual model of documents within the computer.
+        - A good conceptual model allows us to predict the effects of our actions.
+        - Mental models are the conceptual models in the end-users mind that represent their understanding of how things work. A person may have multiple, often conflicting, models for the same item.
+        - The major clues for how tings work comes from the signifiers, affordances, constraints and mappings for the thing.
+        - Poorly presented conceptual models (or incorrect ones) can create end-user frustration. Example: Digital wristwatches with small buttons that must be used individually or in combination to set the time and operate other functions.
+- Two of the most important characteristics of good design are discoverability and understanding.
+    - Discoverability: Is it possible to figure out what actions are possible?
+    - Understanding: What does it all mean? How should this device be used? What do the controls and settings mean?
+- Norman also explores humans emotions, and how we feel when things go right vs. when things go wrong. Big takeaways:
+    - Root cause analysis: keep asking the user “why?” and don’t assume anything. This will help you get to the bottom of a user’s true pain points, which may be very different from what they might originally say.
+    - Don’t blame the user for errors.
+- The Seven Fundamental Questions of Action:
+    - What do I want to accomplish?
+    - What are the alternative action sequences?
+    - What action can I do now?
+    - How do I do it?
+    - What happened?
+    - What does it mean?
+    - Is this okay? Have I accomplished my goal?
+- The action cycle (7-stages of action, goal, 3 execution steps, 3 evaluation steps)
+    - Goal (form the goal)
+    - Plan (the action)
+    - Specify (an action sequence)
+    - Perform (the action sequence)
+    - Perceive (the state of the world)
+    - Interpret (the perception)
+    - Compare (the outcome with the goal)
+- Types of behaviors:
+    - Goal-driven behavior: Starts at the top of the action cycle and work down.
+    - Event-driven behavior or data-driven behavior can start from the bottom, triggered by the environment or world. In this situation, the cycle starts in the evaluation stage first.
+- Two major classes of memory:
+    - Short-term memory or working memory (STM)
+        - Retains the most recent information being thought about.
+        - STM storage capacity is limited.
+        - Interruptions and distractions can result in loss of thoughts.
+        - Many techniques can aid or prevent STM loss: writing things down, use of mnemonics, use of different modalities (e.g. audio and touch feedback to prevent distracting visual activities).
+    - Long-term memory (LTM)
+        - Memory for the past.
+        - LTM storage capacity is massive.
+        - Retrieval is the challenge for LTM. “Top of the tongue” phenomenon.
+        - Knowledge in the head is actually memory:
+            - Memory for arbitrary things.
+            - Memory for meaningful things.
+- Knowledge in our heads vs knowledge in the world:
+    - Have good, intuitive mappings that make sense.
+    - Go out and observe how users are actually doing things.
+    - Don’t let cost be a reason to have a bad user experience (surprisingly common).
+    - Understanding how people think is key to understanding how people solve their problems, which in turn, is key to understanding how to be a good designer.
+- Four types of constraints:
+    - Physical constraints:
+        - Physical limitations that constrain the range of operations.
+        - Example: A square peg cannot be used with a round hole.
+    - Cultural constraints:
+        - Culturally accepted range of actions for a given situation. Example: Red as a the culturally accepted color for “stop.”
+        - Conventions are a kind of cultural constraint. For instance some cultures eat with forks, some with chopsticks and some with their hands.
+    - Semantic constraints:
+        - Rely on the meaning of a situation to control the range of actions.
+        - Example: A windshield is meant to block wind from a rider’s face and therefore must be placed in front of the rider.
+    - Logical constraints:
+        - Using reason to determine the range of actions.
+        - Example: Two switches to control two lights. Logically the left switch should operate the left light and the right-side switch the right light.
+- Reduce the amount of learning and change for people. Consistency = key!
+- Errors shouldn’t ever be blamed on the user. Rather, errors are the result of bad designs. Norman provides some tips on how to design for error, which include:
+    - Understand the causes of error and design to minimize those causes.
+    - Do sensibility checks. Does the action pass the “common sense” test?
+    - Make it possible to reverse actions — to “undo” them — or make it harder to do what cannot be reversed.
+    - Make it easier for people to discover the errors that do occur, and make them easier to correct.
+    - Don’t treat the action as an error; rather, try to help the person complete the action properly. Think of the action as an approximation to what is desired.
+- There are two components of design:
+    - Solving the right problem
+    - Meeting human needs and capabilities
+- The Double-Diamond Model of Design
+    - Two phases: 
+        - (1) Find the right problem and 
+        - (2) Find the right solution.
+    - In each phase, initial research results in expanded thinking about the underlying issues. Once a wide range of ideas and solutions are explored, only then does the individual converge back upon a single problem or solution.
+- The Iterative Cycle of Human-Centered Design (sometimes called the “spiral method”)
+    - Observation: Research to understand the nature of a problem. It requires both design research and market research.
+    - Idea generation (ideation): Identifying potential solutions for the design requirements posed from the preceding phase (observation).
+    - Prototyping: Vetting and testing ideas requires a working example or facsimile (no matter how crude or even partially functional).
+    - Testing: Have a test group that reflects your target audience interact, experience, and use the prototype.
+    - Iteration: In HCD, iteration is the repetition of observe-generate-prototype-test cycle in order to refine and enhance a product or service.
+- Two forms of product innovation:
+    - Incremental innovation: Less glamorous, but more common.
+    - Radical innovation: More glamorous, but rarely successful. Upends existing paradigms when successful.
+- Basic competitive dimensions (by real-world importance):
+    - Price
+    - Features
+    - Quality
+- Featuritis (aka “feature creep”): The phenomenon whereby a successful product keeps adding new features and capabilities to the point that it overcomplicates and obfuscates what was once a simple, elegant, straight-forward solution. Factors that contribute to feature creep:
+    - Existing customers want more features, functionality and capabilities.
+    - Competing companies add new features that create pressures to match those offerings.
+    - Market is saturated or stagnant. Adding new enhancements will boost the upgrade cycle.
+- Design Research vs Market Research: they are two different endpoints and methods of the query.
+    - Design wants to know what people really need and how do they use the products or services in reality.
+    - Marketing wants to work on the analysis of what people will buy, and also build inferences on how does that make their buying decisions.
+        - Digital channels: the way in which websites make it possible to observe the behavior of people online. This tends to be focused exclusively on the task of shopping and purchasing, and yields no insight to whether the product is actually valued though this can be inferred from repeat purchases (or lack thereof). 
+        - In a similar mode, big data is the recent fad in aggregating data from various information systems to form a picture of the user's buying behavior. It's good observation, but limited in its scope, generally to transactions directly between the user and the firm.
+
+## III. Quotes
+- Design is beyond window dressing products.
+- Design is really an act of communication, which means having a deep understanding of the person with whom the designer is communicating.
+- Good design is actually a lot harder to notice than poor design, in part because good designs fit our needs so well that the design is invisible, serving us without drawing attention to itself. Bad design, on the other hand, screams out its inadequacies, making itself very noticeable.
+- Rule of thumb: if you think something is clever and sophisticated beware-it is probably self-indulgence.
+- The idea that a person is at fault when something goes wrong is deeply entrenched in society. That’s why we blame others and even ourselves. Unfortunately, the idea that a person is at fault is embedded in the legal system. When major accidents occur, official courts of inquiry are set up to assess the blame. More and more often the blame is attributed to “human error.” The person involved can be fined, punished, or fired. Maybe training procedures are revised. The law rests comfortably. But in my experience, human error usually is a result of poor design: it should be called system error. Humans err continually; it is an intrinsic part of our nature. System design should take this into account. Pinning the blame on the person may be a comfortable way to proceed, but why was the system ever designed so that a single act by a single person could cause calamity? Worse, blaming the person without fixing the root, underlying cause does not fix the problem: the same error is likely to be repeated by someone else.
+- A brilliant solution to the wrong problem can be worse than no solution at all: solve the correct problem.
+- Cognition attempts to make sense of the world: emotion assigns value.
+- The problem with the designs of most engineers is that they are too logical. We have to accept human behavior the way it is, not the way we would wish it to be.
+- The vicious cycle starts: if you fail at something, you think it is your fault. Therefore you think you can’t do that task. As a result, next time you have to do the task, you believe you can’t, so you don’t even try. The result is that you can’t, just as you thought. You’re trapped in a self-fulfilling prophecy.
+- It is easy to design devices that work well when everything goes as planned. The hard and necessary part of design is to make things work well even when things do not go as planned.
+- One way of overcoming the fear of the new is to make it look like the old.
+- Norman’s Law: The day the product team is announced, it is behind schedule and over its budget.
+- When things go right, people credit their own abilities and intelligence. The onlookers do the reverse. When they see things go well for someone else, they sometimes credit the environment, or luck.
+- Finally, people have to actually purchase it. It doesn’t matter how good a product is if, in the end, nobody uses it.
+- In the university, professors make up artificial problems. In the real world, the problems do not come in nice, neat packages. They have to be discovered.
+- The design of everyday things is in great danger of becoming the design of superfluous, overloaded, unnecessary things.
+- Poor feedback can be worse than no feedback at all, because it is distracting, uninformative, and in many cases irritating and anxiety-provoking.
+- It is the duty of machines and those who design them to understand people. It is not our duty to understand the arbitrary, meaningless dictates of machines.
+- Original ideas are the easy part. Actually producing the idea as a successful product is what is hard.
+- Affordances define what actions are possible. Signifiers specify how people discover those possibilities: signifiers are signs, perceptible signals of what can be done. Signifiers are of far more importance to designers than are affordances.
+- Don't criticize unless you can do better. Try to understand how the faulty design might have occurred: try to determine how it could have been done otherwise.
+- In design, one of the most difficult activities is to get the specifications right.
+- Why do we need to know about the human mind? Because things are designed to be used by people, and without a deep understanding of people, the designs are apt to be faulty, difficult to use, difficult to understand.
+- The meanings of today may not be the meanings of the future.
+- Cognition and emotion cannot be separated. Cognitive thoughts lead to emotions: emotions drive cognitive thoughts. The brain is structured to act upon the world, and every action carries with it expectations, and these expectations drive emotions. That is why much of language is based on physical metaphors, why the body and its interaction with the environment are essential components of human thought. Emotion is highly underrated. In fact, the emotional system is a powerful information processing system that works in tandem with cognition. Cognition attempts to make sense of the world: emotion assigns value. It is the emotional system that determines whether a situation is safe or threatening, whether something that is happening is good or bad, desirable or not. Cognition provides understanding: emotion provides value judgments. A human without a working emotional system has difficulty making choices. A human without a cognitive system is dysfunctional.
+- When people fail to follow these bizarre, secret rules, and the machine does the wrong thing, its operators are blamed for not understanding the machine, for not following its rigid specifications. With everyday objects, the result is frustration. With complex devices and commercial and industrial processes, the resulting difficulties can lead to accidents, injuries, and even deaths. It is time to reverse the situation: to cast the blame upon the machines and their design. It is the machine and its design that are at fault. It is the duty of machines and those who design them to understand people. It is not our duty to understand the arbitrary, meaningless dictates of machines.
+- If the system lets you make the error, it is badly designed.
+- With the passage of time, the psychology of people stays the same, but the tools and objects in the world change.
+- Design is successful only if the final product is successful—if people buy it, use it, and enjoy it, thus spreading the word. A design that people do not purchase is a failed design, no matter how great the design team might consider it.
+- Procedural knowledge is difficult or impossible to write down and difficult to teach. It is best taught by demonstration and best learned through practice.
+- A device is easy to use when the set of possible actions is visible, when the controls and displays exploit natural mappings.
+- Alas, sometimes clever people are too clever for our good. Some well-meaning plumbing designers have decided that consistency should be ignored in favor of their own, private brand of psychology.
+- Because retrieval is a reconstructive process, it can be erroneous. We may reconstruct events the way we would prefer to remember them, rather than the way we experienced them. It is relatively easy to bias people so that they form false memories, “remembering” events in their lives with great clarity, even though they never occurred. This is one reason that eyewitness testimony in courts of law is so problematic: eyewitnesses are notoriously unreliable. A huge number of psychological experiments show how easy it is to implant false memories into people’s minds so convincingly that people refuse to admit that the memory is of an event that never happened.
+- We are creative and imaginative, not mechanical and precise. Machines require precision and accuracy; people don’t. And we are particularly bad at providing precise and accurate inputs.
+- Some things can only be solved by massive cultural changes, which probably means they will never be solved.
+- Recognize that most of our interactions with products are actually interactions with a complex system: good design requires consideration of the entire system to ensure that the requirements, intentions, and desires at each stage are faithfully understood and respected at all the other stages.
+- Question everything. I am particularly fond of “stupid” questions. A stupid question asks about things so fundamental that everyone assumes the answer is obvious.
+- If the skill is easily automated, it wasn't essential.
+- We only need to remember sufficient knowledge to let us get our tasks done. Because so much knowledge is available in the environment, it is surprising how little we need to learn. This is one reason people can function well in their environment and still be unable to describe what they do.
+- Yet surprisingly in this era of screen-based devices, paper tools are still enormously popular and effective, as the number of paper-based diaries and reminders indicates.
+- Good design is actually a lot harder to notice than poor design, in part because good designs fit our needs so well that the design is invisible, serving us without drawing attention to itself.
+- Human intelligence is highly flexible and adaptive, superb at inventing procedures and objects that overcome its own limits. The real powers come from devising external aids that enhance cognitive abilities.
+- Design is concerned with how things work, how they are controlled, and the nature of the interaction between people and technology.
+- Creeping featurism is the tendency to add to the number of features of a product, often extending the number beyond all reason. There is no way that a product can remain usable and understandable by the time it has all of those special-purpose features that have been added in over time.
+- Root cause analysis is the name of the game: investigate the accident until the single, underlying cause is found. What this ought to mean is that when people have indeed made erroneous decisions or actions, we should determine what caused them to err. This is what root cause analysis ought to be about. Alas, all too often it stops once a person is found to have acted inappropriately. Basically, it means that when searching for the reason, even after you have found one, do not stop: ask why that was the case. And then ask why again. Keep asking until you have uncovered the true underlying causes. 
+- When companies try to increase sales by matching every feature of their competitors, they end up hurting themselves. After all, when products from two companies match feature by feature, there is no longer any reason for a customer to prefer one over another.
+- Often people will use their own conceptual models of the world to determine the perceived causal relationship between the thing being blamed and the result. The word perceived is critical: the causal relationship does not have to exist; the person simply has to think it is there.
+- So the hierarchy of goals is roughly: satisfy hunger; eat; cook; read cookbook; get more light. This is called a root cause analysis: asking “Why?” until the ultimate, fundamental cause of the activity is reached.
+- A conceptual model is an explanation, usually highly simplified, of how something works. It doesn’t have to be complete or even accurate as long as it is useful. 
+- It is amazing how often people solve the problem before them without bothering to question it.
+- Market-driven pressures plus an engineering-driven company yield ever-increasing features, complexity, and confusion. But even companies that do intend to search for human needs are thwarted by the severe challenges of the product development process, in particular, the challenges of insufficient time and insufficient money.
+- The most effective way of helping people remember is to make it unnecessary.
+- Technology does not make us smarter. People do not make technology smart. It is the combination of the two, the person plus the artifact, that is smart. Together, with our tools, we are a powerful combination. On the other hand, if we are suddenly without these external devices, then we don’t do very well. In many ways, we do become less smart.
+- Once again, the designer should assume that people will be interrupted during their activities and that they may need assistance in resuming their operations.
+- Never underestimate the power of social pressures on behavior, causing otherwise sensible people to do things they know are wrong and possibly dangerous.
+- To understand products, it is not enough to understand design or technology: it is critical to understand business.
+- So we must design our machines on the assumption that people will make errors.
+- Product development involves an incredible mix of disciplines, from designers to engineers and programmers, manufacturing, packaging, sales, marketing, and service.
+- Producing a good product requires a lot more than good technical skills: it requires a harmonious, smoothly functioning, cooperative and respectful organization.
+- When a new way of doing things is vastly superior to another, then the merits of change outweigh the difficulty of change. Just because something is different does not mean it is bad. If we only kept to the old, we could never improve.
+- Most of human behavior is a result of subconscious processes. We are unaware of them. As a result, many of our beliefs about how people behave—including beliefs about ourselves—are wrong. That is why we have the multiple social and behavioral sciences, with a good dash of mathematics, economics, computer science, information science, and neuroscience.
+- We need to remove the word failure from our vocabulary, replacing it instead with learning experience. To fail is to learn: we learn more from our failures than from our successes. With success, sure, we are pleased, but we often have no idea why we succeeded. With failure, it is often possible to figure out why, to ensure that it will never happen again.
+- Two of the most important characteristics of good design are discoverability and understanding.
+- Most radical ideas fail: large companies are not tolerant of failure. Small companies can jump in with new, exciting ideas because if they fail, well, the cost is relatively low.
+- Most new inventions fail. And even the few that succeed to take decades to do so.
+- In general, people tend to think of innovation as being radical, major changes, whereas the most common and powerful form of it is actually small and incremental. 
+- In the real world, the problems do not come in nice, neat packages. They have to be discovered. It is all too easy to see only the surface problems and never dig deeper to address the real issues.
+- Good designers never start by trying to solve the problem given to them: they start by trying to understand what the real issues are. As a result, rather than converge upon a solution, they diverge, studying people and what they are trying to accomplish, generating idea after idea after idea.
+- Human centered design is the process of ensuring that people’s needs are met, that the resulting product is understandable and usable, that it accomplishes the desired tasks, and that the experience of use is positive and enjoyable. Effective design needs to satisfy a large number of constraints and concerns, including shape and form, cost and efficiency, reliability and effectiveness, understandability and usability, the pleasure of the appearance, the pride of ownership, and the joy of actual use. HCD is a procedure for addressing these requirements, but with an emphasis on two things: solving the right problem, and doing so in a way that meets human needs and capabilities. 
+- The best products come from ignoring these competing voices and instead focusing on the true needs of the people who use the product.
+- True customer-centric and customer-driven companies (rather than competition-driven) can avoid feature-creep.

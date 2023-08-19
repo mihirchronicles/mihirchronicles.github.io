@@ -1,0 +1,42 @@
+---
+title: The Boron Letters by Gary Halbert
+date: "2020-10-12"
+path: "/bookshelf/the-boton-letters"
+---
+
+## I. Brief Summary
+
+The Boron Letters is a collection of letters written by Gary Halbert while being in prison. He wrote these letters to his son on how to become a great copywriter while also teaching the foundational principles of life. Gary is known as one of the best copywriters of all time. It is adequate to say he was the Jordan of his era. I found theses letters to be extremely readable and philosophical. Many argue that letters are outdated which I agree, but the foundational principles are still relevant. Bond whom the letters were written to adds a commentary section at the end of each letter. Bond is also a copywriter and shares his experience on how those lessons had impacted him. One thing for sure, these letters were Bond's greatest possession in life. Thoughtful letters like these should be written frequently by every father or mother to their kids.
+
+## II. Big Ideas
+
+- Gary calls out the importance of taking care of health and physical fitness which he calls it a “road work.“ Road work includes running, jogging or walking. There are two types of addictions—positive and negative. You want to focus on the positive which is working out, waking up early and eating well while avoiding negative addictions such as smoking or drinking. Focusing on improving the quality of life is worthwhile because how you feel affects how you think. This is especially important for writers of all type. Bond brings up an important point which is to try new things twice. It is true at first, things don't go well, but this is also when many people give up. The benefits are enormous on the other side of second attempt.
+- Gary avoided heavy breakfasts and worked better while eating very little to none. He only ate fruits which gave him fuel to bring the best work in the morning. He fasted and found great benefits to his health. Fasting helped reboot the system. He found eating smaller and leaner meals was a lot better than eating heavy meals.
+- He also goes over self-respect by taking care of own health. When you take care of yourself, one is broadcasting that the person has a self-respect. This also ensures relying on your own strength instead of somebody else's compassion. Gary clarifies to his son he is not recommending to being a macho. There is a clear distinction between having a self-respect and being a mean macho.
+- Gary focused on being tough and how to cope through nay-sayers. Essentially there was no benefit in dealing with negative people. For this reason, Gary wasted no time in dealing with people and went silently on accomplishing his goals.
+- Every now and then Gary would get interrupted in jail while writing these letters. He would stamp *STOP and Start Again (timestamp)* every time this would happen. I believe stuff like this what made Gary unique for his writings.
+- Gary stresses on becoming a student of markets, not products or copywriting. Gary says, “the money is where the enthusiasm is.”  The most important thing to learn is what people are buying not what they are saying. This is the most important lesson I took away from this book. People always struggle to give right answers because of their own biases and perceptions. Gary illustrates an example of two hamburger stands and he would dominate his stand as long as he can get a starving crowd. This is important in marketing and copywriting because focusing on hungry customers will help you sell more.
+- When curating a list of potential audience, focusing on customers who recently purchased something is valuable. Recency is very important when evaluating a list of customers.
+- Chapter 8 has many great lessons. One being the importance of resting when being *chronically tired* as opposed to being a *little tired*. The distinction is here important. No one feels like getting out of bed, but the ones who keep pushing forward are the ones making progress. But it would be stupid if you are just spinning wheels when you are absolutely tired.
+- Another lesson was we humans are full of ourselves. When doing market research, participants often convince themselves and others that they are something they are not. When writing an ad, you have to be careful of this behavior because you can fall into a trap of marketing and selling towards a wrong audience. Incentives are important to see what makes people move. In other words, what really motivates people? Not what they think motivates them?
+- Keep moving even when you feel emotionally drained. Sitting around and waiting for a flash to appear is a fairytale.
+- Chapter 11, 12 & 14 has great tactics on personalization. Customization is important to writing unique copies. No detail is too small or overlooked. A little originality goes a long way in promoting products. Reading great books multiple times can also help generate new ideas. Describing what you are doing at a moment while writing letters brings reader's attention. Also time stamping letters brings unique character to your copies. Gary illustrates writing a real estate copy in Hawaii in which he includes dirt bag from Hawaii.
+- A few of the strategies include Stamped Reply Envelope (SRE), Business Reply Envelope & Place Stamp Here (PSH). These pre-paid envelopes can remove extra steps from reader's plate so they can act on the offer.
+- Chapter 15 starts talking about writing an actual copy. Gary uses AIDA framework—attention, interest, desire and action. Bond mentions in his commentary section that this particular letter by far was the most pivotal. Gary emphasizes on the importance of using pen and paper while capturing bullet points from research work. He calls it “nugget notes.”
+- Chapter 17 is another important chapter in the book on producing the best writing by copying the best work. This imprints the process of good writing. To be great, you should not be above anything and continue to put in work and overcome lazy. This mentality was adopted by Arthur Haley for his book Roots. He wanted to write about crossing the ocean under horrible conditions. He traveled to ocean to experience the horrible conditions. He was already a great writer and he could've gotten by without taking on the trouble to visit the ocean. The book turned out to be one of the best sellers of all time. This story is a reminder of how greatness is achieved.
+- A good writer makes it easy for the reader with great clarity. Gary points out a unique insight which is the best writing goes unnoticed. But a bad writing will be noticed because the reader will never read it. Use proper parenthesis and propositions to capture reader's attention. Once done writing, read your copy out loud.
+- Chapter 18 & 19 discusses layout and first impression. Editorial layouts are important while writing copies. Layouts should be clean and crisp and should be a lot of contrast. Spacing, typography and sizing also makes a huge difference. Science plays a huge role because you have a fraction of a second to impress your reader. When readers are interested, eyes widen and pupils dilate.
+- Gary uses a framework called HALT—hungry, angry, lonely and tired, to prevent bad decision making. One should never make a decision when one is feeling any of this. Instead go for a run or a jog and write or talk. Road work and the physical act of writing or talking does the therapy to prevent making bad decisions. These emotional tools are still relevant today to prevent bad ego.
+- Use factual titles to make your reader's believe. For example, instead of using “Most Americans” write “78.6% of all Americans”.
+
+## III. Quotes
+
+- Nothing is as satisfying as self-reliance...I want you to be able to avoid fights without losing your dignity.
+- You must become a student of reality.
+- Competition is so lazy.
+- It doesn't matter how much you learn if you don't use what you learn.
+- The difference is awareness. Most people (at least many) walk around with their hands in the sand. They are lost in a fog. They go whichever way the current of the streams of their world happens to push them. They are sheep and they are regularly shorn.
+- Prison is a microcosm of society and weak fish are gobbled up fast...You can't waste time feeling sorry for yourself.
+- What determines the winners? It's how they play the cards that were dealt them.
+- Sweat the details.
+- What about the rest of the guys?...To hell with the rest of the guys!

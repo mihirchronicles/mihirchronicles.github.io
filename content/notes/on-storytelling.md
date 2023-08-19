@@ -1,0 +1,213 @@
+---
+title: "On Storytelling"
+date: "2022-05-20"
+tags: ["general"]
+draft: false
+path: "/notes/on-storytelling"
+---
+
+A realization that occurred to me recently that so much of the stuff is just made up. In the end, we are all storytelling animals. We make up stories to feel less lonely and use narratives to navigate through our emotions and chaotic world. But just not limited to coping through life, but stories are important to unite communities and people. Stories are also powerful in selling new ideas to the world. 
+
+Apple’s employee shared a story when he encountered Steve Jobs in a break room. Jobs shared the importance of storytelling.
+
+> I worked at NeXT the summer of 94. I was in the break room with 2 colleagues when Jobs walked in and started making a bagel. We were sitting at a table eating ours when he out of the blue asked us "Who is the most powerful person in the world?" I said Mandela since I had just been there as an international observer for the elections. In his confident fashion he stated "NO!...you are all wrong...the most powerful person in the world is the story teller." At this point I was thinking to myself "Steve, I love you but there is a fine line between genius and loco..and I think I am witnessing this right now". Steve continued, "The storyteller sets the vision, values and agenda of an entire generation that is to come and Disney has a monopoly on the storyteller business. You know what? I am tired of that bullshit, I am going to be the next storyteller" and he walked out with his bagel. — Tomas Higbey
+
+Steve Jobs famously said that we live in a world where things are made up. I did not understand that until recently because I was not equipped enough to process what Jobs meant. But now everywhere I look, more stories are to be found. “Making up” has negative connotation, but my interpretation is that stories allow us to stretch our imaginations. And if people can stretch their imaginations, they can conquer a lot of things in life despite the task being challenging.
+
+Crafting inspirational stories enable good behavior, communities to be change makers and enable decision makers. Storytelling has been critical in our evolutionary process.
+
+> If you're going to have a story, have a big story, or none at all. — Joseph Campbell
+
+## Sapiens
+
+Yuval Noah Harari, the author of Sapiens argues how important storytelling was in the success of us as humans, and in the success and survival of societies.
+
+> There are no gods in the universe, no nations, no money, no human rights, no laws, and no justice outside the common imagination of human beings.
+
+> A man can be convinced to die fighting for his nation for the promise of heaven; a monkey cannot be.
+
+**Biochemistry**: Our mental and emotional world is governed by biochemical mechanisms that have been shaped over millions of years of evolution. According to Harari, our subjective state of mind is not governed by external things such as wages and political rights. It is determined by complex systems of nerves, neurons and various biochemical substances such as serotonin, dopamine and oxytocin. Consequently, events such as winning the lottery, buying a new house, being promoted or finding love do not create happiness. People only become happy as a result of one thing: chemical reactions when different hormones flow through our body and electrical signals trigger various parts of our brain. Biologists are not super-fanatical, however; they recognize that psychological and sociological factors also play a role, but biochemistry is the most important factor.
+
+Unlike animals, humans live in a three-part reality. In the ‘double’ reality experienced by animals, they perceive objective items such as trees, rocky outcrops and rivers in combination with subjective experiences such as fear, joy and need. Our three-part reality also includes narratives about money, gods, nations and various operations such as companies and organizations.
+
+**Cognitive revolution**: Our basic skills have not changed significantly since the Stone Age, but the networks of different narratives have grown stronger and stronger and characterized our history from the Stone Age to our Digital Age. We have to understand how narratives about Jesus, France, Apple and Arsenal have become so influential. Our history gravitates around a network of such storytelling. It all started with the cognitive revolution 70,000 years ago. This was when Homo Sapiens gained the ability to tell about things that only existed in their imagination: fictions. 
+
+Based on this, Homo Sapiens were able to build and create communities based on a common belief among far more individuals than previously. Good stories provide power: it is the imagination of the collective, the ability to believe in something that is purely imaginary, that has helped to ensure that Homo Sapiens have dominated development. The individual or individuals who had and have the ability to tell good stories consequently gain power. Harari refers to this as culture-building.
+
+Without generally accepted narratives and descriptions of items such as money, nations and businesses, it is impossible, according to Harari, for complex human societies to exist. Chicago Bulls are only able to play basketball because everyone believes in and accepts the rules drawn up by NBA. And we can only get excited about Apple launching yet another new iPhone or feel safeguarded by a legal framework. 
+
+Yet these narratives are just tools, and Harari is clear that they should not be an end in themselves. If we forget that the narratives are just fiction, we lose touch with reality. Private businesses, money and nations only exist in our imagination. We invented them to serve us. The difference between a trademark and a brand is nothing more than emotion.
+
+**Trust is the byproduct of stories**: Belief creates community. And a community needs trust to hold on to a story that unites them.  Look at US Constitution. We fight over it, defend it and protect it. It is nothing but a piece of paper that has been foundational to American values. The foundation of religion, patriotism or human rights is based upon storytelling. So is commerce and business.  And if one story erodes, another one arises. The cycle of spinning narratives continues.
+
+Harari illustrate his point he talks about what he calls the most successful fictional story told— money. “Not everyone believes in God, or accepts the ideals of human rights or concepts like nationalism, but almost everybody believes in money. Osama bin Laden hated America, its politics, area and culture. But he was quite fond of American dollars. In fact, he had no objection to that story.”
+
+Money is an ultimate entity that requires trust. If that trust is broken, the entire system collapses.
+
+## Storytelling animal
+
+Jonathan Gottschall has written a wonderful book on this topic as well. The author of The Storytelling Animal investigates on the importance of storytelling and why we are wired the way we are. He has come to a similar conclusion that spinning stories is embedded in our DNA for survival and unification. Below are a few quotes from the book that captures the importance of storytelling.
+
+> Story is the glue of human social life.
+
+> Story is for a human as water is for a fish.
+
+> We are, as a species, addicted to story. Even when the body goes to sleep, the mind stays up all night, telling itself stories.
+
+> Human minds yield helplessly to the suction of story. No matter how hard we concentrate, no matter how deep we dig in our heels, we just can’t resist the gravity of alternate worlds.
+
+> If you are a doubter, try to be more tolerant of the myths—national and religious—that help tie culture together.
+
+> Don’t let moralists tell you that fiction degrades society’s moral fabric.
+
+> Humans evolved to crave story. This craving has, on the whole, been a good thing for us. Stories give us pleasure and instruction. They simulate worlds so we can live better in this one.
+
+> Stories are pleasurable because they allow us to escape. Life is hard; Neverland is easy.
+
+> Fiction is a powerful and ancient virtual reality technology that simulates the big dilemmas of human life.
+
+> Storytelling is the spine of televised sports.
+
+
+Below are major key takeaways from the book are:
+- Children are creatures of stories.
+- There are deep structures lead by gender roles.
+- Stories are trouble seeking.
+- Fiction help us escape.
+- We practice telling stories during our sleep.
+- We dream stories during both day and night.
+- There are dark side to stories.
+- Religion has played a vital role in storytelling.
+- When we read nonfiction, we read with our shields up (critical & skeptical). But when we are absorbed in a story, we drop our intellectual guard.
+- For every hero, there is a villain in a story.
+
+Gottschall's sums up the entire book with a master formula towards the end: 
+
+> Story = Character + Predicament + Attempted Extrication. This is story’s master formula, and it is intensely strange.
+
+## The best story wins
+
+> When a topic is complex, stories are like leverage. — Morgan Housel
+
+> Every investment is valued by taking a number from today and multiplying it by a story about tomorrow. — Morgan Housel
+
+Morgan Housel is one of the greatest storyteller of our times. He explains that the person who tells the most compelling story wins, not who has the best idea, or the right answer. The best story captures people’s attention. To illustrate this point, Housel asks to take a look at Tesla which is worth many folds more than Ford or GM, not because of its innovation or a good business, but because Elon Musk is good at getting people’s attention. The best story wins.
+
+This might drive someone crazy if they think the world operates on facts and objectivity. Great ideas explained poorly can go nowhere while old or wrong ideas told compellingly can ignite a revolution. Morgan Freeman or Neil deGrasse Tyson can narrate a grocery list and bring the audience to tears while an inarticulate scientist might cure disease and go unnoticed.
+
+> The best arguments in the world won’t change a single person’s mind. The only thing that can do that is a good story. — Richard Powers
+
+Richard Feynman was one of the greatest physicists, but an astounding storyteller. So was Albert Einstein. Facts and objectivity cannot alone win, but they knew how to leverage on great stories. Ken Burns, an American filmmaker once said:
+
+> The common stories are 1+1=2. We get it, they make sense. But the good stories are about 1+1=3.
+
+That is leverage!
+
+## Elements of a good story
+
+There are several organizations and people who have defined guardrails and frameworks to tell a great story. 
+
+**NPR**
+
+NPR (National Public Radio) is a public radio that does a great job of simplifying complex topics into a narrative form. Key lessons are:
+
+- Tightly focus your idea
+- Make that focus clear to listeners
+- Tell your audience what to expect (You’ll learn XX or discover what happens to this character/place/policy/etc.)
+- Create a sense of movement or momentum
+- Show, not tell
+- Before diving deep into a story, do the following:
+    - Ask a question
+    - Dive immediately into the narrative
+    - Introduce a mystery
+    - Establish the concept first
+    - Get personal
+
+**Pixar**
+
+Pixar storyboard artist Emma Coats has compiled a list of storytelling rules she learned while working for the animation video. Pixar films have inspired me for ages, so I find a lot of inspiration and wisdom in this list.
+
+- You admire a character for trying more than for their successes.
+- You have keep in mind what’s interesting to you as an audience, not what’s fun to do as a writer. They can be v. different.
+- Trying for theme is important, but you won’t see what the story is actually about til you’re at the end of it. Now rewrite.
+- Once upon a time there was __ . Every day, __ . One day __ . Because of that, __ . Because of that, __ . Until finally __ .
+- Simplify. Focus. Combine characters. Hop over detours. You’ll feel like you’re losing valuable stuff but it sets you free.
+- What is your character good at, comfortable with? Throw the polar opposite at them. Challenge them. How do they deal?
+- Come up with your ending before you figure out your middle. Seriously. Endings are hard, get yours working up front.
+- Finish your story, let go even if it’s not perfect. In an ideal world you have both, but move on. Do better next time.
+- When you’re stuck, make a list of what WOULDN’T happen next. Lots of times the material to get you unstuck will show up.
+- Pull apart the stories you like. What you like in them is a part of you; you’ve got to recognize it before you can use it.
+- Putting it on paper lets you start fixing it. If it stays in your head, a perfect idea, you’ll never share it with anyone.
+- Discount the 1st thing that comes to mind. And the 2nd, 3rd, 4th, 5th – get the obvious out of the way. Surprise yourself.
+- Give your characters opinions. Passive/malleable might seem likable to you as you write, but it’s poison to the audience.
+- Why must you tell THIS story? What’s the belief burning within you that your story feeds off of? That’s the heart of it.
+- If you were your character, in this situation, how would you feel? Honesty lends credibility to unbelievable situations.
+- What are the stakes? Give us reason to root for the character. What happens if they don’t succeed? Stack the odds against.
+- No work is ever wasted. If it’s not working, let go and move on - it’ll come back around to be useful later.
+- You have to know yourself: the difference between doing your best & fussing. Story is testing, not refining.
+- Coincidences to get characters into trouble are great; coincidences to get them out of it are cheating.
+- Exercise: take the building blocks of a movie you dislike. How d’you rearrange them into what you DO like?
+- You have to identify with your situation/characters, can’t just write ‘cool’. What would make YOU act that way?
+- What’s the essence of your story? Most economical telling of it? If you know that, you can build out from there.
+
+**Minto pyramid**
+
+Barbara Minto invented the Pyramid Principle. Her framework — Situation, Complication, Question, and Answer — became the foundation of modern executive communication. It might change your life how you conduct business and tell stories.
+
+The Minto Pyramid Principle came out of a frustration Barbara had while working at McKinsey (where she spent ten years, as the very first female management consultant). While at McKinsey, she noticed that people were awful at crafting persuasive arguments. They didn’t know how to structure their arguments, and they spent too much time upfront building up their case with data and facts. By the time they got to their final recommendation, the audience had already tuned out or been distracted by the details.
+
+What Barbara realized is that unlike a movie, where you want to build tension and wait until the very end for the big reveal, but in a business context you should do exactly the opposite: give away the punchline.
+
+Your colleagues aren’t looking to be entertained. They are busy. They want to get shit done. The solution: start with the answer. This is what is known Minto Pyramid Principle:
+
+- Start with the recommendation/answer/ask upfront
+- Back up that recommendation with a handful of supporting arguments
+- Back up each of those supporting arguments up with data
+
+I'll end this deep dive with this quote:
+
+> Logic is an invention of man and may be ignored by the universe. — Will Durant
+
+## Further reading
+<details>
+    <summary><strong>References</strong></summary>
+    <br>
+
+- Books
+    - [Sapiens by Yuval Noah Harari](https://themihirchronicles.com/bookshelf/sapiens)
+    - [The Storytelling Animal by Jonathan Gottschall](https://themihirchronicles.com/bookshelf/the-storytelling-animal)
+    - [The Science of Storytelling](https://www.goodreads.com/book/show/43183121-the-science-of-storytelling)
+- Pixar
+    - [Khan Academy Pixar](https://www.khanacademy.org/computing/pixar/storytelling)
+    - [Pixar Film: Soul](https://sparkandfire.com/soul/)
+    - [Emma Coats](https://twitter.com/lawnrocket?lang=en) on 22 rules of storytelling by Pixar
+- Ted Talks
+    - [The Magic Science of Storytelling by David JP Phillips](https://www.youtube.com/watch?v=Nj-hdQMa3uA)
+    - [We Are the Stories We Tell Ourselves by Shekhar Kapur](https://www.ted.com/talks/shekhar_kapur_we_are_the_stories_we_tell_ourselves)
+    - [The clues to a great story by Andrew Stanton](https://www.youtube.com/watch?v=KxDwieKpawg)
+    - [The mystery box by JJ Abrams](https://www.youtube.com/watch?v=vpjVgF5JDq8)
+    - [Uncovering the Structure of the Greatest Communicators by Nancy Duarte](https://www.youtube.com/watch?v=1nYFpuc2Umk&feature=emb_title)
+    - [The Danger of a Single Story by Chimamanda Ngozi Adichie](https://www.youtube.com/watch?v=D9Ihs241zeg)
+    - [The science of storytelling by Will Storr](https://www.ted.com/talks/will_storr_the_science_of_storytelling)
+- Inspiring Storytellers
+    - [Sir Ken Robinson](https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity?language=en)
+    - [Boyd Varty](https://www.youtube.com/watch?v=2hmATVhRD08)
+    - [Morgan Housel](https://twitter.com/morganhousel)
+    - [Oliver Jeffers](https://www.youtube.com/watch?v=gvgJJxUNU2Q&list=FLrlPaGQuKQiYMqpFYyc-40A&index=15)
+    - [Tina Roth Eisenberg](https://www.youtube.com/watch?v=Sk9sUoqiutQ)
+    - [Frank Abagnale](https://www.youtube.com/watch?v=vsMydMDi3rI&list=FLrlPaGQuKQiYMqpFYyc-40A&index=51)
+    - [Admiral McRaven](https://www.youtube.com/watch?v=yaQZFhrW0fU&list=FLrlPaGQuKQiYMqpFYyc-40A&index=28)
+    - [Doris Kearns Goodwin](https://www.youtube.com/watch?v=KzSAFJBLyn4)
+    - [Bill Gurley](https://www.youtube.com/watch?v=xmYekD6-PZ8&list=WL&index=4)
+    - Warren Buffett
+    - Charlie Munger
+    - Morgan Freeman
+    - Neil deGrasse Tyson
+- Other
+    - Steve Jobs on [storytelling](https://www.quora.com/What-are-the-best-stories-about-people-randomly-or-non-randomly-meeting-Steve-Jobs)
+    - [NPR](https://www.npr.org)
+    - [Minto Pyramid](https://www.harrisonmetal.com/library/storytelling-amp-presenting-1-thank-you-barbara-minto)
+    - [South Park creators on storytelling](https://twitter.com/david_perell/status/1286900697749889025)
+    - [Best speeches of all times](https://twitter.com/patrick_oshag/status/1499175362827272198)
+</details>
+<br />

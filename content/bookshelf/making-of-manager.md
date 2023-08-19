@@ -1,0 +1,113 @@
+---
+title: The Making Of A Manager | What To Do When Everyone Looks To You by Julie Zhuo
+date: "2023-05-26"
+path: "/bookshelf/making-of-manager.md"
+---
+
+## I. Brief Summary
+This is a great book for those who are exploring the path to go from individual contributor (IC) to a manager. Julie shares her own experiences while she was at Facebook (former VP of Design). Julie shares practical advice with a conversational tone. The book includes day-to-day tactics on what it takes to be an effective and action-oriented manager.
+
+## II. Big Ideas
+- A manager's job is to build a team. If you don’t have a good handle on yourself, you won’t have a good handle on how to best support your team.
+- A manager is a specific role. Leadership is the particular skill of being able to guide and influence other people. While the role of a manager can be given to someone (or taken away), leadership is not something that can be bestowed. It must be earned. People must want to follow you. A leader, on the other hand, doesn’t have to be a manager.
+- Great managers are made, not born.
+- The job of a manager is to get better outcomes from a group of people working together.
+- The tasks of a manager can be grouped into three buckets:
+    - Purpose: this is the why. What outcome is your team is trying to accomplish? Everyone on the team should have a similar answer to, "why does our work matter?" A huge part of your job as a manager is to "ensure your team knows what success looks like and cares about achieving it." 
+    - People: this is the who. Your job as a manager is to ensure that you hire the right people and create an environment where they can grow and thrive.
+    - Process: this is the how. When you work alone, you need no process; but when you are coordinating the work of a group of people, you do; and the more people, the more process you need. 
+- To evaluate how a manager is performing, focus on two things:
+    - What results (outcomes) did the team achieve? In what ways did they make the company and its customers more successful?
+    - How satisfied is the team? Is the team happy, working well together, and doing a good job of hiring and developing individuals?
+- Key questions to ask yourself to determine if you can be a great manager:
+    - Do I find it more motivating to achieve a particular outcome or play a specific role? As a manager, you may have to perform a huge variety of tasks to help your team achieve a specific outcome; as an individual contributor (IC), you typically play a single role the whole time, such as writing code or doing design work.
+    - Do I like talking with people? If you had to spend 70% of your day in meetings, what's your reaction? 
+    - Can I provide stability for an emotionally challenging situation? Your direct reports will bring their own experiences, motivations, hopes, fears, etc to the table. As a manager, you are going to have a lot of hard conversations: giving tough performance review feedback; letting someone go; and so on.
+- How to get people to do great work? A great way to think about this question is to flip it around. What gets in the way of doing good work? It really comes down to two possibilities:
+    - They don't know how to do good work. This is usually because the person lacks the training they need. A big part of being a manager is hiring people with the right skills; another big part is providing the environment and training where people can improve their skills.
+    - They know how to good work, but they aren't motivated. On possibility is that people don't know what good work looks like: defining standards of performance and providing lots of examples helps here. Another possibility is that they know exactly what good work looks like, but they aren't on board with what they are being asked to do. A huge part of management is inspiring people: if they aren't bought into the purpose, people will trudge along, and you won't get the best work from them. Note that you can't inspire people by just telling them to do something; the word "inspire" is not an accident—as a manager, you have to learn how to be inspirational.
+- All relationships are based on trust. If your employees don't trust you, or you don't trust them, you cannot work together effectively. Therefore, it's critical that employees know that you care about them, that you will always be honest with them, and they can always be honest with you. You know you've achieved this when the following three items are true:
+    - Your reports regularly bring their biggest challenges to your attention. "A hallmark of a trusting relationship is that people feel like they can share their mistakes, challenges, and fears with you." 
+    - You and your reports regularly give each other critical feedback and it isn't taken personally. The only way you and your direct reports can get better is if you can tell each other what isn't working. This can feel a little bit awkward; that's normal.
+    - Your reports would gladly work for you again. This is one of the biggest indicators of the strength of your relationship: would they sign up to work for you again?
+- Your job as a manager is to set clear expectations for each direct report before any work begins. In particular, right up front, you should define:
+    - What a great job looks like, versus a mediocre or bad job.
+    - What advice you have to get started on the right foot.
+    - Common pitfalls to avoid.
+- Your direct reports almost always want feedback; and you're probably not giving them enough of it. Make sure to give at least two types of feedback:
+    - Task-specific feedback: provide detailed feedback on specific tasks as often as you can, and as soon after the task was completed as possible. This should be akin to "coaching," where your goal is to help the person get better at that specific type of task.
+    - Behavior feedback: provide higher-level feedback on the themes and patterns you see across many tasks regularly, but not quite as often, and do it more thoughtfully. This is feedback on the employee's skills and career trajectory, and often indicates how you evaluate their performance, so while it's incredibly important to provide (and many managers fail to do it), it can also be more sensitive. Make sure to think through what you want to say, and have plenty of examples to back up what you're saying.
+- It's very easy for feedback to be misheard and not have the desired effect. The employee may perceive the feedback as a threat to their career, and when you're threatened, you go into a "flight or flight" reaction, where you'll experience a variety of physiological and neurological reactions (e.g., increased heart rate and blood pressure) that make it much harder to absorb information. The key to make sure your feedback is heard is to ensure the listener feels safe. There are several ways to make this happen:
+    - Make it clear that you care about the person you are talking to and want them to succeed. If you show any ulterior motive (e.g., you're just annoyed), your feedback won't get through.
+    - Share positive feedback along with the negative feedback. Recognizing what's going well, and not only the problems, is much more likely to change behavior.
+    - Share feedback with a sense of curiosity. For example, state your feedback, and then ask, "Does this feedback resonate with you? Why or why not?" This shows curiosity and a desire to understand; moreover, it gets the person to reflect, rather than just become defensive. 
+    - Repeat the message many times. Sometimes, you have to hear the same thing over and over before it has an effect. Share it in a 1:1; have others share it in 360 feedback; share it in writing; and so on. 
+    - Follow up to see if you were heard. At the end of the conversation, ask "OK, let's make sure we're on the same page: what are your key takeaways and next steps?"
+- Many people work with their managers solely as authority figures. The predominant emotion is, "don't mess up" and "don't let them see weaknesses and think I'm incompetent." This rarely leads to a healthy relationship. In fact, it may be a self-fulfilling prophecy: you're struggling, but you refuse to ask for help, so you keep struggling, and as you never get better, you ultimately are judged incompetent. A better model is to work with a manager as a coach. It would be crazy for an athlete to try to hide weaknesses from their coach. The same is true with managers. Good managers are their to help you get better: treat them as a coach, not a judge.
+- Defining a vision:
+    - One way to inspire a team is to share with them an inspiring vision of what the future will look like. A key point is that this vision must be concrete. It can't be squishy or vague. It should be bold and it should be instantly clear whether you've accomplished it. For example, compare a political vision like, "America will get wealthier" to "A chicken in every pot." You know you've done a good job defining the vision if you can ask 5 team members what the vision is, and they all say the same thing.
+- Hiring well: look for advocates, not consensus
+    - When interviewing a candidate, don't use consensus to make the hiring decision; everyone saying "hire," but no one being enthusiastic, often leads to weak hires who don't perform all that well. Instead, look for one or more passionate advocates who feel strongly about hiring the candidate and are willing to go to bat for them. That's usually a stronger signal of a strong hire.
+    - Hiring is super critical and should be done very well. “As a manager, one of the smartest ways to multiply your team’s impact is to hire the best people and empower them to do more and more until you stretch the limits of their capabilities”
+    - Plan intentionally and ahead of time—think about your future org chart ahead of time.
+    - Hiring is a manager’s responsibility. Work closely with the recruiting team and build an awesome relationship with them. Be super clear about what you’re looking for and make sure your recruiting team knows specifically what you’re looking for.
+    - Be aware that interview performance is not correlated with job performance. Try to understand candidates experience especially on similar projects in a similar environment. 
+- How to make things happen:
+    - Process is critical. It is not about light bulb moments — it is about trying quickly, being curious and doubling down on what is working.
+    - You need an ambitious, concrete, and specific vision for your team. If you ask 5 random people who have heard your vision to repeat it, would they be able to?
+    - Your strategy should acknowledge your team’s strengths and weaknesses.
+    - Prioritization is absolutely critical.
+    - Effort does not count; results are what matter.
+    - Ownership needs to be clear.
+    - People are biased to underestimate how long things will take—so buffer accordingly.
+    - Speed matters—move fast.
+    - Establish a culture where collective learning and resilience are critical. At the end of the day, a resilient organization is not one that never makes mistakes but rather one whose mistakes make it stronger over time.
+    - Describe over and over again the world you’d like to see. Try to connect every task, project, description or goal with the organization’s higher purpose.
+    - Codify processes into playbooks to save time — this will also ensure that you’re not a bottleneck when you are on vacation or if/when you leave.
+- One-On-One tips:
+    - I recommend no less than a weekly 1:1 with every report for thirty minutes, and more time if needed.
+    - One-on-ones should be focused on your report and what would help him be more successful, not on you and what you need.
+    - If you’re looking for a status update, use another channel.
+    - Rare one-on-one face time is better spent on topics that are harder to discuss in a group or over email.
+    - The ideal 1:1 leaves your report feeling that it was useful for her. If she thinks that the conversation was pleasant but largely unmemorable, then you can do better.
+    - I tell my reports that I want our time together to be valuable, so we should focus on what’s most important for them. 
+    - Discuss top priorities: What are the one, two, or three most critical outcomes for your report and how can you help her tackle these challenges?
+- One-On-One questions:
+    - Identify:
+        - What’s top of mind for you right now? 
+        - What priorities are you thinking about this week? 
+        - What’s the best use of our time today? 
+    - Understand: 
+        - What does your ideal outcome look like?
+        - What’s hard for you in getting to that outcome? 
+        - What do you really care about? 
+        - What do you think is the best course of action? What’s the worst-case scenario you’re worried about? 
+    - Support:
+        - How can I help you? 
+        - What can I do to make you more successful? 
+        - What was the most useful part of our conversation today?
+## III. Quotes
+- The job of a manager...is to turn one person’s particular talent into performance.
+- I learned then one of my first lessons of management—the best outcomes come from inspiring people to action, not telling them what to do.
+- At the end of the day, a resilient organization isn’t one that never makes mistakes but rather one whose mistakes make it stronger over time.
+- Your role as a manager is not to do the work yourself, even if you are the best at it, because that will only take you so far. Your role is to improve the purpose, people, and process of your team to get as high a multiplier effect on your collective outcome as you can.
+- This is the crux of management: It is the belief that a team of people can achieve more than a single person going it alone. It is the realization that you don’t have to do everything yourself, be the best at everything yourself, or even know how to do everything yourself. Your job, as a manager, is to get better outcomes from a group of people working together.
+- People will forget what you said, people will forget what you did, but people will never forget how you made them feel, goes the popular saying.
+- There is one quality that sets truly great managers apart from the rest: they discover what is unique about each person and then capitalize on it.
+- One day, you hear someone shouting rudely at a teammate. If you do nothing, you risk sending the message that you tolerate this kind of behavior. Instead, defuse tensions in the moment by asking the shouter to calm down or help them leave the room. Later, in private, tell them that what they did is unacceptable.
+- Your job, as a manager, is to get better outcomes from a group of people working together.
+- Remember our definition of management? A manager’s job is to get better outcomes from a group of people working together through influencing purpose, people, and process.
+- The first big part of your job as a manager is to ensure that your team knows what success looks like and cares about achieving it.
+- People’s dissatisfaction will fester beneath the surface until one day they surprise you with their resignation. And most of the time when that happens, they’re not just quitting your company, they are also quitting you.
+- What leads people to do great work? It feels like a complicated question but it really isn’t, as Andy Grove points out in his classic High Output Management. He flips the question around and asks: What gets in the way of good work? There are only two possibilities. The first is that people don’t know how to do good work. The second is that they know how, but they aren’t motivated.
+- A lot of this work is unglamorous. But because it’s important, it must be done, and if nobody else does it, then it falls to you.
+- Nothing worthwhile happens overnight. Every big dream is the culmination of thousands of tiny steps forward.
+- As the team grows in size, it matters less and less how good she is personally at doing the work herself. What matters more is how much of a multiplier effect she has on her team. So how does this work in practice?
+- You have to enjoy the day-to-day of management and want to do it.
+- What caring does mean, however, is doing your best to help your report be successful and fulfilled in her work. It means taking the time to learn what she cares about.
+- If the outcome you care about is getting amazing design, then a great manager’s team will consistently deliver concepts that wow. A mediocre manager’s team will produce work that gets the job done but doesn’t stand out. A bad manager’s team will regularly suggest proposals that make you think, Surely we can do better than this.
+- Your success managing others is dependent on how well you can manage yourself.
+- Imposter syndrome is what makes you feel as though you’re the only one with nothing worthwhile to say when you walk into a room full of people you admire.
+- My friend Mark Rabkin shared a tip with me that I love: strive for all your one-on-one meetings to feel a little awkward. Why? Because the most important and meaningful conversations have that characteristic. It isn’t easy to discuss mistakes, confront tensions, or talk about deep fears or secret hopes, but no strong relationship can be built on superficial pleasantries alone.
+- The most precious resource you have is your own time and energy, and when you spend it on your team, it goes a long way toward building healthy relationships. This is why one-on-one meetings (“1:1s” for short) are such an important part of management. I recommend no less than a weekly 1:1 with every report for thirty minutes, and more time if needed.
+- Plans are worthless, but planning is everything — Dwight D. Eisenhower

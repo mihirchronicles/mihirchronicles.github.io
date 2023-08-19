@@ -1,0 +1,109 @@
+---
+title: Continuous Discovery Habits | Discover Products That Create Customer Value & Business Value by Teresa Torres
+date: "2023-06-27"
+path: "/bookshelf/continuous-discovery-habits"
+---
+
+## I. Brief Summary
+If you haven’t had the good fortune to be coached by a strong leader or product coach, this book can help fill that gap and set you on the path to success.
+
+## II. Big Ideas
+- Discovery isn’t a one-time activity. A digital product is never done.
+- Product Manager's work: work that you do to decide what to build as _discovery_ and the work that you do to build and ship a product as _delivery_.
+- Most successful digital products today are conceived, designed, built, and delivered by a cross-functional team composed of product managers, designers, and software engineers. Product managers bring the business context—they help teams ensure that the products they are building are viable for the business.
+- Agile Manifesto: The authors of the Agile manifesto advocated for shorter cycles with more frequent customer feedback. Second, they proposed working at a pace that could be sustained continuously, rather than furiously scurrying from one milestone to another. Third, they advocated for maximum flexibility—having the ability to adapt to customer feedback quickly and easily. And fourth, they advocated for simplicity.
+- There are six mindsets that must be cultivated to successfully adopt the habits outlined in this book.
+    - Outcome-oriented. Focusing on outcome rather than output.
+    - Customer-centric. Really understanding your customers.
+    - Collaborative. Getting the right people involved in discovery.
+    - Visual. Using the opportunity solution tree, among other tools to map-out what you want to learn in discovery.
+    - Experimental. Making the process hypothesis-driven and learning all the time.
+    - Continuous. Making discovery an ongoing part of business-as-usual rather than a one-off activity.
+- Starting with outcomes, rather than outputs (features), is what lays the foundation for product success.
+- Opportunity space represent customer needs, pain points, and desires collectively. Problems need fixing, but desires don't. Desires are equally important. For example, ice cream on a hot summer day.
+    - The implication for product trios is that two of the most important steps for reaching our desired outcome are first, how we map out and structure the opportunity space, and second, how we select which opportunities to pursue. Unfortunately, many product trios skip these steps altogether.
+- Ill-structured problems are defined by having many solutions. There are no right or wrong answers, only better or worse ones. How we frame an ill-structured problem impacts how we might solve it.
+- Product teams often have to do some discovery work to identify the connections between product outcomes (the metrics they can influence) and business outcomes (the metrics that drive the business). OKRs is one way to measure it.
+- The key distinction with this strategy over traditional roadmaps is that we are giving the team the autonomy to find the best solution.
+- A fixed roadmap communicates false certainty. An outcome communicates uncertainty.
+- The product trio brings customer and technology knowledge to the conversation and should communicate how much the team can move the metric in the designated period of time (usually one calendar quarter). The trio should not be required to communicate what solutions they will build at this time, as this should emerge from discovery.
+- Thinking in the structure of trees:
+    - It helps us deconstruct large, intractable problems into a series of smaller, more solvable problems.
+    - The value of breaking big opportunities into a series of smaller opportunities is twofold. 
+        - First, it allows us to tackle problems that otherwise might seem unsolvable. 
+        - Second, it allows us to deliver value over time. That second benefit is at the heart of the Agile manifesto and is a key tenet of continuous improvement.
+- Researchers measure creativity using three primary criteria: fluency (the number of ideas we generate), flexibility (how diverse the ideas are), and originality (how novel an idea is).
+- Downward norm setting—the performance of the group tends to be limited to the lowest-performing member. Rather than the strongest member raising everyone else up, the opposite happens. The weakest member brings everyone else down. These factors combined to inhibit the performance of the brainstorming groups as compared to the individuals who generated ideas alone.
+- The biggest barrier to testing assumptions is becoming aware of the assumptions we are making. sizes. As product trios, we are primarily concerned with assumptions in the following categories:
+    - Desirability assumptions: Does anyone want it? Will our customers get value from it?
+    - Viability assumptions: Should we build it?
+    - Feasibility assumptions: Can we build it?
+    - Usability assumptions: Is it usable? Can customers find what they need? Will
+    - Ethical assumptions: Is there any potential harm in building this idea? This is an area that is grossly underdeveloped for many product trios.
+- A strong assumption test simulates an experience, giving your participant the opportunity to behave either in accordance with your assumption or not. This behavior is what allows us to evaluate our assumption.
+- Do not measure everything otherwise your team will get stuck trying to measure everything. Instead, measure impact on your desired outcome.
+- Action items from the book:
+    - Opportunity solution tree (OST): Opportunity solution trees are a simple way of visually representing the paths you might take to reach a desired outcome. The root of the tree is your desired outcome—the business need that reflects how your team can create business value. Opportunity solution trees help you resolve the tension between business needs and customer needs. As you embark on the wandering paths of discovery, your tree will act as your roadmap, helping you find the best path to your desired outcome.
+    - Skipping “whether or not” decision is when we frame a problem as “Should we do this or not?” Instead of framing our decisions as “whether or not” decisions, develop a “compare and contrast” mindset. Instead of asking, “Should we solve this customer need?” we’ll ask, “Which of these customer needs is most important for us to address right now?” We’ll compare and contrast our options.
+    - A business outcome (for example, retention) measures how well the business is progressing. A product outcome (for example, customers like your ice cream) measures how well the product is moving the business forward. A traction metric measures usage of a specific feature (for example, customers like the waffle cones) or workflow in the product.
+    - Experience map: An experience map that reflects what you know about your customers’ experience today while answering outcome questions. Each individual comes up with their own visuals. Then the team combines all of their maps together. This shared map will guide your customer interviews, and it will help give structure to the opportunity space. It can and should evolve week over week as your team learns about your customers.
+    - Interview snapshot: An interview snapshot is a one-pager designed to help you synthesize what you learned in a single interview. It’s how you are going to turn your copious notes into actionable insights. Your collection of snapshots will act as a reference or index to the customer knowledge bank you are building through continuous interviewing.
+    - Opportunity assessment: teams assess opportunities using the following criteria: opportunity sizing, market factors, company factors, and customer factors.
+        - Opportunity sizing helps us answer the questions: How many customers are affected and how often?
+        - Market factors help us evaluate how addressing each opportunity might affect our position in the market.
+        - Company factors help us evaluate the strategic impact of each opportunity for our company, business group, or team.
+        - Customer factors help us evaluate how important each opportunity is to our customers.
+    - One-way door & two-way decisions:
+        - With a one-way door decision, the idea is that, when we make the decision, we walk through the door. Upon entering the space on the other side of the door, we are able to see the consequences of our decisions. Unfortunately, because it’s a one-way door, if we don’t like what we see, we can’t turn around and walk out through the door again. This is what Bezos calls a “Level 1 decision.” For these types of decisions, we want to be cautious, data-driven, and deliberate in our decision-making.
+        - With a two-way door decision, on the other hand, when we walk through the door, if we don’t like what we see, we get to turn around and undo our decision. This is what Bezos calls a “Level 2 decision.” He suggests that, with a two-way door decision, we’ll learn more by acting—walking through the door and seeing what’s on the other side—than we would by trying to imagine what’s on the other side of the door.
+        - Jeff Bezos, founder and CEO of Amazon, made this exact argument in his 2015 letter to shareholders,33 where he introduced the idea of Level 1 and Level 2 decisions. He describes a Level 1 decision as one that is hard to reverse, whereas a Level 2 decision is one that is easy to reverse. Bezos argues that we should be slow and cautious when making Level 1 decisions, but that we should move fast and not wait for perfect data when making Level 2 decisions.
+    - Alex Osborn 4 rules on brainstorming session: focus on quantity, defer judgement (separate idea generation from idea evaluation), welcome unusual ideas and combine and improve ideas.
+    - Story mapping to get clarity: one of the best ways to align as a team around what your ideas mean is to story map them. Story mapping is a popular technique in which teams map out each step end-users have to take to get value from a product or service.49 Story mapping forces you to get specific about how an idea will work and what you expect your end-users will do. While many teams use story mapping to align around product requirements, it’s also a great technique for helping us to surface underlying assumptions. To story map your ideas:
+        - Start by assuming the solution already exists.
+        - Identify the key actors.
+        - Map out the steps each actor has to take for anyone to get value from the solution.
+        - Sequence the steps horizontally over time.
+    - Communicating with stakeholders. When we show our work, we are inviting our stakeholders to co-create with us.
+        - When meeting with stakeholders, don’t start with your conclusions. Instead, slow down and show your work.
+        - When meeting with stakeholders, start at the top of your tree. Remind your stakeholders what your desired outcome is. Ask them if anything has changed since you last agreed to this outcome. This sets the scope for the conversation.
+        - Share how you mapped out the opportunity space. Highlight the top-level opportunities.
+        - Share how you assessed and prioritized the opportunity space. Use the tree structure to walk through each decision you made.
+        - Share more context about your target opportunity. Help them fully understand the customer need or pain point you intend to address. Use your interview snapshots to help your stakeholders empathize with your customers.
+        - Share the solutions you generated. Ask them if they have any of their own ideas. Make sure you capture and consider them. Share the set of three solutions you plan to move forward with.
+        - Share your assumption map. Be sure to add any of the assumptions that your stakeholders identified. Ask them if they would have prioritized the assumptions differently. Make adjustments as needed.
+        - Share your assumption tests. If you have data, share the data. Otherwise, share your execution plans. Ask for feedback. Consider and integrate their feedback.
+    - Make a habit talking to your customers on daily.
+
+## III. Quotes
+- “Product trio” refers to a product manager, a designer, and a software engineer working together to develop products for their customers.
+- Our goal with continuous discovery is to infuse those daily decisions with as much customer input as possible.
+- Businesses do need to make a profit. That’s required for their survival. However, profit should not come at the cost of serving the customer.
+- Many companies put a heavy emphasis on delivery—they focus on whether you shipped what you said you would on time and on budget—while under-investing in discovery, forgetting to assess if you built the right stuff. This book aims to correct for that imbalance.
+- And finally, teams continued to be measured by what they delivered, not whether anyone used it or if it created any value for the customer or the business.
+- There is huge pressure to solve customer problems and drive business value.
+- We shifted away from a more superficial understanding of our customers. Instead of relying on heavy, infrequent research, we developed a deeper understanding of the customer’s needs, problems, and desires through regular contact and lightweight research methods.
+- Shifting from a project mindset to a continuous mindset is hard.
+- We tend to take our six-month-long waterfall project, carve it up into a series of two-week sprints, and call it “Agile.” But this isn’t Agile. Nor is it continuous. A continuous mindset requires that we deliver value every sprint. We create customer value by addressing unmet needs, resolving pain points, and satisfying desires.
+- We want to ask: “Based on my current understanding of my customer, I thought this solution would work. It didn’t. What did I misunderstand about my customer?”
+- Customer retention during the first 90 days of service was a critical indicator of long-term retention.
+- The purpose of customer interviewing is not to ask your customers what you should build. Instead, the purpose of an interview is to discover and explore opportunities.
+- During a workshop, I asked a woman what factors she considered when buying a new pair of jeans. She didn’t hesitate to answer. She said, “Fit is my number-one factor.” I then asked her to tell me about the last time she bought a pair of jeans. She said, “I bought them on Amazon.” I asked, “How did you know they would fit?” She replied, “I didn’t, but they were a brand I liked, and they were on sale.” What’s the difference between her two responses? Her first response tells me how she thinks she buys a pair of jeans. Her second response tells me how she actually bought a pair of jeans. This is a crucial difference. She thinks she buys a pair of jeans based on fit, but brand loyalty, the convenience of online shopping, and price (or getting a good deal) were more important when it came time to make a purchase....These participants aren’t lying. We just aren’t very good at understanding our own behavior....Instead of asking, “What criteria do you use when purchasing a pair of jeans?”—a direct question that encourages our participant to speculate about their behavior—we want to ask, “Tell me about the last time you purchased a pair of jeans.”
+- Direct questions require that we recall facts without context. This process is prone to cognitive biases—common patterns in mental errors that result from the way our brains process information.23 We are bad at quantifying how often we do something. We often speculate about what we did, when, and why. We tend to favor generalities over specifics. We give answers that are influenced more by our sense of identity rather than our actual behavior. And we tend to come up with coherent reasons to explain our behavior that are often not grounded in reality. To be clear, this behavior is a function of how our brains work and not the result of interview participants trying to deceive us. In fact, many of these biases come into play because our interview subjects are trying to be helpful.
+- The left hemisphere was being asked to provide a rationalization for a behavior done by the right hemisphere. The left hemisphere didn’t know the answer. But that didn’t keep the left hemisphere from fabricating an answer. That answer, however, had no basis in reality.
+- Gazzaniga’s study means you can’t simply ask your customers about their behavior and expect to get an accurate answer. Most will obligingly give you what sounds like a reasonable answer. But you won’t know if they are telling you about their ideal behavior or their actual behavior.
+- Our failure wasn’t due to a lack of research. It was because we asked our customers the wrong questions. We built a product based on a coherent story told by both the thought leaders in our space and by our customers themselves. But it wasn’t a story that was based in reality. If you want to build a successful product, you need to understand your customers’ actual behavior—their reality—not the story they tell themselves.
+- The key to interviewing well is to distinguish what you are trying to learn (your research questions) from what you ask in the interview (your interview questions).
+- Our primary research question in any interview should be: What needs, pain points, and desires matter most to this customer?
+- You’ll want to tailor the scope of the question based on what you need to learn at that moment in time. A narrow scope will help you optimize your existing product. Broader questions will help you uncover new opportunities. The broadest questions might help you uncover new markets. The appropriate scope will depend on the scope you set when creating your experience map.
+- Weekly interviewing is foundational to a strong discovery practice. Interviewing helps us explore an ever-evolving opportunity space. Customer needs change. New products disrupt markets. Competitors change the landscape. As our products and services evolve, new needs, pain points, and desires arise. A digital product is never done, and the opportunity space is never finite or complete.
+- Our goal should be to address the customer opportunities that will have the biggest impact on our outcome first.
+- Trees depict two key relationships—parent-child relationships and sibling relationships. Both will help us make sense of the messy opportunity space....Sibling relationships help us make sense of similar opportunities like “I want to watch my shows on my flight” and “I want to watch my shows on my train commute.” We can easily depict both on our tree under the parent opportunity “I want to watch my shows on the go.” This allows us to treat each context (e.g., plane, train) as a specific need to address, while also visualizing the similarities. They are both sub-opportunities of the same parent.
+- Product strategy happens in the opportunity space. Strategy emerges from the decisions we make about which outcomes to pursue, customers to serve, and opportunities to address. Sadly, the vast majority of product teams rush past these decisions and jump straight to prioritizing features. We obsess about the competition instead of about our customers. Our strategy consists of playing catch-up, and, no matter how hard we work, we always seem to fall further and further behind.
+- Wisdom is finding the right balance between having confidence in what you know and leaving enough room for doubt in case you are wrong.
+- It’s important that we frame our discovery decisions as two-way door, reversible decisions.
+- When we run fast iterations, we are in a better position to make decisions using multiple data points from several tests rather than make decisions based on a single data point.
+- There is a cost to false negatives and false positives. And we should be aware that these costs exist. But the cost is not so great that we should be starting with large-scale, quantitative experiments every time. If we did that, we would never ship any software. Our tests would simply take too long. The vast majority of the time, you will learn plenty from your small-scale tests.
+- Product teams, fortunately, are not creating new knowledge. Instead, we are trying to create products that improve our customers’ lives....So, while we want to adopt a scientific mindset and we want to think about the reliability and the validity of the data that we collect, we are not running scientific experiments.
+- This is why we say discovery feeds delivery and delivery feeds discovery. They aren’t two distinct phases. You can’t have one without the other.
+- It’s counterintuitive, but when instrumenting your product, don’t try to measure everything from the start. You’ll quickly get overwhelmed. You’ll spend weeks debating what events to track, how to name your events, and who is responsible for what before you even get started. This is a waste of time. There is no way to know from the outset how you should set everything up. No matter how much planning you do, you’ll make mistakes.
+- Instead of asking for permission or waiting for someone to show you how, start small. Iterate from there. I made a career doing that, and I’ve coached hundreds of others to do the same.
