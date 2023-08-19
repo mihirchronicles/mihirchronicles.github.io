@@ -8,6 +8,7 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
+  pathPrefix: "/mihirchronicles-site",
   siteMetadata: {
     title: `The Mihir Chronicles`,
     author: {
@@ -152,5 +153,4 @@ module.exports = {
       },
     },
   ],
-  pathPrefix: "/mihirchronicles-site",
 }
