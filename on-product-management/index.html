@@ -517,18 +517,61 @@
 </ul>
 </li>
 <li>
-<p><strong>SQL Queries</strong>: Basics queries to retrieve data:</p>
+<p><strong>Analytical skills</strong>: Being analytical isn’t only about numbers. It is about developing healthy skepticism and curiosity, validating your hypothesis (and having a hypothesis in the first place) and vetting with multiple data points to get closer to the truth. It gives you a competitive edge, and you will learn to make informed decisions.</p>
+<ul>
+<li>Retrieve: First, you need to learn how to get data. SQL is most common in work places. Basic SQL queries to retrieve data:
 <ul>
 <li>SQL commands are not case-sensitive, but it is a good practice.</li>
 <li><code class="language-text">SELECT first_name , last_name, ex_age FROM executions WHERE first_name = 'Hello' AND last_name LIKE '%World%'</code>
 <ul>
-<li>The <code class="language-text">SELECT</code> block specifies which columns you want to output. Its format is <code class="language-text">SELECT &lt;column>, &lt;column></code>, .... Each column must be separated by a comma, but the space following the comma is optional. The star (ie. <code class="language-text">*</code>) is a special character that signifies we want all the columns in the table.</li>
+<li>The <code class="language-text">SELECT</code> block specifies which columns you want to output. Its format is <code class="language-text">SELECT &lt;column>, &lt;column></code>, .... Each column must be separated by a comma, but the space following the comma is optional. The star (<code class="language-text">*</code>) is a special character that signifies we want all the columns in the table.</li>
 <li>The <code class="language-text">FROM</code> block specifies which table we’re querying from. Its format is <code class="language-text">FROM &lt;table></code>. It always comes after the <code class="language-text">SELECT</code> block.</li>
 <li>The <code class="language-text">WHERE</code> block allows us to filter the table for rows that meet certain conditions. Its format is <code class="language-text">WHERE &lt;clause></code> and it always goes after the <code class="language-text">FROM</code> block. A clause refers to a Boolean statement that the computer can evaluate to be true or false.</li>
 <li>The most powerful of these is probably <code class="language-text">LIKE</code>. It allows us to use wildcards such as <code class="language-text">%</code> and <code class="language-text">_</code> to match various characters.</li>
 </ul>
 </li>
 <li>Complex clauses can be made out of simple ones using Boolean operators like <code class="language-text">NOT</code>, <code class="language-text">AND</code> and <code class="language-text">OR</code>. SQL gives most precedence to <code class="language-text">NOT</code> and then <code class="language-text">AND</code> and finally <code class="language-text">OR</code>.</li>
+</ul>
+</li>
+<li>Analyze: Basics of analytical thinking:
+<ul>
+<li>Patterns: See the norm, what sticks out, what needs a second look. Get a lay of the land, so you can start developing a point of view. To solve the puzzle, ask yourself the following questions:
+<ul>
+<li>What is “normal” around here?</li>
+<li>What sticks out?</li>
+<li>Why is it sticking out?</li>
+<li>How much does it stick out vs everything else?</li>
+</ul>
+</li>
+<li>Nuances: It is powerful to see nuances when other people just see a binary yes or no. You want to be able to say— “This works for x situations, but not for y situations.”</li>
+<li>Absolute numbers &#x26; percentages: If you only look at absolute numbers, big numbers will seem good and small numbers will seem bad. If you look at percentages, you’ll see the relationship between the parts and the whole.</li>
+<li>Variance: Variance is about change. Change from the baseline &#x26; changes over time.
+<ul>
+<li>How much did this change month over month?</li>
+<li>This month vs this month last year?</li>
+<li>Was the variance in line with industry growth—or did it outpace or lag comparatively?</li>
+</ul>
+</li>
+<li>Expected vs actual: “Wow, we drove 19% growth!” might seem like good news, unless you forecasted 30% growth. This is where looking at expected vs actual numbers is useful. If you compare the two, you can better understand how good performance really is.</li>
+<li>Percent contribution to whole:
+<ul>
+<li>Money: “This accounts for 70% of total $.”</li>
+<li>Volume: “This accounts for 17% of units.”</li>
+<li>Top hits: “These 10 items drove 80% of new visitors.”</li>
+</ul>
+</li>
+<li>Peaks: Identify peaks and valleys, i.e. the highest or lowest something has ever been. This helps you see the range, which helps you get grounded. If you have new assets or levers to pull, you can say, “We'll beat the highest we've done because x.”</li>
+<li>Check in on margins: revenues don't alone matter much without cash flows.</li>
+<li>Verify your biases by analyzing your data processing mechanics to ensure you are not building a data set to validate your own assumptions.</li>
+<li>Look for clues by asking:
+<ul>
+<li>Why is this happening?</li>
+<li>What is the impact?</li>
+<li>What should we do about it (if anything)?</li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
@@ -572,4 +615,4 @@
           >
             window.___chunkMapping="{\"app\":[\"/app-917390d9e25b86066f9c.js\"],\"component---src-pages-404-js\":[\"/component---src-pages-404-js-1ef52b78452777f89323.js\"],\"component---src-pages-about-js\":[\"/component---src-pages-about-js-66f9e7d929b714e57ab5.js\"],\"component---src-pages-art-js\":[\"/component---src-pages-art-js-88fa9b0c3fd20cf0c37e.js\"],\"component---src-pages-bookshelf-js\":[\"/component---src-pages-bookshelf-js-3d854694505e551db580.js\"],\"component---src-pages-essays-js\":[\"/component---src-pages-essays-js-2fa665f98358cbd28368.js\"],\"component---src-pages-index-js\":[\"/component---src-pages-index-js-f0be03e5a07034110350.js\"],\"component---src-pages-notes-js\":[\"/component---src-pages-notes-js-e2f46f20ca365974cbc4.js\"],\"component---src-pages-work-js\":[\"/component---src-pages-work-js-562516394f548adea07d.js\"],\"component---src-templates-blog-post-js\":[\"/component---src-templates-blog-post-js-8a2fd3263b302bc6fac2.js\"]}";
           </script>
-        <script>window.___webpackCompilationHash="623148922aae86ffa966";</script><script src="/webpack-runtime-42b47edb733a3505cc63.js" async></script><script src="/framework-ef3424a78eb1f95e334f.js" async></script><script src="/app-917390d9e25b86066f9c.js" async></script><!-- slice-end id="_gatsby-scripts-1" --></body></html>
+        <script>window.___webpackCompilationHash="68332fba31a783b67a69";</script><script src="/webpack-runtime-42b47edb733a3505cc63.js" async></script><script src="/framework-ef3424a78eb1f95e334f.js" async></script><script src="/app-917390d9e25b86066f9c.js" async></script><!-- slice-end id="_gatsby-scripts-1" --></body></html>

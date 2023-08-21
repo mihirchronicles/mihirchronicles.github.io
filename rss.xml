@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 19 Aug 2023 20:17:27 GMT</lastBuildDate><item><title><![CDATA[Bird That Keeps Building]]></title><description><![CDATA[Does a bird need a plan to build its nest? It does not have an architectural plan. It does not have a wireframe. Neither does it care about…]]></description><link>https://mihirchronicles.com/bird-that-keeps-building/</link><guid isPermaLink="false">https://mihirchronicles.com/bird-that-keeps-building/</guid><pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Does a bird need a plan to build its nest?&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 21 Aug 2023 13:14:42 GMT</lastBuildDate><item><title><![CDATA[Bird That Keeps Building]]></title><description><![CDATA[Does a bird need a plan to build its nest? It does not have an architectural plan. It does not have a wireframe. Neither does it care about…]]></description><link>https://mihirchronicles.com/bird-that-keeps-building/</link><guid isPermaLink="false">https://mihirchronicles.com/bird-that-keeps-building/</guid><pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Does a bird need a plan to build its nest?&lt;/p&gt;
 &lt;p&gt;It does not have an architectural plan. It does not have a wireframe. Neither does it care about a business plan nor a deadline.&lt;/p&gt;
 &lt;p&gt;A bird just keeps building to lay its eggs.&lt;/p&gt;
 &lt;p&gt;It starts building a nest by weaving together grass and twigs to form a basket and use binding material such as mud to hold its nest.&lt;/p&gt;
@@ -11600,18 +11600,61 @@ Author Robert Cialdini (Ph.D.) explores the mental bias of reciprocation tendenc
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;SQL Queries&lt;/strong&gt;: Basics queries to retrieve data:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Analytical skills&lt;/strong&gt;: Being analytical isn’t only about numbers. It is about developing healthy skepticism and curiosity, validating your hypothesis (and having a hypothesis in the first place) and vetting with multiple data points to get closer to the truth. It gives you a competitive edge, and you will learn to make informed decisions.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Retrieve: First, you need to learn how to get data. SQL is most common in work places. Basic SQL queries to retrieve data:
 &lt;ul&gt;
 &lt;li&gt;SQL commands are not case-sensitive, but it is a good practice.&lt;/li&gt;
 &lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;SELECT first_name , last_name, ex_age FROM executions WHERE first_name = &apos;Hello&apos; AND last_name LIKE &apos;%World%&apos;&lt;/code&gt;
 &lt;ul&gt;
-&lt;li&gt;The &lt;code class=&quot;language-text&quot;&gt;SELECT&lt;/code&gt; block specifies which columns you want to output. Its format is &lt;code class=&quot;language-text&quot;&gt;SELECT &amp;lt;column&gt;, &amp;lt;column&gt;&lt;/code&gt;, .... Each column must be separated by a comma, but the space following the comma is optional. The star (ie. &lt;code class=&quot;language-text&quot;&gt;*&lt;/code&gt;) is a special character that signifies we want all the columns in the table.&lt;/li&gt;
+&lt;li&gt;The &lt;code class=&quot;language-text&quot;&gt;SELECT&lt;/code&gt; block specifies which columns you want to output. Its format is &lt;code class=&quot;language-text&quot;&gt;SELECT &amp;lt;column&gt;, &amp;lt;column&gt;&lt;/code&gt;, .... Each column must be separated by a comma, but the space following the comma is optional. The star (&lt;code class=&quot;language-text&quot;&gt;*&lt;/code&gt;) is a special character that signifies we want all the columns in the table.&lt;/li&gt;
 &lt;li&gt;The &lt;code class=&quot;language-text&quot;&gt;FROM&lt;/code&gt; block specifies which table we’re querying from. Its format is &lt;code class=&quot;language-text&quot;&gt;FROM &amp;lt;table&gt;&lt;/code&gt;. It always comes after the &lt;code class=&quot;language-text&quot;&gt;SELECT&lt;/code&gt; block.&lt;/li&gt;
 &lt;li&gt;The &lt;code class=&quot;language-text&quot;&gt;WHERE&lt;/code&gt; block allows us to filter the table for rows that meet certain conditions. Its format is &lt;code class=&quot;language-text&quot;&gt;WHERE &amp;lt;clause&gt;&lt;/code&gt; and it always goes after the &lt;code class=&quot;language-text&quot;&gt;FROM&lt;/code&gt; block. A clause refers to a Boolean statement that the computer can evaluate to be true or false.&lt;/li&gt;
 &lt;li&gt;The most powerful of these is probably &lt;code class=&quot;language-text&quot;&gt;LIKE&lt;/code&gt;. It allows us to use wildcards such as &lt;code class=&quot;language-text&quot;&gt;%&lt;/code&gt; and &lt;code class=&quot;language-text&quot;&gt;_&lt;/code&gt; to match various characters.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Complex clauses can be made out of simple ones using Boolean operators like &lt;code class=&quot;language-text&quot;&gt;NOT&lt;/code&gt;, &lt;code class=&quot;language-text&quot;&gt;AND&lt;/code&gt; and &lt;code class=&quot;language-text&quot;&gt;OR&lt;/code&gt;. SQL gives most precedence to &lt;code class=&quot;language-text&quot;&gt;NOT&lt;/code&gt; and then &lt;code class=&quot;language-text&quot;&gt;AND&lt;/code&gt; and finally &lt;code class=&quot;language-text&quot;&gt;OR&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Analyze: Basics of analytical thinking:
+&lt;ul&gt;
+&lt;li&gt;Patterns: See the norm, what sticks out, what needs a second look. Get a lay of the land, so you can start developing a point of view. To solve the puzzle, ask yourself the following questions:
+&lt;ul&gt;
+&lt;li&gt;What is “normal” around here?&lt;/li&gt;
+&lt;li&gt;What sticks out?&lt;/li&gt;
+&lt;li&gt;Why is it sticking out?&lt;/li&gt;
+&lt;li&gt;How much does it stick out vs everything else?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Nuances: It is powerful to see nuances when other people just see a binary yes or no. You want to be able to say— “This works for x situations, but not for y situations.”&lt;/li&gt;
+&lt;li&gt;Absolute numbers &amp;#x26; percentages: If you only look at absolute numbers, big numbers will seem good and small numbers will seem bad. If you look at percentages, you’ll see the relationship between the parts and the whole.&lt;/li&gt;
+&lt;li&gt;Variance: Variance is about change. Change from the baseline &amp;#x26; changes over time.
+&lt;ul&gt;
+&lt;li&gt;How much did this change month over month?&lt;/li&gt;
+&lt;li&gt;This month vs this month last year?&lt;/li&gt;
+&lt;li&gt;Was the variance in line with industry growth—or did it outpace or lag comparatively?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Expected vs actual: “Wow, we drove 19% growth!” might seem like good news, unless you forecasted 30% growth. This is where looking at expected vs actual numbers is useful. If you compare the two, you can better understand how good performance really is.&lt;/li&gt;
+&lt;li&gt;Percent contribution to whole:
+&lt;ul&gt;
+&lt;li&gt;Money: “This accounts for 70% of total $.”&lt;/li&gt;
+&lt;li&gt;Volume: “This accounts for 17% of units.”&lt;/li&gt;
+&lt;li&gt;Top hits: “These 10 items drove 80% of new visitors.”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Peaks: Identify peaks and valleys, i.e. the highest or lowest something has ever been. This helps you see the range, which helps you get grounded. If you have new assets or levers to pull, you can say, “We&apos;ll beat the highest we&apos;ve done because x.”&lt;/li&gt;
+&lt;li&gt;Check in on margins: revenues don&apos;t alone matter much without cash flows.&lt;/li&gt;
+&lt;li&gt;Verify your biases by analyzing your data processing mechanics to ensure you are not building a data set to validate your own assumptions.&lt;/li&gt;
+&lt;li&gt;Look for clues by asking:
+&lt;ul&gt;
+&lt;li&gt;Why is this happening?&lt;/li&gt;
+&lt;li&gt;What is the impact?&lt;/li&gt;
+&lt;li&gt;What should we do about it (if anything)?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
