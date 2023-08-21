@@ -40,6 +40,9 @@ Product teardown is an exercise to gain expertise from strong teams who are buil
     <summary><strong>Ramp</strong></summary>
     <br>
 
+<img src="../../src/images/teardown/ramp.png" alt="ramp"/>
+</br>
+
 Ramp is a cloud based finance automation platform designed to save time and money for all size companies. Ramp's core products are corporate card and spend-management platform which tracks down real-time spending. This helps identify areas where costs can get out of hand. It helps management be proactive to cut costs in areas that are unproductive to any organization. Customers love how intuitive the products are. It is New York's fastest growing SaaS startup today (2023). 
 
 Ramp continues to innovate in the space. They also launched Bill Pay which is a software capable of scanning invoices and using AI to automate bill-payment workflows. Another new feature called Flex mimics the structure of buy now, pay later and gives businesses a low-cost way to spread out vendor payments.
@@ -72,17 +75,6 @@ Another delightful experience was the library of free tools.
     - Simplify: It is significantly harder to build a complex product that is simple at the surface for our users. We sweat every pixel and cut complexity until all our customers, from small mom-and-pop shops to multinational companies, can intuitively understand how to successfully use Ramp. Why have two clicks when you need one? Better yet, no clicks. The less time you spend on Ramp, the better. 
     - Taking the bets with asymmetric upside. If an outcome is exponential, take the bet.
 
-<img src="../../src/images/dissection/ramp/ramp_landing_page.png" alt="ramp"/>
-</br>
-<img src="../../src/images/dissection/ramp/ramp_solution.png" alt="ramp"/>
-<br>
-<img src="../../src/images/dissection/ramp/ramp_product_tour.png" alt="ramp"/>
-<br>
-<img src="../../src/images/dissection/ramp/ramp_free_tools.png" alt="ramp"/>
-<br>
-<img src="../../src/images/dissection/ramp/ramp_product_strategy.png" alt="ramp"/>
-<br>
-
 - Reading material:
     - [Ramp](https://ramp.com)
     - [Ramp Story](https://ramp.com/blog/ramp-raises-115m-from-stripe-and-d1-to-become-nys-fastest-growing-startup-ever)
@@ -97,35 +89,38 @@ Another delightful experience was the library of free tools.
     <summary><strong>Duolingo</strong></summary>
     <br>
 
-Founded in 2011 by Luis von Ahn and Severin Hacker, the company is now (2023) valued at $6.0B. It is the most downloaded education app. Duolingo motivates users to do tasks that’s difficult, time-intensive, and mentally taxing, all while convincing them to come back tomorrow and do it all again. It is a free app for language learning via spaced repetition technique. 
+<img src="../../src/images/teardown/duolingo.png" alt="duolingo"/>
+</br>
+
+Founded in 2011 by Luis von Ahn and Severin Hacker, the company is now (2023) valued at $6.0B. It is the most downloaded education app. Duolingo motivates users to do tasks that’s difficult, time-intensive, and mentally taxing, all while convincing them to come back tomorrow and do it all again. It is a free app for language learning via spaced repetition technique.
 
 > We created Duolingo in 2011 with a mission to develop the best education in the world and make it universally available. I’ve always felt that economic inequality is one of the biggest problems facing humanity, and education is the best way to help most people around the world improve their lives. Our vision is to create a world where more money can’t buy you a better education. — Luis von Ahn
 
 Gamification strategy is at the core of Duolingo. With bite-sized lessons, badges, leveling, leaderboards, sound, nudges etc., Duolingo has gamified learning. The app does a great job with reducing complexity for the user in decision-making, so they can stay focused on learning new languages. The job-to-be-done—help user learn a new language.
 
-Based on recent [quarterly filings](https://investors.duolingo.com/static-files/706ad636-7e3f-4430-adc1-16bf0411f3d9) Duolingo has 70 million active learners. <img src="../../src/images/dissection/duolingo/users.png" alt="duolingo"/>
+Based on recent [quarterly filings](https://investors.duolingo.com/static-files/706ad636-7e3f-4430-adc1-16bf0411f3d9) Duolingo has 70 million active learners.
 
 - Takeaways: 
     - _Branding_: They established a deep relationship like student-teacher between the user and the mascot—Duo. This is a strong recognition of their brand. Duo has a lot of character and pops up throughout the workflows.
-    - _Landing page_: The most surprising part of the landing page is how clear and simple it is. There is almost no friction with several CTAs or content. <img src="../../src/images/dissection/duolingo/landingpage.png" alt="duolingo"/>
+    - _Landing page_: The most surprising part of the landing page is how clear and simple it is. There is almost no friction with several CTAs or content.
     - _Gamification_: The use of gamification to increase user engagement which can be valuable especially when learning something new requires heavy load on cognition.
         - The use of simple goals, gamification, and rewards are positive reinforcements to improve retention.
         - The use of simple goals, gamification, and rewards are positive reinforcements to improve retention.
         - The use of streaks (loss aversion): “You haven’t learned anything new this week.” 
         - The use of competition (extrinsic motivation): Duolingo strikes a nice balance because it can be a double-edged sword. Those who aren’t interested in the competitive aspect are put into “easier” leagues. “Hardcore” players are removed from the easy leagues and bracketed to compete against themselves.
         - The use of encouragement (emotional safety): “Nobody likes making a mistake.” “Nobody likes feeling like an idiot.” Messages like these seem small, but they can really bring a smile to your users.
-        - The use of progress to show the user how many steps it might take for them to complete. <img src="../../src/images/dissection/duolingo/learning-path.png" alt="duolingo"/>
+        - The use of progress to show the user how many steps it might take for them to complete.
     - _User sign-ups & onboarding_:
         - Duolingo excels in taking a user to the core product as soon as possible. This is critical in showing value in short amount of time.
         - “The free, fun, and effective way to learn a language!”. A clear Call-To-Action (CTA) makes it easy for users to move forward.
         - One of the things that set Duolingo apart from other language-learning apps is its attention to detail when it comes to copywriting. Users are greeted with cheerful messages like “Let’s do this!” or “Time to get your language on!” or “Let's get the party started!” or “15 minutes a day can teach you a language. What can 15 minutes of social media do?”
-        - Users are empowered to make quick decision without being overwhelmed with too many options. <img src="../../src/images/dissection/duolingo/onboarding.png" alt="duolingo"/>
+        - Users are empowered to make quick decision without being overwhelmed with too many options.
     - _Growth tactics_: Duolingo has great tactics in place for retention and engagement:
         - An overlay over the rest of the screen to keep users focused on the CTA. This allows users to focus on one action, so other options aren't competing for the user's attention.
         - Nudging users to leave after they completed their Daily Goal. Allow users to disengage from your product with a sense of completion and offer them to return to its app preventing them from feeling overwhelmed.
         - Using retention techniques across all channels—emails and phone notifications.
         - Other tactics include rewards and streaks.
-        - Offering simplified experiences all across its application workflow. This ultimately helps with activation rate and user retention. <img src="../../src/images/dissection/duolingo/duo.png" alt="duolingo"/>
+        - Offering simplified experiences all across its application workflow. This ultimately helps with activation rate and user retention.
     - _Team structure & planning_: All of Product Management, Product Ops, and UX Research are part of Duolingo’s larger Product organization which reports to VP of Product.
         - While teams are metrics-driven, product teams are structured as either (1) metric-based or (2) feature-based. 
             - Metric-based teams are structured around clear metrics that impact something the company wants to improve, like revenue or DAUs. 
