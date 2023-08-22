@@ -25,13 +25,17 @@ Product teardown is an exercise to gain expertise from strong teams who are buil
 
 | Product | Description | 
 | -------------|:-------------:|
-| _Wealthfront_| It is a robo-advisor service that recommends a low-cost, tax-efficient diversified portfolio of exchange traded funds (ETFs) and index funds that match your financial goals and risk tolerance. |
+| _Wealthfront_| A robo-advisor service that recommends a low-cost, tax-efficient diversified portfolio that match your financial goals and risk tolerance. |
 | _Ramp_ | They provide corporate cards and a spend management platform, helping startups save money and control spending. |
 | _Duolingo_ | They use gamification approach to language learning, with lessons that incorporate translating, interactive exercises, quizzes, and stories to make learning more engaging and fun. |
 
 <details>
     <summary><strong>Wealthfront</strong></summary>
     <br>
+
+<img src="../../src/images/teardown/wealthfront.png" alt="wealthfront"/>
+</br>
+
 
 </details>
 <br>
