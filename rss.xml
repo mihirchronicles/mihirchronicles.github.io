@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 21 Aug 2023 15:47:53 GMT</lastBuildDate><item><title><![CDATA[Bird That Keeps Building]]></title><description><![CDATA[Does a bird need a plan to build its nest? It does not have an architectural plan. It does not have a wireframe. Neither does it care about…]]></description><link>https://mihirchronicles.com/bird-that-keeps-building/</link><guid isPermaLink="false">https://mihirchronicles.com/bird-that-keeps-building/</guid><pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Does a bird need a plan to build its nest?&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 22 Aug 2023 00:54:43 GMT</lastBuildDate><item><title><![CDATA[Bird That Keeps Building]]></title><description><![CDATA[Does a bird need a plan to build its nest? It does not have an architectural plan. It does not have a wireframe. Neither does it care about…]]></description><link>https://mihirchronicles.com/bird-that-keeps-building/</link><guid isPermaLink="false">https://mihirchronicles.com/bird-that-keeps-building/</guid><pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Does a bird need a plan to build its nest?&lt;/p&gt;
 &lt;p&gt;It does not have an architectural plan. It does not have a wireframe. Neither does it care about a business plan nor a deadline.&lt;/p&gt;
 &lt;p&gt;A bird just keeps building to lay its eggs.&lt;/p&gt;
 &lt;p&gt;It starts building a nest by weaving together grass and twigs to form a basket and use binding material such as mud to hold its nest.&lt;/p&gt;
@@ -52,7 +52,7 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;em&gt;Wealthfront&lt;/em&gt;&lt;/td&gt;
-&lt;td align=&quot;center&quot;&gt;It is a robo-advisor service that recommends a low-cost, tax-efficient diversified portfolio of exchange traded funds (ETFs) and index funds that match your financial goals and risk tolerance.&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;A robo-advisor service that recommends a low-cost, tax-efficient diversified portfolio that match your financial goals and risk tolerance.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;em&gt;Ramp&lt;/em&gt;&lt;/td&gt;
@@ -67,6 +67,18 @@
 &lt;details&gt;
     &lt;summary&gt;&lt;strong&gt;Wealthfront&lt;/strong&gt;&lt;/summary&gt;
     &lt;br&gt;
+&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/b4b9f64838727b3856b188b0860ff987/cb88c/wealthfront.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 54.43037974683544%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAACe0lEQVR42j2RSW/bVhSF+dOzzS7wolkEaREUQZrCKBrXdb1I6rhuY1h2JFkDzXl4nEeJoig5tuMvT0QRAhf33HPPOzx8VBbCYXw6YPD+E/ZoyiYTtInPjq99h2XgktsmpWvThG4/73qXClaRxzL0OTlUefrkEv3KQllIIrVtckcaBD7rLKJNw76aOOirEn5fC7lfRII8ilkWBXfdmnVdU3g+sbnTCGkYh1IUon+e480NNNmN0Q32tYYxVIlMm1WW0CQx2yrvcVHUtO2a3dOtb2nzmE2VsvNSyjCWICGyPAYnQy4/jhh/mvRY6A67/TJNe+7Xl38xHcx6o4f7R5rVFxZVR2C4WBODIohQMl8eyApmVxrPn+7z49473rw45qe9Az4eXbDMC8oo4/pC5Xj/DHWoc3//wNev0vThkbsvd4zP5xz/9i+pF6MkIqVIcobnKr+/PuGPt2ccvPmH/Vcf+PvPAVmYkQapvLdc6kpSOTfNRn5yR7dqWTUtHw4vePnsHcbMQYlFga2FTD5baDOBpXk4uoc29ZgObdSxy04TehmRnxOJXJpt6LoN2+2WZtliqgHXVyaBk6IIryQUFYFf4rs5v/ys8sOzMeo0JgolL8p+F3jSVOIwKEiKiiwr+x9TV43U1STJSuoKFNvKcZwC15WGfsXpieDoUF6yVUpOprdzWQWO7K5TSm1OuVjKhB23t1tWqw2+fJkznmCbMuFoGDC88rm5STHNEu0mlmYptlMxVxNGQ8H1OGQ+i5nK1KrkJmPRB9gF8USDMbeY/vcex12g6GaNppfoZoVh1ahaIY3y73Nfdo3+P+71Rim5Rc/ZXstgoHF6NsIL1nwDcKYY2ULwFyYAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;wealthfront&quot; title=&quot;&quot; src=&quot;/static/b4b9f64838727b3856b188b0860ff987/f058b/wealthfront.png&quot; srcset=&quot;/static/b4b9f64838727b3856b188b0860ff987/c26ae/wealthfront.png 158w,
+/static/b4b9f64838727b3856b188b0860ff987/6bdcf/wealthfront.png 315w,
+/static/b4b9f64838727b3856b188b0860ff987/f058b/wealthfront.png 630w,
+/static/b4b9f64838727b3856b188b0860ff987/40601/wealthfront.png 945w,
+/static/b4b9f64838727b3856b188b0860ff987/78612/wealthfront.png 1260w,
+/static/b4b9f64838727b3856b188b0860ff987/cb88c/wealthfront.png 2728w&quot; sizes=&quot;(max-width: 630px) 100vw, 630px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;br&gt;
 &lt;/details&gt;
 &lt;br&gt;
 &lt;details&gt;
@@ -1152,21 +1164,21 @@ Life is too short to do business with people you don’t like.
 &lt;li&gt;The logic of a liberal arts education is not terribly different—by preventing professional specialization at too early an age, exposure to a broad set of ideas flexes different intellectual muscles and provides alternative perspectives that feed a lifetime of learning.&lt;/li&gt;
 &lt;li&gt;In short, finance has a simple recipe for value creation—1) surpass the expected returns of your capital providers; 2) surpass those expectations for as long as you can; and 3) grow, so you can keep generating returns that are higher than your cost of capital. That’s all that really matters for creating value.&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Beating The Big Imposter]]></title><description><![CDATA[Can curiosity help navigate imposter syndrome? It occurred to me in 2022 that I grew up with mild imposter syndrome. It was a strange…]]></description><link>https://mihirchronicles.com/beating-big-imposter/</link><guid isPermaLink="false">https://mihirchronicles.com/beating-big-imposter/</guid><pubDate>Fri, 10 Feb 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Can curiosity help navigate imposter syndrome?&lt;/p&gt;
-&lt;p&gt;It occurred to me in 2022 that I grew up with mild imposter syndrome. It was a strange realization because I didn&apos;t think about it often. The occurrence of this idea started to compound, which led to frequent thinking of imposter syndrome.&lt;/p&gt;
-&lt;p&gt;Researchers define imposter syndrome as a feeling of fraud. This arises from a lack of confidence because individuals with imposter syndrome never feel good enough about their skills. The work feels cheated, and the feeling of getting caught never fades away. This feeling can be rooted in many factors, but most importantly, it stems from having self-esteem or self-doubt.&lt;/p&gt;
-&lt;p&gt;Personally, I view this issue as rising from your upbringing. Some families support confidence while others do a poor job of building confidence, especially for their kids. The confidence of an individual is as strong as its tribe. A tribal leader instills in its members to build self-esteem. The confidence must be balanced with humility because having overconfidence is not good either.&lt;/p&gt;
-&lt;p&gt;There are benefits to imposter syndrome. A healthy imposter syndrome can be good because it creates an environment for growth. When imposter syndrome disappears completely, it might mean you stopped learning. But some are severely paralyzed by it.&lt;/p&gt;
+&lt;p&gt;It occurred to me in 2022 that I grew up with mild imposter syndrome. It was a strange realization because I didn&apos;t think about it much. The occurrence of this idea started to compound, which led to frequent thinking of imposter syndrome.&lt;/p&gt;
+&lt;p&gt;Researchers define imposter syndrome as a feeling of fraud. This arises from a lack of confidence because individuals with imposter syndrome never feel good enough about their skills. The work feels cheated, and the feeling of getting caught never fades away. This feeling can be rooted in many factors, but importantly, it stems from having self-esteem or self-doubt.&lt;/p&gt;
+&lt;p&gt;Personally, I view this issue as rising from your upbringing. A few families support confidence while others do a poor job of building confidence for their kids. The confidence of an individual is as strong as its tribe. A tribal leader instills in its members to build self-esteem. The confidence must be balanced with humility because having overconfidence is not good either.&lt;/p&gt;
+&lt;p&gt;There are benefits to imposter syndrome. A healthy imposter syndrome can be good because it creates an environment for growth. When imposter syndrome disappears, it might mean you stopped learning. But a few are severely paralyzed by it.&lt;/p&gt;
 &lt;p&gt;For me, reading helped beat it.&lt;/p&gt;
 &lt;p&gt;I started seeing life as an opportunity to learn instead of beating myself up for not knowing enough and feeling like a fraud. I reconciled my personal issues by spending days reading books because I saw myself as a student. Reading turned out to be richer, nobler, and larger than I thought. Reading built my self-esteem and helped me avoid self-doubt.&lt;/p&gt;
-&lt;p&gt;Being a reader allows you to see yourself as a student. This is the most important step. When you are a student, acknowledge that you don’t know everything and that you’re here to learn. If you take on this mindset, imposter syndrome can’t survive in your head because it has nothing to grab onto. You’re not trying to fake a persona or maintain a certain image—instead, you’re motivated by curiosity. Treat your work as one big experiment—an opportunity to learn. Because in the end, that is exactly what it is.&lt;/p&gt;
+&lt;p&gt;Being a reader allows you to see yourself as a student. This is the most important step. When you are a student, acknowledge that you don’t know everything and that you’re here to learn. If you take on this mindset, imposter syndrome can’t survive in your head because it has nothing to grab onto. You’re not trying to fake a persona or maintain a certain image—instead, you’re motivated by curiosity. Treat your work as one big experiment—an opportunity to learn. Because in the end, that is what it is—life being one big experiment and curiosity being the key ingredient.&lt;/p&gt;
 &lt;p&gt;You can substitute reading with anything.&lt;/p&gt;
-&lt;p&gt;You can write. You don’t have to wait for adults to tell you how to write things; you can just write anything. Start typing.&lt;/p&gt;
-&lt;p&gt;You can build. You don’t have to wait for adults to tell you how to make things; you can just build anything. Start building.&lt;/p&gt;
-&lt;p&gt;You can paint. You don’t have to wait for someone to tell you how to paint; you can just pick up the paintbrush and paint your first stroke. Start painting.&lt;/p&gt;
-&lt;p&gt;The act of doing causes imagination to flourish. All you have to do is put in the work. Work day by day over many years to build self-trust. CS Lewis had a saying that modern people often doubt themselves too little and doubt what they do too much. The secret of the world is that learning is naturally the consequence of doing. This is the core truth of how the world operates.&lt;/p&gt;
-&lt;p&gt;You must enter the arena, throw punches at the big imposter until you knock the imposter down. And then enter the arena again, and again, and again. Over time, the practice of fighting the big imposter becomes second nature. It never disappears, but with more practice, you&apos;ll know how to face imposter syndrome.&lt;/p&gt;
+&lt;p&gt;You can write. You don’t have to wait for adults to tell you how to write things; you can write anything. Start typing.&lt;/p&gt;
+&lt;p&gt;You can build. You don’t have to wait for adults to tell you how to make things; you can build anything. Start building.&lt;/p&gt;
+&lt;p&gt;You can paint. You don’t have to wait for someone to tell you how to paint; you can pick up the paintbrush and paint your first stroke. Start painting.&lt;/p&gt;
+&lt;p&gt;The act of doing causes imagination to flourish. All you have to do is put in the work. Work day by day over many years to build self-trust. CS Lewis had a saying that modern people doubt themselves too little and doubt what they do too much. The secret of the world is that learning is naturally the consequence of doing. This is the core truth of how the world operates.&lt;/p&gt;
+&lt;p&gt;You must enter the arena, throw punches at the big imposter until you knock the imposter down. And then enter the arena again, and again, and again. Over time, the practice of fighting the big imposter becomes natural. It never disappears, but with more practice, you&apos;ll know how to face imposter syndrome.&lt;/p&gt;
 &lt;p&gt;Don&apos;t let imposter syndrome bankrupt you from doing. If in doubt, take the first step because doubt kills more dreams than failures.&lt;/p&gt;
-&lt;p&gt;Knowledge is power, so learn new things to boost experience and build self-esteem. The universe rewards the brave. This will allow you to shrink down your big imposter into a small imposter.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The Little Book That Builds Wealth | The Knockout Formula For Finding Great Investments by Pat Dorsey]]></title><description><![CDATA[Brief Summary Pat Dorsey was the Director for equity research at Morningstar from 2000 to 2011. He now heads Dorsey Asset Management. Dorsey…]]></description><link>https://mihirchronicles.com/the-little-book-that-builds-wealth/</link><guid isPermaLink="false">https://mihirchronicles.com/the-little-book-that-builds-wealth/</guid><pubDate>Wed, 08 Feb 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Brief Summary&lt;/h2&gt;
+&lt;p&gt;Knowledge is power. Learn new things to boost experience and build self-esteem. The universe rewards the brave. This will allow you to shrink down your big imposter into a small imposter.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The Little Book That Builds Wealth | The Knockout Formula For Finding Great Investments by Pat Dorsey]]></title><description><![CDATA[Brief Summary Pat Dorsey was the Director for equity research at Morningstar from 2000 to 2011. He now heads Dorsey Asset Management. Dorsey…]]></description><link>https://mihirchronicles.com/the-little-book-that-builds-wealth/</link><guid isPermaLink="false">https://mihirchronicles.com/the-little-book-that-builds-wealth/</guid><pubDate>Wed, 08 Feb 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Brief Summary&lt;/h2&gt;
 &lt;p&gt;Pat Dorsey was the Director for equity research at Morningstar from 2000 to 2011. He now heads Dorsey Asset Management. Dorsey introduces his investment philosophy especially around moats that are durable. A company with a moat adds long-term value because it helps them stay valuable for a longer time. Dorsey categorizes moats into four different types—intangible assets, customer switching cost, network effect and cost advantages. This is an excellent book for anyone interested in value investing around sustainable moats.&lt;/p&gt;
 &lt;h2&gt;Big Ideas&lt;/h2&gt;
 &lt;ul&gt;
@@ -11344,7 +11356,7 @@ Author Robert Cialdini (Ph.D.) explores the mental bias of reciprocation tendenc
 &lt;h2&gt;Topics from personal experiences&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Product intuition&lt;/strong&gt;: excellent product managers have great product sense. Below are the tips to getting there. The more you practice them, the better you will build product intuition while helping you make high conviction decisions. Your management expects you to have a good enough sense of your team’s capacity and velocity that you can make the call on the spot. If you don’t, you’ll immediately lose the respect of the other stakeholders in the room. Build this muscle soon before you ask for trouble, and you’ll grow an intuition around sizing and difficulty.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Product intuition&lt;/strong&gt;: Excellent product managers have great product sense. Below are the tips to getting there. The more you practice them, the better you will build product intuition while helping you make high conviction decisions. Your management expects you to have a good enough sense of your team’s capacity and velocity that you can make the call on the spot. If you don’t, you’ll immediately lose the respect of the other stakeholders in the room. Build this muscle soon before you ask for trouble, and you’ll grow an intuition around sizing and difficulty.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Use your product like a real customer.&lt;/li&gt;
 &lt;li&gt;Validating business requirements in applications. Report bugs if something is broken.&lt;/li&gt;
@@ -11355,6 +11367,7 @@ Author Robert Cialdini (Ph.D.) explores the mental bias of reciprocation tendenc
 &lt;li&gt;Review your metrics primarily client sign-ups and drop-offs over weekly, monthly, quarterly and annually.&lt;/li&gt;
 &lt;li&gt;Tag along customer service reps and sales.&lt;/li&gt;
 &lt;li&gt;Explore industry blogs and competitor space.&lt;/li&gt;
+&lt;li&gt;Understand the core growth loops so you can aim for the right feautures.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -11375,13 +11388,13 @@ Author Robert Cialdini (Ph.D.) explores the mental bias of reciprocation tendenc
 &lt;li&gt;Offline mode
 &lt;ul&gt;
 &lt;li&gt;User story: As a user, I want to access the app&apos;s content even when I&apos;m offline, so that I can continue my activities without interruption when I don&apos;t have an internet connection.&lt;/li&gt;
-&lt;li&gt;Job story: When I lose mv internet connection. I want the app to still provide me with essential functionalities, so I&apos;m not left stranded or unable to complete my tasks.&lt;/li&gt;
+&lt;li&gt;Job story: When I lose my internet connection. I want the app to still provide me with essential functionalities, so I&apos;m not left stranded or unable to complete my tasks.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Multi-language support
 &lt;ul&gt;
-&lt;li&gt;User story: As a user who speaks multiple languages, I want to switch the app&apos;s language to one I&apos;m comfortable with. so that I can use the app more effectivelv.&lt;/li&gt;
-&lt;li&gt;Job story: When I lose mv internet connection. I want the app to still provide me with essential functionalities, so I&apos;m not left stranded or unable to complete my tasks.&lt;/li&gt;
+&lt;li&gt;User story: As a user who speaks multiple languages, I want to switch the app&apos;s language to one I&apos;m comfortable with so that I can use the app more effectively.&lt;/li&gt;
+&lt;li&gt;Job story: When I lose my internet connection. I want the app to still provide me with essential functionalities, so I&apos;m not left stranded or unable to complete my tasks.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Social media
@@ -11393,7 +11406,7 @@ Author Robert Cialdini (Ph.D.) explores the mental bias of reciprocation tendenc
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Capabilities vs domain vs experience&lt;/strong&gt;: when requirements are defined, the big question is where to host the requirements? Like everything else, it depends on business architecture modeling. This is mostly designed by a system architect. How it gets packaged is not a product concern, but need to understand to drive feature requirements. No system is right or wrong, but a core architectural system might have the following:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Capabilities vs domain vs experience&lt;/strong&gt;: When requirements are defined, the big question is where to host the requirements? Like everything else, it depends on business architecture modeling. This is mostly designed by a system architect. How it gets packaged is not a product concern, but need to understand to drive feature requirements. No system is right or wrong, but a core architectural system might have the following:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Domain: What is the core functionality that drives business objective? It is associated with one data store in a database. Domains can be grouped in many ways, but it should always be driven by business objective that drives business value. For example, Order Management.&lt;/li&gt;
 &lt;li&gt;Capabilities: How functionalities can be grouped. This layer can interact with several data stores.&lt;/li&gt;
@@ -11401,7 +11414,7 @@ Author Robert Cialdini (Ph.D.) explores the mental bias of reciprocation tendenc
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Go to market (GTM)&lt;/strong&gt;: it is an organizational plan to deliver unique value proposition to customers and achieve competitive advantage. Below are the components of GTM. Start with debugging upstream or downstream of product cycle to optimize for GTM:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Go to market (GTM)&lt;/strong&gt;: It is an organizational plan to deliver unique value proposition to customers and achieve competitive advantage. Below are the components of GTM. Start with debugging upstream or downstream of product cycle to optimize for GTM:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;What exactly are you building? It starts with vision. But if the vision is wrong everyone is going home. It starts with product management.&lt;/li&gt;
 &lt;li&gt;How do you position it? How do you tell the story in a short-time frame without using product jargon? Great product use less words to spread the message. It starts with product marketing.&lt;/li&gt;
@@ -11410,14 +11423,14 @@ Author Robert Cialdini (Ph.D.) explores the mental bias of reciprocation tendenc
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Product market fit (PMF)&lt;/strong&gt;: it is another way to say you are in search for demand curve or another way to say you have produced value. Product market fit allows a company to sell product at scale. When people want to pull it out of your hands that is a product market fit. Company building should happen when you have a product market fit.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Product market fit (PMF)&lt;/strong&gt;: It is another way to say you are in search for demand curve or another way to say you have produced value. Product market fit allows a company to sell product at scale. When people want to pull it out of your hands that is a product market fit. Company building should happen when you have a product market fit.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Use cohort analysis to measure product market fit. Look at a group of people that tried your product in a period of time (week, month, quarter). Then look at how many of those people continue to use your product for a while. You will have a fairly deep drop-off on the first month. Does it flatten somewhere? If so, that means that there are customers who are finding value in your product, which means you have PMF with these customers.&lt;/li&gt;
 &lt;li&gt;Create a retention curve by plotting the percent of active users over time (for each cohort of users). If it flattens off at some point, you have probably found product/market fit for some market or audience.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Porter&apos;s five forces for industry analysis&lt;/strong&gt;: is not a boring business exercise. It helped the founders of Warby Parker create a company worth over $1B. Their analysis showed that the eyewear industry is dominated by a single player, Luxottica, which kept prices of prescription glasses artificially high. A pair was priced at around $300 even though it cost only $10-$20 to produce. The best framework for industry analysis is Porter’s Five Forces. It evaluates five competitive forces, which influence industry attractiveness. The basic idea is that your product or company is not competing just with direct competitors but with everyone in the ecosystem, including customers, suppliers, substitutes, and new entrants. For example, you might have very few competitors but you still can’t make any profit because your suppliers have more negotiating power and so they capture most of the profits. Overview of Porter’s Five Forces:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Porter&apos;s five forces for industry analysis&lt;/strong&gt;: It is not a boring business exercise. It helped the founders of Warby Parker create a company worth over $1B. Their analysis showed that the eyewear industry is dominated by a single player, Luxottica, which kept prices of prescription glasses artificially high. A pair was priced at around $300 even though it cost only $10-$20 to produce. The best framework for industry analysis is Porter’s Five Forces. It evaluates five competitive forces, which influence industry attractiveness. The basic idea is that your product or company is not competing just with direct competitors but with everyone in the ecosystem, including customers, suppliers, substitutes, and new entrants. For example, you might have very few competitors but you still can’t make any profit because your suppliers have more negotiating power and so they capture most of the profits. Overview of Porter’s Five Forces:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Threat of new entrants: How hard is it to enter an industry?&lt;/li&gt;
 &lt;li&gt;Bargaining power of buyers: How easily can buyers drive our prices down? How well can they negotiate?&lt;/li&gt;
@@ -11427,7 +11440,7 @@ Author Robert Cialdini (Ph.D.) explores the mental bias of reciprocation tendenc
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Competitor analysis&lt;/strong&gt;: understanding competitors’ strategy, business model, and future plans help us design better products and experiences. We can anticipate how competitors will react to our innovations, and how we can differentiate better (create unique value for our users).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Competitor analysis&lt;/strong&gt;: Understanding competitors’ strategy, business model, and future plans help us design better products and experiences. We can anticipate how competitors will react to our innovations, and how we can differentiate better (create unique value for our users).&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The first step of competitor analysis is identifying competitors.&lt;/li&gt;
 &lt;li&gt;Divide the competition into direct and indirect competitors. Direct competitors are companies that offer the same product (or service) and indirect competitors offer a different product that solves the same problem. For example, Uber’s direct competitors are taxi companies and Lyft. The indirect competitors are bike sharing services, public transport, car sharing services, and walking on foot.&lt;/li&gt;
@@ -11441,7 +11454,7 @@ Author Robert Cialdini (Ph.D.) explores the mental bias of reciprocation tendenc
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;What is strategy vs not a strategy&lt;/strong&gt;: business strategy explains how a company tries to beat the competition. The ultimate goal of a strategy is to help us gain a competitive advantage, which leads to better financial results. For example, companies that try to beat competitors by offering lower prices are pursuing a cost leadership strategy (Aldi, Walmart, IKEA, Southwest Airlines, McDonald&apos;s, etc.). On the other side of the spectrum are companies that want to win by being unique. These companies can charge higher prices because they are perceived differently (Apple, Whole Foods Market, BMW, Qatar Airways, Four Seasons Hotels, etc.).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What is strategy vs not a strategy&lt;/strong&gt;: Business strategy explains how a company tries to beat the competition. The ultimate goal of a strategy is to help us gain a competitive advantage, which leads to better financial results. For example, companies that try to beat competitors by offering lower prices are pursuing a cost leadership strategy (Aldi, Walmart, IKEA, Southwest Airlines, McDonald&apos;s, etc.). On the other side of the spectrum are companies that want to win by being unique. These companies can charge higher prices because they are perceived differently (Apple, Whole Foods Market, BMW, Qatar Airways, Four Seasons Hotels, etc.).&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;A strategy isn’t: a goal (goals only talk about why; a strategy also explains how), using best practices such as Design Thinking or Six Sigma (can be implemented by any competitor so they are not trade-off decisions) and merely a plan (strategy needs to lead to a competitive advantage).&lt;/li&gt;
 &lt;li&gt;A strategy is: choosing what to do and what not to do, a series of trade-off decisions, a quest for competitive advantage, about being different (not merely better), focusing a company’s resources on the most critical issues.&lt;/li&gt;
@@ -11455,7 +11468,7 @@ Author Robert Cialdini (Ph.D.) explores the mental bias of reciprocation tendenc
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Product marketing&lt;/strong&gt;: the product manager (PM) defines the product vision and strategy. However, you cannot create a strategy without market and industry analysis, which is theoretically the product marketing manager&apos;s (PMM) main job. The main areas of responsibility for a product marketer are:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Product marketing&lt;/strong&gt;: The product manager (PM) defines the product vision and strategy. However, you cannot create a strategy without market and industry analysis, which is theoretically the product marketing manager&apos;s (PMM) main job. The main areas of responsibility for a product marketer are:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Discovery: target customers, customers’ jobs/needs (methods like interviews or surveys)&lt;/li&gt;
 &lt;li&gt;Analyzing the market and the industry: Sizing market opportunities by considering Total Addressable Market (TAM), Serviceable Available Market (SAM), and Serviceable Obtainable Market (TOM). Analyzing market characteristics, like the average Annual Growth Rate, Average Revenue Per User (ARPU), average Customer Acquisition Cost (CAC), and average Churn Rate. Analyzing the industry (e.g., Porter’s Five Forces). Performing competitive analysis.&lt;/li&gt;
@@ -11465,11 +11478,22 @@ Author Robert Cialdini (Ph.D.) explores the mental bias of reciprocation tendenc
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Now-Next-Later framework&lt;/strong&gt;: this is one of the best frameworks for roadmapping and planning. It accounts for simplicity (KISS-keep it simple), flexibility and easier to follow. Roadmaps often face disruption for some unforeseen reason. The Now-Next-Later roadmap is a product management tool that organizes work into three-time horizons, from immediate to long term, starting with the most urgent problems to solve. This roadmap format conveys the overall product vision, as each element of work is tied back to a business objective.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Now-Next-Later framework&lt;/strong&gt;: This is one of the best frameworks for roadmapping and planning. It accounts for simplicity (KISS-keep it simple), flexibility and easier to follow. Roadmaps often face disruption for some unforeseen reason. The Now-Next-Later roadmap is a product management tool that organizes work into three-time horizons, from immediate to long term, starting with the most urgent problems to solve. This roadmap format conveys the overall product vision, as each element of work is tied back to a business objective.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Now-Next-Later framework:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The Now column contains the initiatives that you are working on, well, now. Requirements are clear.&lt;/li&gt;
 &lt;li&gt;The Next column is what will happen once everything in the Now column is complete. Requirements are less refined.&lt;/li&gt;
 &lt;li&gt;The Later column is everything else you’ve proposed doing, but it won’t happen until sometime in the undefined future. Requirements are hazy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ask the following to categorize your feature set or solutions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Is the problem large?&lt;/li&gt;
+&lt;li&gt;Is the problem urgent?&lt;/li&gt;
+&lt;li&gt;Is the problem valuable?&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
