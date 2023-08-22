@@ -9,8 +9,10 @@ path: "/notes/on-product-teardown"
 The trick to a product teardown is deep empathy for the end user. UX and product management share the same broad goals: understanding users’ needs and solving their core problems with excellent user experience. The emphasis is on solving the user problem. Don't let—product that looks great, has nice onboarding, and delightful animations—be a distraction.
 
 Some questions to ask when doing a product teardown:
+- What is the offering and who are the founders behind it?
 - What problem does this product solve? Is this really a problem? Is it an underlying problem or a surface level problem? How painful is this problem for users?
-- What is the goal and does this product help solve or make progress on it?
+- Are there any metrics on number of users?
+- What is the goal or a strategy and does this product help solve or make progress on it?
 - Where are the points of friction? What is clear and what is not clear?
 - How much customization affordance does a product offer to its clients? 
 - What are the most competent competitors to this product?
@@ -36,6 +38,40 @@ Product teardown is an exercise to gain expertise from strong teams who are buil
 <img src="../../src/images/teardown/wealthfront.png" alt="wealthfront"/>
 </br>
 
+Wealthfront is an automated investment offering based in Palo Alto, California. It is a goal-based planning software with multiple goals, wealth-planning tool and other offerings.
+
+After a successful career as the co-founder of VC firm Benchmark Capital, Andy Rachleff started Wealthfront with Dan Carroll in 2008. Andy also teaches entreprenuership at Standford.
+
+Wealthfront levels the playing field. Because everyone deserves an equal chance to succeed. At Stanford, entrepreneurs and students alike came to Andy Rachleff for investing advice. But he often couldn’t recommend the services he used because the minimums were too high, especially for students. He saw a need to democratize access to sophisticated investment products. While Dan Carroll learned financial advisors make 90% of their revenue from the top 20% of their clients. This was during 2008 recession. People like his parents didn’t get the attention they deserved that they paid for. Dan started tinkering with a few solutions. He eventually built a prototype that got some traction, and got the attention of Andy from Stanford.
+
+As of March 2023, Wealthfront has $43+ billion in AUM and 650k+ clients.
+
+Wealthfront focuses on 3 controllable factors—lower taxes (tax-loss harvesting), reduced costs (flat charge 0.25% annual fee and low-cost index funds) and risk management (diversification) through automated investing software.
+
+- Takeaways:
+    - $500 for investment accounts; $1 for cash management accounts; $1 for stock accounts. Making minimum this low makes the offering accessible especially for younger generation who doesn't have much to invest. This is a great way to ride along wealth accumulation as the wealth accumulates for entry level investors. 
+    - Fees 0.25 percent of assets annually and average of 0.08 percent for core portfolio.
+    Account types supported: Independent and joint taxable, Roth IRA, traditional IRA, SEP IRA, rollover IRA, trusts, 529s.
+    - Automatic rebalance without any minimum.
+    - Wealthfront has done an excellent job with educational material and calculators including transparency on pricing. This is critical for a financial product because the industry has kept costs hidden for a long time breaching client trust. It has calculator which shows how much fees would be paid for every $10k. They also have risk slider and portfolio breakdown for each one of the risk categories. This is useful because I can explore before I can create an account. More here [investing strategy guide](https://www.wealthfront.com/investing-guide#our-strategy).
+    - Besides the core robo-advsior offering, Wealthfront offers yield products via cash and bond portfolio. Both have competitive yields. 
+    - It also has Stock Investing offering with fractional shares. It has stock collection which is based on theme. If you want to invest in Artificial Intelligence, you can pick AI basket. The in-app experience also recommends stocks that are not as popular making research and discoverability easier. Lastly, you can fund once and split into more than 1 stock.
+    - Wealthfront also offers cryptocurrencies.
+    - Overall it has welcoming branding and copy. A great example of copy for their bond portfolio—“Not too hot. Not too cold. It’s like the Goldilocks of risk.”
+
+- Reading material:
+    - [Investing Strategy Guide](https://www.wealthfront.com/investing-guide#our-strategy)
+    - [Investment Methodology](https://www.wealthfront.com/methodology)
+    - [Stock Investing](https://www.wealthfront.com/stock-investing)
+    - [Retirement Investing](https://www.wealthfront.com/retirement)
+    - [Socially Responsible Investing](https://www.wealthfront.com/socially-responsible-investing)
+    - [Financial Planning](https://www.wealthfront.com/planning)
+    - [Performance Calculator](https://www.wealthfront.com/historical-performance)
+    - [Engineering Blog](https://www.wealthfront.com/engineering)
+    - [Career Guide by Andy Rachleff 2013](https://cdn.wealthfront.com/public.email.images/2013_Silicon_Valley_Career_Guide.pdf)
+    - [Building Wealthfront’s Multi-Platform Design System](https://eng.wealthfront.com/2022/05/10/building-wealthfronts-multi-platform-design-system/)
+    - [Optimizing Multi-table SQL Queries for Wealthfront’s Trading System](https://eng.wealthfront.com/2023/05/31/optimizing-multi-table-sql-queries/)
+    - [Onboarding Flow](https://uxarchive.com/flow/wealthfront/app-4f17cce6b7ada1ff/onboarding/appflow-5ec216be72674fdb)
 
 </details>
 <br>
@@ -136,10 +172,10 @@ Based on recent [quarterly filings](https://investors.duolingo.com/static-files/
     - [Lenny's Newsletter | How Duolingo build products](https://www.lennysnewsletter.com/p/how-duolingo-builds-product)
     - [Lenny's Newsletter | How Duolingo reignited growth](https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth)
     - [Lenny's Newsletter | Nickey Skarstad Interview](https://www.lennysnewsletter.com/p/nickey-skarstad-airbnb-etsy-shopify#details)
-    - [Research blog](https://research.duolingo.com/)
-    - [Duolingo blog](https://blog.duolingo.com/)
-    - [Growth model Duolingo](https://blog.duolingo.com/growth-model-duolingo/)
-    - [Test everything Duolingo](https://blog.duolingo.com/improving-duolingo-one-experiment-at-a-time/)
+    - [Research Blog](https://research.duolingo.com/)
+    - [Duolingo Blog](https://blog.duolingo.com/)
+    - [Growth Model Duolingo](https://blog.duolingo.com/growth-model-duolingo/)
+    - [Experiment at Duolingo](https://blog.duolingo.com/improving-duolingo-one-experiment-at-a-time/)
 
 </details>
 <br>
