@@ -362,6 +362,12 @@ How can you ensure your users are making progress? If you are not using data on 
     - Is the problem large?
     - Is the problem urgent?
     - Is the problem valuable?
+- **Gokul's S.P.A.D.E Decision-making Toolkit**: Consensus doesn't work and when time comes to make hard decisions, there should be a person in-charge of it. So how do you do that? S.P.A.D.E—a technique for making difficult decisions—formed by Gokul Rajaram at Google and Facebook, and widely deployed at Square.
+    - S is for Setting: Precisely define the “what.” Show the why of the “when.” Clarify the “why.”
+    - P is for People: People come first. The first thing you do for every S.P.A.D.E. is identify the people who should consult (give input), approve, and most importantly, a single person who is responsible. Responsible means accountable. Consult maximally.
+    - A is for Alternatives: It’s the job of the responsible person—the decision maker—to come up with a set of alternatives that are feasible and realistic; diverse—they should not all be micro-variants of the same situation; and comprehensive—they should maximally cover the problem space. Brainstorm publicly.
+    - D is for Decide: Once you've laid out all the alternatives—complete with their respective pros and cons and quantitative modelーit is time to get your consultants to vote. Get feedback privately.
+    - E is for Explain: Once you've decided, now the real work begins. Go to the approver and lay out the alternatives and your argument.  If you created a high-quality decision framework, they're unlikely to veto it. Call a commitment meeting. Broadcast your decision. Add it to the S.P.A.D.E. log. Keep a log that links to your S.P.A.D.E. and marks the date of the decision. It will be much easier than relying on Gmail search or Slack when you want to reference or amend a past decision.
 - **Application Programming Interface (API)**: APIs are mechanisms that enable two software components to communicate with each other using a set of definitions and protocols. For example, Morningstar's software system contains daily stock market data. The stock market app on your phone “talks” to this system via APIs and shows you daily stock prices on your phone. People interact with software through Graphical User Interfaces (GUIs) while software interacts with another software through APIs.
     - APIs are developer friendly. APIs can serve as [Placeholder]-As-A-Service. The placeholder can be wealth management, inventory management or ride-sharing. Simply by writing a few lines of code, platforms can let their customers set up any services. APIs abstract away code and business complexity. I can use ACH services through API without writing code or understanding how ACH works. APIs can be internal or external facing.
     - APIs consist of functions, contracts, business logic which helps scale for adoption. Businesses today can use APIs from other software providers without having to invest their own resources to build out capabilities. If I am in the business of stock data, I do not need to build a payment gateway. I can use Stripe's API to build my business.
@@ -458,6 +464,7 @@ How can you ensure your users are making progress? If you are not using data on 
     - [Khan Academy SQL](https://www.khanacademy.org/computing/computer-programming/sql)
     - [SQL Zoo](https://sqlzoo.net/wiki/SELECT_basics)
 - [Domain drive boldness](https://dev.37signals.com/domain-driven-boldness/)
+- [Gokul's S.P.A.D.E. Toolkit: How to implement Square's famous decision-making framework](https://coda.io/@gokulrajaram/gokuls-spade-toolkit)
 
 </details>
 <br />
