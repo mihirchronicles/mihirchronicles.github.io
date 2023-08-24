@@ -9,7 +9,8 @@ path: "/notes/on-product-teardown"
 The trick to a product teardown is deep empathy for the end user. UX and product management share the same broad goals: understanding users’ needs and solving their core problems with excellent user experience. The emphasis is on solving the user problem. Don't let—product that looks great, has nice onboarding, and delightful animations—be a distraction.
 
 Some questions to ask when doing a product teardown:
-- What is the offering and who are the founders behind it?
+- What is the offering?
+- What is the founder/organization story? What is their mission? What is the motivation for people behind the product?
 - What problem does this product solve? Is this really a problem? Is it an underlying problem or a surface level problem? How painful is this problem for users?
 - Are there any metrics on number of users?
 - What is the goal or a strategy and does this product help solve or make progress on it?
@@ -17,10 +18,8 @@ Some questions to ask when doing a product teardown:
 - How much customization affordance does a product offer to its clients? 
 - What are the most competent competitors to this product?
 - How does this compare to using an alternative solution? Do you really need this?
-- What is the motivation for people behind the product?
-- What is the founder/organization story? What is their mission?
-- Do they have unique organizational structure to empower product, design and engineering to solve user problems? What is their team culture?
 - Are there any design patterns or user experience that standout?
+- Do they have unique organizational structure to empower product, design and engineering to solve user problems? What is their team culture?
 - How does the product grow? Are there any unique growth strategies?
 
 Product teardown is an exercise to gain expertise from strong teams who are building great products. Hands-on experience beats any book or lecture in gaining a deep understanding of how to build great products.

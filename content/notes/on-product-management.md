@@ -395,15 +395,8 @@ How can you ensure your users are making progress? If you are not using data on 
         - III. Product Rental: Consumption is rapidly increasing as the market grows. The object is profitable, new features can differentiate it, and there is a refinement of needs. Things are starting to get competitive, and the profit margins mean it’s a crowded market.
         - IV. Commodity/Utility: The object is widespread and stabilizing. It’s a mature and ordered market. The high volume has decreased margins. Operational efficiency is king, and failure is not tolerated in the market. This is the cost of doing business (like oil & gas).
 - **Analytical skills**: Being analytical isn’t only about numbers. It is about developing healthy skepticism and curiosity, validating your hypothesis (and having a hypothesis in the first place) and vetting with multiple data points to get closer to the truth. It gives you a competitive edge, and you will learn to make informed decisions.
-    - Retrieve: First, you need to learn how to get data. SQL is most common in work places. Basic SQL queries to retrieve data:
-        - SQL commands are not case-sensitive, but it is a good practice.
-        - `SELECT first_name , last_name, ex_age FROM executions WHERE first_name = 'Hello' AND last_name LIKE '%World%'`
-            - The `SELECT` block specifies which columns you want to output. Its format is `SELECT <column>, <column>`, .... Each column must be separated by a comma, but the space following the comma is optional. The star (`*`) is a special character that signifies we want all the columns in the table.
-            - The `FROM` block specifies which table we’re querying from. Its format is `FROM <table>`. It always comes after the `SELECT` block.
-            - The `WHERE` block allows us to filter the table for rows that meet certain conditions. Its format is `WHERE <clause>` and it always goes after the `FROM` block. A clause refers to a Boolean statement that the computer can evaluate to be true or false.
-            - The most powerful of these is probably `LIKE`. It allows us to use wildcards such as `%` and `_` to match various characters.
-        - Complex clauses can be made out of simple ones using Boolean operators like `NOT`, `AND` and `OR`. SQL gives most precedence to `NOT` and then `AND` and finally `OR`.
-    - Analyze: Basics of analytical thinking:
+    - Retrieve: First, you need to learn how to get data. SQL is most common in work places. SQL training resources can be found under references below.
+    - Analyze: Analytical thinking is to crunch numbers understand the why and execute at lightning speed. To do so you need the following basic understanding.
         - Patterns: See the norm, what sticks out, what needs a second look. Get a lay of the land, so you can start developing a point of view. To solve the puzzle, ask yourself the following questions:
             - What is “normal” around here? 
             - What sticks out?
@@ -450,6 +443,10 @@ How can you ensure your users are making progress? If you are not using data on 
 - [Wardley Maps Book](https://medium.com/wardleymaps)
 - [List of Wardley Maps](https://list.wardleymaps.com)
 - [Wardley Maps Template](https://onlinewardleymaps.com)
+- SQL
+    - [Learn SQL](https://dataschool.com/learn-sql/)
+    - [Khan Academy SQL](https://www.khanacademy.org/computing/computer-programming/sql)
+    - [SQL Zoo](https://sqlzoo.net/wiki/SELECT_basics)
 
 </details>
 <br />
