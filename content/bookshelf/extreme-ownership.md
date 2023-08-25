@@ -5,17 +5,17 @@ path: "/bookshelf/extreme-ownership"
 ---
 
 ## I. Brief Summary
-A clear application on how to be a leader with extreme ownership. Navy SEALs Jocko Willink and Leif Babin discuss leadership lessons which includes practicing extreme ownership, killing your ego, enforcing standards, simplifying, prioritizing, and executing. Each chapter includes their experience fighting in the Battle of Ramadi, Iraq, with concluding lesson on a leadership principle and business application.
+A book on how to be a leader with extreme ownership. Navy SEALs Jocko Willink and Leif Babin discuss leadership lessons which includes practicing ownership, killing ego, enforcing standards, simplifying, prioritizing, and executing. Each chapter includes their experience fighting in the Battle of Ramadi, Iraq, with concluding lesson on a leadership principle and business application.
 
 ## II. Big Ideas
 - The leader is always responsible.
-- Everyone on the team must believe in the mission.
+- Everyone on a team must believe in the mission.
 - Work with other teams to achieve mutually beneficial outcomes.
 - Keep plans simple, clear, and concise and communicate them clearly.
 - Check your ego and lead with humility.
 - Figure out your priorities, and then act on them one at a time.
 - Clarify your mission.
-- Engage with your higher-ups; keep them in the loop--especially when they frustrate you.
+- Engage with your higher-ups; keep them in the loop, especially when they frustrate you.
 - Act decisively, even when things are chaotic. Get comfortable making decisions with incomplete information.
 - Lead and support your superiors.
 - Leader's Planning Checklist: 
@@ -45,9 +45,9 @@ A clear application on how to be a leader with extreme ownership. Navy SEALs Joc
     - It is the direct responsibility of a leader to get people to listen, support, and execute plans.
     - You can’t make people do things. You have to lead them.
     - Extreme ownership is asking yourself, “How can I best get my team to most effectively execute the plan in order to accomplish the mission?”
-    - Every mistake, every failure or shortfall – own it.
+    - Every mistake, every failure or shortfall must be owned.
     - Pointing fingers and blaming others is easy and contagious.
-    - You create the culture. What you do as the leader will be emulated by your subordinates.
+    - You create the culture. What you do as a leader will be emulated by your subordinates.
     - If something isn’t going your way, start with what you are going to do differently.
 
 ## III. Quotes
