@@ -16,6 +16,7 @@ module.exports = {
     },
     description: `A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.`,
     siteUrl: `https://mihirchronicles.com/`,
+    siteImage: `./src/images/mehere.png`,
     social: {
       twitter: `mihirchronicles`,
     },
@@ -112,6 +113,7 @@ module.exports = {
                 title
                 description
                 siteUrl
+                siteImage
                 site_url: siteUrl
               }
             }
@@ -125,6 +127,7 @@ module.exports = {
                   description: node.excerpt,
                   date: node.frontmatter.date,
                   url: site.siteMetadata.siteUrl + node.fields.slug,
+                  image: site.siteMetadata.siteImage + node.fields.slug,
                   guid: site.siteMetadata.siteUrl + node.fields.slug,
                   custom_elements: [{ "content:encoded": node.html }],
                 })
