@@ -26,4 +26,4 @@ A clutch finally arrives, chicks get stronger, wings widen, and they are set fre
 
 And the bird shows up next year with same focus to do it all over again. This time too without a plan.
 
-A valuable lesson for us humans on how to build. The way to build nest is by building a nest.
+A valuable lesson for us humans on how to build. The way to build a nest is by building a nest.
