@@ -12,12 +12,9 @@ Some questions to ask when doing a product teardown:
 - What is the offering?
 - What is the founder/organization story? What is their mission? What is the motivation for people behind the product?
 - What problem does this product solve? Is this really a problem? Is it an underlying problem or a surface level problem? How painful is this problem for users?
-- Are there any metrics on number of users?
-- What is the goal or a strategy and does this product help solve or make progress on it?
-- Where are the points of friction? What is clear and what is not clear?
+- What is the goal or a strategy and does this product help solve or make progress on it? Where are the points of friction? What is clear and what is not clear?
 - How much customization affordance does a product offer to its clients? 
-- What are the most competent competitors to this product?
-- How does this compare to using an alternative solution? Do you really need this?
+- What are the most competent competitors to this product? How does this compare to using an alternative solution? Do you really need this?
 - Are there any design patterns or user experience that standout?
 - Do they have unique organizational structure to empower product, design and engineering to solve user problems? What is their team culture?
 - How does the product grow? Are there any unique growth strategies?
@@ -26,9 +23,44 @@ Product teardown is an exercise to gain expertise from strong teams who are buil
 
 | Product | Description | 
 | -------------|:-------------:|
+| _Northstar Money_| Northstar helps employees better utilize their total compensation and make financial decisions. |
 | _Wealthfront_| A robo-advisor service that recommends a low-cost, tax-efficient diversified portfolio that match your financial goals and risk tolerance. |
 | _Ramp_ | They provide corporate cards and a spend management platform, helping startups save money and control spending. |
 | _Duolingo_ | They use gamification approach to language learning, with lessons that incorporate translating, interactive exercises, quizzes, and stories to make learning more engaging and fun. |
+
+<details>
+    <summary><strong>Northstar Money</strong></summary>
+    <br>
+
+<img src="../../src/images/teardown/northstarmoney.png" alt="northstar money"/>
+</br>
+
+Northstar is a financial wellness program for employees based out of Los Angeles (LA). Their mission is to democratize access to financial knowledge for all.
+
+They have developed a set of personal financial management tools and built a team of in-house financial advisors to help guide employees through various financial and life situations with the aim of helping them understand “the full value of their compensation, equity, and benefits.”
+
+Will Peng graduated from Princeton with about $35,000 in debt. He was frustrated with overwhelming number of options to choose from. Realizing that receiving financial advisory services is often a luxury reserved for the upper middle class or affluent, Peng decided the best way to make such services more accessible was to partner with employers to offer a financial wellness benefit to their employees.
+
+There are so many financial services and benefits available to us today—roboadvisors, index funds, HSAs and FSAs, refinancing, Roth IRAs, and more. But how do you know what's right for you? The wealthy hire financial advisors to navigate these choices, but that is expensive for a novice saver and investor.
+
+By making personalized financial guidance accessible to everyone, Northstar helps companies increase engagement and support their teams at scale during onboarding, open enrollment, equity events, and more.
+
+- Takeaways:
+    - 1:1 advice with credentialed financial advisors through advisor chat or video calls. Northstar pairs employees with the same advisor so they can feel comfort and familiarity rather than have an employee talk to a different individual every time they have a question.
+    - The company has been intentional about hiring diverse staff so that employees are more likely to talk with people with similar backgrounds as their own.
+    - Automated transfers to attain personal goals. 
+    - Financial planing with custom dashboard which reflects the current and future state of your money, including income, bills, budget, and progress towards goals.
+    - Offering available globally. Money is global so why not advice? It's been raising capital to penetrate all around the globe.
+    - Distribution channel is clever and predictable which is done by partnering up with employers. The licensing per seat model is more sustainable over AUM model that the big players in the industry rely on. This also removes conflict between the provider and the consumer of the offering.
+    - With unique set of interface, customization, and 1:1 advisor relationship, Northstar stands out among its peers. But nothing seems novel with the offering. The space is hyper-competitive. But the unique strategy of distributing via employers is great. HR is always under-funded or there is a lack of resources so having a supporting vendor like this is great to keep employees engaged. 
+    - “No lingo, no fine print, and no judgement. Our team is 100% on your side.”
+
+- Reading material:
+    - [Northstar Money Website](https://www.northstarmoney.com)
+    - [Northstar Blog](https://www.northstarmoney.com/blog)
+
+</details>
+<br>
 
 <details>
     <summary><strong>Wealthfront</strong></summary>
