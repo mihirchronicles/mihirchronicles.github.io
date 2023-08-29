@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 28 Aug 2023 02:07:14 GMT</lastBuildDate><item><title><![CDATA[Retreat Seeking Dilemma]]></title><description><![CDATA[Why do we take retreats? I have gone down the path of taking retreats to both escape and learn about other cultures. I thought they were…]]></description><link>https://mihirchronicles.com/retreat-seeking-dilemma/</link><guid isPermaLink="false">https://mihirchronicles.com/retreat-seeking-dilemma/</guid><pubDate>Sat, 26 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Why do we take retreats?&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 29 Aug 2023 14:52:12 GMT</lastBuildDate><item><title><![CDATA[Retreat Seeking Dilemma]]></title><description><![CDATA[Why do we take retreats? I have gone down the path of taking retreats to both escape and learn about other cultures. I thought they were…]]></description><link>https://mihirchronicles.com/retreat-seeking-dilemma/</link><guid isPermaLink="false">https://mihirchronicles.com/retreat-seeking-dilemma/</guid><pubDate>Sat, 26 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Why do we take retreats?&lt;/p&gt;
 &lt;p&gt;I have gone down the path of taking retreats to both escape and learn about other cultures. I thought they were both one and the same thing, but they are not.&lt;/p&gt;
 &lt;p&gt;We (my wife and I) left Chicago during the Covid-19 pandemic for Austin.&lt;/p&gt;
 &lt;p&gt;It was strictly to escape brutal winters and get more sun. The scenes of everyday life were no longer desired. You start daydreaming about what life could be on the other side. The idea of leaving ordinary life for something more exciting occupied my mind. There was no longer a desire to live a mundane life.&lt;/p&gt;
@@ -144,12 +144,9 @@
 &lt;li&gt;What is the offering?&lt;/li&gt;
 &lt;li&gt;What is the founder/organization story? What is their mission? What is the motivation for people behind the product?&lt;/li&gt;
 &lt;li&gt;What problem does this product solve? Is this really a problem? Is it an underlying problem or a surface level problem? How painful is this problem for users?&lt;/li&gt;
-&lt;li&gt;Are there any metrics on number of users?&lt;/li&gt;
-&lt;li&gt;What is the goal or a strategy and does this product help solve or make progress on it?&lt;/li&gt;
-&lt;li&gt;Where are the points of friction? What is clear and what is not clear?&lt;/li&gt;
+&lt;li&gt;What is the goal or a strategy and does this product help solve or make progress on it? Where are the points of friction? What is clear and what is not clear?&lt;/li&gt;
 &lt;li&gt;How much customization affordance does a product offer to its clients?&lt;/li&gt;
-&lt;li&gt;What are the most competent competitors to this product?&lt;/li&gt;
-&lt;li&gt;How does this compare to using an alternative solution? Do you really need this?&lt;/li&gt;
+&lt;li&gt;What are the most competent competitors to this product? How does this compare to using an alternative solution? Do you really need this?&lt;/li&gt;
 &lt;li&gt;Are there any design patterns or user experience that standout?&lt;/li&gt;
 &lt;li&gt;Do they have unique organizational structure to empower product, design and engineering to solve user problems? What is their team culture?&lt;/li&gt;
 &lt;li&gt;How does the product grow? Are there any unique growth strategies?&lt;/li&gt;
@@ -164,6 +161,10 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Northstar Money&lt;/em&gt;&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Northstar helps employees better utilize their total compensation and make financial decisions.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td&gt;&lt;em&gt;Wealthfront&lt;/em&gt;&lt;/td&gt;
 &lt;td align=&quot;center&quot;&gt;A robo-advisor service that recommends a low-cost, tax-efficient diversified portfolio that match your financial goals and risk tolerance.&lt;/td&gt;
 &lt;/tr&gt;
@@ -177,6 +178,50 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;details&gt;
+    &lt;summary&gt;&lt;strong&gt;Northstar Money&lt;/strong&gt;&lt;/summary&gt;
+    &lt;br&gt;
+&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/6f5abfc9d2946542d45ac0ec687acd77/75c39/northstarmoney.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 55.06329113924051%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAACrUlEQVR42lVSa0sUYRSen9NFTDGwm5Am5i11xcvulrpqoEJFKggRWPQ1P4RRZJofsjTpYutdCMSSLaGCgtzVUNK9zu7s7Ow7s7O3dp/OO+KHBh7OeWfOPOc5z3uEsMrg8rixGwggqusGREWBX5YRjEbhj8gI8UhnHyHEmJHzyOJxRDQdUvQASkyHoMRixo8SER8SRjQNMiFC3w4jbxwmEllVjRimaNSpGhQ1hpSehKbHIfAuyb9pJNJp6MkU9FQKiVQacQLPGRUxapLJZJDIZhFKJhCnnD9ZHDzJbAYrsg+bigRBom5bXg/ckoRdMYC9YNCwgL/jOVesEBY+rWJkZhoP305i5P0rTCzZ8XLRjtcr83iwNIOG+Qn8CgUgBMivd451vFn/CPsXB6bWVo3z6s8f2Nh2GT7Jmoqm3i4cqSrCifoy5JcXobDmPPLMlTjTUotCSw0sN3sgkiiBm+twbuKzaxMbWy4sf/sKl9tNY6egEhlXyH0z9/cg13QBObXF6LZZMHjvDnKbylDd2Yz6DjNMfV3wSEEIYaZiy+PDb18AO34Rf8QQtr1+ON0eykUoxsUQ4fWryK04h4KGUtS1tuHG7bsoaCpFeWM1Gs11qLxmgzdEhBGNwetxQhJ3oMr7iIb3DDDFb4yrJhLgPg+QkpKzR3GxoxWVXX04bW1DTn0Jjp/Kw7GT+ajovgI3CRCYvIfsBxsyyxaEZ61g85eRXWxAyjGICN2wRqQSrcfArV5Yq4thba5Ce4sJ7W0mdHY2oqK8BJcItnYzAnzkaEwFI2WqzJXtG+D5oUK+MsNeJ+6vLWDu+Shmp8ZhfzGGuclxTD97jKfDQxh7NITRJ8OQWZQISYVCSynTxv8HWtYIjRqiou9BH2TyksUTVEsXFT8AIzu0ZBIiXVowphk7+w97h9gqOKtkNAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;northstar money&quot; title=&quot;&quot; src=&quot;/static/6f5abfc9d2946542d45ac0ec687acd77/f058b/northstarmoney.png&quot; srcset=&quot;/static/6f5abfc9d2946542d45ac0ec687acd77/c26ae/northstarmoney.png 158w,
+/static/6f5abfc9d2946542d45ac0ec687acd77/6bdcf/northstarmoney.png 315w,
+/static/6f5abfc9d2946542d45ac0ec687acd77/f058b/northstarmoney.png 630w,
+/static/6f5abfc9d2946542d45ac0ec687acd77/40601/northstarmoney.png 945w,
+/static/6f5abfc9d2946542d45ac0ec687acd77/78612/northstarmoney.png 1260w,
+/static/6f5abfc9d2946542d45ac0ec687acd77/75c39/northstarmoney.png 2618w&quot; sizes=&quot;(max-width: 630px) 100vw, 630px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;br&gt;
+&lt;p&gt;Northstar is a financial wellness program for employees based out of Los Angeles (LA). Their mission is to democratize access to financial knowledge for all.&lt;/p&gt;
+&lt;p&gt;They have developed a set of personal financial management tools and built a team of in-house financial advisors to help guide employees through various financial and life situations with the aim of helping them understand “the full value of their compensation, equity, and benefits.”&lt;/p&gt;
+&lt;p&gt;Will Peng graduated from Princeton with about $35,000 in debt. He was frustrated with overwhelming number of options to choose from. Realizing that receiving financial advisory services is often a luxury reserved for the upper middle class or affluent, Peng decided the best way to make such services more accessible was to partner with employers to offer a financial wellness benefit to their employees.&lt;/p&gt;
+&lt;p&gt;There are so many financial services and benefits available to us today—roboadvisors, index funds, HSAs and FSAs, refinancing, Roth IRAs, and more. But how do you know what&apos;s right for you? The wealthy hire financial advisors to navigate these choices, but that is expensive for a novice saver and investor.&lt;/p&gt;
+&lt;p&gt;By making personalized financial guidance accessible to everyone, Northstar helps companies increase engagement and support their teams at scale during onboarding, open enrollment, equity events, and more.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Takeaways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1:1 advice with credentialed financial advisors through advisor chat or video calls. Northstar pairs employees with the same advisor so they can feel comfort and familiarity rather than have an employee talk to a different individual every time they have a question.&lt;/li&gt;
+&lt;li&gt;The company has been intentional about hiring diverse staff so that employees are more likely to talk with people with similar backgrounds as their own.&lt;/li&gt;
+&lt;li&gt;Automated transfers to attain personal goals.&lt;/li&gt;
+&lt;li&gt;Financial planing with custom dashboard which reflects the current and future state of your money, including income, bills, budget, and progress towards goals.&lt;/li&gt;
+&lt;li&gt;Offering available globally. Money is global so why not advice? It&apos;s been raising capital to penetrate all around the globe.&lt;/li&gt;
+&lt;li&gt;Distribution channel is clever and predictable which is done by partnering up with employers. The licensing per seat model is more sustainable over AUM model that the big players in the industry rely on. This also removes conflict between the provider and the consumer of the offering.&lt;/li&gt;
+&lt;li&gt;With unique set of interface, customization, and 1:1 advisor relationship, Northstar stands out among its peers. But nothing seems novel with the offering. The space is hyper-competitive. But the unique strategy of distributing via employers is great. HR is always under-funded or there is a lack of resources so having a supporting vendor like this is great to keep employees engaged.&lt;/li&gt;
+&lt;li&gt;“No lingo, no fine print, and no judgement. Our team is 100% on your side.”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reading material:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.northstarmoney.com&quot;&gt;Northstar Money Website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.northstarmoney.com/blog&quot;&gt;Northstar Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br&gt;
 &lt;details&gt;
     &lt;summary&gt;&lt;strong&gt;Wealthfront&lt;/strong&gt;&lt;/summary&gt;
     &lt;br&gt;
