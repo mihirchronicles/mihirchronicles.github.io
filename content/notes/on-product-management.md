@@ -154,6 +154,19 @@ PMs are always learning, but they should keep up with core competencies. The fol
 
 ## Core competencies of a product manager
 
+Ian McAllister (former Amazon executive) response on Quora on how to become a top 1% — “The top 10% of product managers excel at a few of these things. The top 1% excel at most or all of them:
+
+- *Think big*: A 1% PM's thinking won't be constrained by the resources available to them today or today's market environment. They'll describe large disruptive opportunities and develop concrete plans for how to take advantage of them.
+- *Communicate*: A 1% PM can make a case that is impossible to refute or ignore. They'll use data appropriately, when available, but they'll also tap into other biases, beliefs, and triggers that can convince the powers that be to part with headcount, money, or other resources and then get out of the way.
+- *Simplify*: A 1% PM knows how to get 80% of the value out of any feature or project with 20% of the effort. They do so repeatedly, launching more and achieving compounding effects for the product or business.
+- *Forecast and measure*: A 1% PM is able to forecast the approximate benefit of a project and can do so efficiently by applying past experience and leveraging comparable benchmarks. They also measure benefit once projects are launched and factor those learnings into their future prioritization and forecasts.
+- *Execute*: A 1% PM grinds it out. They do whatever is necessary to ship. They recognize no specific bounds to the scope of their role. As necessary, they recruit, they produce buttons, they do bizdev, they escalate, they tussle with internal counsel, they *.
+- *Understand technical trade-offs*: A 1% PM does not need to have a CS degree. They do need to be able to roughly understand the technical complexity of the features they put on the backlog, without any costing input from devs. They should partner with devs to make the right technical trade-offs (i.e. compromise).
+- *Understand good design*: A 1% PM doesn't have to be a designer, but they should appreciate great design and be able to distinguish it from good design. They should also be able to articulate the difference to their design counterparts, or at least articulate directions to pursue to go from good to great.
+- *Write effective copy*: A 1% PM should be able to write concise copy that gets the job done. They should understand that each additional word they write dilutes the value of the previous ones. They should spend time and energy trying to find the perfect words for key copy (button labels, nav, calls-to-action, etc.), not just words that will suffice.”
+
+And more...
+
 - *Story-tellers:* the best PMs are able to weave tales that incorporate market needs, strategy, and tactics into a story that their stakeholders can get their heads around and hopefully adopt the story themselves. It can be challenging when you see something clearly, but you can’t get others around you to see it. You work through other people's eyes, so it takes a lot of convincing. You have to be a great communicator and storyteller. You have to read your audience. You have to try harder to understand others and find an angle to explain that makes sense to them. People you work with are smart, they just need a great story to be convinced.
 - *Learning by doing:* to master the art of product management requires several years of practice and doing. Natural talents won't be enough. Ultimately, the best thing you can do to prepare for a career in product management is to build. Manage and “own” a project from inception through execution and operation. Create KPIs to measure your impact.
 - *3 Ps:* analyze the 3 Ps—people, process and product, to assess on the quality of people, the best process to deliver the product, and excellence and relevance of a product. Keep in mind to not implement process for the sake of process. Relevance is a key to establish the right process.
@@ -466,6 +479,7 @@ How can you ensure your users are making progress? If you are not using data on 
 - [Lenny's Newsletter](https://www.lennyrachitsky.com/)
 - [The nature of product | Marty Cagan, Silicon Valley Product Group](https://www.lennyspodcast.com/the-nature-of-product-marty-cagan-silicon-valley-product-group/#transcript)
 - [Product Core Competencies by Marty Cagan](https://www.svpg.com/product-core-competencies/)
+- [What distinguishes the Top 1% of product managers from the Top 10%?](http://www.quora.com/Product-Management/What-distinguishes-the-top-1-of-product-managers-from-the-top-10)
 - [The Essence of Product | Christian Idiodi](https://youtu.be/U_HBcBus1nI)
 - [Shaping in a Nutshell by Ryan Singer at Basecamp](https://www.youtube.com/watch?app=desktop&v=h_8M23wVjXk)
 - [Jason Evanish's Twitter thread](https://jasonevanish.com/2020/01/12/100-lessons-and-spicy-takes-on-being-a-software-product-manager/)
