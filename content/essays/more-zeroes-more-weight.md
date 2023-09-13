@@ -1,7 +1,7 @@
 ---
 title: "More Zeroes More Weight"
 tags: ["general"]
-date: "2023-09-11"
+date: "2023-09-01"
 draft: false
 path: "/essays/more-zeroes-more-weight"
 ---
