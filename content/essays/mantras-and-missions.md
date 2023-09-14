@@ -1,7 +1,7 @@
 ---
 title: "Mantras And Missions"
 tags: ["general"]
-date: "2023-09-10"
+date: "2023-09-06"
 draft: false
 path: "/essays/mantras-and-missions"
 ---
@@ -16,7 +16,7 @@ I personally practice this mantra because I was not the calmest person growing u
 
 This brings order to life when I am the most volatile.
 
-Can this type of thinking also translate in the business world?
+Can this type of thinking also translate into the business world?
 
 I have seen it first-hand while I worked at Morningstar because management deeply cared about empowering investor's success. It directly came from the founder of the company, Joe Mansueto. This was Morningstar's North Star since its founding days. And the same mission statement is still being practiced today after 3 decades. It wasn't perfect, but a great manual on how to operate.
 
