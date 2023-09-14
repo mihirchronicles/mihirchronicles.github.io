@@ -58,8 +58,6 @@ My experience tells me it is hard to quantify risks on this side of the coin, bu
 
 There are paths that are less traveled and there are paths that have never been traveled before. Risk tolerance varies when you are building a rocket ship versus a pen. I'll never be able to matchup against Elon Musk. I am a prisoner to my comfort and lifestyle. 
 
-In the end, my friend was right—I am low on risk tolerance because I would be resistant to paths that have never been ever traveled. 
+After all my friend was right—I am low on risk tolerance because I would be resistant to extreme paths, and I am too calculated in my risk taking approach. You cannot convince me to live on Mars. But at least I know the varying degree of risks that exist both in investing and entrepreneurship.
 
-But at least I know the varying degree of risks that exist both in investing and entrepreneurship.
-
-Those who don’t take a risk don’t have a snack.
+In the end, those who don’t take risk don’t get a snack.
