@@ -16,7 +16,7 @@ They both inherently required making bets, but they were both different types of
 
 In investing, your job is to mitigate as much as risk possible, but I was vulnerable to my weakest impulses and passions during the Great Recession of 2008. Before the collapse, speculation dominated the culture and I participated in it. I made my quick dollars in short amount of time, but lost majority of it during the recession.
 
-These lessons had a huge impact on me. I was never going to make the same mistakes again, at least in investing, which is to lose my initial principal.
+These lessons had a huge impact on me. I decided to never make those same mistakes again, at least in investing, which is not to lose initial investment.
 
 I became a risk mitigator. The impact of that was I became too skeptical about everything and missed out on the large returns before the COVID-19 pandemic. I had no interest in get-rich-quickly conversations.
 
@@ -33,19 +33,19 @@ Lessons I took away about risk taking from investing experience:
 2. The basic trade-off in finance is to balance risk and return. I cannot control the markets, but what I can control is to minimize losses by purchasing a stock at a fair price with a right quantity. The goal is to minimize deficit on a potential outcome.
 3. There is a difference between risk-taker and gambler. You can mitigate risk, but you can't overcome a losing gamble.
 4. Uncertainty does not equal risk.
-5. It is never a good idea to borrow conviction from others otherwise you'll misjudge risk and size your positions large or small.
+5. It is never a good idea to borrow conviction from others otherwise you'll misjudge risk and size your positions wrong.
 
 This is one side of my experience with risk taking from investing. The other side comes from entrepreneurship which has a different flavor of risk.
 
-I have now built two products which required funding from my own pocket without any customers. And I do not come from wealthy family. I didn't have anyone to fall back onto. Where did that confidence of risk taking come from?
+I have now built two products which required funding from my own pocket without any customers. And if I were to fail, I didn't have anyone to fall back onto because I do not come from wealthy family. So, where did that confidence of risk taking come from?
 
-The ideas are always boiling in my head, but I do not execute on them all. But for the pen and mental model project, I was brave enough to live life creatively. 
+For the pen and mental model project, I was brave enough to live life creatively. I didn't care about assessing risk. I had to listen to my gut.
 
 The creative side is to bring the idea floating in my head to life. And if all failed, I would learn a skill or two. None of these ideas were change-the-world type of ideas. I would consider them lifestyle businesses within educational category. Both were strong enough to bring to life.
 
 Entrepreneurship is like adventuring out into wilderness. There are no roads or buses. You rely on your intuition. You work hard. And you take risky path to the unknowns. But when all is said and done, you discover something beautiful. And you can share the experience with the world. Both of my products felt that way!
 
-I am able to justify losing if the outcome is to be able to share something beautiful with the world. There is no risk mitigation strategy here. You work hard to pave the path for progress. I cannot quantify risk here, but in the end it was all worth it.
+I am able to justify losing if the outcome is to be able to share something beautiful with the world. There was no risk mitigation strategy here. I worked hard to pave the path for progress. I couldn't quantify risk, but in the end it was all worth it.
 
 Lessons I took away about risk taking from entrepreneurial experience:
 1. It is hard to determine what is dumb luck and what is unfortunate risk in entrepreneurship. 
@@ -54,10 +54,10 @@ Lessons I took away about risk taking from entrepreneurial experience:
 4. As an entrepreneur, it is your job to kill risks that is under your control. For example, increase the velocity of decision-making.
 5. Optimism is a risk killer.
 
-My experience tells me it is hard to quantify risks on this side of the coin, but it is easy to point varying degree of risk tolerance. 
+My experience tells me it is hard to quantify risks on this side of the coin, but there are varying degree of risk tolerances.
 
-There are paths that are less traveled and there are paths that have never been traveled before. Risk tolerance varies when you are building a rocket ship versus a pen. I'll never be able to matchup against Elon Musk. I am a prisoner to my comfort and lifestyle. 
+There are paths that are less traveled and there are paths that have never been traveled before. Risk tolerance varies when you are building a rocket ship versus a pen.
 
 After all my friend was right—I am low on risk tolerance because I would be resistant to extreme paths, and I am too calculated in my risk taking approach. You cannot convince me to live on Mars. But at least I know the varying degree of risks that exist both in investing and entrepreneurship.
 
-In the end, those who don’t take risk don’t get a snack.
+The takeaway lesson is the size of your snack depends on the type of risk you take. If you don’t take risk you don’t get a snack.
