@@ -620,12 +620,151 @@ As with all cognitive biases, you can't fix this. It's a fundamental part of how
 ## Economics
 | Model | Definition | 
 | -------------|:-------------:|
+| _Supply and demand_ | Key to understanding surpluses and shortages and the pricing forces behind market economics. |
+| _Elasticity of demand_ | When prices go up, the demand for a given product usually goes down. When prices go down the demand usually goes up. |
+| _Scarcity_ | There is a finite amount of resources yet an infinite amount of human wants. Based on scarcity, decisions need to be made about how best to allocate resources. |
+| _Economies of scale_ | Describes the cost advantage of products with cost per unit of output decreasing with increasing scale. |
+| _Costs_ | Something’s cost is the payment required to obtain it. In economics, there are a variety of costs. |
 | _Pareto principle_ | 80% of the outcomes come from 20% of the action. |
 | _Tradeoffs_ | A giving up of one thing in return for another to produce the most desirable outcome. |
 | _Tragedy of commons_ | When a set of individuals act in their own self-interest by depleting common resources. |
 | _Competitive advantage_ | Competitive advantage is the leverage a business has over its competitors. |
 | _Wealth effect_ | The wealth effect reflects the effect that rising wealth has on consumer confidence. |
 | _Creative destruction_ | Outdated product replaced by new ones due to innovation. |
+
+<details>
+    <summary><strong>Supply and demand</strong></summary>
+    <br>
+
+Key to understanding surpluses and shortages and the pricing forces behind market economics.
+
+An economic model which helps to set the market price for goods and services. Prices will vary based on the supply and demand but will settle when the demand is equal to the supply.
+
+For example, if winter hits Florida, the price of orange juice rises in supermarkets throughout the country.
+
+The law of demand states that there is an inverse relationship between the price of a good and the quantity of the good demanded. Demand can be influenced by: the income level of the buyer, the price of the good, the availability of substitutes. Demand can be influenced by, among other things, social proof, envy and jealousy, incentives, feedback loops, association, commitment and consistency, over-influence from authority (or celebrity), contrast, and ideological bias.
+
+The law of supply states that there is a positive relationship between the price of a good and the quantity supplied. The price levels of the good, the costs of inputs to produce the good, and the technological costs to produce a good are all factors that influence the level of goods supplied. 
+
+The point at which the supply and the demand curves meet is called as the equilibrium. The price at this intersection is called as equilibrium price. At the equilibrium price, the quantity of the good that buyers are willing and able to buy exactly balances the quantity that sellers are willing and able to sell.
+
+Technological improvement increases supply. Is this good for you as a business owner? It depends on the type of business that you are doing. If you are in the commodity business and there is already an excess supply situation then technology is not going to help you as a business owner. In Elementary worldly wisdom Munger writes:
+
+“The great lesson in microeconomics is to discriminate between when technology is going to help you and when it’s going to kill you. And most people do not get this straight in their heads. But a fellow like Buffett does. For example, when we were in the textile business, which is a terrible commodity business, we were making low-end textiles—which are a real commodity product. And one day, the people came to Warren and said, “They’ve invented a new loom that we think will do twice as much work as our old ones. And Warren said, “Gee, I hope this doesn’t work because if it does, I’m going to close the mill.” And he meant it. What was he thinking? He was thinking, “It’s a lousy business. We’re earning substandard returns and keeping it open just to be nice to the elderly workers. But we’re not going to put huge amounts of new capital into a lousy business. And he knew that the huge productivity increases that would come from a better machine introduced into the production of a commodity product would all go to the benefit of the buyers of the textiles. Nothing was going to stick to our ribs as owners. That’s such an obvious concept—that there are all kinds of wonderful new inventions that give you nothing as owners except the opportunity to spend a lot more money in a business that’s still going to be lousy. The money still won’t come to you. All of the advantages from great improvements are going to flow through to the customers.”
+
+Charlie Munger on supply and demand:
+
+“You have studied supply and demand curves. You have learned that when you raise the price, ordinarily the volume you can sell goes down, and when you reduce the price, the volume you can sell goes up. Is that right? That’s what you’ve learned?” They all nod yes. And I say, “Now tell me several instances when, if you want the physical volume to go up, the correct answer is to increase the price?”
+
+Warren Buffet on supply and demand:
+
+“The textile industry illustrates in textbook style how producers of relatively undifferentiated goods in capital intensive businesses must earn inadequate returns except under conditions of tight supply or real shortage. As long as excess productive capacity exists, prices tend to reflect direct operating costs rather than capital employed. Such a supply-excess condition appears likely to prevail most of the time in the textile industry, and our expectations are for profits of relatively modest amounts in relation to capital.”
+
+ <br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Elasticity of demand</strong></summary>
+    <br>
+
+When prices go up, the demand for a given product usually goes down. When prices go down the demand usually goes up. 
+
+Demand is usually elastic for the products we do not care much about, such as socks.
+
+To really understand elasticity demand we have to define the term in two contexts, being elasticity of demand and the price elasticity of demand which is a similar measure that measures price change, and not just the quantity in demand.
+
+Elasticity of demand is a measure of the responsiveness of the quantity demanded to a change in some other variable on which quantity demanded is dependent, all other things held constant. This is akin to measuring the change in quantity now in demand because of a one percent change with other variants. Of course, all other variables must remain constant.
+
+Price elasticity of demand is a measure of the responsiveness of the quantity demanded to a change in price of a good/service, all other things held constant.
+
+It is a measure of the percentage difference in quantity being requested due to a one percent change in the price of the product or service in question. In this formulation, all other things remaining constant.
+
+In general, the price elasticity of demand is negative. This is in conformity with the law of demand.
+
+The law of demand is one of the most basic concepts in economics, and it works in cooperation with the law of supply. It states that quantity purchased varies inversely with price. Therefore, the higher the price of a product or service, the lower it will be demanded by consumers.
+
+A great example is toothpaste brand Colgate. When a product is being used in an area as sensitive as my mouth, I want a product I know and trust. I am not going to buy mystery brand “X” to save myself 10 cents on a $2.50 purchase. Colgate could actually raise the price a quarter; maybe even 50 cents and I would continue to pay it, also known as a low elasticity of demand or inelastic. Contrast a pair of socks: I really don’t care what brand I put on my feet and want the absolute cheapest per unit price I can find. Demand is elastic.
+
+ <br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Scarcity</strong></summary>
+    <br>
+
+Refers to a basic problem that we encounter in our world: there is a finite amount of resources yet an infinite amount of human wants. Based on scarcity, decisions need to be made about how best to allocate resources.
+
+In 1935, English economist Lionel Robbins described economics as the science of scarcity. That’s because many resources are usually assumed to be in short supply, i.e., scarce or limited.
+
+The principle of scarcity states that people assign more value to opportunities when they are less available. In other words, things seem more valuable to us when their availability is limited. This bias stems from the basic human tendency to shun losses.
+
+“Limited Time, Going Fast”—is the most common punchline at a shopping store that artificially or naturally drives scarcity.
+
+In the environment of artificial scarcity, certain resources may not be limited. It is manipulating the perception of people about certain resources which may not really be scarce. That’s where psychology of scarcity bias comes into picture.
+
+Make people perceive there is a huge competition for the item and limit the number of people that can participate in the bidding. Consumers always for it because they are motivated by what they stand to lose if they don’t act now.
+
+The less available it is, the more we desire it. Munger on auctions which drives the point on scarcity bias:
+
+“...open-outcry auction is just made to turn the brain into mush: you’ve got social proof, the other guy is bidding, you get reciprocation tendency, you get deprival super-reaction syndrome, the thing is going away. I mean it just absolutely is designed to manipulate people into idiotic behavior.”
+
+ <br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Economies of scale</strong></summary>
+    <br>
+
+Describes the cost advantage of products with cost per unit of output decreasing with increasing scale.
+
+The cost advantages that enterprises obtain due to size, throughput, or scale of operation, with cost per unit of output generally decreasing with increasing scale as fixed costs are spread out over more units of output. 
+
+Describes the cost advantage of products, for both producers and consumers, when production is scaled up. It costs more per unit to produce just 1 of something than it does to produce 1000 because the production costs are spread over the units.
+
+Operational efficiency is also greater with increasing scale, leading to lower variable cost as well.
+
+In his commencement speech to the USC law school grads in 1994, Charlie Munger mentions “scale” 24 times. The advantages of scale are “ungodly important”, he points out.
+
+Benefits of Scale = Lower Costs, Higher Prices & Bets on New Markets.
+
+Benefits of scale include reducing costs, raising prices and testing new markets.
+
+The Law of Scale can also allow for charging higher prices. One of Charlie’s favorite examples of higher prices is this Wrigley gum example in which I paraphrase Charlie: If you’re given a choice of paying $.30 for a pack of Wrigley Chewing Gum versus $.20 for “Schlotz’s Gum,” you’re likely going to choose to pay $.10 more for Wrigley because you’ve heard of it before.
+
+The law of scale also allows a business to test new customer acquisition. Charlie, in his USC speech, gives the example of how scale allowed Proctor and Gamble to enter the TV advertising market in the 1950′s and ’60s: “…in the early days, we had three networks that had whatever it was—say 90% of the audience. Well, if you were Procter & Gamble, you could afford to use this new method of advertising. You could afford the very expensive cost of network television because you were selling so many cans and bottles. Some little guy couldn’t. And there was no way of buying it in part. Therefore, he couldn’t use it. In effect, if you didn’t have a big volume, you couldn’t use network TV advertising which was the most effective technique. So when TV came in, the branded companies that were already big got a huge tail-wind.” 
+
+The law of scale can also have a “network effect” (think Google), providing the business who wields it with an ever-growing advantage to other parts of its business.
+
+The law of scale is also related to social proof. As a product becomes dominant (think Coca Cola or Apple), then most humans will feel at a sub-conscious level that those products are superior.
+
+Economies of scale are self-reinforcing and powerful.
+
+ <br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Costs</strong></summary>
+    <br>
+
+Something’s cost is the payment required to obtain it. In economics, there are a variety of costs.
+
+There are opportunity cost, sunk cost, relevant and marginal cost that can be obsessed in economics. Costs have been assessed since the dawn of industriousness. In order to make the most rewarding decisions, people consider the costs associated with their actions. In doing so, they mold their mental models to suit the environment that surrounds them.
+
+The opportunity cost addresses the loss of potential gain caused by choosing one option, rather than the other. For example, the choice to keep money in a savings account incurs the opportunity cost associated with not investing that money in an asset. For many, this opportunity cost is worthwhile, as it is often helpful to have cash savings available.
+
+If assets have already been spent, and cannot be recovered, the sum of those assets is defined as your sunk cost. Sunk costs are generally excluded from future business decisions because costs typically remain the same regardless of related outcomes. A classic example of sunk costs occurred with the Concorde. British and French manufacturers poured extensive sums of money into developing the Concorde aircraft over the 1950s and 1960s, resulting in a massive sunk cost. After decades of availability, the aircraft never managed to become financially profitable. This notorious incident led to the sunk-cost fallacy sometimes being referred to as the Concorde fallacy.
+
+Relevant costs describe avoidable costs that are only incurred due to specific decisions made at an individual or organizational level. Relevant cost structures exist to exclude unnecessary data from the decision-making process. The relevant cost is effectively the opposite of the sunk cost.
+
+Marginal costs are any costs associated with increasing production to create one additional unit. The marginal cost can be used to determine how much must be spent in order to reach a specific production goal.
+
+ <br>
+</details>
+<br>
 
 <details>
     <summary><strong>Pareto principle</strong></summary>
