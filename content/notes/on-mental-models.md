@@ -335,6 +335,16 @@ What else compounds other than money and mathematical equations? Compound intere
 ## Statistics
 | Model | Definition | 
 | -------------|:-------------:|
+| _Standard deviation_ | A measure of variation between a set of values. |
+| _Matthew effect_ | Someone who starts out with more money than someone else will generally accumulate more money than the other person. The same is also true for fame, status and education. |
+| _Utility_ | A calculation of the gratification experienced by the user of goods, or a set of goods. |
+| _Probability_ | The likelihood that something will happen. In most cases, we cannot say, with certainty, what outcome will occur, but we can often predict how likely a given outcome is. |
+| _Comparative advantage_ | The ability of someone, or a group of people, to produce goods or services at a better price than a competitor irrespective of quality. |
+| _Moral hazard_ | A person or group who does not have to bear the full responsibility for an action is more likely to behave recklessly. |
+| _Switching costs_ | The costs involved when switching between suppliers. Switching costs don’t have to be financial. They can also cost time and effort, or even be psychological. |
+| _Network effects_ | A phenomenon by which each incremental user of a product or service adds value to the existing user base. |
+| _Bayes theorem_ | The method of updating a probability estimate for a hypothesis as new evidence or information becomes available. |
+| _Arbitrage_ | It’s a process of identifying market inefficiencies capitalizing on the imbalance where price difference is exploited. |
 | _Regression to the mean_ | Periods of above averages are followed by below averages. |
 | _Correlation and causation_ | Two things happening at the same time is correlation while one causing the other to change is causation. |
 | _Theory of constraints_ | The theory of constraints answers a fundamental question of what is not working within a system. |
@@ -342,6 +352,288 @@ What else compounds other than money and mathematical equations? Compound intere
 | _Prisoner dilemma_ | Prisoner's dilemma helps us understand how people behave when it comes to cooperation or acting in their own self-interests. |
 | _Marginal analysis_ | A cost benefit analysis which deals with an examination and identification of the added benefits of an activity weighed against the costs. |
 | Law of large and small numbers| As a sample size grows large, its mean gets closer to the average of the population. A large sample size will give a more accurate outcome. |
+
+<details>
+    <summary><strong>Standard deviation</strong></summary>
+    <br>
+
+A measure of variation between a set of values.
+
+Used in statistics to measure a spread of values and how far from ‘normal’ these values are. By finding the standard deviation, we can know what is ‘normal’ for a given set of values, and what is above or below this normal range. It is also used to analyze degrees of uncertainty.
+
+A normal distribution is a return distribution that is symmetrical about its mean. In other words, the data is centered and not skewed to either the right or left and the mean is equal to the median and that is equal to the mode. So Imagine a perfect and evenly distributed bell curve with 5 evenly divided intervals. 99% of the observations fall within three standard deviations of the mean, the extreme left, and right of the curve account for .5%. Those intervals between set values are standard deviations.
+
+If you were to graph the average income of individuals in the U.S. using the variables of age and education level, you would find a median income for certain age brackets. From this information, you could use statistical deviation to find percentiles within the data set. Those percentiles could be used to identify earnings information for certain groups within the data set.
+
+Standard deviation measures the dispersion of data relative to its mean. That being said, the standard deviation is a mathematical necessity and inherent for businesses that involve investing, trading, and measuring market volatility.
+
+Standard deviation is relied upon to hypothesize trends, and capitalize off the performance of the market or even its decline. A standard deviation is a tool used to mitigate and understand risk and tolerance for investment objectives.
+
+Ultimately standard deviation is a useful mathematical tool, not limited to census and stock markets, but applicable to anything in the world with data that needs refinement.
+
+Standard deviation does have its downside. Data in a set can always be affected by extreme figures on the periphery of data sets. Standard deviation works with normal distribution, but values which are anomalies can be observed as risky.
+
+ <br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Matthew effect</strong></summary>
+    <br>
+
+Someone who starts out with more money than someone else will generally accumulate more money than the other person. The same is also true for fame, status and education.
+
+The rich get richer and the poor get poorer. 
+
+Cumulative Advantage is sometimes known as The Matthew Effect or Accumulated Advantage or “the rich get richer, the poor get poorer”.
+
+Once a social agent gains a small advantage over other agents, that advantage will compound over time into an increasingly larger advantage.
+
+A common example of Cumulative Advantage is that a prize will almost always be awarded to the most senior researcher involved in a project, even if all the work was done by a graduate student. The senior researched has accumulated that advantage. 
+
+Matthew effect in knowledge acquisition—a person with more expertise has a larger knowledge base, and the large knowledge base allows that person to acquire even greater expertise at a faster rate. As you learn to read more, your capacity to read even more and absorb more increases rapidly.
+
+While luck plays a role in success, an early advantage, no matter how small, can change the future course of events.
+
+
+ <br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Utility</strong></summary>
+    <br>
+
+A calculation of the gratification experienced by the user of goods, or a set of goods. 
+
+Happiness cannot be directly measured, but utility tries to represent the satisfaction or benefit in a way that is measurable.
+
+Diminishing marginal utility is important factor, as each additional unit of a particular product or service is consumed, the next is less satisfying. 
+
+When you eat a hamburger the first is amazing, the second is good, the third is ok, the forth is not very good and the fifth is gross. 
+
+The difference between burger 4 and 5 is small in terms of utility lost but the difference from the first and the third burgers consumed is massive. 
+
+Understanding this relationship is key to understanding tradeoffs and why someone may give a more valuable unit for something of lesser value, provided they have abundance or why the first unit is worth the most provided there is scarcity.
+
+ <br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Probability</strong></summary>
+    <br>
+
+The likelihood that something will happen. In most cases, we cannot say, with certainty, what outcome will occur, but we can often predict how likely a given outcome is.
+
+The best we can do is estimate the future by generating realistic, useful probabilities. A simple formula to follow:
+
+P(Event) = Number of ways it can happen/Total number of outcomes
+
+Concepts to apply probabilistic thinking:
+
+- Scenario Analysis: Illuminate potential outcomes by thoughtfully linking discrete assumptions into specific scenarios.
+- Decision Trees: A tree-like decision analysis tool to elucidate key decisions and their potential outcomes.
+- False Positives and False Negatives (Type I and Type II errors): Tests can falsely indicate the presence of a condition when it is not present (false positives) and no presence of a condition when it is present (false negatives).
+- Randomness: Much of our lived experience is fundamentally unpredictable and random, yet our human instincts for sense-making and pattern-seeking fool us into seeing causal relationships where none exist.
+- Stochastic (Random) Processes: Statistical processes used to probabilistically describe systems which evolve over time due to random changes of independent variables.
+- Normal Distribution (a.k.a., Bell Curve): The visualization of a continuous probability distribution for a random variable often ends up shaped like a bell, with a protruding middle that symmetrically shortens to tails at both ends.
+- Subadditivity effect: The tendency to judge probability of the whole to be less than the probabilities of the parts.
+- The Conjunctive Events Bias: We often overestimate the likelihood of conjunctive events—occurrences that must happen in conjunction with one another. The probability of a series of conjunctive events happening is lower than the probability of any individual event.
+
+Charlie Munger:
+
+“If you don't get this elementary, but mildly unnatural, mathematics of elementary probability into your repertoire, then you go through a long life like a one-legged man in an ass-kicking contest. You're giving a huge advantage to everybody else.”
+
+Howard Marks:
+
+“Many things could have happened in each case in the past, and the fact that only one did happen understates the variability that existed.”
+
+“In dealing with the future, we must think about two things: (a) what might happen and (b) the probability it will happen.”
+
+“The future should be viewed not as a fixed outcome that’s destined to happen and capable of being predicted, but as a range of possibilities and, hopefully on the basis of insight into their respective likelihoods, as a probability distribution.”
+
+“Rather than judge a decision solely on the basis of the outcome, you have to consider (a) the quality of the process that led to the decision, (b) the a priori probability that the decision would work (which is very different from the question of whether it did work, (c) the other decisions that could have been made, (d) all of the events that reasonably could have unfolded, and thus (e) which of the decisions had the highest probability of success.”
+
+Peter Bevelin:
+
+“We tend to believe that the probability of an independent event is lowered when it has happened recently or that the probability is increased when it hasn’t happened recently. For example, after a run of bad outcomes in independent events that appear randomly, we sometimes believe a good outcome is due. But previous outcomes neither influence nor have any predictive value to future outcomes. There is neither memory nor a sense of justice.”
+
+Robert Rubin:
+
+“Sound decisions are based on identifying relevant variables and attaching probabilities to each of them. That's an analytic process but also involves subjective judgements. The ultimate decision then reflects all of this input, but also instinct, experience, and 'feel'. All the time bearing in mind that reality is always more complex than concepts and models. A true probabilistic view of life quickly leads to the recognition that almost all significant issues are enormously complex and demand that one delve into those complexities to identify the relevant considerations and the inevitable trade-offs. With an enormous number of competing considerations, the key to reaching the best possible decision is to identify all of them and decide what odds and import to attach to each.”
+
+ <br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Comparative advantage</strong></summary>
+    <br>
+
+The ability of someone, or a group of people, to produce goods or services at a better price than a competitor. The quality of the goods or services does not matter.
+
+The Scottish economist David Ricardo’s discovery of the law of comparative advantage occurred in October 1816.
+
+Comparative advantage is an economy's ability to produce a particular good or service at a lower opportunity cost than its trading partners. 
+
+Comparative advantage is used to explain why companies, countries, or individuals can benefit from trade. 
+
+Focusing only on comparative advantages can result in the exploitation and depletion of the country's resources.
+
+The law of comparative advantage states that even if a country has the absolute advantage in producing two given goods, they should still specialize in producing the good for which they have the lowest opportunity cost.
+
+An example from Wikipedia:
+
+“Two men live alone on an isolated island. To survive they must undertake a few basic economic activities like water carrying, fishing, cooking and shelter construction and maintenance. The first man is young, strong, and educated. He is also, faster, better, more productive at everything. He has an absolute advantage in all activities. The second man is old, weak, and uneducated. He has an absolute disadvantage in all economic activities. In some activities the difference between the two is great; in others it is small. Despite the fact that the younger man has absolute advantage in all activities, it is not in the interest of either of them to work in isolation since they both can benefit from specialization and exchange. If the two men divide the work according to comparative advantage then the young man will specialize in tasks at which he is most productive, while the older man will concentrate on tasks where his productivity is only a little less than that of a young man. Such an arrangement will increase total production for a given amount of labor supplied by both men and it will make both of them richer.”
+
+ <br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Moral hazard</strong></summary>
+    <br>
+
+A person or group who does not have to bear the full responsibility for an action is more likely to behave recklessly.
+
+When someone enters a risky situation knowing that someone else will bear the cost of the risk or risks. This can occur when one side does not have access to all the information in the situation. For example, when a corporation is willing to take on more risks because they know their insurance company will have to cover all losses.
+
+Moral hazard refers to behavioral changes that might occur and increase the risk of loss when a person knows that insurance will provide coverage. When a person can avoid the potential consequences of a risk, their actions, and attitude change and there is a greater likelihood of a moral hazard.
+
+Nassim Taleb:
+
+“The worst problem of modernity lies in the malignant transfer of fragility and antifragility from one party to the other, with one getting the benefits, the other one (unwittingly) getting the harm, with such transfer facilitated by the growing wedge between the ethical and the legal. This state of affairs has existed before, but is acute today – modernity hides it especially well.”
+
+Seth Klarman:
+
+“Investors are strangely willing to ignore the moral hazard of their own behavior, rewarding managements which successfully manipulate quarterly earnings into a steady and predictable uptrend.”
+
+Warren Buffett: 
+
+“If I were running things and if a bank had to go to the government for help, the CEO and his wife would forfeit all their net worth. … And that would apply to any CEO that had been there in the previous two years....I think you have to change the incentives. The incentives a few years ago were try and report higher quarterly earnings. It’s nice to have carrots, but you need sticks.”
+
+ <br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Switching costs</strong></summary>
+    <br>
+
+The costs involved when switching between suppliers. Switching costs don’t have to be financial. They can also cost time and effort, or even be psychological.
+
+Switching banks, cancellation fees and onboarding costs are examples of switching costs. Microsoft Office is another great example. Data is highly leveraged on driving switching costs.
+
+Switching costs could be financial expenses, inconveniences, lost time, mental and psychological barriers, risks and uncertainty, or social barriers.
+
+Switching costs only work because they provide the customer with something they genuinely value. Switching costs are a way to increase the value of your own product, service, and brand experience as a whole. By giving your customers a little extra, you’re giving them something to lose if they switch, but also something to love if they stay. This mindset can help build genuine customer relationships.
+
+Switching costs are an important business model mechanic that can help brands build better customer relationships and defend themselves from competition. Learning what switching costs are and why they work so well is a great start, but the real value comes when you learn how to use them for your own brand. One of the easiest and most effective ways to put switching costs to work for your business is through a rewards program.
+
+Switching costs are the cost of lost time when you mentally transition from one brand to another.
+
+
+ <br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Network effects</strong></summary>
+    <br>
+
+A phenomenon by which each incremental user of a product or service adds value to the existing user base. 
+
+A great example is social media: the more people who sign up for a social network, the more valuable and attractive that social network is to the average person.
+
+The idea originated with Theodore Vail, the president of American Telephone and Telegraph (AT&T). In the company's 1908 annual report, Vail wrote, "[The telephone's] value depends on the connection with the other telephones — and increases with the number of connections."
+
+Network effects exist when the “value” of a format or system depends on the number of users. These effects can be positive (for example, a telephone network) or negative (for example, congestion). They can also be direct (increases in usage lead to direct increases in value to users, as with the telephone) or indirect (usage increases the production of complementary goods, as with cases for mobile phones). Network effects can protect valuable markets, or not much of a market at all in terms of financial value.
+
+Network effects are not viral effects. Network effects are about creating defensibility, and viral effects are about getting new users for free. They have totally different objectives and playbooks.
+
+The more people who search Google the more data Google has (search queries) to help make its search even better. And then the more users Google attracts (along with the data Google knows about them) the more attractive Google becomes to its paying customers: the advertisers willing to reach those searchers. 
+
+The more people who use Facebook, the more likely a Facebook user will choose to add their latest content (photos, videos, articles, etc.) to Facebook which in turn makes it the go-to place to see what’s up with your friends.
+
+The network effect is defined as an entity getting more valuable the more people who use it. This can equate to a “winner-takes-all” position for businesses and a “moat,” as Warren Buffett and Charlie Munger like to say, to defend your castle (business). Warren Buffett wrote in his 2006 letter:
+
+“Advertisers preferred the paper with the most circulation, and readers tended to want the paper with the most ads and news pages. This circularity led to a law of the newspaper jungle: Survival of the Fattest. Thus, when two or more papers existed in a major city (which was almost universally the case a century ago), the one that pulled ahead usually emerged as the stand-alone winner. After competition disappeared, the paper’s pricing power in both advertising and circulation was unleashed. Typically, rates for both advertisers and readers would be raised annually – and the profits rolled in. For owners this was economic heaven.”
+
+ <br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Bayes theorem</strong></summary>
+    <br>
+
+The method of updating a probability estimate for a hypothesis as new evidence or information becomes available.
+
+For example, the probability of someone dying can be predicted with more accuracy when the person's age is known.
+
+Named after Thomas Bayes, a Presbyterian minister from the 1700s, Bayes Theorem is the process of calculating the validity of a hypothesis’, based on the known evidence. His idea for this theorem was that an initial belief plus new evidence equals a new and improved belief.
+
+Bayes can be observed as a framework for critical thinking. When attempting to form accurate beliefs, you must start with the information you already possess. As time continues, you update your beliefs and try your best not to allow old information to erode.
+
+Philosophers assert that science as a whole can be viewed as a Bayesian process, and that Bayes can distinguish science from pseudoscience more precisely than falsification, the method popularized by Karl Popper.
+
+It is a fantastic technique to use when making judgments of the world.
+
+To form accurate beliefs, you always start from the information you already have. You update beliefs. You don’t discard everything you know.
+
+The Bayesian model will tell you to examine your priors, to calculate the probability that your chosen explanation is the right one. It then tells you to watch for new pieces of information that might shift your % confidence in that belief. This is all well and good, but note that Bayesian updating was built for the integration of new information; it doesn’t say anything about the generation of new information.
+
+Nassim Taleb, in his book The Black Swan, writes about the Turkey problem:
+
+“Consider a turkey that is fed everyday. Every single feeding will firm up the bird’s belief that it is the general rule of life to be fed everyday by friendly members of the human race “looking out for its best interests,” as a politician would say. On the afternoon of the Wednesday before Thanksgiving, something unexpected will happen to the turkey. It will incur a revision of belief.”
+
+This is what happened during 2008 financial crisis. Such extreme events, which are not only high impact but are hard to predict, have been termed as Black Swan events by Taleb. Just because it fails to predict the black swan events doesn’t mean that one should abandon the Bayesian thinking. The way to handle black swan is to limit your exposure to it by factoring in the margin of safety.
+
+John Maynard Keynes reminds us:
+
+“When facts change I change my mind. What do you do sir?”
+
+Lao Tzu, Tao Te Ching:
+
+“The wise man is one who, knows, what he does not know.”
+
+
+ <br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Arbitrage</strong></summary>
+    <br>
+
+It’s a process of identifying market inefficiencies capitalizing on the imbalance where price difference is exploited.
+
+For example, buying vintage clothes from a thrift store knowing that you can sell them for a higher price, instantly, to a clothing dealer.
+
+It is an attempt to profit by exploiting price differences in identical or similar financial instruments. For example, if gold is trading in London at $550 per ounce and in New york at $560 per ounce, assuming low frictional costs, an arbitrageur can buy gold in London and immediately sell it in New York, pocketing the difference.
+
+Arbitrage plays don’t remain open for long. As people execute these arbitrage trades, the price spread collapses and the arbitrage opportunity eventually vanishes.
+
+Warren Buffett on arbitrage:
+
+“...arbitrage – or “risk arbitrage,” as it is now sometimes called – has expanded to include the pursuit of profits from an announced corporate event such as sale of the company, merger, recapitalization, reorganization, liquidation, self-tender, etc. In most cases the arbitrageur expects to profit regardless of the behaviour of the stock market. The major risk he usually faces instead is that the announced event won’t happen.”
+
+“You will notice that we had significant holding in Beatrice companies at year end. This is a short-term arbitrage holding – in effect, a parking place for our money (though not a totally safe one, since deals sometimes fall through and create substantial losses). We sometimes enter the arbitrage field when we have more money than ideas, but only to participate in announced mergers and sales.”
+
+“To evaluate arbitrage situations you must answer four questions: (1) How likely is it that the promised event will indeed occur? (2) How long will your money be tied up? (3) What chance is there that something still better will transpire – a competing takeover bid, for example? and (4) What will happen if the event doesn’t take place because of anti-trust action, financing glitches, etc.?”
+
+“Arbitrage positions are substitute for short-term cash equivalents, and during part of the year [1989] we held relatively low levels of cash. In the rest of the year, we had a fairly good-sized cash position and even so chose not to engage in arbitrage. The main reason was corporate transactions made no economic sense to us; arbitraging such deals comes too close to playing greater-fool game.”
+
+“Berkshire’s arbitrage activities differ from those of many arbitrageurs. First, we participate in only a few, and usually very large, transactions each year. Most practitioners buy into a great many deals perhaps 50 or more per year. With that many irons in the fire, they must spend most of their time monitoring both the progress of deals and the market movements of the related stocks. This is not how Charlie nor I wish to spend our lives. (What’s the sense in getting rich just to stare at a ticker tape all day?)”
+
+“Arbitrage has looked easy recently. But this is not a form of investing that guarantees profits of 20% a year or, for that matter, profits of any kind. As noted, the market is reasonably efficient much of the time. An investor cannot obtain superior profits from stocks by simply committing to a specific investment category or style. He can earn them only by carefully evaluating facts and continuously exercising discipline. Investing in arbitrage situations, per se, is no better a strategy than selecting a portfolio by throwing darts.”
+
+“Because my mother isn’t here tonight, I’ll even confess to you that I’ve been an arbitrageur.”
+
+ <br>
+</details>
+<br>
 
 <details>
     <summary><strong>Regression to the mean</strong></summary>
