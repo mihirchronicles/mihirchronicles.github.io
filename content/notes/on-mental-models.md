@@ -1254,9 +1254,18 @@ Morgan Housel has a great piece worth reading, [why competitive advantages die](
  <br>
 </details>
 
-## Business & Finance
+## Business
 | Model | Definition | 
 | -------------|:-------------:|
+| _Intellectual property_ | Trademarks, patents, and copyrights are different types of intellectual property. |
+| _Financial ratios_ | A ratio to compute relative magnitude of two selected numerical values taken from an enterprise's financial statements. |
+| _Porter's five forces_ | A model that identifies and analyzes five competitive forces that shape every industry and helps determine an industry's weaknesses. |
+| _Depriciation_ | The decrease in the value of assets and the method used to reallocate, or “write down” the cost of equipment over its useful life span. |
+| _Surfing_ | Surfing technology waves and new paradigms to build a business. |
+| _Parkinson's law_ | Work expands to fill the time available for its completion. |
+| _Double entry accounting_ | A method of bookkeeping that relies on a two-sided accounting entry to maintain financial information. |
+| _Float_ | Float is the money that a company gets to hold onto between the time customers pay premiums and the time they make claims on their policies. |
+| _Churn_ | It is the annual percentage of customers who choose to stop subscribing for, paying for, or using, a service. |
 | Pari-mutuel system | A system of betting where the bets are pooled and the winners share the money after the house, or organizer, has taken their cut. |
 | _Risk vs uncertainty vs volatility_ | Risk is an unknown, but you can predict the probability of it. Uncertainty is an unknown and you cannot predict the probability of it. Volatility refers to short term change and does not mean that something is risky in the long term. Volatility represents how large prices can swing around the mean. |
 | _Mr market_ | Mr. Market is a metaphor that represents moody behavior of stock market fluctuation. |
@@ -1264,6 +1273,218 @@ Morgan Housel has a great piece worth reading, [why competitive advantages die](
 | _Diminishing returns_ | The value of each additional input leads to a decreasing level of output. At this stage the effort of productivity decreases. |
 | _Circle of competence_ | Describes a person’s competency in an area that matches their skillset and abilities. |
 | _Occam's razor_ | Occam’s razor states that the simplest explanation is preferable over a complex one. |
+
+<details>
+    <summary><strong>Intellectual property</strong></summary>
+    <br>
+
+Trademarks, patents, and copyrights are different types of intellectual property.
+
+A trademark protects the items which define a company brand, the logo being one of those things. For example, Coca-Cola® for soft drinks.
+
+Copyright protects literary and artistic works, such as movies or books. For example, song lyrics to “Let It Go”
+from “Frozen.”
+
+Patents protect inventions and stop other people from making or selling them. For example, a new type of hybrid engine.
+
+ <br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Financial ratios</strong></summary>
+    <br>
+
+A ratio to compute relative magnitude of two selected numerical values taken from an enterprise's financial statements.
+
+Ratio analysis can mark how a company is performing over time, while comparing a company to another within the same industry or sector. Examples of ratio analysis include current ratio, gross profit margin ratio, inventory turnover ratio.
+
+Financial ratios represent the multitude of numbers in a company’s financial statements in a way which help to evaluate the financial condition of a company. They can represent profitability, liquidity, efficiency, debt, capital, performance, cash flow, and more. Financial analysts use financial ratios to compare the strengths and weaknesses in various companies.
+
+Common ratios:
+
+- COGS = Cost of goods sold, or cost of sales.
+- EBIT = Earnings before interest and taxes
+- EBITDA = Earnings before interest, taxes, depreciation, and amortization
+- EPS = Earnings per share
+
+Wikipedia has a whole list of ratios on profitability, liquidity, and debt ratios. 
+
+ <br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Porter's five forces</strong></summary>
+    <br>
+
+A model that identifies and analyzes five competitive forces that shape every industry and helps determine an industry's weaknesses.
+
+A framework for determining the level of competition within an industry and evaluate a firm's strategic position: (1) Bargaining power of suppliers and (2) buyers, (3) the threat of new entrants or (4) substitutes, and (5) industry rivalry, make up the five forces.
+
+Michael E. Porter is a leading authority on competitive strategy. He tells that there are five competitive forces that defines the industry structure. They are called as Porter’s 5 forces.
+
+The five forces that influence a company’s ability to serve its customers and profit are:
+
+- The threat of substitute products or services
+- The threat of established rivals
+- The threat of new entrants
+- The suppliers’ bargaining power
+- The customers’ bargaining power
+
+Michael Porter:
+
+“Awareness of the five forces can help a company understand the structure of its industry and stake out a position that is more profitable and less vulnerable to attack.”
+
+ <br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Depriciation</strong></summary>
+    <br>
+
+The decrease in the value of assets and the method used to reallocate, or “write down” the cost of equipment over its useful life span.
+
+A means of attributing the expense of an asset over the course of its useful years instead of as a one-off cost when bought. Machinery for making cars will be bought, but will not mean a large net loss in year one, instead the expense is spread over a few years, meaning profits for each year are more realistic.
+
+Businesses depreciate long-term assets for both accounting and tax purposes. 
+
+The decrease in value of the asset affects the balance sheet of a business or entity, and the method of depreciating the asset, accounting-wise, affects the net income, and thus the income statement that they report. 
+
+Generally, the cost is allocated as depreciation expense among the periods in which the asset is expected to be used.
+
+Methods of computing depreciation, and the periods over which assets are depreciated, may vary between asset types within the same business and may vary for tax purposes. These may be specified by law or accounting standards, which may vary by country. There are several standard methods of computing depreciation expense, including fixed percentage, straight line, and declining balance methods. Depreciation expense generally begins when the asset is placed in service. For example, a depreciation expense of 100 per year for five years may be recognized for an asset costing 500. 
+
+It does not result in any cash outflow; it just means that the asset is not worth as much as it used to be.
+
+ <br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Surfing</strong></summary>
+    <br>
+
+Surfing technology waves and new paradigms to build a business.
+
+It pays to be in the right place at the right time. New ideas come and go. The tricky part is deciding which idea to jump on and which to avoid. If you can get onboard with a successful idea at the right time then you can build a successful business around it.
+
+“Surfing” isn’t just a sport. There are brilliant insights that can be used to analyze a business opportunity through the lens of this mental model. A surfer not only is carried by the wave, but it gives an exceptional forward speed to its rider, provided the surfer can get on to the wave at the right time and not get thrown off in between. The second most important thing required to ride a wave is to recognize that the a wave is approaching. Which means 90 percent of the times you would find a surfer lying on his surfing board and paddling slowly, waiting for the right wave.
+
+Charlie Munger:
+
+“When technology moves as fast as it does in a civilization like ours, you get a phenomenon which I call competitive destruction. You know, you have the finest buggy whip factory and all of a sudden in comes this little horseless carriage. And before too many years go by, your buggy whip business is dead. You either get into a different business or you’re dead—you’re destroyed. It happens again and again and again. And when these new businesses come in, there are huge advantages for the early birds. And when you’re an early bird, there’s a model that I call “surfing” – when a surfer gets up and catches the wave and just stays there, he can go a long, long time. But if he gets off the wave, he becomes mired in shallows...But people get long runs when they’re right on the edge of the wave – whether it’s Microsoft or Intel or all kinds of people.”
+
+“A surfer not only is carried by the wave, but it gives an exceptional forward speed to its rider, provided the surfer can get on to the wave at the right time and not get thrown off in between. The second most important thing required to ride a wave is to recognize that the a wave is approaching. Which means 90 percent of the times you would find a surfer lying on his surfing board and paddling slowly, waiting for the right wave.”
+
+“Berkshire Hathaway, by and large, does not invest in these people that are “surfing” on complicated technology. After all, we’re cranky and idiosyncratic—as you may have noticed. And Warren and I don’t feel like we have any great advantage in the high-tech sector. In fact, we feel like we’re at a big disadvantage in trying to understand the nature of technical developments in software, computer chips or what have you. So we tend to avoid that stuff, based on our personal inadequacies. Again, that is a very, very powerful idea. Every person is going to have a circle of competence. And it’s going to be very hard to advance that circle…So you have to figure out what your own aptitudes are. If you play games where other people have the aptitudes and you don’t, you’re going to lose. And that’s as close to certain as any prediction that you can make. You have to figure out where you’ve got an edge. And you’ve got to play within your own circle of competence. Some of you may find opportunities “surfing” along in the new high-tech fields—the Intels, the Microsofts and so on. The fact that we don’t think we’re very good at it and have pretty well stayed out of it doesn’t mean that it’s irrational for you to do it.”
+
+John H. Patterson was a small retail merchant who did not make any money. One day, somebody sold him a crude cash register which he put into his retail operation. And it instantly changed from losing money to earning a profit because it made it so much harder for the employees to steal.
+
+“But Patterson, having the kind of mind that he did, didn’t think, “Oh, good for my retail business.” He thought, “I’m going into the cash register business.” And, of course, he created National Cash Register. And he “surfed”. He got the best distribution system, the biggest collection of patents and the best of everything. He was a fanatic about everything important as the technology developed. I have in my files an early National Cash Register Company report in which Patterson described his methods and objectives. And a well-educated orangutan could see that buying into partnership with Patterson in those early days, given his notions about the cash register business, was a total 100% cinch.”
+
+Munger tells that every investor should be looking out for these kinds of opportunities.
+
+“In a long life, you can expect to profit heavily from at least a few of those opportunities if you develop the wisdom and will to seize them. At any rate, “surfing” is a very powerful model.”
+
+Charles Darwin:
+
+“It’s not the strongest of the species who survive, nor the most intelligent, but the ones most responsive to change.”
+
+ <br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Parkinson's law</strong></summary>
+    <br>
+
+Work expands to fill the time available for its completion. 
+
+The more time we give a task, the more complex we will make it. You can save yourself time and effort by assigning the correct amount of time to a given task.
+
+Coined by Cyril Northcote Parkinson as part of an essay published in The Economist in 1955:
+
+“Politicians and taxpayers have assumed (with occasional phases of doubt) that a rising total in the number of civil servants must reflect a growing volume of work to be done. … The fact is that the number of officials and the quantity of the work are not related to each other at all. The rise in the total of those employed is governed by Parkinson’s Law and would be much the same whether the volume of the work were to increase, diminish, or even disappear.”
+
+In simple terms, Parkinson’s Law means that if you take a 2-hour task and allocate 4 hours to get it done, you will end up spending 4 hours working on the task. To overcome this fatigue, the more constraints one imposes, the more one frees one’s self.
+
+ <br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Double entry accounting</strong></summary>
+    <br>
+
+A method of bookkeeping that relies on a two-sided accounting entry to maintain financial information.
+
+For example, if you sell a cup of coffee, your cash account goes up, and your inventory account goes down.
+
+The emergence of double entry has been linked to the birth of capitalism.
+
+A form of bookkeeping where every transaction is recorded in two columns, as either a debit or a credit. The columns should balance and help to better track company finances.
+
+The double-entry system has two equal and corresponding sides known as debit and credit. A transaction in double-entry bookkeeping always affects at least two accounts, always includes at least one debit and one credit, and always has total debits and total credits that are equal. The purpose of double-entry bookkeeping is to allow the detection of financial errors and fraud.
+
+Double-entry bookkeeping is based on "balancing" the books, that is to say, satisfying accounting equation. The accounting equation serves as an error detection tool; if at any point the sum of debits for all accounts does not equal the corresponding sum of credits for all accounts, an error has occurred. However, satisfying the equation does not necessarily guarantee a lack of errors, for example, the wrong accounts could have been debited or credited.
+
+Double entry refers to an accounting concept whereby assets = liabilities + owners' equity. Some key account types include:
+
+- Asset accounts show dollars associated with things a business owns, such as the cash in its checking account or the price paid for its warehouse.
+- Liability accounts show what the firm owes, such as a building mortgage, equipment loan, or credit card balances.
+- Income accounts represent money received, such as sales revenue and interest income.
+- Expense accounts show money spent, including purchased goods for sale, payroll costs, rent, and advertising.
+
+For example, if a business takes out a bank loan for $10,000, recording the transaction would require a debit of $10,000 to an asset account called “Cash,” as well as a credit of $10,000 to a liability account called “Loan Payable.”
+
+How is it different from single-entry? Single-entry doesn’t track assets or liabilities, is prone to mistakes, doesn’t tell you much about the state or health of your business, and is the accounting equivalent of carrying around a velcro wallet—fine when you’re a kid, but not very secure, or reputable, when you’re older. If you’re a freelancer or sole proprietor, you might already be using this single-entry. It’s quick and easy—and that’s pretty much where the benefits of single-entry end.
+
+ <br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Float</strong></summary>
+    <br>
+
+Float is the money that a company gets to hold onto between the time customers pay premiums and the time they make claims on their policies.
+
+When a bank deposit or transfer is made, there is a short period of time where the money is duplicated. The money will show up immediately in the recipient’s account, but will not yet have had time to leave the sender’s account. This duplicated money can be used as an investable asset.
+
+At its core float is generated when a payment is made to a business or supplier before a service or good is delivered to the payee. This time-difference is called float and it is the fundamental business model of the insurance industry. For example, insurance carriers who issue home insurance often receive many years of premium payments before they receive a claim. So, in practice the carrier may receive 15 years of premium payments before that homeowner’s house burns down, is flooded or any other type of catastrophic claim.
+
+Float has been used famously by Warren Buffet – the darling of the investing world–to build Berkshire Hathaway into an empire. Buffett on float:
+
+“Insurers receive premiums upfront and pay claims later...This collect-now, pay-later model leaves us holding large sums -- money we call "float" -- that will eventually go to others. Meanwhile, we get to invest this float for Berkshire's benefit...If premiums exceed the total of expenses and eventual losses, we register an underwriting profit that adds to the investment income produced from the float. This combination allows us to enjoy the use of free money -- and, better yet, get paid for holding it. Alas, the hope of this happy result attracts intense competition, so vigorous in most years as to cause the P/C industry as a whole to operate at a significant underwriting loss. This loss, in effect, is what the industry pays to hold its float. Usually this cost is fairly low, but in some catastrophe-ridden years the cost from underwriting losses more than eats up the income derived from use of float...Our float has grown from $16 million in 1967, when we entered the business, to $62 billion at the end of 2009. Moreover, we have now operated at an underwriting profit for seven consecutive years. I believe it likely that we will continue to underwrite profitably in most -- though certainly not all -- future years. If we do so, our float will be cost-free, much as if someone deposited $62 billion with us that we could invest for our own benefit without the payment of interest.
+Let me emphasize again that cost-free float is not a result to be expected for the P/C industry as a whole: In most years, premiums have been inadequate to cover claims plus expenses. Consequently, the industry's overall return on tangible equity has for many decades fallen far short of that achieved by the S&P 500. Outstanding economics exist at Berkshire only because we have some outstanding managers running some unusual businesses.”
+
+“Float is money we hold but don’t own. In an insurance operation, float arises because premiums are received before losses are paid, an interval that sometimes extends over many years. During that time, the insurer invests the money. This pleasant activity typically carries with it a downside: The premiums that an insurer takes in usually do not cover the losses and expenses it eventually must pay. That leaves it running an “underwriting loss,” which is the cost of float. An insurance business has value if its cost of float over time is less than the cost the company would otherwise incur to obtain funds. But the business is a lemon if its cost of float is higher than market rates for money. Moreover, the downward trend of interest rates in recent years has transformed underwriting losses that formerly were tolerable into burdens that move insurance businesses deeply into the lemon category.”
+
+“So how does our float affect intrinsic value? When Berkshire’s book value is calculated, the full amount of our float is deducted as a liability, just as if we had to pay it out tomorrow and could not replenish it. But to think of float as strictly a liability is incorrect. It should instead be viewed as a revolving fund. Daily, we pay old claims and related expenses – a huge $24.5 billion to more than six million claimants in 2015 – and that reduces float. Just as surely, we each day write new business that will soon generate its own claims, adding to float. If our revolving float is both costless and long-enduring, which I believe it will be, the true value of this liability is dramatically less than the accounting liability. Owing $1 that in effect will never leave the premises – because new business is almost certain to deliver a substitute – is worlds different from owing $1 that will go out the door tomorrow and not be replaced. The two types of liabilities, however, are treated as equals under GAAP.”
+
+Businesses investing float are essentially investing borrowed money at no fee. Buffett exploited this very early on into his investing career.
+
+ <br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Churn</strong></summary>
+    <br>
+
+It is the annual percentage of customers who choose to stop subscribing for, paying for, or using, a service.
+
+Churn rate is calculated by dividing the number of customer cancellations within a time period by the number of active customers at the start of that period. 
+
+For a business to grow, the number of new customers added each year must be higher than the churn rate. It is no secret that customer retention is a top priority for many companies; acquiring new customers can be several times more expensive than retaining existing ones. Gaining an understanding of the reasons customers churn and estimating the risk associated with individual customers are both powerful components of designing a data-driven retention strategy.
+
+Customers churn for loads of reasons. It could be pricing, budget cuts or product no longer useful. This is why focusing on customers is hugely valuable.
+
+ <br>
+</details>
+<br>
 
 <details>
     <summary><strong>Pari-mutuel system</strong></summary>
