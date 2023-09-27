@@ -86,6 +86,109 @@ He also gave another famous speech, “*The Psychology of Human Misjudgement*”
 
 Below are the collection of mental models accumulated from his various resources and talks. The checklist is grouped based on their source of discipline. These mental models should equip everyone make better decisions, so they can live a better life.
 
+## Natural Science
+| Model | Definition | 
+| -------------|:-------------:|
+| _Ecosystem_ | An ecosystem consists of all the organisms and the physical environment with which they interact. |
+| _Evolution by natural selection_ | An evolutionary process where living things, over generations, adapt to changes in their environment. |
+| _Autocatalysis_ | A single chemical reaction can go through autocatalysis if the reaction product itself is a catalyst for that initial chemical reaction. |
+| _Red queen effect_ | Survival in a competitive environment usually requires adaptation and velocity, so doing nothing often means being left behind. |
+
+<details>
+    <summary><strong>Ecosystem</strong></summary>
+    <br>
+
+An ecosystem consists of all the organisms and the physical environment with which they interact.
+
+A community where living things interact with each other and nonliving things around them in a mutually beneficial relationship. Bees may help to pollinate flowers, which grow in the soil, which is provided nutrients from organic matter.
+
+An ecosystem is a geographic area where plants, animals, and other organisms, as well as weather and landscape, work together to form a bubble of life. Ecosystems contain biotic or living, parts, as well as abiotic factors, or nonliving parts. Biotic factors include plants, animals, and other organisms. Abiotic factors include rocks, temperature, and humidity. Every factor in an ecosystem depends on every other factor, either directly or indirectly.
+
+A change in the temperature of an ecosystem will often affect what plants will grow there, for instance. Animals that depend on plants for food and shelter will have to adapt to the changes, move to another ecosystem, or perish. 
+
+Ecosystems can be very large or very small.
+
+ <br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Evolution by natural selection</strong></summary>
+    <br>
+
+An evolutionary process where living things, over generations, adapt to changes in their environment. 
+
+This includes, but is not limited to; food, mates, climate, predators, and weather. Those which are better able to adapt to those changes will reproduce in greater numbers and pass on favorable traits.
+
+For evolution by natural selection you need three things:
+
+- A mechanism for creating copies with high-fidelity (aka replication).
+- A mechanism for changing the copies slightly (aka mutation).
+- Different copies should persist and copy at varying rates (aka fitness).
+
+Once you have these three things, the outcome is that, over time, the copies that survive and replicate better will multiply, and “ineffective” copies will die off. What starts as a simple, random process, can create a ratchet leading to better and better versions.
+
+Just like species, everything evolve around us including corporations and communities. 
+
+ <br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Autocatalysis</strong></summary>
+    <br>
+
+A single chemical reaction can go through autocatalysis if the reaction product itself is a catalyst for that initial chemical reaction.
+
+Chemical reactions can produce a product or products. If one or more of those products accelerates or increases the original reaction, they are said to be a catalyst. If this is the case, then the chemical reaction has undergone autocatalysis.
+
+Perhaps the greatest picture we can paint for one to grasp the idea of Autocatalysis would be the origin of life itself. That’s right the biological processes that generate life at the smallest molecular levels go through the process of autocatalysis.
+
+This idea was formulated by Stuart Kauffman a physician by trade who focused exclusively on Biology. During his tenure at the University of Pennsylvania, Kauffman theorized a radical new view for the stupendously head-scratching and improbable event of life forming on Earth.
+
+Autocatalysis can be extended in the business world. According to Munger Disney is an amazing example of autocatalysis.
+
+Disney had ownership of many of the classic movies and animations that had graced American cinema for decades. Yet at a point, Disney was at a plateau. Maybe people had seen a few of their movies before but that was in a theater or maybe screened on TV every now and then. Then the world changed with the VCR and video cassette tape. Once the video cassette tape was invented, Disney and their extensive catalog of classic content had been positioned perfectly to take over the home media industry—and that is exactly what happened! They exploded onto the screens in homes of people worldwide with a library of Disney content that was absolutely unmatched by anything out there. Every home in North America had a dozen Disney video Cassette tapes in their home library if not more!
+
+“In the autocatalysis process, properties, events or products serve as their own catalysts and are “self-breeding. For example the self-stimulated increase in the demand for air conditioning, hence the self-stimulated increase in the demand for air conditioners.” — Charlie Munger
+
+ <br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Red queen effect</strong></summary>
+    <br>
+
+Survival in a competitive environment usually requires adaptation and velocity, so doing nothing often means being left behind.
+
+The Red Queen Effect means that staying in the same place is falling behind. Surviving another day means we have to co-evolve with the systems we interact with. If all animals evolved at the same rate, there would be no change in the relative interactions between species. However, not all animals evolve at the same rate. As Darwin observed, some are more “responsive to change” than others.
+
+> It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change. — Charles Darwin
+
+Where does the phrase Red Queen come from? The Red Queen is from Lewis Carroll’s novel “Through the Looking Glass.” The Red Queen notes to Alice that in the Red Queen’s world, Alice will have to run as fast as she can to stay in place and twice as quickly to move forward.
+
+> Now, here, you see, it takes all the running you can do, to keep in the same place. If you want to get somewhere else, you must run at least twice as fast as that! — Lewis Carroll
+
+The evolve-or-die is the fact of nature. The effect is an evolutionary hypothesis that organisms must constantly evolve to survive, reproduce, and hopefully gain an advantage. One must work smarter and not faster to succeed.
+
+Of course, in the modern-day, we have to plan our moves strategically to be successful in this digitized world.
+
+> The great lesson in microeconomics is to discriminate between when technology is going to help you and when it’s going to kill you. — Charlie Munger
+
+> The promised benefits from these textile investments were illusory. Many of our competitors, both domestic and foreign, were stepping up to the same kind of expenditures and, once enough companies did so, their reduced costs became the baseline for reduced prices industry wide. Viewed individually, each company’s capital investment decision appeared cost-effective and rational; viewed collectively, the decisions neutralized each other and were irrational. — Warren Buffett
+
+People who sacrifice their present for the future are the ones who see the best results, and the Red Queen Effect is a great principle backing this idea. Although current generations may die to the process of natural selection, future generations stand to benefit greatly from their sacrifice. This evolutionary process persists in all areas of the world, from business transactions to biological reactions.
+
+Siddhartha Mukherjee, Pulitzer-prize-winner for the book The Emperor of All Maladies, describes the red queen in the context of drugs and cancer.
+
+> In August 2000, Jerry Mayfield, a forty-one-year-old Louisiana policeman diagnosed with CML, began treatment with Gleevec. Mayfield’s cancer responded briskly at first. The fraction of leukemic cells in his bone marrow dropped over six months. His blood count normalized and his symptoms improved; he felt rejuvenated—“like a new man [on] a wonderful drug.” But the response was short-lived. In the winter of 2003, Mayfield’s CML stopped responding. Moshe Talpaz, the oncologist treating Mayfield in Houston, increased the dose of Gleevec, then increased it again, hoping to outpace the leukemia. But by October of that year, there was no response. Leukemia cells had fully recolonized his bone marrow and blood and invaded his spleen. Mayfield’s cancer had become resistant to targeted therapy…
+
+> … Even targeted therapy, then, was a cat-and-mouse game. One could direct endless arrows at the Achilles’ heel of cancer, but the disease might simply shift its foot, switching one vulnerability for another. We were locked in a perpetual battle with a volatile combatant. When CML cells kicked Gleevec away, only a different molecular variant would drive them down, and when they outgrew that drug, then we would need the next-generation drug. If the vigilance was dropped, even for a moment, then the weight of the battle would shift. In Lewis Carroll’s Through the Looking-Glass, the Red Queen tells Alice that the world keeps shifting so quickly under her feet that she has to keep running just to keep her position. This is our predicament with cancer: we are forced to keep running merely to keep still.
+
+ <br>
+</details>
+
 ## Engineering
 | Model | Definition | 
 | -------------|:-------------:|
@@ -1941,22 +2044,22 @@ Occam’s razor is not an alternative for critical and logical thinking. It only
 ## Psychology
 | Model | Definition | 
 | -------------|:-------------:|
-| _Curiosity instinct_ | |
-| _Incentive-caused bias and rewards_ | |
-| _Doubt-avoidance tendency_ | |
-| _Excessive self-regard tendency_ | |
-| _Over-optimism & over-confidence_ | |
-| _Inconsistency-avoidance tendency_ | |
-| _Stress influence_ | |
-| _Drug mis-influence tendency_ | |
-| _Use-it-or-lose-it tendency_ | |
-| _Authority mis-influence_ | |
-| _Availability mis-weighing_ | |
-| _Commitment and consistency_ | |
-| _Pavlovian conditioning_ | |
-| _Senescence mis-influence_ | |
-| _Self-deception and denial_ | |
+| _Curiosity instinct_ | The inbuilt instinct which leads us to innovate and explore based on our curiosity. |
+| _Incentive-caused bias and rewards_ | People with a vested interest in something will tend to guide you in the direction of their interest. |
+| _Doubt-avoidance tendency_ | When faced with decisions riddled with doubt, we are hardwired to make quick decisions to remove the doubt, often leaving us with a wrong decision. |
+| _Excessive self-regard tendency_ | We all think we’re above average. |
+| _Over-optimism & over-confidence_ | Confidence is good, but overconfidence can create a bias in us. |
+| _Inconsistency-avoidance tendency_ | We rarely do things that are inconsistent with our identity, beliefs, and habits. |
+| _Stress influence_ | A state of mental or emotional strain or tension resulting from adverse or very demanding circumstances. |
+| _Drug mis-influence tendency_ | Drugs are destructive for cognition, and addiction is destructive to life. |
+| _Use-it-or-lose-it tendency_ | A skill degrades unless we practice it. |
+| _Authority mis-influence_ | Bias from over-influence by authority. |
+| _Availability mis-weighing_ | We have a tendency to give more weight to the information which is at hand and easily remembered. |
+| _Commitment and consistency_ | As people, once we make a commitment we usually remain consistent with our decision. |
+| _Pavlovian conditioning_ | Learning to associate a conditioned stimulus with an unconditioned stimulus. |
 | _Operant conditioning_ | A process by which humans and animals learn to behave in such a way as to obtain rewards and avoid punishments. |
+| _Senescence mis-influence tendency_ | As we get older, our mental abilities decline. |
+| _Self-deception and denial_ | It is the simple refusal to admit to certain unacceptable or unmanageable aspects of reality. |
 | _Envy and jealousy_ | Envy is when you want something that someone has. Jealousy is when you feel threatened. |
 | _Influence from mere association tendency_ | Bias from association (associate bias) is your tendency to be easily influenced by associations. |
 |_Survivorship bias_| Our tendency to focus on successful examples and ignore failures. |
@@ -1978,7 +2081,13 @@ Occam’s razor is not an alternative for critical and logical thinking. It only
     <summary><strong>Curiosity instinct</strong></summary>
     <br>
 
-The inbuilt instinct which leads us to innovate and explore based on our curiosity. It has led us to acquire information and knowledge about the world around us. Curiosity provides us with an incentive to innovate, explore, and learn.
+The inbuilt instinct which leads us to innovate and explore based on our curiosity. 
+
+It has led us to acquire information and knowledge about the world around us. 
+
+Curiosity provides us with an incentive to innovate, explore, and learn.
+
+The curiosity instinct leads to unique human behavior and forms of organization like the scientific enterprise. Even before there were direct incentives to innovate, humans innovated out of curiosity.
 
 <br>
 </details>
@@ -1988,7 +2097,29 @@ The inbuilt instinct which leads us to innovate and explore based on our curiosi
     <summary><strong>Incentive-caused bias and rewards</strong></summary>
     <br>
 
-Get the incentives right. Finding the correct incentive can cause people to change the way they think and change their behavior. A commission may incentivize employees to close more sales at any cost, but the employee will not be concerned with the profitability of the sale in the long term.
+People with a vested interest in something will tend to guide you in the direction of their interest.
+
+Incentives influence the way people act. Change the incentive, and you’ll change the behavior. Get the incentives right.
+
+Finding the correct incentive can cause people to change the way they think and change their behavior. A commission may incentivize employees to close more sales at any cost, but the employee will not be concerned with the profitability of the sale in the long term.
+
+“Perhaps the most important rule in management is to get the incentives right.” — Charlie Munger
+
+“Never, ever, think about something else when you should be thinking about the power of incentives.” — Charlie Munger
+
+Charlie argues that people respond most strongly to what they view as their incentive or disincentive. In business, there is almost always someone else involved in whatever you are trying to do. 
+
+Charlie gives an example of FedEx—he said that they couldn’t get the planes to shift packages from plane to plane in a timely manner. The problem was that the workers were being paid per hour. When FedEx changed to paying the workers per shift, the workers were able to to shift packages faster. 
+
+“The heart and soul of the integrity of the system is that all the packages have to be shifted rapidly in one central location each night. And the system has no integrity if the whole shift can’t be done fast. And Federal Express had one hell of a time getting the thing to work. And they tried moral suasion, they tried everything in the world, and finally somebody got the happy thought that they were paying the night shift by the hour, and that maybe if they paid them by the shift, the system would work better. And lo and behold, that solution worked.” — Charlie Munger
+
+Or Charlie talks about the incentives at Xerox: 
+
+“Early in the history of Xerox, Joe Wilson, who was then in the government, had to go back to Xerox because he couldn’t understand how their better, new machine was selling so poorly in relation to their older and inferior machine. Of course when he got there, he found out that the commission arrangement with the salesmen gave a tremendous incentive to the inferior machine.” — Charlie Munger
+
+Or Munger gives an example of procurement on Defense Department:
+
+“The power of incentives to cause rationalized, terrible behavior is also demonstrated by Defense Department procurement history. After the Defense Department had much truly awful experience with misbehaving contractors motivated under contracts paying on a cost-plus-a-percentage-of cost basis, the reaction of our republic was to make it a crime for a contracting office in the Defense Department to sign such a contract, and not only a crime, but a felony.” — Charlie Munger
 
 <br>
 </details>
@@ -1998,7 +2129,17 @@ Get the incentives right. Finding the correct incentive can cause people to chan
     <summary><strong>Doubt-avoidance tendency</strong></summary>
     <br>
 
-When faced with decisions riddled with doubt, we are hardwired to make quick decisions to remove the doubt, often leaving us with a wrong decision. Law courts force jurors to take time before reaching a decision to deal with this doubt.
+When faced with decisions riddled with doubt, we are hardwired to make quick decisions to remove the doubt, often leaving us with a wrong decision.
+
+The human brain has evolved to resolve open issues (cognitive dissonance) by making decisions. Part of our speedy decision making process comes at a price: we eliminate any potential doubts, which might cause us to make mistakes.
+
+Law courts force jurors to take time before reaching a decision to deal with this doubt.
+
+Take your time and analyze.
+
+Charlie Munger uses a specific example from a Dean of Physics in his speech "The Psychology of Human Misjudgement":
+
+“According to Max Planck, the really innovative, important new physics was never really accepted by the old guard. Instead a new guard came along that was less brain-blocked by its previous conclusions.”
 
 <br>
 </details>
@@ -2008,7 +2149,19 @@ When faced with decisions riddled with doubt, we are hardwired to make quick dec
     <summary><strong>Excessive self-regard tendency</strong></summary>
     <br>
 
+We all think we’re above average.
+
+This is where overconfidence comes from.
+
 The more we know, the more we understand what we do not know. We have a tendency to overestimate our ability when we have little experience or knowledge. This optimism does have benefits and means that we are willing to dive into new things.
+
+This also applies to possessions.
+
+The overappraisal-of-your-own-possessions is also known as the “endowment effect.” The endowment effect describes a circumstance in which an individual places a higher value on an object that they already own than the value they would place on that same object if they did not own it.
+
+“Foolish gambling decisions. Excessive self-regard leads to more addictive sports betting than race track betting, or to cases of stupid bets against superior players in poker or golf.” — Charlie Munger
+
+Munger says the greatest type of pride should be taking pride in being trustworthy to avoid developing an ego.
 
 <br>
 </details>
@@ -2018,7 +2171,21 @@ The more we know, the more we understand what we do not know. We have a tendency
     <summary><strong>Over-optimism & over-confidence</strong></summary>
     <br>
 
-Most of us have a tendency to overestimate ourselves. We believe that we are more intelligent, honest, happier, etc., than the average person, but we cannot all be above average. Confidence is good, but overconfidence can create a bias in us.
+Confidence is good, but overconfidence can create a bias in us.
+
+The overconfidence effect is a well-established bias in which a person's subjective confidence in their judgments is reliably greater than the objective accuracy of those judgments, especially when confidence is relatively high.
+
+Most of us have a tendency to overestimate ourselves. 
+
+We believe that we are more intelligent, honest, happier, etc., than the average person, but we cannot all be above average. 
+
+Munger describes the phenomenon:
+
+“..in the 5th century B. C. Demosthenes noted that: “What a man wishes, he will believe.” And in self-appraisals of prospects and talents it is the norm, as Demosthenes predicted, for people to be ridiculously over-optimistic. For instance, a careful survey in Sweden showed that 90 percent of automobile drivers considered themselves above average. And people who are successfully selling something, as investment counselors do, make Swedish drivers sound like depressives. Virtually every investment expert’s public assessment is that he is above average, no matter what is the evidence to the contrary.”
+
+Daniel Khaneman describes:
+
+“One of our biases is that we can ignore the lessons of experience. A group of people compiling a report will estimate they can do it in a year, even though every other similar report has taken comparable groups five years...“When I started the book I told Richard Thaler (the author of Nudge) that I had 18 months to finish it. He laughed hysterically and said, ‘You have written about that, haven’t you? It’s not going to work the way you expect’.” How long did it take you, I ask. “Four years, and it was very painful.” 
 
 <br>
 </details>
@@ -2028,7 +2195,13 @@ Most of us have a tendency to overestimate ourselves. We believe that we are mor
     <summary><strong>Inconsistency-avoidance tendency</strong></summary>
     <br>
 
-As people, we are reluctant to change or to become inconsistent. This means that bad habits are hard to change, but once we have learned good habits, it is easy to keep them.
+We rarely do things that are inconsistent with our identity, beliefs, and habits. 
+
+This means that bad habits are hard to change.
+
+To save energy, we are often reluctant to change our habits, especially bad ones. Such bad habits include biased thinking patterns. These patterns lead to cognitive errors, limiting our choice of actions in life.
+
+This is why learning good habits is critical because it is easier to keep them.
 
 <br>
 </details>
@@ -2038,7 +2211,21 @@ As people, we are reluctant to change or to become inconsistent. This means that
     <summary><strong>Stress Influence</strong></summary>
     <br>
 
-Stress can be both good and bad for us. Under stress, we can complete tasks and have an enhanced focus for a short period of time. Yet stress can also lead us to act without thinking. Constant stress can affect our health. Light stress, on the other hand, can improve our performance.
+A state of mental or emotional strain or tension resulting from adverse or very demanding circumstances.
+
+Stress can be both good and bad for us.
+
+Imagine yourself going back 150,000 years. You are standing in the jungle. A cheetah is approaching towards you at full speed. What do you do? The sudden stress in your system will cause an adrenaline rush which will make you to run without thinking. This is good stress.
+
+Under stress, we can complete tasks and have an enhanced focus for a short period of time. Yet stress can also lead us to act without thinking. 
+
+Constant stress can affect our health. Light stress, on the other hand, can improve our performance.
+
+In Psychology of Human Misjudgment – Charlie Munger tells that light stress can slightly improve performance. We study very hard before the exams. During this time our body and mind will be under stress. But this is good as we learn a lot in a very short period of time. Once the exams are over our body and mind is back to normal.
+
+“Stress is often very helpful. The classic stress response mobilizes energy to your muscles by increasing your heart rate, blood pressure, and breathing. High stress also helps your sensory system. For example, policemen report that during shootouts their visual acuity and focus improves, they sense a slowdown in time, and they fail to hear sounds. For a short burst, the mind can focus intently on the task at handle. This reaction is valuable in extraordinary circumstances.” — Michael Mauboussin
+
+“Long-term stress exposure upsets the brain’s chemical balance. Stress may cause high blood pressure, heart disease, diabetes, back and stomach problems, headache, and depression. Studies show that when we feel stress the concentration of cortisol rises in the bloodstream. One effect of cortisol is to suppress the working of immune system. This makes us more vulnerable to diseases. Stress also counteracts the production of insulin (the hormone that processes blood sugar), causing the process of repair to slow down. Studies show that emotional stress creates longer recovery times in our bodies and may be more harmful to our health than non-emotional stress events like physical exercise.” — Peter Bevelin
 
 <br>
 </details>
@@ -2048,7 +2235,19 @@ Stress can be both good and bad for us. Under stress, we can complete tasks and 
     <summary><strong>Drug mis-influence tendency</strong></summary>
     <br>
 
+Drugs are destructive for cognition, and addiction is destructive to life.
+
 Drugs or alcohol can throw us into a spiraling negative-feedback loop which can become self-reinforcing and impossible to escape from. We can be influenced to make big mistakes, so we should stay away from the big mistake (the drugs), in the first place.
+
+This tendency’s destructive power is so widely known to be intense, with frequent tragic consequences for cognition and the outcome of life which leads to...
+
+Simple, pain-avoiding psychological denial. Charlie Munger explains this in his Psychology of Human Misjudgment talk:
+
+“This phenomenon first hit me hard in World War II when the superathlete, superstudent son of a family friend flew off over the Atlantic Ocean and never came back. His mother, who was a very sane woman, then refused to believe he was dead. That’s Simple, Pain-Avoiding Psychological Denial. The reality is too painful to bear, so one distorts the facts until they become bearable. We all do that to some extent, often causing terrible problems. The tendency’s most extreme outcomes are usually mixed up with love, death, and chemical dependency.
+
+Where denial is used to make dying easier, the conduct meets almost no criticism. Who would begrudge a fellow man such help at such a time? But some people hope to leave life hewing to the iron prescription, “It is not necessary to hope in order to persevere.” And there is something admirable in anyone able to do this.
+
+In chemical dependency, wherein morals usually break down horribly, addicted persons tend to believe that they remain in respectable condition, with respectable prospects. They thus display an extremely unrealistic denial of reality as they go deeper and deeper into deterioration. In my youth, Freudian remedies failed utterly in reversing chemical dependency, but nowadays Alcoholics Anonymous routinely achieves a fifty percent cure rate by causing several psychological tendencies to act together to counter addiction. However, the cure process is typically difficult and draining, and a fifty percent success rate implies a fifty percent failure rate. One should stay far away from any conduct at all likely to drift into chemical dependency. Even a small chance of suffering so great a damage should be avoided.”
 
 <br>
 </details>
@@ -2057,6 +2256,10 @@ Drugs or alcohol can throw us into a spiraling negative-feedback loop which can 
 <details>
     <summary><strong>Use-it-or-lose-it tendency</strong></summary>
     <br>
+
+A skill degrades unless we practice it.
+
+For example, if you don't fly as a pilot very often, you should not fly as a pilot at all. To be a successful investor, you must commit your time and energy to real or paper investing on a regular basis.
 
 The less we use something, such as a skill, the less useful and honed it will become. It is good practice for us to work on our lesser-used skills so that we have them available to us when we need them.
 
@@ -2068,7 +2271,17 @@ The less we use something, such as a skill, the less useful and honed it will be
     <summary><strong>Authority mis-influence</strong></summary>
     <br>
 
+Bias from over-influence by authority.
+
 As a society we have hierarchies, a few people lead and lots of people follow. This is a natural human tendency. We have a tendency to blindly follow those who are in power and not question their orders. We will often do something just because someone says so.
+
+We trust and respect leaders too much, even when they make mistakes. We also trust leaders in areas where they are not experts. This is also known as the Halo Effect.
+
+“Living in dominance hierarchies as he does, like all his ancestors before him, man was born mostly to follow leaders, with only a few people doing the leading. And so, human society is formally organized into dominance hierarchies, with their culture augmenting the natural follow-the-leader tendency of man. But automatic as most human reactions are, with the tendency to follow leaders being no exception, man is often destined to suffer greatly when the leader is wrong or when his leader’s ideas don’t get through properly in the bustle of life and are misunderstood. And so, we find much miscognition from man’s Authority-Misinfluence Tendency.” — Charlie Munger
+
+“Bias from over-influence by authority. Well, here the Milgram experiment is it’s cause...I think there have been 1600 psychological papers written about Milgram. He had a person posing as an authority figure trick ordinary people into giving what they had every reason to expect was heavy torture by an electric shock to perfectly innocent fellow citizens. And the experiment has been...he was trying to show why Hitler succeeded and a few other things. So it has really caught the fancy of the world. Partly it’s so politically correct and...Over-influence by authority has another very… you’ll like this one. You got a pilot and a co-pilot. The pilot is the authority figure. They don’t do this in airplanes, but they’ve done it in simulators. They have the pilot do something where the co-pilot who’s been trained in simulators a long time. He knows he’s not to allow the plane to crash. They have the pilot to do something where an idiot co-pilot would know the plane was gonna crash, but the pilot’s doing it, and the co-pilot is sitting there, and the pilot is the authority figure. 25% of the time, the plane crashes. This is a very powerful psychological tendency.” — Charlie Munger
+
+“The obvious implication: be careful whom you appoint to power because a dominant authority figure will often be hard to remove.” — Charlie Munger
 
 <br>
 </details>
@@ -2078,7 +2291,17 @@ As a society we have hierarchies, a few people lead and lots of people follow. T
     <summary><strong>Availability mis-weighing</strong></summary>
     <br>
 
-We have a tendency to give more weight to the information which is at hand and easily remembered. We positively misjudge events if they happened more recently or with more frequency. When events are vivid, we remember them more easily.
+We have a tendency to give more weight to the information which is at hand and easily remembered. 
+
+We positively misjudge events if they happened more recently or with more frequency. When events are vivid, we remember them more easily.
+
+The availability heuristic, also known as availability bias, is a mental shortcut that relies on immediate examples that come to a given person's mind when evaluating a specific topic, concept, method, or decision. This heuristic, operating on the notion that, if something can be recalled, it must be important, or at least more important than alternative solutions not as readily recalled, is inherently biased toward recently acquired information.
+
+The mental availability of an action's consequences is positively related to those consequences' perceived magnitude. In other words, the easier it is to recall the consequences of something, the greater those consequences are often perceived to be.
+
+“This mental tendency echoes the words of the song: ‘When I’m not near the girl I love, I love the girl I’m near.’ Man’s imperfect, limited-capacity brain easily drifts into working with what’s easily available to it. And the brain can’t use what it can’t remember or what it is blocked from recognizing because it is heavily influenced by one or more psychological tendencies bearing strongly on it, as the fellow is influenced by the nearby girl in the song. And so the mind overweighs what is easily available and thus displays Availability-Misweighing Tendency.” — Charlie Munger
+
+“The availability heuristic, like other heuristics of judgment, substitutes one question for another: you wish to estimate the size of a category or the frequency of an event, but you report an impression of the ease with which instances come to mind. Substitution of questions inevitably produces systematic errors.” — Daniel Kahneman
 
 <br>
 </details>
@@ -2088,7 +2311,20 @@ We have a tendency to give more weight to the information which is at hand and e
     <summary><strong>Commitment and consistency</strong></summary>
     <br>
 
-As people, once we make a commitment we usually remain consistent with our decision. This can lead to people sticking with a decision even when facts change, or throwing more money at a problem which has sunk costs.
+As people, once we make a commitment we usually remain consistent with our decision. 
+
+This can lead to people sticking with a decision even when facts change.
+
+Consistency is usually viewed as a desirable social trait and shows that we’re logical, stable, and trustworthy. So, once we’ve made a choice and committed to something, there’s a natural compulsion to behave consistently with that commitment.
+
+That why you should state a goal publicly if you want to make a change in your life. For example lose weight. Once you’ve committed something out loud you will have an incentive to keep up with the goal.
+
+“I remember quite well feeling my stomach tighten as I stammered my agreement. It was a clear call to my brain, “Hey, you’re being taken here!” But I couldn’t see a way out. I had been cornered by my own words. To decline her offer at that point would have meant facing a pair of distasteful alternatives: If I tried to back out by protesting that I was not actually the man-about-town I had claimed to be during the interview, I would come off a liar; trying to refuse without that protest would make me come off a fool for not wanting to save $1,200. I bought the entertainment package, even though I knew I had been set up. The need to be consistent with what I had already said snared me.” — Robert Cialdini 
+
+“Whenever my stomach tells me I would be a sucker to comply with a request merely because doing so would be consistent with some prior commitment I was tricked into, I relay that message to the requester. I don’t try to deny the importance of consistency; I just point out the absurdity of foolish consistency. Whether, in response, the requester shrinks away guiltily or retreats in bewilderment, I am content. I have won; an exploiter has lost.” — Robert Cialdini 
+
+“Having heard that he had in his library a certain very scarce and curious book, I wrote a note to him, expressing my desire of perusing that book, and requesting he would do me the favour of lending it to me for a few days. He sent it immediately, and I return’d it in about a week with another note, expressing strongly my sense of the favour. When we next met in the House, he spoke to me (which he had never done before), and with great civility; and he ever after manifested a readiness to serve me on all occasions, so that we became great friends, and our friendship continued to his death. This is another instance of the truth of an old maxim I had learned, which says, “He that has once done you a kindness will be more ready to do you another, than he whom you yourself have obliged.” — Ben Franklin
+
 
 <br>
 </details>
@@ -2098,27 +2334,19 @@ As people, once we make a commitment we usually remain consistent with our decis
     <summary><strong>Pavlovian conditioning</strong></summary>
     <br>
 
-Learning to associate a conditioned stimulus with an unconditioned stimulus. Pavlov’s experiments proved this. He would ring a bell (conditioned) every time he gave food (unconditioned, food causes salivation) to his dogs. Over time the dogs would salivate (unconditioned) when the bell was rung (conditioned).
+Learning to associate a conditioned stimulus with an unconditioned stimulus.
 
-<br>
-</details>
-<br>
+Pavlov would ring a bell (conditioned) every time he gave food (unconditioned, food causes salivation) to his dogs. Over time the dogs would salivate (unconditioned) when the bell was rung (conditioned).
 
-<details>
-    <summary><strong>Senescence mis-influence</strong></summary>
-    <br>
+Ivan Pavlov is known for his famous experiment with conditioning the salivation response in dogs, which brought about classical conditioning. Classical conditioning is a form of learning whereby a conditioned stimulus becomes associated with an unrelated unconditioned stimulus, in order to produce a behavioral response known as a conditioned response. By teaching dogs to associate the sound of a buzzer with being fed, Pavlov established the principles of classical conditioning.
 
-As we get older, there is a natural drop in our skills and abilities. We can use continuous learning and mental stimulation to slow this decay, like doing a crossword every day or reading a book.
+In summary, it is used to manipulate behavior which can have a positive or negative outcome.
 
-<br>
-</details>
-<br>
+“Experiments have shown that we can learn to fear a harmless stimulus if it is paired with an unpleasant one. If for example rats consistently receive mild electrical shock after hearing a tone, the rats learn to develop a fear of the tone alone.” — Peter Bevelin
 
-<details>
-    <summary><strong>Self-deception and denial</strong></summary>
-    <br>
+“The neural system of Pavlov’s dog causes it to salivate at the bell it can’t eat. And the brain of man yearns for the type of beverage held by the pretty woman he can’t have....we must use every sort of decent, honorable Pavlovian conditioning we can think of. For as long as we are in business, our beverage and its promotion must be associated in consumer minds with all other things consumers like or admire.” — Charlie Munger
 
-We often fool ourselves into believing that falsehoods are true and truths are false. We do this when we do not have enough mental strength to admit the truth and face the consequences. We may tell ourselves that everything is fine when our world is crumbling around us.
+“Paley of CBS was a business example of this: he didn’t want to hear what he didn’t like to hear. Those around him learned that and soon told him only what he wanted to hear. Eventually that led to a decline in market share for CBS (which was once the only major tv network).” — Charlie Munger
 
 <br>
 </details>
@@ -2143,6 +2371,44 @@ Skinner identified three types of responses, or operant, that can follow behavio
 - Punishers: responses from the environment that decrease the likelihood of a behavior being repeated. Punishment weakens behavior.
 
 The tools used in operant conditioning are known as positive and negative reinforcement and positive and negative punishment.
+
+<br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Senescence mis-influence tendency</strong></summary>
+    <br>
+
+As we get older, our mental abilities decline.
+
+As we get older, there is a natural drop in our skills and abilities. 
+
+It gets harder to change old people’s habits for the better, especially in the face of new evidence.
+
+We can use continuous learning and mental stimulation to slow this decay, like doing a crossword every day or reading a book.
+
+<br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Self-deception and denial</strong></summary>
+    <br>
+
+It is the simple refusal to admit to certain unacceptable or unmanageable aspects of reality.
+
+Self-esteem can be a very important aspect of personal well-being which allows for to give in less to peer pressure.
+
+Under the influence of bias from self-esteem, we find ourselves drifting away from facts and go into extreme beliefs.
+
+We often fool ourselves into believing that falsehoods are true and truths are false. We do this when we do not have enough mental strength to admit the truth and face the consequences. We may tell ourselves that everything is fine when our world is crumbling around us.
+
+Charlie Munger on denial:
+
+“This first really hit me between the eyes when a friend of our family had a super-athlete, super-student son who flew off a carrier in the North Atlantic and never came back, and his mother, who was a very sane woman, just never believed that he was dead.”
+
+“The first principle is that you must not fool yourself–and you are the easiest person to fool.” — Richard Feynman
 
 <br>
 </details>
@@ -2597,44 +2863,7 @@ When we are not treated fairly, we often become angry or frustrated. The pursuit
 
  <br>
 </details>
-
-## Biology
-| Model | Definition | 
-| -------------|:-------------:|
-| _Red queen effect_ | Survival in a competitive environment usually requires adaptation and velocity, so doing nothing often means being left behind. |
-
-<details>
-    <summary><strong>Red queen effect</strong></summary>
-    <br>
-
-Survival in a competitive environment usually requires adaptation and velocity, so doing nothing often means being left behind.
-
-The Red Queen Effect means that staying in the same place is falling behind. Surviving another day means we have to co-evolve with the systems we interact with. If all animals evolved at the same rate, there would be no change in the relative interactions between species. However, not all animals evolve at the same rate. As Darwin observed, some are more “responsive to change” than others.
-
-> It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change. — Charles Darwin
-
-Where does the phrase Red Queen come from? The Red Queen is from Lewis Carroll’s novel “Through the Looking Glass.” The Red Queen notes to Alice that in the Red Queen’s world, Alice will have to run as fast as she can to stay in place and twice as quickly to move forward.
-
-> Now, here, you see, it takes all the running you can do, to keep in the same place. If you want to get somewhere else, you must run at least twice as fast as that! — Lewis Carroll
-
-The evolve-or-die is the fact of nature. The effect is an evolutionary hypothesis that organisms must constantly evolve to survive, reproduce, and hopefully gain an advantage. One must work smarter and not faster to succeed.
-
-Of course, in the modern-day, we have to plan our moves strategically to be successful in this digitized world.
-
-> The great lesson in microeconomics is to discriminate between when technology is going to help you and when it’s going to kill you. — Charlie Munger
-
-> The promised benefits from these textile investments were illusory. Many of our competitors, both domestic and foreign, were stepping up to the same kind of expenditures and, once enough companies did so, their reduced costs became the baseline for reduced prices industry wide. Viewed individually, each company’s capital investment decision appeared cost-effective and rational; viewed collectively, the decisions neutralized each other and were irrational. — Warren Buffett
-
-People who sacrifice their present for the future are the ones who see the best results, and the Red Queen Effect is a great principle backing this idea. Although current generations may die to the process of natural selection, future generations stand to benefit greatly from their sacrifice. This evolutionary process persists in all areas of the world, from business transactions to biological reactions.
-
-Siddhartha Mukherjee, Pulitzer-prize-winner for the book The Emperor of All Maladies, describes the red queen in the context of drugs and cancer.
-
-> In August 2000, Jerry Mayfield, a forty-one-year-old Louisiana policeman diagnosed with CML, began treatment with Gleevec. Mayfield’s cancer responded briskly at first. The fraction of leukemic cells in his bone marrow dropped over six months. His blood count normalized and his symptoms improved; he felt rejuvenated—“like a new man [on] a wonderful drug.” But the response was short-lived. In the winter of 2003, Mayfield’s CML stopped responding. Moshe Talpaz, the oncologist treating Mayfield in Houston, increased the dose of Gleevec, then increased it again, hoping to outpace the leukemia. But by October of that year, there was no response. Leukemia cells had fully recolonized his bone marrow and blood and invaded his spleen. Mayfield’s cancer had become resistant to targeted therapy…
-
-> … Even targeted therapy, then, was a cat-and-mouse game. One could direct endless arrows at the Achilles’ heel of cancer, but the disease might simply shift its foot, switching one vulnerability for another. We were locked in a perpetual battle with a volatile combatant. When CML cells kicked Gleevec away, only a different molecular variant would drive them down, and when they outgrew that drug, then we would need the next-generation drug. If the vigilance was dropped, even for a moment, then the weight of the battle would shift. In Lewis Carroll’s Through the Looking-Glass, the Red Queen tells Alice that the world keeps shifting so quickly under her feet that she has to keep running just to keep her position. This is our predicament with cancer: we are forced to keep running merely to keep still.
-
- <br>
-</details>
+<br>
 
 ## Further reading
 <details>
