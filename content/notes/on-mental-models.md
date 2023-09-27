@@ -89,8 +89,54 @@ Below are the collection of mental models accumulated from his various resources
 ## Engineering
 | Model | Definition | 
 | -------------|:-------------:|
+| _Redundant system_ | Systems that work are designed not to fail; therefore they often rely heavily on redundancy. |
+| _Breakpoint_ | In complex engineering systems an intentional small pause is performed for safety, reflection and debugging. |
 | _Feedback loop_ | A feedback loop occurs when the output of a system feeds back into itself as an input, thereby further affecting the output. |
 | _Margin of safety_ | Describes the capacity of a system to carry load beyond its actual capability. |
+
+<details>
+    <summary><strong>Redundant system</strong></summary>
+    <br>
+
+Systems that work are designed not to fail; therefore they often rely heavily on redundancy.
+
+The adding of duplicated parts to systems to increase reliability and provide a failsafe, should part of the system go down. The duplicated part could be a backup of a critical component or it could be used to increase performance, such as multi-threading in computing.
+
+For example, you are on the road heading to work when suddenly you hear a loud pop. This isn’t the first time you’ve had a flat tire and it probably won’t be the last, but thanks to your spare tire, you’ll definitely still make it to work on time.
+
+A situation where there is more than a single means of accomplishing a particular task can be defined as ‘redundancy’.
+
+Creating a redundant system can establish a failsafe that minimizes the consequences of potential errors. A great example of a redundant system is the common practice of keeping a spare house key in a hidden location somewhere on your property.
+
+While you may expect to have your primary key available at most times, on the off chance that you don’t have it ready, you have a redundancy set up to ensure that you can still enter your home.
+
+Spare keys are a very basic example, but redundancy actually refers to a relatively complex concept. To be specific, redundancy is referring to any process that adds additional instances of critical components to a system. If another part of the system fails, these extra components are meant to take over for them.
+
+A system with redundancies set up will not suffer a complete system failure until every instance of critical components fails.
+
+Redundancy can sometimes be overbearing, causing problematic outcomes. The first problem with redundancy is that adding extra components can inadvertently create a catastrophic common-mode error (a fault that causes all the components to fail). This danger is perhaps most easily understood through a simple example from the commercial aircraft industry. Aircraft manufacturers have to determine how many engines to use on jumbo jets. Cost is clearly an important factor entering their calculations. Yet so is safety, since each additional engine on an aircraft both increases the likelihood that the redundant engine will keep the plane in the air if all others fail in flight and increases the probability that a single engine will cause an accident, by blowing up or starting a fire that destroys all the other engines and the aircraft itself.
+
+In business, it is important to have redundancies set up as a failsafe. Don’t put all your eggs in one basket, be prepared with another backup plan.
+
+ <br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Breakpoint</strong></summary>
+    <br>
+
+In complex engineering systems an intentional small pause is performed for safety, reflection and debugging.
+
+A small pause, or break, in complex engineering systems, to allow for safety or debugging. These breaks allow you to look at the system and reflect on performance, making sure that there are no noticeable errors. Breakpoints can be a useful addition to your thinking in a variety of subjects.
+
+In software development, a breakpoint is an intentional stopping or pausing place in a program, put in place for debugging purposes. It is also sometimes simply referred to as a pause.
+
+Essentially, in complex engineering systems an intentional small pause is performed for safety, reflection and debugging. It is a great idea to have a few break points in your investment checklist, the more decisions you must make, the more room for error you are susceptible to. If life you can also apply a breakpoint. Everytime your brain starts to wander, you can go in a debugging mode by applying breakpoints. Breakpoint stops the execution/wandering process.
+
+ <br>
+</details>
+<br>
 
 <details>
     <summary><strong>Feedback loop</strong></summary>
@@ -114,7 +160,7 @@ The concept first started to appear in Britain but it didn't have a name. One of
 
 **Habit loop**: Feedback loops are important for virtuous cycle of deep and experimental learning. As we learn, try and practice a topic, we can get feedback on our performance (tests). Based on the feedback, we evaluate which methods of learning are most efficient and which aren't. Then we modify our behavior and adjust our learning methods. This loop reinforces our learning, and helps us to improve. As we learn more, we will be able to understand bigger ideas, and this snowballs into a huge intellectual advantage over time. A powerful application of the feedback loop is the [habit loop](https://charlesduhigg.com/how-habits-work/), as popularized by Charles Duhigg. The habit loop explains how we can use feedback (rewards) to reinforce the behavior we want to create within ourselves. A key point to remember is that feedback is most effective when provided immediately and translated into an action otherwise feedback is no good. There are many other known applications of feedback loops on [Wikipedia](https://en.wikipedia.org/wiki/Feedback#Applications).
 
-<br>
+ <br>
 </details>
 <br>
 
@@ -147,8 +193,69 @@ Margin of safety originated from engineering. Many structural projects within go
 ## Physics
 | Model | Definition | 
 | -------------|:-------------:|
+| _Equilibrium_ | Equilibrium is a balance between one or more opposing forces. |
+| _Newton's laws_ | The three laws of motion describe the interrelationships between objects, and the forces acting on them. |
+| _Law of thermodynamics_ | The laws of thermodynamics are a set of scientific laws which define a group of physical quantities. |
 | _Leverage_ | By using a lever, you can amplify the input force. Think of a see-saw. |
 | _Critical mass_ | The amount of reactant necessary for something to happen and to keep happening. |
+
+<details>
+    <summary><strong>Equilibrium</strong></summary>
+    <br>
+
+Equilibrium is a balance between one or more opposing forces. 
+
+When a system has no change over time, in motion or energy. The rule of supply and demand, from economics, is an example of the law of equilibrium.
+
+There are different types of equilibrium:
+
+- Static equilibrium is when a system is at rest or motion and energy are unchanging.
+- Dynamic equilibrium is when two or more forces are equally matched preventing any change in the motion and energy.
+
+Robert Hagstorm illustrate the difference between the static and dynamic equilibrium:
+
+“A scale that is equally weighted on both sides is an example of static equilibrium. Fill a bathtub full of water and then turn off the faucet and you will observe static equilibrium. But if you unplug the drain and then turn on the faucet so the level of the bathtub does not change, you are witnessing dynamic equilibrium.”
+
+“Another example is the human body. It remains in dynamic equilibrium so long as the heat loss from cooling remains in balance with the consumption of sugars.”
+
+ <br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Newton's laws</strong></summary>
+    <br>
+
+The three laws of motion describe the interrelationships between objects, and the forces acting on them.
+
+In 1687, Isaac Newton published his revolutionary book, The Principia: Mathematical Principles of Natural Philosophy,1 in which he stated his three laws of motion. The Principia formed the foundation of classical mechanics and is to this day considered one of the most important works in the history of science.
+
+The three laws of motion describe the interrelationships between objects, and the forces acting on them:
+
+-  Newton’s First Law of Motion (Inertia): An object at rest remains at rest, and an object in motion remains in motion at constant speed and in a straight line unless acted on by an unbalanced force.
+- Newton’s Second Law of Motion (Force): The acceleration of an object depends on the mass of the object and the amount of force applied.
+- Newton’s Third Law of Motion (Action & Reaction): Whenever one object exerts a force on another object, the second object exerts an equal and opposite on the first.
+
+ <br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Law of thermodynamics</strong></summary>
+    <br>
+
+The laws of thermodynamics are a set of scientific laws which define a group of physical quantities, such as temperature, energy, and entropy, that characterize thermodynamic systems in thermodynamic equilibrium. 
+
+- If two systems are independently equal, thermally, to a third, the two systems must be equal to each other. 
+- The total amount of energy in a closed system cannot change. 
+- The disorder of energy in a closed system will always increase. 
+- It is impossible to reach absolute zero.
+
+As defined in the Second Law of Thermodynamics, entropy is the tendency of all closed systems to drift toward a state of disorder rather than order. Entropy, a measure of disorder, explains why life seems to get more, not less, complicated as time goes on.
+
+ <br>
+</details>
+<br>
 
 <details>
     <summary><strong>Leverage</strong></summary>
@@ -220,9 +327,58 @@ A tipping point when the change is slow at first, but then suddenly leads to an 
 ## Mathematics
 | Model | Definition | 
 | -------------|:-------------:|
+| _Multiply by zero_ | Anything multiplied by zero becomes zero no matter how big the preceding numbers are. |
+| _Combinations and permutations_ | Combinations and permutations are very important in calculating probabilities. |
 | _Power laws_ | Power law is one form of Pareto's principle where the proportion of 80/20 shifts to extreme proportion. |
 | _Inversion_ | The thinking in which you want opposite—both forward and backward. |
 | _Compound interest_ | Compound interest is the interest you earn on the sum of your initial principal amount and the interest accumulated. |
+
+<details>
+    <summary><strong>Multiply by zero</strong></summary>
+    <br>
+
+Anything multiplied by zero becomes zero no matter how big the preceding numbers are. 
+
+If you are in a system which multiplies numbers, and one of the numbers is zero, the end product will always be zero.
+
+This is true in human systems as well as mathematical ones. 
+
+You can have everything working for you in your career—a great education, an excellent resume, and an impressive background—but none of that matters if you can’t deal with other people.
+
+You can have plenty of healthy habits—get regular exercise, eat healthy, and meditate every morning—but if you’re not sleeping sufficiently, you’ll still have an increased risk of cancer, heart attack, and Alzheimer’s disease.
+
+Warren Buffett:
+
+“A long string of impressive numbers multiplied by a single zero always equals zero.' So you have to avoid the zeros.”
+
+“There are a few ways that are guaranteed losers: if you're doing high-cost anything with high fees, spending too much in your personal life, or using a lot of leverage. There are only a few ways to go broke but many ways to get rich.”
+
+ <br>
+</details>
+<br>
+
+
+<details>
+    <summary><strong>Combinations and permutations</strong></summary>
+    <br>
+
+Combinations and permutations are very important in calculating probabilities.
+
+The biggest difference between combinations and permutations is that in permutations the order of the  matter. A combination is a list of things where the order does not matter, like a shopping list. A permutation is a list of things where the order does matter, like a bestseller list.
+
+Combinations can be defined in many ways. Here is one: “A joining or merging of different parts or qualities in which the component elements are individually distinct.”
+
+Permutations can be defined in many ways. Here is one: “Each of a several ways in which a set of number of things can be ordered or arranged.” In mathematics, the notion of permutation relates to the act of arranging all the members of the set into some sequence or order.
+
+Charlie Munger:
+
+“First there’s mathematics. Obviously, you’ve got to be able to handle numbers and quantities-basic arithmetic. And the great useful model,  after compound interest, is the elementary math of permutations and combinations. And that was taught in my day in sophomore year in high school.  I suppose by now in great private schools, it’s probably down to the eighth grade or so. One of the advantages of a fellow like Buffett, whom I’ve worked all these years, is that he automatically thinks in terms of decision trees and the elementary math of permutations and combinations...If you don’t get this elementary, but mildly unnatural, mathematics of elementary probability into your repertoire, then you go through a long life like a one legged in an ass kicking contest. You’re giving a huge advantage to everybody else.”
+
+The mathematics of permutations and combinations leads us to understand the practical probabilities of the world around us, how things can be ordered, and how we should think about things.
+
+ <br>
+</details>
+<br>
 
 <details>
     <summary><strong>Power laws</strong></summary>
