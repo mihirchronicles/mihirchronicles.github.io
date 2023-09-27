@@ -1941,6 +1941,24 @@ Occam’s razor is not an alternative for critical and logical thinking. It only
 ## Psychology
 | Model | Definition | 
 | -------------|:-------------:|
+| _Curiosity instinct_ | |
+| _Incentive-caused bias and rewards_ | |
+| _Doubt-avoidance tendency_ | |
+| _Excessive self-regard tendency_ | |
+| _Over-optimism & over-confidence_ | |
+| _Inconsistency-avoidance tendency_ | |
+| _Stress influence_ | |
+| _Drug mis-influence tendency_ | |
+| _Use-it-or-lose-it tendency_ | |
+| _Authority mis-influence_ | |
+| _Availability mis-weighing_ | |
+| _Commitment and consistency_ | |
+| _Pavlovian conditioning_ | |
+| _Senescence mis-influence_ | |
+| _Self-deception and denial_ | |
+| _Operant conditioning_ | A process by which humans and animals learn to behave in such a way as to obtain rewards and avoid punishments. |
+| _Envy and jealousy_ | Envy is when you want something that someone has. Jealousy is when you feel threatened. |
+| _Influence from mere association tendency_ | Bias from association (associate bias) is your tendency to be easily influenced by associations. |
 |_Survivorship bias_| Our tendency to focus on successful examples and ignore failures. |
 |_Man with a hammer syndrome_| To the man with a hammer, every problem looks like a nail. |
 |_Twaddle tendency_| Twaddling means talking about something you don’t know, or just making up stuff as you go, or talking about meaningless stuff. |
@@ -1955,6 +1973,242 @@ Occam’s razor is not an alternative for critical and logical thinking. It only
 | _Reciprocation_ | Act of doing something nice for someone with the expectation that the favor will be returned. |
 | _Reason respecting tendency_ | Ask questions to gain better understanding of the world. Failure to reason discourages first principles thinking. |
 | _Kantian fairness tendency_ | The pursuit of absolute fairness for everyone and everything, but fairness differs from person to person. |
+
+<details>
+    <summary><strong>Curiosity instinct</strong></summary>
+    <br>
+
+The inbuilt instinct which leads us to innovate and explore based on our curiosity. It has led us to acquire information and knowledge about the world around us. Curiosity provides us with an incentive to innovate, explore, and learn.
+
+<br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Incentive-caused bias and rewards</strong></summary>
+    <br>
+
+Get the incentives right. Finding the correct incentive can cause people to change the way they think and change their behavior. A commission may incentivize employees to close more sales at any cost, but the employee will not be concerned with the profitability of the sale in the long term.
+
+<br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Doubt-avoidance tendency</strong></summary>
+    <br>
+
+When faced with decisions riddled with doubt, we are hardwired to make quick decisions to remove the doubt, often leaving us with a wrong decision. Law courts force jurors to take time before reaching a decision to deal with this doubt.
+
+<br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Excessive self-regard tendency</strong></summary>
+    <br>
+
+The more we know, the more we understand what we do not know. We have a tendency to overestimate our ability when we have little experience or knowledge. This optimism does have benefits and means that we are willing to dive into new things.
+
+<br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Over-optimism & over-confidence</strong></summary>
+    <br>
+
+Most of us have a tendency to overestimate ourselves. We believe that we are more intelligent, honest, happier, etc., than the average person, but we cannot all be above average. Confidence is good, but overconfidence can create a bias in us.
+
+<br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Inconsistency-avoidance tendency</strong></summary>
+    <br>
+
+As people, we are reluctant to change or to become inconsistent. This means that bad habits are hard to change, but once we have learned good habits, it is easy to keep them.
+
+<br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Stress Influence</strong></summary>
+    <br>
+
+Stress can be both good and bad for us. Under stress, we can complete tasks and have an enhanced focus for a short period of time. Yet stress can also lead us to act without thinking. Constant stress can affect our health. Light stress, on the other hand, can improve our performance.
+
+<br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Drug mis-influence tendency</strong></summary>
+    <br>
+
+Drugs or alcohol can throw us into a spiraling negative-feedback loop which can become self-reinforcing and impossible to escape from. We can be influenced to make big mistakes, so we should stay away from the big mistake (the drugs), in the first place.
+
+<br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Use-it-or-lose-it tendency</strong></summary>
+    <br>
+
+The less we use something, such as a skill, the less useful and honed it will become. It is good practice for us to work on our lesser-used skills so that we have them available to us when we need them.
+
+<br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Authority mis-influence</strong></summary>
+    <br>
+
+As a society we have hierarchies, a few people lead and lots of people follow. This is a natural human tendency. We have a tendency to blindly follow those who are in power and not question their orders. We will often do something just because someone says so.
+
+<br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Availability mis-weighing</strong></summary>
+    <br>
+
+We have a tendency to give more weight to the information which is at hand and easily remembered. We positively misjudge events if they happened more recently or with more frequency. When events are vivid, we remember them more easily.
+
+<br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Commitment and consistency</strong></summary>
+    <br>
+
+As people, once we make a commitment we usually remain consistent with our decision. This can lead to people sticking with a decision even when facts change, or throwing more money at a problem which has sunk costs.
+
+<br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Pavlovian conditioning</strong></summary>
+    <br>
+
+Learning to associate a conditioned stimulus with an unconditioned stimulus. Pavlov’s experiments proved this. He would ring a bell (conditioned) every time he gave food (unconditioned, food causes salivation) to his dogs. Over time the dogs would salivate (unconditioned) when the bell was rung (conditioned).
+
+<br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Senescence mis-influence</strong></summary>
+    <br>
+
+As we get older, there is a natural drop in our skills and abilities. We can use continuous learning and mental stimulation to slow this decay, like doing a crossword every day or reading a book.
+
+<br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Self-deception and denial</strong></summary>
+    <br>
+
+We often fool ourselves into believing that falsehoods are true and truths are false. We do this when we do not have enough mental strength to admit the truth and face the consequences. We may tell ourselves that everything is fine when our world is crumbling around us.
+
+<br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Operant conditioning</strong></summary>
+    <br>
+
+A process by which humans and animals learn to behave in such a way as to obtain rewards and avoid punishments.
+
+A type of conditioning where behaviors are learned and encouraged through rewards for good behavior and punishment for bad behavior. If you work hard in your job you receive a paycheck and are motivated to continue this behavior. If you don’t work hard the paycheck could be taken away.
+
+It was popularized by B.F. Skinner and taught to every student.
+
+While classical conditioning is a form of learning that binds external stimuli to reflexive, involuntary responses, operant conditioning involves voluntary behaviors, and is maintained over time by the consequences that follow those behaviors. In one experiment, Skinner placed pigeons individually into experimental chambers (sometimes referred to as "Skinner boxes") that were designed to deliver food rewards at systematic intervals. He found that by rewarding a bird after it displayed a desired behavior, he could motivate the bird to increase the frequency of that particular behavior.
+
+Skinner identified three types of responses, or operant, that can follow behavior.
+
+- Neutral operants: responses from the environment that neither increase nor decrease the probability of a behavior being repeated.
+- Reinforcers: responses from the environment that increase the probability of a behavior being repeated. Reinforcers can be either positive or negative.
+- Punishers: responses from the environment that decrease the likelihood of a behavior being repeated. Punishment weakens behavior.
+
+The tools used in operant conditioning are known as positive and negative reinforcement and positive and negative punishment.
+
+<br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Envy and jealousy</strong></summary>
+    <br>
+
+Envy is when you want something that someone has. Jealousy is when you feel threatened.
+
+Envy is when you want something which someone has, a physical object or attribute. 
+
+Jealousy is when you feel threatened that someone is going to replace you in a relationship, perhaps as a partner or father figure.
+
+If you want your neighbor's new convertible, you feel envy. If she takes your husband for a ride, you feel jealousy.
+
+Charlie Munger on envy:
+
+“Someone will always be getting richer faster than you. This is not a tragedy.”
+
+This quote isn't complicated or difficult to understand. It is a simple reminder that envy and jealousy are bad traits for investors to have. While it may look as if other investors are doing much better than you, as long as you are following your own rules and guidelines, there is no need to rush and take on additional risk to try to match the market.
+
+“The world is not driven by greed. It’s driven by envy. I have conquered envy in my own life. I don’t envy anybody. I don’t give a damn what someone else has. But other people are driven crazy by it.”
+
+“Well, envy/jealousy made, what, two out of the ten commandments? Those of you who have raised siblings you know about envy, or tried to run a law firm or investment bank or even a faculty? I’ve heard Warren say a half a dozen times, 'It’s not greed that drives the world, but envy.'”
+
+“Here again, you go through the psychology survey courses, and you go to the index: envy/jealousy, 1,000-page book, it’s blank. There are some blind spots in academia, but it’s an enormously powerful thing, and it operates, to a considerable extent, o­n the subconscious level. Anybody who doesn’t understand it is taking on defects he shouldn’t have.”
+
+“Envy is a really stupid sin because it’s the only one you could never possibly have any fun at. There’s a lot of pain and no fun. Why would you want to get on that trolley?”
+
+“I am envious because I want to be as beautiful as you are; I want to have the fine clothes, the elegant house, the high position that you have. Being dissatisfied with what I am, I want to be like you; but, if I understood my dissatisfaction and its cause, then I would not want to be like you or long for the things that you have. In other words, if once I begin to understand what I am, then I shall never compare myself with another or be envious of anyone. Envy arises because I want to change myself and become like somebody else. But if I say, “Whatever I am, that I want to understand,” then envy is gone; then there is no need of discipline, and out of the understanding of what I am comes integration.” — Krishamurti
+
+While envy and jealously are powerful drivers of behavior on their own, they become more powerful when mixed with ego, greed, and fear.
+
+Enjoy your own life without comparing it with that of another.
+
+<br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Influence from mere association tendency</strong></summary>
+    <br>
+
+Bias from association (associate bias) is your tendency to be easily influenced by associations. 
+
+We can be easily manipulated by mere association. It can be a group of people, the quality of a product, advertising, etc.
+
+A conditioned reflex where a response is triggered by an association. You may have experiences where spending more has resulted in higher quality goods, so you seek out more expensive goods. You may buy a product with a cat on the packaging because you love cats.
+
+Charlie Munger:
+
+“...there is another type of conditioned reflex wherein mere association triggers a response. For instance, consider the case of many men who have been trained by their previous experience in life to believe that when several similar items are presented for purchase, the one with the highest price will have the highest quality. Knowing this, some seller of an ordinary industrial product will often change his product’s trade dress and raise its price significantly hoping that quality seeking buyers will be tricked into becoming purchasers by mere association of his product and its high price.”
+
+The correlation of quality with a higher price is abused by advertisers. Apple does this. Coca-Cola does too. As do all luxury brands. Sometimes you get what you pay for. Sometimes you pay extra for the label.
+
+Munger gives another example of someone who gambles for the first time on a low probability bet and sees it pay off. So he repeats the bet and loses, and continues to repeat it and lose because he never bothered to consider his win was pure luck. The association of winning with a low probability bet compounds stupid decisions.
+
+The solution is to weigh decisions independent of the result:
+
+“Carefully examine each past success, looking for accidental, non­causative factors associated with such success that will tend to mislead as one appraises odds implicit in a proposed new undertaking.”
+
+<br>
+</details>
+<br>
 
 <details>
     <summary><strong>Survivorship bias</strong></summary>
