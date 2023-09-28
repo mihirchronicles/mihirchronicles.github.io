@@ -2871,6 +2871,7 @@ When we are not treated fairly, we often become angry or frustrated. The pursuit
     <br>
 
 - Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger, Expanded Third Edition
+- [Charlie Munger: The Psychology of Human Misjudgement](https://vimeo.com/382219966)
 - [All models are wrong](https://en.wikipedia.org/wiki/All_models_are_wrong)
 - [Farnam Street Blog](https://fs.blog)
 </details>
