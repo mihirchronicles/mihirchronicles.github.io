@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 03 Oct 2023 21:18:20 GMT</lastBuildDate><item><title><![CDATA[Disciplined Meetings]]></title><description><![CDATA[In a remote world, what is the most effective medium to get together for people? If you guessed–meetings—that is correct! Meetings are a…]]></description><link>https://mihirchronicles.com/disciplined-meetings/</link><guid isPermaLink="false">https://mihirchronicles.com/disciplined-meetings/</guid><pubDate>Tue, 03 Oct 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In a remote world, what is the most effective medium to get together for people?&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 04 Oct 2023 17:20:33 GMT</lastBuildDate><item><title><![CDATA[Disciplined Meetings]]></title><description><![CDATA[In a remote world, what is the most effective medium to get together for people? If you guessed–meetings—that is correct! Meetings are a…]]></description><link>https://mihirchronicles.com/disciplined-meetings/</link><guid isPermaLink="false">https://mihirchronicles.com/disciplined-meetings/</guid><pubDate>Tue, 03 Oct 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In a remote world, what is the most effective medium to get together for people?&lt;/p&gt;
 &lt;p&gt;If you guessed–meetings—that is correct!&lt;/p&gt;
 &lt;p&gt;Meetings are a core part of managerial work. And if you are an owner of a slice of work (for me, it is products and features), then your life depends on it.&lt;/p&gt;
 &lt;p&gt;There are asynchronous tools available such as chat and email, but human nature needs context and interaction through meaningful discussions.&lt;/p&gt;
@@ -24,18 +24,147 @@
 &lt;p&gt;Andrew Grove teaches his readers through his experience as CEO of Intel how to manage and lead an organization. This book is all you need to run and manage a business. He was a legend of his time and Intel thrived because of a great business manager like Grove.&lt;/p&gt;
 &lt;h2&gt;II. Big Ideas&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;The Breakfast Factory:
+&lt;li&gt;As a general rule, you have to accept that no matter where you work, you are not an employee–you are in a business with one employee: yourself. You are in competition with millions of similar businesses. There are millions of others all over the world, picking up the pace, capable of doing the same work that you can do and perhaps more eager to do it.&lt;/li&gt;
+&lt;li&gt;The output of a manager is the output of the organizational units under his or her supervision or influence.&lt;/li&gt;
+&lt;li&gt;Great work is accomplished by a team of people working together.&lt;/li&gt;
+&lt;li&gt;Be plugged in. Try new ideas. Make sure what you are doing is actually valuable and worth paying for.&lt;/li&gt;
+&lt;li&gt;Managing Process
 &lt;ul&gt;
 &lt;li&gt;Everything is a process. Whether you’re compiling code, hiring staff, or making breakfast, everything can be modeled as a repeatable production process.&lt;/li&gt;
 &lt;li&gt;Understanding the elements of production—inputs, outputs, timing, limiting steps, quality controls, variability—lets us create and improve the “machinery” needed to fulfill our organizational goals.&lt;/li&gt;
 &lt;li&gt;We all aim to achieve the same thing—high quality results in less time with least waste.&lt;/li&gt;
-&lt;li&gt;The output of a manager is the output of the organizational units under his or her supervision or influence.&lt;/li&gt;
-&lt;li&gt;Great work is not accomplished by individuals, but rather by a team of people working together.&lt;/li&gt;
-&lt;li&gt;As a general rule, you have to accept that no matter where you work, you are not an employee–you are in a business with one employee: yourself. You are in competition with millions of similar businesses. There are millions of others all over the world, picking up the pace, capable of doing the same work that you can do and perhaps more eager to do it.&lt;/li&gt;
-&lt;li&gt;Be plugged in. Try new ideas. Make sure what you are doing is actually valuable and worth paying for.&lt;/li&gt;
+&lt;li&gt;Design around the limiting step.&lt;/li&gt;
 &lt;li&gt;Fix problems at the lowest-value step in the process.&lt;/li&gt;
 &lt;li&gt;How do we produce something in the most efficient way possible? By designing our processes to facilitate flow through the entire system.&lt;/li&gt;
-&lt;li&gt;Design around the limiting step.&lt;/li&gt;
+&lt;li&gt;Any measurement is better than none. But a good indicator is one that measures output, not simply the activity involved.&lt;/li&gt;
+&lt;li&gt;Focus on vital, measurable indicators of output. What you measure should be quantified. Avoid measures of activity, subjective measures and unquantifiable measures.&lt;/li&gt;
+&lt;li&gt;Increase productivity through simplification. Reduce the number of steps involved.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Managerial Leverage
+&lt;ul&gt;
+&lt;li&gt;Managerial leverage dramatically impacts organizational output.&lt;/li&gt;
+&lt;li&gt;Managers are responsible for increasing the output of their organizations and neighboring organizations they influence. Managers “leverage” their time by spending small amounts to have large impact through three activities:
+&lt;ul&gt;
+&lt;li&gt;Information gathering&lt;/li&gt;
+&lt;li&gt;Decision making&lt;/li&gt;
+&lt;li&gt;“Nudging” others&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Reports are a medium of self-discipline than a way to communicate information. Writing the report is important. Reading it often is not.&lt;/li&gt;
+&lt;li&gt;If you want good information, go and see what’s going on for yourself.&lt;/li&gt;
+&lt;li&gt;Values are communicated by what you do.&lt;/li&gt;
+&lt;li&gt;How you handle your own time is, in my view, the single most important aspect of being a role model and leader.&lt;/li&gt;
+&lt;li&gt;Delegation without follow-through is abdication.&lt;/li&gt;
+&lt;li&gt;You should move toward the active use of your calendar, taking the initiative to fill the holes between the time-critical events with non-time-critical though necessary activities. You should say ‘no’ at the outset to work beyond your capacity to handle.&lt;/li&gt;
+&lt;li&gt;A manager should carry a raw material inventory in terms of project. This inventory should consist of things you need to do but don’t need to finish right away.&lt;/li&gt;
+&lt;li&gt;Don’t reinvent the wheel. Do what has worked before.&lt;/li&gt;
+&lt;li&gt;Standardize procedures, but continue to think critically about what approaches we use.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Meetings
+&lt;ul&gt;
+&lt;li&gt;Meetings are a medium of work, both too few and too many meetings create waste.&lt;/li&gt;
+&lt;li&gt;A meeting is nothing less than the medium through which managerial work is performed.&lt;/li&gt;
+&lt;li&gt;We should not be fighting their very existence, but rather using the time spent in them as efficiently as possible.&lt;/li&gt;
+&lt;li&gt;Process-oriented meetings are held regularly to process substantive matters in batches, and come in three sub categories:
+&lt;ul&gt;
+&lt;li&gt;One-on-ones: should be held more frequently with less experienced team members. One-on-one meetings between one manager and one staff member, are used to exchange information, discuss “thorny” issues, uncover problems and review important but not urgent items.&lt;/li&gt;
+&lt;li&gt;Staff meetings: among a manager and team for structured free discussion, sharing of different points of view, and decision-making. Managers here balance being leader, observer, expediter, questioner and decision-maker — but avoid lecturing or weighing in too soon or too heavily to bias decisions that should be owned by the team.&lt;/li&gt;
+&lt;li&gt;Operational reviews: where one organization presents to others to share information and receive questions and feedback. Managers play a critical role in keeping these very expensive meetings on-track.&lt;/li&gt;
+&lt;li&gt;Mission-oriented: meetings created ad-hoc to reach a decision. These should be rare (less than 25% of your time). The meeting chair should be well-prepared and ensure the people vital to reaching a decision attend and are also prepared.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Always take notes, even though you may never look at them again. It keeps your mind focused. Active listening.&lt;/li&gt;
+&lt;li&gt;Regard attendance at the meeting for what it is, work.&lt;/li&gt;
+&lt;li&gt;Before calling a meeting, ask yourself, what am I trying to accomplish? Then ask, is a meeting necessary? Or desirable? Or justifiable? Don’t call a meeting if all the answers aren’t yes.&lt;/li&gt;
+&lt;li&gt;Decision-making is not a spectator sport, because onlookers get in the way of what needs to be done.&lt;/li&gt;
+&lt;li&gt;If the meeting was worth having, then it’s worth the effort to summarize what happened with meeting notes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Decisions
+&lt;ul&gt;
+&lt;li&gt;Decisions are the output of a process framed by six questions.
+&lt;ul&gt;
+&lt;li&gt;What decision needs to be made?&lt;/li&gt;
+&lt;li&gt;When does it have to be made?&lt;/li&gt;
+&lt;li&gt;Who will decide?&lt;/li&gt;
+&lt;li&gt;Who will need to be consulted prior to making the decision?&lt;/li&gt;
+&lt;li&gt;Who will ratify or veto the decision?&lt;/li&gt;
+&lt;li&gt;Who will need to be informed of the decision?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Work hard to frame the terms of the decision that needs to be made with utter clarity.&lt;/li&gt;
+&lt;li&gt;An organization does not live by its members agreeing with one another at all times about everything. It lives instead by people committing to support the decisions and the moves of the business.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Planning
+&lt;ul&gt;
+&lt;li&gt;Today’s gap represents a failure of planning sometime in the past.&lt;/li&gt;
+&lt;li&gt;Remember that by saying “yes” – to projects, a course of action, or whatever – you are implicitly saying “no” to something else (trade-offs).&lt;/li&gt;
+&lt;li&gt;Manage short-term objectives based on long-term plans.&lt;/li&gt;
+&lt;li&gt;Be thoughtful about long term plans:
+&lt;ul&gt;
+&lt;li&gt;Size your market&lt;/li&gt;
+&lt;li&gt;Know where you are&lt;/li&gt;
+&lt;li&gt;Find a hypothetical path to meet demand&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Move towards long term plans using short-term Objectives (sub-goals) and corresponding Key Results (clear, unambiguous milestones to pace progress). Cascade “OKRs” across organizations. For example, if a manager’s objective was to “keep a factory expansion plan on schedule” with one key result being “obtain plant expansion decision by October”, she might delegate that key result to a staff member as an objective, and so on.&lt;/li&gt;
+&lt;li&gt;OKRs provide clarity and alignment, but they can’t be run on auto-pilot. It takes judgment and common sense to guide day-to-day priorities based on OKR hierarchies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Functional Teams vs Mission-Oriented Teams
+&lt;ul&gt;
+&lt;li&gt;As organizations grow speed decreases while leverage increases. Businesses become more complex as they grow. Duplication and redundancy increase — multiple products may lead to multiple marketing teams, for example — and decisions are constantly being made on whether to centralize functions for consistency and greater leverage or to keep them decentralized for greater speed.&lt;/li&gt;
+&lt;li&gt;Functional teams increase leverage, mission-oriented teams increase speed.&lt;/li&gt;
+&lt;li&gt;Functional organizations (e.g. “Recruiting”, “Finance”, “Human Resources”) offer leverage by centralizing services to deliver benefits to an entire enterprise, rather than a subset. The trade-off is increased complexity and delay in managing requests from business units. In contrast, mission-oriented organizations (e.g. “Component Business Group”, “Systems Business Group”) are decentralized and pursue objectives largely independent of other parts of the enterprise, trading-off leverage for speed (closer proximity to customers and faster time to react).&lt;/li&gt;
+&lt;li&gt;Speed is the only benefit to mission-oriented organizations, in all other cases functional organizations are superior.&lt;/li&gt;
+&lt;li&gt;Dual reporting increases both leverage and speed. Invented at NASA as “matrix management” individuals in dual reporting structures have managers in both mission-oriented and functional teams. For example, a financial controller reports to both the Division Manager and the Director of Finance. While this solution creates complexity, the cost of complexity is outweighed by the benefits of operating in both functional and mission-oriented teams.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Sports Analogy
+&lt;ul&gt;
+&lt;li&gt;Motivate employees by “shaping the field” based on what drives them.&lt;/li&gt;
+&lt;li&gt;When someone isn’t doing their job, there can be only two reasons. Either they are incapable or unmotivated. To determine which, ask, “Could this person do it if their life depended on it?”&lt;/li&gt;
+&lt;li&gt;Motivation has to come from within somebody. Accordingly, all a manager can do is create an environment in which motivated people can flourish.&lt;/li&gt;
+&lt;li&gt;If we want to cultivate achievement-driven motivation, we need to create an environment that values and emphasizes output. To increase motivation, understand an individual’s highest level needs, whether it’s increasing competence or achievement, and preferred measure, whether compared to others or objective benchmarks. Then, like a coach motivating athletes, “shape the field” to create the motivation to grow team members to the limit of their abilities.&lt;/li&gt;
+&lt;li&gt;The best way to get that spirit into the workplace is to establish some rules of the game and ways for employees to measure themselves. Eliciting peak performance means going up against something or somebody.&lt;/li&gt;
+&lt;li&gt;Turning the workplace into a playing field can turn our subordinates into athletes dedicated to performing at the limits of their capabilities–the key to making our team consistent winners.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Group Interests vs Self-Interests
+&lt;ul&gt;
+&lt;li&gt;Manage teams by setting expectations and cultural values.&lt;/li&gt;
+&lt;li&gt;Complexity, Uncertainty and Ambiguity (“CUA”):
+&lt;ul&gt;
+&lt;li&gt;When CUA, is low, a team’s performance is influenced by expectations (via role definitions, setting objectives, checking-in and reviewing performance). When CUA is high, behavior is influenced by cultural values (as articulated and exemplified by the manager). Managers need to choose which mode to use depending on context.&lt;/li&gt;
+&lt;li&gt;This model assumes individuals share group interests, if individuals are too highly self-interested their behavior will be influenced very differently.&lt;/li&gt;
+&lt;li&gt;In low CUA situations they’ll behave based on incentives (“free market forces”, like commission rewards for selling certain products). In high CUA situations individuals with high self-interest and low group-interest will be unmanageable, like people panicking on a sinking ship.&lt;/li&gt;
+&lt;li&gt;People’s mix of self-interest and group-interest can shift over time. It’s a manager’s responsibility to align team members to group interests.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Task Relevant Maturity
+&lt;ul&gt;
+&lt;li&gt;When you’re managing a skilled sales person with high task-relevant maturity your involvement should be minimal, focused only on setting and monitoring high-level objectives.&lt;/li&gt;
+&lt;li&gt;Transfer that same person into a plant management role, where they’ll initially have low task-relevant maturity, and you’re more effective with a lower-level, task-oriented management style, focused on “what”, “when”, and “how” of operations.&lt;/li&gt;
+&lt;li&gt;Getting this right is difficult because it’s hard for managers to assess task-relevant maturity and it’s hard to override personal preferences in management style.&lt;/li&gt;
+&lt;li&gt;One managerial approach may not be equally effective in all conditions.&lt;/li&gt;
+&lt;li&gt;Supervisors are responsible for teaching their subordinates. Training is one of the highest-leverage activities a manager can perform. If a manager spends 12 hours preparing training for 10 team members that increases their output by 1% on average, the result is 200 hours of increased output from the 10 employees. Don’t leave training to outsiders, do it yourself.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Performance Reviews
+&lt;ul&gt;
+&lt;li&gt;Performance reviews are the single most important form of task-relevant feedback we as supervisors can provide. They are used to improve performance by identifying what skills we need to improve and/or to intensify motivation.&lt;/li&gt;
+&lt;li&gt;Developing an effective assessment and message for an employee requires both including what’s important and leaving out what is not important.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Employee Departure
+&lt;ul&gt;
+&lt;li&gt;When an employee quits, it’s the manager’s fault.&lt;/li&gt;
+&lt;li&gt;When someone is dedicated and loyal and feels their work is unappreciated it is the failure of the manager when they decide to leave. Most often employees bring up leaving at an inconvenient, highly busy time. Regardless, it should be high priority for a manager to make sure the employee feels heard and valued, to address their issues and retain them or transfer them to another team within the enterprise that meets their needs.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
