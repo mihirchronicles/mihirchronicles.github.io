@@ -7,17 +7,101 @@ path: "/bookshelf/high-output-management"
 Andrew Grove teaches his readers through his experience as CEO of Intel how to manage and lead an organization. This book is all you need to run and manage a business. He was a legend of his time and Intel thrived because of a great business manager like Grove.
 
 ## II. Big Ideas
-- The Breakfast Factory:
+- As a general rule, you have to accept that no matter where you work, you are not an employee–you are in a business with one employee: yourself. You are in competition with millions of similar businesses. There are millions of others all over the world, picking up the pace, capable of doing the same work that you can do and perhaps more eager to do it.
+- The output of a manager is the output of the organizational units under his or her supervision or influence.
+- Great work is accomplished by a team of people working together.
+- Be plugged in. Try new ideas. Make sure what you are doing is actually valuable and worth paying for.
+- Managing Process
     - Everything is a process. Whether you’re compiling code, hiring staff, or making breakfast, everything can be modeled as a repeatable production process.
     - Understanding the elements of production—inputs, outputs, timing, limiting steps, quality controls, variability—lets us create and improve the “machinery” needed to fulfill our organizational goals. 
     - We all aim to achieve the same thing—high quality results in less time with least waste.
-    - The output of a manager is the output of the organizational units under his or her supervision or influence.
-    - Great work is not accomplished by individuals, but rather by a team of people working together.
-    - As a general rule, you have to accept that no matter where you work, you are not an employee–you are in a business with one employee: yourself. You are in competition with millions of similar businesses. There are millions of others all over the world, picking up the pace, capable of doing the same work that you can do and perhaps more eager to do it.
-    - Be plugged in. Try new ideas. Make sure what you are doing is actually valuable and worth paying for.
+    - Design around the limiting step.
     - Fix problems at the lowest-value step in the process.
     - How do we produce something in the most efficient way possible? By designing our processes to facilitate flow through the entire system.
-    - Design around the limiting step.
+    - Any measurement is better than none. But a good indicator is one that measures output, not simply the activity involved.
+    - Focus on vital, measurable indicators of output. What you measure should be quantified. Avoid measures of activity, subjective measures and unquantifiable measures.
+    - Increase productivity through simplification. Reduce the number of steps involved.
+- Managerial Leverage
+    - Managerial leverage dramatically impacts organizational output.
+    - Managers are responsible for increasing the output of their organizations and neighboring organizations they influence. Managers “leverage” their time by spending small amounts to have large impact through three activities:
+        - Information gathering
+        - Decision making
+        - “Nudging” others
+    - Reports are a medium of self-discipline than a way to communicate information. Writing the report is important. Reading it often is not.
+    - If you want good information, go and see what’s going on for yourself.
+    - Values are communicated by what you do.
+    - How you handle your own time is, in my view, the single most important aspect of being a role model and leader.
+    - Delegation without follow-through is abdication.
+    - You should move toward the active use of your calendar, taking the initiative to fill the holes between the time-critical events with non-time-critical though necessary activities. You should say ‘no’ at the outset to work beyond your capacity to handle.
+    - A manager should carry a raw material inventory in terms of project. This inventory should consist of things you need to do but don’t need to finish right away.
+    - Don’t reinvent the wheel. Do what has worked before.
+    - Standardize procedures, but continue to think critically about what approaches we use.
+- Meetings
+    - Meetings are a medium of work, both too few and too many meetings create waste.
+    - A meeting is nothing less than the medium through which managerial work is performed. 
+    - We should not be fighting their very existence, but rather using the time spent in them as efficiently as possible.
+    - Process-oriented meetings are held regularly to process substantive matters in batches, and come in three sub categories:
+        - One-on-ones: should be held more frequently with less experienced team members. One-on-one meetings between one manager and one staff member, are used to exchange information, discuss “thorny” issues, uncover problems and review important but not urgent items.
+        - Staff meetings: among a manager and team for structured free discussion, sharing of different points of view, and decision-making. Managers here balance being leader, observer, expediter, questioner and decision-maker — but avoid lecturing or weighing in too soon or too heavily to bias decisions that should be owned by the team.
+        - Operational reviews: where one organization presents to others to share information and receive questions and feedback. Managers play a critical role in keeping these very expensive meetings on-track.
+        - Mission-oriented: meetings created ad-hoc to reach a decision. These should be rare (less than 25% of your time). The meeting chair should be well-prepared and ensure the people vital to reaching a decision attend and are also prepared. 
+    - Always take notes, even though you may never look at them again. It keeps your mind focused. Active listening.
+    - Regard attendance at the meeting for what it is, work.
+    - Before calling a meeting, ask yourself, what am I trying to accomplish? Then ask, is a meeting necessary? Or desirable? Or justifiable? Don’t call a meeting if all the answers aren’t yes.
+    - Decision-making is not a spectator sport, because onlookers get in the way of what needs to be done.
+    - If the meeting was worth having, then it’s worth the effort to summarize what happened with meeting notes.
+- Decisions
+    - Decisions are the output of a process framed by six questions. 
+        - What decision needs to be made?
+        - When does it have to be made?
+        - Who will decide?
+        - Who will need to be consulted prior to making the decision?
+        - Who will ratify or veto the decision?
+        - Who will need to be informed of the decision?
+    - Work hard to frame the terms of the decision that needs to be made with utter clarity.
+    - An organization does not live by its members agreeing with one another at all times about everything. It lives instead by people committing to support the decisions and the moves of the business.
+- Planning
+    - Today’s gap represents a failure of planning sometime in the past.
+    - Remember that by saying “yes” – to projects, a course of action, or whatever – you are implicitly saying “no” to something else (trade-offs).
+    - Manage short-term objectives based on long-term plans.
+    - Be thoughtful about long term plans:
+        - Size your market
+        - Know where you are
+        - Find a hypothetical path to meet demand
+    - Move towards long term plans using short-term Objectives (sub-goals) and corresponding Key Results (clear, unambiguous milestones to pace progress). Cascade “OKRs” across organizations. For example, if a manager’s objective was to “keep a factory expansion plan on schedule” with one key result being “obtain plant expansion decision by October”, she might delegate that key result to a staff member as an objective, and so on. 
+    - OKRs provide clarity and alignment, but they can’t be run on auto-pilot. It takes judgment and common sense to guide day-to-day priorities based on OKR hierarchies.
+- Functional Teams vs Mission-Oriented Teams
+    - As organizations grow speed decreases while leverage increases. Businesses become more complex as they grow. Duplication and redundancy increase — multiple products may lead to multiple marketing teams, for example — and decisions are constantly being made on whether to centralize functions for consistency and greater leverage or to keep them decentralized for greater speed.
+    - Functional teams increase leverage, mission-oriented teams increase speed. 
+    - Functional organizations (e.g. “Recruiting”, “Finance”, “Human Resources”) offer leverage by centralizing services to deliver benefits to an entire enterprise, rather than a subset. The trade-off is increased complexity and delay in managing requests from business units. In contrast, mission-oriented organizations (e.g. “Component Business Group”, “Systems Business Group”) are decentralized and pursue objectives largely independent of other parts of the enterprise, trading-off leverage for speed (closer proximity to customers and faster time to react).
+    - Speed is the only benefit to mission-oriented organizations, in all other cases functional organizations are superior.
+    - Dual reporting increases both leverage and speed. Invented at NASA as “matrix management” individuals in dual reporting structures have managers in both mission-oriented and functional teams. For example, a financial controller reports to both the Division Manager and the Director of Finance. While this solution creates complexity, the cost of complexity is outweighed by the benefits of operating in both functional and mission-oriented teams.
+- Sports Analogy
+    - Motivate employees by “shaping the field” based on what drives them. 
+    - When someone isn’t doing their job, there can be only two reasons. Either they are incapable or unmotivated. To determine which, ask, “Could this person do it if their life depended on it?”
+    - Motivation has to come from within somebody. Accordingly, all a manager can do is create an environment in which motivated people can flourish.
+    - If we want to cultivate achievement-driven motivation, we need to create an environment that values and emphasizes output. To increase motivation, understand an individual’s highest level needs, whether it’s increasing competence or achievement, and preferred measure, whether compared to others or objective benchmarks. Then, like a coach motivating athletes, “shape the field” to create the motivation to grow team members to the limit of their abilities.
+    - The best way to get that spirit into the workplace is to establish some rules of the game and ways for employees to measure themselves. Eliciting peak performance means going up against something or somebody.
+    - Turning the workplace into a playing field can turn our subordinates into athletes dedicated to performing at the limits of their capabilities–the key to making our team consistent winners.
+- Group Interests vs Self-Interests
+    - Manage teams by setting expectations and cultural values. 
+    - Complexity, Uncertainty and Ambiguity (“CUA”):
+        - When CUA, is low, a team’s performance is influenced by expectations (via role definitions, setting objectives, checking-in and reviewing performance). When CUA is high, behavior is influenced by cultural values (as articulated and exemplified by the manager). Managers need to choose which mode to use depending on context.
+        - This model assumes individuals share group interests, if individuals are too highly self-interested their behavior will be influenced very differently. 
+        - In low CUA situations they’ll behave based on incentives (“free market forces”, like commission rewards for selling certain products). In high CUA situations individuals with high self-interest and low group-interest will be unmanageable, like people panicking on a sinking ship. 
+        - People’s mix of self-interest and group-interest can shift over time. It’s a manager’s responsibility to align team members to group interests.
+- Task Relevant Maturity
+    - When you’re managing a skilled sales person with high task-relevant maturity your involvement should be minimal, focused only on setting and monitoring high-level objectives.
+    - Transfer that same person into a plant management role, where they’ll initially have low task-relevant maturity, and you’re more effective with a lower-level, task-oriented management style, focused on “what”, “when”, and “how” of operations.
+    - Getting this right is difficult because it’s hard for managers to assess task-relevant maturity and it’s hard to override personal preferences in management style.
+    - One managerial approach may not be equally effective in all conditions.
+    - Supervisors are responsible for teaching their subordinates. Training is one of the highest-leverage activities a manager can perform. If a manager spends 12 hours preparing training for 10 team members that increases their output by 1% on average, the result is 200 hours of increased output from the 10 employees. Don’t leave training to outsiders, do it yourself.
+- Performance Reviews
+    - Performance reviews are the single most important form of task-relevant feedback we as supervisors can provide. They are used to improve performance by identifying what skills we need to improve and/or to intensify motivation.
+    - Developing an effective assessment and message for an employee requires both including what’s important and leaving out what is not important.
+- Employee Departure
+    - When an employee quits, it’s the manager’s fault.
+    - When someone is dedicated and loyal and feels their work is unappreciated it is the failure of the manager when they decide to leave. Most often employees bring up leaving at an inconvenient, highly busy time. Regardless, it should be high priority for a manager to make sure the employee feels heard and valued, to address their issues and retain them or transfer them to another team within the enterprise that meets their needs.
 
 ## III. Quotes
 - You have to accept that no matter where you work, you are not an employee—you are in a business with one employee: yourself. You are in competition with millions of similar businesses. There are millions of others all over the world, picking up the pace, capable of doing the same work that you can do and perhaps more eager to do it. Now, you may be tempted to look around your workplace and point to your fellow workers as rivals, but they are not. They are outnumbered—a thousand to one, one hundred thousand to one, a million to one—by people who work for organizations that compete with your firm. So if you want to work and continue to work, you must continually dedicate yourself to retaining your individual competitive advantage.
