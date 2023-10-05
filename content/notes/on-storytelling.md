@@ -174,8 +174,8 @@ I'll end this deep dive with this quote:
     <br>
 
 - Books
-    - [Sapiens by Yuval Noah Harari](https://themihirchronicles.com/bookshelf/sapiens)
-    - [The Storytelling Animal by Jonathan Gottschall](https://themihirchronicles.com/bookshelf/the-storytelling-animal)
+    - [Sapiens by Yuval Noah Harari](/sapiens)
+    - [The Storytelling Animal by Jonathan Gottschall](/the-storytelling-animal)
     - [The Science of Storytelling](https://www.goodreads.com/book/show/43183121-the-science-of-storytelling)
 - Pixar
     - [Khan Academy Pixar](https://www.khanacademy.org/computing/pixar/storytelling)

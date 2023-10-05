@@ -721,16 +721,16 @@ To summarize some of my takeaways on what a great designer does:
     <br>
 
 **Books**
-- [Paul Rand | A Designer's Art by Paul Rand](/bookshelf/paul-rand-a-designers-art)
-- [Creative Confidence by Tom Kelley and David Kelley](/bookshelf/creative-confidence)
-- [Design As Art by Bruno Munari](/bookshelf/design-as-art)
-- [The Visual Display Of Quantitative Information by Edward R. Tufte](/bookshelf/visual-display-of-quantitative-information)
-- [Visual Grammar by Christian Leborg](/bookshelf/visual-grammar)
-- [Interaction Of Color by Josef Albers](/bookshelf/interaction-of-color)
-- [Design Of Everyday Things by Donald A. Norman](/bookshelf/design-of-everyday-things)
-- [Geometry Of Design | Studies In Proportion And Composition by Kimberly Elam](/bookshelf/geometry-of-design)
-- [Elements Of Design | Rowena Reed Kostellow And The Structure Of Visual Relationships by Gail Greet Hannah](/bookshelf/elements-of-design)
-- [Dieter Rams | The Complete Works by Klaus Klemp](/bookshelf/dieter-rams-complete-works)
+- [Paul Rand | A Designer's Art by Paul Rand](/paul-rand-a-designers-art)
+- [Creative Confidence by Tom Kelley and David Kelley](/creative-confidence)
+- [Design As Art by Bruno Munari](/design-as-art)
+- [The Visual Display Of Quantitative Information by Edward R. Tufte](/visual-display-of-quantitative-information)
+- [Visual Grammar by Christian Leborg](/visual-grammar)
+- [Interaction Of Color by Josef Albers](/interaction-of-color)
+- [Design Of Everyday Things by Donald A. Norman](/design-of-everyday-things)
+- [Geometry Of Design | Studies In Proportion And Composition by Kimberly Elam](/geometry-of-design)
+- [Elements Of Design | Rowena Reed Kostellow And The Structure Of Visual Relationships by Gail Greet Hannah](/elements-of-design)
+- [Dieter Rams | The Complete Works by Klaus Klemp](/dieter-rams-complete-works)
 - [The Laws Of Simplicity](http://lawsofsimplicity.com)
 
 **Links**

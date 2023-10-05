@@ -475,7 +475,7 @@ How can you ensure your users are making progress? If you are not using data on 
     <summary><strong>References</strong></summary>
     <br>
 
-- [Build by Tony Fadell](/bookshelf/build)
+- [Build by Tony Fadell](/build)
 - [Lenny's Newsletter](https://www.lennyrachitsky.com/)
 - [The nature of product | Marty Cagan, Silicon Valley Product Group](https://www.lennyspodcast.com/the-nature-of-product-marty-cagan-silicon-valley-product-group/#transcript)
 - [Product Core Competencies by Marty Cagan](https://www.svpg.com/product-core-competencies/)
