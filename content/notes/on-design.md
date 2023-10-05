@@ -749,7 +749,7 @@ To summarize some of my takeaways on what a great designer does:
 - [E. Goodman, E. Stolterman, R. Wakkary. Understanding Interaction Design Practices (2011)](https://summit.sfu.ca/_flysystem/fedora/sfu_migrate/15215/2011_CHI_Understanding_Goodman_vy-edited.pdf)
 - [Designing Fluid Interfaces by Apple](https://developer.apple.com/videos/play/wwdc2018/803/)
 - [Human Interface Guidelines by Apple](https://developer.apple.com/design/human-interface-guidelines/)
--[Human Interface Guidelines:The Apple® Desktop Interface (1987)](https://andymatuschak.org/files/papers/Apple%20Human%20Interface%20Guidelines%201987.pdf)
--[The curious case of user interfaces - Rasmus Andersson (Config 2023)](https://www.youtube.com/watch?v=76b3c_ssyPQ)
+- [Human Interface Guidelines:The Apple® Desktop Interface (1987)](https://andymatuschak.org/files/papers/Apple%20Human%20Interface%20Guidelines%201987.pdf)
+- [The curious case of user interfaces - Rasmus Andersson (Config 2023)](https://www.youtube.com/watch?v=76b3c_ssyPQ)
 </details>
 <br />
