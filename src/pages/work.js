@@ -11,19 +11,24 @@ const WorkIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <h1>Work</h1>
-      <p>There is a pure joy in building products. Building a product is like planting a seed which allows for experimenting with new ideas. Pursuing product development either bring chaos in order or helps me escape chaos. It brings hope and sense of aliveness. The journey of building products has given me insights on various topics which has been fruitful in my professional life. Below are the projects I have woked on.</p>
+      <p>There is a pure joy in building products. Building a product is like planting a seed which allows for experimenting with new ideas. Pursuing product development either bring chaos in order or helps me escape chaos. It brings hope and sense of aliveness. The journey of building products has given me insights on various topics which has been fruitful in my professional life. Below are the products I have woked on.</p>
 
-    <h2>Charles Schwab</h2>
-    <p><strong>[2021 - Current]</strong></p>
-    <p><strong>Story</strong>: Working on Schwab Intelligent Portfolio—a robo advisor platform for automated investing. Helping re-platform capabilities and re-modernize user experiences around risk profiling and portfolio recommendation. </p>
-    <p><strong>Website</strong>: <a href="https://intelligent.schwab.com">Schwab Intelligent Portfolios</a></p>
+      <h2>Schwab Charitable</h2>
+      <p><strong>[2023 - Current]</strong></p>
+      <p><strong>Story</strong>: Working on automating and enhancing granting experience.</p>
+      <p><strong>Website</strong>: <a href="https://www.schwabcharitable.org">Schwab Charitable</a></p>
+
+      <h2>Schwab Intelligent Portfolios</h2>
+      <p><strong>[2021 - 2023]</strong></p>
+      <p><strong>Story</strong>: Worked on Schwab Intelligent Portfolio—a robo advisor platform for automated investing—to re-modernize user experience and re-platform capabilities around risk profiling and portfolio recommendation.</p>
+      <p><strong>Website</strong>: <a href="https://intelligent.schwab.com">Schwab Intelligent Portfolios</a></p>
 
       <h2>Big Imposter</h2>
       <div>
         <StaticImage src="../images/big_imposter.png" alt="big_imposter" className="gallery-image" />
       </div>
       <p><strong>[2023 - Current]</strong></p>
-      <p><strong>Story</strong>: A side project on imposter syndrome. This project is helping me explore creativity and learn graphic design skills while exploring ways to beat my own big imposter. Don't let the imposter syndrome bankrupt you from doing. If in doubt, take the first step because doubt kills more dreams than failures. The final content of this project will be shared in a graphic book form.</p>
+      <p><strong>Story</strong>: A side project on imposter syndrome. This project is helping me explore creativity and learn graphic design skills while exploring ways to beat my own big imposter. Don't let the imposter syndrome bankrupt you from doing. If in doubt, take the first step because doubt kills more dreams than failures. The final content of this project will be shared in art gallery form.</p>
 
       <h2>Wise Charlie</h2>
       <div>
