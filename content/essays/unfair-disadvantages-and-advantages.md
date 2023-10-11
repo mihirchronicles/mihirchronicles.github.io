@@ -16,7 +16,7 @@ This can be unsettling in a society that aims for radical equality, but this def
  
 Everyone’s got an unfair disadvantage. But there is a way to cope through this—counting on your unfair advantage (talent).
 
-First, you should know what those are. If you don't, it requires concentrated discovery.
+First, you should know what those are. If you don't, spend time on concentrated discovery.
 
 See why people come to you. My wife is good at listening. People find comfort in her.
 
