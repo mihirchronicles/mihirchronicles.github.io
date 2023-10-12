@@ -16,7 +16,7 @@ This can be unsettling to a society that aims for radical equality, but this def
  
 Everyone’s got an unfair disadvantage, and you should accept that fact of life. But this can benefit you if you shift your perspective.
 
-Making your unfair advantage (natural talent) count. We all have something special in us, so we should use that to our advantage.
+Making your unfair advantage (natural talent) count. We all have something special in us, so we should use that to our advantage. It all comes down to what we choose and how we choose to respond. Viktor E. Frankl, a Holocaust survivor once said, “Between stimulus and response there is space. In that space is our power to choose our response. In our response lies our growth and our freedom.”
 
 You should know what your natural talents are. If you don't, spend time on exploring and discovering them. If you explore far and deep enough, you will stumble upon something that you truly enjoy. There are many ways to get started.
 
@@ -27,8 +27,6 @@ See what you are naturally drawn to. I recently discovered the joy and talent fo
 See what comes easy to you which is harder for others. Aiming for effortlessness is far greater than aiming for friction. Success can come from both. I can read for hours without feeling like it is hard work.
 
 Life gets a lot easier when you surrender to your natural gifts and talents. This allows you to live the life that you want to live in.
-
-You should select our choices that fall within our circle of competence. Viktor E. Frankl, a Holocaust survivor wrote in his book, Man's Search for Meaning, “Between stimulus and response there is space. In that space is our power to choose our response. In our response lies our growth and our freedom.”
 
 Embracing your unfair advantage is where the magic lies for your success.
 
