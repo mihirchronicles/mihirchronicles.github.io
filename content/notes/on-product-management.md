@@ -309,6 +309,27 @@ How can you ensure your users are making progress? If you are not using data on 
     - Explore industry blogs and competitor space.
     - Understand the core growth loops so you can aim for the right feautures.
 
+- **Project Thinking vs Product Thinking**:
+    - Product Thinking:
+        - Most important question: Why
+        - Optimize for: Outcomes
+        - Improves: Effectiveness
+        - Most important capability: Insight
+        - Biggest Differentiator: Creativity
+        - Biggest Secret: Simulation
+        - Effect on outcome: Exponential 
+        - Most important core value: Empowerment
+        - When done in excess: Great plans gathering dust
+    - Project Thinking:
+        - Most important question: When
+        - Optimize for: Outputs
+        - Improves: Efficiency
+        - Most important capability: Execution
+        - Biggest Differentiator: Discipline
+        - Biggest Secret: Influence
+        - Effect on outcome: Multiplicative 
+        - Most important core value: Action
+        - When done in excess: Heroic effort lacking results
 - **User Stories vs Job Stories**: User stories capture broad needs of user personas. Job stories zone in on specific situations where a product is 'hired' for a task. The difference is between general vs specific. Below are a few examples of specific features:
     - Push notifications
         - User story: As a user, I want to receive real-time notifications about updates or important events in the app, so that I can stay informed without having to open the app constantly.
@@ -331,6 +352,17 @@ How can you ensure your users are making progress? If you are not using data on 
     - Capabilities: How functionalities can be grouped. This layer can interact with several data stores.
     - Experiences: How it gets integrated with capabilities to drive different platforms such as native applications vs web applications. It can interact with more than one capability to drive client experience. Having this layer helps reduce rebuilding of redundant functionalities and logic for various operating systems.
 
+- **Domain Model**: The basic idea is that the Domain is the problem domain, and the model is well the model of the problem. It is a system of abstraction. So for example imagine an e-commerce store. For that store you want to build a brand new Point Of Sale system (POS system). A POS system is a computerized application used to record sale and handle payments. So you focus on the domain of the POS system. Now you will conceptualize the objects that will be used for this system. So you will get objects like—Payment Vendor, Customer, Sale, Payment, Register, Item etc. In a domain model you model these objects and draw associations between them so that you have an high level idea how this system will work and how they will interact with each other.
+    - The domain model is your organized and structured knowledge of the problem. 
+    - It is a visual representation of real situation objects in a domain. The term domain model does not mean a set of diagrams describing software classes.
+    - Domain model can be represented by a diagram, code example or written documentation of the problem. 
+    - The important thing is that the domain model should be accessible and understandable by everyone who is involved with the project. One of the downfalls of many software development projects is the misunderstanding of terms, objectives and proposed solutions that are scoped at the beginning of development. 
+    - In software, a domain model is a conceptual model of the domain that incorporates both behavior and data.
+    - This is critical for PMs to pay attention to because they are responsible for driving requirements. And requirements cannot be defined without understanding the core behavior and data of a domain. There are plenty of what ifs and buts for PM to help answer.
+    - A domain model is generally implemented as an object model within a layer that uses a lower-level layer for persistence and publishes an API to a higher-level layer to gain access to the data and behavior of the model. An object model consists of the following important features—object reference, interface (API or UI), actions and exception handling to account for various errors and warnings. 
+    - The domain model is a representation of real-world concepts including the data involved in the business and rules the business uses in relation to that data.
+    - Great example of this put into practice is at [HEY by 37 Signals on their screening system](https://dev.37signals.com/domain-driven-boldness/). _Internally, the system looks like this: users examine clearance petitions requested by contacts who send emails._
+
 - **Go-to-Market (GTM)**: It is an organizational plan to deliver unique value proposition to customers and achieve competitive advantage. Below are the components of GTM. Start with debugging upstream or downstream of product cycle to optimize for GTM:
     - What exactly are you building? It starts with vision. But if the vision is wrong everyone is going home. It starts with product management.
     - How do you position it? How do you tell the story in a short-time frame without using product jargon? Great product use less words to spread the message. It starts with product marketing.
@@ -340,19 +372,14 @@ How can you ensure your users are making progress? If you are not using data on 
 -  **Product Market Fit (PMF)**: It is another way to say you are in search for demand curve or another way to say you have produced value. Product market fit allows a company to sell product at scale. When people want to pull it out of your hands that is a product market fit. Company building should happen when you have a product market fit.
     - Use cohort analysis to measure product market fit. Look at a group of people that tried your product in a period of time (week, month, quarter). Then look at how many of those people continue to use your product for a while. You will have a fairly deep drop-off on the first month. Does it flatten somewhere? If so, that means that there are customers who are finding value in your product, which means you have PMF with these customers.
     - Create a retention curve by plotting the percent of active users over time (for each cohort of users). If it flattens off at some point, you have probably found product/market fit for some market or audience.
-- **Porter's Five Forces**: It is not a boring business exercise. It helped the founders of Warby Parker create a company worth over $1B. Their analysis showed that the eyewear industry is dominated by a single player, Luxottica, which kept prices of prescription glasses artificially high. A pair was priced at around $300 even though it cost only $10-$20 to produce. The best framework for industry analysis is Porter’s Five Forces. It evaluates five competitive forces, which influence industry attractiveness. The basic idea is that your product or company is not competing just with direct competitors but with everyone in the ecosystem, including customers, suppliers, substitutes, and new entrants. For example, you might have very few competitors but you still can’t make any profit because your suppliers have more negotiating power and so they capture most of the profits. Overview of Porter’s Five Forces: 
-    - Threat of new entrants: How hard is it to enter an industry? 
-    - Bargaining power of buyers: How easily can buyers drive our prices down? How well can they negotiate? 
-    - Threat of substitutes: How else can customers satisfy the same need? 
-    - Bargaining power of suppliers: how easily can suppliers drive their prices up? How well can they negotiate? 
-    - Rivalry amongst existing competitors: How many competitors are in an industry? How strong are they? 
-- **Competitor Analysis**: Understanding competitors’ strategy, business model, and future plans help us design better products and experiences. We can anticipate how competitors will react to our innovations, and how we can differentiate better (create unique value for our users).
-    - The first step of competitor analysis is identifying competitors.
-    - Divide the competition into direct and indirect competitors. Direct competitors are companies that offer the same product (or service) and indirect competitors offer a different product that solves the same problem. For example, Uber’s direct competitors are taxi companies and Lyft. The indirect competitors are bike sharing services, public transport, car sharing services, and walking on foot. 
-    - Gather data for insights. Divide data gathering into three buckets:
-        - Business data: revenue, market share, etc.
-        - Product data: product portfolio, features, etc.
-        - Customers data: target group, reviews, etc.
+
+- **Product Marketing**: The product manager (PM) defines the product vision and strategy. However, you cannot create a strategy without market and industry analysis, which is theoretically the product marketing manager's (PMM) main job. The main areas of responsibility for a product marketer are:
+    - Discovery: target customers, customers’ jobs/needs (methods like interviews or surveys)
+    - Analyzing the market and the industry: Sizing market opportunities by considering Total Addressable Market (TAM), Serviceable Available Market (SAM), and Serviceable Obtainable Market (TOM). Analyzing market characteristics, like the average Annual Growth Rate, Average Revenue Per User (ARPU), average Customer Acquisition Cost (CAC), and average Churn Rate. Analyzing the industry (e.g., Porter’s Five Forces). Performing competitive analysis.
+    - Shaping how others think about the product: formulating the positioning strategy, which defines target customers, the product’s place in the market, its core benefits, and supporting evidence. Adjusting product messaging. In short, it’s about explaining why the product is awesome (copywriting, storytelling) based on positioning strategy.
+    - Enable others to tell the same story: training and guiding sales, resellers and other partners
+    - Creating the Go-to-market (GTM) strategy. It should include business goal, target customers, value proposition, positioning strategy and business model, including pricing.
+
 - **Strategy**: Business strategy explains how a company tries to beat the competition. The ultimate goal of a strategy is to help us gain a competitive advantage, which leads to better financial results. For example, companies that try to beat competitors by offering lower prices are pursuing a cost leadership strategy (Aldi, Walmart, IKEA, Southwest Airlines, McDonald's, etc.). On the other side of the spectrum are companies that want to win by being unique. These companies can charge higher prices because they are perceived differently (Apple, Whole Foods Market, BMW, Qatar Airways, Four Seasons Hotels, etc.).
     - A strategy isn’t: a goal (goals only talk about why; a strategy also explains how), using best practices such as Design Thinking or Six Sigma (can be implemented by any competitor so they are not trade-off decisions) and merely a plan (strategy needs to lead to a competitive advantage).
     - A strategy is: choosing what to do and what not to do, a series of trade-off decisions, a quest for competitive advantage, about being different (not merely better), focusing a company’s resources on the most critical issues.
@@ -360,12 +387,22 @@ How can you ensure your users are making progress? If you are not using data on 
         - Define 5-12 competing factors.
         - Plot a dominant industry line.
         - Create your blue ocean offer by asking what competing factors can we eliminate, decrease, raise, and introduce.
-- **Product Marketing**: The product manager (PM) defines the product vision and strategy. However, you cannot create a strategy without market and industry analysis, which is theoretically the product marketing manager's (PMM) main job. The main areas of responsibility for a product marketer are:
-    - Discovery: target customers, customers’ jobs/needs (methods like interviews or surveys)
-    - Analyzing the market and the industry: Sizing market opportunities by considering Total Addressable Market (TAM), Serviceable Available Market (SAM), and Serviceable Obtainable Market (TOM). Analyzing market characteristics, like the average Annual Growth Rate, Average Revenue Per User (ARPU), average Customer Acquisition Cost (CAC), and average Churn Rate. Analyzing the industry (e.g., Porter’s Five Forces). Performing competitive analysis.
-    - Shaping how others think about the product: formulating the positioning strategy, which defines target customers, the product’s place in the market, its core benefits, and supporting evidence. Adjusting product messaging. In short, it’s about explaining why the product is awesome (copywriting, storytelling) based on positioning strategy.
-    - Enable others to tell the same story: training and guiding sales, resellers and other partners
-    - Creating the Go-to-market (GTM) strategy. It should include business goal, target customers, value proposition, positioning strategy and business model, including pricing.
+
+- **Porter's Five Forces**: It is not a boring business exercise. It helped the founders of Warby Parker create a company worth over $1B. Their analysis showed that the eyewear industry is dominated by a single player, Luxottica, which kept prices of prescription glasses artificially high. A pair was priced at around $300 even though it cost only $10-$20 to produce. The best framework for industry analysis is Porter’s Five Forces. It evaluates five competitive forces, which influence industry attractiveness. The basic idea is that your product or company is not competing just with direct competitors but with everyone in the ecosystem, including customers, suppliers, substitutes, and new entrants. For example, you might have very few competitors but you still can’t make any profit because your suppliers have more negotiating power and so they capture most of the profits. Overview of Porter’s Five Forces: 
+    - Threat of new entrants: How hard is it to enter an industry? 
+    - Bargaining power of buyers: How easily can buyers drive our prices down? How well can they negotiate? 
+    - Threat of substitutes: How else can customers satisfy the same need? 
+    - Bargaining power of suppliers: how easily can suppliers drive their prices up? How well can they negotiate? 
+    - Rivalry amongst existing competitors: How many competitors are in an industry? How strong are they?
+
+- **Competitor Analysis**: Understanding competitors’ strategy, business model, and future plans help us design better products and experiences. We can anticipate how competitors will react to our innovations, and how we can differentiate better (create unique value for our users).
+    - The first step of competitor analysis is identifying competitors.
+    - Divide the competition into direct and indirect competitors. Direct competitors are companies that offer the same product (or service) and indirect competitors offer a different product that solves the same problem. For example, Uber’s direct competitors are taxi companies and Lyft. The indirect competitors are bike sharing services, public transport, car sharing services, and walking on foot. 
+    - Gather data for insights. Divide data gathering into three buckets:
+        - Business data: revenue, market share, etc.
+        - Product data: product portfolio, features, etc.
+        - Customers data: target group, reviews, etc.
+
 - **Jobs-To-Be-Done (JTBD)**: A theory of innovation that is based on the economic principle that people buy products and services to get “jobs” done, i.e., to help them accomplish tasks, achieve goals and objectives, resolve and avoid problems, and to make progress in their lives. In order to succeed in implementing this framework, work to gain a deep understanding of those jobs, and then create offerings that will help customers get their jobs done significantly better and/or more cheaply.
     - The whole premise of JTBD is that people hire products, they don't buy them, they hire them to make progress in their life.
     - The primary cause of failed products and services is a misalignment with customer needs. Using the JTBD framework product teams can deeply understand the jobs its customers are trying to get done and the metrics they use to measure success. It can help determine which needs are unmet or discover segments of customers with unique sets of unmet needs.
@@ -386,6 +423,8 @@ How can you ensure your users are making progress? If you are not using data on 
     - “People don’t want to buy a quarter-inch drill. They want a quarter-inch hole!” — Theodore Levitt 
     - “People buy products and services to get a job done”. — Clayton Christensen
     - “One of the biggest misconceptions around Jobs to Be Done is this notion that it's pain and gain as opposed to context and outcome.” — Bob Moesta, Co-creator of the Jobs To Be Done (JTBD)
+
+
 - **Now-Next-Later**: This is one of the best frameworks for roadmapping and planning. It accounts for simplicity (KISS-keep it simple), flexibility and easier to follow. Roadmaps often face disruption for some unforeseen reason. The Now-Next-Later roadmap is a product management tool that organizes work into three-time horizons, from immediate to long term, starting with the most urgent problems to solve. This roadmap format conveys the overall product vision, as each element of work is tied back to a business objective.
 - Now-Next-Later framework:
     - The Now column contains the initiatives that you are working on, well, now. Requirements are clear.
@@ -395,12 +434,14 @@ How can you ensure your users are making progress? If you are not using data on 
     - Is the problem large?
     - Is the problem urgent?
     - Is the problem valuable?
+
 - **Gokul's S.P.A.D.E Decision-making Toolkit**: Consensus doesn't work and when time comes to make hard decisions, there should be a person in-charge of it. So how do you do that? S.P.A.D.E—a technique for making difficult decisions—formed by Gokul Rajaram at Google and Facebook, and widely deployed at Square.
     - S is for Setting: Precisely define the “what.” Show the why of the “when.” Clarify the “why.”
     - P is for People: People come first. The first thing you do for every S.P.A.D.E. is identify the people who should consult (give input), approve, and most importantly, a single person who is responsible. Responsible means accountable. Consult maximally.
     - A is for Alternatives: It’s the job of the responsible person—the decision maker—to come up with a set of alternatives that are feasible and realistic; diverse—they should not all be micro-variants of the same situation; and comprehensive—they should maximally cover the problem space. Brainstorm publicly.
     - D is for Decide: Once you've laid out all the alternatives—complete with their respective pros and cons and quantitative modelーit is time to get your consultants to vote. Get feedback privately.
     - E is for Explain: Once you've decided, now the real work begins. Go to the approver and lay out the alternatives and your argument.  If you created a high-quality decision framework, they're unlikely to veto it. Call a commitment meeting. Broadcast your decision. Add it to the S.P.A.D.E. log. Keep a log that links to your S.P.A.D.E. and marks the date of the decision. It will be much easier than relying on Gmail search or Slack when you want to reference or amend a past decision.
+
 - **Application Programming Interface (API)**: APIs are mechanisms that enable two software components to communicate with each other using a set of definitions and protocols. For example, Morningstar's software system contains daily stock market data. The stock market app on your phone “talks” to this system via APIs and shows you daily stock prices on your phone. People interact with software through Graphical User Interfaces (GUIs) while software interacts with another software through APIs.
     - APIs are developer friendly. APIs can serve as [Placeholder]-As-A-Service. The placeholder can be wealth management, inventory management or ride-sharing. Simply by writing a few lines of code, platforms can let their customers set up any services. APIs abstract away code and business complexity. I can use ACH services through API without writing code or understanding how ACH works. APIs can be internal or external facing.
     - APIs consist of functions, contracts, business logic which helps scale for adoption. Businesses today can use APIs from other software providers without having to invest their own resources to build out capabilities. If I am in the business of stock data, I do not need to build a payment gateway. I can use Stripe's API to build my business.
@@ -420,6 +461,7 @@ How can you ensure your users are making progress? If you are not using data on 
             - A response along with the returned data also contains a status code, which signifies if the API request was fulfilled or not.
     - It is critical to know the ins and outs of a contract. You don't set your house on fire to test your smoke alarm. You test the contract. This ensures your applications will work together. The contract is between a consumer and a provider.
     - GraphQL is a query language that was developed specifically for APIs. It prioritizes giving clients exactly the data they request and no more. It is designed to make APIs fast, flexible, and developer-friendly. As an alternative to REST, GraphQL gives front-end developers the ability to query multiple databases, microservices, and APIs with a single GraphQL endpoint. Organizations choose to build APIs with GraphQL because it helps them develop applications faster.
+
 - **Wardley Maps**: They provide situational awareness and shared assumptions about a context necessary for building a sound strategy. It is a representation of the landscape in which a business operates.
     - Simon Wardley, the technique’s inventor, describes strategy using Sun Tzu’s Five Factors:
         - Purpose: A wise leader has a purpose (a what and a why). This is the force that compels you to do what you do and make what you make. It’s the higher reason for doing your work, often called your moral imperative.
@@ -433,8 +475,9 @@ How can you ensure your users are making progress? If you are not using data on 
         - II. Custom Built: More people are starting to consume and understand the object. The market is forming, and there is potential ROI. As understanding increases, users start to find its value, but inconsistently. The key focus is learning.
         - III. Product Rental: Consumption is rapidly increasing as the market grows. The object is profitable, new features can differentiate it, and there is a refinement of needs. Things are starting to get competitive, and the profit margins mean it’s a crowded market.
         - IV. Commodity/Utility: The object is widespread and stabilizing. It’s a mature and ordered market. The high volume has decreased margins. Operational efficiency is king, and failure is not tolerated in the market. This is the cost of doing business (like oil & gas).
+
 - **Analytical skills**: Being analytical isn’t only about numbers. It is about developing healthy skepticism and curiosity, validating your hypothesis (and having a hypothesis in the first place) and vetting with multiple data points to get closer to the truth. It gives you a competitive edge, and you will learn to make informed decisions.
-    - Retrieve: First, you need to learn how to get data. SQL is most common in work places. SQL training resources can be found under references below.
+    - Retrieve: First, you need to learn how to get data. SQL is most common in work places.
     - Analyze: Analytical thinking is to crunch numbers understand the why and execute at lightning speed. To do so you need the following basic understanding.
         - Patterns: See the norm, what sticks out, what needs a second look. Get a lay of the land, so you can start developing a point of view. To solve the puzzle, ask yourself the following questions:
             - What is “normal” around here? 
@@ -459,16 +502,6 @@ How can you ensure your users are making progress? If you are not using data on 
             - Why is this happening?
             - What is the impact?
             - What should we do about it (if anything)?
-- **Domain Model**: The basic idea is that the Domain is the problem domain, and the model is well the model of the problem. It is a system of abstraction. So for example imagine an e-commerce store. For that store you want to build a brand new Point Of Sale system (POS system). A POS system is a computerized application used to record sale and handle payments. So you focus on the domain of the POS system. Now you will conceptualize the objects that will be used for this system. So you will get objects like—Payment Vendor, Customer, Sale, Payment, Register, Item etc. In a domain model you model these objects and draw associations between them so that you have an high level idea how this system will work and how they will interact with each other.
-    - The domain model is your organized and structured knowledge of the problem. 
-    - It is a visual representation of real situation objects in a domain. The term domain model does not mean a set of diagrams describing software classes.
-    - Domain model can be represented by a diagram, code example or written documentation of the problem. 
-    - The important thing is that the domain model should be accessible and understandable by everyone who is involved with the project. One of the downfalls of many software development projects is the misunderstanding of terms, objectives and proposed solutions that are scoped at the beginning of development. 
-    - In software, a domain model is a conceptual model of the domain that incorporates both behavior and data.
-    - This is critical for PMs to pay attention to because they are responsible for driving requirements. And requirements cannot be defined without understanding the core behavior and data of a domain. There are plenty of what ifs and buts for PM to help answer.
-    - A domain model is generally implemented as an object model within a layer that uses a lower-level layer for persistence and publishes an API to a higher-level layer to gain access to the data and behavior of the model. An object model consists of the following important features—object reference, interface (API or UI), actions and exception handling to account for various errors and warnings. 
-    - The domain model is a representation of real-world concepts including the data involved in the business and rules the business uses in relation to that data.
-    - Great example of this put into practice is at [HEY by 37 Signals on their screening system](https://dev.37signals.com/domain-driven-boldness/). _Internally, the system looks like this: users examine clearance petitions requested by contacts who send emails._
 
 ## Further reading
 <details>
@@ -477,7 +510,10 @@ How can you ensure your users are making progress? If you are not using data on 
 
 - [Build by Tony Fadell](/build)
 - [Lenny's Newsletter](https://www.lennyrachitsky.com/)
-- [The nature of product | Marty Cagan, Silicon Valley Product Group](https://www.lennyspodcast.com/the-nature-of-product-marty-cagan-silicon-valley-product-group/#transcript)
+    - [Lenny's Newsletter | How Ramp Builds Product](https://www.lennysnewsletter.com/p/how-ramp-builds-product)
+    - [The ultimate guide to JTBD Lenny's Podcast | Bob Moesta ](https://www.lennyspodcast.com/the-ultimate-guide-to-jtbd-bob-moesta-co-creator-of-the-framework/)
+    - [The nature of product | Marty Cagan, Silicon Valley Product Group](https://www.lennyspodcast.com/the-nature-of-product-marty-cagan-silicon-valley-product-group/#transcript)
+    - [Building beautiful products with Stripe’s Head of Design | Katie Dill (Stripe, Airbnb, Lyft)](https://www.lennysnewsletter.com/p/building-beautiful-products-with#details)
 - [Product Core Competencies by Marty Cagan](https://www.svpg.com/product-core-competencies/)
 - [What distinguishes the Top 1% of product managers from the Top 10%?](http://www.quora.com/Product-Management/What-distinguishes-the-top-1-of-product-managers-from-the-top-10)
 - [The Essence of Product | Christian Idiodi](https://youtu.be/U_HBcBus1nI)
@@ -487,19 +523,16 @@ How can you ensure your users are making progress? If you are not using data on 
 - [The Never Ending Road To Product Market Fit](https://brianbalfour.com/essays/product-market-fit)
 - [The Coinbase CEO Brian Armstrong advice on being a new PM.](https://sriramk.com/memos/brian_armstrong_new_PM_letter.pdf)
 - [7 Things Every Designer Should Know About Business](https://d.mba/guides/7-things-designer-should-know-about-business)
-- [Lenny's Newsletter | How Ramp Builds Product](https://www.lennysnewsletter.com/p/how-ramp-builds-product)
+
 - [How to Break the Rules of Product Management by Henry Vasquez](https://henryvasquez.com/2022/11/15/how-to-break-the-rules-of-product-management/)
 - [Simon Wardley blog on Wardley Maps](https://swardley.medium.com)
 - [Wardley Maps Book](https://medium.com/wardleymaps)
 - [List of Wardley Maps](https://list.wardleymaps.com)
 - [Wardley Maps Template](https://onlinewardleymaps.com)
-- SQL
-    - [Learn SQL](https://dataschool.com/learn-sql/)
-    - [Khan Academy SQL](https://www.khanacademy.org/computing/computer-programming/sql)
-    - [SQL Zoo](https://sqlzoo.net/wiki/SELECT_basics)
+- [Learn SQL](https://dataschool.com/learn-sql/), [Khan Academy SQL](https://www.khanacademy.org/computing/computer-programming/sql), [SQL Zoo](https://sqlzoo.net/wiki/SELECT_basics)
 - [Domain drive boldness](https://dev.37signals.com/domain-driven-boldness/)
 - [Gokul's S.P.A.D.E. Toolkit: How to implement Square's famous decision-making framework](https://coda.io/@gokulrajaram/gokuls-spade-toolkit)
-- [The ultimate guide to JTBD Lenny's Podcast | Bob Moesta ](https://www.lennyspodcast.com/the-ultimate-guide-to-jtbd-bob-moesta-co-creator-of-the-framework/)
+- [You need to be more strategic by Shreyas Doshi](https://twitter.com/shreyas/status/1712262410764173598)
 
 </details>
 <br />
