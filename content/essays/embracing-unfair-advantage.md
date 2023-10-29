@@ -1,7 +1,7 @@
 ---
 title: "Embracing Unfair Advantage"
 tags: ["general"]
-date: "2023-11-29"
+date: "2023-10-29"
 draft: false
 path: "/essays/embracing-unfair-advantage"
 ---
