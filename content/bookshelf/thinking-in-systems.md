@@ -3,8 +3,9 @@ title: Thinking In Systems | A Primer by Donella H. Meadows, Diana Wright
 date: "2023-10-31"
 path: "/bookshelf/thinking-in-systems"
 ---
+
 ## I. Brief Summary
-An essential primer on systems thinking which can help better understand the biggest problems we are facing in the world. They cannot be solved in isolation.
+An essential primer on systems thinking which can help better understand the biggest problems we are facing in the world. They cannot be solved in isolation. Everything we see, do and experience in this world is made of systems. Why is it important to understand systems? Doing so will enable us to help them function better and identify when a broken system is in need of repair.
 
 ## II. Big Ideas
 - What is a system? 
@@ -15,7 +16,10 @@ An essential primer on systems thinking which can help better understand the big
     - A system is composed of stocks (quantities measured at a specific moment in time) and flows (change over time).
     - A complex system is more than just the sum of its parts.
     - Feedback loops are where changes in stock affects the flow in/out of the same stock. There can be “balancing” feedback loops that have a regulatory, stabilizing behavior, and “re-enforcing” feedback loops that snowballs into an avalanche in the direction of change (positive or negative).
-- Why do systems work so well? Resilience, self-organization, and hierarchy are three of the reasons dynamic systems can work so well.
+- Why do systems work so well? Because of the following characteristics:
+    - Resilience: is a major determining factor in a system’s ability to adapt to changing conditions because it is a system’s elasticity, or how well it recovers from a transition. The resilience of any given system is a product of its structure as well as its feedbacks.
+    - Self-organization: some can also self-organize. That means they can learn, diversify, evolve and build on their own structure.
+    - Hierarchy: reduce the level of information any given part of the system has to handle. For example, since liver cells know how to decompose toxins, lung cells don’t need to.
 - Systems often have the property of self-organization—the ability to structure themselves, to create new structure, to learn, diversify, and complexity. Even complex forms of self-organization may arise from relatively simple organizing rules—or may not.
 - Systems thinkers see the world as a collection of stocks along with the mechanisms for regulating the levels in the stocks by manipulating flows.
 - Stop looking for who’s to blame; instead you’ll start asking, “What’s the system?” The concept of feedback opens up the idea that a system can cause its own behavior.
@@ -27,10 +31,12 @@ An essential primer on systems thinking which can help better understand the big
 - Many of the interconnections in systems operate through the flow of information. Information holds systems together and plays a great role in determining how they operate.
 - Stocks usually change slowly. They can act as delays, lags, buffers, ballast, and sources of momentum in a system.
 - A feedback loop is a closed chain of causal connections from a stock, through a set of decisions or rules or physical laws or actions that are dependent on the level of the stock, and back again through a flow to change the stock.
-- In physical, exponentially growing systems, there must be at least one reinforcing loop driving the growth and at least one balancing loop constraining the growth, because no physical system can grow forever in a finite environment.
-- The balancing feedback loop that should keep the system state at an acceptable level is overwhelmed by a reinforcing feedback loop heading downhill. The lower the perceived system state, the lower the desired state. The lower the desired state, the less discrepancy, and the less corrective action is taken. The less corrective action, the lower the system state. If this loop is allowed to run unchecked, it can lead to a continuous degradation in the system’s performance.
-- The more output that is produced, the more can be invested to make new capital. This is a reinforcing loop, like the birth loop for a population. The investment fraction is equivalent to the fertility. The greater the fraction of its output a society invests, the faster its capital stock will grow.
-- Every balancing feedback loop has its breakdown point, where other loops pull the stock away from its goal more strongly than it can pull back.
+    - There are different kinds of feedback. If a flow stabilizes the difference between the actual and desired levels of stock then it’s known as balancing feedback. There is another kind of feedback loop which is known as reinforcing feedback, which generates more or less of what already exists.
+    - In physical, exponentially growing systems, there must be at least one reinforcing loop driving the growth and at least one balancing loop constraining the growth, because no physical system can grow forever in a finite environment.
+    - The balancing feedback loop that should keep the system state at an acceptable level is overwhelmed by a reinforcing feedback loop heading downhill. The lower the perceived system state, the lower the desired state. The lower the desired state, the less discrepancy, and the less corrective action is taken. The less corrective action, the lower the system state. If this loop is allowed to run unchecked, it can lead to a continuous degradation in the system’s performance.
+    - The more output that is produced, the more can be invested to make new capital. This is a reinforcing loop, like the birth loop for a population. The investment fraction is equivalent to the fertility. The greater the fraction of its output a society invests, the faster its capital stock will grow.
+    - Every balancing feedback loop has its breakdown point, where other loops pull the stock away from its goal more strongly than it can pull back.
+- All systems share common features, but some of them can produce extremely unnatural and even problematic behavior. This can happen when the individual subsystems each have a different goal, and it’s called policy resistance. If one actor within a system or any of its subsystems gets the upper hand and uses it to shift the system’s direction, all the others will have to work twice as hard to pull it back in line. The result is a system that looks stuck, reproducing the same problems over and over again. For instance, drug traffickers and addicts both want drug supplies to be high, but police want the opposite. 
 - The central question of economic development is how to keep the reinforcing loop of capital accumulation from growing more slowly than the reinforcing loop of population growth—so that people are getting richer instead of poorer.
 - A diverse system with multiple pathways and redundancies is more stable and less vulnerable to external shock than a uniform system with little diversity.
 - Most of what goes wrong in systems goes wrong because of biased, late, or missing information.

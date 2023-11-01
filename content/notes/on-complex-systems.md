@@ -11,6 +11,10 @@ path: "/notes/on-complex-systems"
     <summary><strong>References</strong></summary>
     <br>
 
-- [Thinking in Systems]()
+- [Thinking in Systems by Donella H. Meadows, Diana Wright](/thinking-in-systems)
+- [Complexity by M. Mitchell Waldrop](/complexity)
+- [One from Many by Dee Hock](/one-from-many)
+- [Santa Fe Institute](https://www.santafe.edu)
+
 </details>
 <br />
