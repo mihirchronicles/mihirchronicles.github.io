@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 01 Nov 2023 02:42:36 GMT</lastBuildDate><item><title><![CDATA[Thinking In Systems | A Primer by Donella H. Meadows, Diana Wright]]></title><description><![CDATA[I. Brief Summary An essential primer on systems thinking which can help better understand the biggest problems we are facing in the world…]]></description><link>https://mihirchronicles.com/thinking-in-systems/</link><guid isPermaLink="false">https://mihirchronicles.com/thinking-in-systems/</guid><pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;I. Brief Summary&lt;/h2&gt;
-&lt;p&gt;An essential primer on systems thinking which can help better understand the biggest problems we are facing in the world. They cannot be solved in isolation.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 01 Nov 2023 13:25:58 GMT</lastBuildDate><item><title><![CDATA[One from Many | VISA and the Rise of Chaordic Organization by Dee Hock]]></title><description><![CDATA[I. Brief Summary II. Big Ideas III. Quotes]]></description><link>https://mihirchronicles.com/one-from-many/</link><guid isPermaLink="false">https://mihirchronicles.com/one-from-many/</guid><pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;I. Brief Summary&lt;/h2&gt;
+&lt;h2&gt;II. Big Ideas&lt;/h2&gt;
+&lt;h2&gt;III. Quotes&lt;/h2&gt;</content:encoded></item><item><title><![CDATA[Thinking In Systems | A Primer by Donella H. Meadows, Diana Wright]]></title><description><![CDATA[I. Brief Summary An essential primer on systems thinking which can help better understand the biggest problems we are facing in the world…]]></description><link>https://mihirchronicles.com/thinking-in-systems/</link><guid isPermaLink="false">https://mihirchronicles.com/thinking-in-systems/</guid><pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;I. Brief Summary&lt;/h2&gt;
+&lt;p&gt;An essential primer on systems thinking which can help better understand the biggest problems we are facing in the world. They cannot be solved in isolation. Everything we see, do and experience in this world is made of systems. Why is it important to understand systems? Doing so will enable us to help them function better and identify when a broken system is in need of repair.&lt;/p&gt;
 &lt;h2&gt;II. Big Ideas&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;What is a system?
@@ -13,7 +15,13 @@
 &lt;li&gt;Feedback loops are where changes in stock affects the flow in/out of the same stock. There can be “balancing” feedback loops that have a regulatory, stabilizing behavior, and “re-enforcing” feedback loops that snowballs into an avalanche in the direction of change (positive or negative).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Why do systems work so well? Resilience, self-organization, and hierarchy are three of the reasons dynamic systems can work so well.&lt;/li&gt;
+&lt;li&gt;Why do systems work so well? Because of the following characteristics:
+&lt;ul&gt;
+&lt;li&gt;Resilience: is a major determining factor in a system’s ability to adapt to changing conditions because it is a system’s elasticity, or how well it recovers from a transition. The resilience of any given system is a product of its structure as well as its feedbacks.&lt;/li&gt;
+&lt;li&gt;Self-organization: some can also self-organize. That means they can learn, diversify, evolve and build on their own structure.&lt;/li&gt;
+&lt;li&gt;Hierarchy: reduce the level of information any given part of the system has to handle. For example, since liver cells know how to decompose toxins, lung cells don’t need to.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;Systems often have the property of self-organization—the ability to structure themselves, to create new structure, to learn, diversify, and complexity. Even complex forms of self-organization may arise from relatively simple organizing rules—or may not.&lt;/li&gt;
 &lt;li&gt;Systems thinkers see the world as a collection of stocks along with the mechanisms for regulating the levels in the stocks by manipulating flows.&lt;/li&gt;
 &lt;li&gt;Stop looking for who’s to blame; instead you’ll start asking, “What’s the system?” The concept of feedback opens up the idea that a system can cause its own behavior.
@@ -27,11 +35,16 @@
 &lt;li&gt;Missing information flows is one of the most common causes of system malfunction. Adding or restoring information can be a powerful intervention, usually much easier and cheaper than rebuilding physical infrastructure.&lt;/li&gt;
 &lt;li&gt;Many of the interconnections in systems operate through the flow of information. Information holds systems together and plays a great role in determining how they operate.&lt;/li&gt;
 &lt;li&gt;Stocks usually change slowly. They can act as delays, lags, buffers, ballast, and sources of momentum in a system.&lt;/li&gt;
-&lt;li&gt;A feedback loop is a closed chain of causal connections from a stock, through a set of decisions or rules or physical laws or actions that are dependent on the level of the stock, and back again through a flow to change the stock.&lt;/li&gt;
+&lt;li&gt;A feedback loop is a closed chain of causal connections from a stock, through a set of decisions or rules or physical laws or actions that are dependent on the level of the stock, and back again through a flow to change the stock.
+&lt;ul&gt;
+&lt;li&gt;There are different kinds of feedback. If a flow stabilizes the difference between the actual and desired levels of stock then it’s known as balancing feedback. There is another kind of feedback loop which is known as reinforcing feedback, which generates more or less of what already exists.&lt;/li&gt;
 &lt;li&gt;In physical, exponentially growing systems, there must be at least one reinforcing loop driving the growth and at least one balancing loop constraining the growth, because no physical system can grow forever in a finite environment.&lt;/li&gt;
 &lt;li&gt;The balancing feedback loop that should keep the system state at an acceptable level is overwhelmed by a reinforcing feedback loop heading downhill. The lower the perceived system state, the lower the desired state. The lower the desired state, the less discrepancy, and the less corrective action is taken. The less corrective action, the lower the system state. If this loop is allowed to run unchecked, it can lead to a continuous degradation in the system’s performance.&lt;/li&gt;
 &lt;li&gt;The more output that is produced, the more can be invested to make new capital. This is a reinforcing loop, like the birth loop for a population. The investment fraction is equivalent to the fertility. The greater the fraction of its output a society invests, the faster its capital stock will grow.&lt;/li&gt;
 &lt;li&gt;Every balancing feedback loop has its breakdown point, where other loops pull the stock away from its goal more strongly than it can pull back.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;All systems share common features, but some of them can produce extremely unnatural and even problematic behavior. This can happen when the individual subsystems each have a different goal, and it’s called policy resistance. If one actor within a system or any of its subsystems gets the upper hand and uses it to shift the system’s direction, all the others will have to work twice as hard to pull it back in line. The result is a system that looks stuck, reproducing the same problems over and over again. For instance, drug traffickers and addicts both want drug supplies to be high, but police want the opposite.&lt;/li&gt;
 &lt;li&gt;The central question of economic development is how to keep the reinforcing loop of capital accumulation from growing more slowly than the reinforcing loop of population growth—so that people are getting richer instead of poorer.&lt;/li&gt;
 &lt;li&gt;A diverse system with multiple pathways and redundancies is more stable and less vulnerable to external shock than a uniform system with little diversity.&lt;/li&gt;
 &lt;li&gt;Most of what goes wrong in systems goes wrong because of biased, late, or missing information.&lt;/li&gt;
@@ -84,12 +97,15 @@
 &lt;p&gt;Life gets a lot easier when you surrender to your natural gifts and talents. This allows you to live the life that you want to live in.&lt;/p&gt;
 &lt;p&gt;Embracing your unfair advantage is where the magic lies for your success.&lt;/p&gt;
 &lt;p&gt;Follow the wisdom of Phil Knight which he mentioned in his book Shoe Dog, “If you are following your calling, the fatigue will be easier to bear, disappointments will be fuel, the highs will be like nothing you’ve ever felt.”&lt;/p&gt;
-&lt;p&gt;Tune down on your weaknesses and lean in on your strengths.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[On Complex Systems]]></title><description><![CDATA[Further reading Thinking in Systems]]></description><link>https://mihirchronicles.com/on-complex-systems/</link><guid isPermaLink="false">https://mihirchronicles.com/on-complex-systems/</guid><pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Further reading&lt;/h2&gt;
+&lt;p&gt;Tune down on your weaknesses and lean in on your strengths.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[On Complex Systems]]></title><description><![CDATA[Further reading Thinking in Systems by Donella H. Meadows, Diana Wright Complexity by M. Mitchell Waldrop One from Many by Dee Hock Santa Fe…]]></description><link>https://mihirchronicles.com/on-complex-systems/</link><guid isPermaLink="false">https://mihirchronicles.com/on-complex-systems/</guid><pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Further reading&lt;/h2&gt;
 &lt;details&gt;
     &lt;summary&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/summary&gt;
     &lt;br&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;&quot;&gt;Thinking in Systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/thinking-in-systems&quot;&gt;Thinking in Systems by Donella H. Meadows, Diana Wright&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/complexity&quot;&gt;Complexity by M. Mitchell Waldrop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/one-from-many&quot;&gt;One from Many by Dee Hock&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.santafe.edu&quot;&gt;Santa Fe Institute&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;br /&gt;</content:encoded></item><item><title><![CDATA[Disciplined Meetings]]></title><description><![CDATA[In a remote world, what is the most effective medium to get together for people? If you guessed–meetings—that is correct! Meetings are a…]]></description><link>https://mihirchronicles.com/disciplined-meetings/</link><guid isPermaLink="false">https://mihirchronicles.com/disciplined-meetings/</guid><pubDate>Tue, 03 Oct 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In a remote world, what is the most effective medium to get together for people?&lt;/p&gt;
