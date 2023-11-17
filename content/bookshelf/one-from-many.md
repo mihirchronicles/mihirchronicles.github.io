@@ -32,7 +32,7 @@ A beautiful chronicle by Dee Hock, the creator of VISA which had a profound impa
 
 ## III. Quotes
 - The source of all our problems today comes from the gap between how we think and now nature works.
-- The theology of chaordic organization writ simple. Heaven is purpose, principle, and people. Purgatory is paper and procedure. Hell is rule and regulation.
+- The theology of chaordic organization is simple. Heaven is purpose, principle, and people. Purgatory is paper and procedure. Hell is rule and regulation.
 - The list goes on and on: welfare, social security, global warming, ocean pollution, preservation of species, communications, software development, fisheries; each with a need for a concept of organization that enables independent, effective action as the smallest scale, right on down to the individual. One that also allows self-organization and self-governance to ensure effective action at any subsequent scale right on through to the global. An organization within which coherence, cohesion, and order could emerge on which every part could rely without need for knowledge or control of others.
 - The essence of community, its heart and soul, is the non-monetary exchange of value; things we do and share because we care for others, and for the good of the place.
 - Community is composed of that which we don't attempt to measure, for which we keep no record and ask no recompense. Most are things we cannot measure no matter how hard we try.
