@@ -1,7 +1,7 @@
 ---
 title: "On Complex Systems"
 tags: ["general"]
-date: "2023-10-25"
+date: "2023-11-17"
 draft: false
 path: "/notes/on-complex-systems"
 ---
