@@ -7,7 +7,7 @@ path: "/notes/on-complex-systems"
 ---
 I strongly believe the most valuable skill in the world is understanding complex systems and how they interact with each other.
 
-They are all around us. Forests, thermostat, oceans, economy, internet, and even our galaxy. There are also countless subsystems, for example, a business or a human body. You can break these even further and you can have subsystems of a subsystem.
+They are all around us. Forests, thermostat, oceans, economy, internet, and even our galaxy. There are also countless subsystems, for example, a business or a human body. You can break these even further which will result in subsystems of a subsystem.
 
 In engineering, it is the ability to debug, understand feedback loops, and understanding what a good measurement is.
 
