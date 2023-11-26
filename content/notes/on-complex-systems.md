@@ -21,7 +21,7 @@ Everything is a system. The ability to design a complex system and how it intera
 
 Learning to be a system thinker is highly advantageous. 
 
-> A system is better than a single element" and that "good design is the overall configuration of a product. — Dieter Rams
+> A system is better than a single element and that good design is the overall configuration of a product. — Dieter Rams
 
 > The source of all our problems today comes from the gap between how we think and now nature works. — Dee Hock
 
