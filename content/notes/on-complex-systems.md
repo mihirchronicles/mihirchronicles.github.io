@@ -21,6 +21,8 @@ Everything is a system. The ability to design a complex system and how it intera
 
 Learning to be a system thinker is highly advantageous. 
 
+> A system is better than a single element" and that "good design is the overall configuration of a product. — Dieter Rams
+
 > The source of all our problems today comes from the gap between how we think and now nature works. — Dee Hock
 
 > Life is not about control. It’s not about getting. It’s not about having. It’s not about knowing. It’s not even about being. Life is eternal, perpetual becoming, or it is nothing. Becoming is not a thing to be known, commanded, or controlled. It is a magnificent, mysterious odyssey to be experienced. — Dee Hock
