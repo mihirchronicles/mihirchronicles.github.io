@@ -3,6 +3,7 @@ title: 7 Powers | The Foundations Of Business Strategy by Hamilton Helmer
 date: "2021-07-06"
 path: "/bookshelf/7-powers"
 ---
+
 ## I. Brief Summary
 I thoroughly enjoyed this book and realized how misunderstood the discipline of strategy is. Helmer covers 7 powers that companies can leverage on. He demystifies that operational excellence is not a strategy. He also shows invention is a source for all these powers. Helmer lays out an insightful framework to think about competitive advantage. This is a text I will come back more often to. The text details specific conditions that results in Power (Part I: Statics) and how to attain them (Part II: Dynamics).
 
