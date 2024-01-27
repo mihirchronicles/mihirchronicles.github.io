@@ -36,6 +36,7 @@ const BookshelfIndex = ({ data, location }) => {
         })}
       </ul>
       <ul>
+          <li>A Velocity of Being: Letters to a Young Reader</li>
           <li>The Hitchhiker's Guide to the Galaxy by Douglas Adams</li>
           <li>It Doesn't Have to Be Crazy at Work</li>
           <li>The Last Lecture</li>

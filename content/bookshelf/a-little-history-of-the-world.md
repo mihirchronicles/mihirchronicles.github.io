@@ -1,6 +1,6 @@
 ---
 title: A Little History Of The World by E.H. Gombrich
-date: "2024-01-01"
+date: "2024-01-05"
 path: "/bookshelf/a-little-history-of-the-world"
 ---
 ## I. Brief Summary
