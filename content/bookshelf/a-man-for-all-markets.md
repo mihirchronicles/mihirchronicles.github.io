@@ -8,6 +8,7 @@ path: "/bookshelf/a-man-for-all-markets"
 Edward Thorp recalls his life starting from childhood while sharing valuable lessons about gambling and investing. He always had an inclination towards science eventually gravitated towards mathematics. He applied math to a variety of domains with tremendous success including poker and investing. His curiosity led him to key discoveries in how to beat the dealer in blackjack and other games of chance, and eventually led him down the path to make key discoveries to arbitrage the markets in finance. He is one of the greatest quantitative investors.
 
 ## II. Big Ideas
+- Thorp argues that markets are not always efficient and there are ways to exploit it.
 - Thorp once focused on arbitrage opportunities. But despite having extraordinary intellectual capabilities, he concludes that investing in an index is safer, and he does not try to beat the market through individual stocks anymore. That is because he values his time and freedom.
 - Those who cannot remember the past are condemned to repeat it.
 - 7.3% average annual market return doubles your investment in 10 years. This is how compounding works.
@@ -19,7 +20,6 @@ Edward Thorp recalls his life starting from childhood while sharing valuable les
 - Thorp knew what Buffett and Graham have both preached repeatedly: temperament is more important to successful investing (and gambling) than pure brainpower or brilliant strategy.
 - Exploiting a small edge repeatedly can be extremely profitable in the long-run. 
 - Thorp exploited the Kelly Criterion (% of Capital Wagered = Expected Net Winnings/Net Winnings If You Win) to size his bets appropriately. In other words, when you have a greater edge (greater expected net winnings) place a larger bet.
-- Thorp argues that markets are not always efficient and there are ways to exploit it
 - Markets adapt to trading strategies when copycats enter the market and advantages evaporate. It’s important to keep innovating and making sure that strategies are still relevant.
 
 ## III. Quotes
