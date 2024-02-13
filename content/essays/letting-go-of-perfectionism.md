@@ -1,9 +1,9 @@
 ---
-title: "Perfectionism"
+title: "Letting Go Of Perfectionism"
 tags: ["general"]
 date: "2024-01-19"
 draft: false
-path: "/essays/perfectionism"
+path: "/essays/letting-go-of-perfectionism"
 ---
 
 Perfection isn't nature's way. It has continued to experiment for billions of years, and yet we are in constant motion of searching for perfection.
