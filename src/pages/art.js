@@ -15,6 +15,7 @@ const ArtIndex = ({ data, location }) => {
       <div>
         <StaticImage src="../images/art/reading_under_lamp.png" alt="reading under lamp" className="gallery-image"/>
         <StaticImage src="../images/art/landscape.png" alt="landscape" className="gallery-image"/>
+        <StaticImage src="../images/art/house.png" alt="house" className="gallery-image"/>
         <StaticImage src="../images/art/austin-music.png" alt="austinmusic" className="gallery-image"/>
         <StaticImage src="../images/art/peoplegarden.png" alt="peoplegarden" className="gallery-image"/>
         <StaticImage src="../images/art/readers.png" alt="readers" className="gallery-image"/>
