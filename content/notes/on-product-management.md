@@ -515,6 +515,8 @@ How can you ensure your users are making progress? If you are not using data on 
     - [The nature of product | Marty Cagan, Silicon Valley Product Group](https://www.lennyspodcast.com/the-nature-of-product-marty-cagan-silicon-valley-product-group/#transcript)
     - [Building beautiful products with Stripe’s Head of Design | Katie Dill (Stripe, Airbnb, Lyft)](https://www.lennysnewsletter.com/p/building-beautiful-products-with#details)
 - [Product Core Competencies by Marty Cagan](https://www.svpg.com/product-core-competencies/)
+- [Coaching Tools – The Assessment by Marty Cagan](https://www.svpg.com/coaching-tools-the-assessment/)
+- [Product Management Theater by Marty Cagan](https://www.svpg.com/product-management-theater/)
 - [What distinguishes the Top 1% of product managers from the Top 10%?](http://www.quora.com/Product-Management/What-distinguishes-the-top-1-of-product-managers-from-the-top-10)
 - [The Essence of Product | Christian Idiodi](https://youtu.be/U_HBcBus1nI)
 - [Shaping in a Nutshell by Ryan Singer at Basecamp](https://www.youtube.com/watch?app=desktop&v=h_8M23wVjXk)
