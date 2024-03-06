@@ -1,17 +1,114 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 05 Mar 2024 15:50:26 GMT</lastBuildDate><item><title><![CDATA[Competing Against Luck | The Story Of Innovation And Customer Choice by Clayton M. Christensen, Taddy Hall, Karen Dillon, David S. Duncan]]></title><description><![CDATA[I. Brief Summary A guide on how to create products that customers will choose even in a crowded market. This book is more than innovation…]]></description><link>https://mihirchronicles.com/competing-against-luck/</link><guid isPermaLink="false">https://mihirchronicles.com/competing-against-luck/</guid><pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;I. Brief Summary&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 06 Mar 2024 18:06:11 GMT</lastBuildDate><item><title><![CDATA[Competing Against Luck | The Story Of Innovation And Customer Choice by Clayton M. Christensen, Taddy Hall, Karen Dillon, David S. Duncan]]></title><description><![CDATA[I. Brief Summary A guide on how to create products that customers will choose even in a crowded market. This book is more than innovation…]]></description><link>https://mihirchronicles.com/competing-against-luck/</link><guid isPermaLink="false">https://mihirchronicles.com/competing-against-luck/</guid><pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;I. Brief Summary&lt;/h2&gt;
 &lt;p&gt;A guide on how to create products that customers will choose even in a crowded market. This book is more than innovation. It is about progress based on the Jobs Theory. The theory focuses on what causes consumers to make the choices they do. Each time anyone buys a product Clayton says that we “hire” it to do a job for us. If we understand this innovation can be predictable.&lt;/p&gt;
 &lt;h2&gt;II. Big Ideas&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Jobs Theory
+&lt;li&gt;Jobs theory
 &lt;ul&gt;
-&lt;li&gt;The Theory of Jobs to be Done is focused on understanding what causes customers to “hire” a product or service.&lt;/li&gt;
+&lt;li&gt;Jobs theory provides a language of integration.&lt;/li&gt;
+&lt;li&gt;A “job” is the progress that a person is trying to make in a particular circumstance. The choice of the word “progress” is deliberate. It represents movement toward a goal or aspiration.&lt;/li&gt;
 &lt;li&gt;What causes a customer to purchase and use a particular product or service?&lt;/li&gt;
-&lt;li&gt;What Is a Job? To summarize, the key features of our definition are: A job is the progress that an individual seeks in a given circumstance. Successful innovations enable a customer’s desired progress, resolve struggles, and fulfill unmet aspirations. They perform jobs that formerly had only inadequate or nonexistent solutions. Jobs are never simply about the functional—they have important social and emotional dimensions, which can be even more powerful than functional ones. Because jobs occur in the flow of daily life, the circumstance is central to their definition and becomes the essential unit of innovation work—not customer characteristics, product attributes, new technology, or trends. Jobs to Be Done are ongoing and recurring. They’re seldom discrete “events.”&lt;/li&gt;
+&lt;li&gt;JTBD decodes complexity—a language that enables clear specifications for solving Jobs to Be Done.&lt;/li&gt;
+&lt;li&gt;What Is a Job? To summarize:
+&lt;ul&gt;
+&lt;li&gt;A job is the progress that an individual seeks in a given circumstance. Successful innovations enable a customer’s desired progress, resolve struggles, and fulfill unmet aspirations.&lt;/li&gt;
+&lt;li&gt;They perform jobs that formerly had only inadequate or nonexistent solutions. Jobs are never simply about the functional—they have important social and emotional dimensions, which can be even more powerful than functional ones.&lt;/li&gt;
+&lt;li&gt;Because jobs occur in the flow of daily life, the circumstance is central to their definition and becomes the essential unit of innovation work—not customer characteristics, product attributes, new technology, or trends.&lt;/li&gt;
+&lt;li&gt;Jobs to Be Done are ongoing and recurring. They’re seldom discrete “events.”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;It’s important to note that we don’t “create” jobs, we discover them.&lt;/li&gt;
+&lt;li&gt;A clear view of customers’ jobs means an organization should never overshoot what those customers are actually willing to pay for. On the contrary, we believe that when customers find the right product to respond to their Job to Be Done, they’re often willing to pay more.&lt;/li&gt;
 &lt;li&gt;Focus on understanding the “jobs” that customers are trying to accomplish, rather than just their stated needs. You have to understand the job the customer is trying to do in a specific circumstance. Context is everything. This will help you identify new opportunities for innovation.&lt;/li&gt;
 &lt;li&gt;Creating the right experiences and then integrating around them to solve a job, is critical for competitive advantage. That’s because while it may be easy for competitors to copy products, it’s difficult for them to copy experiences that are well integrated into your company’s processes.&lt;/li&gt;
-&lt;li&gt;Understanding a JTBD decodes complexity—a language that enables clear specifications for solving Jobs to Be Done.&lt;/li&gt;
-&lt;li&gt;A well-defined Job to Be Done is expressed in verbs and nouns—such as, “I need to ‘write’ books verbally, obviating the need to type or edit by hand.” In contrast, the sentence “We should aspire to be more honest” is a noble goal, but it’s not a job.&lt;/li&gt;
-&lt;li&gt;Defining a job at the right level of abstraction is critical to ensuring that the theory is useful. This can be more art than science, but there is a good rule of thumb: if the architecture of the system or product can only be met by products within the same product class, the concept of the Job to Be Done does not apply. If only products in the same class can solve the problem, you’re not uncovering a job. For example, “I need to have a chocolate milk shake that is in a twelve-ounce disposable container” is not a job. The possible candidates that I could hire to do this are all in the milk shake product category. I could call this a need or a preference—but it isn’t a job. We need to go up another level of abstraction in order to discover the job. “I need something that will keep me occupied with what’s happening on the road while I drive. And also, I’d like this to fill me up so that I’m not hungry during a 10:00 a.m. meeting. I could hire a banana, doughnuts, bagels, Snickers, or a coffee to do this job.”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Correlation vs causation
+&lt;ul&gt;
+&lt;li&gt;“Ice cream sales and forest fires are correlated because both occur more often in the summer heat. But there is no causation; you don’t light a patch of the Montana brush on fire when you buy a pint of Häagen-Dazs.”&lt;/li&gt;
+&lt;li&gt;Correlation does not reveal the one thing that matters most in innovation — the causality behind why I might purchase a particular solution.&lt;/li&gt;
+&lt;li&gt;Correlation is not causation.&lt;/li&gt;
+&lt;li&gt;Learn how to ask the right questions — What job did you hire that product to do?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Hiring product
+&lt;ul&gt;
+&lt;li&gt;We “hire” a product to get a job done.&lt;/li&gt;
+&lt;li&gt;If it does the job well, we &quot;hire&quot; the product again to do the same job.&lt;/li&gt;
+&lt;li&gt;If it does not, we &quot;fire&quot; it and look around for alternative product to solve the problem&lt;/li&gt;
+&lt;li&gt;Big vs small hire:
+&lt;ul&gt;
+&lt;li&gt;“Big Hire”—the moment you buy the product&lt;/li&gt;
+&lt;li&gt;“Small Hire”—consume it. If a product really solves the job, there will be many moments of consumption. It will be hired again and again.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Story-boarding
+&lt;ul&gt;
+&lt;li&gt;Rarely can customers articulate their requirements accurately or completely—their motivations are more complex and their pathways to purchase more elaborate than they can describe. But you can get to the bottom of it. What they hire—and equally important, what they fire—tells a story.&lt;/li&gt;
+&lt;li&gt;Story-boarding can help navigate with discovery.&lt;/li&gt;
+&lt;li&gt;Moments of struggle, nagging trade-offs, imperfect experiences, and frustrations in peoples’ lives is what you’re looking for.&lt;/li&gt;
+&lt;li&gt;You’re looking for surprises, unexpected behaviors, compensating habits, and unusual product uses.&lt;/li&gt;
+&lt;li&gt;Stories are rich and complex.
+&lt;ul&gt;
+&lt;li&gt;The insights that lead to successful new products look more like a story than a statistic.&lt;/li&gt;
+&lt;li&gt;Ultimately, you want to cluster together stories to see if there are similar patterns, rather than break down individual interviews into categories.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;A well-defined Job to Be Done is expressed in verbs and nouns. If a Job to Be Done is described in adjectives and adverbs, it is not a valid job.
+&lt;ul&gt;
+&lt;li&gt;For example, “I need to ‘write’ books verbally, obviating the need to type or edit by hand.” In contrast, the sentence “We should aspire to be more honest” is a noble goal, but it’s not a job.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Defining a job at the right level of abstraction is critical to ensuring that the theory is useful.
+&lt;ul&gt;
+&lt;li&gt;This can be more art than science, but there is a good rule of thumb: if the architecture of the system or product can only be met by products within the same product class, the concept of the Job to Be Done does not apply. If only products in the same class can solve the problem, you’re not uncovering a job.&lt;/li&gt;
+&lt;li&gt;For example, “I need to have a chocolate milk shake that is in a twelve-ounce disposable container” is not a job. The possible candidates that I could hire to do this are all in the milk shake product category. I could call this a need or a preference—but it isn’t a job. We need to go up another level of abstraction in order to discover the job. “I need something that will keep me occupied with what’s happening on the road while I drive. And also, I’d like this to fill me up so that I’m not hungry during a 10:00am meeting. I could hire a banana, doughnuts, bagels, Snickers, or a coffee to do this job.”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Process
+&lt;ul&gt;
+&lt;li&gt;Helping customers have a delightful experience using your product is made up of processes.&lt;/li&gt;
+&lt;li&gt;Processes touch everything about the way an organization transforms its resources into value: the patterns of interaction, coordination, communication, and decision-making through which they accomplish these transformations are processes.&lt;/li&gt;
+&lt;li&gt;Resources, generally speaking, are fungible. They can be bought and sold. Products can, often, be easily copied.&lt;/li&gt;
+&lt;li&gt;But it is through integrating processes to get the job done that companies can create the ideal experiences and confer competitive advantage.&lt;/li&gt;
+&lt;li&gt;Processes are invisible from a customer’s standpoint — but the results of those processes are not.&lt;/li&gt;
+&lt;li&gt;For example, for years, Toyota freely opened its doors to competitors. Twice a month, the Japanese auto manufacturer allowed rival auto executives and engineers into its manufacturing complex to observe how Toyota makes cars. To an outsider, Toyota’s openness might seem shocking. After all, the American rivals were clearly trying to learn Toyota’s secrets in order to emulate or even improve upon them. Toyota’s competitive advantage rested firmly in its proprietary, complex, and often unspoken processes because processes are hard to see. Toyota concluded American competitors weren&apos;t even asking the right questions.&lt;/li&gt;
+&lt;li&gt;Processes are intangible; they belong to the company.&lt;/li&gt;
+&lt;li&gt;They are critical to strategy because they cannot easily be copied.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Org structure
+&lt;ul&gt;
+&lt;li&gt;What matters more than who reports to whom is how different parts of the organization interact systematically to deliver the offering that perfectly performs customers’ Jobs to Be Done.&lt;/li&gt;
+&lt;li&gt;Executives need to ensure that the company is delivering on the job of a customer.&lt;/li&gt;
+&lt;li&gt;It is easier to focus on efficiency rather than effectiveness.&lt;/li&gt;
+&lt;li&gt;Creating the right metrics is hard but critical to measure the right success.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Stack fallacy
+&lt;ul&gt;
+&lt;li&gt;Stack fallacy highlights the tendency of engineers to overweight the value of their own technology and underweight the downstream applications of that technology to solve customer problems and enable desired progress.&lt;/li&gt;
+&lt;li&gt;“Stack fallacy is the mistaken belief that it is trivial to build the layers above yours,” Sharma says. It’s the reason that companies fail so often when they try to move up the stack. “They don’t have first-hand empathy for what customers of the product one level above theirs in the stack actually want. They’re disconnected from the context in which their product will actually be used.”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Danger of data
+&lt;ul&gt;
+&lt;li&gt;Data is always an abstraction of reality based on underlying assumptions as to how to categorize the unstructured phenomena of the real world.&lt;/li&gt;
+&lt;li&gt;Data fail to support innovation because they create the illusion of objectivity.&lt;/li&gt;
+&lt;li&gt;Data often create the illusion of success because managers conveniently set this knowledge aside: data is man-made. We pick and choose the data that suits us. Decisions don’t get made. They happen.&lt;/li&gt;
+&lt;li&gt;There’s so much pressure to grow that it’s possible to lose sight of why customers hired you in the first place. If the customer job is not given a voice and a champion it will drown. Passive data needs active management.&lt;/li&gt;
+&lt;li&gt;Passive data
+&lt;ul&gt;
+&lt;li&gt;Much of the information needed to make decisions about solving for a job is found in the context of the struggle. We call that “passive data” because it has no voice or clear structure or champion or agenda.&lt;/li&gt;
+&lt;li&gt;Passive data is just unfiltered context. It’s always present, but it isn’t loud. This is why active data can be misleading, causing negative information for an organization.&lt;/li&gt;
+&lt;li&gt;It feels good to migrate from the unstructured messiness of passive data to the reassuringly concrete active data.&lt;/li&gt;
+&lt;li&gt;Responding quickly on negative information can be harmful to any organization.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;A genuine insight is a thought which is known as true upon conception; no further analysis is needed.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -30,6 +127,7 @@
 &lt;li&gt;Data is always an abstraction of reality based on underlying assumptions as to how to categorize the unstructured phenomena of the real world.&lt;/li&gt;
 &lt;li&gt;Data has the same agenda as the person who created it, wittingly or unwittingly. For all the time that senior leaders spend analyzing data, they should be making equal investments to determine what data should be created in the first place.&lt;/li&gt;
 &lt;li&gt;Here is the fundamental problem: the masses and masses of data that companies accumulate are not organized in a way that enables them to reliably predict which ideas will succeed. Instead the data is along the lines of “this customer looks like that one,” “this product has similar performance attributes as that one,” and “these people behaved the same way in the past,” or “68 percent of customers say they prefer version A over version B.” None of that data, however, actually tells you why customers make the choices that they do.&lt;/li&gt;
+&lt;li&gt;Managers conveniently set this knowledge aside: data is man-made&lt;/li&gt;
 &lt;li&gt;If you can’t describe what you are doing as a process, then you don’t know what you are doing.&lt;/li&gt;
 &lt;li&gt;Processes are invisible from a customer’s standpoint—but the results of those processes are not. Processes can profoundly affect whether a customer chooses your product or service in the long run.&lt;/li&gt;
 &lt;li&gt;The choice of the word “progress” is deliberate. It represents movement toward a goal or aspiration.&lt;/li&gt;
@@ -53,6 +151,10 @@
 &lt;li&gt;Organizations typically structure themselves around function or business unit or geography—but successful growth companies optimize around the job.&lt;/li&gt;
 &lt;li&gt;It’s assumed that ‘user experience’ is all about a beautiful screen and making sure the buttons are in all the right places. But that has almost nothing to do with getting the experience of using the software right—in the real world where clinicians use it. You can’t do design requirements in a conference room. You have to get out in the wild and live it.&lt;/li&gt;
 &lt;li&gt;The Gross National Product does not allow for the health of our children, the quality of their education, or the joy of their play. It does not include the beauty of our poetry or the strength of our marriages, the intelligence of our public debate or the integrity of our public officials. It measures neither our wit nor our courage, neither our wisdom nor our learning, neither our compassion nor our devotion to our country. It measures everything, in short, except that which makes life worthwhile. And it can tell us everything about America except why we are proud that we are Americans.&lt;/li&gt;
+&lt;li&gt;When you are solving a customer’s job, your products essentially become services.&lt;/li&gt;
+&lt;li&gt;New products succeed not because of the features and functionality they offer but because of the experiences they enable.&lt;/li&gt;
+&lt;li&gt;Jobs are not flexible.&lt;/li&gt;
+&lt;li&gt;Once products are launched, a faucet is opened and data is created.&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Measure What Matters | How Google, Bono, And The Gates Foundation Rock The World With OKRs by John Doerr]]></title><description><![CDATA[I. Brief Summary OKRs have been a better part of my entire professional journey but the framework rarely got implemented the way it was…]]></description><link>https://mihirchronicles.com/measure-what-matters/</link><guid isPermaLink="false">https://mihirchronicles.com/measure-what-matters/</guid><pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;I. Brief Summary&lt;/h2&gt;
 &lt;p&gt;OKRs have been a better part of my entire professional journey but the framework rarely got implemented the way it was intended to. This is why OKRs are disliked today because of lost context. I disliked them too until I read this book. If the framework is employed correctly from top to bottom the entire organization can move mountains. This book is based on late Andy Grove&apos;s managerial foundation who led Intel. John Doerr is the father of OKR who is responsible for bringing OKRs to Google and the world. He saw before anyone else the transformative power Andy Grove&apos;s system from Intel could have at Google, and this book is a great window into how OKRs are implemented. It is a powerful goal-setting framework for organizations.&lt;/p&gt;
 &lt;h2&gt;II. Big Ideas&lt;/h2&gt;
