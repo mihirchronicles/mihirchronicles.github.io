@@ -8,15 +8,73 @@ path: "/bookshelf/competing-against-luck"
 A guide on how to create products that customers will choose even in a crowded market. This book is more than innovation. It is about progress based on the Jobs Theory. The theory focuses on what causes consumers to make the choices they do. Each time anyone buys a product Clayton says that we “hire” it to do a job for us. If we understand this innovation can be predictable.
 
 ## II. Big Ideas
-- Jobs Theory
-    - The Theory of Jobs to be Done is focused on understanding what causes customers to “hire” a product or service. 
+- Jobs theory
+    - Jobs theory provides a language of integration.
+    - A “job” is the progress that a person is trying to make in a particular circumstance. The choice of the word “progress” is deliberate. It represents movement toward a goal or aspiration.
     - What causes a customer to purchase and use a particular product or service?
-    - What Is a Job? To summarize, the key features of our definition are: A job is the progress that an individual seeks in a given circumstance. Successful innovations enable a customer’s desired progress, resolve struggles, and fulfill unmet aspirations. They perform jobs that formerly had only inadequate or nonexistent solutions. Jobs are never simply about the functional—they have important social and emotional dimensions, which can be even more powerful than functional ones. Because jobs occur in the flow of daily life, the circumstance is central to their definition and becomes the essential unit of innovation work—not customer characteristics, product attributes, new technology, or trends. Jobs to Be Done are ongoing and recurring. They’re seldom discrete “events.” 
+    - JTBD decodes complexity—a language that enables clear specifications for solving Jobs to Be Done.
+    - What Is a Job? To summarize:
+        - A job is the progress that an individual seeks in a given circumstance. Successful innovations enable a customer’s desired progress, resolve struggles, and fulfill unmet aspirations. 
+        - They perform jobs that formerly had only inadequate or nonexistent solutions. Jobs are never simply about the functional—they have important social and emotional dimensions, which can be even more powerful than functional ones. 
+        - Because jobs occur in the flow of daily life, the circumstance is central to their definition and becomes the essential unit of innovation work—not customer characteristics, product attributes, new technology, or trends. 
+        - Jobs to Be Done are ongoing and recurring. They’re seldom discrete “events.” 
+    - It’s important to note that we don’t “create” jobs, we discover them.
+    - A clear view of customers’ jobs means an organization should never overshoot what those customers are actually willing to pay for. On the contrary, we believe that when customers find the right product to respond to their Job to Be Done, they’re often willing to pay more.
     - Focus on understanding the “jobs” that customers are trying to accomplish, rather than just their stated needs. You have to understand the job the customer is trying to do in a specific circumstance. Context is everything. This will help you identify new opportunities for innovation.
     - Creating the right experiences and then integrating around them to solve a job, is critical for competitive advantage. That’s because while it may be easy for competitors to copy products, it’s difficult for them to copy experiences that are well integrated into your company’s processes.
-    - Understanding a JTBD decodes complexity—a language that enables clear specifications for solving Jobs to Be Done.
-    - A well-defined Job to Be Done is expressed in verbs and nouns—such as, “I need to ‘write’ books verbally, obviating the need to type or edit by hand.” In contrast, the sentence “We should aspire to be more honest” is a noble goal, but it’s not a job.
-    - Defining a job at the right level of abstraction is critical to ensuring that the theory is useful. This can be more art than science, but there is a good rule of thumb: if the architecture of the system or product can only be met by products within the same product class, the concept of the Job to Be Done does not apply. If only products in the same class can solve the problem, you’re not uncovering a job. For example, “I need to have a chocolate milk shake that is in a twelve-ounce disposable container” is not a job. The possible candidates that I could hire to do this are all in the milk shake product category. I could call this a need or a preference—but it isn’t a job. We need to go up another level of abstraction in order to discover the job. “I need something that will keep me occupied with what’s happening on the road while I drive. And also, I’d like this to fill me up so that I’m not hungry during a 10:00 a.m. meeting. I could hire a banana, doughnuts, bagels, Snickers, or a coffee to do this job.”
+- Correlation vs causation
+    - “Ice cream sales and forest fires are correlated because both occur more often in the summer heat. But there is no causation; you don’t light a patch of the Montana brush on fire when you buy a pint of Häagen-Dazs.”
+    - Correlation does not reveal the one thing that matters most in innovation — the causality behind why I might purchase a particular solution.
+    - Correlation is not causation.
+    - Learn how to ask the right questions — What job did you hire that product to do?
+- Hiring product
+    - We “hire” a product to get a job done.
+    - If it does the job well, we "hire" the product again to do the same job.
+    - If it does not, we "fire" it and look around for alternative product to solve the problem
+    - Big vs small hire:
+        - “Big Hire”—the moment you buy the product
+        - “Small Hire”—consume it. If a product really solves the job, there will be many moments of consumption. It will be hired again and again.
+- Story-boarding
+    - Rarely can customers articulate their requirements accurately or completely—their motivations are more complex and their pathways to purchase more elaborate than they can describe. But you can get to the bottom of it. What they hire—and equally important, what they fire—tells a story. 
+    - Story-boarding can help navigate with discovery.
+    - Moments of struggle, nagging trade-offs, imperfect experiences, and frustrations in peoples’ lives is what you’re looking for.
+    - You’re looking for surprises, unexpected behaviors, compensating habits, and unusual product uses.
+    - Stories are rich and complex. 
+        - The insights that lead to successful new products look more like a story than a statistic.
+        - Ultimately, you want to cluster together stories to see if there are similar patterns, rather than break down individual interviews into categories.
+    - A well-defined Job to Be Done is expressed in verbs and nouns. If a Job to Be Done is described in adjectives and adverbs, it is not a valid job.
+        - For example, “I need to ‘write’ books verbally, obviating the need to type or edit by hand.” In contrast, the sentence “We should aspire to be more honest” is a noble goal, but it’s not a job.
+    - Defining a job at the right level of abstraction is critical to ensuring that the theory is useful. 
+        - This can be more art than science, but there is a good rule of thumb: if the architecture of the system or product can only be met by products within the same product class, the concept of the Job to Be Done does not apply. If only products in the same class can solve the problem, you’re not uncovering a job. 
+        - For example, “I need to have a chocolate milk shake that is in a twelve-ounce disposable container” is not a job. The possible candidates that I could hire to do this are all in the milk shake product category. I could call this a need or a preference—but it isn’t a job. We need to go up another level of abstraction in order to discover the job. “I need something that will keep me occupied with what’s happening on the road while I drive. And also, I’d like this to fill me up so that I’m not hungry during a 10:00am meeting. I could hire a banana, doughnuts, bagels, Snickers, or a coffee to do this job.”
+- Process
+    - Helping customers have a delightful experience using your product is made up of processes.
+    - Processes touch everything about the way an organization transforms its resources into value: the patterns of interaction, coordination, communication, and decision-making through which they accomplish these transformations are processes.
+    - Resources, generally speaking, are fungible. They can be bought and sold. Products can, often, be easily copied.
+    - But it is through integrating processes to get the job done that companies can create the ideal experiences and confer competitive advantage.
+    - Processes are invisible from a customer’s standpoint — but the results of those processes are not.
+    - For example, for years, Toyota freely opened its doors to competitors. Twice a month, the Japanese auto manufacturer allowed rival auto executives and engineers into its manufacturing complex to observe how Toyota makes cars. To an outsider, Toyota’s openness might seem shocking. After all, the American rivals were clearly trying to learn Toyota’s secrets in order to emulate or even improve upon them. Toyota’s competitive advantage rested firmly in its proprietary, complex, and often unspoken processes because processes are hard to see. Toyota concluded American competitors weren't even asking the right questions.
+    - Processes are intangible; they belong to the company.
+    - They are critical to strategy because they cannot easily be copied.
+- Org structure
+    - What matters more than who reports to whom is how different parts of the organization interact systematically to deliver the offering that perfectly performs customers’ Jobs to Be Done. 
+    - Executives need to ensure that the company is delivering on the job of a customer.
+    - It is easier to focus on efficiency rather than effectiveness.
+    - Creating the right metrics is hard but critical to measure the right success.
+- Stack fallacy
+    - Stack fallacy highlights the tendency of engineers to overweight the value of their own technology and underweight the downstream applications of that technology to solve customer problems and enable desired progress. 
+    - “Stack fallacy is the mistaken belief that it is trivial to build the layers above yours,” Sharma says. It’s the reason that companies fail so often when they try to move up the stack. “They don’t have first-hand empathy for what customers of the product one level above theirs in the stack actually want. They’re disconnected from the context in which their product will actually be used.”
+- Danger of data
+    - Data is always an abstraction of reality based on underlying assumptions as to how to categorize the unstructured phenomena of the real world.
+    - Data fail to support innovation because they create the illusion of objectivity.
+    - Data often create the illusion of success because managers conveniently set this knowledge aside: data is man-made. We pick and choose the data that suits us. Decisions don’t get made. They happen.
+    - There’s so much pressure to grow that it’s possible to lose sight of why customers hired you in the first place. If the customer job is not given a voice and a champion it will drown. Passive data needs active management.
+    - Passive data
+        - Much of the information needed to make decisions about solving for a job is found in the context of the struggle. We call that “passive data” because it has no voice or clear structure or champion or agenda. 
+        - Passive data is just unfiltered context. It’s always present, but it isn’t loud. This is why active data can be misleading, causing negative information for an organization.
+        - It feels good to migrate from the unstructured messiness of passive data to the reassuringly concrete active data.
+        - Responding quickly on negative information can be harmful to any organization.
+    - A genuine insight is a thought which is known as true upon conception; no further analysis is needed.
 
 ## III. Quotes
 - Theory has a voice not an agenda.
@@ -32,6 +90,7 @@ A guide on how to create products that customers will choose even in a crowded m
 - Data is always an abstraction of reality based on underlying assumptions as to how to categorize the unstructured phenomena of the real world.
 - Data has the same agenda as the person who created it, wittingly or unwittingly. For all the time that senior leaders spend analyzing data, they should be making equal investments to determine what data should be created in the first place.
 - Here is the fundamental problem: the masses and masses of data that companies accumulate are not organized in a way that enables them to reliably predict which ideas will succeed. Instead the data is along the lines of “this customer looks like that one,” “this product has similar performance attributes as that one,” and “these people behaved the same way in the past,” or “68 percent of customers say they prefer version A over version B.” None of that data, however, actually tells you why customers make the choices that they do.
+- Managers conveniently set this knowledge aside: data is man-made
 - If you can’t describe what you are doing as a process, then you don’t know what you are doing.
 - Processes are invisible from a customer’s standpoint—but the results of those processes are not. Processes can profoundly affect whether a customer chooses your product or service in the long run.
 - The choice of the word “progress” is deliberate. It represents movement toward a goal or aspiration.
@@ -55,3 +114,7 @@ A guide on how to create products that customers will choose even in a crowded m
 - Organizations typically structure themselves around function or business unit or geography—but successful growth companies optimize around the job.
 - It’s assumed that ‘user experience’ is all about a beautiful screen and making sure the buttons are in all the right places. But that has almost nothing to do with getting the experience of using the software right—in the real world where clinicians use it. You can’t do design requirements in a conference room. You have to get out in the wild and live it.
 - The Gross National Product does not allow for the health of our children, the quality of their education, or the joy of their play. It does not include the beauty of our poetry or the strength of our marriages, the intelligence of our public debate or the integrity of our public officials. It measures neither our wit nor our courage, neither our wisdom nor our learning, neither our compassion nor our devotion to our country. It measures everything, in short, except that which makes life worthwhile. And it can tell us everything about America except why we are proud that we are Americans.
+- When you are solving a customer’s job, your products essentially become services.
+- New products succeed not because of the features and functionality they offer but because of the experiences they enable.
+- Jobs are not flexible.
+- Once products are launched, a faucet is opened and data is created.
