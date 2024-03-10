@@ -37,16 +37,11 @@ Cal Newport’s Deep Work is about the benefits of deep work and practical steps
 ## III. Quotes
 
 - To learn hard things quickly, you must focus intensely without distraction.
-- Your work is craft, and if you hone your ability and apply it with respect and care, then like the skilled
-wheelwright you can generate meaning in the daily efforts of your professional life.
-- The key to developing a deep work habit is to move beyond good intentions and add routines and rituals
-to your working life designed to minimize the amount of your limited willpower necessary to transition into
-and maintain a state of unbroken concentration.
-- Deep work is not some nostalgic affectation of writers and early-twentieth-century philosophers. It’s
-instead a skill that has great value today.
+- Your work is craft, and if you hone your ability and apply it with respect and care, then like the skilled wheelwright you can generate meaning in the daily efforts of your professional life.
+- The key to developing a deep work habit is to move beyond good intentions and add routines and rituals to your working life designed to minimize the amount of your limited willpower necessary to transition into and maintain a state of unbroken concentration.
+- Deep work is not some nostalgic affectation of writers and early-twentieth-century philosophers. It’s instead a skill that has great value today.
 - The superpower of the 21st century.
-- I build my days around a core of carefully chosen deep work, with the shallow activities I absolutely
-cannot avoid batched into smaller bursts at the peripheries of my schedule. Three to four hours a day, five days a week, of uninterrupted and carefully directed concentration, it turns out, can produce a lot of valuable output.
+- I build my days around a core of carefully chosen deep work, with the shallow activities I absolutely cannot avoid batched into smaller bursts at the peripheries of my schedule. Three to four hours a day, five days a week, of uninterrupted and carefully directed concentration, it turns out, can produce a lot of valuable output.
 - When you switch from some Task A to another Task B, your attention doesn’t immediately follow—a residue of your attention remains stuck thinking about the original task. This residue gets especially thick if your work on Task A was unbounded and of low intensity before you switched, but even if you finish Task A before moving on, your attention remains divided for a while.
 - To produce at your peak level you need to work for extended periods with full concentration on a single task free from distraction.
 - You have a finite amount of willpower that becomes depleted as you use it.

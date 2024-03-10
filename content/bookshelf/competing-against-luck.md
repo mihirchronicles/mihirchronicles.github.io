@@ -12,6 +12,7 @@ A guide on how to create products that customers will choose even in a crowded m
     - Jobs theory provides a language of integration.
     - A “job” is the progress that a person is trying to make in a particular circumstance. The choice of the word “progress” is deliberate. It represents movement toward a goal or aspiration.
     - What causes a customer to purchase and use a particular product or service?
+    - Jobs are never simply about function—they have powerful social and emotional dimensions. The 3 components—functional, social and emotional are equally important when a customer interacts with your product.
     - JTBD decodes complexity—a language that enables clear specifications for solving Jobs to Be Done.
     - What Is a Job? To summarize:
         - A job is the progress that an individual seeks in a given circumstance. Successful innovations enable a customer’s desired progress, resolve struggles, and fulfill unmet aspirations. 
