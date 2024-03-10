@@ -1,20 +1,72 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 10 Mar 2024 16:44:13 GMT</lastBuildDate><item><title><![CDATA[Shape Up | Stop Running In Circles And Ship Work That Matters by Ryan Singer, Jason Fried]]></title><description><![CDATA[I. Brief Summary A book on how Basecamp (one of my favorite organizations with inspirational founders) does software and product development…]]></description><link>https://mihirchronicles.com/shape-up/</link><guid isPermaLink="false">https://mihirchronicles.com/shape-up/</guid><pubDate>Mon, 11 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;I. Brief Summary&lt;/h2&gt;
-&lt;p&gt;A book on how Basecamp (one of my favorite organizations with inspirational founders) does software and product development. Ryan Singer introduces new vocabulary to shift the mindset—shaping, appetite, bread-boarding, scopes and uphill and downhill phases of work. These are great concepts to understand which can make software and product development process effective in any organization.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 10 Mar 2024 19:37:47 GMT</lastBuildDate><item><title><![CDATA[Shape Up | Stop Running In Circles And Ship Work That Matters by Ryan Singer, Jason Fried]]></title><description><![CDATA[I. Brief Summary A book on how Basecamp (one of my favorite organizations with inspirational founders) does software and product development…]]></description><link>https://mihirchronicles.com/shape-up/</link><guid isPermaLink="false">https://mihirchronicles.com/shape-up/</guid><pubDate>Sun, 10 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;I. Brief Summary&lt;/h2&gt;
+&lt;p&gt;A book on how Basecamp (one of my favorite organizations with inspirational founders) does software and product development. Ryan Singer introduces great analogies to reshape the mindset—shaping, appetite, bread-boarding, scopes and uphill and downhill phases of work. These are great concepts to understand which can make software and product development process effective in any organization.&lt;/p&gt;
 &lt;h2&gt;II. Big Ideas&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Shaping
+&lt;li&gt;Basecamp developed Shape Up methodology.&lt;/li&gt;
+&lt;li&gt;Unlike Scrum, Shape Up doesn’t use backlogs.&lt;/li&gt;
+&lt;li&gt;Wireframes are deemed too concrete, while words are often too abstract. When shaping a solution, the aim is to strike the right balance between too vague and too detailed.&lt;/li&gt;
+&lt;li&gt;Shape Up iterations take 6 weeks and a 2-week cool-down window following the Build stage to allow teams to address any outstanding issues.&lt;/li&gt;
+&lt;li&gt;Shaping Up process
 &lt;ul&gt;
-&lt;li&gt;Hammer your tasks to have the right level of abstractions, not leaving big rabbit holes, but being open enough to let design and developers work.&lt;/li&gt;
-&lt;li&gt;Break your project to fit the cycles, not the cycles to fit your projects/tasks.&lt;/li&gt;
-&lt;li&gt;Work with projects! (No tasks backlogs, no Business Point and Implementation points) One project with one final goal. The operation will break it.&lt;/li&gt;
+&lt;li&gt;PM: set boundaries and figure out how much time the raw idea is worth and how to define the problem.&lt;/li&gt;
+&lt;li&gt;Designer + PM + Tech lead: sketch out the elements of the solution. A higher level of abstraction than wireframes in order to move fast and explore a wide enough range of possibilities. The solution should be desirable but without too many details.&lt;/li&gt;
+&lt;li&gt;Designer + PM + Tech lead: define risks, edge cases and extreme nuances. Take a hard look at it to find holes or unanswered questions that could trip up the execution team. Cut things out, specify details or amend the solution if getting stuck or not able to get momentum.&lt;/li&gt;
+&lt;li&gt;PM: once you have shaped it enough, write a pitch. The pitch summarizes the problem, constraints, solution, rabbit holes, and limitations. The pitch goes to the betting table for a leadership go/no-go.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Designers, Engineers &amp;#x26; Product Strategists—shaping is primarily design work and get continuous feedback from engineering. A PM brings the strategic perspective.
+&lt;ul&gt;
+&lt;li&gt;Designers
+&lt;ul&gt;
+&lt;li&gt;Designers and programmers always want to do their best work. It doesn’t matter if the button is on the center of the landing page or two pages down a settings screen, the designer will give it their best attention.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Engineers
+&lt;ul&gt;
+&lt;li&gt;Designers and programmers always want to do their best work. The best programmers want the code base to feel like a cohesive whole, completely logically consistent with every edge case covered.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;PMs
+&lt;ul&gt;
+&lt;li&gt;What are we trying to solve?&lt;/li&gt;
+&lt;li&gt;Why does it matter? What counts as success?&lt;/li&gt;
+&lt;li&gt;Which customers are affected?&lt;/li&gt;
+&lt;li&gt;What is the cost of doing this instead of something else?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Executing
 &lt;ul&gt;
-&lt;li&gt;Divide the whole project into scopes (small visible and concrete part of the implementation)&lt;/li&gt;
-&lt;li&gt;Start from the most uncertainty part and build around it.&lt;/li&gt;
-&lt;li&gt;Work vertically to deliver something concrete and actionable. (Build the core and then refine it)&lt;/li&gt;
-&lt;li&gt;Give status update a few days after the cycle began and do it asynchronous!&lt;/li&gt;
+&lt;li&gt;Divide the whole project into scopes–small visible and concrete part of the implementation.&lt;/li&gt;
+&lt;li&gt;Start with the most important problems with the most unknowns.&lt;/li&gt;
+&lt;li&gt;Declare out of bounds. Call out any cases you specifically aren’t supporting to keep the project well within the appetite. Cutting scope isn’t lowering quality.&lt;/li&gt;
+&lt;li&gt;Work vertically to deliver something concrete and actionable. Build the core and then refine it.&lt;/li&gt;
+&lt;li&gt;Give status update a few days after the cycle began and do it asynchronous.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Betting table—it is a form of prioritization and gain traction/appetite from stakeholders and decision-makers.
+&lt;ul&gt;
+&lt;li&gt;The betting table at Basecamp consists of the CEO, the CTO, a senior developer and product strategist.&lt;/li&gt;
+&lt;li&gt;Bets have a payout.&lt;/li&gt;
+&lt;li&gt;Bets are commitments.&lt;/li&gt;
+&lt;li&gt;Bets have a cap on the downside.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Bread-boarding—a concept borrowed from electrical engineering.
+&lt;ul&gt;
+&lt;li&gt;Places: these are things you can navigate to, like screens, dialogs, or menus that pop up.&lt;/li&gt;
+&lt;li&gt;Affordances: these are things the user can act on, like buttons and fields. Interface copy is considered to be an affordance too, as reading it is an act that gives the user information for subsequent actions.&lt;/li&gt;
+&lt;li&gt;Connection lines: these show how the affordances take the user from place to place.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Other key concepts
+&lt;ul&gt;
+&lt;li&gt;Fixed time-to-production: holding the build timeline fixed at 6 weeks.&lt;/li&gt;
+&lt;li&gt;The ultimate consequence: if a build isn&apos;t done in the 6-week time, the project is scrapped and goes through the whole process again if there is any viability.&lt;/li&gt;
+&lt;li&gt;The hill (visual): work is like a hill while going uphill you are not certain on the unknowns yet and when going downhill you know what to do. Tasks can be visualized on a hill chart.&lt;/li&gt;
+&lt;li&gt;Circuit breaker: teams have to ship the work within the amount of time that we bet.&lt;/li&gt;
+&lt;li&gt;Idea banks: a soft “no” that leaves all options open but it doesn&apos;t go in a backlog. It gets the space to learn whether it’s really important and what it might entail.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -23,6 +75,7 @@
 &lt;li&gt;We don’t do daily stand-ups, design sprints, development sprints, or anything remotely tied to a metaphor that includes being tired and worn out at the end.&lt;/li&gt;
 &lt;li&gt;Estimates start with a design and end with a number. Appetite starts with a number and ends with a design.&lt;/li&gt;
 &lt;li&gt;Beware the simple question: Is this possible? In software everything is possible, but nothing is free.&lt;/li&gt;
+&lt;li&gt;“Good” is relative. There’s no absolute definition of “the best” solution. The best is relative to your constraints. Without a time limit, there’s always a better version. The ultimate meal might be a ten course dinner. But when you’re hungry and in a hurry, a hot dog is perfect.&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Competing Against Luck | The Story Of Innovation And Customer Choice by Clayton M. Christensen, Taddy Hall, Karen Dillon, David S. Duncan]]></title><description><![CDATA[I. Brief Summary A guide on how to create products that customers will choose even in a crowded market. This book is more than innovation…]]></description><link>https://mihirchronicles.com/competing-against-luck/</link><guid isPermaLink="false">https://mihirchronicles.com/competing-against-luck/</guid><pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;I. Brief Summary&lt;/h2&gt;
 &lt;p&gt;A guide on how to create products that customers will choose even in a crowded market. This book is more than innovation. It is about progress based on the Jobs Theory. The theory focuses on what causes consumers to make the choices they do. Each time anyone buys a product Clayton says that we “hire” it to do a job for us. If we understand this innovation can be predictable.&lt;/p&gt;
 &lt;h2&gt;II. Big Ideas&lt;/h2&gt;
