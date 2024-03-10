@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 06 Mar 2024 18:06:11 GMT</lastBuildDate><item><title><![CDATA[Competing Against Luck | The Story Of Innovation And Customer Choice by Clayton M. Christensen, Taddy Hall, Karen Dillon, David S. Duncan]]></title><description><![CDATA[I. Brief Summary A guide on how to create products that customers will choose even in a crowded market. This book is more than innovation…]]></description><link>https://mihirchronicles.com/competing-against-luck/</link><guid isPermaLink="false">https://mihirchronicles.com/competing-against-luck/</guid><pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;I. Brief Summary&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 10 Mar 2024 16:44:13 GMT</lastBuildDate><item><title><![CDATA[Shape Up | Stop Running In Circles And Ship Work That Matters by Ryan Singer, Jason Fried]]></title><description><![CDATA[I. Brief Summary A book on how Basecamp (one of my favorite organizations with inspirational founders) does software and product development…]]></description><link>https://mihirchronicles.com/shape-up/</link><guid isPermaLink="false">https://mihirchronicles.com/shape-up/</guid><pubDate>Mon, 11 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;I. Brief Summary&lt;/h2&gt;
+&lt;p&gt;A book on how Basecamp (one of my favorite organizations with inspirational founders) does software and product development. Ryan Singer introduces new vocabulary to shift the mindset—shaping, appetite, bread-boarding, scopes and uphill and downhill phases of work. These are great concepts to understand which can make software and product development process effective in any organization.&lt;/p&gt;
+&lt;h2&gt;II. Big Ideas&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Shaping
+&lt;ul&gt;
+&lt;li&gt;Hammer your tasks to have the right level of abstractions, not leaving big rabbit holes, but being open enough to let design and developers work.&lt;/li&gt;
+&lt;li&gt;Break your project to fit the cycles, not the cycles to fit your projects/tasks.&lt;/li&gt;
+&lt;li&gt;Work with projects! (No tasks backlogs, no Business Point and Implementation points) One project with one final goal. The operation will break it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Executing
+&lt;ul&gt;
+&lt;li&gt;Divide the whole project into scopes (small visible and concrete part of the implementation)&lt;/li&gt;
+&lt;li&gt;Start from the most uncertainty part and build around it.&lt;/li&gt;
+&lt;li&gt;Work vertically to deliver something concrete and actionable. (Build the core and then refine it)&lt;/li&gt;
+&lt;li&gt;Give status update a few days after the cycle began and do it asynchronous!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;III. Quotes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;We don’t do daily stand-ups, design sprints, development sprints, or anything remotely tied to a metaphor that includes being tired and worn out at the end.&lt;/li&gt;
+&lt;li&gt;Estimates start with a design and end with a number. Appetite starts with a number and ends with a design.&lt;/li&gt;
+&lt;li&gt;Beware the simple question: Is this possible? In software everything is possible, but nothing is free.&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Competing Against Luck | The Story Of Innovation And Customer Choice by Clayton M. Christensen, Taddy Hall, Karen Dillon, David S. Duncan]]></title><description><![CDATA[I. Brief Summary A guide on how to create products that customers will choose even in a crowded market. This book is more than innovation…]]></description><link>https://mihirchronicles.com/competing-against-luck/</link><guid isPermaLink="false">https://mihirchronicles.com/competing-against-luck/</guid><pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;I. Brief Summary&lt;/h2&gt;
 &lt;p&gt;A guide on how to create products that customers will choose even in a crowded market. This book is more than innovation. It is about progress based on the Jobs Theory. The theory focuses on what causes consumers to make the choices they do. Each time anyone buys a product Clayton says that we “hire” it to do a job for us. If we understand this innovation can be predictable.&lt;/p&gt;
 &lt;h2&gt;II. Big Ideas&lt;/h2&gt;
 &lt;ul&gt;
@@ -7,6 +32,7 @@
 &lt;li&gt;Jobs theory provides a language of integration.&lt;/li&gt;
 &lt;li&gt;A “job” is the progress that a person is trying to make in a particular circumstance. The choice of the word “progress” is deliberate. It represents movement toward a goal or aspiration.&lt;/li&gt;
 &lt;li&gt;What causes a customer to purchase and use a particular product or service?&lt;/li&gt;
+&lt;li&gt;Jobs are never simply about function—they have powerful social and emotional dimensions. The 3 components—functional, social and emotional are equally important when a customer interacts with your product.&lt;/li&gt;
 &lt;li&gt;JTBD decodes complexity—a language that enables clear specifications for solving Jobs to Be Done.&lt;/li&gt;
 &lt;li&gt;What Is a Job? To summarize:
 &lt;ul&gt;
@@ -17394,24 +17420,11 @@ So write with a combination of short, medium, and long sentences Create a sound 
 &lt;h2&gt;III. Quotes&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;To learn hard things quickly, you must focus intensely without distraction.&lt;/li&gt;
-&lt;li&gt;Your work is craft, and if you hone your ability and apply it with respect and care, then like the skilled&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;wheelwright you can generate meaning in the daily efforts of your professional life.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The key to developing a deep work habit is to move beyond good intentions and add routines and rituals&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;to your working life designed to minimize the amount of your limited willpower necessary to transition into
-and maintain a state of unbroken concentration.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Deep work is not some nostalgic affectation of writers and early-twentieth-century philosophers. It’s&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;instead a skill that has great value today.&lt;/p&gt;
-&lt;ul&gt;
+&lt;li&gt;Your work is craft, and if you hone your ability and apply it with respect and care, then like the skilled wheelwright you can generate meaning in the daily efforts of your professional life.&lt;/li&gt;
+&lt;li&gt;The key to developing a deep work habit is to move beyond good intentions and add routines and rituals to your working life designed to minimize the amount of your limited willpower necessary to transition into and maintain a state of unbroken concentration.&lt;/li&gt;
+&lt;li&gt;Deep work is not some nostalgic affectation of writers and early-twentieth-century philosophers. It’s instead a skill that has great value today.&lt;/li&gt;
 &lt;li&gt;The superpower of the 21st century.&lt;/li&gt;
-&lt;li&gt;I build my days around a core of carefully chosen deep work, with the shallow activities I absolutely&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;cannot avoid batched into smaller bursts at the peripheries of my schedule. Three to four hours a day, five days a week, of uninterrupted and carefully directed concentration, it turns out, can produce a lot of valuable output.&lt;/p&gt;
-&lt;ul&gt;
+&lt;li&gt;I build my days around a core of carefully chosen deep work, with the shallow activities I absolutely cannot avoid batched into smaller bursts at the peripheries of my schedule. Three to four hours a day, five days a week, of uninterrupted and carefully directed concentration, it turns out, can produce a lot of valuable output.&lt;/li&gt;
 &lt;li&gt;When you switch from some Task A to another Task B, your attention doesn’t immediately follow—a residue of your attention remains stuck thinking about the original task. This residue gets especially thick if your work on Task A was unbounded and of low intensity before you switched, but even if you finish Task A before moving on, your attention remains divided for a while.&lt;/li&gt;
 &lt;li&gt;To produce at your peak level you need to work for extended periods with full concentration on a single task free from distraction.&lt;/li&gt;
 &lt;li&gt;You have a finite amount of willpower that becomes depleted as you use it.&lt;/li&gt;
