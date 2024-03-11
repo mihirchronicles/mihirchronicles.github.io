@@ -22,5 +22,6 @@ A question worth exploring—where do you find your magic? For me, it is the fol
 12. Watching basketball
 13. Dancing
 14. Exploring artists and their work
+15. Share my passion about Mungerism and Buffettology with others
 
 None of these go in particular order, but they give me the most energy when I do these things making life feel flawless. A reminder to do more of these, not less.
