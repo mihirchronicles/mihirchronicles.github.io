@@ -6,13 +6,13 @@ draft: false
 path: "/essays/finding-magic"
 ---
 
-A question worth exploring—where do you find your magic? For me, it is the following:
+A question worth exploring—where do you find your magic? Here is my list:
 
 1. Hiking in the mountains
 2. Walking and biking on trails surrounded by trees and water
-3. Long conversations with my wife
-4. Holding philosophical conversations with my mom
-5. Spending time with kids—human and pet kid
+3. Long conversations with my wife and mom
+4. Holding philosophical conversations with family and friends
+5. Spending time with both my human and dog kid
 6. Painting canvases and drawing silly things
 7. Listening to Eminem and Ludovico Einaudi
 8. Reading books
@@ -24,5 +24,7 @@ A question worth exploring—where do you find your magic? For me, it is the fol
 14. Exploring artists and their work
 15. Share my passion with others about Mungerism and Buffettology
 16. Coffee shops
+17. Fitness clubs
+18. Book clubs
 
 None of these go in particular order, but they give me the most energy when I do these things making life feel flawless. A reminder to do more of these, not less.
