@@ -25,10 +25,10 @@ const WorkIndex = ({ data, location }) => {
 
       <h2>Big Imposter</h2>
       <div>
-        <StaticImage src="../images/bigimposter_work.png" alt="big_imposter" className="gallery-image" />
+        <StaticImage src="../images/big_imposter.png" alt="big_imposter" className="gallery-image" />
       </div>
       <p><strong>[2023 - Current]</strong></p>
-      <p><strong>Story</strong>: A side project on imposter syndrome. This project is helping me explore creativity and learn graphic design skills while exploring ways to beat my own big imposter. Don't let the imposter syndrome bankrupt you from doing. If in doubt, take the first step because doubt kills more dreams than failures.</p>
+      <p><strong>Story</strong>: A story about beating the imposter syndrome.</p>
 
       <h2>Wise Charlie</h2>
       <div>
