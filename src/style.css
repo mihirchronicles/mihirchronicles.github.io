@@ -1,6 +1,6 @@
 /* CSS Custom Properties Definitions */
 @import url('https://rsms.me/inter/inter.css');
-html { font-family: 'Futura', sans-serif; }
+html { font-family: 'Inter', sans-serif; }
 @supports (font-variation-settings: normal) {
   html { 
     font-family: InterVariable, 'Futura', sans-serif; 
