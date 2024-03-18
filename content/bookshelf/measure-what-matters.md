@@ -9,6 +9,10 @@ OKRs have been a better part of my entire professional journey but the framework
 
 ## II. Big Ideas
 - Ideas are easy. Execution is everything.
+- Influential leaders like Bill Gates, Larry Page, and Bono praise OKR for its effective goal-setting system. 
+    - Bill Gates (Microsoft) has praised the OKR system for its ability to align teams and drive focus. 
+    - Larry Page (Google) has implemented OKRs to encourage ambitious goals and foster a culture of accountability. 
+    - Bono (lead singer of U2) has used OKRs to drive social impact through his organization, ONE.
 - OKRs: Objective, Key, and Results    
     - OKRs help your organization prioritize the highest impact initiatives.
     - OKRs are a shared language for execution. They clarify expectations: What do we need to get done (and fast), and who’s working on it? They keep employees aligned, vertically and horizontally.
