@@ -145,7 +145,7 @@ Everything is caught up in non-linear web of incentives, constraints and connect
 - [One from Many by Dee Hock](/one-from-many)
 - [Complexity by M. Mitchell Waldrop](/complexity)
 - [Santa Fe Institute](https://www.santafe.edu)
-
+- [What is complexity by Farnam Street](https://fs.blog/what-is-complexity/)
 
 </details>
 <br />
