@@ -7,17 +7,13 @@ path: "/notes/on-product-management"
 ---
 [_Last Revised: 07/10/2023_]
 
-In 2012, I started the journey of building products with a background in finance and accounting. It was a drastic career transition. At that time, I didn't know what *product management* was. I interacted with many developers and designers without understanding their domain language.
+In 2012, I accidentally started the journey of building products with a background in finance and accounting. It was a drastic career transition. At that time, I didn't know what *product management* was, but I was interacting with developers and designers without understanding their domain language.
 
-I have worked both on physical and digital products as a startup founder and as an employee. As an employee, I have worked at a tiny startup with 25 people to a mid-size organization with 3000 people to a large size organization with 30,000 people. Each one of these organizations with various sizes presented its own challenges and opportunities. Learning never stopped because of an organization size.
+I have worked both on physical and digital products as a startup founder and as an employee. As an employee, I have worked at a tiny startup with 25 people to a mid-size organization with 3000 people to a large size organization with 30,000 people. Each one of these organizations with various sizes presented its own challenges and opportunities. Learning never stopped because of an organization size. 
 
-To keep up with various domains, I enrolled in bootcamp schools—business development, coding & product management respectively. This structured and specific learnings helped me grow and communicate appropriately with designers, engineers and stakeholders. Each domain has its own objectives and incentives. Understanding that can help influence balance in decision-making.
+Product Management can be a fulfilling career if you are an intellectual, polymath, enjoy solving hard problems, and like to think critically. It is analytical, creative and collaborative role. I love all 3 aspects about it. I love bringing abstract ideas to life by working with cross-functional teams. The discipline of product management allows me to jump boundaries while solving for complex business and customer problems.
 
-The cumulative experience working within design, engineering, startups, business and product development has given me the confidence of doing product management today and round up my philosophy on how the role of product management should be carried out.
-
-Product Management can be a fulfilling career if you are an intellectual, polymath, enjoy solving hard problems, and like to think critically. It is analytical, creative and requires social skills. I love all 3 aspects about it.
-
-This is my private repository of notes accumulated over time on being a successful product manager. A few quotes below before a deep dive:
+This is my private repository of notes accumulated over time. A few quotes below before a deep dive:
 
 > Customers don't have needs, they just want to make progress within the system they belong. — Alan Klement
 
@@ -49,11 +45,13 @@ This is my private repository of notes accumulated over time on being a successf
 
 ## What is product management?
 
-Before I answer what is product management, let me make it clear, what is not a product management? It is not scrum management and neither project management. Scrum doesn't teach you how to develop just like a product owner course doesn't teach you how to be a product manager.
+Before I answer what is product management, let me be clear, what is not a product management? It is not scrum management and neither project management. Scrum doesn't teach you how to develop just like a product owner course doesn't teach you how to be a product manager.
 
-Product management is an organizational function within a company dealing with new product development, business justification, planning, verification, forecasting, pricing, product launch, and marketing of a product or products at all stages of the product lifecycle. Product lifecycle management is the process of managing the entire lifecycle of a product from inception, through engineering, design, prototyping, manufacturing physical products, scaling software businesses, to service, maintenance and disposal of products or retiring old legacy software.
+Product management is an organizational function within a company dealing with new product development, business justification, planning, verification, forecasting, pricing, product launch, and marketing of a product or products at all stages of the product lifecycle. 
 
-However, every organization does product management differently depending on several factors. If you are a small startup, PM is perhaps led by a CEO or some other executive or even by product development team. Product management is a more structured discipline in mid-to-large organizations. Google is broadly known for their product management discipline.
+Product lifecycle management is the process of managing the entire lifecycle of a product from inception, through engineering, design, prototyping, manufacturing physical products, scaling software businesses, to service, maintenance and disposal of products or retiring old legacy software.
+
+However, every organization does product management differently depending on several factors. If you are a small startup, PM is perhaps led by a CEO or some other executive or even by product development team. Product management is a structured discipline in mid-to-large organizations.
 
 Product management is about setting and driving a product vision for potential or existing users. A set of process or processes drives the product vision. Process defines the framework and discipline to accomplish the product vision. Every organization has a different process, but the following should be a starting point when defining a framework.
 
@@ -65,46 +63,46 @@ Product management is about setting and driving a product vision for potential o
 
 ## Product management model
 
-In an organization with product model, product teams exist to solve hard problems for your customers and for your business, in ways your customers love, yet work for your business. 
+In an organization with product model, product team exist to solve hard problems for their customers and for their business, in ways your customers love, yet work for your business. 
 
 - Value risk: will the customer buy our solution, or choose to use it?
-- Viability risk: will this solution work for our business?  Is it something we can effectively and legally get to market, sell, service, fund, and monetize?
+- Viability risk: will this solution work for our business? Is it something we can effectively and legally get to market, sell, service, fund, and monetize?
 - Usability risk: can the user easily learn, use and perceive the value of the solution?
 - Feasibility risk: do we know how to build and scale this solution, with the staff, time, technology, and data we have?
 
 In a cross-functional product team, these are the critical competencies and what each is responsible and accountable for:
 
 - The Product Manager is responsible for the value and viability risks, and overall accountable for the product’s outcomes.
-- The Product Designer is responsible for the usability risk, and overall accountable for the product’s experience – every interaction our users and customers have with our product.
-- The Product Lead Engineer is responsible for the feasibility risk, and overall accountable for the product’s delivery.
+- The Product Designer is responsible for the usability risk, and overall accountable for the product’s experience – every interaction your users and customers have with your product.
+- The Product Engineer is responsible for the feasibility risk, and overall accountable for the product’s delivery.
 
 Product management can be engineering driven, design driven, business driven or project driven. If none of these focus on users, product management is done incorrectly. Every company has a different philosophy about the product development process and where PMs fit into that process. Below are the three most common types, with pros and cons:
 
 - *PM drives engineering*: where PMs gather requirements, write product requirement document, and hand it off to engineering to spec out the technical requirements. Contemporary organizations may do this process in a more agile and collaborative way, but the expectation is that PMs know best about what customers need and engineering is there to serve.
-    - Pro: engineering can focus on coding without a lot of distraction; this tends to work well for *waterfall* development shops with a long lifecycle.
-    - Con: engineers lose sight of the big picture and do not develop empathy for customers, which can lead to a poor user experience. Often there are unhealthy tensions when technical debt and “plumbing” work needs to be prioritized over customer requirements.
-- Engineering drives product: technically oriented product companies (cloud, big data, networking) tend to be engineering-driven, where engineers are advancing the science in their domain and PMs validate solutions or create front end access points (UIs, APIs) to tap into this new technology. There can be a collaborative relationship and feedback loop between customers, PMs, and engineering, but typically PMs are serving engineering in these companies.
+    - Pro: engineering can focus on coding without a lot of distraction; this tends to work well for *waterfall* development shops with established products.
+    - Con: engineers lose sight of the big picture and do not develop empathy for customers, which can lead to a poor customer experience. Often there are unhealthy tensions when technical debt and “plumbing” work needs to be prioritized over customer requirements.
+- Engineering drives product: technically oriented product companies (cloud, big data, networking) tend to be engineering-driven, where engineers are advancing the science in their domain and PMs validate solutions or create front end access points (UIs, APIs) to tap into new technology. There can be a collaborative relationship and feedback loop between customers, PMs, and engineering, but typically PMs are serving engineering in these companies.
     - Pro: breakthrough technology can offer customers things they didn’t even know they needed. An engineer thought it would be cool to do, a PM figured out how to monetize it, and it became a billion-dollar game changer for the company.
     - Con: engineers chase the shiny new thing, over-architect the solution, or iterate forever, seeking perfection before getting customer feedback. PM input on priorities is ignored, which sometimes includes the most basic needs of customers.
-- PM-engineering partnership: there is a strong yin-yang between PM and engineering, with joint discovery, decision making, and shared accountability. Engineers join PMs in customer interviews, and PMs are in sprint meetings to help unblock tasks or clarify requirements. But the two roles respect the line where one starts and the other stops. PMs understand what’s being coded but don’t tell engineers how to code, and engineers have empathy for customers’ needs but leave the prioritization to the PMs.
+- PM-engineering partnership: there is a strong yin-yang between PM and engineering, with joint discovery, decision-making, and shared accountability. Engineers join PMs in customer interviews, and PMs are in sprint meetings to help unblock tasks or clarify requirements. But the two roles respect the line where one starts and the other stops. PMs understand what is being coded but don’t tell engineers how to code, and engineers have empathy for customers’ needs but leave the prioritization to the PMs.
     - Pro: a streamlined prioritization process that values technical debt and plumbing projects; better design processes leading to a more positive user experience; higher-performing teams with improved product velocity, quality, and, typically, happier customers.
-    - Con: breakthrough innovation may not get greenlit; time-to-market may seem to lag (though I’d argue that what’s released is far better aligned with customer needs and more likely to successfully scale if iterated over time).
+    - Con: breakthrough innovation may not get green lit; time-to-market may seem to lag (though I’d argue that what’s released is far better aligned with customer needs and more likely to successfully scale if iterated over time).
 
-**Startup versus large organization**: Product management at a startup versus a large organization can be very different. The role of a PM at a startup is far more likely to be responsible to wear “all hats,” whereas at a mature company their role will be more distinctly defined.
+**Startup versus large organization**: Product management at a startup versus a large organization can be a very different experience. The role of a PM at a startup is far more likely to be responsible to wear “all hats,” whereas at a mature company their role will be more distinctly defined.
 
 - *Startup*: beyond discovery, definition, and shipping, PMs may also be responsible for pricing, marketing, support, and potentially even sales. These PMs thrive in a scrappy environment and are comfortable with ambiguity and frequent changes to direction as the company works towards product-market fit and learns to operate at scale.
     - Pro: PMs are likely to be more involved with company strategy, get exposure to senior leadership and the board. Ownership pod is fairly large leading to making a bigger impact. They also have more influence and authority over company resources.
     - Con: There’s typically little to no mentorship, role models, or best practices within the company. You may have to seek it externally. Budgets are typically tight, and PMs may not have the requisite experience to succeed at some of the things they’re tasked to do.
-- *Mature organization*: The PM may have a narrower scope and have coworkers who handle pricing, go-to-market strategies, and so on. And they are likely to be of a larger team of PMs.
+- *Mature organization*: The PM may have a narrower scope and have coworkers who handle pricing, go-to-market strategies, and so on. And they are likely to be part of a larger team of PMs.
     - Pro: PMs are more likely to have mentoring and role models, as well as development standards and best practices. Close association with an engineering team can create strong relationships over time, which is great for long-term impact and career growth. And if the product has market fit, there is an established customer base and performance baseline to work from, versus guessing until you get it right.
-    - Con: PMs have less exposure to company strategy and are just one of many voices of the customer. They can get “lost” in the system and have to deal with more politics and tight budgets. User feedback might not align with revenue goals which can make your job seem more like project management as opposed to product management (users are at the heart of product management).
+    - Con: PMs have less exposure to company strategy and are just one of many voices of the customer. They can get “lost” in the system and have to deal with politics, process bottlenecks, competing priorities and tighter budgets. User feedback might not align with revenue goals which can make your job seem more like project management as opposed to product management (users are at the heart of product management).
 
 **Product management goals**: Practicing the discipline of product management without goals is like traveling in an empty universe. Goals define whether the progress is being made or not. In its purest form, a goal is a way to track whether you’re achieving what you set out to do. When setting goals, start with what you’re trying to achieve as a company, team and product. What’s your ultimate mission? A goal should never be an end in itself—the end is achieving your mission. A good goal has the following attributes:
 
 - *Concrete*: it’s clear and unambiguous (something that isn’t subjective).
 - *Simple*: everyone understands what it is and how it’s measured.
 - *Quick feedback loop*: the results of your changes can be seen quickly. Think about how long it takes for a user to reach the milestone you’re tracking, and whether you can expect movement in a reasonable time-frame.
-- *Business-oriented*: it’s easy to see how this goal actually drives the larger business.
+- *Business-oriented*: it’s easy to see how this goal actually drives the larger business need.
 
 ## The role of a product manager
 
@@ -115,44 +113,15 @@ There are many flavors of product management, but being a PM is a job of influen
 - There is no room for an ego. If there is a key player missing, it will make the PM look weak. Resourcing is not a primary job but is a key element to executing on delivering a great product. This is where the previous point comes into play. A strong partnership with others can help fill the in the gaps.
 - PMs are constantly learning and picking up on domain knowledge. Best PMs are autodidacts because they are curious about everything. Sales, marketing, negotiation, design, or tech—they are all equally important to learn.
 - PMs should have strong collaboration mindset. PMs are like point guard playing basketball because they make others look great. A good collaboration between business, design and tech make everyone look great.
-- PMs understand the roadmap. It is important even if you don't own it. Features are prioritized based on the roadmap. PMs turn goals into projects with the help of their teams and entrepreneurial spirit. Too much to do is always a battle. That's the perpetual state of being a PM but the goal is to use a hammer on the highest nail.
+- PMs understand the roadmap. It is important even if you don't own it. Features are prioritized based on the roadmap. PMs turn goals into projects with the help of their teams and entrepreneurial spirit. Too much to do is always a battle. That's the perpetual state of being a PM, but the goal is to use a hammer on the highest nail.
 - Building with user adoption in mind. Beyond shipping new features on a regular cadence and keeping the peace between engineering and the design team, the best PMs create products with strong user adoption that have exponential revenue growth and perhaps even disrupt an industry.
 - PMs should be capable of writing well. Communication is a key and able to communicate with several stakeholders all at once becomes challenging. One way to overcome that challenge is to document for all types of audience. It is a good idea to document something that can be obvious to your audience. Different things mean to different audience. Writing helps bridge that gap. Documentation culture helps scale up the communication to an entire organization.
 - PMs should be resilient. Being resilient is a key to becoming a successful PM because if you are doing something hard, there will always be failures. Resiliency is hard to find in a resume. Great PMs are people who have overcome adversity in their life. Emotional intelligence goes a long way if there is a product execution or a life failure. From failure, everyone learns.
 - Your management expects you to have a good enough sense of your team’s capacity and velocity that you can make the call on the spot.
 
-According to Marty Cagan, it is critical for PMs to have access to 3 things for them to be successful: 
-- The first is that that product manager needs unencumbered access to their users and customers.
-- Second, product manager needs unencumbered access to the engineers. 
-- And the third is unencumbered access to the stakeholders.
-
-Brian Armstrong has excellent advice on what it takes to be a successful PM:
+Brian Armstrong has an excellent advice on what it takes to be a successful PM:
 
 > My goal is to set you up for success as a new product manager. First, you’re going to have to dedicate yourself to the art of product management. It is one of those things, like people management, that seems simple, but can take many years to really master. The only way to learn it is to actually do it. That being said, reading about it and learning from others does help. One suggestion would be to speak with 2–3 product managers (here or at other companies) to get their view. Become a knowledge sponge. Copy others before you try to find your own voice and do something unique (that can come after you’ve achieved mastery). The main parts of the job in my view are: 1) Understand the customer deeply — this means user studies, you have to go talk to the users every week and spend a lot of time with them to hear their pain, get inside their head. 2) Be metrics driven, you should be using time series data to give you insight into what people are doing with the product and see if the changes you are making are improving things. If you haven’t instrumented the app and chosen a metric you want to improve, you are just guessing. 3) The product manager is responsible for prioritizing the product roadmap and communicating it to the team. Not as a top-down dictator, but as a consensus builder amongst all the stakeholders, breaking a tie when necessary. 4) You need to be a communication hub, both when building consensus internally on priorities/roadmap, but also externally communicating changes to customers. Users need to see that the product is continually improving by hearing about it from you. Everyone internally needs to be on the same page when changes roll out. You are the point of contact for all things related to this product. 5) Once you master all of that, you will need to develop product vision (conviction about where things are going in the future, make the hard calls about what to eliminate, etc) and strive to make something truly great. You can think about it not just as eliminating customer pain, but actually creating customer delight. In rare instances, you can wind up creating something that people actually love. (very few products attain this — nobody says they love Tide detergent, but people do say they love their Harley Davidson). On a practical note, you are responsible for the following tasks on the team: running product review, maintaining/updating the product roadmap, and doing sprint planning.
-
-## Core responsibilities of a product manager
-
-PMs are always learning, but they should keep up with core competencies. The following core competencies are the baseline for any PM, and the best PMs hone in on these skills over the years. The following core competencies are reflected in shipping the great products.
-
-- Conduct customer interviews and user testing
-- Run team wide including design and engineering sprints
-- Road map planning
-- Feature prioritization
-- The art of resource allocation
-- The art of managing conflicts
-- Perform market assessments and conducting competitive analysis
-- Assess market trends to explore innovative features
-- Translate business-to-technical requirements, and vice versa
-- Pricing and revenue modeling
-- Community (internal or/and external) engagement
-- Gauge prospects and beta users to adopt a new feature or a product
-- Act as a liaison with cross-functional business units
-- Document stories, epics, technical requirements, user workflows
-- Support training and conduct demos for cross-functional teams
-- Define and track adoption metrics
-- Collect and prioritize user feedback
-
-## Core competencies of a product manager
 
 Ian McAllister (former Amazon executive) response on Quora on how to become a top 1% — “The top 10% of product managers excel at a few of these things. The top 1% excel at most or all of them:
 
@@ -164,9 +133,6 @@ Ian McAllister (former Amazon executive) response on Quora on how to become a to
 - *Understand technical trade-offs*: A 1% PM does not need to have a CS degree. They do need to be able to roughly understand the technical complexity of the features they put on the backlog, without any costing input from devs. They should partner with devs to make the right technical trade-offs (i.e. compromise).
 - *Understand good design*: A 1% PM doesn't have to be a designer, but they should appreciate great design and be able to distinguish it from good design. They should also be able to articulate the difference to their design counterparts, or at least articulate directions to pursue to go from good to great.
 - *Write effective copy*: A 1% PM should be able to write concise copy that gets the job done. They should understand that each additional word they write dilutes the value of the previous ones. They should spend time and energy trying to find the perfect words for key copy (button labels, nav, calls-to-action, etc.), not just words that will suffice.”
-
-And more...
-
 - *Story-tellers:* the best PMs are able to weave tales that incorporate market needs, strategy, and tactics into a story that their stakeholders can get their heads around and hopefully adopt the story themselves. It can be challenging when you see something clearly, but you can’t get others around you to see it. You work through other people's eyes, so it takes a lot of convincing. You have to be a great communicator and storyteller. You have to read your audience. You have to try harder to understand others and find an angle to explain that makes sense to them. People you work with are smart, they just need a great story to be convinced.
 - *Learning by doing:* to master the art of product management requires several years of practice and doing. Natural talents won't be enough. Ultimately, the best thing you can do to prepare for a career in product management is to build. Manage and “own” a project from inception through execution and operation. Create KPIs to measure your impact.
 - *3 Ps:* analyze the 3 Ps—people, process and product, to assess on the quality of people, the best process to deliver the product, and excellence and relevance of a product. Keep in mind to not implement process for the sake of process. Relevance is a key to establish the right process.
@@ -178,6 +144,33 @@ And more...
 - *Social awareness:* PMs must understand customer's emotions and concerns about their product as much as they understand the concerns of the sales team on how to sell that product, or the support team on how to support it, or the engineering team on how to build it. PMs need deep understanding of how the organization operates and must build social capital to influence the success of their product, from obtaining budget and staffing to securing a top engineer to work on their product. Finally, social awareness ensures the best PMs service their customers with a product that addresses their jobs to be done, which is ultimately what drives product-market fit.
 - *Confirmation bias:* PMs must be self-aware of their own confirmation biases to avoid projecting their own preferences onto users of their products. PMs should stay objective in despite of features they love which addresses their own pain points. The lack of self-awareness in any sort of biases could derail more important priorities or damage the PM’s relationship with engineers, who may lose confidence in their PM when a feature isn’t adopted by users.
 - *Self-management:* being a PM can be incredibly stressful. The CEO wants one thing, the engineering team another, and customers have their own opinions about feature priorities. Managing tight deadlines, revenue targets, market demands, prioritization conflicts, and resource constraints all at once is not for the faint of heart. If a PM cannot maintain their emotions and keep it cool under pressure, they can quickly lose the confidence of all their constituents. The best PMs know how to push hard on the right priorities, with urgency but without conveying a sense of panic or stress. A PM should know when to take a breath and step away to regroup.
+
+Lastly, according to Marty Cagan, it is critical for PMs to have access to 3 things for them to be successful: 
+- The first is that that product manager needs unencumbered access to their users and customers.
+- Second, product manager needs unencumbered access to the engineers. 
+- And the third is unencumbered access to the stakeholders.
+
+## Core responsibilities of a product manager
+
+PMs are always learning, but they should keep up with core competencies. The following core competencies are the baseline for any PM, and the best PMs hone in on these skills over the years. The following core competencies are reflected in shipping the great products.
+
+- Conduct customer interviews and user testing
+- Run team wide including design and engineering sprints
+- Roadmap planning
+- Feature prioritization
+- The art of resource allocation
+- The art of managing conflicts
+- Perform market assessments and conduct competitive analysis
+- Assess market trends to explore innovative features
+- Translate business-to-technical requirements, and vice versa
+- Pricing and revenue modeling
+- Community (internal or/and external) engagement
+- Gauge prospects and beta users to adopt a new feature or a product
+- Act as a liaison with cross-functional business units
+- Document stories, epics, technical requirements, user workflows
+- Support training and conduct demos for cross-functional teams
+- Define and track adoption metrics
+- Collect and prioritize user feedback
 
 ## What should a PM do on Day 1?
 
@@ -295,7 +288,7 @@ How can you ensure your users are making progress? If you are not using data on 
 - **Celebrating small and big wins to create product culture**:
     - Celebrate if a feature optimization helps your product become faster. Celebrate if a feature optimization helps save a penny for your customer. Celebrate all small wins.
 
-## Topics from personal experiences
+## Topics interacted with during my PM roles
 
 - **Product Intuition**: Excellent product managers have great product sense. Below are the tips to getting there. The more you practice them, the better you will build product intuition while helping you make high conviction decisions. Your management expects you to have a good enough sense of your team’s capacity and velocity that you can make the call on the spot. If you don’t, you’ll immediately lose the respect of the other stakeholders in the room. Build this muscle soon before you ask for trouble, and you’ll grow an intuition around sizing and difficulty.
     - Use your product like a real customer.
@@ -352,11 +345,11 @@ How can you ensure your users are making progress? If you are not using data on 
     - Capabilities: How functionalities can be grouped. This layer can interact with several data stores.
     - Experiences: How it gets integrated with capabilities to drive different platforms such as native applications vs web applications. It can interact with more than one capability to drive client experience. Having this layer helps reduce rebuilding of redundant functionalities and logic for various operating systems.
 
-- **Domain Model**: The basic idea is that the Domain is the problem domain, and the model is well the model of the problem. It is a system of abstraction. So for example imagine an e-commerce store. For that store you want to build a brand new Point Of Sale system (POS system). A POS system is a computerized application used to record sale and handle payments. So you focus on the domain of the POS system. Now you will conceptualize the objects that will be used for this system. So you will get objects like—Payment Vendor, Customer, Sale, Payment, Register, Item etc. In a domain model you model these objects and draw associations between them so that you have an high level idea how this system will work and how they will interact with each other.
+- **Domain Model**: The basic idea is that the Domain is the problem domain, and the model is well the model of the problem. It is a system of abstraction. So for example imagine an e-commerce store. For that store you want to build a brand new Point Of Sale system (POS system). A POS system is a computerized application used to record sale and handle payments. So you focus on the domain of the POS system. Now you will conceptualize the objects that will be used for this system. So you will get objects like—Payment Vendor, Customer, Sale, Payment, Register, Item etc. In a domain model you model these objects and draw associations between them so that you have a high level idea how this system will work and how they will interact with each other.
     - The domain model is your organized and structured knowledge of the problem. 
     - It is a visual representation of real situation objects in a domain. The term domain model does not mean a set of diagrams describing software classes.
     - Domain model can be represented by a diagram, code example or written documentation of the problem. 
-    - The important thing is that the domain model should be accessible and understandable by everyone who is involved with the project. One of the downfalls of many software development projects is the misunderstanding of terms, objectives and proposed solutions that are scoped at the beginning of development. 
+    - The important thing is that the domain model should be accessible and understandable by everyone who is involved with the project. One of the downfalls of software development projects is the misunderstanding of terms, objectives and proposed solutions that are scoped at the beginning of development. 
     - In software, a domain model is a conceptual model of the domain that incorporates both behavior and data.
     - This is critical for PMs to pay attention to because they are responsible for driving requirements. And requirements cannot be defined without understanding the core behavior and data of a domain. There are plenty of what ifs and buts for PM to help answer.
     - A domain model is generally implemented as an object model within a layer that uses a lower-level layer for persistence and publishes an API to a higher-level layer to gain access to the data and behavior of the model. An object model consists of the following important features—object reference, interface (API or UI), actions and exception handling to account for various errors and warnings. 
@@ -445,7 +438,7 @@ How can you ensure your users are making progress? If you are not using data on 
 - **Application Programming Interface (API)**: APIs are mechanisms that enable two software components to communicate with each other using a set of definitions and protocols. For example, Morningstar's software system contains daily stock market data. The stock market app on your phone “talks” to this system via APIs and shows you daily stock prices on your phone. People interact with software through Graphical User Interfaces (GUIs) while software interacts with another software through APIs.
     - APIs are developer friendly. APIs can serve as [Placeholder]-As-A-Service. The placeholder can be wealth management, inventory management or ride-sharing. Simply by writing a few lines of code, platforms can let their customers set up any services. APIs abstract away code and business complexity. I can use ACH services through API without writing code or understanding how ACH works. APIs can be internal or external facing.
     - APIs consist of functions, contracts, business logic which helps scale for adoption. Businesses today can use APIs from other software providers without having to invest their own resources to build out capabilities. If I am in the business of stock data, I do not need to build a payment gateway. I can use Stripe's API to build my business.
-    - Business model for API is pay-as-you-go. Everytime an API is consumed, you get charged. API first companies have deep moats because they are highly specialized, but can also pose risk if a bigger company enters the market.
+    - Business model for API is pay-as-you-go. Every time an API is consumed, you get charged. API first companies have deep moats because they are highly specialized, but can also pose risk if a bigger company enters the market.
     - Components are derivatives of APIs. They are reusable objects based on API specification.
     - API architecture is usually explained in terms of client and server. The application sending the request is called the client, and the application sending the response is called the server.
     - There are different kinds of APIs: SOAP APIs, REST APIs and Websocket APIs.
