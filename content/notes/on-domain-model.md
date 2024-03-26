@@ -1,7 +1,7 @@
 ---
 title: "On Domain Model"
 tags: ["general"]
-date: "2024-03-25"
+date: "2024-03-26"
 draft: false
 path: "/notes/on-domain-model"
 ---
@@ -40,18 +40,23 @@ The domain model has the following elements:
 2. **Values**: A property value wrapped in a class 
 3. **Aggregates**: A group of related Entities
 
-These elements represent the domain (business logic) in which the problem is solved. In a domain model, you model objects and draw associations between them so that you have high level idea on how the system will work and how they will interact with each other. 
+These elements represent the domain (business logic) in which the problem is solved. In a domain model, you model objects and draw associations between them so that you have high level idea on how the system will work and how they will interact with each other.
 
-Imagine an e-commerce store. For that store, you want to build billing system. You should ask yourself, what are all the components of a billing system? Billing, invoice and customer accounts are a few components of a billing system. Each one of those has contact (domain object) and address (value). Each one of these components interact with another by association and rules. (REMINDER: I will later expand on this example in depth.)
+Let's take a look at an example. Imagine you are building a research product and an analyst is searching for a company to invest in $10 million. This analyst is looking for insights on a research platform to conduct the due-diligence. As you build a research product for this analyst, you want to consider the following:
 
-To summarize, why domain models are critical for product management: 
+- Who is your target customer? And who are your customer types? It could be an investor. Investor can be broken down into a retail investor, institutional investor or a venture investor. There can of course be different type of customers—investor, analyst, media analyst, etc., but we'll focus on the analyst for this example.
+- What is the job to be done and workflows? A venture investor wants to learn about new technologies. A retail investor wants to learn about the balance sheet health of a company. An institutional investor wants to find the best in class company within energy sector for its pension portfolio.
+- What are the domains (entities) they interact with? There are several—companies, industries, sectors, topics, competitors, events, SEC filings and expert interviews.
+- What is the relationship between these domains? How do they behave with each other? Is it a one-on-one or many relationships? Is there an overlap between multiple domains? Investor might want to learn about an industry landscape and how the players stack against each other to compete against one another.
+
+Thinking through a customer's point-of-view to design a solution can be highly effective for the entire team. To summarize why domain models are critical for product managers:
 
 - The domain model is a representation of real-world concepts including the data involved in the business and rules the business uses in relation to that data. The domain model is organized and structured knowledge of the problem. 
 - Every system (or product) has people, things, and relationships between things and people along with workflows.
 - Domain model is a conceptual schema or a map of concepts and their relationships.
 - Domain models are richer than simple data models as they capture the behavior and domain logic. 
 - It is a visual representation of situation objects in a domain. The term domain model does not mean a set of diagrams describing software classes. Domain model can be represented by a diagram, code example or written documentation of the problem.
-- The important thing is that the domain model should be accessible and understandable by everyone who is involved with the project. One of the downfalls of many software development projects is the misunderstanding of terms, objectives and proposed solutions that are scoped at the beginning of development.
+- The important thing is that the domain model should be accessible and understandable by everyone who is involved with the project. One of the downfalls of software development projects is the misunderstanding of terms, objectives and proposed solutions that are scoped at the beginning of development.
 - In software, a domain model is a conceptual model of the domain that incorporates both behavior and data. This is critical for PMs to pay attention to because they are responsible for driving requirements. And requirements cannot be defined without understanding the core behavior and data of a domain. There are plenty of what ifs and buts for PM to help answer.
 - A domain model is implemented as an object model within a layer that uses a lower-level layer for persistence and publishes an API to a higher-level layer to gain access to the data and behavior of the model. An object model consists of the following important features—object reference, interface (API or UI), actions and exception handling to account for various errors and warnings.
 
