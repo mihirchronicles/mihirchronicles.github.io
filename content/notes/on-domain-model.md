@@ -14,7 +14,7 @@ A **feature gap** is a gap in the system due to a miss during initial design.
 
 Who is to be blamed for this—business, engineering or design? It depends!
 
-Based on the two statements above, if it is a _bug_ engineering came short on executing requirements, and if it is a feature gap, both engineering and design didn't get enough requirements from product. But product does not control reality as business dynamics are always changing. 
+Based on the two statements above, if it is a _bug_, engineering came short on executing requirements. If it is a feature gap, both engineering and design didn't get enough requirements from product. Product didn't think through the requirements. Lastly, neither product nor engineering control reality as business dynamics are always changing. This would require enhancing feature based on new rules.
 
 In software development, incorrect relationships determines the amount of complexity. Features collapse under the weight of its own complexity. Context is everything. Domain driven design can avoid much of this trouble to ensure context is captured before any line of code is written.
 
