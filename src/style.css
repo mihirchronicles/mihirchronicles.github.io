@@ -3,7 +3,7 @@
 html { font-family: 'Inter', sans-serif; }
 @supports (font-variation-settings: normal) {
   html { 
-    font-family: InterVariable, 'Futura', sans-serif; 
+    font-family: InterVariable, sans-serif; 
     font-feature-settings: 'liga' 1, 'calt' 1; /* fix for Chrome */
   }
 }
@@ -37,10 +37,10 @@ html { font-family: 'Inter', sans-serif; }
   --spacing-20: 5rem;
   --spacing-24: 6rem;
   --spacing-32: 8rem;
-  --fontFamily-sans: 'Inter var';
-  --fontFamily-serif: 'Futura', Verdana, Helvetica;
+  --fontFamily-sans: "Inter var", 'Futura', Verdana, Helvetica;
+  --fontFamily-serif: "Inter var", 'Futura', Verdana, Helvetica;
+  --font-body: var(--fontFamily-serif);
   --font-heading: var(--fontFamily-sans);
-  --font-body: var(--fontFamily-sans);
   --fontWeight-normal: 400;
   --fontWeight-semi-normal: 500;
   --fontWeight-bold: 700;
