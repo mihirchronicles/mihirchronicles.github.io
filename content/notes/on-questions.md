@@ -29,7 +29,7 @@ The purpose of this deep dive is to explore open-ended questions for better conv
 
 What is the purpose of asking high quality questions? A quality question “reframes” the knowledge allowing to build further conviction or “refactors” an existing belief. It allows you to think about the current information and finding the gaps which triggers further questions. Most questions would never change your existing mental models or body of knowledge, but great quality questions will allow you to question your current beliefs which then allows you to adapt your beliefs over time.
 
-If you are reading a murder novel, asking “who was the murderer?” is a less fruitful question than “why did the dogs in the house didn't bark?” The second question is a good indicator of a curious mind. The first question alone is less directional towards the answer. A good question cuts to the heard of anomaly, the answer to which would crack the larger problem open.
+If you are reading a murder novel, asking “who was the murderer?” is a less fruitful question than “why did the dogs in the house didn't bark?” The second question is a good indicator of a curious mind. The first question alone is less directional towards the answer. A good question cuts to the heart of anomaly, the answer to which would crack the larger problem open.
 
 ## Socratic method
 
