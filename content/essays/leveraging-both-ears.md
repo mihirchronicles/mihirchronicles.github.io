@@ -1,9 +1,9 @@
 ---
-title: "Leverage Both Ears "
+title: "Leveraging Both Ears "
 tags: ["general"]
 date: "2024-04-28"
 draft: false
-path: "/essays/leverage-both-ears"
+path: "/essays/leveraging-both-ears"
 ---
 
 You are having a conversation with someone and next thing you know is you divert your attention to something else. Then you pull yourself back in and try to chime in while you missed a part of conversation.
