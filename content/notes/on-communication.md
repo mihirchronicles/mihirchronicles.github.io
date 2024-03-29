@@ -1,7 +1,7 @@
 ---
 title: "On Communication"
 tags: ["general"]
-date: "2024-05-29"
+date: "2024-02-29"
 draft: false
 path: "/notes/on-communincation"
 ---
