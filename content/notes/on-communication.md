@@ -21,7 +21,8 @@ Communication is an attitude of openness towards the other. It is an art that dr
 - What you call or label something matters. Using different taxonomy in different groups is poison because there is no shared understanding.
 - Facial expression and body language are part of communication.
 - Communication is logical and so is emotional. 
-- Good communication requires empathy. 
+- Be direct, succinct and kind in your message. People don’t have the energy, time, or desire to try to read smoke signals to figure out what you want them to say or do.
+- Good communication requires empathy.
 - Be authentic and have fun. No one wants to hear a robot speak.
 - Don't be a victim when someone shares their perspective in a conversation.
 - Don't be passive-aggressive towards a person that is genuinely sharing his/her perspective.
