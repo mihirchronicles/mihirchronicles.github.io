@@ -16,6 +16,12 @@ Communication is an attitude of openness towards the other. It is an art that dr
 - Communication implies responsibility—on the part of the listener and on the part of the speaker. This is effective communication.
 - Listening is key for both the listener and speaker. Listen without interrupting. Leverage both ears.
 - We communicate to share ideas or influence others.
+- Repetition is a key while influencing others around you. 
+    - Here's what I think
+    - Here's why
+    - Here's an example
+    - Remind everyone again what the point you are making
+- Strive for connection over perfection by daring to be dull. Answer the question. Give the feedback requested.
 - Communicate the big elephant in the room without blaming someone.
 - Speak from facts. State when your opinions are your opinions. Leave nothing to chance or assumptions.
 - What you call or label something matters. Using different taxonomy in different groups is poison because there is no shared understanding.
@@ -24,6 +30,8 @@ Communication is an attitude of openness towards the other. It is an art that dr
 - Be direct, succinct and kind in your message. People don’t have the energy, time, or desire to try to read smoke signals to figure out what you want them to say or do.
 - Good communication requires empathy.
 - Be authentic and have fun. No one wants to hear a robot speak.
+    - Drop the "good/great" question.
+    - Drop the "does that make sense?" after answering your question.
 - Don't be a victim when someone shares their perspective in a conversation.
 - Don't be passive-aggressive towards a person that is genuinely sharing his/her perspective.
 - Disagreements are welcomed. Respect is maintained during these disagreements.
@@ -52,3 +60,19 @@ Meetings aren't work. This social aspect of work is required for complex decisio
 - As a chairperson, it is your responsibility to be a timekeeper and keep the discussion moving. 
 - Be cautious of tabling items if a decision needs to be reached. It is okay to table items if further insight or people are needed to make a decision. However, it is a responsibility of a decision maker to make decisions if there are varying opinions on how to get something done. Coming together and not making any decision in spite of all information being available is costly.
 - Once the meeting is over, the chairperson is responsible to send out notes on what was discussed and the outcomes for each one of the agenda items. Ensure each outcome is timestamped and accessible for everyone on the team, so the team can go back and visit. This should be done within a reasonable time.
+
+## Further reading
+<details>
+    <summary><strong>References</strong></summary>
+    <br>
+
+- [How to Win Friends and Influence People by Dale Carnegie](/how-to-win-friends-and-influence-people/)
+- [Connect | Building Exceptional Relationships With Family, Friends, and Colleagues by Carole Robin Ph.D.](/connect/)
+- [Matt Abrahams, A Renowned Communication Expert from Stanford University](https://mattabrahams.com/)
+- [Lenny's Podcast Episode with Matt Abrahams](https://www.lennyspodcast.com/how-to-speak-more-confidently-and-persuasively-matt-abrahams-professor-podcast-host-author-spe/)
+- [Toastmasters Club](https://www.toastmasters.org)
+- [37 Signals on Communication](https://37signals.com/how-we-communicate)
+- [The Endgames of Bad Faith Communication](https://consilienceproject.org/the-endgames-of-bad-faith-communication/)
+
+</details>
+<br />
