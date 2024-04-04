@@ -23,12 +23,12 @@ const WorkIndex = ({ data, location }) => {
       <p><strong>Story</strong>: Worked on Schwab Intelligent Portfolio—a robo advisor platform for automated investing—to re-modernize user experience and re-platform capabilities around risk profiling and portfolio recommendation.</p>
       <p><strong>Website</strong>: <a href="https://intelligent.schwab.com">Schwab Intelligent Portfolios</a></p>
 
-      <h2>Big Imposter</h2>
+      <h2>Big Imposter Comic Book</h2>
       <div>
         <StaticImage src="../images/big_imposter.png" alt="big_imposter" className="gallery-image" />
       </div>
       <p><strong>[2023 - Current]</strong></p>
-      <p><strong>Story</strong>: An attempt to author a book that talks about overcoming the imposter syndrome. The storyline is work-in-progress.</p>
+      <p><strong>Story</strong>: An attempt to author a comic book on imposter syndrome. Project in development.</p>
 
       <h2>Wise Charlie</h2>
       <div>
