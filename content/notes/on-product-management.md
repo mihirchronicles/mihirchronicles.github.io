@@ -288,7 +288,7 @@ How can you ensure your users are making progress? If you are not using data on 
 - **Celebrating small and big wins to create product culture**:
     - Celebrate if a feature optimization helps your product become faster. Celebrate if a feature optimization helps save a penny for your customer. Celebrate all small wins.
 
-## Topics interacted with during my PM roles
+## Major subtopics of product management
 
 - **Product Intuition**: Excellent product managers have great product sense. Below are the tips to getting there. The more you practice them, the better you will build product intuition while helping you make high conviction decisions. Your management expects you to have a good enough sense of your team’s capacity and velocity that you can make the call on the spot. If you don’t, you’ll immediately lose the respect of the other stakeholders in the room. Build this muscle soon before you ask for trouble, and you’ll grow an intuition around sizing and difficulty.
     - Use your product like a real customer.
@@ -370,13 +370,6 @@ How can you ensure your users are making progress? If you are not using data on 
         - Plot a dominant industry line.
         - Create your blue ocean offer by asking what competing factors can we eliminate, decrease, raise, and introduce.
 
-- **Porter's Five Forces**: It is not a boring business exercise. It helped the founders of Warby Parker create a company worth over $1B. Their analysis showed that the eyewear industry is dominated by a single player, Luxottica, which kept prices of prescription glasses artificially high. A pair was priced at around $300 even though it cost only $10-$20 to produce. The best framework for industry analysis is Porter’s Five Forces. It evaluates five competitive forces, which influence industry attractiveness. The basic idea is that your product or company is not competing just with direct competitors but with everyone in the ecosystem, including customers, suppliers, substitutes, and new entrants. For example, you might have very few competitors but you still can’t make any profit because your suppliers have more negotiating power and so they capture most of the profits. Overview of Porter’s Five Forces: 
-    - Threat of new entrants: How hard is it to enter an industry? 
-    - Bargaining power of buyers: How easily can buyers drive our prices down? How well can they negotiate? 
-    - Threat of substitutes: How else can customers satisfy the same need? 
-    - Bargaining power of suppliers: how easily can suppliers drive their prices up? How well can they negotiate? 
-    - Rivalry amongst existing competitors: How many competitors are in an industry? How strong are they?
-
 - **Competitor Analysis**: Understanding competitors’ strategy, business model, and future plans help us design better products and experiences. We can anticipate how competitors will react to our innovations, and how we can differentiate better (create unique value for our users).
     - The first step of competitor analysis is identifying competitors.
     - Divide the competition into direct and indirect competitors. Direct competitors are companies that offer the same product (or service) and indirect competitors offer a different product that solves the same problem. For example, Uber’s direct competitors are taxi companies and Lyft. The indirect competitors are bike sharing services, public transport, car sharing services, and walking on foot. 
@@ -384,37 +377,6 @@ How can you ensure your users are making progress? If you are not using data on 
         - Business data: revenue, market share, etc.
         - Product data: product portfolio, features, etc.
         - Customers data: target group, reviews, etc.
-
-- **Jobs-To-Be-Done (JTBD)**: A theory of innovation that is based on the economic principle that people buy products and services to get “jobs” done, i.e., to help them accomplish tasks, achieve goals and objectives, resolve and avoid problems, and to make progress in their lives. In order to succeed in implementing this framework, work to gain a deep understanding of those jobs, and then create offerings that will help customers get their jobs done significantly better and/or more cheaply.
-    - The whole premise of JTBD is that people hire products, they don't buy them, they hire them to make progress in their life.
-    - The primary cause of failed products and services is a misalignment with customer needs. Using the JTBD framework product teams can deeply understand the jobs its customers are trying to get done and the metrics they use to measure success. It can help determine which needs are unmet or discover segments of customers with unique sets of unmet needs.
-    - Context makes the irrational rational. For example, think of Snickers and Milky Way.
-        - “They're both candy bars, they're both bought in the checkout aisle, they're both made almost with the same ingredients, one has peanuts, one doesn't. And if you start to compare the products and do a competitive benchmark, you start to get to one's a little softer, one's a little harder, one's got a few more calories, one's got less calories. But when you talk to people about when's the last time they ate a Snickers, when time's the last time they ate a Milky Way, you start to realize that Snickers typically is a case where they missed the last meal, they've got a lot of work to do, they're running out of energy and they want to basically get back to the tasks as fast as possible. And so you start to realize that Snickers is about almost like a meal replacement and it's about the stomach is growling and things like that. And you start to realize that if they didn't have a Snickers, it competes with a protein drink, it competes with a Red Bull, a coffee. But a Milky Way typically is eaten after an emotional experience, could be positive, could be negative. It's usually eaten alone, and it's taking time to regroup after this emotional thing. And you start to realize that it competes with things like a glass of wine, a brownie, and to be honest, a run. And so when you start to realize that, jobs helps you see the true competitive set from what we call the demand side of the world as opposed to the competitive set from the supply side of the world, which is the technology or the underlying business model by how which we're making it. And so it allows you to actually see what customers really want as opposed to trying to figure out, how do we sell things to people?” — Bob Moesta
-        - “One of the lies I was told growing up was build it and they will come.” — Bob Moesta
-        - “Stop trying to sell people and just help them make progress, help them buy.” — Bob Moesta
-        - “There's the difference between what they say they want and what they want.” — Bob Moesta
-        - “I use the framework of pushes, pulls, anxieties and habits and say, "What caused them to do this?"” — Bob Moesta
-        - “I never trust anybody telling me things they're going to do because they can't assure it, and it usually never happens.  Just because people bitch about something doesn't mean they're going to do anything about it....So for example, in the first five minutes of an interview, they're going to tell you, "I bought a new car because I got a deal on it and it was a car I've been dreaming about forever," and it's like they have all these things and then when you start to get to, it's like, no, the old car had 280,000 miles on it....The fact is it's making a sound and you've got a long trip coming up, that's why you're getting a car. You're not getting the car because of the deal. And so there's these, I call it the layers of language.” — Bob Moesta
-    - The value of value depends on where a client starting from and where they want to go. The value of an outcome is much more if you are starting all the way at the bottom as opposed to closer to the top.
-    - There are 3 levels of dimension of information/energy that needs to be retrieved from a job executor (customer/client/user):
-        - Functional Energy: The core part of their jobs that requires time, space, effort or knowledge. 
-        - Emotional Energy: The emotional aspect of which is how I feel, I want to feel better, I feel frustrated, or I feel overlooked.
-        - Social Energy: The social aspect of how I want others to perceive me or how others perceive me.
-    - Understand the causation behind the client's job and then use design thinking to craft client enablement for people to make progress.
-    - Most people say, "If I just add more features, create more pull, people will buy." It's not true. More features create anxiety. Reduce friction and create make it easier for people to make progress.
-    - “People don’t want to buy a quarter-inch drill. They want a quarter-inch hole!” — Theodore Levitt 
-    - “People buy products and services to get a job done”. — Clayton Christensen
-    - “One of the biggest misconceptions around Jobs to Be Done is this notion that it's pain and gain as opposed to context and outcome.” — Bob Moesta, Co-creator of the Jobs To Be Done (JTBD)
-
-- **Now-Next-Later**: This is one of the best frameworks for roadmapping and planning. It accounts for simplicity (KISS-keep it simple), flexibility and easier to follow. Roadmaps often face disruption for some unforeseen reason. The Now-Next-Later roadmap is a product management tool that organizes work into three-time horizons, from immediate to long term, starting with the most urgent problems to solve. This roadmap format conveys the overall product vision, as each element of work is tied back to a business objective.
-- Now-Next-Later framework:
-    - The Now column contains the initiatives that you are working on, well, now. Requirements are clear.
-    - The Next column is what will happen once everything in the Now column is complete. Requirements are less refined.
-    - The Later column is everything else you’ve proposed doing, but it won’t happen until sometime in the undefined future. Requirements are hazy.
-- Ask the following to categorize your feature set or solutions:
-    - Is the problem large?
-    - Is the problem urgent?
-    - Is the problem valuable?
 
 - **Application Programming Interface (API)**: APIs are mechanisms that enable two software components to communicate with each other using a set of definitions and protocols. For example, Morningstar's software system contains daily stock market data. The stock market app on your phone “talks” to this system via APIs and shows you daily stock prices on your phone. People interact with software through Graphical User Interfaces (GUIs) while software interacts with another software through APIs.
     - APIs are developer friendly. APIs can serve as [Placeholder]-As-A-Service. The placeholder can be wealth management, inventory management or ride-sharing. Simply by writing a few lines of code, platforms can let their customers set up any services. APIs abstract away code and business complexity. I can use ACH services through API without writing code or understanding how ACH works. APIs can be internal or external facing.
@@ -435,20 +397,6 @@ How can you ensure your users are making progress? If you are not using data on 
             - A response along with the returned data also contains a status code, which signifies if the API request was fulfilled or not.
     - It is critical to know the ins and outs of a contract. You don't set your house on fire to test your smoke alarm. You test the contract. This ensures your applications will work together. The contract is between a consumer and a provider.
     - GraphQL is a query language that was developed specifically for APIs. It prioritizes giving clients exactly the data they request and no more. It is designed to make APIs fast, flexible, and developer-friendly. As an alternative to REST, GraphQL gives front-end developers the ability to query multiple databases, microservices, and APIs with a single GraphQL endpoint. Organizations choose to build APIs with GraphQL because it helps them develop applications faster.
-
-- **Wardley Maps**: They provide situational awareness and shared assumptions about a context necessary for building a sound strategy. It is a representation of the landscape in which a business operates.
-    - Simon Wardley, the technique’s inventor, describes strategy using Sun Tzu’s Five Factors:
-        - Purpose: A wise leader has a purpose (a what and a why). This is the force that compels you to do what you do and make what you make. It’s the higher reason for doing your work, often called your moral imperative.
-        - Landscape: A wise leader grasps the terrain because every organization operates within a landscape that represents the context for its decisions (leader has a map). This is the context: a mapping of the competitive environment in which you operate.
-        - Climate: A wise leader anticipates the patterns of the forces acting on the environment. There are always external forces manipulating the environment. In the same way that you don’t control the weather, you don’t control external forces like trends and the economy. But you can be aware of the climate and learn how best to prepare for it.
-        - Doctrine: A wise leader trains the organization in universally useful principles. Just as a religion has a core set of beliefs, your company will have a certain set of principles that will be applied to any situation.
-        - Leadership: A wise leader makes shrewd decisions that lead to victory. This is the strategy that you’ll determine after you consider your purpose, landscape, and climate.
-    - It consists of a value chain (activities needed to fulfill user needs) graphed against evolution (how individual activities change over time under supply and demand competition).
-    - In Wardley Maps, the y-axis (vertical) represents visibility to the user. Like a traditional value chain, the higher the component, the more the user can see it. For example, a web page might be at the top, while a database or a server might be near the bottom. The x-axis (horizontal) contains the four stages of evolution:
-        - I. Genesis: The object is rare, poorly understood, and uncertain. There is the potential to have high future worth. The object is described with wonder, and it’s different from anything else in the market in this context. It should be a competitive advantage and experimentation is rife. 
-        - II. Custom Built: More people are starting to consume and understand the object. The market is forming, and there is potential ROI. As understanding increases, users start to find its value, but inconsistently. The key focus is learning.
-        - III. Product Rental: Consumption is rapidly increasing as the market grows. The object is profitable, new features can differentiate it, and there is a refinement of needs. Things are starting to get competitive, and the profit margins mean it’s a crowded market.
-        - IV. Commodity/Utility: The object is widespread and stabilizing. It’s a mature and ordered market. The high volume has decreased margins. Operational efficiency is king, and failure is not tolerated in the market. This is the cost of doing business (like oil & gas).
 
 - **Analytical skills**: Being analytical isn’t only about numbers. It is about developing healthy skepticism and curiosity, validating your hypothesis (and having a hypothesis in the first place) and vetting with multiple data points to get closer to the truth. It gives you a competitive edge, and you will learn to make informed decisions.
     - Retrieve: First, you need to learn how to get data. SQL is most common in work places.
@@ -500,10 +448,6 @@ How can you ensure your users are making progress? If you are not using data on 
 - [The Coinbase CEO Brian Armstrong advice on being a new PM.](https://sriramk.com/memos/brian_armstrong_new_PM_letter.pdf)
 - [7 Things Every Designer Should Know About Business](https://d.mba/guides/7-things-designer-should-know-about-business)
 - [How to Break the Rules of Product Management by Henry Vasquez](https://henryvasquez.com/2022/11/15/how-to-break-the-rules-of-product-management/)
-- [Simon Wardley blog on Wardley Maps](https://swardley.medium.com)
-- [Wardley Maps Book](https://medium.com/wardleymaps)
-- [List of Wardley Maps](https://list.wardleymaps.com)
-- [Wardley Maps Template](https://onlinewardleymaps.com)
 - [Learn SQL](https://dataschool.com/learn-sql/), [Khan Academy SQL](https://www.khanacademy.org/computing/computer-programming/sql), [SQL Zoo](https://sqlzoo.net/wiki/SELECT_basics)
 - [Domain drive boldness](https://dev.37signals.com/domain-driven-boldness/)
 - [You need to be more strategic by Shreyas Doshi](https://twitter.com/shreyas/status/1712262410764173598)
