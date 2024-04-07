@@ -16,9 +16,8 @@ All frameworks have complementary weaknesses. And vice versa. It is wise to use 
 | -------------|:-------------:|
 | _S.P.A.D.E_ | A decision-making framework to help synchronize and speed up collaboration to make difficult choices. An acronym for Setting, People, Alternatives, Decide and Explain. |
 | _Eisenhower Matrix_ | The Eisenhower box includes one axis that is important, the other axis is urgent. It is a two by two matrix to help with prioritization. |
-| _Domain Model_| It is about the practice of software design which puts domain users, its behavior and problems first. There are no technical considerations as this is purely driven by business logic. The basic idea is that the Domain is the problem domain, and the Model is the model of the problem. |
+| _Domain Model_| It is about the practice of software design which puts domain users, its behavior and problems first. It is driven by business logic. Domain is the problem domain, and the Model is the model of the problem. |
 | _OKR_ | OKR is a goal setting framework that was popularized in Silicon Valley. It stands for Objective and Key Results. Objective answers the WHAT is to be achieved. Key Results answers the HOW is it going to be achieved. |
-
 
 <details>
     <summary><strong>S.P.A.D.E</strong></summary>
