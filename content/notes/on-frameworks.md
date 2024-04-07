@@ -10,12 +10,26 @@ A structured thinking is required to solve problems and to conduct deep analysis
 
 Frameworks are not immediately applicable to the real world because the real world doesn't share all the assumptions and parameters. 
 
-All frameworks have complementary weaknesses. And vice versa. It is wise to use caution to stay adaptable while using frameworks. These are some of the frameworks I use in the day of managing product.
+All frameworks have complementary weaknesses. And vice versa. It is wise to use caution to stay adaptable while using frameworks. A few frameworks I often use in my day of managing products.
 
 | Framework | Description |
 | -------------|:-------------:|
+| _Eisenhower Matrix_ | Work in progress |
 | _Domain Model_| It is about the practice of software design which puts domain users, its behavior and problems first. There are no technical considerations as this is purely driven by business logic. The basic idea is that the Domain is the problem domain, and the Model is the model of the problem. |
 | _OKR_ | OKR is a goal setting framework that was popularized in Silicon Valley. It stands for Objective and Key Results. Objective answers the WHAT is to be achieved. Key Results answers the HOW is it going to be achieved. |
+
+<details>
+    <summary><strong>Eisenhower Matrix</strong></summary>
+    <br>
+
+Work in progress
+
+#### Further reading
+
+- []()
+
+</details>
+<br>
 
 <details>
     <summary><strong>Domain Model</strong></summary>
