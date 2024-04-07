@@ -14,19 +14,53 @@ All frameworks have complementary weaknesses. And vice versa. It is wise to use 
 
 | Framework | Description |
 | -------------|:-------------:|
-| _Eisenhower Matrix_ | Work in progress |
+| _S.P.A.D.E_ | A decision-making framework to help synchronize and speed up collaboration to make difficult choices. An acronym for Setting, People, Alternatives, Decide and Explain. |
+| _Eisenhower Matrix_ | The Eisenhower box includes one axis that is important, the other axis is urgent. It is a two by two matrix to help with prioritization. |
 | _Domain Model_| It is about the practice of software design which puts domain users, its behavior and problems first. There are no technical considerations as this is purely driven by business logic. The basic idea is that the Domain is the problem domain, and the Model is the model of the problem. |
 | _OKR_ | OKR is a goal setting framework that was popularized in Silicon Valley. It stands for Objective and Key Results. Objective answers the WHAT is to be achieved. Key Results answers the HOW is it going to be achieved. |
+
+
+<details>
+    <summary><strong>S.P.A.D.E</strong></summary>
+    <br>
+
+Consensus doesn't work and when time comes to make hard decisions, there should be a person in-charge of it. So how do you do that? S.P.A.D.E—a technique for making difficult decisions—formed by Gokul Rajaram at Google and Facebook, and widely deployed at Square.
+
+- S is for Setting: Precisely define the “what.” Show the why of the “when.” Clarify the “why.”
+- P is for People: People come first. The first thing you do for every S.P.A.D.E. is identify the people who should consult (give input), approve, and most importantly, a single person who is responsible. Responsible means accountable. Consult maximally.
+- A is for Alternatives: It’s the job of the responsible person—the decision maker—to come up with a set of alternatives that are feasible and realistic; diverse—they should not all be micro-variants of the same situation; and comprehensive—they should maximally cover the problem space. Brainstorm publicly.
+- D is for Decide: Once you've laid out all the alternatives—complete with their respective pros and cons and quantitative modelーit is time to get your consultants to vote. Get feedback privately.
+- E is for Explain: Once you've decided, now the real work begins. Go to the approver and lay out the alternatives and your argument.  If you created a high-quality decision framework, they're unlikely to veto it. Call a commitment meeting. Broadcast your decision. Add it to the S.P.A.D.E. log. Keep a log that links to your S.P.A.D.E. and marks the date of the decision. It will be much easier than relying on Gmail search or Slack when you want to reference or amend a past decision.
+
+#### Further reading
+
+- [Gokul's S.P.A.D.E. Toolkit: How to implement Square's famous decision-making framework](https://coda.io/@gokulrajaram/gokuls-spade-toolkit)
+
+</details>
+<br>
 
 <details>
     <summary><strong>Eisenhower Matrix</strong></summary>
     <br>
 
-Work in progress
+A decision-making framework designed and named after the 34th President of the United States of America—Dwight Eisenhower. He launched one of the most successful programs that are critical to our society today—highways, space exploration, internet (DARPA) and energy alternatives. He accomplished a ton! How did he do it?
+
+The Eisenhower box includes one axis that is important, the other axis is urgent. You put each task in one of the four quadrants:
+
+- Urgent and important: tasks you will do immediately
+- Important, but not urgent: tasks you will schedule to do later
+- Urgent, but not important: tasks you will delegate to someone else
+- Neither urgent nor important: tasks that you will delete
+
+The most important quadrant is the last one because it challenges me to question whether an action is really necessary. Mindlessly doing something is lazy thinking and procrastinating.
+
+It isn't perfect because urgent can mean different things to different people. But it is intuitive and adaptive framework to help with prioritization.
+
+> What is important is seldom urgent and what is urgent is seldom important. — Dwight Eisenhower
 
 #### Further reading
 
-- []()
+- [The Eisenhower Matrix | Avoid the "Urgency Trap" with Dwight D. Eisenhower's famous prioritization framework](https://todoist.com/productivity-methods/eisenhower-matrix)
 
 </details>
 <br>
