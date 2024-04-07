@@ -220,6 +220,7 @@ Motion graphics are an essential part of modern media design. They are used in f
     - Spreading
     - Pressing
     - Flipping
+
 ## Design legends
 
 | Name | Bio | 

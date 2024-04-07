@@ -1,10 +1,92 @@
 ---
-title: "On OKR"
+title: "On Frameworks"
 tags: ["general"]
-date: "2024-03-16"
+date: "2024-04-04"
 draft: false
-path: "/notes/on-okr"
+path: "/notes/on-frameworks"
 ---
+
+A structured thinking is required to solve problems and to conduct deep analysis. Without hard parameters, it is difficult to manage scope of the problem and create actionable steps. 
+
+Frameworks are not immediately applicable to the real world because the real world doesn't share all the assumptions and parameters. 
+
+All frameworks have complementary weaknesses. And vice versa. It is wise to use caution to stay adaptable while using frameworks. These are some of the frameworks I use in the day of managing product.
+
+| Framework | Description |
+| -------------|:-------------:|
+| _Domain Model_| It is about the practice of software design which puts domain users, its behavior and problems first. There are no technical considerations as this is purely driven by business logic. The basic idea is that the Domain is the problem domain, and the Model is the model of the problem. |
+| _OKR_ | OKR is a goal setting framework that was popularized in Silicon Valley. It stands for Objective and Key Results. Objective answers the WHAT is to be achieved. Key Results answers the HOW is it going to be achieved. |
+
+<details>
+    <summary><strong>Domain Model</strong></summary>
+    <br>
+
+Recent encounters on my current team has led to several discussions on whether a feature has a bug or whether it was poorly designed.
+
+A **bug** is when a feature in not functioning the way it is expected to.
+
+A **feature gap** is a gap in the system due to a miss during initial design.
+
+Who is to be blamed for this—business, engineering or design? It depends!
+
+Based on the two statements above, if it is a _bug_, engineering came short on executing requirements. If it is a feature gap, both engineering and design didn't get enough requirements from product. Product didn't think through the requirements. Lastly, neither product nor engineering control reality as business dynamics are always changing. This would require enhancing feature based on new rules.
+
+In software development, incorrect relationships determines the amount of complexity. Features collapse under the weight of its own complexity. Context is everything. Domain driven design can avoid much of this trouble to ensure context is captured before any line of code is written.
+
+However, there should be room for randomness and moving parts because reality is not static. Business requirements can change because there is a new CEO or due to new industry-wide regulations.
+
+A solution model will always need to be adjusted over time and refined into a better representation of reality. Skilled engineers are always refactoring. And, skilled product managers are always communicating what is coming next.
+
+Learning about your domain, writing it down and driving consistency on terminologies have clear communication benefits. If product managers are domain experts then they should work with engineering and design teams to formalize shared understanding on domain.
+
+> One of the miseries of life is that everyone names everything a litle bit wrong, and so it makes everything a little harder to understand in the world than it would be if it were named differently. A computer does not primarily compute in the sense of doing arithmetic. Strange. Although they call them computers, that's not what they primarily do. They primarily are filing systems. People in the computer business say they're not really computers, they are "data handlers". All right. That's nice. Data handlers would have been a better name because it gives a better idea of the idea of a filing system. — Richard Feynman
+
+## Domain model
+
+The concept of Domain Models come from Domain Driven Design (DDD) which is a software design approach.
+
+At its core, domain model is about the practice of software design which puts domain users, its behavior and problems first. There are no technical considerations as this is purely driven by business logic. The basic idea is that the **Domain** is the problem domain, and the **Model** is the model of the problem.
+
+It is a system of abstraction. Product managers should be well-equipped to understand this business context and be able to communicate to the teams.
+
+The domain model has the following elements:
+
+1. **Domain Objects**: Entities with an ID which can be indexed
+2. **Values**: A property value wrapped in a class 
+3. **Aggregates**: A group of related Entities
+
+These elements represent the domain (business logic) in which the problem is solved. In a domain model, you model objects and draw associations between them so that you have high level idea on how the system will work and how they will interact with each other.
+
+Let's take a look at an example. Imagine you are building a research product and an analyst is searching for a company to invest in $10 million. This analyst is looking for insights on a research platform to conduct the due-diligence. As you build a research product for this analyst, you want to consider the following:
+
+- Who is your target customer? And who are your customer types? It could be an investor. Investor can be broken down into a retail investor, institutional investor or a venture investor. There can of course be different type of customers—investor, analyst, media analyst, etc., but we'll focus on the analyst for this example.
+- What is the job to be done and workflows? A venture investor wants to learn about new technologies. A retail investor wants to learn about the balance sheet health of a company. An institutional investor wants to find the best in class company within energy sector for its pension portfolio.
+- What are the domains (entities) they interact with? There are several—companies, industries, sectors, topics, competitors, events, SEC filings and expert interviews.
+- What is the relationship between these domains? How do they behave with each other? Is it a one-on-one or many relationships? Is there an overlap between multiple domains? Investor might want to learn about an industry landscape and how the players stack against each other to compete against one another.
+
+Thinking through a customer's point-of-view to design a solution can be highly effective for the entire team. To summarize why domain models are critical for product managers:
+
+- The domain model is a representation of real-world concepts including the data involved in the business and rules the business uses in relation to that data. The domain model is organized and structured knowledge of the problem. 
+- Every system (or product) has people, things, and relationships between things and people along with workflows.
+- Domain model is a conceptual schema or a map of concepts and their relationships.
+- Domain models are richer than simple data models as they capture the behavior and domain logic. 
+- It is a visual representation of situation objects in a domain. The term domain model does not mean a set of diagrams describing software classes. Domain model can be represented by a diagram, code example or written documentation of the problem.
+- The important thing is that the domain model should be accessible and understandable by everyone who is involved with the project. One of the downfalls of software development projects is the misunderstanding of terms, objectives and proposed solutions that are scoped at the beginning of development.
+- In software, a domain model is a conceptual model of the domain that incorporates both behavior and data. This is critical for PMs to pay attention to because they are responsible for driving requirements. And requirements cannot be defined without understanding the core behavior and data of a domain. There are plenty of what ifs and buts for PM to help answer.
+- A domain model is implemented as an object model within a layer that uses a lower-level layer for persistence and publishes an API to a higher-level layer to gain access to the data and behavior of the model. An object model consists of the following important features—object reference, interface (API or UI), actions and exception handling to account for various errors and warnings.
+
+#### Further reading
+
+- [37 Signals Domain Driven](https://dev.37signals.com/domain-driven-boldness/)
+- [Notion's Data Model](https://www.notion.so/blog/data-model-behind-notion)
+- [Stack Overflow Thread](https://stackoverflow.com/questions/3507671/whats-the-difference-between-data-modelling-and-domain-modelling)
+
+</details>
+<br>
+
+<details>
+    <summary><strong>Objective Key Results (OKR)</strong></summary>
+    <br>
 
 Objective Key Results (OKR)—a goal setting framework that was popularized in Silicon Valley has been widely adopted beyond the West Coast. OKR has been a better part of my professional journey, but the implementation of the methodology has always been messy because they do not cascade through the entire organization as they are intended to.
 
@@ -64,7 +146,7 @@ A key point to remember—progress should be measured by outcome not an output o
 
 Lastly, the goal is not to create a feature factory machine, but to solve a business problem and create organizational value. If organization is structured and aligned correctly, OKRs can be extremely effective by ensuring all members of the organization are working toward the same goals.
 
-## Facts
+## OKR superpowers
 
 The 5 superpowers of OKRs—focus, alignment, commitment, tracking progress and stretching.
 
@@ -103,10 +185,7 @@ A culture that drives focus, alignment and meaning will always win. If an organi
 - Dependability—can we count on each other to do high-quality work on time? 
 - Impact of work—do we fundamentally believe that the work we are doing matters?
 
-## Further reading
-<details>
-    <summary><strong>References</strong></summary>
-    <br>
+#### Further reading
 
 - [Measure What Matters Book Summary](/measure-what-matters/)
 - [High Output Management Book Summary](/high-output-management/)
@@ -117,4 +196,4 @@ A culture that drives focus, alignment and meaning will always win. If an organi
 - [Alternative of an OKR](https://www.sachinrekhi.com/bill-walsh-the-score-takes-care-of-itself)
 
 </details>
-<br />
+<br>
