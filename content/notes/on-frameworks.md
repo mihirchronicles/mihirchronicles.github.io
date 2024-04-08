@@ -12,7 +12,7 @@ Frameworks are not immediately applicable to the real world because the real wor
 
 All frameworks have complementary weaknesses. And vice versa. It is wise to use caution to stay adaptable while using frameworks. A few frameworks I often use in my day of managing products.
 
-## Decisions
+## Decision-making
 
 | Framework | Description |
 | -------------|:-------------:|
@@ -196,7 +196,7 @@ This is one of the best frameworks for roadmapping and planning. It accounts for
 
 </details>
 
-## Product Design
+## Product design
 | Framework | Description |
 | -------------|:-------------:|
 | _Domain Model_| It is about the practice of software design which puts domain users, its behavior and problems first. It is driven by business logic. Domain is the problem domain, and the Model is the model of the problem. |
@@ -300,12 +300,34 @@ A theory of innovation that is based on the economic principle that people buy p
 
 </details>
 
-## Business
+## Business mapping
 
 | Framework | Description |
 | -------------|:-------------:|
+| 7 Powers | 7 Powers is arguably the best business strategic framework which includes scale economics, switching costs, cornered resource, counter positioning, branding, network effects, and process. |
 | _Wardley Maps_ | They provide situational awareness and shared assumptions about a context necessary for building a sound strategy. It is a representation of the landscape in which a business operates. |
-| _Porter's Five Forces_| A framework for determining the level of competition within an industry and evaluate a firm's strategic position: (1) Bargaining power of suppliers and (2) buyers, (3) the threat of new entrants or (4) substitutes, and (5) industry rivalry, make up the five forces. |
+| _Porter's Five Forces_| A framework for determining the level of competition within an industry and evaluate a firm's strategic position: bargaining power of suppliers and buyers, the threat of new entrants or substitutes, and industry rivalry, make up the five forces. |
+
+<details>
+    <summary><strong>7 Powers</strong></summary>
+    <br>
+
+Hamilton Helmer covers 7 powers that companies can leverage on:
+
+- Scale Economies: A business in which per unit cost declines as production volume increases.
+- Network Economies: A business in which the value realized by a customer increases as the installed base increases.
+- Counter-Positioning: A newcomer adopts a new, superior business model which the incumbent does not mimic due to anticipated damage to their existing business.
+- Switching Costs: The value loss expected by a customer that would be incurred from switching to an alternate supplier for additional purchases.
+- Branding: The durable attribution of higher value to an objectively identical offering that arises from historical information about the seller.
+- Cornered Resource: Preferential access at attractive terms to a coveted asset that can independently enhance value.
+- Process Power: Embedded company organization and activity sets which enable lower costs and/or superior product, and which can be matched only by an extended commitment.
+
+#### Further reading
+
+- [7 powers](https://mihirchronicles.com/7-powers/)
+
+</details>
+<br>
 
 <details>
     <summary><strong>Wardley Maps</strong></summary>

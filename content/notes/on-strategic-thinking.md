@@ -108,6 +108,14 @@ Understanding competitors’ strategy, business model, and future plans help us 
 
 ## 7 Powers
 
+Strategy is the study of the fundamental determinants of potential business value. Strategy (capitalized) is distinguished from strategy (lower case) and is divided into Statics (or “being there”) and Dynamics (or “getting there”).
+
+Lower case strategy is a route to continuing Power in significant markets. Lower case "strategy" is also referred to as The Mantra.
+
+Power is the set of conditions creating the potential for persistent differential returns. Power is the core concept of Strategy, and the book explains what it looks like when a company has power (Statics) and how a company can get power (Dynamics).
+
+Each power creates a benefit (common) for the winning company, and a barrier (rare) for its competitors. Benefit is the way in which the power improves cash flows, such as through lower costs or ability to charge higher prices. Aka the magnitude of power. Barrier is the way that competitors are prevented from arbitraging the Benefit of the power. Aka the duration of power.
+
 Hamilton Helmer covers 7 powers that companies can leverage on:
 
 - Scale Economies: A business in which per unit cost declines as production volume increases.
