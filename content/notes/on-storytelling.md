@@ -209,5 +209,6 @@ I'll end this deep dive with this quote:
     - [Minto Pyramid](https://www.harrisonmetal.com/library/storytelling-amp-presenting-1-thank-you-barbara-minto)
     - [South Park creators on storytelling](https://twitter.com/david_perell/status/1286900697749889025)
     - [Best speeches of all times](https://twitter.com/patrick_oshag/status/1499175362827272198)
+    - [Storytelling by Scott Galloway](https://www.profgalloway.com/storytelling/)
 </details>
 <br />
