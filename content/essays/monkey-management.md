@@ -42,7 +42,7 @@ The monkey is on Product's back again.
 
 This might not be a shared perspective from Product, but it is the result of complex organizational design. It is a joint problem indeed, but still requires momentum from Product to deliver on strategic objective.
 
-Despite the complexity, monkey ownership continues for Product. It is your circus, but not your job to train monkeys (at least in the product world).
+Despite the complexity, monkey ownership continues for Product. It is your circus, but not your job to train monkeys.
 
 Monkey management is effective when there is organizational complexity. It has two critical benefits. The first is time management and the second is creating high agency staff who are able to deal with problems autonomously.
 
