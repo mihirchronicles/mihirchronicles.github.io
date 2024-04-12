@@ -8,7 +8,7 @@ path: "/essays/monkey-management"
 
 Harvard Business Review in 1974 published “Who's Got the Monkey” authored by William Oncken Jr and Donald L. Wass. The article described unsolved problems of employees which are delegated upwards causing the “monkey” to jump on a manager's back. This increases workload for a manager. 
 
-This analogy struck me hard. I have taken my own spin on the analogy and applied to my world of product management. Product managers do not own a team but they manage sideways, upwards and downwards. If we are not good at monkey management, we can lose track of time and individual autonomy. It would be easier for Engineering, Design, and Leadership to target product team for being a bottleneck.
+This analogy struck me hard. I have taken my own spin on the analogy and applied to my world of product management. Product managers do not own a team, but they manage sideways, upwards and downwards. If we are not good at monkey management, we can lose track of time and individual autonomy. It would be easier for Engineering, Design, and Leadership to target product team for being a bottleneck.
 
 Let us explore a scenario which shall show how monkey jumps from one back to another. 
 
@@ -22,9 +22,9 @@ Monkey went from Leadership to Product to execute the strategy. It was boss-impo
 
 Product passed the monkey to Design after finalizing requirements based on the expert knowledge about the business and its customers. It was system-imposed meaning there is an active support required from cross-functional teams. Ignoring will result in penalty, though not a direct penalty.
 
-Engineering passed the monkey back to Product and Design because requirements need further clarification. Product can decide to descope or influence for support to deliver on original requirements. Design is now expecting Product to provide clarification. Product either can make on-the-spot decision or might need more time to collect information before informing Engineering and Design with next steps.
+Engineering passed the monkey back to Product and Design because requirements need further clarification. Product can decide to de-prioritize or influence for support to deliver on original requirements. Design is now expecting Product to provide clarification. Product either can make on-the-spot decision or might need more time to collect information before informing Engineering and Design with next steps.
 
-Where is the monkey? Product!
+Where is the monkey? Product!
 
 If Product does not get this monkey off its back soon, frustration will grow and Leadership will follow-up because of lack of momentum.
 
@@ -42,7 +42,7 @@ The monkey is on Product's back again.
 
 This might not be a shared perspective from Product, but it is the result of complex organizational design. It is a joint problem indeed, but still requires momentum from Product to deliver on strategic objective.
 
-Despite the complexity, monkey ownership continues for Product. 
+Despite the complexity, monkey ownership continues for Product. It is your circus, but not your job to train monkeys (at least in the product world).
 
 Monkey management is effective when there is organizational complexity. It has two critical benefits. The first is time management and the second is creating high agency staff who are able to deal with problems autonomously.
 
