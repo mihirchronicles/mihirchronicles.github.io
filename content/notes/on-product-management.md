@@ -338,7 +338,7 @@ How can you ensure your users are making progress? If you are not using data on 
     - Social media
         - User story: As a user, I want to share content from the app directly to my social media platforms, so that I can easily share interesting finds with my friends and followers.
         - Job story: When I come across something share- worthy in the app, I want a seamless way to post it on my social media, so I can engage with my network without switching between multiple apps.
-- **Analytical skills**: Being analytical isn’t only about numbers. It is about developing healthy skepticism and curiosity, validating your hypothesis (and having a hypothesis in the first place) and vetting with multiple data points to get closer to the truth. It gives you a competitive edge, and you will learn to make informed decisions.
+- **Analytical Thinking**: Being analytical isn’t only about numbers. It is about developing healthy skepticism and curiosity, validating your hypothesis (and having a hypothesis in the first place) and vetting with multiple data points to get closer to the truth. It gives you a competitive edge, and you will learn to make informed decisions.
     - Retrieve: First, you need to learn how to get data. SQL is most common in work places.
     - Analyze: Analytical thinking is to crunch numbers understand the why and execute at lightning speed. To do so you need the basic understanding of—patterns, nuances, absolute numbers & percentages, variances, expected vs actual, contribution to whole, peaks, margins and biases. 
     - Look for clues by asking:
