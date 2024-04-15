@@ -301,7 +301,6 @@ How can you ensure your users are making progress? If you are not using data on 
     - Tag along customer service reps and sales.
     - Explore industry blogs and competitor space.
     - Understand the core growth loops so you can aim for the right features.
-
 - **Project Thinking vs Product Thinking**:
     - Product Thinking:
         - Most important question: Why
@@ -339,29 +338,31 @@ How can you ensure your users are making progress? If you are not using data on 
     - Social media
         - User story: As a user, I want to share content from the app directly to my social media platforms, so that I can easily share interesting finds with my friends and followers.
         - Job story: When I come across something share- worthy in the app, I want a seamless way to post it on my social media, so I can engage with my network without switching between multiple apps.
-
+- **Analytical skills**: Being analytical isn’t only about numbers. It is about developing healthy skepticism and curiosity, validating your hypothesis (and having a hypothesis in the first place) and vetting with multiple data points to get closer to the truth. It gives you a competitive edge, and you will learn to make informed decisions.
+    - Retrieve: First, you need to learn how to get data. SQL is most common in work places.
+    - Analyze: Analytical thinking is to crunch numbers understand the why and execute at lightning speed. To do so you need the basic understanding of—patterns, nuances, absolute numbers & percentages, variances, expected vs actual, contribution to whole, peaks, margins and biases. 
+    - Look for clues by asking:
+        - Why is this happening?
+        - What is the impact?
+        - What should we do about it (if anything)?
 - **Capabilities vs Domain vs Experience**: When requirements are defined, the big question is where to host the requirements? Like everything else, it depends on business architecture modeling. This is mostly designed by a system architect. How it gets packaged is not a product concern, but need to understand to drive feature requirements. No system is right or wrong, but a core architectural system might have the following: 
     - Domain: What is the core functionality that drives business objective? It is associated with one data store in a database. Domains can be grouped in many ways, but it should always be driven by business objective that drives business value. For example, Order Management. 
     - Capabilities: How functionalities can be grouped. This layer can interact with several data stores.
     - Experiences: How it gets integrated with capabilities to drive different platforms such as native applications vs web applications. It can interact with more than one capability to drive client experience. Having this layer helps reduce rebuilding of redundant functionalities and logic for various operating systems.
-
 - **Go-to-Market (GTM)**: It is an organizational plan to deliver unique value proposition to customers and achieve competitive advantage. Below are the components of GTM. Start with debugging upstream or downstream of product cycle to optimize for GTM:
     - What exactly are you building? It starts with vision. But if the vision is wrong everyone is going home. It starts with product management.
     - How do you position it? How do you tell the story in a short-time frame without using product jargon? Great product use less words to spread the message. It starts with product marketing.
     - How do you do demand generation? How do you do sales? If the product does not sell, there is a gap in product market fit.
     - How do you do customer retention? If the customers are churning, there is value deceleration.
-
 -  **Product Market Fit (PMF)**: It is another way to say you are in search for demand curve or another way to say you have produced value. Product market fit allows a company to sell product at scale. When people want to pull it out of your hands that is a product market fit. Company building should happen when you have a product market fit.
     - Use cohort analysis to measure product market fit. Look at a group of people that tried your product in a period of time (week, month, quarter). Then look at how many of those people continue to use your product for a while. You will have a fairly deep drop-off on the first month. Does it flatten somewhere? If so, that means that there are customers who are finding value in your product, which means you have PMF with these customers.
     - Create a retention curve by plotting the percent of active users over time (for each cohort of users). If it flattens off at some point, you have probably found product/market fit for some market or audience.
-
 - **Product Marketing**: The product manager (PM) defines the product vision and strategy. However, you cannot create a strategy without market and industry analysis, which is theoretically the product marketing manager's (PMM) main job. The main areas of responsibility for a product marketer are:
     - Discovery: target customers, customers’ jobs/needs (methods like interviews or surveys)
     - Analyzing the market and the industry: Sizing market opportunities by considering Total Addressable Market (TAM), Serviceable Available Market (SAM), and Serviceable Obtainable Market (TOM). Analyzing market characteristics, like the average Annual Growth Rate, Average Revenue Per User (ARPU), average Customer Acquisition Cost (CAC), and average Churn Rate. Analyzing the industry (e.g., Porter’s Five Forces). Performing competitive analysis.
     - Shaping how others think about the product: formulating the positioning strategy, which defines target customers, the product’s place in the market, its core benefits, and supporting evidence. Adjusting product messaging. In short, it’s about explaining why the product is awesome (copywriting, storytelling) based on positioning strategy.
     - Enable others to tell the same story: training and guiding sales, resellers and other partners
     - Creating the Go-to-market (GTM) strategy. It should include business goal, target customers, value proposition, positioning strategy and business model, including pricing.
-
 - **Strategy**: Business strategy explains how a company tries to beat the competition. The ultimate goal of a strategy is to help us gain a competitive advantage, which leads to better financial results. For example, companies that try to beat competitors by offering lower prices are pursuing a cost leadership strategy (Aldi, Walmart, IKEA, Southwest Airlines, McDonald's, etc.). On the other side of the spectrum are companies that want to win by being unique. These companies can charge higher prices because they are perceived differently (Apple, Whole Foods Market, BMW, Qatar Airways, Four Seasons Hotels, etc.).
     - A strategy isn’t: a goal (goals only talk about why; a strategy also explains how), using best practices such as Design Thinking or Six Sigma (can be implemented by any competitor so they are not trade-off decisions) and merely a plan (strategy needs to lead to a competitive advantage).
     - A strategy is: choosing what to do and what not to do, a series of trade-off decisions, a quest for competitive advantage, about being different (not merely better), focusing a company’s resources on the most critical issues.
@@ -369,7 +370,6 @@ How can you ensure your users are making progress? If you are not using data on 
         - Define 5-12 competing factors.
         - Plot a dominant industry line.
         - Create your blue ocean offer by asking what competing factors can we eliminate, decrease, raise, and introduce.
-
 - **Competitor Analysis**: Understanding competitors’ strategy, business model, and future plans help us design better products and experiences. We can anticipate how competitors will react to our innovations, and how we can differentiate better (create unique value for our users).
     - The first step of competitor analysis is identifying competitors.
     - Divide the competition into direct and indirect competitors. Direct competitors are companies that offer the same product (or service) and indirect competitors offer a different product that solves the same problem. For example, Uber’s direct competitors are taxi companies and Lyft. The indirect competitors are bike sharing services, public transport, car sharing services, and walking on foot. 
@@ -377,7 +377,6 @@ How can you ensure your users are making progress? If you are not using data on 
         - Business data: revenue, market share, etc.
         - Product data: product portfolio, features, etc.
         - Customers data: target group, reviews, etc.
-
 - **Application Programming Interface (API)**: APIs are mechanisms that enable two software components to communicate with each other using a set of definitions and protocols. For example, Morningstar's software system contains daily stock market data. The stock market app on your phone “talks” to this system via APIs and shows you daily stock prices on your phone. People interact with software through Graphical User Interfaces (GUIs) while software interacts with another software through APIs.
     - APIs are developer friendly. APIs can serve as [Placeholder]-As-A-Service. The placeholder can be wealth management, inventory management or ride-sharing. Simply by writing a few lines of code, platforms can let their customers set up any services. APIs abstract away code and business complexity. I can use ACH services through API without writing code or understanding how ACH works. APIs can be internal or external facing.
     - APIs consist of functions, contracts, business logic which helps scale for adoption. Businesses today can use APIs from other software providers without having to invest their own resources to build out capabilities. If I am in the business of stock data, I do not need to build a payment gateway. I can use Stripe's API to build my business.
@@ -397,33 +396,6 @@ How can you ensure your users are making progress? If you are not using data on 
             - A response along with the returned data also contains a status code, which signifies if the API request was fulfilled or not.
     - It is critical to know the ins and outs of a contract. You don't set your house on fire to test your smoke alarm. You test the contract. This ensures your applications will work together. The contract is between a consumer and a provider.
     - GraphQL is a query language that was developed specifically for APIs. It prioritizes giving clients exactly the data they request and no more. It is designed to make APIs fast, flexible, and developer-friendly. As an alternative to REST, GraphQL gives front-end developers the ability to query multiple databases, microservices, and APIs with a single GraphQL endpoint. Organizations choose to build APIs with GraphQL because it helps them develop applications faster.
-
-- **Analytical skills**: Being analytical isn’t only about numbers. It is about developing healthy skepticism and curiosity, validating your hypothesis (and having a hypothesis in the first place) and vetting with multiple data points to get closer to the truth. It gives you a competitive edge, and you will learn to make informed decisions.
-    - Retrieve: First, you need to learn how to get data. SQL is most common in work places.
-    - Analyze: Analytical thinking is to crunch numbers understand the why and execute at lightning speed. To do so you need the following basic understanding.
-        - Patterns: See the norm, what sticks out, what needs a second look. Get a lay of the land, so you can start developing a point of view. To solve the puzzle, ask yourself the following questions:
-            - What is “normal” around here? 
-            - What sticks out?
-            - Why is it sticking out?
-            - How much does it stick out vs everything else?
-        - Nuances: It is powerful to see nuances when other people just see a binary yes or no. You want to be able to say— “This works for x situations, but not for y situations.”
-        - Absolute numbers & percentages: If you only look at absolute numbers, big numbers will seem good and small numbers will seem bad. If you look at percentages, you’ll see the relationship between the parts and the whole.
-        - Variance: Variance is about change. Change from the baseline & changes over time. 
-            - How much did this change month over month? 
-            - This month vs this month last year? 
-            - Was the variance in line with industry growth—or did it outpace or lag comparatively?
-        - Expected vs actual: “Wow, we drove 19% growth!” might seem like good news, unless you forecasted 30% growth. This is where looking at expected vs actual numbers is useful. If you compare the two, you can better understand how good performance really is.
-        - Percent contribution to whole: 
-            - Money: “This accounts for 70% of total $.”
-            - Volume: “This accounts for 17% of units.”
-            - Top hits: “These 10 items drove 80% of new visitors.”
-        - Peaks: Identify peaks and valleys, i.e. the highest or lowest something has ever been. This helps you see the range, which helps you get grounded. If you have new assets or levers to pull, you can say, “We'll beat the highest we've done because x.”
-        - Check in on margins: revenues don't alone matter much without cash flows. 
-        - Verify your biases by analyzing your data processing mechanics to ensure you are not building a data set to validate your own assumptions.
-        - Look for clues by asking:
-            - Why is this happening?
-            - What is the impact?
-            - What should we do about it (if anything)?
 
 ## Further reading
 <details>
