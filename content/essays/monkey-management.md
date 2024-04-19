@@ -50,4 +50,4 @@ If you understand whose back the monkey is on, you can understand the art of tim
 
 --
 
-*This essay was shared on [Hacker News](https://news.ycombinator.com/item?id=40014540#40027120). There were insightful comments shared related to this topic.*
+*This essay was shared on [Hacker News](https://news.ycombinator.com/item?id=40014540). There were insightful comments shared related to this topic.*
