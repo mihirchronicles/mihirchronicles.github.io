@@ -47,3 +47,7 @@ Despite the complexity, monkey ownership continues for Product. It is your circu
 Monkey management is effective when there is organizational complexity. It has two critical benefits. The first is time management and the second is creating high agency staff who are able to deal with problems autonomously.
 
 If you understand whose back the monkey is on, you can understand the art of time management and delegation.
+
+--
+
+*This essay was shared on [Hacker News](https://news.ycombinator.com/item?id=40014540#40027120). There were insightful comments shared related to this topic.*
