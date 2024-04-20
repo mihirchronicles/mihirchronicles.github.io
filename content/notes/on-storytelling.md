@@ -204,12 +204,13 @@ I'll end this deep dive with this quote:
     - Morgan Freeman
     - Neil deGrasse Tyson
 - Other
+    - [How to open pieces of narrative non-fiction writing, conference talks, and sticky jars](https://maggieappleton.com/openings)
     - Steve Jobs on [storytelling](https://www.quora.com/What-are-the-best-stories-about-people-randomly-or-non-randomly-meeting-Steve-Jobs)
     - [NPR](https://www.npr.org)
     - [Minto Pyramid](https://www.harrisonmetal.com/library/storytelling-amp-presenting-1-thank-you-barbara-minto)
     - [South Park creators on storytelling](https://twitter.com/david_perell/status/1286900697749889025)
     - [Best speeches of all times](https://twitter.com/patrick_oshag/status/1499175362827272198)
     - [Storytelling by Scott Galloway](https://www.profgalloway.com/storytelling/)
-    - [How to open pieces of narrative non-fiction writing, conference talks, and sticky jars](https://maggieappleton.com/openings)
+
 </details>
 <br />
