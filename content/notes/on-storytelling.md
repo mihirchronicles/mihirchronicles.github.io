@@ -210,5 +210,6 @@ I'll end this deep dive with this quote:
     - [South Park creators on storytelling](https://twitter.com/david_perell/status/1286900697749889025)
     - [Best speeches of all times](https://twitter.com/patrick_oshag/status/1499175362827272198)
     - [Storytelling by Scott Galloway](https://www.profgalloway.com/storytelling/)
+    - [How to open pieces of narrative non-fiction writing, conference talks, and sticky jars](https://maggieappleton.com/openings)
 </details>
 <br />
