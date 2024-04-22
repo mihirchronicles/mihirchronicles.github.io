@@ -16,7 +16,7 @@ I have been mentoring people who are starting their professional journey. For me
 
 Great listening is an art! The biggest benefit of listening deeply is the reduction of reactive thoughts. Reactivity clouds judgment giving rise to negative thoughts and getting into your head causing analysis paralysis. Great listening allows you to be calm and understand different perspectives. What do you do to listen deeply?
 
-First, listening requires you to think deeply about what someone is saying before you share your perspective. If you want to give precise feedback with actionable steps, repeat what the other person is saying, “[Person's Name], I heard you say X because you care about Y. Did I get that right?” Ensuring you are understanding what is being communicated is critical to listening.
+First, listening requires you to think deeply about what someone is saying before you share your perspective. If you want to give precise feedback with actionable steps, repeat what the other person is saying, “[Person's Name], I heard you say X because you care about Y. Did I get that right?” Internalizing what the other person said and articulating it better than what was said will help you gain trust. 
 
 Second, ask a lot of rich quality questions before jumping onto any conclusions. Humility & confidence are both important element of questions. You need confidence to ask questions, but you need humility to be vulnerable to ask questions. The real insights are in the questions you ask. The greater the proportion of questions, the better it is for conversation. 
 
