@@ -8,7 +8,7 @@ path: "/essays/shadows-of-your-superpower"
 
 Knowing your superpowers are important, but knowing the shadow of your superpowers are equally important. 
 
-Imagine getting your performance review year-over-year on being a great collaborator. Everyone gets along with you, and you've got magic to align everyone on a viewpoint.
+Imagine getting your performance review year-over-year on being a great collaborator. Everyone gets along with you, and you've got magic to align everyone on a single viewpoint.
 
 Until another colleague comes along and starts challenging your viewpoint. You become defensive. You start questioning on what is the problem. Your next performance review on collaboration is now marked down below your expectation. 
 
@@ -26,12 +26,14 @@ You are amazing at growth, but fail at building.
 
 You are a great storyteller, but never care about details.
 
+You care so much about details, but fail at simplifying.
+
 You are politically driven, but your ideas are unprincipled. 
 
 You are a structured thinker, but hairy audacious innovations are tough.
 
 You are an amazing listener, but fail at making decisions.
 
-If you know the other side of your superpower, you can unlock your development area faster because what identifies you is breaking you. If you know this hidden secret then you know how to adjust your superpowers to grow yourself.
+If you know the other side of your superpower, you can unlock your development area faster because knowing what identifies you can also break you. If you know this hidden secret then you know how to adjust your superpowers to grow yourself.
 
 Don't just blindly sit in the shadows of your superpower.
