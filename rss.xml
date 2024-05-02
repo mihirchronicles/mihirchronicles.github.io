@@ -1,4 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 24 Apr 2024 18:34:44 GMT</lastBuildDate><item><title><![CDATA[Shadows Of Your Superpower ]]></title><description><![CDATA[Knowing your superpowers are important, but knowing the shadow of your superpowers are equally important. Imagine getting your performance…]]></description><link>https://mihirchronicles.com/shadows-of-your-superpower/</link><guid isPermaLink="false">https://mihirchronicles.com/shadows-of-your-superpower/</guid><pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Knowing your superpowers are important, but knowing the shadow of your superpowers are equally important.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 02 May 2024 16:29:20 GMT</lastBuildDate><item><title><![CDATA[On Analytics]]></title><description><![CDATA[UNDER CONSTRUCTION Being analytical isn’t only about numbers. It is about developing healthy skepticism and curiosity, validating your…]]></description><link>https://mihirchronicles.com/on-analytics/</link><guid isPermaLink="false">https://mihirchronicles.com/on-analytics/</guid><pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;&lt;strong&gt;UNDER CONSTRUCTION&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Being analytical isn’t only about numbers. It is about developing healthy skepticism and curiosity, validating your hypothesis (and having a hypothesis in the first place) and vetting with multiple data points to get closer to the truth. It gives you a competitive edge, and you will learn to make informed decisions.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Retrieve: First, you need to learn how to get data. SQL is most common in work places. Divide data gathering into three buckets:
+&lt;ul&gt;
+&lt;li&gt;Business data: revenue, market share, etc.&lt;/li&gt;
+&lt;li&gt;Product data: product portfolio, features, etc.&lt;/li&gt;
+&lt;li&gt;Customers data: target group, reviews, etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Analyze: Analytical thinking is to crunch numbers understand the why and execute at lightning speed. To do so you need the following basic understanding.
+&lt;ul&gt;
+&lt;li&gt;Patterns: See the norm, what sticks out, what needs a second look. Get a lay of the land, so you can start developing a point of view. To solve the puzzle, ask yourself the following questions:
+&lt;ul&gt;
+&lt;li&gt;What is “normal” around here?&lt;/li&gt;
+&lt;li&gt;What sticks out?&lt;/li&gt;
+&lt;li&gt;Why is it sticking out?&lt;/li&gt;
+&lt;li&gt;How much does it stick out vs everything else?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Nuances: It is powerful to see nuances when other people just see a binary yes or no. You want to be able to say— “This works for x situations, but not for y situations.”&lt;/li&gt;
+&lt;li&gt;Absolute numbers &amp;#x26; percentages: If you only look at absolute numbers, big numbers will seem good and small numbers will seem bad. If you look at percentages, you’ll see the relationship between the parts and the whole.&lt;/li&gt;
+&lt;li&gt;Variance: Variance is about change. Change from the baseline &amp;#x26; changes over time.
+&lt;ul&gt;
+&lt;li&gt;How much did this change month over month?&lt;/li&gt;
+&lt;li&gt;This month vs this month last year?&lt;/li&gt;
+&lt;li&gt;Was the variance in line with industry growth—or did it outpace or lag comparatively?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Expected vs actual: “Wow, we drove 19% growth!” might seem like good news, unless you forecasted 30% growth. This is where looking at expected vs actual numbers is useful. If you compare the two, you can better understand how good performance really is.&lt;/li&gt;
+&lt;li&gt;Percent contribution to whole:
+&lt;ul&gt;
+&lt;li&gt;Money: “This accounts for 70% of total $.”&lt;/li&gt;
+&lt;li&gt;Volume: “This accounts for 17% of units.”&lt;/li&gt;
+&lt;li&gt;Top hits: “These 10 items drove 80% of new visitors.”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Peaks: Identify peaks and valleys, i.e. the highest or lowest something has ever been. This helps you see the range, which helps you get grounded. If you have new assets or levers to pull, you can say, “We&apos;ll beat the highest we&apos;ve done because x.”&lt;/li&gt;
+&lt;li&gt;Check in on margins: revenues don&apos;t alone matter much without cash flows.&lt;/li&gt;
+&lt;li&gt;Verify your biases by analyzing your data processing mechanics to ensure you are not building a data set to validate your own assumptions.&lt;/li&gt;
+&lt;li&gt;Look for clues by asking:
+&lt;ul&gt;
+&lt;li&gt;Why is this happening?&lt;/li&gt;
+&lt;li&gt;What is the impact?&lt;/li&gt;
+&lt;li&gt;What should we do about it (if anything)?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Shadows Of Your Superpower ]]></title><description><![CDATA[Knowing your superpowers are important, but knowing the shadow of your superpowers are equally important. Imagine getting your performance…]]></description><link>https://mihirchronicles.com/shadows-of-your-superpower/</link><guid isPermaLink="false">https://mihirchronicles.com/shadows-of-your-superpower/</guid><pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Knowing your superpowers are important, but knowing the shadow of your superpowers are equally important.&lt;/p&gt;
 &lt;p&gt;Imagine getting your performance review year-over-year on being a great collaborator. Everyone gets along with you, and you&apos;ve got magic to align everyone on a single viewpoint.&lt;/p&gt;
 &lt;p&gt;Until another colleague comes along and starts challenging your viewpoint. You become defensive. You start questioning on what is the problem. Your next performance review on collaboration is now marked down below your expectation.&lt;/p&gt;
 &lt;p&gt;What happened?&lt;/p&gt;
