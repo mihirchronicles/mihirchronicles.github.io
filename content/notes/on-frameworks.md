@@ -300,13 +300,14 @@ A theory of innovation that is based on the economic principle that people buy p
 
 </details>
 
-## Business mapping
+## Product & strategy
 
 | Framework | Description |
 | -------------|:-------------:|
 | 7 Powers | 7 Powers is arguably the best business strategic framework which includes scale economics, switching costs, cornered resource, counter positioning, branding, network effects, and process. |
 | _Wardley Maps_ | They provide situational awareness and shared assumptions about a context necessary for building a sound strategy. It is a representation of the landscape in which a business operates. |
 | _Porter's Five Forces_| A framework for determining the level of competition within an industry and evaluate a firm's strategic position: bargaining power of suppliers and buyers, the threat of new entrants or substitutes, and industry rivalry, make up the five forces. |
+| _The Lean Canvas_ | It lays out a clear process for defining and adjusting a business model based on customer devlopment. |
 
 <details>
     <summary><strong>7 Powers</strong></summary>
@@ -374,6 +375,25 @@ Overview of Porter’s Five Forces:
 > The essence of strategy is choosing what not to do. — Michael Porter
 
 > Strategy is about making choices, trade-offs; it's about deliberately choosing to be different. — Michael Porter
+
+</details>
+<br>
+
+<details>
+    <summary><strong>The Lean Canvas</strong></summary>
+    <br>
+
+The Lean Canvas is a one-page visual business plan that's ongoing and actionable. It was created by Ash Maurya, and inspired by Alex Osterwalder's Business Model Canvas. It is fantastic at identifying the areas of biggest risk and enforcing intellectual honesty.
+
+1. Problem: List your topi 1-3 problems. Assess existing alternatives. List how these problems are solved today. Have you identified real problems people know they have?
+2. Customer segments: List your target customers and users. Assess early adopters. List the characteristics of your ideal customers. Do you know your target markets? Do you know how to target markets? Do you know how to target messages to them as distinct groups?
+3. Unique value proposition: Single, clear compelling message that turns an unaware visitor into an interested prospect. Produce a high level concept. List your X for Y analogy. For example, YouTube = Flickr for videos. Have you found a clear, distinctive, memorable way to explain why you are better or different?
+4. Solution: Outline a possible solution for each problem. Can you solve the problem in a right way?
+5. Channels: List your path to customers. How will you get your product or service to your customers, and their money back to you?
+6. Revenue streams: List your source of revenue. Where will the money come from? Will it be one-time or recurring? The result of a direct transaction (e.g., buying a meal) or something indirect (magazine subscriptions)?
+7. Cost structure: List your fixed and variable costs. What are the direct, variable, and indirect costs you'll have to pay for when you run the business?
+8. Metrics: List the key numbers that tell you how your business is doing. Do you know what numbers to track to understand if you are making progress?
+9. Unfair advantage: Something that cannot be easily copied or bought. What is the “force multiplier” that will make your efforts have greater impact than your competitors?
 
 </details>
 <br>
