@@ -8,6 +8,12 @@ path: "/notes/on-analytics"
 
 _**UNDER CONSTRUCTION**_
 
+Analytics is about tracking the metrics that are critical to your business. It matters if your business cares about where the money is going from or where the money is going to in order to support the business model.
+
+All organizations want to be data driven. Everyone has “data“ but they get the second part wrong—“driven.“ Measuring is the job that holds the organization accountable, but is the hardest job. You are forced to face inconvenient truths, should not serve personal agenda and requires changing paths in the light of new insights. 
+
+The flip side of data is analysis paralysis.
+
 Data is powerful but it is addictive causing analysis paralysis. A/B testing colors at Google generate them billions, but that doesn't mean you run A/B testing before deciding what pants to put on before you go to work.
 
 Critics argue too much data driven isn't healthy. To them being data informed is enough. They are right because optimizing one part of your business can harm another part of business without taking a step back to look at the bigger picture. But that does not warrant to skip the hard work of data analytics.
@@ -23,6 +29,9 @@ Optimization is all about finding the lowest or highest values, but within const
 Optimizing without a soul misses the bigger picture. Quantitative data is great for testing hypotheses, but it is lousy to generate new ones unless you combine with human judgement.
 
 It is all about developing healthy skepticism and curiosity to get closer to the truth. You need to be opportunistic and data analytics will help you get faster to making your vision into a reality.
+
+## Good metrics 
+
 
 ## Data pitfalls 
 
