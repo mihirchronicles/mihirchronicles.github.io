@@ -12,8 +12,43 @@
 <p>Optimization is all about finding the lowest or highest values, but within constrained range. If you tell a machine to build a bike with 3 tires, with the most stable layout, it will come up with a tricycle-like configuration. It is the most optimal solution. However, there is another option. Four wheels would be better to provide the most stability. Math is good at optimizing a known system. Human judgement is good at finding a new one.</p>
 <p>Optimizing without a soul misses the bigger picture. Quantitative data is great for testing hypotheses, but it is lousy to generate new ones unless you combine with human judgement.</p>
 <p>It is all about developing healthy skepticism and curiosity to get closer to the truth. You need to be opportunistic and data analytics will help you get faster to making your vision into a reality.</p>
-<h2>Good metrics</h2>
+<blockquote>
+<p>There are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns — the ones we don’t know we don’t know. — Donald Rumsfeld, Former US Secretary of Defense</p>
+</blockquote>
+<h2>Underlying principles of metrics</h2>
+<p>There is no substitute for engaging with your customer but choosing the good and right metrics pays.</p>
+<p>Following are <em>good</em> metrics:</p>
+<ol>
+<li><em>A good metric is comparative.</em> Being able to compare a metric to other time, groups of users, or industry metrics helps you understand where things are moving. “Increased conversion from last week” is more meaningful than “2% conversion.”</li>
+<li><em>A good metric is understandable.</em> If people can't remember it and discuss it, it's much harder to be a data driven culture.</li>
+<li><em>A good metric is a ratio or a rate.</em> These are common within accounting and finance world to understand the health of an organization at a glance. Ratios are easier to act on. They are inherently comparative. And, they are good for comparing factors that are opposing to each other for which there is an inherent tension.</li>
+<li><em>A good metric changes the way you behave.</em> This is critical for any metric because it pushes you to do things differently based on changes in metrics. If you want to change behavior, your metric must be tied to the behavioral change you want.</li>
+<li><em>A good metric should be paired with others to get a full picture.</em> For example, <em>conversion rate</em> (percentage of people who buy something) should be tied to <em>time-to-purchase</em> (how long it takes for someone to buy something) to tell you about cash flow. Similarly, <em>viral coefficient</em> (the number of people a user successfully invites to your service) and <em>viral cycle time</em> (how long it takes them to invite others) drive your adoption rate.</li>
+</ol>
+<p>Following concepts will help you choose the <em>right</em> metrics:</p>
+<ol>
+<li><em>Qualitative versus quantitative metrics.</em> Qualitative metrics are unstructured, anecdotal, revealing, and hard to aggregate; quantitative metrics involve numbers and statistics, and provide hard numbers but less insight. Quantitative data is easy to understand, you can aggregate it, extrapolate it, and put in spreadsheet. But when you ask people about their opinions on the problems they are facing, that is quantitative data. It is messy, hard to quantify, and is emotional. It requires asking thoughtful question. Unprepared interviews yield misleading or meaningless results.</li>
+<li><em>Vanity versus actionable metrics.</em> Vanity metrics might make you feel good, but they don't change how you act. Actionable metrics change your behavior by helping you pick a course of action. Consider “total sign-ups”. That is a vanity metric. Actionable metric is “percent of users who are active.” Views, visits, unique visitors, followers, time on site, emails collected, and number of downloads are all vanity metrics. None of these lead to real value.</li>
+<li><em>Exploratory versus reporting metrics.</em> Exploratory metrics are speculative and try to find unknown insights to give you the upper hand, while reporting metrics keep you abreast of normal, managerial, day-to-day operations. The “unknown unknowns” coined by Donald Rumsfeld, former US Secretary of Defense are where the magic lives. Rumsfeld's quadrant is a great framework to conduct discovery:
+<ul>
+<li>Things we know, we know. Are <em>facts</em> that may be wrong and should be checked against data.</li>
+<li>Things we know, we don't know. Are <em>questions</em> we can answer by reporting, which we should baseline and automate.</li>
+<li>Things we don't know, we know. Are <em>intuition</em> which we should quantify and teach to improve effectiveness and efficiency.</li>
+<li>Things we don't know, we don't know. Are <em>exploration</em>, which is where unfair advantage and interesting epiphanies live.</li>
+</ul>
+</li>
+<li><em>Leading vs lagging metrics.</em> Leading metrics give you a predictive understanding of the future; lagging metrics explain the past. Leading metrics are better because you still have time to act on them—the horse hasn't left the barn yet. Leading metric sometimes called a leading indicator. For example, a number of prospects in your sales funnel give you a sense of how many customers you'll acquire in the future. On the other hand, lagging metric such as churn gives you an indication that there's a problem. By the time you find lagging metrics and try to figure out next steps, it might be too late because they measure after the fact. Indicators are everywhere. It requires proactiveness. You need to be able to do cohort analysis and compare groups over time.</li>
+<li><em>Correlated versus casual metrics.</em>  If two metrics change together, they are correlated, but if one metric causes another metric to change, they are causal. If you find a causal relationship between something you want (revenue) and something you can control (marketing/which ad you show), then change the future. For example, ice cream and drowning rates both happen because of summer weather, but looking at a simple correlation without demanding causality leads to bad decisions. Correlations can help you predict but finding the cause of something means you can change it. You prove causality by finding a correlation, then running an experiment in which you control the other variables and measure the difference. This is hard to do because no two users are identical; it's often impossible to subject a statistically significant number of people to a properly controlled experiment in the real world. Correlation is good. Causality if great.</li>
+</ol>
+<h2>Testing</h2>
+<p>Testing is the heart of making progress and moving the business model in the right direction. A few concepts to remember while testing.</p>
+<ol>
+<li><em>Segmentation</em>: A segment is a group that shares common characteristics. For example, users who browse your application on Firefox. Then you can compare one segment to another. For example, users who browse your application on Safari. Segmentation is wide open to industry, marketing or product features.</li>
+<li><em>Cohort Analysis</em>: This allows for comparison of a same group over time. For example, user who signed up during alpha release (small group) will have a different experience than the user who signed up during beta release (larger group). Each group of users is a cohort—participants in an experiment across their lifecycle. You can compare cohort against one another to see if overall key metrics are getting better. Overtime you would be releasing key features satisfying your latest cohort from initial cohort. For example, cohort analysis might show you the revenue generated from January is a lot higher than the month in December. Overtime, the revenue is declining from January cohort. But as you launch more feature, the same cohort decides to stick making the drop-off better.</li>
+<li><em>A/B &#x26; Multivariate Testing</em>: Studies in which different groups of test subjects are given different experiences at the same time is referred as cross-sectional studies. This is in contrast with cohort analysis as the testing is done over the lifespan of a customer from the same group. When we are comparing one attribute of a subject's experience (for example link color), and assuming everything else is equal we are doing A/B testing. A/B testing does not come without criticism. For A/B test to be successful you need a large amount of data which is why Google is able to experiment a lot. Or to test all attributes, it might be time-consuming. To avoid the latter, you can conduct multivariate analysis. This relies on statistical analysis of the results to see which of many factors correlates strongly with an improvement in a key metric.</li>
+</ol>
 <h2>Data pitfalls</h2>
+<p>Monica Rogati who is a Data Scientist at LinkedIn have the following advice on how to avoid data pitfalls.</p>
 <ol>
 <li><em>Assuming data is clean.</em> Before you can analyze, you need to ensure data is clean and accounts for all business logic. For example, empty fields such as "Null" account for 30% of the values, you are miscalculating. Or if you are granting dollars to charities. But if a donor has multiple accounts, transferring funds from one account to another is considered granting which is not true because charities have not received anything.</li>
 <li><em>Not normalizing.</em> Let's say you are looking for popular destinations to take vacation with your family. Is it popular based on airport business or in fact people travel a lot there for a tourist attraction.</li>
@@ -26,7 +61,6 @@
 <li><em>The Not Collected Here Syndrome.</em> Mashing up your data with other data sources can lead to valuable insights. For example, do your best customers come from zip codes with a high concentration of sushi restaurants? This might give you growth ideas about what experiments to run next or even influence growth strategy.</li>
 <li><em>Focusing on noise.</em> We are hardwired to see patterns where there are none. For example, seeing a joker shaped cloud. It helps to set aside vanity metrics, step back and look at the bigger picture.</li>
 </ol>
-<p><em>Source: Lean Analytics, Monica Rogati, Data Scientist at Linkedin</em></p>
 <h2>Actionable tips</h2>
 <ul>
 <li>Retrieve: First, you need to learn how to get data. SQL is most common in work places. Divide data gathering into three buckets:
