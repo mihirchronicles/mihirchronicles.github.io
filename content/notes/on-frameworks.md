@@ -300,14 +300,14 @@ A theory of innovation that is based on the economic principle that people buy p
 
 </details>
 
-## Product & strategy
+## Business strategy
 
 | Framework | Description |
 | -------------|:-------------:|
 | 7 Powers | 7 Powers is arguably the best business strategic framework which includes scale economics, switching costs, cornered resource, counter positioning, branding, network effects, and process. |
 | _Wardley Maps_ | They provide situational awareness and shared assumptions about a context necessary for building a sound strategy. It is a representation of the landscape in which a business operates. |
 | _Porter's Five Forces_| A framework for determining the level of competition within an industry and evaluate a firm's strategic position: bargaining power of suppliers and buyers, the threat of new entrants or substitutes, and industry rivalry, make up the five forces. |
-| _The Lean Canvas_ | It lays out a clear process for defining and adjusting a business model based on customer devlopment. |
+| _The Lean Canvas_ | It lays out a clear process for defining and adjusting a business model based on customer development. |
 
 <details>
     <summary><strong>7 Powers</strong></summary>
@@ -394,6 +394,19 @@ The Lean Canvas is a one-page visual business plan that's ongoing and actionable
 7. Cost structure: List your fixed and variable costs. What are the direct, variable, and indirect costs you'll have to pay for when you run the business?
 8. Metrics: List the key numbers that tell you how your business is doing. Do you know what numbers to track to understand if you are making progress?
 9. Unfair advantage: Something that cannot be easily copied or bought. What is the “force multiplier” that will make your efforts have greater impact than your competitors?
+
+</details>
+
+## Analytics
+
+| Framework | Description |
+| -------------|:-------------:|
+| Pirate Metrics | A term coined by venture capitalist Dave McClure describes the 5 steps through which users, customers, or visitors must progress in order for your company to extract all the value from them. The five steps  include acquisition, activation, retention, revenue and referral—AARRR. |
+| Engine of Growth | TBD   |
+
+<details>
+    <summary><strong>Pirate Metrics</strong></summary>
+    <br>
 
 </details>
 <br>

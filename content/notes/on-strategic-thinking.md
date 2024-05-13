@@ -41,11 +41,17 @@ To illustrate an objective and a key result, consider this example: I want to go
 
 Strategy is a plan of action to get from point A (current) to point B (future).
 
+> Strategy is for shaping the world, rather than accepting the consequences. — Roger Martin
+
+> And strategy is a journey, what you want to have as a mechanism for tweaking it, honing it, and refining it so it gets better and better as you go along. Another thing that helps with strategy is not letting it get overcomplicated. It's great if you can write your strategy on a single page. Here's where we're choosing to play. Here's how we're choosing to win. Here are the capabilities we need to have in place. Here are the management systems. And that's why it's going to achieve this goal, this aspiration that we have. Then you lay out the logic, what must be true for that all to work out the way we hope. Go do it, and watch and tweak as you go along. That may feel somewhat more worry-making, angst-making than planning, but I would tell you that if you plan, that's a way to guarantee losing. If you do strategy, it gives you the best possible chance of winning. — Roger Martin
+
+> This thing called planning has been around for a long, long time. People would plan out the activities they're going to engage in. More recently, has been a discipline called strategy. People have put those two things together to call something strategic planning. Unfortunately, those things are not the same, strategy and planning. — Roger Martin
+
+> The way we think about growth to say it isn't simply how you compete in the market how you drive to leadership there is something that happens internally as companies grow that either lead to their success or lead to their downfall and we talk about it on two dimensions and we say first to what degree is the company still retaining its sense of founders mentality and to what degree is the company benefiting from the scale and scope that comes with growth and what we see is in most cases companies start as fantastic insurgents very high founders mentality no scale and scope whatsoever but as they grow the default path is they move into incumbency gaining huge benefits of scale and scope but losing that original insurgent culture by definition one of the main things that you lose is founder mentality. — James Allen
+
 > A great deal of strategy work is trying to figure out what is going on. Not just deciding what to do, but the more fundamental problem of comprehending the situation. — Graham Duncan
 
 > Mission: Why, Vision: What, Strategy: How, Segmentation: Who, Positioning: Where, Roadmap: When — Shreyas Doshi
-
-> Strategy is for shaping the world, rather than accepting the consequences. — Roger Martin
 
 > The essence of strategy is about choices. — Michael Porter
 
@@ -131,6 +137,8 @@ Hamilton Helmer covers 7 powers that companies can leverage on:
     <summary><strong>References</strong></summary>
     <br>
 
+- [A Plan Is Not a Strategy by Roger Martin](https://www.youtube.com/watch?v=iuYlGRnC7J8)
+- [Founder's Mentality and the paths to sustainable growth by Bain Capital](https://www.youtube.com/watch?v=Rp4RCIfX66I&list=FLrlPaGQuKQiYMqpFYyc-40A&index=20)
 - [Build by Tony Fadell](/build)
 - [7 Powers | The Foundations Of Business Strategy by Hamilton Helmer](/7-powers)
 - [Let My People Go Surfing Inc by Yvon Chouinard](/let-my-people-go-surfing)
