@@ -28,7 +28,7 @@ const WorkIndex = ({ data, location }) => {
         <StaticImage src="../images/big_imposter.png" alt="big_imposter" className="gallery-image" />
       </div>
       <p><strong>[2023 - Current]</strong></p>
-      <p><strong>Story</strong>: A personal project on how curiosity can help them beat the imposter syndrome. Handmade pocket books and flip books mostly isnpired to share them with my son.</p>
+      <p><strong>Story</strong>: A personal project on how curiosity can help them beat the imposter syndrome. Handmade pocket books and flip books mostly inspired to share them with my son.</p>
       <p><strong>Instagram</strong>: <a href="https://www.instagram.com/beatbigimposter/">@beatbigimposter</a></p>
 
       <h2>Wise Charlie</h2>
