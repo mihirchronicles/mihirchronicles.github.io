@@ -109,6 +109,8 @@ Monica Rogati who is a Data Scientist at LinkedIn have the following advice on h
         - What is the impact?
         - What should we do about it (if anything)?
 
+## Metrics
+
 | Metrics | Description |
 | -------------|:-------------:|
 | TBD | TBD |
