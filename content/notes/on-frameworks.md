@@ -22,6 +22,8 @@ All frameworks have complementary weaknesses. And vice versa. It is wise to use 
 | _Eisenhower Matrix_ | The Eisenhower box includes one axis that is important, the other axis is urgent. It is a two by two matrix to help with prioritization. |
 | _Objective Key Results (OKR)_ | OKR is a goal setting framework that was popularized in Silicon Valley. It stands for Objective and Key Results. Objective answers the WHAT is to be achieved. Key Results answers the HOW is it going to be achieved. |
 | _Now Next Later_ | The Now-Next-Later roadmap is a product management tool that organizes work into three-time horizons, from immediate to long term, starting with the most urgent problems to solve. |
+| _One-way & Two-way Decisions_ | One-way door decisions have lasting effects and are often hard to reverse. Conversely, two-way door decisions are reversible and less impactful. They provide opportunities to experiment, learn, and iterate. |
+| _3Ds_ | A tactical decision-making framework by Annie Duke who is a decision-making expert. The 3 Ds are— discover, discuss and decide. |
 
 <details>
     <summary><strong>S.P.A.D.E</strong></summary>
@@ -197,12 +199,46 @@ This is one of the best frameworks for roadmapping and planning. It accounts for
     - Is the problem valuable?
 
 </details>
+<br>
 
-## Product design
+<details>
+    <summary><strong>One-way & Two-way Decisions</strong></summary>
+    <br>
+
+With a one-way door decision, the idea is that, when we make the decision, we walk through the door. Upon entering the space on the other side of the door, we are able to see the consequences of our decisions. Unfortunately, because it’s a one-way door, if we don’t like what we see, we can’t turn around and walk out through the door again. This is what Bezos calls a “Level 1 decision.” For these types of decisions, we want to be cautious, data-driven, and deliberate in our decision-making.
+
+With a two-way door decision, on the other hand, when we walk through the door, if we don’t like what we see, we get to turn around and undo our decision. This is what Bezos calls a “Level 2 decision.” He suggests that, with a two-way door decision, we’ll learn more by acting—walking through the door and seeing what’s on the other side—than we would by trying to imagine what’s on the other side of the door.
+
+Jeff Bezos, founder and CEO of Amazon, made this exact argument in his 2015 letter to shareholders,33 where he introduced the idea of Level 1 and Level 2 decisions. He describes a Level 1 decision as one that is hard to reverse, whereas a Level 2 decision is one that is easy to reverse. Bezos argues that we should be slow and cautious when making Level 1 decisions, but that we should move fast and not wait for perfect data when making Level 2 decisions.
+
+>  You need people to be ambitious, technically ambitious, “If there are five ways to do something, we’ll study them, but let’s study them very quickly and make a decision.” We can always change our mind. Changing your mind, I talk about one-way doors and two-way doors, most decisions are two-way doors. If you make the wrong decision, if it’s a two-way door decision, you pick a door, you walk out and you spend a little time there. It turns out to be the wrong decision, you can come back in and pick another door. Some decisions are so consequential and so important and so hard to reverse that they really are one-way door decisions. You go in that door, you’re not coming back. And those decisions have to be made very deliberately, very carefully. If you can think of yet another way to analyze the decision, you should slow down and do that. So when I was CEO of Amazon, I often found myself in the position of being the chief slow down officer because somebody would be bringing me a one-way door decision and I would say, “Okay, I can think of three more ways to analyze that. So let’s go do that because we are not going to be able to reverse this one easily. Maybe you can reverse it if it’s going to be very costly and very time-consuming. We really have to get this one right from the beginning.” And what happens, unfortunately, in companies, what can happen, is that you have a one-size-fits-all decision-making process where you end up using the heavyweight process on all decisions. Two-way door decisions should mostly be made by single individuals or by very small teams deep in the organization. And one-way door decisions are the irreversible ones. Those are the ones that should be elevated up to the senior-most executives who should slow them down and make sure that the right thing is being done. Changing the decision is going to be very, very complicated. Some of them are technical decisions too because some technical decisions are like quick-drying cement. Once you make them, it gets really hard. Choosing which propellants to use in a vehicle, selecting LNG for the booster stage and selecting hydrogen for the upper stage, that has turned out to be a very good decision. But if you changed your mind, that would be a very big setback. So that’s the kind of decision you scrutinize very, very carefully. Other things just aren’t like that. Most decisions are not that way. Most decisions should be made by single individuals and done quickly in the full understanding that you can always change your mind. I’m here and I could say, “Lex, how tall do you think this ceiling is?” And you’d be like, “I don’t know, Jeff, maybe 12 feet tall.” And I would say, “I think it’s 11 feet tall.” And then we’d say, “You know what? Let’s just call it 11 and a half feet.” That’s compromise, instead of. The right thing to do is to get a tape measure or figure out some way of actually measuring, but think getting that tape measure and figure out how to get it to the top of the ceiling and all these things, that requires energy. Compromise, the advantage of compromise as a resolution mechanism is that it’s low energy, but it doesn’t lead to truth. And so in things like the height of the ceiling where truth is a noble thing, you shouldn’t allow compromise to be used when you can know the truth. — Jeff Bezos/Lex Fridman
+
+</details>
+<br>
+
+<details>
+    <summary><strong>3Ds</strong></summary>
+    <br>
+
+Annie Duke is a decision-making expert, former professional poker player, special partner at First Round Capital, and the author of Thinking in Bets (a national bestseller) and Quit: The Power of Knowing When to Walk Away. She also co-founded Alliance for Decision Education, a nonprofit whose mission is to improve lives by empowering students through decision skills education. Use the “3Ds” framework to make better decisions for your org. More can be found on Lenny's Podcast.
+
+1. Discover: Collect individual opinions independently before group discussion and then share these with everybody prior to the meeting.
+2. Discuss: Compare perspectives within the group, focusing on understanding points of disagreement rather than building consensus.
+3. Decide: Make decisions independently post-discussion to minimize group influence.
+
+Other tips from Annie Duke:
+- Incorporate the word “nevertheless” into discussions, especially when making decisions or addressing disagreements. It acknowledges the other person’s perspective while affirming your decision or stance.
+- Replace confrontational language like “I disagree” or “you’re wrong” with phrases like “I don’t understand” so everyone feels heard and valued. If people feel heard, they are more likely to feel like they contributed to the decision, even when they disagree.
+- Use pre-mortems to set kill criteria. Before starting a project, imagine failure and what early warning signs might have predicted it. Commit in advance to reassess or pivot if you notice those red flags later on. This makes it easier to walk away when sunk costs and overconfidence bias loom large.
+
+</details>
+
+## Product design & discovery
 | Framework | Description |
 | -------------|:-------------:|
 | _Domain Model_| It is about the practice of software design which puts domain users, its behavior and problems first. It is driven by business logic. Domain is the problem domain, and the Model is the model of the problem. |
 | _Jobs To Be Done (JTBD)_ | A theory of innovation that is based on the economic principle that people buy products and services to get “jobs” done, i.e., to help them accomplish tasks, achieve goals and objectives, resolve and avoid problems, and to make progress in their lives. |
+| _Continuous Discovery_ | Teresa’s Torres authored Continuous Discovery Habits, which is her continuous discovery framework for building better products that are guided by user feedback. |
 
 <details>
     <summary><strong>Domain Model</strong></summary>
@@ -299,6 +335,50 @@ A theory of innovation that is based on the economic principle that people buy p
 #### Further reading
 
 - [The ultimate guide to JTBD Lenny's Podcast | Bob Moesta ](https://www.lennyspodcast.com/the-ultimate-guide-to-jtbd-bob-moesta-co-creator-of-the-framework/)
+
+</details>
+
+<br>
+
+<details>
+    <summary><strong>Continuous Discovery</strong></summary>
+    <br>
+
+Product Manager's work: work that you do to decide what to build as discovery and the work that you do to build and ship a product as delivery.
+
+There are 6 habits required for continuous discovery: 
+- Outcome-oriented. Focusing on outcome rather than output.
+- Customer-centric. Really understanding your customers.
+- Collaborative. Getting the right people involved in discovery.
+- Visual. Using the opportunity solution tree, among other tools to map-out what you want to learn in discovery.
+- Experimental. Making the process hypothesis-driven and learning all the time.
+- Continuous. Making discovery an ongoing part of business-as-usual rather than a one-off activity.
+
+Think in the structure of trees. It helps us deconstruct large, intractable problems into a series of smaller, more solvable problems. The value of breaking big opportunities into a series of smaller opportunities is twofold. First, it allows us to tackle problems that otherwise might seem unsolvable. Second, it allows us to deliver value over time. That second benefit is at the heart of the Agile manifesto and is a key tenet of continuous improvement.
+
+The biggest barrier to testing assumptions is becoming aware of the assumptions we are making. sizes. As product trios, we are primarily concerned with assumptions in the following categories:
+- Desirability assumptions: Does anyone want it? Will our customers get value from it?
+- Viability assumptions: Should we build it?
+- Feasibility assumptions: Can we build it?
+- Usability assumptions: Is it usable? Can customers find what they need? Will
+- Ethical assumptions: Is there any potential harm in building this idea? This is an area that is grossly underdeveloped for many product trios.
+
+Here are a few other concepts from Teresa Torres.
+
+Opportunity solution tree (OST): Opportunity solution trees are a simple way of visually representing the paths you might take to reach a desired outcome. The root of the tree is your desired outcome—the business need that reflects how your team can create business value. Opportunity solution trees help you resolve the tension between business needs and customer needs. As you embark on the wandering paths of discovery, your tree will act as your roadmap, helping you find the best path to your desired outcome.
+
+Skipping “whether or not” decision is when we frame a problem as “Should we do this or not?” Instead of framing our decisions as “whether or not” decisions, develop a “compare and contrast” mindset. Instead of asking, “Should we solve this customer need?” we’ll ask, “Which of these customer needs is most important for us to address right now?” We’ll compare and contrast our options.
+
+A business outcome (for example, retention) measures how well the business is progressing. A product outcome (for example, customers like your ice cream) measures how well the product is moving the business forward. A traction metric measures usage of a specific feature (for example, customers like the waffle cones) or workflow in the product.
+
+Experience map: An experience map that reflects what you know about your customers’ experience today while answering outcome questions. Each individual comes up with their own visuals. Then the team combines all of their maps together. This shared map will guide your customer interviews, and it will help give structure to the opportunity space. It can and should evolve week over week as your team learns about your customers.
+Interview snapshot: An interview snapshot is a one-pager designed to help you synthesize what you learned in a single interview. It’s how you are going to turn your copious notes into actionable insights. Your collection of snapshots will act as a reference or index to the customer knowledge bank you are building through continuous interviewing.
+
+Opportunity assessment: teams assess opportunities using the following criteria: opportunity sizing, market factors, company factors, and customer factors.
+- Opportunity sizing helps us answer the questions: How many customers are affected and how often?
+- Market factors help us evaluate how addressing each opportunity might affect our position in the market.
+- Company factors help us evaluate the strategic impact of each opportunity for our company, business group, or team.
+- Customer factors help us evaluate how important each opportunity is to our customers.
 
 </details>
 
