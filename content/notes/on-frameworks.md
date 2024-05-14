@@ -6,8 +6,6 @@ draft: false
 path: "/notes/on-frameworks"
 ---
 
-_**UNDER CONSTRUCTION**_
-
 A structured thinking is required to solve problems and to conduct deep analysis. Without hard parameters, it is difficult to manage scope of the problem and create actionable steps. 
 
 Frameworks are not immediately applicable to the real world because the real world doesn't share all the assumptions and parameters. 
