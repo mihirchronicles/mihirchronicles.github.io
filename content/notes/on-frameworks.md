@@ -485,6 +485,7 @@ The Lean Canvas is a one-page visual business plan that's ongoing and actionable
 | _AARRR Pirate Metrics_ | A venture capitalist Dave McClure coined Pirate Metrics which categorizes the user metrics into AARRR—acquisition, activation, retention, revenue and referral. |
 | _The Three Engines of SaaS Growth_ | In The Lean Startup Eric Ries identified the three drivers of business growth: viral, sticky and paid. |
 | _Lean Canvas Metrics_ | Lean Canvas is an adaptation of Business Model Canvas by Alexander Osterwalder which Ash Maurya created in the Lean Startup spirit (Fast, Concise and Effective startup). For each lean canvas box, there are relevant metrics associated to it. |
+| _The Lean Gates of Analytics_ | The analytics framework presented in Lean Analytics based on empathy, stickiness, virality, revenue and scale. |
 
 <details>
     <summary><strong>Google HEART</strong></summary>
@@ -581,6 +582,25 @@ Following are relevant metrics for each one of the lean canvas box:
 6. Unfair Advantage: Respondents' understanding of UVP (unique value proposition), patents, brand equity, barriers to entry, number of new entrants, exclusivity of relationships
 7. Revenue Streams: Lifetime customer value, average revenue per user, conversion rate, shopping cart size, click through-rate
 8. Cost Structure: Fixed costs, cost of customer acquisition, cost of servicing the nth customer, support costs, keyword costs
+
+</details>
+<br>
+
+<details>
+    <summary><strong>The Lean Gates of Analytics</strong></summary>
+    <br>
+
+The analytics framework presented in Lean Analytics takes many of the stages in the four frameworks—Dave McClure’s AARRR Pirate Metrics, Ash Marya’s Lean Canvas, Sean Ellis’s, Startup Growth Pyramid and The Long Funnel— combines them into a single framework with five stages:
+
+1. Empathy — You’re looking for a real, poorly-met need that can be found in a reachable market. Once you do so, you’re figuring out how to solve their problem in a way customers will accept and pay for.
+2. Stickiness — You’re looking for the right mix of products/features/functionality that will keep users around.
+3. Virality — You’re looking for ways to fuel growth organically and artificially.
+4. Revenue — You’re looking for a scalable and sustainable business with the right margins in a healthy ecosystem.
+5. Scale — You’re looking to scale up the business on all fronts.
+
+<img src="../../src/images/lean_analytics.png" alt="lean_analytics"/>
+
+_Source_: https://leananalyticsbook.com/the-lean-gates-of-analytics/
 
 </details>
 <br>

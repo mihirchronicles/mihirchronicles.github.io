@@ -36,7 +36,7 @@ It is all about developing healthy skepticism and curiosity to get closer to the
 
 There is no substitute for engaging with your customer but choosing the good and right metrics pays. 
 
-Following are _good_ metrics:
+What makes for a good metric?
  
 1. *A good metric is comparative.* Being able to compare a metric to other time, groups of users, or industry metrics helps you understand where things are moving. “Increased conversion from last week” is more meaningful than “2% conversion.”
 2. *A good metric is understandable.* If people can't remember it and discuss it, it's much harder to be a data driven culture. 
@@ -44,7 +44,7 @@ Following are _good_ metrics:
 4. *A good metric changes the way you behave.* This is critical for any metric because it pushes you to do things differently based on changes in metrics. If you want to change behavior, your metric must be tied to the behavioral change you want.
 5. *A good metric should be paired with others to get a full picture.* For example, _conversion rate_ (percentage of people who buy something) should be tied to _time-to-purchase_ (how long it takes for someone to buy something) to tell you about cash flow. Similarly, _viral coefficient_ (the number of people a user successfully invites to your service) and _viral cycle time_ (how long it takes them to invite others) drive your adoption rate.
 
-Following concepts will help you choose the _right_ metrics:
+What makes for a right metric? You need to keep five things in mind when picking metrics to measure.
 
 1. *Qualitative versus quantitative metrics.* Qualitative metrics are unstructured, anecdotal, revealing, and hard to aggregate; quantitative metrics involve numbers and statistics, and provide hard numbers but less insight. Quantitative data is easy to understand, you can aggregate it, extrapolate it, and put in spreadsheet. But when you ask people about their opinions on the problems they are facing, that is quantitative data. It is messy, hard to quantify, and is emotional. It requires asking thoughtful question. Unprepared interviews yield misleading or meaningless results.
 2. *Vanity versus actionable metrics.* Vanity metrics might make you feel good, but they don't change how you act. Actionable metrics change your behavior by helping you pick a course of action. Consider “total sign-ups”. That is a vanity metric. Actionable metric is “percent of users who are active.” Views, visits, unique visitors, followers, time on site, emails collected, and number of downloads are all vanity metrics. None of these lead to real value.
