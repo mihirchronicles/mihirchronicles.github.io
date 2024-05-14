@@ -483,12 +483,106 @@ The Lean Canvas is a one-page visual business plan that's ongoing and actionable
 
 | Framework | Description |
 | -------------|:-------------:|
-| TBD | TBD |
-
+| _Google HEART_ | It offers five metrics to monitor the user experience—happiness, engagement, adoption, retention and task success. |
+| _AARRR Pirate Metrics_ | A venture capitalist Dave McClure coined Pirate Metrics which categorizes the user metrics into AARRR—acquisition, activation, retention, revenue and referral. |
+| _The Three Engines of SaaS Growth_ | In The Lean Startup Eric Ries identified the three drivers of business growth: viral, sticky and paid. |
+| _Lean Canvas Metrics_ | Lean Canvas is an adaptation of Business Model Canvas by Alexander Osterwalder which Ash Maurya created in the Lean Startup spirit (Fast, Concise and Effective startup). For each lean canvas box, there are relevant metrics associated to it. |
 
 <details>
-    <summary><strong>TBD</strong></summary>
+    <summary><strong>Google HEART</strong></summary>
     <br>
+
+The HEART metrics framework can help you share the results with stakeholders in a way that will build empathy for users and provide insight to make data-driven and user-centric decisions. It will supply the metrics you need to prioritize a long-delayed UI for a complex application.
+
+Google applies three criteria to each HEART Metric: Goal, Signals, and Metrics. The criteria ranges from the qualitative to the quantitative. 
+- A Goal is a high-level description of what you want to achieve. 
+- Signals indicate what you can measure as you work toward your Goal. 
+- Metrics include concrete data that can show your progress.
+
+Here is more on the five metrics:
+1. Happiness: Happiness is the state of being happy, which varies based on individual user attitudes. It’s relative and hard to quantify. In the HEART framework, Happiness is measured with user surveys.
+2. Engagement: Engagement captures the user’s involvement. For consumer-facing web applications, the user equates to the person who logged into the application. This is not as straightforward for enterprise applications. Ask yourself:
+    - Did a human perform an action, like create a new record? 
+    - Did an application use your application to communicate with another application? Did it read or write data?
+3. Adoption and Retention: Adoption looks at new users while Retention tracks the longevity of all users. Adoption and Retention metrics can be used to provide stronger insight into counts of the number of unique users in a given time period (e.g. seven-day active users), addressing the problem of distinguishing new users from existing users. Adoption metrics track how many new users start using a product during a given time period (for example, the number of accounts created in the last seven days), and Retention metrics track how many of the users from a given time period are still present in some later time period (for example, the percentage of seven-day active users in a given week who are still seven-day active three months later). What counts as "using" a product can vary depending on its nature and goals.
+4. Task Success: the "Task Success" category encompasses several traditional behavioral metrics of user experience, such as efficiency (e.g. time to complete a task), effectiveness (e.g. percent of tasks completed), and error rate. One way to measure these on a large scale is via a remote usability or benchmarking study, where users can be assigned specific tasks. With web server log file data, it can be difficult to know which task the user was trying to accomplish, depending on the nature of the site. If an optimal path exists for a particular task (e.g. a multi-step sign-up process) it is possible to measure how closely users follow it
+
+#### Further reading
+
+- [Why Google HEART framework? Definitions, reliability & value](https://www.capitalone.com/tech/software-engineering/heart-framework-enterprise-applications/)
+- [Measuring the User Experience on a Large Scale: User-Centered Metrics for Web Applications](https://research.google/pubs/measuring-the-user-experience-on-a-large-scale-user-centered-metrics-for-web-applications/)
+
+</details>
+<br>
+
+<details>
+    <summary><strong>AARRR Pirate Metrics</strong></summary>
+    <br>
+
+AARRR Pirate Metrics framework is an acronym for a set of five user-behavior metrics that product-led growth businesses should be tracking: acquisition, activation, retention, referral, and revenue.
+
+1. Acquisition: How are people discovering your product or company?
+    - Function: Generate attention through a variety of means, both organic and inorganic
+    - Relevant Metrics: Traffic, mentions, cost per click, search results, cost of acquisition, open rate
+2. Activation: Are these people taking the actions you want them to?
+    - Function: Turn the resulting drive-by visitors into users who are somehow enrolled
+    - Relevant Metrics: Enrollments, sign-ups, completed onboarding process, used the service at least once, subscriptions
+3. Retention: Are your activated users continuing to engage with the product?
+    - Function: Convince users to come back repeatedly, exhibiting sticky behavior
+    - Relevant Metrics: Engagement, time since last visit, daily and monthly active use, churns
+4. Revenue: Are your personas willing to pay for this product? 
+    - Function: Business outcomes which vary based on business model— purchases, ad clicks, content creation, subscription, etc
+    - Relevant Metrics: Customer lifetime value, conversion rate, shopping cart size, click-through revenue
+5. Referral: Do users like the product enough to tell others about it?
+    - Function: Viral and word-of-mouth invitations to other potential users
+    - Relevant Metrics: Invitation sent, viral coefficient, viral cycle time
+
+#### Further reading
+
+- [AARRR Pirate Metrics Framework](https://www.productplan.com/glossary/aarrr-framework/)
+
+</details>
+<br>
+
+<details>
+    <summary><strong>The Three Engines of SaaS Growth</strong></summary>
+    <br>
+
+In The Lean Startup Eric Ries identified the three drivers of business growth: viral, sticky and paid. While each of these can drive growth for your company, it’s important to choose the most relevant one for your service offering and business strategy.
+
+1. The Sticky Engine of Growth: If you’re focused on retaining customers for the long term, this is the engine you need to focus on. Maintaining a low customer attrition is absolutely critical. You need to do everything you can to keep your customers coming back month after month. Once you have an exceptionally low attrition rate, you only need to acquire a few new customers to keep your business growing. Before focusing on finding new customers, focus on your current ones. The fundamental KPI for stickiness are:
+    - Customer Retention
+    - Churn Rates
+    - Usage Frequency
+    - Time Since Last Visit
+2. The Viral Engine of Growth: This is the domain of word of mouth and having your product advertise itself. Either by telling their friends or simply using your product, your customers will do your advertising for you. The most critical element of this engine is making sure the every customer brings more than one friend to your business. If 10 of your customers bring 11 of their friends to you, your business will grow rapidly. Because those 11 will bring 11 (or 12) of their friends. Every group will be bigger than the last and you’ll get compounding growth. Be careful about relying on this engine of growth, it’s incredibly difficult to build intentionally. For you to rely on viral marketing, your product needs to be absolutely incredible and fit your target market perfectly. If everything isn’t perfect, the viral loop will hit a dead end and you’ll run out of customers without other marketing. The key metric for this engine is:
+    - Viral Coefficient (the number of new users each user brings on)
+    - Viral Cycle Time (the speed with which a user invites another)
+3. The Paid Engine of Growth: This is what most business owners are familiar with and every form of advertising falls into this category. Whether you’re using the yellow pages or Super Bowel ads, you’re buying your customers. When operating on this engine, each customer needs to give you a profit. If you’re spending a $1.00 to acquire a customer, you better be making enough to cover the $1.00, your other expenses, and leave a bit of profit left over. As long as you’re making a profit on each customer, you can invest those profits into more advertising to accelerate growth. Purchasing ads, employing sales teams, and leasing expensive real estate for foot traffic are all examples of the paid engine of growth. Make sure your costs are covered. The key metrics are:
+    - Customer Lifetime Value (CLV)
+    - Customer Acquisition Cost (CAC)
+    - Time to Customer Breakeven
+
+#### Further reading
+
+- [The three drivers of growth for your business model. Choose one.](http://www.startuplessonslearned.com/2008/09/three-drivers-of-growth-for-your.html)
+
+</details>
+<br>
+
+<details>
+    <summary><strong>Lean Canvas Metrics</strong></summary>
+    <br>
+
+Following are relevant metrics for each one of the lean canvas box:
+1. Problem: Respondents who have this need, respondents who are aware of having the need
+2. Solution: Respondents who try the MVP, engagement, churn, most-used/least-used features, people willing to pay
+3. Unique Value Proposition: Feedback scores, independent ratings, sentiment analysis, customer-worded descriptions, surveys, search and competitive analysis
+4. Customer Segments: How easy it is to find groups of prospects, unique key-word segments, targeted funnel traffic from a particular source
+5. Channels: Leads and customers per channel, viral coefficient, viral cycle, net promoter score, open rate, affiliate margins, click-through rate, page rank, message reach
+6. Unfair Advantage: Respondents' understanding of UVP (unique value proposition), patents, brand equity, barriers to entry, number of new entrants, exclusivity of relationships
+7. Revenue Streams: Lifetime customer value, average revenue per user, conversion rate, shopping cart size, click through-rate
+8. Cost Structure: Fixed costs, cost of customer acquisition, cost of servicing the nth customer, support costs, keyword costs
 
 </details>
 <br>
