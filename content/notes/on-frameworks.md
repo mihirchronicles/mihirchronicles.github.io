@@ -6,6 +6,8 @@ draft: false
 path: "/notes/on-frameworks"
 ---
 
+_**UNDER CONSTRUCTION**_
+
 A structured thinking is required to solve problems and to conduct deep analysis. Without hard parameters, it is difficult to manage scope of the problem and create actionable steps. 
 
 Frameworks are not immediately applicable to the real world because the real world doesn't share all the assumptions and parameters. 
@@ -401,11 +403,11 @@ The Lean Canvas is a one-page visual business plan that's ongoing and actionable
 
 | Framework | Description |
 | -------------|:-------------:|
-| Pirate Metrics | A term coined by venture capitalist Dave McClure describes the 5 steps through which users, customers, or visitors must progress in order for your company to extract all the value from them. The five steps  include acquisition, activation, retention, revenue and referral—AARRR. |
-| Engine of Growth | TBD   |
+| TBD | TBD |
+
 
 <details>
-    <summary><strong>Pirate Metrics</strong></summary>
+    <summary><strong>TBD</strong></summary>
     <br>
 
 </details>
