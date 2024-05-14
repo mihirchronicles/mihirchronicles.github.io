@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 13 May 2024 17:55:12 GMT</lastBuildDate><item><title><![CDATA[Lean Analytics | Use Data To Build A Better Startup Faster by Alistair Croll & Benjamin Yoskovitz]]></title><description><![CDATA[I. Brief Summary II. Big Ideas III. Quotes]]></description><link>https://mihirchronicles.com/lean-analytics/</link><guid isPermaLink="false">https://mihirchronicles.com/lean-analytics/</guid><pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;I. Brief Summary&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 14 May 2024 02:16:33 GMT</lastBuildDate><item><title><![CDATA[Lean Analytics | Use Data To Build A Better Startup Faster by Alistair Croll & Benjamin Yoskovitz]]></title><description><![CDATA[I. Brief Summary II. Big Ideas III. Quotes]]></description><link>https://mihirchronicles.com/lean-analytics/</link><guid isPermaLink="false">https://mihirchronicles.com/lean-analytics/</guid><pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;I. Brief Summary&lt;/h2&gt;
 &lt;h2&gt;II. Big Ideas&lt;/h2&gt;
 &lt;h2&gt;III. Quotes&lt;/h2&gt;</content:encoded></item><item><title><![CDATA[On Analytics]]></title><description><![CDATA[UNDER CONSTRUCTION Analytics is about tracking the metrics that are critical to your business. It matters if your business cares about where…]]></description><link>https://mihirchronicles.com/on-analytics/</link><guid isPermaLink="false">https://mihirchronicles.com/on-analytics/</guid><pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;&lt;strong&gt;UNDER CONSTRUCTION&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Analytics is about tracking the metrics that are critical to your business. It matters if your business cares about where the money is going from or where the money is going to in order to support the business model.&lt;/p&gt;
@@ -146,7 +146,8 @@
 &lt;p&gt;Monkey management is effective when there is organizational complexity. It has two critical benefits. The first is time management and the second is creating high agency staff who are able to deal with problems autonomously.&lt;/p&gt;
 &lt;p&gt;If you understand whose back the monkey is on, you can understand the art of time management and delegation.&lt;/p&gt;
 &lt;p&gt;--&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;This essay was shared on &lt;a href=&quot;https://news.ycombinator.com/item?id=40014540&quot;&gt;Hacker News&lt;/a&gt;. There were insightful comments shared related to this topic.&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[On Frameworks]]></title><description><![CDATA[A structured thinking is required to solve problems and to conduct deep analysis. Without hard parameters, it is difficult to manage scope…]]></description><link>https://mihirchronicles.com/on-frameworks/</link><guid isPermaLink="false">https://mihirchronicles.com/on-frameworks/</guid><pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;A structured thinking is required to solve problems and to conduct deep analysis. Without hard parameters, it is difficult to manage scope of the problem and create actionable steps.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This essay was shared on &lt;a href=&quot;https://news.ycombinator.com/item?id=40014540&quot;&gt;Hacker News&lt;/a&gt;. There were insightful comments shared related to this topic.&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[On Frameworks]]></title><description><![CDATA[UNDER CONSTRUCTION A structured thinking is required to solve problems and to conduct deep analysis. Without hard parameters, it is…]]></description><link>https://mihirchronicles.com/on-frameworks/</link><guid isPermaLink="false">https://mihirchronicles.com/on-frameworks/</guid><pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;&lt;strong&gt;UNDER CONSTRUCTION&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;A structured thinking is required to solve problems and to conduct deep analysis. Without hard parameters, it is difficult to manage scope of the problem and create actionable steps.&lt;/p&gt;
 &lt;p&gt;Frameworks are not immediately applicable to the real world because the real world doesn&apos;t share all the assumptions and parameters.&lt;/p&gt;
 &lt;p&gt;All frameworks have complementary weaknesses. And vice versa. It is wise to use caution to stay adaptable while using frameworks. A few frameworks I often use in my day of managing products.&lt;/p&gt;
 &lt;h2&gt;Decision-making&lt;/h2&gt;
@@ -572,17 +573,13 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;Pirate Metrics&lt;/td&gt;
-&lt;td align=&quot;center&quot;&gt;A term coined by venture capitalist Dave McClure describes the 5 steps through which users, customers, or visitors must progress in order for your company to extract all the value from them. The five steps  include acquisition, activation, retention, revenue and referral—AARRR.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Engine of Growth&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
 &lt;td align=&quot;center&quot;&gt;TBD&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;details&gt;
-    &lt;summary&gt;&lt;strong&gt;Pirate Metrics&lt;/strong&gt;&lt;/summary&gt;
+    &lt;summary&gt;&lt;strong&gt;TBD&lt;/strong&gt;&lt;/summary&gt;
     &lt;br&gt;
 &lt;/details&gt;
 &lt;br&gt;</content:encoded></item><item><title><![CDATA[Leveraging Both Ears ]]></title><description><![CDATA[You are having a conversation with someone and next thing you know is you divert your attention to something else. Then you pull yourself…]]></description><link>https://mihirchronicles.com/leveraging-both-ears/</link><guid isPermaLink="false">https://mihirchronicles.com/leveraging-both-ears/</guid><pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;You are having a conversation with someone and next thing you know is you divert your attention to something else. Then you pull yourself back in and try to chime in while you missed a part of conversation.&lt;/p&gt;
