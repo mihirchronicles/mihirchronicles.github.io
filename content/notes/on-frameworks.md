@@ -301,6 +301,8 @@ Thinking through a customer's point-of-view to design a solution can be highly e
 - [37 Signals Domain Driven](https://dev.37signals.com/domain-driven-boldness/)
 - [Notion's Data Model](https://www.notion.so/blog/data-model-behind-notion)
 - [Stack Overflow Thread](https://stackoverflow.com/questions/3507671/whats-the-difference-between-data-modelling-and-domain-modelling)
+- [Designing a Relational Database and Creating an Entity Relationship Diagram](https://towardsdatascience.com/designing-a-relational-database-and-creating-an-entity-relationship-diagram-89c1c19320b2)
+- [Your secret weapon to a great data model might be sitting on your UX team](https://medium.com/tegus-tech/ayour-secret-weapon-to-a-good-data-model-might-be-sitting-on-your-ux-team-953e1e982103)
 
 </details>
 <br>
