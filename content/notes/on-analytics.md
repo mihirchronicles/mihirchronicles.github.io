@@ -40,7 +40,7 @@ And last thing, both insights and context are equally important.
 
 AMM—analytics maturity model is a sequence of steps or stages that represent the organization's evolution in leveraging data to inform business decisions. The maturity model gives context to where you are in the process and the stages ahead. There are 6 stages of the analytics maturity model and the beginning two stages are part of a starting point foundation. The stages of the analytics maturity model should build on each other, not replace each other. 
 
-**Backward-looking stages**—focusing on what the historical data shows already happened. 
+**Backward looking stages**—focusing on what the historical data shows already happened. 
 
 1. _Foundational_
     - Companies that are in this stage are transitioning from no analytics to prioritize and understand what data they have and where it resides.
@@ -101,12 +101,22 @@ There are 3 flavors of analytics—user analytics, customer analytics and busine
 
 ## Metrics quality
 
+Intelligent products and solutions that build emotional connections with customers by solving their deepest needs depends on quality of your data. Data is not static. It is constantly changing. The virtuous cycle of maintaining quality data is at the heart of data driven organizations. Below are the core elements of building dynamic and intelligent analytics platform.
+
+- Making data cleansing, quality metadata, and data standardization systematic via automation 
+- Ensuring customer data is safe and private at scale
+- Systematically identifying bias in the data through model explainability and error analysis tools
+- Monitoring data and concept drift, creating feedback loops, and retraining models
+- Augmenting and enriching data via programmatic labeling
+- Real-time, structured, data that is standardized, available and applied to high-impact customer use cases
+- Building foundation model architecture and frameworks, enabling teams to solve for customer problems
+
 There is no substitute for engaging with your customer but choosing quality metrics are critical. Data quality measurement stands on 3 questions:
 1. Is it easy to analyze?
 2. Is it easy to maintain?
-3. Is there bad data and do we know how to deal with it?
+3. Is there bad data and do you know how to deal with it?
 
-When you ask these questions, understand when a metric is _good_ and _right_.
+It depends on using _good_ and _right_ metrics.
 
 ### Good metrics
  
