@@ -36,7 +36,70 @@ And last thing, both insights and context are equally important.
 
 > Insight tells you what's happening. Context tells you why it's happening. Insight come from customers and competitors, from markets and industries, but most important, from our data.  Context comes from knowledge and experience. It applies perspective to the data. Combining insights and context gives you the full-screen picture of what is happening, why it's happening and what needs to be done. — Transformed by Marty Cagan
 
-## Metric quality
+## Organization maturity model
+
+AMM—analytics maturity model is a sequence of steps or stages that represent the organization's evolution in leveraging data to inform business decisions. The maturity model gives context to where you are in the process and the stages ahead. There are 6 stages of the analytics maturity model and the beginning two stages are part of a starting point foundation. The stages of the analytics maturity model should build on each other, not replace each other. 
+
+**Backward looking stages**—focusing on what the historical data shows already happened. 
+
+1. _Foundational_
+    - Companies that are in this stage are transitioning from no analytics to prioritize and understand what data they have and where it resides.
+    - Companies rely on this information, combined with benchmark data to make business decisions about how they might need to course correct or continue in a positive direction.  
+    - Organizations start to ask questions such as:
+        - What information do I need to make better business decisions?
+        - How can I obtain that information?
+2.  _Descriptive_
+    - Data and reports in this stage answer the question “What happened?”. 
+        - How many quotes did we create?
+        - How many of those quotes converted to sales?
+        - How much revenue came from those sales?
+3.  _Diagnostic_
+    - This stage answers the question “Why did it happen?” to better understand the reason something happened the way it did.
+        - How many quotes did we create compared to this time last year?
+        - How did we convert quotes to sales by region?
+        - Which regions had better or worse conversion rates?
+        - How have our prices changed this year compared to last year?  
+    - These diagnostic questions build upon the descriptive questions. They go one level deeper, focusing not on the outcome, but instead on understanding if that outcome should have been expected, or if not, why not. This stage looks for the factors that can explain why a certain outcome happened.
+
+**Forward-looking stages**—focusing on predictive business mindset transitioning from reactive approach to proactive approach. 
+
+4.  _Predictive_ 
+    - Questions in this stage are proactive. They focus on what is likely to happen next. Based on the information companies gather in stages two and three, here are some examples questions that can start to emerge: 
+        - What is our expected conversion rate next month by region?
+        - Are we likely to meet our revenue budget this year based on early performance? 
+    - At this stage, the analytics maturity model transitions to a forward-looking perspective, moving from a reactive approach to a proactive and predictive business mindset. 
+    - This mindset enables stakeholders to have an idea of where the business is headed, based on the data they do have.
+5.  _Prescriptive_
+    - Building on the predictive questions, this stage focuses on what decisions can be made to influence the future – how can we make something happen? The goal is to find the best course of action for a given situation. 
+        - How would having more sales reps affect our conversion rate?
+        - How would adjusting our prices affect the expected revenue next month?
+    - Moving to this stage in the model helps business leaders start considering what changes need to be made to move the business in the right direction by leveraging foundational analytics, simulations, or even artificial intelligence for decision support and perspective. 
+    - Variable-driven, what-if style analysis can start to guide stakeholder understanding of where the company is to instead what they can do to affect the future and make more confident decisions.
+6.  _Cognitive_
+    - In this stage, companies begin utilizing machine learning and natural language processing to simulate human thought. 
+    - The goal is to learn from data in real-time and with analytical agility at significant data scale. 
+    - With a variety of approaches such as real-time data mining, pattern recognition, and natural language processing as just a few examples, organizations can identify unexpected, important, and influential patterns in large quantities of data across disparate sources. 
+    - Companies that benefit most from this stage have discipline and a strong foundation in the previous 5 stages and have precise processes in place to gather and store data, often in a central data lake or warehouse, as well as strong cross-platform data analytics adoption.
+
+## Flavors of analytics
+
+There are 3 flavors of analytics—user analytics, customer analytics and business analytics. Having this context is critical to understand how metrics interact between these various stages.
+
+1. User analytics: 
+	- Aggregated and segmented data from all your apps
+	- Funnel conversion based on cyclical periods and marketing campaigns
+	- Google or Adobe are great at showcasing these analytics
+2. Customer analytics:
+	- Product usage across enterprise, active customers, customer support calls, onboarding, average revenue per customer 
+	- CRM tools such as Salesforce can be leveraged including financial systems such as Oracle or any other system in place
+3. Business analytics:
+	- Most analytics are snapshots in time, such as what happened yesterday
+	- This stage shows product usage across time such as lifetime value of a customer (LTV), customer churn rate or customer acquisition costs across all sources
+	- This stage is a combination of all several data sources from—data warehouse, user analytics, customer analysis, CRM, and financial data
+	- Data scientists spend majority of their time here
+	- Your organization's key to success lie in your data warehouse
+
+## Metrics quality
 
 There is no substitute for engaging with your customer but choosing quality metrics are critical. Data quality measurement stands on 3 questions:
 1. Is it easy to analyze?
@@ -89,49 +152,6 @@ Testing is the heart of making progress and moving the business model in the rig
 1. *Segmentation*: A segment is a group that shares common characteristics. For example, users who browse your application on Firefox. Then you can compare one segment to another. For example, users who browse your application on Safari. Segmentation is wide open to industry, marketing or product features. 
 2. *Cohort Analysis*: This allows for comparison of a same group over time. For example, user who signed up during alpha release (small group) will have a different experience than the user who signed up during beta release (larger group). Each group of users is a cohort—participants in an experiment across their lifecycle. You can compare cohort against one another to see if overall key metrics are getting better. Overtime you would be releasing key features satisfying your latest cohort from initial cohort. For example, cohort analysis might show you the revenue generated from January is a lot higher than the month in December. Overtime, the revenue is declining from January cohort. But as you launch more feature, the same cohort decides to stick making the drop-off better.
 3. *A/B & Multivariate Testing*: Studies in which different groups of test subjects are given different experiences at the same time is referred as cross-sectional studies. This is in contrast with cohort analysis as the testing is done over the lifespan of a customer from the same group. When we are comparing one attribute of a subject's experience (for example link color), and assuming everything else is equal we are doing A/B testing. A/B testing does not come without criticism. For A/B test to be successful you need a large amount of data which is why Google is able to experiment a lot. Or to test all attributes, it might be time-consuming. To avoid the latter, you can conduct multivariate analysis. This relies on statistical analysis of the results to see which of many factors correlates strongly with an improvement in a key metric.
-
-## Flavors of analytics
-
-There are 3 flavors of analytics—user analytics, customer analytics and business analytics. Having this context is critical to understand how metrics interact between these various stages.
-
-1. User analytics: 
-	- Aggregated and segmented data from all your apps
-	- Funnel conversion based on cyclicality and marketing campagins
-	- Google or Adobe are great at showcasing these analytics
-2. Customer analytics:
-	- Product usage across enterprise, active customers, customer support calls, onboarding, average revenue per customer 
-	- CRM tools such as Salesforce can be leveraged including financial systems such as Oracle or any other system in place
-3. Business analytics:
-	- Most analytics are snapshots in time, such as what happened yesterday
-	- This stage shows product usage across time such as lifetime value of a customer (LTV), customer churn rate or customer acquisition costs across all sources
-	- This stage is a combination of all several data sources from—data warehouse, user analytics, customer analysis, CRM, and financial data
-	- Data scientists spend majority of their time here
-	- Your organization's key to success lie in your data warehouse
-
-## Maturity model
-
-AMM—analytics maturity model is a sequence of steps or stages that represent the organization's evolution in leveraging data to inform business decisions. The maturity model gives context to where you are in the process and the stages ahead. There are 6 stages of the analytics maturity model and the beginning two stages are part of a starting point foundation. The stages of the analytics maturity model should build on each other, not replace each other. 
-
-1. Foundational: This stage is the entry point into the data analytics journey. Companies that are only in this stage are transitioning from no analytics to prioritize and understand what data they have and where it resides. Organizations start to ask questions such as “What information do I need to make better business decisions?“, and “How can I obtain that information?“. All these questions are backward-looking, focusing on what the historical data shows already happened. Companies rely on this information, combined with benchmark data to make business decisions about how they might need to course correct or continue in a positive direction.
-2. Descriptive: Data and reports in this stage answer the question “What happened?”. Some example questions could be, “How many quotes did we create?“, “How many of those quotes converted to sales?“, “How much revenue came from those sales?” as a few. These questions are backward-looking, focusing on what the historical data shows already happened. 
-3. Diagnostic: This stage answers the question “Why did it happen?” Some examples from the stage could be “How many quotes did we create compared to this time last year?“, “How did we convert quotes to sales by region?“, “Which regions had better or worse conversion rates?“, and “How have our prices changed this year compared to last year?” to better understand the reason something happened the way it did. These diagnostic questions build upon the descriptive questions. They go one level deeper, focusing not on the outcome, but instead on understanding if that outcome should have been expected, or if not, why not. This stage looks for the factors that can explain why a certain outcome happened.
-4. Predictive: Questions in this stage are proactive. They focus on what is likely to happen next. Based on the information companies gather in stages two and three, here are some examples questions that can start to emerge: “What is our expected conversion rate next month by region?” and “Are we likely to meet our revenue budget? this year based on early performance?” amongst many other possible questions. At this stage, the analytics maturity model transitions to a forward-looking perspective, moving from a reactive approach to a proactive and predictive business mindset. This mindset enables stakeholders to have an idea of where the business is headed, based on the data they do have.
-5. Prescriptive: Building on the predictive questions, this stage focuses on what decisions can be made to influence the future – how can we make something happen? The goal is to find the best course of action for a given situation. Example questions in this stage could be “How would having more sales reps affect our conversion rate?” and “How would adjusting our prices affect the expected revenue next month?”. Moving to this stage in the model helps business leaders start considering what changes need to be made to move the business in the right direction by leveraging foundational analytics, simulations, or even artificial intelligence for decision support and perspective. Variable-driven, what-if style analysis can start to guide stakeholder understanding of where the company is to instead what they can do to affect the future and make more confident decisions.
-6. Cognitive: In this stage, companies begin utilizing machine learning and natural language processing to simulate human thought. The goal is to learn from data in real-time and with analytical agility at significant data scale. With a variety of approaches such as real-time data mining, pattern recognition, and natural language processing as just a few examples, organizations can identify unexpected, important, and influential patterns in large quantities of data across disparate sources. Companies that benefit most from this stage have discipline and a strong foundation in the previous 5 stages and have precise processes in place to gather and store data, often in a central data lake or warehouse, as well as strong cross-platform data analytics adoption.
-
-## Metrics
-
-| Metrics | Description |
-| -------------|:-------------:|
-| TBD | TBD |
-
-
-<details>
-    <summary><strong>TBD</strong></summary>
-    <br>
-
-</details>
-<br>
 
 ## Actionable tips for a product manager
 

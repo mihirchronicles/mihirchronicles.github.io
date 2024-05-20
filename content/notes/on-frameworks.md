@@ -483,11 +483,62 @@ The Lean Canvas is a one-page visual business plan that's ongoing and actionable
 
 | Framework | Description |
 | -------------|:-------------:|
+| _Analytics Maturity Model_ | AMM—analytics maturity model is a sequence of steps or stages that represent the organization's evolution in leveraging data to inform business decisions. |
 | _Google HEART_ | It offers five metrics to monitor the user experience—happiness, engagement, adoption, retention and task success. |
 | _AARRR Pirate Metrics_ | A venture capitalist Dave McClure coined Pirate Metrics which categorizes the user metrics into AARRR—acquisition, activation, retention, revenue and referral. |
 | _The Three Engines of SaaS Growth_ | In The Lean Startup Eric Ries identified the three drivers of business growth: viral, sticky and paid. |
 | _Lean Canvas Metrics_ | Lean Canvas is an adaptation of Business Model Canvas by Alexander Osterwalder which Ash Maurya created in the Lean Startup spirit (Fast, Concise and Effective startup). For each lean canvas box, there are relevant metrics associated to it. |
 | _The Lean Gates of Analytics_ | The analytics framework presented in Lean Analytics based on empathy, stickiness, virality, revenue and scale. |
+
+<details>
+    <summary><strong>Analytics Maturity Model</strong></summary>
+    <br>
+
+AMM—analytics maturity model is a sequence of steps or stages that represent the organization's evolution in leveraging data to inform business decisions. The maturity model gives context to where you are in the process and the stages ahead. There are 6 stages of the analytics maturity model and the beginning two stages are part of a starting point foundation. The stages of the analytics maturity model should build on each other, not replace each other. 
+
+**Backward looking stages**—focusing on what the historical data shows already happened. 
+
+1. _Foundational_
+    - Companies that are in this stage are transitioning from no analytics to prioritize and understand what data they have and where it resides.
+    - Companies rely on this information, combined with benchmark data to make business decisions about how they might need to course correct or continue in a positive direction.  
+    - Organizations start to ask questions such as:
+        - What information do I need to make better business decisions?
+        - How can I obtain that information?
+2.  _Descriptive_
+    - Data and reports in this stage answer the question “What happened?”. 
+        - How many quotes did we create?
+        - How many of those quotes converted to sales?
+        - How much revenue came from those sales?
+3.  _Diagnostic_
+    - This stage answers the question “Why did it happen?” to better understand the reason something happened the way it did.
+        - How many quotes did we create compared to this time last year?
+        - How did we convert quotes to sales by region?
+        - Which regions had better or worse conversion rates?
+        - How have our prices changed this year compared to last year?  
+    - These diagnostic questions build upon the descriptive questions. They go one level deeper, focusing not on the outcome, but instead on understanding if that outcome should have been expected, or if not, why not. This stage looks for the factors that can explain why a certain outcome happened.
+
+**Forward-looking stages**—focusing on predictive business mindset transitioning from reactive approach to proactive approach. 
+
+4.  _Predictive_ 
+    - Questions in this stage are proactive. They focus on what is likely to happen next. Based on the information companies gather in stages two and three, here are some examples questions that can start to emerge: 
+        - What is our expected conversion rate next month by region?
+        - Are we likely to meet our revenue budget this year based on early performance? 
+    - At this stage, the analytics maturity model transitions to a forward-looking perspective, moving from a reactive approach to a proactive and predictive business mindset. 
+    - This mindset enables stakeholders to have an idea of where the business is headed, based on the data they do have.
+5.  _Prescriptive_
+    - Building on the predictive questions, this stage focuses on what decisions can be made to influence the future – how can we make something happen? The goal is to find the best course of action for a given situation. 
+        - How would having more sales reps affect our conversion rate?
+        - How would adjusting our prices affect the expected revenue next month?
+    - Moving to this stage in the model helps business leaders start considering what changes need to be made to move the business in the right direction by leveraging foundational analytics, simulations, or even artificial intelligence for decision support and perspective. 
+    - Variable-driven, what-if style analysis can start to guide stakeholder understanding of where the company is to instead what they can do to affect the future and make more confident decisions.
+6.  _Cognitive_
+    - In this stage, companies begin utilizing machine learning and natural language processing to simulate human thought. 
+    - The goal is to learn from data in real-time and with analytical agility at significant data scale. 
+    - With a variety of approaches such as real-time data mining, pattern recognition, and natural language processing as just a few examples, organizations can identify unexpected, important, and influential patterns in large quantities of data across disparate sources. 
+    - Companies that benefit most from this stage have discipline and a strong foundation in the previous 5 stages and have precise processes in place to gather and store data, often in a central data lake or warehouse, as well as strong cross-platform data analytics adoption.
+
+</details>
+<br>
 
 <details>
     <summary><strong>Google HEART</strong></summary>
