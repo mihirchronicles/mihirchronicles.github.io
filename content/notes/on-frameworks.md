@@ -234,7 +234,7 @@ Other tips from Annie Duke:
 ## Product design & discovery
 | Framework | Description |
 | -------------|:-------------:|
-| _Domain Model_| It is about the practice of software design which puts domain users, its behavior and problems first. It is driven by business logic. Domain is the problem domain, and the Model is the model of the problem. |
+| _Domain Model_ | It is about the practice of software design which puts domain users, its behavior and problems first. It is driven by business logic. Domain is the problem domain, and the Model is the model of the problem. |
 | _Jobs To Be Done (JTBD)_ | A theory of innovation that is based on the economic principle that people buy products and services to get “jobs” done, i.e., to help them accomplish tasks, achieve goals and objectives, resolve and avoid problems, and to make progress in their lives. |
 | _Continuous Discovery_ | Teresa’s Torres authored Continuous Discovery Habits, which is her continuous discovery framework for building better products that are guided by user feedback. |
 
@@ -388,7 +388,7 @@ Opportunity assessment: teams assess opportunities using the following criteria:
 | -------------|:-------------:|
 | 7 Powers | 7 Powers is arguably the best business strategic framework which includes scale economics, switching costs, cornered resource, counter positioning, branding, network effects, and process. |
 | _Wardley Maps_ | They provide situational awareness and shared assumptions about a context necessary for building a sound strategy. It is a representation of the landscape in which a business operates. |
-| _Porter's Five Forces_| A framework for determining the level of competition within an industry and evaluate a firm's strategic position: bargaining power of suppliers and buyers, the threat of new entrants or substitutes, and industry rivalry, make up the five forces. |
+| _Porter's Five Forces_ | A framework for determining the level of competition within an industry and evaluate a firm's strategic position: bargaining power of suppliers and buyers, the threat of new entrants or substitutes, and industry rivalry, make up the five forces. |
 | _The Lean Canvas_ | It lays out a clear process for defining and adjusting a business model based on customer development. |
 
 <details>

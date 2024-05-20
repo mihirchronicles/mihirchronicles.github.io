@@ -1,7 +1,7 @@
 ---
 title: "On Analytics"
 tags: ["general"]
-date: "2024-05-02"
+date: "2024-05-20"
 draft: false
 path: "/notes/on-analytics"
 ---
@@ -116,7 +116,7 @@ There is no substitute for engaging with your customer but choosing quality metr
 2. Is it easy to maintain?
 3. Is there bad data and do you know how to deal with it?
 
-It depends on using _good_ and _right_ metrics.
+It depends on using *good* and *right* metric while avoiding *vanity* metric.
 
 ### Good metrics
  
@@ -140,6 +140,19 @@ You need to keep five things in mind when picking metrics to measure.
 4. *Leading vs lagging metrics.* Leading metrics give you a predictive understanding of the future; lagging metrics explain the past. Leading metrics are better because you still have time to act on them—the horse hasn't left the barn yet. Leading metric sometimes called a leading indicator. For example, a number of prospects in your sales funnel give you a sense of how many customers you'll acquire in the future. On the other hand, lagging metric such as churn gives you an indication that there's a problem. By the time you find lagging metrics and try to figure out next steps, it might be too late because they measure after the fact. Indicators are everywhere. It requires proactiveness. You need to be able to do cohort analysis and compare groups over time.
 5. *Correlated versus casual metrics.*  If two metrics change together, they are correlated, but if one metric causes another metric to change, they are causal. If you find a causal relationship between something you want (revenue) and something you can control (marketing/which ad you show), then change the future. For example, ice cream and drowning rates both happen because of summer weather, but looking at a simple correlation without demanding causality leads to bad decisions. Correlations can help you predict but finding the cause of something means you can change it. You prove causality by finding a correlation, then running an experiment in which you control the other variables and measure the difference. This is hard to do because no two users are identical; it's often impossible to subject a statistically significant number of people to a properly controlled experiment in the real world. Correlation is good. Causality is great.
 
+### Vanity metrics
+
+Vanity metrics are feel good metrics but don’t help us do better work or make better decisions. It shines light brighter on optics over transparency. Things don't add up when combined with other metrics. 
+
+Rigor is usually missing from vanity metrics. For example, emphasizing on “unique visitors“ over “number of unique visitors who signed-up for the newsletter.” Or even taking one step further, “number unique visitors who signed-up for the newsletter and purchased an item from the store after marketing campaign x.”
+
+Why vanity metrics fail?
+
+- Vanity metrics lack context. For example, increase in unique visitors but who drove it? And does it matter for the business model? How many unique visitors came back again?
+- Vanity metrics do not have a clear intent. For example, did unique visitors come back again because they found value in your offering or they came back to unsubscribe from your email newsletter?
+- Vanity metrics do not guide action and learning. If a team celebrates a metric when it goes higher, but do not shift their strategy or tactics when it drops, you are  looking at a vanity metric.
+
+
 ## Common pitfalls
 
 Monica Rogati who is a Data Scientist at LinkedIn have the following advice on how to avoid data pitfalls.
@@ -159,9 +172,43 @@ Monica Rogati who is a Data Scientist at LinkedIn have the following advice on h
 
 Testing is the heart of making progress and moving the business model in the right direction. A few concepts to remember while testing.
 
-1. *Segmentation*: A segment is a group that shares common characteristics. For example, users who browse your application on Firefox. Then you can compare one segment to another. For example, users who browse your application on Safari. Segmentation is wide open to industry, marketing or product features. 
-2. *Cohort Analysis*: This allows for comparison of a same group over time. For example, user who signed up during alpha release (small group) will have a different experience than the user who signed up during beta release (larger group). Each group of users is a cohort—participants in an experiment across their lifecycle. You can compare cohort against one another to see if overall key metrics are getting better. Overtime you would be releasing key features satisfying your latest cohort from initial cohort. For example, cohort analysis might show you the revenue generated from January is a lot higher than the month in December. Overtime, the revenue is declining from January cohort. But as you launch more feature, the same cohort decides to stick making the drop-off better.
-3. *A/B & Multivariate Testing*: Studies in which different groups of test subjects are given different experiences at the same time is referred as cross-sectional studies. This is in contrast with cohort analysis as the testing is done over the lifespan of a customer from the same group. When we are comparing one attribute of a subject's experience (for example link color), and assuming everything else is equal we are doing A/B testing. A/B testing does not come without criticism. For A/B test to be successful you need a large amount of data which is why Google is able to experiment a lot. Or to test all attributes, it might be time-consuming. To avoid the latter, you can conduct multivariate analysis. This relies on statistical analysis of the results to see which of many factors correlates strongly with an improvement in a key metric.
+### A/B testing
+
+Studies in which different groups of test subjects are given different experiences at the same time is referred as cross-sectional studies. This is in contrast with cohort analysis as the testing is done over the lifespan of a customer from the same group. When we are comparing one attribute of a subject's experience (for example link color), and assuming everything else is equal we are doing A/B testing. A/B testing does not come without criticism. For A/B test to be successful you need a large amount of data which is why Google is able to experiment a lot. Or to test all attributes, it might be time-consuming. To avoid the latter, you can conduct multivariate analysis. This relies on statistical analysis of the results to see which of many factors correlates strongly with an improvement in a key metric.
+
+### Segmentation
+A segment is a group that shares common characteristics. For example, users who browse your application on Firefox. Then you can compare one segment to another. For example, users who browse your application on Safari. Segmentation is wide open to industry, marketing or product features.
+
+### Cohort analysis
+This allows for comparison of a same group over time. For example, user who signed up during alpha release (small group) will have a different experience than the user who signed up during beta release (larger group). Each group of users is a cohort—participants in an experiment across their lifecycle. You can compare cohort against one another to see if overall key metrics are getting better. Overtime you would be releasing key features satisfying your latest cohort from initial cohort. For example, cohort analysis might show you the revenue generated from January is a lot higher than the month in December. Overtime, the revenue is declining from January cohort. But as you launch more feature, the same cohort decides to stick making the drop-off better.
+
+## Product metric cheat sheet
+
+Product metrics can be split into five categories:
+
+1. Acquisition: like the number of new signups and qualified leads, measure when someone first starts using your product or service. They’re great for understanding what marketing channels are working best for your company.
+2. Activation: like activation rate and time to activate, show you how well you are moving users from acquisition through that critical “aha” moment where they discover why your product is valuable to them and, in turn, provide value to your business.
+3. Engagement: like monthly active users and feature usage, measure how (and how often) users interact with your product. Those interactions might include sharing a song or editing their profile. Users who engage with your product are considered active users. Increasing the number of daily, weekly, and monthly active users is important for company growth—but only if you measure them right.
+4. Retention: like retention rate, free-to-paid conversions, and churn rate, gauge how many of your users return to your product over a certain period of time. These are critical metrics for your company’s growth. It doesn’t matter how fast you fill the top of your funnel if users are leaking out the bottom just as fast.
+5. Monetization: like net revenue retention, monthly recurring revenue, and average revenue per user, capture how well your business is turning engagement into revenue.
+
+| Category | Metric |
+| -------------|:-------------:|
+| _Acquisition_ | Number of new signups and/or qualified leads |
+| _Acquisition_ | Customer acquisition cost (CAC) |
+| _Activation_ | Activation rate |
+| _Activation_ | Time to activate |
+| _Activation_ | Free-to-paid conversions |
+| _Engagement_ | Monthly, weekly, and/or daily active users (MAU, WAU, DAU) |
+| _Engagement_ | Stickiness (DAU/MAU) |
+| _Engagement_ | Feature usage |
+| _Retention_ | Retention rate |
+| _Retention_ | Churn rate |
+| _Retention_ | Customer lifetime value (CLV) |
+| _Monetization_ | Net revenue retention (NRR) |
+| _Monetization_ | Monthly recurring revenue (MRR) |
+| _Monetization_ | Average revenue per user (ARPU) |
+| _North Star_ | Only metric that truly matters (OMTTM) |
 
 ## Actionable tips for a product manager
 
