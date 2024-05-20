@@ -10,7 +10,7 @@ _**UNDER CONSTRUCTION**_
 
 Analytics is about tracking the metrics that are critical to your business. It matters if your business cares about where the money is going from or where the money is going to in order to support the business model.
 
-All organizations want to be data driven. Everyone has “data“ but they get the second part wrong—“driven.“ Measuring is the job that holds the organization accountable, but is the hardest job. You are forced to face inconvenient truths, should not serve personal agenda and requires changing paths in the light of new insights. 
+All organizations want to be data driven. Everyone has “data“ but they get the second part wrong—“driven.“ Measuring is the job that holds the organization accountable, but is the hardest job. You are forced to face inconvenient truths, should not serve personal agenda and requires changing paths in the light of new insights. Another part of “driven“ it requires an investment in data infrastructure. If an organization does not have the right tools or the right process to cleanse, structure and surface data, measuring anything will be an obstacle.
 
 The flip side of data is analysis paralysis.
 
@@ -32,11 +32,20 @@ It is all about developing healthy skepticism and curiosity to get closer to the
 
 > There are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns — the ones we don’t know we don’t know. — Donald Rumsfeld, Former US Secretary of Defense
 
-## Underlying principles of metrics
+And last thing, both insights and context are equally important.
 
-There is no substitute for engaging with your customer but choosing the good and right metrics pays. 
+> Insight tells you what's happening. Context tells you why it's happening. Insight come from customers and competitors, from markets and industries, but most important, from our data.  Context comes from knowledge and experience. It applies perspective to the data. Combining insights and context gives you the full-screen picture of what is happening, why it's happening and what needs to be done. — Transformed by Marty Cagan
 
-What makes for a good metric?
+## Metric quality
+
+There is no substitute for engaging with your customer but choosing quality metrics are critical. Data quality measurement stands on 3 questions:
+1. Is it easy to analyze?
+2. Is it easy to maintain?
+3. Is there bad data and do we know how to deal with it?
+
+When you ask these questions, understand when a metric is _good_ and _right_.
+
+### Good metrics
  
 1. *A good metric is comparative.* Being able to compare a metric to other time, groups of users, or industry metrics helps you understand where things are moving. “Increased conversion from last week” is more meaningful than “2% conversion.”
 2. *A good metric is understandable.* If people can't remember it and discuss it, it's much harder to be a data driven culture. 
@@ -44,7 +53,9 @@ What makes for a good metric?
 4. *A good metric changes the way you behave.* This is critical for any metric because it pushes you to do things differently based on changes in metrics. If you want to change behavior, your metric must be tied to the behavioral change you want.
 5. *A good metric should be paired with others to get a full picture.* For example, _conversion rate_ (percentage of people who buy something) should be tied to _time-to-purchase_ (how long it takes for someone to buy something) to tell you about cash flow. Similarly, _viral coefficient_ (the number of people a user successfully invites to your service) and _viral cycle time_ (how long it takes them to invite others) drive your adoption rate.
 
-What makes for a right metric? You need to keep five things in mind when picking metrics to measure.
+### Right metrics
+
+You need to keep five things in mind when picking metrics to measure.
 
 1. *Qualitative versus quantitative metrics.* Qualitative metrics are unstructured, anecdotal, revealing, and hard to aggregate; quantitative metrics involve numbers and statistics, and provide hard numbers but less insight. Quantitative data is easy to understand, you can aggregate it, extrapolate it, and put in spreadsheet. But when you ask people about their opinions on the problems they are facing, that is quantitative data. It is messy, hard to quantify, and is emotional. It requires asking thoughtful question. Unprepared interviews yield misleading or meaningless results.
 2. *Vanity versus actionable metrics.* Vanity metrics might make you feel good, but they don't change how you act. Actionable metrics change your behavior by helping you pick a course of action. Consider “total sign-ups”. That is a vanity metric. Actionable metric is “percent of users who are active.” Views, visits, unique visitors, followers, time on site, emails collected, and number of downloads are all vanity metrics. None of these lead to real value.
@@ -54,17 +65,9 @@ What makes for a right metric? You need to keep five things in mind when picking
 	- Things we don't know, we know. Are *intuition* which we should quantify and teach to improve effectiveness and efficiency.
 	- Things we don't know, we don't know. Are *exploration*, which is where unfair advantage and interesting epiphanies live.
 4. *Leading vs lagging metrics.* Leading metrics give you a predictive understanding of the future; lagging metrics explain the past. Leading metrics are better because you still have time to act on them—the horse hasn't left the barn yet. Leading metric sometimes called a leading indicator. For example, a number of prospects in your sales funnel give you a sense of how many customers you'll acquire in the future. On the other hand, lagging metric such as churn gives you an indication that there's a problem. By the time you find lagging metrics and try to figure out next steps, it might be too late because they measure after the fact. Indicators are everywhere. It requires proactiveness. You need to be able to do cohort analysis and compare groups over time.
-5. *Correlated versus casual metrics.*  If two metrics change together, they are correlated, but if one metric causes another metric to change, they are causal. If you find a causal relationship between something you want (revenue) and something you can control (marketing/which ad you show), then change the future. For example, ice cream and drowning rates both happen because of summer weather, but looking at a simple correlation without demanding causality leads to bad decisions. Correlations can help you predict but finding the cause of something means you can change it. You prove causality by finding a correlation, then running an experiment in which you control the other variables and measure the difference. This is hard to do because no two users are identical; it's often impossible to subject a statistically significant number of people to a properly controlled experiment in the real world. Correlation is good. Causality if great.
+5. *Correlated versus casual metrics.*  If two metrics change together, they are correlated, but if one metric causes another metric to change, they are causal. If you find a causal relationship between something you want (revenue) and something you can control (marketing/which ad you show), then change the future. For example, ice cream and drowning rates both happen because of summer weather, but looking at a simple correlation without demanding causality leads to bad decisions. Correlations can help you predict but finding the cause of something means you can change it. You prove causality by finding a correlation, then running an experiment in which you control the other variables and measure the difference. This is hard to do because no two users are identical; it's often impossible to subject a statistically significant number of people to a properly controlled experiment in the real world. Correlation is good. Causality is great.
 
-## Testing
-
-Testing is the heart of making progress and moving the business model in the right direction. A few concepts to remember while testing.
-
-1. *Segmentation*: A segment is a group that shares common characteristics. For example, users who browse your application on Firefox. Then you can compare one segment to another. For example, users who browse your application on Safari. Segmentation is wide open to industry, marketing or product features. 
-2. *Cohort Analysis*: This allows for comparison of a same group over time. For example, user who signed up during alpha release (small group) will have a different experience than the user who signed up during beta release (larger group). Each group of users is a cohort—participants in an experiment across their lifecycle. You can compare cohort against one another to see if overall key metrics are getting better. Overtime you would be releasing key features satisfying your latest cohort from initial cohort. For example, cohort analysis might show you the revenue generated from January is a lot higher than the month in December. Overtime, the revenue is declining from January cohort. But as you launch more feature, the same cohort decides to stick making the drop-off better.
-3. *A/B & Multivariate Testing*: Studies in which different groups of test subjects are given different experiences at the same time is referred as cross-sectional studies. This is in contrast with cohort analysis as the testing is done over the lifespan of a customer from the same group. When we are comparing one attribute of a subject's experience (for example link color), and assuming everything else is equal we are doing A/B testing. A/B testing does not come without criticism. For A/B test to be successful you need a large amount of data which is why Google is able to experiment a lot. Or to test all attributes, it might be time-consuming. To avoid the latter, you can conduct multivariate analysis. This relies on statistical analysis of the results to see which of many factors correlates strongly with an improvement in a key metric.
-
-## Data pitfalls
+## Common pitfalls
 
 Monica Rogati who is a Data Scientist at LinkedIn have the following advice on how to avoid data pitfalls.
 
@@ -76,38 +79,45 @@ Monica Rogati who is a Data Scientist at LinkedIn have the following advice on h
 6. *Ignoring size when reporting growth.* Context is key. Your friends and family signing-up for product is not a sign of growth, but a sign of support because they want to show support. 
 7. *Data vomit.* A dashboard isn't much use if you don't know where to look or is not friendly enough.
 8. *Metrics that cry wolf.* To be responsive, you need alerts so you can be proactive about fixing it quickly. But if your thresholds are too sensitive, they get louder, and you'll start to ignore them.
-9. *The Not Collected Here Syndrome.* Mashing up your data with other data sources can lead to valuable insights. For example, do your best customers come from zip codes with a high concentration of sushi restaurants? This might give you growth ideas about what experiments to run next or even influence growth strategy. 
+9. *The Not Collected Here syndrome.* Mashing up your data with other data sources can lead to valuable insights. For example, do your best customers come from zip codes with a high concentration of sushi restaurants? This might give you growth ideas about what experiments to run next or even influence growth strategy. 
 10. *Focusing on noise.* We are hardwired to see patterns where there are none. For example, seeing a joker shaped cloud. It helps to set aside vanity metrics, step back and look at the bigger picture.
 
-## Actionable tips
-- Retrieve: First, you need to learn how to get data. SQL is most common in work places. Divide data gathering into three buckets:
-    - Business data: revenue, market share, etc.
-    - Product data: product portfolio, features, etc.
-    - Customers data: target group, reviews, etc.
-- Analyze: Analytical thinking is to crunch numbers understand the why and execute at lightning speed. To do so you need the following basic understanding.
-    - Patterns: See the norm, what sticks out, what needs a second look. Get a lay of the land, so you can start developing a point of view. To solve the puzzle, ask yourself the following questions:
-        - What is “normal” around here? 
-        - What sticks out?
-        - Why is it sticking out?
-        - How much does it stick out vs everything else?
-    - Nuances: It is powerful to see nuances when other people just see a binary yes or no. You want to be able to say— “This works for x situations, but not for y situations.”
-    - Absolute numbers & percentages: If you only look at absolute numbers, big numbers will seem good and small numbers will seem bad. If you look at percentages, you’ll see the relationship between the parts and the whole.
-    - Variance: Variance is about change. Change from the baseline & changes over time. 
-        - How much did this change month over month? 
-        - This month vs this month last year? 
-        - Was the variance in line with industry growth—or did it outpace or lag comparatively?
-    - Expected vs actual: “Wow, we drove 19% growth!” might seem like good news, unless you forecasted 30% growth. This is where looking at expected vs actual numbers is useful. If you compare the two, you can better understand how good performance really is.
-    - Percent contribution to whole: 
-        - Money: “This accounts for 70% of total $.”
-        - Volume: “This accounts for 17% of units.”
-        - Top hits: “These 10 items drove 80% of new visitors.”
-    - Peaks: Identify peaks and valleys, i.e. the highest or lowest something has ever been. This helps you see the range, which helps you get grounded. If you have new assets or levers to pull, you can say, “We'll beat the highest we've done because x.”
-    - Check in on margins: revenues don't alone matter much without cash flows. 
-    - Verify your biases by analyzing your data processing mechanics to ensure you are not building a data set to validate your own assumptions.
-    - Look for clues by asking:
-        - Why is this happening?
-        - What is the impact?
-        - What should we do about it (if anything)?
+## Testing methods
+
+Testing is the heart of making progress and moving the business model in the right direction. A few concepts to remember while testing.
+
+1. *Segmentation*: A segment is a group that shares common characteristics. For example, users who browse your application on Firefox. Then you can compare one segment to another. For example, users who browse your application on Safari. Segmentation is wide open to industry, marketing or product features. 
+2. *Cohort Analysis*: This allows for comparison of a same group over time. For example, user who signed up during alpha release (small group) will have a different experience than the user who signed up during beta release (larger group). Each group of users is a cohort—participants in an experiment across their lifecycle. You can compare cohort against one another to see if overall key metrics are getting better. Overtime you would be releasing key features satisfying your latest cohort from initial cohort. For example, cohort analysis might show you the revenue generated from January is a lot higher than the month in December. Overtime, the revenue is declining from January cohort. But as you launch more feature, the same cohort decides to stick making the drop-off better.
+3. *A/B & Multivariate Testing*: Studies in which different groups of test subjects are given different experiences at the same time is referred as cross-sectional studies. This is in contrast with cohort analysis as the testing is done over the lifespan of a customer from the same group. When we are comparing one attribute of a subject's experience (for example link color), and assuming everything else is equal we are doing A/B testing. A/B testing does not come without criticism. For A/B test to be successful you need a large amount of data which is why Google is able to experiment a lot. Or to test all attributes, it might be time-consuming. To avoid the latter, you can conduct multivariate analysis. This relies on statistical analysis of the results to see which of many factors correlates strongly with an improvement in a key metric.
+
+## Flavors of analytics
+
+There are 3 flavors of analytics—user analytics, customer analytics and business analytics. Having this context is critical to understand how metrics interact between these various stages.
+
+1. User analytics: 
+	- Aggregated and segmented data from all your apps
+	- Funnel conversion based on cyclicality and marketing campagins
+	- Google or Adobe are great at showcasing these analytics
+2. Customer analytics:
+	- Product usage across enterprise, active customers, customer support calls, onboarding, average revenue per customer 
+	- CRM tools such as Salesforce can be leveraged including financial systems such as Oracle or any other system in place
+3. Business analytics:
+	- Most analytics are snapshots in time, such as what happened yesterday
+	- This stage shows product usage across time such as lifetime value of a customer (LTV), customer churn rate or customer acquisition costs across all sources
+	- This stage is a combination of all several data sources from—data warehouse, user analytics, customer analysis, CRM, and financial data
+	- Data scientists spend majority of their time here
+	- Your organization's key to success lie in your data warehouse
+
+## Maturity model
+
+AMM—analytics maturity model is a sequence of steps or stages that represent the organization's evolution in leveraging data to inform business decisions. The maturity model gives context to where you are in the process and the stages ahead. There are 6 stages of the analytics maturity model and the beginning two stages are part of a starting point foundation. The stages of the analytics maturity model should build on each other, not replace each other. 
+
+1. Foundational: This stage is the entry point into the data analytics journey. Companies that are only in this stage are transitioning from no analytics to prioritize and understand what data they have and where it resides. Organizations start to ask questions such as “What information do I need to make better business decisions?“, and “How can I obtain that information?“. All these questions are backward-looking, focusing on what the historical data shows already happened. Companies rely on this information, combined with benchmark data to make business decisions about how they might need to course correct or continue in a positive direction.
+2. Descriptive: Data and reports in this stage answer the question “What happened?”. Some example questions could be, “How many quotes did we create?“, “How many of those quotes converted to sales?“, “How much revenue came from those sales?” as a few. These questions are backward-looking, focusing on what the historical data shows already happened. 
+3. Diagnostic: This stage answers the question “Why did it happen?” Some examples from the stage could be “How many quotes did we create compared to this time last year?“, “How did we convert quotes to sales by region?“, “Which regions had better or worse conversion rates?“, and “How have our prices changed this year compared to last year?” to better understand the reason something happened the way it did. These diagnostic questions build upon the descriptive questions. They go one level deeper, focusing not on the outcome, but instead on understanding if that outcome should have been expected, or if not, why not. This stage looks for the factors that can explain why a certain outcome happened.
+4. Predictive: Questions in this stage are proactive. They focus on what is likely to happen next. Based on the information companies gather in stages two and three, here are some examples questions that can start to emerge: “What is our expected conversion rate next month by region?” and “Are we likely to meet our revenue budget? this year based on early performance?” amongst many other possible questions. At this stage, the analytics maturity model transitions to a forward-looking perspective, moving from a reactive approach to a proactive and predictive business mindset. This mindset enables stakeholders to have an idea of where the business is headed, based on the data they do have.
+5. Prescriptive: Building on the predictive questions, this stage focuses on what decisions can be made to influence the future – how can we make something happen? The goal is to find the best course of action for a given situation. Example questions in this stage could be “How would having more sales reps affect our conversion rate?” and “How would adjusting our prices affect the expected revenue next month?”. Moving to this stage in the model helps business leaders start considering what changes need to be made to move the business in the right direction by leveraging foundational analytics, simulations, or even artificial intelligence for decision support and perspective. Variable-driven, what-if style analysis can start to guide stakeholder understanding of where the company is to instead what they can do to affect the future and make more confident decisions.
+6. Cognitive: In this stage, companies begin utilizing machine learning and natural language processing to simulate human thought. The goal is to learn from data in real-time and with analytical agility at significant data scale. With a variety of approaches such as real-time data mining, pattern recognition, and natural language processing as just a few examples, organizations can identify unexpected, important, and influential patterns in large quantities of data across disparate sources. Companies that benefit most from this stage have discipline and a strong foundation in the previous 5 stages and have precise processes in place to gather and store data, often in a central data lake or warehouse, as well as strong cross-platform data analytics adoption.
 
 ## Metrics
 
@@ -122,3 +132,34 @@ Monica Rogati who is a Data Scientist at LinkedIn have the following advice on h
 
 </details>
 <br>
+
+## Actionable tips for a product manager
+
+- Retrieve: First, you need to learn how to get data. Learn your business intelligence tools. SQL is most common in work places. Divide data gathering into three buckets:
+    - Business data: revenue, market share
+    - Product data: product portfolio, features
+    - Customers data: target group, reviews
+- Analyze: Analytical thinking is to crunch numbers understand the why and execute at lightning speed. This is grunt work and requires deep thinking. To do so you need the following basic understanding.
+    - Patterns: See the norm, what sticks out, what needs a second look. Get a lay of the land, so you can start developing a point of view. To solve the puzzle, ask yourself the following questions:
+        - What is “normal” around here? 
+        - What sticks out?
+        - Why is it sticking out?
+        - How much does it stick out vs everything else?
+    - Nuances: It is powerful to see nuances when other people just see a binary yes or no. You want to be able to say— “This works for x situations, but not for y situations.”
+    - Absolute numbers & percentages: If you only look at absolute numbers, big numbers will seem good and small numbers will seem bad. If you look at percentages, you’ll see the relationship between the parts and the whole.
+    - Variance: Variance is about change. Change from the baseline & changes over time. 
+        - How much did this change month over month? 
+        - How much did it change this month vs this month last year? 
+        - Was the variance in line with industry growth—or did it outpace or lag comparatively?
+    - Expected vs actual: “Wow, we drove 19% growth!” might seem like good news, unless you forecasted 30% growth. This is where looking at expected vs actual number is useful. If you compare the two, you can better understand how good performance really is.
+    - Percent contribution to whole: 
+        - Money: “This accounts for 70% of total $.”
+        - Volume: “This accounts for 17% of units.”
+        - Top hits: “These 10 items drove 80% of new visitors.”
+    - Peaks: Identify peaks and valleys, i.e., the highest or lowest something has ever been. This helps you see the range, which helps you get grounded. If you have new assets or levers to pull, you can say, “We'll beat the highest we've done because x.”
+    - Check in on margins: revenues don't alone matter much without cash flows. 
+    - Verify your biases by analyzing your data processing mechanics to ensure you are not building a data set to validate your own assumptions.
+    - Look for clues by asking:
+        - Why is this happening?
+        - What is the impact?
+        - What should we do about it (if anything)?
