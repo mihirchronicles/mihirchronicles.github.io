@@ -40,7 +40,7 @@ And last thing, both insights and context are equally important.
 
 AMM—analytics maturity model is a sequence of steps or stages that represent the organization's evolution in leveraging data to inform business decisions. The maturity model gives context to where you are in the process and the stages ahead. There are 6 stages of the analytics maturity model and the beginning two stages are part of a starting point foundation. The stages of the analytics maturity model should build on each other, not replace each other. 
 
-**Backward looking stages**—focusing on what the historical data shows already happened. 
+**Backward-looking stages**—focusing on what the historical data shows already happened. 
 
 1. _Foundational_
     - Companies that are in this stage are transitioning from no analytics to prioritize and understand what data they have and where it resides.
