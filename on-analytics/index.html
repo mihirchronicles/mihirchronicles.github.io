@@ -189,7 +189,25 @@
 <h2>Testing methods</h2>
 <p>Testing is the heart of making progress and moving the business model in the right direction. A few concepts to remember while testing.</p>
 <h3>A/B testing</h3>
-<p>Studies in which different groups of test subjects are given different experiences at the same time is referred as cross-sectional studies. This is in contrast with cohort analysis as the testing is done over the lifespan of a customer from the same group. When we are comparing one attribute of a subject's experience (for example link color), and assuming everything else is equal we are doing A/B testing. A/B testing does not come without criticism. For A/B test to be successful you need a large amount of data which is why Google is able to experiment a lot. Or to test all attributes, it might be time-consuming. To avoid the latter, you can conduct multivariate analysis. This relies on statistical analysis of the results to see which of many factors correlates strongly with an improvement in a key metric.</p>
+<p>A/B testing involves showing different versions of a webpage to different visitors and measuring which version performs better. Randomization is key to ensuring that the results of your A/B test are accurate and unbiased.</p>
+<p>Controlled experiments like A/B tests or randomized field experiments are the de facto standard to make data-driven decisions when implementing changes and observing customer responses.</p>
+<p>Studies in which different groups of test subjects are given different experiences at the same time is referred as cross-sectional studies.</p>
+<p>This is in contrast with cohort analysis as the testing is done over the lifespan of a customer from the same group. When we are comparing one attribute of a subject's experience (for example link color), and assuming everything else is equal we are doing A/B testing.</p>
+<p>A/B testing does not come without criticism. For A/B test to be successful you need a large amount of data which is why Google is able to experiment a lot. Or to test all attributes, it might be time-consuming.</p>
+<p>To avoid the latter, you can conduct multivariate analysis. This relies on statistical analysis of the results to see which of many factors correlates strongly with an improvement in a key metric.</p>
+<p>Bayesian inference recently gained a lot of popularity. Bayesian inference leverages conditional probability to help us understand how data impacts our beliefs. For example, let’s say we start with a prior belief that the sky is red. After looking at data, we would soon realize that this prior belief is wrong. So, we perform Bayesian updating to improve our incorrect model about the color of the sky, ending up with a more accurate posterior belief. While traditional A/B testing methods are computationally expensive, Bayesian inference are computed offline and on a smaller size, which reduces performance requirements. The main challenge is choosing effective distributions to support inference. One key component of your belief is the structure of our data. Then structure is described through distributions. In the sky example, assuming that there are categories of color (red, white, and blue), the distribution would be <em>multinomial</em>. If you are looking at a set of numbers, the distribution might be <em>normal</em>. If the data were true/false values, it would be <em>binomial</em>. These distributions are called likelihood distributions because they show the likelihood that your data will take on a certain value.</p>
+<p>Ask the following questions:</p>
+<ul>
+<li>Which variant drives better results?</li>
+<li>How much better are those results?</li>
+<li>Are you confident in your conclusion?</li>
+<li>What if you want to test more than two variants?</li>
+<li>What sample size is needed for a Bayesian A/B test?</li>
+<li>Can a test be terminated early if results look clear?</li>
+</ul>
+<blockquote>
+<p>Defining guardrail metrics for experiments is important for identifying what the organization is not willing to change. — Ron Kohavi</p>
+</blockquote>
 <h3>Segmentation</h3>
 <p>A segment is a group that shares common characteristics. For example, users who browse your application on Firefox. Then you can compare one segment to another. For example, users who browse your application on Safari. Segmentation is wide open to industry, marketing or product features.</p>
 <h3>Cohort analysis</h3>
@@ -321,7 +339,49 @@
 </li>
 </ul>
 </li>
-</ul></section><footer></footer></article></main><footer><hr/><p><i>Drop me a note if you are curious to chat. Newsletter goes out once a year in December.</i></p><a href="https://twitter.com/mihirchronicles"><strong>Twitter</strong></a> <span> | </span><a href="https://www.linkedin.com/in/mihirchronicles/"><strong>Linkedin</strong></a> <span> | </span><a href="https://eepurl.com/hRGv2D"><strong>Newsletter</strong></a></footer></div></div><div id="gatsby-announcer" style="position:absolute;top:0;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0" aria-live="assertive" aria-atomic="true"></div></div><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-HTPE7YS2EL"></script><script>
+</ul>
+<h2>Further reading</h2>
+<details>
+    <summary><strong>References</strong></summary>
+    <br>
+<p><strong>Books</strong></p>
+<ul>
+<li><a href="https://www.amazon.com/Lean-Analytics-Better-Startup-Faster-ebook/dp/B00AG66LTM">Lean Analytics: Use Data to Build a Better Startup Faster by Alistair Croll &#x26; Benjamin Yoskovitz</a></li>
+</ul>
+<p><strong>Links</strong></p>
+<ul>
+<li><a href="https://www.svpg.com/the-role-of-analytics/">The Role of Analytics by SVPG</a></li>
+<li><a href="https://www.svpg.com/flavors-of-analytics/">Flavors of Analytics by SVPG</a></li>
+<li><a href="https://www.svpg.com/leveraging-data-science/">Leveraging Data Science by SVPG</a></li>
+<li><a href="https://amplitude.com/blog/vanity-metrics?trk=feed_main-feed-card_comment-text">What Are Vanity Metrics and How to Stop Using Them by John Cutler</a></li>
+<li><a href="https://commoncog.com/becoming-data-driven-in-business/">Becoming Data Driven in Business: A Series by Commoncog</a></li>
+<li><a href="https://docs.google.com/document/d/1Lp8hjXWWn9n60QzeI2kuoIxwpWYkaZii/edit"></a></li>
+<li><a href="https://arxiv.org/pdf/2003.02769">Bayesian A/B Testing for Business Decisions Published Paper</a></li>
+<li><a href="https://www.dynamicyield.com/lesson/running-effective-bayesian-ab-tests/">Guidelines for running effective Bayesian A/B tests</a></li>
+</ul>
+<p><strong>People</strong></p>
+<ul>
+<li><a href="https://docs.google.com/document/d/1Lp8hjXWWn9n60QzeI2kuoIxwpWYkaZii/edit">Ron Kohavi</a></li>
+</ul>
+<p><strong>Companies</strong></p>
+<ul>
+<li>AirBnB
+<ul>
+<li><a href="https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7#.miqyczkzb">Experiments at Airbnb</a></li>
+<li><a href="https://medium.com/airbnb-engineering/experiment-reporting-framework-4e3fcd29e6c0#.cbl72jip2">Experiment Reporting Framework by AirBnB</a></li>
+<li><a href="https://medium.com/airbnb-engineering/https-medium-com-jonathan-parks-scaling-erf-23fd17c91166">Scaling Airbnb’s Experimentation Platform</a></li>
+</ul>
+</li>
+</ul>
+<p><strong>Tools</strong></p>
+<ul>
+<li><a href="https://www.evanmiller.org/ab-testing/">Evan’s Awesome A/B Tools</a></li>
+<li><a href="https://www.evanmiller.org/ab-testing/chi-squared.html">Evan’s Awesome A/B Tools by Chi-Squared Test</a></li>
+<li><a href="https://goodui.org"> Jakub Linowski 's Good UI</a></li>
+<li><a href="https://guessthetest.com"> Deborah O'Malley's Guess The Test</a></li>
+</ul>
+</details>
+<br /></section><footer></footer></article></main><footer><hr/><p><i>Drop me a note if you are curious to chat. Newsletter goes out once a year in December.</i></p><a href="https://twitter.com/mihirchronicles"><strong>Twitter</strong></a> <span> | </span><a href="https://www.linkedin.com/in/mihirchronicles/"><strong>Linkedin</strong></a> <span> | </span><a href="https://eepurl.com/hRGv2D"><strong>Newsletter</strong></a></footer></div></div><div id="gatsby-announcer" style="position:absolute;top:0;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0" aria-live="assertive" aria-atomic="true"></div></div><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-HTPE7YS2EL"></script><script>
       
       
       if(true) {
