@@ -6,8 +6,6 @@ draft: false
 path: "/notes/on-analytics"
 ---
 
-_**UNDER CONSTRUCTION**_
-
 Analytics is about tracking the metrics that are critical to your business. It matters if your business cares about where the money is going from or where the money is going to in order to support the business model.
 
 All organizations want to be data driven. Everyone has “data“ but they get the second part wrong—“driven.“ Measuring is the job that holds the organization accountable, but is the hardest job. You are forced to face inconvenient truths, should not serve personal agenda and requires changing paths in the light of new insights. Another part of “driven“ it requires an investment in data infrastructure. If an organization does not have the right tools or the right process to cleanse, structure and surface data, measuring anything will be an obstacle.
@@ -199,11 +197,31 @@ Ask the following questions:
 
 > Defining guardrail metrics for experiments is important for identifying what the organization is not willing to change. — Ron Kohavi
 
-### Segmentation
-A segment is a group that shares common characteristics. For example, users who browse your application on Firefox. Then you can compare one segment to another. For example, users who browse your application on Safari. Segmentation is wide open to industry, marketing or product features.
+### Cohort retention analysis
 
-### Cohort analysis
-This allows for comparison of a same group over time. For example, user who signed up during alpha release (small group) will have a different experience than the user who signed up during beta release (larger group). Each group of users is a cohort—participants in an experiment across their lifecycle. You can compare cohort against one another to see if overall key metrics are getting better. Overtime you would be releasing key features satisfying your latest cohort from initial cohort. For example, cohort analysis might show you the revenue generated from January is a lot higher than the month in December. Overtime, the revenue is declining from January cohort. But as you launch more feature, the same cohort decides to stick making the drop-off better.
+Retention measures the ability of your product to keep users active over time. Retention for consumer businesses would have a different meaning than for enterprise, B2B, or B2C companies.
+
+Cohort retention analysis allows for comparison of a same group over time. For example, user who signed up during alpha release (small group) will have a different experience than the user who signed up during beta release (larger group). 
+
+Each group of users is a cohort—participants in an experiment across their lifecycle. You can compare cohort with one another to see if key metrics are getting better. Overtime you would be releasing key features satisfying your latest cohort from initial cohort. For example, cohort analysis might show you the revenue generated from January is a lot higher than the month in December. Overtime, the revenue is declining from January cohort. But as you launch more feature, the same cohort decides to stick making the drop-off better.
+
+Be specific when defining what “active” means. Don't be too broad or too narrow. Most companies use logins or app opens as main events for the “active users” definition. But at Instacart, that doesn't mean anything unless it is tied to completing an order or at Uber taking a ride. Active needs to be defined. 
+
+Differentiate users from customers.
+
+> A customer is defined as the person/group who is paying you. A user is a person using the product. In subscription products, oftentimes there are multiple users associated with a single customer. Or people are users before they are customers. You need to separate the definition and language between these two things for teams to clearly act on them. — Brian Balfour
+
+ Calculate retention by setting your timeline. As a team, you have to agree on what retention reporting type you should adopt. 
+ 
+ The first is X-day (N-day or bounded) tells you the percentage of users who come back on a specific day. For example, for all users who join, what percentage return to your app on exactly day 14.
+ 
+ The second is unbounded retention. Unbounded retention tells you how many of your users got back on a specific day or later. For example, for all new users who joined on a specific day, what percentage of users are using the product after 14 days (and not necessarily on day 14). If your goal is to match retention with your user churn, this is the way to go. The unbounded retention value for month 6 gives you the percentage of users who returned after month 6.
+ 
+ The best practice for reporting retention is cohorts. You can segment retention reporting for active users, churned users, inactive users, and reactivated users. This will help you locate your power users and understand what makes them stick. You should always cohort your users into different behavioral segments if applicable.
+
+### Segmentation
+
+A segment is a group that shares common characteristics. For example, users who browse your application on Firefox. Then you can compare one segment to another. For example, users who browse your application on Safari. Segmentation is wide open to industry, marketing or product features.
 
 ## Product metric cheat sheet
 
@@ -222,7 +240,7 @@ Product metrics can be split into five categories:
 | _Activation_ | Activation rate |
 | _Activation_ | Time to activate |
 | _Activation_ | Free-to-paid conversions |
-| _Engagement_ | Monthly, weekly, and/or daily active users (MAU, WAU, DAU) |
+| _Engagement_ | Monthly, weekly, and/or daily active users/customers/paid-users (MAU, WAU, DAU/DAC/DAPU) |
 | _Engagement_ | Stickiness (DAU/MAU) |
 | _Engagement_ | Feature usage |
 | _Retention_ | Retention rate |
@@ -284,9 +302,21 @@ Product metrics can be split into five categories:
 - [Guidelines for running effective Bayesian A/B tests](https://www.dynamicyield.com/lesson/running-effective-bayesian-ab-tests/)
 - [The Dangerous Seduction of the Lifetime Value (LTV) Formula by Bill Gurley](https://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula/)
 - [Customer Lifetime Value Uncovered Insights A Discussion with  Dan McCarthy](https://www.ivsc.org/pdfviewer/ivsc-professional-insights-customer-lifetime-value-uncovered/)
-- [How to measure cohort retention by Lenny's Newsletter](https://www.lennysnewsletter.com/p/measuring-cohort-retention)
 - [Data visualization and data science thread by Owen Comstock](https://x.com/comstockery/status/1432139055752523778)
 - [Quantifying the potential value of data by Santa Fe Institute](https://www.santafe.edu/news-center/news/quantifying-the-potential-value-of-data)
+- [Common Mistakes In Defining Metrics by Brian Balfour](https://brianbalfour.com/quick-takes/common-mistakes-defining-metrics)
+- [When To Use Client-Side Or Server-Side Events For Analytics](https://dataanalysis.substack.com/p/when-to-use-client-side-or-server)
+- [How to measure cohort retention by Lenny's Newsletter](https://www.lennysnewsletter.com/p/measuring-cohort-retention)
+- [Everything You Need to Know About Retention (Rates) from ChartMogul](https://chartmogul.com/blog/retention-rate/)
+- [Lecture 6: Growth from Alex Schultz, VP of Analytics, Meta ](https://genius.com/Alex-schultz-lecture-6-growth-annotated)
+- [3 Things Your User Retention Rate Is Hiding from Mode](https://mode.com/blog/what-user-retention-hides)
+- [Cohort Analysis That Helps You Look Ahead from Mode](https://mode.com/blog/cohort-analysis-helps-look-ahead)
+- [How to increase your retention](https://www.lennysnewsletter.com/p/how-to-increase-your-retention-issue)
+- [What is good retention](https://www.lennysnewsletter.com/p/what-is-good-retention-issue-29)
+- [User Engagement and Activity Histogram Analysis from Olga](https://dataanalysis.substack.com/p/user-engagement-and-activity-histogram)
+- [Day of the Week Analysis in SQL from Olga](https://dataanalysis.substack.com/p/day-of-the-week-analysis-in-sql-issue)
+- [Excel template for cohort analyses in SaaS from Christoph Janz](https://www.lennysnewsletter.com/p/measuring-cohort-retention)
+- [How Cohort Analysis Improves Retention & Reduces Churn from Heap](https://www.heap.io/topics/how-cohort-analysis-improves-retention-reduces-churn)
 
 **People**
 - [Ron Kohavi](https://docs.google.com/document/d/1Lp8hjXWWn9n60QzeI2kuoIxwpWYkaZii/edit)
@@ -315,6 +345,7 @@ Product metrics can be split into five categories:
 - [Statista Facts & Research](https://www.statista.com/)
 - [Our World In Data](https://ourworldindata.org)
 - [Mixpanel](https://mixpanel.com)
+- [Amplitude](https://help.amplitude.com/hc/en-us/articles/360050153151-Build-a-retention-analysis)
 
 </details>
 <br />
