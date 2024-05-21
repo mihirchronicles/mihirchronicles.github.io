@@ -271,6 +271,7 @@ Product metrics can be split into five categories:
 
 **Books**
 - [Lean Analytics: Use Data to Build a Better Startup Faster by Alistair Croll & Benjamin Yoskovitz](https://www.amazon.com/Lean-Analytics-Better-Startup-Faster-ebook/dp/B00AG66LTM)
+- [Good Books for All Things Data](https://multithreaded.stitchfix.com/blog/2016/06/09/ds-books/)
 
 **Links**
 - [The Role of Analytics by SVPG](https://www.svpg.com/the-role-of-analytics/)
@@ -278,9 +279,14 @@ Product metrics can be split into five categories:
 - [Leveraging Data Science by SVPG](https://www.svpg.com/leveraging-data-science/)
 - [What Are Vanity Metrics and How to Stop Using Them by John Cutler](https://amplitude.com/blog/vanity-metrics?trk=feed_main-feed-card_comment-text)
 - [Becoming Data Driven in Business: A Series by Commoncog](https://commoncog.com/becoming-data-driven-in-business/)
-- [](https://docs.google.com/document/d/1Lp8hjXWWn9n60QzeI2kuoIxwpWYkaZii/edit)
+- [Emerging Architectures for Modern Data Infrastructure by A16Z](https://a16z.com/emerging-architectures-for-modern-data-infrastructure/)
 - [Bayesian A/B Testing for Business Decisions Published Paper](https://arxiv.org/pdf/2003.02769)
 - [Guidelines for running effective Bayesian A/B tests](https://www.dynamicyield.com/lesson/running-effective-bayesian-ab-tests/)
+- [The Dangerous Seduction of the Lifetime Value (LTV) Formula by Bill Gurley](https://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula/)
+- [Customer Lifetime Value Uncovered Insights A Discussion with  Dan McCarthy](https://www.ivsc.org/pdfviewer/ivsc-professional-insights-customer-lifetime-value-uncovered/)
+- [How to measure cohort retention by Lenny's Newsletter](https://www.lennysnewsletter.com/p/measuring-cohort-retention)
+- [Data visualization and data science thread by Owen Comstock](https://x.com/comstockery/status/1432139055752523778)
+- [Quantifying the potential value of data by Santa Fe Institute](https://www.santafe.edu/news-center/news/quantifying-the-potential-value-of-data)
 
 **People**
 - [Ron Kohavi](https://docs.google.com/document/d/1Lp8hjXWWn9n60QzeI2kuoIxwpWYkaZii/edit)
@@ -290,12 +296,25 @@ Product metrics can be split into five categories:
 	- [Experiments at Airbnb](https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7#.miqyczkzb)
 	- [Experiment Reporting Framework by AirBnB](https://medium.com/airbnb-engineering/experiment-reporting-framework-4e3fcd29e6c0#.cbl72jip2)
 	- [Scaling Airbnb’s Experimentation Platform](https://medium.com/airbnb-engineering/https-medium-com-jonathan-parks-scaling-erf-23fd17c91166)
+- Zappos
+	- [Analyzing Data at the Extremes](https://outlierspath.com/2023/09/17/analyzing-data-at-the-extremes/)
+- Gojeck
+	- [Why Most Analytics Efforts Fail by Crystal Widjaja](https://www.reforge.com/blog/why-most-analytics-efforts-fail)
+- Duolingo
+	- [https://blog.duolingo.com/growth-model-duolingo/](https://blog.duolingo.com/growth-model-duolingo/)
+	- [The secret to Duolingo’s exponential growth by Lenny's Newsletter](https://www.lennysnewsletter.com/p/the-secret-to-duolingos-growth)
+	- [How Duolingo reignited user growth by Lenny's Newsletter](https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth)
 
 **Tools**
 - [Evan’s Awesome A/B Tools](https://www.evanmiller.org/ab-testing/)
 - [Evan’s Awesome A/B Tools by Chi-Squared Test](https://www.evanmiller.org/ab-testing/chi-squared.html)
-- [ Jakub Linowski 's Good UI](https://goodui.org)
-- [ Deborah O'Malley's Guess The Test](https://guessthetest.com)
+- [Jakub Linowski 's Good UI](https://goodui.org)
+- [Deborah O'Malley's Guess The Test](https://guessthetest.com)
+- [Propel Docs](https://www.propeldata.com/docs/)
+- [Dashboard Design Patterns](https://dashboarddesignpatterns.github.io)
+- [Statista Facts & Research](https://www.statista.com/)
+- [Our World In Data](https://ourworldindata.org)
+- [Mixpanel](https://mixpanel.com)
 
 </details>
 <br />
