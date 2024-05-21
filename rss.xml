@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 21 May 2024 14:03:29 GMT</lastBuildDate><item><title><![CDATA[On Analytics]]></title><description><![CDATA[UNDER CONSTRUCTION Analytics is about tracking the metrics that are critical to your business. It matters if your business cares about where…]]></description><link>https://mihirchronicles.com/on-analytics/</link><guid isPermaLink="false">https://mihirchronicles.com/on-analytics/</guid><pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;&lt;strong&gt;UNDER CONSTRUCTION&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 21 May 2024 15:43:59 GMT</lastBuildDate><item><title><![CDATA[On Analytics]]></title><description><![CDATA[UNDER CONSTRUCTION Analytics is about tracking the metrics that are critical to your business. It matters if your business cares about where…]]></description><link>https://mihirchronicles.com/on-analytics/</link><guid isPermaLink="false">https://mihirchronicles.com/on-analytics/</guid><pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;&lt;strong&gt;UNDER CONSTRUCTION&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Analytics is about tracking the metrics that are critical to your business. It matters if your business cares about where the money is going from or where the money is going to in order to support the business model.&lt;/p&gt;
 &lt;p&gt;All organizations want to be data driven. Everyone has “data“ but they get the second part wrong—“driven.“ Measuring is the job that holds the organization accountable, but is the hardest job. You are forced to face inconvenient truths, should not serve personal agenda and requires changing paths in the light of new insights. Another part of “driven“ it requires an investment in data infrastructure. If an organization does not have the right tools or the right process to cleanse, structure and surface data, measuring anything will be an obstacle.&lt;/p&gt;
 &lt;p&gt;The flip side of data is analysis paralysis.&lt;/p&gt;
@@ -345,6 +345,7 @@
 &lt;p&gt;&lt;strong&gt;Books&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Lean-Analytics-Better-Startup-Faster-ebook/dp/B00AG66LTM&quot;&gt;Lean Analytics: Use Data to Build a Better Startup Faster by Alistair Croll &amp;#x26; Benjamin Yoskovitz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://multithreaded.stitchfix.com/blog/2016/06/09/ds-books/&quot;&gt;Good Books for All Things Data&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Links&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -353,9 +354,14 @@
 &lt;li&gt;&lt;a href=&quot;https://www.svpg.com/leveraging-data-science/&quot;&gt;Leveraging Data Science by SVPG&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://amplitude.com/blog/vanity-metrics?trk=feed_main-feed-card_comment-text&quot;&gt;What Are Vanity Metrics and How to Stop Using Them by John Cutler&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://commoncog.com/becoming-data-driven-in-business/&quot;&gt;Becoming Data Driven in Business: A Series by Commoncog&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/1Lp8hjXWWn9n60QzeI2kuoIxwpWYkaZii/edit&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://a16z.com/emerging-architectures-for-modern-data-infrastructure/&quot;&gt;Emerging Architectures for Modern Data Infrastructure by A16Z&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://arxiv.org/pdf/2003.02769&quot;&gt;Bayesian A/B Testing for Business Decisions Published Paper&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.dynamicyield.com/lesson/running-effective-bayesian-ab-tests/&quot;&gt;Guidelines for running effective Bayesian A/B tests&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula/&quot;&gt;The Dangerous Seduction of the Lifetime Value (LTV) Formula by Bill Gurley&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.ivsc.org/pdfviewer/ivsc-professional-insights-customer-lifetime-value-uncovered/&quot;&gt;Customer Lifetime Value Uncovered Insights A Discussion with  Dan McCarthy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.lennysnewsletter.com/p/measuring-cohort-retention&quot;&gt;How to measure cohort retention by Lenny&apos;s Newsletter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://x.com/comstockery/status/1432139055752523778&quot;&gt;Data visualization and data science thread by Owen Comstock&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.santafe.edu/news-center/news/quantifying-the-potential-value-of-data&quot;&gt;Quantifying the potential value of data by Santa Fe Institute&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;People&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -370,13 +376,35 @@
 &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/https-medium-com-jonathan-parks-scaling-erf-23fd17c91166&quot;&gt;Scaling Airbnb’s Experimentation Platform&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;Zappos
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://outlierspath.com/2023/09/17/analyzing-data-at-the-extremes/&quot;&gt;Analyzing Data at the Extremes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Gojeck
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reforge.com/blog/why-most-analytics-efforts-fail&quot;&gt;Why Most Analytics Efforts Fail by Crystal Widjaja&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Duolingo
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.duolingo.com/growth-model-duolingo/&quot;&gt;https://blog.duolingo.com/growth-model-duolingo/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.lennysnewsletter.com/p/the-secret-to-duolingos-growth&quot;&gt;The secret to Duolingo’s exponential growth by Lenny&apos;s Newsletter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth&quot;&gt;How Duolingo reignited user growth by Lenny&apos;s Newsletter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Tools&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.evanmiller.org/ab-testing/&quot;&gt;Evan’s Awesome A/B Tools&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.evanmiller.org/ab-testing/chi-squared.html&quot;&gt;Evan’s Awesome A/B Tools by Chi-Squared Test&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://goodui.org&quot;&gt; Jakub Linowski &apos;s Good UI&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://guessthetest.com&quot;&gt; Deborah O&apos;Malley&apos;s Guess The Test&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://goodui.org&quot;&gt;Jakub Linowski &apos;s Good UI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://guessthetest.com&quot;&gt;Deborah O&apos;Malley&apos;s Guess The Test&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.propeldata.com/docs/&quot;&gt;Propel Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://dashboarddesignpatterns.github.io&quot;&gt;Dashboard Design Patterns&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.statista.com/&quot;&gt;Statista Facts &amp;#x26; Research&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ourworldindata.org&quot;&gt;Our World In Data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://mixpanel.com&quot;&gt;Mixpanel&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;br /&gt;</content:encoded></item><item><title><![CDATA[Lean Analytics | Use Data To Build A Better Startup Faster by Alistair Croll & Benjamin Yoskovitz]]></title><description><![CDATA[I. Brief Summary II. Big Ideas III. Quotes]]></description><link>https://mihirchronicles.com/lean-analytics/</link><guid isPermaLink="false">https://mihirchronicles.com/lean-analytics/</guid><pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;I. Brief Summary&lt;/h2&gt;
