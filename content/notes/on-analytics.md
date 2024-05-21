@@ -174,7 +174,30 @@ Testing is the heart of making progress and moving the business model in the rig
 
 ### A/B testing
 
-Studies in which different groups of test subjects are given different experiences at the same time is referred as cross-sectional studies. This is in contrast with cohort analysis as the testing is done over the lifespan of a customer from the same group. When we are comparing one attribute of a subject's experience (for example link color), and assuming everything else is equal we are doing A/B testing. A/B testing does not come without criticism. For A/B test to be successful you need a large amount of data which is why Google is able to experiment a lot. Or to test all attributes, it might be time-consuming. To avoid the latter, you can conduct multivariate analysis. This relies on statistical analysis of the results to see which of many factors correlates strongly with an improvement in a key metric.
+A/B testing involves showing different versions of a webpage to different visitors and measuring which version performs better. Randomization is key to ensuring that the results of your A/B test are accurate and unbiased.
+
+Controlled experiments like A/B tests or randomized field experiments are the de facto standard to make data-driven decisions when implementing changes and observing customer responses.
+
+Studies in which different groups of test subjects are given different experiences at the same time is referred as cross-sectional studies.
+
+This is in contrast with cohort analysis as the testing is done over the lifespan of a customer from the same group. When we are comparing one attribute of a subject's experience (for example link color), and assuming everything else is equal we are doing A/B testing. 
+
+A/B testing does not come without criticism. For A/B test to be successful you need a large amount of data which is why Google is able to experiment a lot. Or to test all attributes, it might be time-consuming. 
+
+To avoid the latter, you can conduct multivariate analysis. This relies on statistical analysis of the results to see which of many factors correlates strongly with an improvement in a key metric.
+
+Bayesian inference recently gained a lot of popularity. Bayesian inference leverages conditional probability to help us understand how data impacts our beliefs. For example, let’s say we start with a prior belief that the sky is red. After looking at data, we would soon realize that this prior belief is wrong. So, we perform Bayesian updating to improve our incorrect model about the color of the sky, ending up with a more accurate posterior belief. While traditional A/B testing methods are computationally expensive, Bayesian inference are computed offline and on a smaller size, which reduces performance requirements. The main challenge is choosing effective distributions to support inference. One key component of your belief is the structure of our data. Then structure is described through distributions. In the sky example, assuming that there are categories of color (red, white, and blue), the distribution would be _multinomial_. If you are looking at a set of numbers, the distribution might be _normal_. If the data were true/false values, it would be _binomial_. These distributions are called likelihood distributions because they show the likelihood that your data will take on a certain value.
+
+Ask the following questions:
+
+- Which variant drives better results? 
+- How much better are those results?
+- Are you confident in your conclusion?
+- What if you want to test more than two variants?
+- What sample size is needed for a Bayesian A/B test?
+- Can a test be terminated early if results look clear?
+
+> Defining guardrail metrics for experiments is important for identifying what the organization is not willing to change. — Ron Kohavi
 
 ### Segmentation
 A segment is a group that shares common characteristics. For example, users who browse your application on Firefox. Then you can compare one segment to another. For example, users who browse your application on Safari. Segmentation is wide open to industry, marketing or product features.
@@ -240,3 +263,39 @@ Product metrics can be split into five categories:
         - Why is this happening?
         - What is the impact?
         - What should we do about it (if anything)?
+
+## Further reading
+<details>
+    <summary><strong>References</strong></summary>
+    <br>
+
+**Books**
+- [Lean Analytics: Use Data to Build a Better Startup Faster by Alistair Croll & Benjamin Yoskovitz](https://www.amazon.com/Lean-Analytics-Better-Startup-Faster-ebook/dp/B00AG66LTM)
+
+**Links**
+- [The Role of Analytics by SVPG](https://www.svpg.com/the-role-of-analytics/)
+- [Flavors of Analytics by SVPG](https://www.svpg.com/flavors-of-analytics/)
+- [Leveraging Data Science by SVPG](https://www.svpg.com/leveraging-data-science/)
+- [What Are Vanity Metrics and How to Stop Using Them by John Cutler](https://amplitude.com/blog/vanity-metrics?trk=feed_main-feed-card_comment-text)
+- [Becoming Data Driven in Business: A Series by Commoncog](https://commoncog.com/becoming-data-driven-in-business/)
+- [](https://docs.google.com/document/d/1Lp8hjXWWn9n60QzeI2kuoIxwpWYkaZii/edit)
+- [Bayesian A/B Testing for Business Decisions Published Paper](https://arxiv.org/pdf/2003.02769)
+- [Guidelines for running effective Bayesian A/B tests](https://www.dynamicyield.com/lesson/running-effective-bayesian-ab-tests/)
+
+**People**
+- [Ron Kohavi](https://docs.google.com/document/d/1Lp8hjXWWn9n60QzeI2kuoIxwpWYkaZii/edit)
+
+**Companies**
+- AirBnB
+	- [Experiments at Airbnb](https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7#.miqyczkzb)
+	- [Experiment Reporting Framework by AirBnB](https://medium.com/airbnb-engineering/experiment-reporting-framework-4e3fcd29e6c0#.cbl72jip2)
+	- [Scaling Airbnb’s Experimentation Platform](https://medium.com/airbnb-engineering/https-medium-com-jonathan-parks-scaling-erf-23fd17c91166)
+
+**Tools**
+- [Evan’s Awesome A/B Tools](https://www.evanmiller.org/ab-testing/)
+- [Evan’s Awesome A/B Tools by Chi-Squared Test](https://www.evanmiller.org/ab-testing/chi-squared.html)
+- [ Jakub Linowski 's Good UI](https://goodui.org)
+- [ Deborah O'Malley's Guess The Test](https://guessthetest.com)
+
+</details>
+<br />
