@@ -320,6 +320,7 @@ Product metrics can be split into five categories:
 
 **People**
 - [Ron Kohavi](https://docs.google.com/document/d/1Lp8hjXWWn9n60QzeI2kuoIxwpWYkaZii/edit)
+- [Daniel McCarthy](https://www.linkedin.com/in/danielmcc/)
 
 **Companies**
 - AirBnB
