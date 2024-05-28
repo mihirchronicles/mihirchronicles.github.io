@@ -31,6 +31,30 @@ An overview of key metrics and benchmarks. By measuring and analyzing as you gro
     - E+D = Learn to Monetization
     - E+M = Improve Desire
     - D+M = Say No
+- The One Metric That Matters (OMTM)
+    - Focusing on one metric above all others provides a uniquely powerful sense of focus across the entire company — a focus that is much needed in the early stages of a company’s life.
+    - Pick a metric from the riskiest portion of your business.
+    - OMTM gives you a single metric that answers the most important question you have. 
+    - The OMTM forces you to draw a line in the sand.
+    - It focuses the entire company.
+    - It inspires a culture of experimentation.
+    - There’s a powerful example of an OMTM in this chapter: in the restaurant business, the one metric that matters is the ratio of staff costs to gross revenues for the previous day. When staffing costs exceed 30% of gross revenues, that’s bad because it means you’re either spending too much on staff, or not deriving enough revenue per customer. This ratio works because:
+        - It’s a simple number.
+        - It’s immediate—you can generate it every night.
+        - It’s actionable—you might not be able to renegotiate ingredient costs, change your menu, or redo your lease agreement immediately. But you can make changes to staffing or encourage upselling the very next day.
+        - It’s comparable—you can track it over time, and compare it to other restaurants in your neighborhood or category.
+        - It’s fundamental—it’s fairly well known, and reflects two basic facets of the restaurant business model.
+- In Lean Analytics, they’ve decided to synthesize the findings from four frameworks in particular:
+    - Dave McClure’s AAAR Pirate Metrics
+    - Ash Marya’s Lean Canvas
+    - Sean Ellis’s Startup Growth Pyramid
+    - The Long Funnel 
+- The analytics framework presented in Lean Analytics takes many of the stages in the above four frameworks and combines them into a single framework with five stages:
+    - Empathy—you’re looking for a real, poorly-met need that can be found in a reachable market. Once you do so, you’re figuring out how to solve their problem in a way customers will accept and pay for.
+    - Stickiness—you’re looking for the right mix of products/features/functionality that will keep users around.
+    - Virality—you’re looking for ways to fuel growth organically and artificially.
+    - Revenue—you’re looking for a scalable and sustainable business with the right margins in a healthy ecosystem.
+    - Scale—you’re looking to scale up the business on all fronts.
 - Find days where unsubscribe rate is high, then find out why. Need to tweak the unsubscribe process to get better resolution on this. Subs expire some time after cancellation, so a decrease in sub numbers on a given day is not necessarily indicative of anything. Find the action, not the result.
 - Properly calculating churn—select a time period. Average the number of customers at the beginning and the end of the period. Divide the number of cancellations by this number. To increase data integrity, measure churn daily.
 - User generated content—use the forums as a source of UGC and find ways to repackage it and syndicate it.
