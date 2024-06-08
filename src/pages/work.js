@@ -15,7 +15,7 @@ const WorkIndex = ({ data, location }) => {
 
       <h2>Schwab Charitable</h2>
       <p><strong>[2023 - Current]</strong></p>
-      <p><strong>Details</strong>: Working on automating and enhancing granting experience.</p>
+      <p><strong>Details</strong>: Responsible for automating 90% of grants given to charities resulting in reduction of operational overhead costs while enhancing user experience for donors. Work in progress.</p>
       <p><strong>Website</strong>: <a href="https://www.schwabcharitable.org">Schwab Charitable</a></p>
 
       <h2>Schwab Intelligent Portfolios</h2>
@@ -28,7 +28,7 @@ const WorkIndex = ({ data, location }) => {
         <StaticImage src="../images/big_imposter.png" alt="big_imposter" className="gallery-image" />
       </div>
       <p><strong>[2023 - Current]</strong></p>
-      <p><strong>Details</strong>: A personal project on how curiosity can help them beat the imposter syndrome. A collection of sketches and notes to share with my son on how to beat big imposter.</p>
+      <p><strong>Details</strong>: A personal project on how curiosity can help them beat the imposter syndrome. Work in progress.</p>
       <p><strong>Instagram</strong>: <a href="https://www.instagram.com/beatbigimposter/">@beatbigimposter</a></p>
 
       <h2>Wise Charlie</h2>
