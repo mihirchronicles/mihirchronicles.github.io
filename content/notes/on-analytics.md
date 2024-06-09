@@ -290,8 +290,10 @@ Product metrics can be split into five categories:
 **Books**
 - [Lean Analytics: Use Data to Build a Better Startup Faster by Alistair Croll & Benjamin Yoskovitz](https://www.amazon.com/Lean-Analytics-Better-Startup-Faster-ebook/dp/B00AG66LTM)
 - [Good Books for All Things Data](https://multithreaded.stitchfix.com/blog/2016/06/09/ds-books/)
+- [The Customer-Base Audit: The First Step on the Journey to Customer Centricity](https://www.amazon.com/dp/161363160X?trk=public_post_comment-text)
 
 **Links**
+- [Data Analysis Journal Substack](https://dataanalysis.substack.com)
 - [The Role of Analytics by SVPG](https://www.svpg.com/the-role-of-analytics/)
 - [Flavors of Analytics by SVPG](https://www.svpg.com/flavors-of-analytics/)
 - [Leveraging Data Science by SVPG](https://www.svpg.com/leveraging-data-science/)
@@ -311,12 +313,18 @@ Product metrics can be split into five categories:
 - [Lecture 6: Growth from Alex Schultz, VP of Analytics, Meta ](https://genius.com/Alex-schultz-lecture-6-growth-annotated)
 - [3 Things Your User Retention Rate Is Hiding from Mode](https://mode.com/blog/what-user-retention-hides)
 - [Cohort Analysis That Helps You Look Ahead from Mode](https://mode.com/blog/cohort-analysis-helps-look-ahead)
+- [Cohort Revenue & Retention Analysis](https://www.pymc-labs.com/blog-posts/cohort-revenue-retention/?trk=public_post_comment-text)
+- [Stop optimizing for a CAC:LTV ratio of 1:3](https://elenaverna.substack.com/p/stop-optimizing-for-a-cacltv-ratio)
+- [Customer Cohort Analysis and CLV by Daniel McCarthy Podcast Episode](https://thetaclv.com/resource/customer-cohort-analysis-and-clv/)
+- [C3: The emerging “gold standard” of customer disclosures that investors should demand](https://thetaclv.com/resource/c3/?trk=public_post_comment-text)
+- [My Favorite Analyses: The Customer Cohort Chart (C3)](https://www.artscience.ai/blog/my-favorite-analyses-the-customer-cohort-chart-c3?trk=public_post_comment-text)
 - [How to increase your retention](https://www.lennysnewsletter.com/p/how-to-increase-your-retention-issue)
 - [What is good retention](https://www.lennysnewsletter.com/p/what-is-good-retention-issue-29)
 - [User Engagement and Activity Histogram Analysis from Olga](https://dataanalysis.substack.com/p/user-engagement-and-activity-histogram)
 - [Day of the Week Analysis in SQL from Olga](https://dataanalysis.substack.com/p/day-of-the-week-analysis-in-sql-issue)
 - [Excel template for cohort analyses in SaaS from Christoph Janz](https://www.lennysnewsletter.com/p/measuring-cohort-retention)
 - [How Cohort Analysis Improves Retention & Reduces Churn from Heap](https://www.heap.io/topics/how-cohort-analysis-improves-retention-reduces-churn)
+- [Statistical Process Control: A Practitioner’s Guide](https://two-wrongs.com/statistical-process-control-a-practitioners-guide)
 
 **People**
 - [Ron Kohavi](https://docs.google.com/document/d/1Lp8hjXWWn9n60QzeI2kuoIxwpWYkaZii/edit)
