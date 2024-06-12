@@ -31,7 +31,7 @@ const WorkIndex = ({ data, location }) => {
       </div>
       <p><strong>[2023]</strong></p>
       <p><strong>Details</strong>: Explored no code webflow tool to build a project website that is now abandoned.</p>
-      <p><strong>Website</strong>: <a href="https://bigimposter.design.webflow.com">beatbigimposter</a></p>
+      <p><strong>Website</strong>: <a href="https://bigimposter.webflow.io">beatbigimposter</a></p>
 
       <h2>Wise Charlie</h2>
       <div>
