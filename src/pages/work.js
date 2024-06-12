@@ -25,11 +25,13 @@ const WorkIndex = ({ data, location }) => {
 
       <h2>Big Imposter</h2>
       <div>
-        <StaticImage src="../images/big_imposter.png" alt="big_imposter" className="gallery-image" />
+        <StaticImage src="../images/big_imposter_1.png" alt="big_imposter" className="gallery-image" />
+        <StaticImage src="../images/big_imposter_2.png" alt="big_imposter" className="gallery-image" />
+        <StaticImage src="../images/big_imposter_3.png" alt="big_imposter" className="gallery-image" />
       </div>
-      <p><strong>[2023 - Current]</strong></p>
-      <p><strong>Details</strong>: Showcasing how curiosity can help beat the imposter syndrome. Work in progress.</p>
-      <p><strong>Instagram</strong>: <a href="https://www.instagram.com/beatbigimposter/">@beatbigimposter</a></p>
+      <p><strong>[2023]</strong></p>
+      <p><strong>Details</strong>: Explored no code webflow tool to build a project website that is now abandoned.</p>
+      <p><strong>Website</strong>: <a href="https://bigimposter.design.webflow.com">beatbigimposter</a></p>
 
       <h2>Wise Charlie</h2>
       <div>

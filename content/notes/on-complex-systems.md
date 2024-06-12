@@ -146,6 +146,7 @@ Everything is caught up in non-linear web of incentives, constraints and connect
 - [Complexity by M. Mitchell Waldrop](/complexity)
 - [Santa Fe Institute](https://www.santafe.edu)
 - [What is complexity by Farnam Street](https://fs.blog/what-is-complexity/)
+- [Loopy, a tool for thinking in systems](https://ncase.me/loopy/)
 
 </details>
 <br />
