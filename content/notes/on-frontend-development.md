@@ -6,31 +6,9 @@ draft: false
 path: "/notes/on-frontend-development"
 ---
 
-List of topics that were useful to me when I was a developer.
+## Topic Notes
 
-## Frontend dev resources
-
-- Guide: https://github.com/grab/front-end-guide
-- Guide: https://vanillajstoolkit.com/
-- Specification: https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
-- Manual: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
-- Compatibility Table: https://caniuse.com/ — per-feature tables of support.
-- Compatibility Table: https://kangax.github.io/compat-table/es6/ – a table with language features and engines that support those or don’t support.
-
-### HTML
-
-<details>
-  <summary>Pollyfills</summary>
-
-   - https://developer.mozilla.org/en-US/docs/Glossary/Polyfill
-   - https://remysharp.com/2010/10/08/what-is-a-polyfill
-   - https://medium.com/beginners-guide-to-mobile-web-development/introduction-to-polyfills-their-usage-9cd6db4b1923
-   - https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills
-</details>
-
-### CSS
-
-- [Modern CSS](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525)
+#### CSS
 
 <details>
   <summary>BEM</summary>
@@ -113,8 +91,6 @@ The pseudo elements (e.g. `::after`, `::before`, and `::first-letter` - plus 3 o
 </details>
 
 ### Javascript
-
-- [Glossary of Modern JS Concepts](https://auth0.com/blog/glossary-of-modern-javascript-concepts/)
 
 <details>
   <summary>Arrow</summary>
@@ -597,7 +573,7 @@ window.libraryName = window.libraryName || "Lib 2";
 The core idea of functional programming in JS - that we can plug our pure functions into higher order abstractions - is at the very heart of functional programming. A higher order function is a function that takes another function as a parameter. In JavaScript, functions are "first-class citizens." That means we can assign them to variables, create them inside of other functions, and pass them as arguments like any other object. Iteration in functional programming relies on a holy trinity of functions: map, filter, and reduce. We can use functional programming to reduce boilerplate in everyday code, keeping it DRY.
 </details>
 
-### Testing
+#### Testing
 
 <details>
   <summary>Testing</summary>
@@ -606,14 +582,12 @@ A well functioning team cannot rely on creating features in a hurry, throwing th
 
 Automated testing helps with this. Pre-commit hooks can be used when deploying builds so that errors are caught and addressed early. Unit tests can be run using pre-commit hooks. See a post [here](https://amberwilson.co.uk/blog/unit-tests/). However, there is a fine line between having too many automated tests, e.g. end-to-end tests that take too long to run with each build, and not having enough. Some companies run quicker unit tests on each build, and then run end-to-end tests as a nightly build.
 
-See the image [The Testing Pyramid](http://blog.xebia.com/its-2017-test-automation-is-not-optional-when-building-mobile-apps/) for one of many examples of the testing pyramid to understand unit tests or end-to-end (UI) tests.
-
 Manual testing is important too. It is usually done by QA engineers, and helps reveal edge cases that automated tests do not catch.
 
 JavaScript lacks the strict type checking of Java, which is a blessing and a curse. Code is easier to write but requires more testing to ensure correctness.
 </details>
 
-### Debugging
+#### Debugging
 
 <details>
   <summary>Debugging & Console</summary>
@@ -746,19 +720,11 @@ Check out [Chrome Devtools](https://developers.google.com/web/tools/chrome-devto
 ```
 </details>
 
-### Performance
+#### Performance
 
-<details>
-  <summary>Optimization & Performance</summary>
+Why a little discipline can help if you’d like your site to load & be interactive quickly on mobile devices? tl;dr: less code = less parse/compile + less transfer + less to decompress.
 
-Why a little discipline can help if you’d like your site to load & be interactive quickly on mobile devices? tl;dr: less code = less parse/compile + less transfer + less to decompress
-- [The Cost Of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
-- why a little discipline can help if you’d like your site to load & be interactive quickly on mobile devices? tl;dr: less code = less parse/compile + less transfer + less to decompress
-</details>
-
-### Tooling
-
-- [Modern Javascript](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
+#### Tooling
 
 <details>
   <summary>Package Manager</summary>
@@ -802,34 +768,11 @@ Why a little discipline can help if you’d like your site to load & be interact
   - [Webpack](https://webpack.js.org/guides/development/)
 </details>
 
-### Internationalization i18n
+#### Internationalization i18n
 
-<details>
-  <summary>Localization vs. Internationalization</summary>
+- Internationalization (i18n) is the process of developing products in such a way that they can be localized for languages and cultures easily. Localization (l10n), is the process of adapting applications and text to enable their usability in a particular cultural or linguistic market. For application developers, internationalizing an application means abstracting all of the strings and other locale-specific bits (such as date or currency formats) out of the application. Localizing an application means providing translations and localized formats for the abstracted bits.
 
-   - [Localization vs. Internationalization](https://www.w3.org/International/questions/qa-i18n)
-   - Internationalization (i18n) is the process of developing products in such a way that they can be localized for languages and cultures easily. Localization (l10n), is the process of adapting applications and text to enable their usability in a particular cultural or linguistic market. For application developers, internationalizing an application means abstracting all of the strings and other locale-specific bits (such as date or currency formats) out of the application. Localizing an application means providing translations and localized formats for the abstracted bits.
-</details>
-
-### ES6
-
-- **JS Languages ES6 vs ES5**: Language ECMAScript(ES), Dialect (Javascript). ES5 supported by all browsers. ES6 needs polyfills, transpilers.
-- **Compatibility**: ES6 isn't natively supported by all Browser yet, or at least not all features are. It is important to know which features may or may not be used. This compatibility chart should be helpful to you: [ES6 Comatibility Chart](https://kangax.github.io/compat-table/es6/)
-- You need three things to run transpile ES5 to ES6: compiler, loader and server. Server because modules needs to be served, a light server. Cheat Sheet below:
-    - **What’s Required?** To develop ES6 applications locally, you need a transpiler (ES6 -> ES5), a module loader (to load the different modules/ files) and a little server to host your app (and to serve those module files).
-    - **Compiler Examples** Babel: https://babeljs.io/. Traceur: https://github.com/google/traceur-compiler
-    - **Module Loader / Packaging Examples**  SystemJS: https://github.com/systemjs/systemjs. Webpack: https://github.com/webpack/webpack
-    - **Servers** Live-server: https://www.npmjs.com/package/live-server. Lite-server: https://github.com/johnpapa/lite-server. Webpack-dev-server: https://webpack.github.io/docs/webpack-devserver.html
-    - **A quick way to get started** You could also use the JavaScript Package Manager (JSPM) to quickly set up your own development environment with Compiler (Babel) and Module Loader (SystemJS). You would need to install an extra server though (google for jspm server for example). Link: http://jspm.io/
-    - **Complete Setups / Boilerplates** https://github.com/topheman/vanilla-es6-jspm and https://github.com/thoughtram/es6-babel-browserify-boilerplate. 
-    - ES6 features: http://help.wtf/es6
-    - Super and Extend in ES6: https://medium.com/beginners-guide-to-mobile-web-development/super-and-extends-in-javascript-es6-understanding-the-tough-parts-6120372d3420
-- Other Resources:
-    - [Traceur Compiler](https://github.com/google/traceur-compiler)
-    - [Systemjs](https://github.com/systemjs/systemjs)
-    - [Webpack and Progressive Apps](https://medium.freecodecamp.org/how-to-write-simple-modern-javascript-apps-with-webpack-and-progressive-web-techniques-a30354eab214)
-
-### Visualization
+#### Visualization
 - [A Better Way To Code](https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0) by Mike Bostock:
   - A danger of spending so long designing a tool is that you may forget what the tool is for: the tool itself becomes the goal, rather than the value derived from its application.
   - The purpose of a visualization tool is to construct visualizations. But what is the purpose of visualization? Per Ben Shneiderman: The purpose of visualization is insight, not pictures.
@@ -839,7 +782,7 @@ Why a little discipline can help if you’d like your site to load & be interact
 
 Useful shortcuts and commands I use or have used to optimize my productivity.
 
-### Folder structure
+#### Folder structure
 
 - **executable files**:`bin` 
 - **3rd party libraries**: `lib` 
@@ -850,7 +793,7 @@ Useful shortcuts and commands I use or have used to optimize my productivity.
 - **client source code**: `client` 
 - **server source code**: `server`
 
-### Mac keyboard shortcuts
+#### Mac keyboard shortcuts
 <details>
   <summary>Window Management </summary>
   
@@ -901,71 +844,63 @@ Useful shortcuts and commands I use or have used to optimize my productivity.
    - **next command**: `ctrl + R`
 </details> 
 
-### Shell command line
-
-<details>
-  <summary>Shell Commands</summary>
+#### Shell command line
    
-   - **find path and package**: `which [package name] git`
-   - **cursor at the beginning of the line**: `control + A`
-   - **cursor at the end of the line**: `control + E`
-   - **clear line**: `control + U`
-   - **in the middle of a line**: `option + click mouse pointer`
-   - **echo**: `echo "string"`
-   - **manual instructions of commands**: `man grep` [command name]
-   - **exit to close the terminal**: `exit`
-   - **to kill files**: `kill -9 $(pgrep filename)`
-   - **to add permission**: `chmod +x filename`
-   - **to find files with an extension**: `find path -name “*.filetype”`
-   - **to copy**: `cp path1/filename path2/filename`
-   - **file permission**: `chmod g+x/w/or/r filename`
-   - **file ownership**: `chown username filename`
-   - **show disk space**: `df-h (human readable)`
-   - **CPU, RAM, etc**: `top`
-   - **search and print**: `grep (can add layers of logic)`
-   - **find and Replace**: `sed s/word/word/g`
-   - **file Content Print**: `cat`
-   - **multiple commands in the same line**: `-`
-   - **execute a file with its name, need to set up the environment**: `(# !/usr/bin/env python) ./filename`
-   - **delete content in the file**: `cat /dev/null > filename`
-   - **back to the previous path**: `cd -`
-   - **copy b/w different hosts allows files to be copied to, from, or between different hosts. It uses ssh for data transfer and provides the same authentication and same level of security as ssh.**: `scp`
-   - **help (stands for manual)**: `man`
-   - **symbolic Link**: `ln -sf source-path destination-path`
-   - **more content of a file**: `| more`
-   - **list information about all the files**:`ll`
-   - **create folder with sub folders**: `mkdir -p folder-name/{sub-folder1, sub-folder2}`
-   - **list differences b/w two files**: `diff file-name file-name`
-   - **unzip Github folder (master)**: `tar xvf master -C yourFolder --strip-components 1 or tar -xvzf “name”`
-   - **find size file in MB or KB**: `ls -l --block-size=M or ls-lh`
-   - **find file path based on filename**: `find ./path -name “filename.*”`
-   - **find string in directory with file name**: `grep -r --include=*.{cpp,h} “hello” .`
-   - **find package if it is installed**: `dpkg -s apache-perl`
-   - **find content of the link**: `curl -sS “link”`
-   - **conditional search and print**: `$ tail -n 3 calc_process.log | grep final | tr '{' '\n' | grep startdate` and `$ tail -n 3 calc_process.log | grep final | tr '{' '\n' | grep startdate | sed -e 's/}.*$//g'`
-</details> 
+- **find path and package**: `which [package name] git`
+- **cursor at the beginning of the line**: `control + A`
+- **cursor at the end of the line**: `control + E`
+- **clear line**: `control + U`
+- **in the middle of a line**: `option + click mouse pointer`
+- **echo**: `echo "string"`
+- **manual instructions of commands**: `man grep` [command name]
+- **exit to close the terminal**: `exit`
+- **to kill files**: `kill -9 $(pgrep filename)`
+- **to add permission**: `chmod +x filename`
+- **to find files with an extension**: `find path -name “*.filetype”`
+- **to copy**: `cp path1/filename path2/filename`
+- **file permission**: `chmod g+x/w/or/r filename`
+- **file ownership**: `chown username filename`
+- **show disk space**: `df-h (human readable)`
+- **CPU, RAM, etc**: `top`
+- **search and print**: `grep (can add layers of logic)`
+- **find and Replace**: `sed s/word/word/g`
+- **file Content Print**: `cat`
+- **multiple commands in the same line**: `-`
+- **execute a file with its name, need to set up the environment**: `(# !/usr/bin/env python) ./filename`
+- **delete content in the file**: `cat /dev/null > filename`
+- **back to the previous path**: `cd -`
+- **copy b/w different hosts allows files to be copied to, from, or between different hosts. It uses ssh for data transfer and provides the same authentication and same level of security as ssh.**: `scp`
+- **help (stands for manual)**: `man`
+- **symbolic Link**: `ln -sf source-path destination-path`
+- **more content of a file**: `| more`
+- **list information about all the files**:`ll`
+- **create folder with sub folders**: `mkdir -p folder-name/{sub-folder1, sub-folder2}`
+- **list differences b/w two files**: `diff file-name file-name`
+- **unzip Github folder (master)**: `tar xvf master -C yourFolder --strip-components 1 or tar -xvzf “name”`
+- **find size file in MB or KB**: `ls -l --block-size=M or ls-lh`
+- **find file path based on filename**: `find ./path -name “filename.*”`
+- **find string in directory with file name**: `grep -r --include=*.{cpp,h} “hello” .`
+- **find package if it is installed**: `dpkg -s apache-perl`
+- **find content of the link**: `curl -sS “link”`
+- **conditional search and print**: `$ tail -n 3 calc_process.log | grep final | tr '{' '\n' | grep startdate` and `$ tail -n 3 calc_process.log | grep final | tr '{' '\n' | grep startdate | sed -e 's/}.*$//g'`
 
-### VIM
+#### VIM
 
-<details>
-  <summary>VIM</summary>
-   
-   - **to find text in VIM**: `/ or ? text`
-   - **go to bottom**: `Shift +G`
-   - **go to top**: `gg or Shift + gg`
-   - **line numbers**: `:set nu`
-   - **helper & setter**: `:help and :set`
-   - **delete**: `d`
-   - **delete word**: `dw`
-   - **delete a character**: `x`
-   - **arrows**: `h, j, k, l`
-   - **append at the end of the line**: `a`
-   - **shift to the end of the line**: `A`
-   - **find and replace all**: `:%s/foo/bar/g`
-   - **delete all**: `go on top of line gg and to delete all- dG`
-</details> 
+- **to find text in VIM**: `/ or ? text`
+- **go to bottom**: `Shift +G`
+- **go to top**: `gg or Shift + gg`
+- **line numbers**: `:set nu`
+- **helper & setter**: `:help and :set`
+- **delete**: `d`
+- **delete word**: `dw`
+- **delete a character**: `x`
+- **arrows**: `h, j, k, l`
+- **append at the end of the line**: `a`
+- **shift to the end of the line**: `A`
+- **find and replace all**: `:%s/foo/bar/g`
+- **delete all**: `go on top of line gg and to delete all- dG`
 
-### GREP
+#### GREP
 
 <details>
   <summary>Search the contents of files using grep:</summary>
@@ -1057,21 +992,42 @@ Useful shortcuts and commands I use or have used to optimize my productivity.
    - **inverse Search combo**: `find examples -name “*js” | grep -vE “node_modules|Spec”`
 </details>  
 
-### GIT
+#### GIT
 
+- **resetting git**: `git reset --hard HEAD`
+- **pull to original settings**: `git pull - - rebase`
+
+#### NPM scripts
+
+- **omit npm config**: `npm init -y`
+- **alias shortcut**: `npm install —save alias: npm i -S`
+- **dev shortcut**: `npm —save-dev: npm i -D`
+
+## Further reading
 <details>
-  <summary>Git commands</summary>
+    <summary><strong>Resources</strong></summary>
+    <br>
 
-   - **resetting git**: `git reset --hard HEAD`
-   - **pull to original settings**: `git pull - - rebase`
-</details> 
+List of topics that were useful to me when I was a developer.
 
-### NPM scripts
+## Frontend dev resources
 
-<details>
-  <summary>Npm commmands</summary>
+- Guide: https://github.com/grab/front-end-guide
+- Guide: https://vanillajstoolkit.com/
+- Specification: https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
+- Manual: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
+- Compatibility Table: https://caniuse.com/ — per-feature tables of support.
+- Compatibility Table: https://kangax.github.io/compat-table/es6/ – a table with language features and engines that support those or don’t support.
+- Pollyfills
+  - https://developer.mozilla.org/en-US/docs/Glossary/Polyfill
+  - https://remysharp.com/2010/10/08/what-is-a-polyfill
+  - https://medium.com/beginners-guide-to-mobile-web-development/introduction-to-polyfills-their-usage-9cd6db4b1923
+  - https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills
+- [Modern CSS](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525)
+- [Glossary of Modern JS Concepts](https://auth0.com/blog/glossary-of-modern-javascript-concepts/)
+- [Localization vs. Internationalization](https://www.w3.org/International/questions/qa-i18n)
+- [The Cost Of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
+- [Modern Javascript](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
 
-   - **omit npm config**: `npm init -y`
-   - **alias shortcut**: `npm install —save alias: npm i -S`
-   - **dev shortcut**: `npm —save-dev: npm i -D`
 </details>
+<br />
