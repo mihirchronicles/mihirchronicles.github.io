@@ -1010,8 +1010,6 @@ Useful shortcuts and commands I use or have used to optimize my productivity.
 
 List of topics that were useful to me when I was a developer.
 
-## Frontend dev resources
-
 - Guide: https://github.com/grab/front-end-guide
 - Guide: https://vanillajstoolkit.com/
 - Specification: https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
