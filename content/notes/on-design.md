@@ -221,9 +221,26 @@ Motion graphics are an essential part of modern media design. They are used in f
     - Pressing
     - Flipping
 
+## Information architecture
+
+Wikipedia defines it as—“Information architecture (IA) is the structural design of shared information environments; the art and science of organizing and labelling websites, intranets, online communities and software to support usability and findability; and an emerging community of practice focused on bringing principles of design, architecture and information science to the digital landscape. Typically, it involves a model or concept of information that is used and applied to activities which require explicit details of complex information systems. These activities include library systems and database development.”
+
+Information architecture is a critical part of the user experience. You want the user to not only be able to understand the structure of your content, but also to predict it. They should be able to find jewelry under the sub-category of accessories, the author’s name on a blog post, and so on.  With a good IA, users can find the information they’re looking for as easily and quickly as possible. Without one, users won’t delight in your product, no matter how beautiful or engaging.
+
+A masterclass in information architecture is to explore [McMaster-Carr catalog website](https://www.mcmaster.com). The website is a joy to use. There are countless others on the internet. What makes them special?
+
+1. To effectively describe a concept, it is important to prioritize _simplicity_. By avoiding unnecessary complexity, you can ensure that users are not confused.
+2. To ensure a smooth user experience, it is important to maintain a _consistent hierarchy_ on your website or app.
+3. Proper organization and _arrangement of elements_ on a page helps create a sense of structure. Margins, padding, and alignment play a crucial role in guiding the reader’s eye.
+4. _Typography_ plays a crucial role in creating visual contrasts between various levels of content. This is accomplished through the effective utilization of font size, style, and color.
+5. _Clear and well-organized navigation menus_ are essential for your website or app. Discoverability is essential.
+6.  To ensure _important content receives the necessary attention_, it’s crucial to prioritize it. This can be achieved by utilizing headings, subheadings, or clear calls to action.
+7. IA should be _scalable_ as you add more features and grow your website or app.
+8. If you’re unsure about the direction of your IA concept, consider doing _exploratory testing_ with users.
+
 ## Sound design
 
-A great [write up by Notboring Software](https://www.notboring.software/words/the-sound-of-software) on designing sound.
+A great [write-up by Notboring Software](https://www.notboring.software/words/the-sound-of-software) on designing sound.
 
 Sound design starts with knowing when to use it and when not to. A few guidelines on where sound adds value.
 
@@ -233,7 +250,8 @@ Sound design starts with knowing when to use it and when not to. A few guideline
 - **Shape a feeling.** Sound can play a key role in queueing us in on how we should feel in a moment—happy, reflective, alert.
 - **Immerse you in a world.** Sound can stretch software beyond the screen and immerse us in a deeper world.
 
-To design sound:
+Guidelines on how to design inviting sound:
+
 1. Break the repetition to prevent annoyance. Instead of repetition, you create texture.
 2. Add layers to craft new sounds.
 3. Build a wholistic experience where each element speaks to one another.
@@ -784,5 +802,11 @@ To summarize some of my takeaways on what a great designer does:
 - [Human Interface Guidelines:The Apple® Desktop Interface (1987)](https://andymatuschak.org/files/papers/Apple%20Human%20Interface%20Guidelines%201987.pdf)
 - [The curious case of user interfaces - Rasmus Andersson (Config 2023)](https://www.youtube.com/watch?v=76b3c_ssyPQ)
 - [The Sound of Software by Notboring Software](https://www.notboring.software/words/the-sound-of-software)
+- [What Is Information Architecture & Why Does It Matter? by Hubspot](https://blog.hubspot.com/website/information-architecture)
+- [Ask HN: What are some well-designed websites?](https://news.ycombinator.com/item?id=37419447)
+- [Information Architecture open source resources on Github](https://github.com/tipoqueno/information-architecture)
+- [Darren Hood’s Information Architecture & Information Design Book Recommendation List](https://uxuncensored.medium.com/darren-hoods-information-architecture-information-design-book-recommendation-list-8011a671c2be)
+- [Uber winning design](https://adplist.substack.com/p/uber-winning-design)
+
 </details>
 <br />

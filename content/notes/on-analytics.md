@@ -14,6 +14,8 @@ The flip side of data is analysis paralysis.
 
 Data is powerful but it is addictive causing analysis paralysis. A/B testing colors at Google generate them billions, but that doesn't mean you run A/B testing before deciding what pants to put on before you go to work.
 
+Data can help you climb a mountain, it can’t tell you which mountain to climb.
+
 Critics argue too much data driven isn't healthy. To them being data informed is enough. They are right because optimizing one part of your business can harm another part of business without taking a step back to look at the bigger picture. But that does not warrant to skip the hard work of data analytics.
 
 I know this because I shipped a feature to solve one pain-point to cause increase in call volumes causing frustration for my operation team. I oversold on data and dropped the ball on understanding the full picture.

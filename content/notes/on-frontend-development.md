@@ -8,7 +8,7 @@ path: "/notes/on-frontend-development"
 
 ## Topic Notes
 
-#### CSS
+### CSS
 
 <details>
   <summary>BEM</summary>
@@ -573,7 +573,7 @@ window.libraryName = window.libraryName || "Lib 2";
 The core idea of functional programming in JS - that we can plug our pure functions into higher order abstractions - is at the very heart of functional programming. A higher order function is a function that takes another function as a parameter. In JavaScript, functions are "first-class citizens." That means we can assign them to variables, create them inside of other functions, and pass them as arguments like any other object. Iteration in functional programming relies on a holy trinity of functions: map, filter, and reduce. We can use functional programming to reduce boilerplate in everyday code, keeping it DRY.
 </details>
 
-#### Testing
+### Testing
 
 <details>
   <summary>Testing</summary>
@@ -587,7 +587,7 @@ Manual testing is important too. It is usually done by QA engineers, and helps r
 JavaScript lacks the strict type checking of Java, which is a blessing and a curse. Code is easier to write but requires more testing to ensure correctness.
 </details>
 
-#### Debugging
+### Debugging
 
 <details>
   <summary>Debugging & Console</summary>
@@ -720,11 +720,11 @@ Check out [Chrome Devtools](https://developers.google.com/web/tools/chrome-devto
 ```
 </details>
 
-#### Performance
+### Performance
 
 Why a little discipline can help if you’d like your site to load & be interactive quickly on mobile devices? tl;dr: less code = less parse/compile + less transfer + less to decompress.
 
-#### Tooling
+### Tooling
 
 <details>
   <summary>Package Manager</summary>
@@ -768,11 +768,11 @@ Why a little discipline can help if you’d like your site to load & be interact
   - [Webpack](https://webpack.js.org/guides/development/)
 </details>
 
-#### Internationalization i18n
+### Internationalization i18n
 
 - Internationalization (i18n) is the process of developing products in such a way that they can be localized for languages and cultures easily. Localization (l10n), is the process of adapting applications and text to enable their usability in a particular cultural or linguistic market. For application developers, internationalizing an application means abstracting all of the strings and other locale-specific bits (such as date or currency formats) out of the application. Localizing an application means providing translations and localized formats for the abstracted bits.
 
-#### Visualization
+### Visualization
 - [A Better Way To Code](https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0) by Mike Bostock:
   - A danger of spending so long designing a tool is that you may forget what the tool is for: the tool itself becomes the goal, rather than the value derived from its application.
   - The purpose of a visualization tool is to construct visualizations. But what is the purpose of visualization? Per Ben Shneiderman: The purpose of visualization is insight, not pictures.
@@ -782,7 +782,7 @@ Why a little discipline can help if you’d like your site to load & be interact
 
 Useful shortcuts and commands I use or have used to optimize my productivity.
 
-#### Folder structure
+### Folder structure
 
 - **executable files**:`bin` 
 - **3rd party libraries**: `lib` 
@@ -793,7 +793,7 @@ Useful shortcuts and commands I use or have used to optimize my productivity.
 - **client source code**: `client` 
 - **server source code**: `server`
 
-#### Mac keyboard shortcuts
+### Mac keyboard shortcuts
 <details>
   <summary>Window Management </summary>
   
@@ -844,7 +844,7 @@ Useful shortcuts and commands I use or have used to optimize my productivity.
    - **next command**: `ctrl + R`
 </details> 
 
-#### Shell command line
+### Shell command line
    
 - **find path and package**: `which [package name] git`
 - **cursor at the beginning of the line**: `control + A`
@@ -884,7 +884,7 @@ Useful shortcuts and commands I use or have used to optimize my productivity.
 - **find content of the link**: `curl -sS “link”`
 - **conditional search and print**: `$ tail -n 3 calc_process.log | grep final | tr '{' '\n' | grep startdate` and `$ tail -n 3 calc_process.log | grep final | tr '{' '\n' | grep startdate | sed -e 's/}.*$//g'`
 
-#### VIM
+### VIM
 
 - **to find text in VIM**: `/ or ? text`
 - **go to bottom**: `Shift +G`
@@ -900,7 +900,7 @@ Useful shortcuts and commands I use or have used to optimize my productivity.
 - **find and replace all**: `:%s/foo/bar/g`
 - **delete all**: `go on top of line gg and to delete all- dG`
 
-#### GREP
+### GREP
 
 <details>
   <summary>Search the contents of files using grep:</summary>
@@ -992,12 +992,12 @@ Useful shortcuts and commands I use or have used to optimize my productivity.
    - **inverse Search combo**: `find examples -name “*js” | grep -vE “node_modules|Spec”`
 </details>  
 
-#### GIT
+### GIT
 
 - **resetting git**: `git reset --hard HEAD`
 - **pull to original settings**: `git pull - - rebase`
 
-#### NPM scripts
+### NPM scripts
 
 - **omit npm config**: `npm init -y`
 - **alias shortcut**: `npm install —save alias: npm i -S`
