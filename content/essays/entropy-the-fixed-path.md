@@ -18,4 +18,6 @@ Everything has a default state and energy will move to its non-default state. Th
 
 Yes, things used to be simple, but things are now chaotic because complexity emerges from entropy as it is always increasing. Chaos is the law of nature. Order is the dream of humanity. Order does not create growth, chaos does.
 
-Complexity is not an accident. It is the byproduct of a universal law—the second law of thermodynamics. You and I are both decaying and declining from our original state. The path is fixed.
+Complexity is not an accident. It is the byproduct of a universal law—the second law of thermodynamics. You and I are both decaying and declining from our original state. The path is fixed. 
+
+Befriend entropy, don't fight it.
