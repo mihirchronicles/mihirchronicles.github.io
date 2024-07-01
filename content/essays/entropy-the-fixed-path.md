@@ -14,9 +14,9 @@ The wheel of time goes through its natural cycle—creation to destruction to re
 
 Entropy is the second law of thermodynamics. It states that entropy—the measure of disorder in a closed system is always increasing.
 
-Everything has a default state and energy will move to its non-default state. The universe is always drifting from a state of order to a state of disorder. The only constant in life is change. 
+Everything has a default state and energy will move to its non-default state. The universe is always drifting from a state of order to a state of disorder.
 
-The birth of a child (default state) to turning a 30-year-old getting married (non-default state). The start of a company with 1 employee (default state) to a 300 people organization (non-default state).
+The birth of a child (default state) to turning a 30-year-old getting married (non-default state). The start of a company with 1 employee (default state) to a 300 people organization (non-default state). This is why the only constant in life is change. 
 
 Yes, things used to be simple, but things are now chaotic because complexity emerges from entropy as it is always increasing.
 

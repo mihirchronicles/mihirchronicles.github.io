@@ -342,9 +342,12 @@ Product metrics can be split into five categories:
 - Gojeck
 	- [Why Most Analytics Efforts Fail by Crystal Widjaja](https://www.reforge.com/blog/why-most-analytics-efforts-fail)
 - Duolingo
-	- [https://blog.duolingo.com/growth-model-duolingo/](https://blog.duolingo.com/growth-model-duolingo/)
+    - [Meaningful metrics: How data sharpened the focus of product teams](https://blog.duolingo.com/growth-model-duolingo/)
 	- [The secret to Duolingo’s exponential growth by Lenny's Newsletter](https://www.lennysnewsletter.com/p/the-secret-to-duolingos-growth)
 	- [How Duolingo reignited user growth by Lenny's Newsletter](https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth)
+    - [Behind the metric: how we developed “Time Spent Learning Well”](https://blog.duolingo.com/time-spent-learning-well/)
+- Stitch Fix
+    - [Want to make good business decisions? Learn causality](https://multithreaded.stitchfix.com/blog/2019/12/19/good-marketing-decisions/)
 
 **Tools**
 - [Evan’s Awesome A/B Tools](https://www.evanmiller.org/ab-testing/)
