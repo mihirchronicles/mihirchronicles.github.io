@@ -8,7 +8,7 @@ path: "/notes/on-analytics"
 
 Analytics is about tracking the metrics that are critical to your business. It matters if your business cares about where the money is going from or where the money is going to in order to support the business model.
 
-All organizations want to be data driven. Everyone has “data“ but they get the second part wrong—“driven.“ Measuring is the job that holds the organization accountable, but is the hardest job. You are forced to face inconvenient truths, should not serve personal agenda and requires changing paths in the light of new insights. Another part of “driven“ it requires an investment in data infrastructure. If an organization does not have the right tools or the right process to cleanse, structure and surface data, measuring anything will be an obstacle.
+All organizations want to be data driven. Everyone has “data” but they get the second part wrong—“driven.” Measuring is the job that holds the organization accountable, but is the hardest job. You are forced to face inconvenient truths, should not serve personal agenda and requires changing paths in the light of new insights. Another part of “driven” it requires an investment in data infrastructure. If an organization does not have the right tools or the right process to cleanse, structure and surface data, measuring anything will be an obstacle.
 
 The flip side of data is analysis paralysis.
 
@@ -35,6 +35,8 @@ It is all about developing healthy skepticism and curiosity to get closer to the
 And last thing, both insights and context are equally important.
 
 > Insight tells you what's happening. Context tells you why it's happening. Insight come from customers and competitors, from markets and industries, but most important, from our data.  Context comes from knowledge and experience. It applies perspective to the data. Combining insights and context gives you the full-screen picture of what is happening, why it's happening and what needs to be done. — Transformed by Marty Cagan
+
+> Data can only improve decisions insofar as it enables us to learn about the potential outcomes associated with the alternatives under consideration. Instead of being naively data driven, we should seek to be causal information driven. Causal inference provides a set of powerful tools for understanding the extent to which causal relationships can be learned from the data we have. — Stitch Fix
 
 ## Organization maturity model
 
@@ -346,6 +348,7 @@ Product metrics can be split into five categories:
 	- [The secret to Duolingo’s exponential growth by Lenny's Newsletter](https://www.lennysnewsletter.com/p/the-secret-to-duolingos-growth)
 	- [How Duolingo reignited user growth by Lenny's Newsletter](https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth)
     - [Behind the metric: how we developed “Time Spent Learning Well”](https://blog.duolingo.com/time-spent-learning-well/)
+    - [Efficacy studies](https://www.duolingo.com/efficacy/studies)
 - Stitch Fix
     - [Want to make good business decisions? Learn causality](https://multithreaded.stitchfix.com/blog/2019/12/19/good-marketing-decisions/)
 
