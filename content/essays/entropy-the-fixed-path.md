@@ -18,7 +18,7 @@ Everything has a default state and energy will move to its non-default state. Th
 
 The birth of a child (default state) to turning a 30-year-old getting married (non-default state). The start of a company with 1 employee (default state) to a 300 people organization (non-default state). This is why the only constant in life is change. 
 
-Yes, things used to be simple, but things are now chaotic because complexity emerges from entropy as it is always increasing.
+Yes, things used to be simple, but things are now chaotic because entropy is always increasing resulting in complexity.
 
 If chaos is the law of nature then order is the dream of humanity. Order does not create growth, chaos does. 
 
