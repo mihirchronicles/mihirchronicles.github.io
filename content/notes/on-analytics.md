@@ -319,6 +319,7 @@ Product metrics can be split into five categories:
 - [Cohort Analysis That Helps You Look Ahead from Mode](https://mode.com/blog/cohort-analysis-helps-look-ahead)
 - [Cohort Revenue & Retention Analysis](https://www.pymc-labs.com/blog-posts/cohort-revenue-retention/?trk=public_post_comment-text)
 - [Stop optimizing for a CAC:LTV ratio of 1:3](https://elenaverna.substack.com/p/stop-optimizing-for-a-cacltv-ratio)
+- [Yield is All You Need: Why IRR on CAC is the Only Metric that Matters by Harry Elliott](https://www.linkedin.com/pulse/yield-all-you-need-why-irr-cac-only-metric-matters-harry-elliott-m6yuc/)
 - [Customer Cohort Analysis and CLV by Daniel McCarthy Podcast Episode](https://thetaclv.com/resource/customer-cohort-analysis-and-clv/)
 - [C3: The emerging “gold standard” of customer disclosures that investors should demand](https://thetaclv.com/resource/c3/?trk=public_post_comment-text)
 - [My Favorite Analyses: The Customer Cohort Chart (C3)](https://www.artscience.ai/blog/my-favorite-analyses-the-customer-cohort-chart-c3?trk=public_post_comment-text)
