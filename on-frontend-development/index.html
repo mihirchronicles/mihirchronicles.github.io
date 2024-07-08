@@ -55,7 +55,7 @@
 <details>
   <summary>Pseudoelements</summary>
 <ul>
-<li><a href="https://www.smashingmagazine.com/2011/07/learning-to-use-the-before-and-after-pseudo-elements-in-css/">Pseudo Elements In Css</a>.      - <code class="language-text">::before</code> and <code class="language-text">::after</code>, many of the uses involve graphics but no actual word content. You must set both the <code class="language-text">content:"";</code> property and if your content is empty the <code class="language-text">display:inline-block</code> property or the psuedoelement will not show up.</li>
+<li><a href="https://www.smashingmagazine.com/2011/07/learning-to-use-the-before-and-after-pseudo-elements-in-css/">Pseudo Elements In Css</a>. <code class="language-text">::before</code> and <code class="language-text">::after</code>, many of the uses involve graphics but no actual word content. You must set both the <code class="language-text">content:"";</code> property and if your content is empty the <code class="language-text">display:inline-block</code> property or the psuedoelement will not show up.</li>
 </ul>
 </details>
 <details>
@@ -461,7 +461,7 @@ window<span class="token punctuation">.</span>libraryName <span class="token ope
   <summary>Functional programming in JS</summary>
 <p>The core idea of functional programming in JS - that we can plug our pure functions into higher order abstractions - is at the very heart of functional programming. A higher order function is a function that takes another function as a parameter. In JavaScript, functions are "first-class citizens." That means we can assign them to variables, create them inside of other functions, and pass them as arguments like any other object. Iteration in functional programming relies on a holy trinity of functions: map, filter, and reduce. We can use functional programming to reduce boilerplate in everyday code, keeping it DRY.</p>
 </details>
-<h3>Testing</h3>
+<h3>Testing, debugging &#x26; performance</h3>
 <details>
   <summary>Testing</summary>
 <p>A well functioning team cannot rely on creating features in a hurry, throwing them over the fence and then expecting our applications to work well and without bugs. To instil quality from the start of a feature, there should be tests for it.</p>
@@ -469,7 +469,6 @@ window<span class="token punctuation">.</span>libraryName <span class="token ope
 <p>Manual testing is important too. It is usually done by QA engineers, and helps reveal edge cases that automated tests do not catch.</p>
 <p>JavaScript lacks the strict type checking of Java, which is a blessing and a curse. Code is easier to write but requires more testing to ensure correctness.</p>
 </details>
-<h3>Debugging</h3>
 <details>
   <summary>Debugging & Console</summary>
 <p>Debugging is one of the key skills required to be a great developer. Below are the key things you need to know when working with the debugger.</p>
@@ -569,8 +568,10 @@ console<span class="token punctuation">.</span><span class="token function">log<
     $_ variable holds the most recent expression that was evaluated <span class="token keyword">in</span> the console context<span class="token punctuation">.</span>
     And $0 through $4 holds the most recent element that was inspected <span class="token keyword">with</span> inspect element</code></pre></div>
 </details>
-<h3>Performance</h3>
-<p>Why a little discipline can help if you’d like your site to load &#x26; be interactive quickly on mobile devices? tl;dr: less code = less parse/compile + less transfer + less to decompress.</p>
+<details>
+<summary>Performance</summary>
+Why a little discipline can help if you’d like your site to load & be interactive quickly on mobile devices? tl;dr: less code = less parse/compile + less transfer + less to decompress.
+</details>
 <h3>Tooling</h3>
 <details>
   <summary>Package Manager</summary>
@@ -637,14 +638,11 @@ console.log(moment().startOf('day').fromNow());</p>
 <li>Internationalization (i18n) is the process of developing products in such a way that they can be localized for languages and cultures easily. Localization (l10n), is the process of adapting applications and text to enable their usability in a particular cultural or linguistic market. For application developers, internationalizing an application means abstracting all of the strings and other locale-specific bits (such as date or currency formats) out of the application. Localizing an application means providing translations and localized formats for the abstracted bits.</li>
 </ul>
 <h3>Visualization</h3>
-<ul>
-<li><a href="https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0">A Better Way To Code</a> by Mike Bostock:
+<p><a href="https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0">A Better Way To Code</a> by Mike Bostock:</p>
 <ul>
 <li>A danger of spending so long designing a tool is that you may forget what the tool is for: the tool itself becomes the goal, rather than the value derived from its application.</li>
 <li>The purpose of a visualization tool is to construct visualizations. But what is the purpose of visualization? Per Ben Shneiderman: The purpose of visualization is insight, not pictures.</li>
 <li>Visualization is a means to an end. A means to insight. A way to think, to understand, to discover, and to communicate something about the world. If we consider only the task of assigning visual encodings, of constructing visualizations, we ignore myriad other challenges: finding relevant data, cleaning it, transforming it into efficient structures, analyzing it with statistics, modeling, explaining our discoveries.</li>
-</ul>
-</li>
 </ul>
 <h2>House of commands</h2>
 <p>Useful shortcuts and commands I use or have used to optimize my productivity.</p>
@@ -659,62 +657,6 @@ console.log(moment().startOf('day').fromNow());</p>
 <li><strong>client source code</strong>: <code class="language-text">client</code></li>
 <li><strong>server source code</strong>: <code class="language-text">server</code></li>
 </ul>
-<h3>Mac keyboard shortcuts</h3>
-<details>
-  <summary>Window Management </summary>
-<ul>
-<li><strong>close one window, or tab</strong>: <code class="language-text">command + w</code></li>
-<li><strong>close all windows</strong>: <code class="language-text">command + q</code></li>
-<li><strong>close all tabs</strong>: <code class="language-text">command + shift + w</code></li>
-<li><strong>new tab</strong>: <code class="language-text">command + t</code></li>
-<li><strong>switch between tabs</strong>: <code class="language-text">command + Shift + [ left/right ]</code></li>
-</ul>
-</details>
-<details>
-  <summary>Text Management</summary>
-<ul>
-<li><strong>jump between words</strong>: <code class="language-text">alt + Left / right</code></li>
-<li><strong>jump to the ends of the line</strong>: <code class="language-text">command + left / right</code></li>
-<li><strong>delete all the words till it hits the left edge.</strong>: <code class="language-text">command + delete</code></li>
-</ul>
-</details>
-<details>
-  <summary>Operating System</summary>
-<ul>
-<li><strong>spotlight search, then up / down and enter to select</strong>: <code class="language-text">command + space</code></li>
-<li><strong>application selector</strong>: <code class="language-text">command + tab</code></li>
-</ul>
-</details>
-<details>
-  <summary>Cursor Movement</summary>
-<ul>
-<li><strong>move cursor to end of the line</strong>: <code class="language-text">ctrl + E</code></li>
-<li><strong>move cursor to start of the line</strong>: <code class="language-text">ctrl + A</code></li>
-<li><strong>move cursor one character forward</strong>: <code class="language-text">ctrl + F</code></li>
-<li><strong>move cursor one character backward</strong>: <code class="language-text">ctrl + B</code></li>
-<li><strong>move cursor one word forward</strong>: <code class="language-text">alt + F / alt + right</code></li>
-<li><strong>move cursor one word backward</strong>: <code class="language-text">alt + B / alt + left</code></li>
-<li><strong>move cursor to clicked character</strong>: <code class="language-text">Alt + click</code></li>
-<li><strong>toggle between the start of line and cursor position</strong>: <code class="language-text">ctrl + XX</code></li>
-</ul>
-</details>
-<details>
-  <summary>Process</summary>
-<ul>
-<li><strong>kills current task (SIGINT)</strong>: <code class="language-text">ctrl + C</code></li>
-<li><strong>inserts an EOF</strong>: <code class="language-text">ctrl + D</code></li>
-<li><strong>pauses current task</strong>: <code class="language-text">ctrl + Z</code></li>
-<li><strong>stop output to the screen (for long running verbose commands))</strong>: <code class="language-text">ctrl + S</code></li>
-<li><strong>allow output to the screen (if previously stopped using stop output command)</strong>: <code class="language-text">ctrl + Q</code></li>
-</ul>
-</details>
-<details>
-  <summary>History</summary>
-<ul>
-<li><strong>previous command</strong>: <code class="language-text">ctrl + P</code></li>
-<li><strong>next command</strong>: <code class="language-text">ctrl + R</code></li>
-</ul>
-</details> 
 <h3>Shell command line</h3>
 <ul>
 <li><strong>find path and package</strong>: <code class="language-text">which [package name] git</code></li>
@@ -755,7 +697,7 @@ console.log(moment().startOf('day').fromNow());</p>
 <li><strong>find content of the link</strong>: <code class="language-text">curl -sS “link”</code></li>
 <li><strong>conditional search and print</strong>: <code class="language-text">$ tail -n 3 calc_process.log | grep final | tr '{' '\n' | grep startdate</code> and <code class="language-text">$ tail -n 3 calc_process.log | grep final | tr '{' '\n' | grep startdate | sed -e 's/}.*$//g'</code></li>
 </ul>
-<h3>VIM</h3>
+<h3>Vim</h3>
 <ul>
 <li><strong>to find text in VIM</strong>: <code class="language-text">/ or ? text</code></li>
 <li><strong>go to bottom</strong>: <code class="language-text">Shift +G</code></li>
@@ -771,7 +713,7 @@ console.log(moment().startOf('day').fromNow());</p>
 <li><strong>find and replace all</strong>: <code class="language-text">:%s/foo/bar/g</code></li>
 <li><strong>delete all</strong>: <code class="language-text">go on top of line gg and to delete all- dG</code></li>
 </ul>
-<h3>GREP</h3>
+<h3>Grep</h3>
 <details>
   <summary>Search the contents of files using grep:</summary>
 <ul>
@@ -829,8 +771,8 @@ console.log(moment().startOf('day').fromNow());</p>
   <summary>Using grep’s extended regular expressions to find complex patterns:</summary>
 <ul>
 <li><strong>conditional Search for character 0 or 1 time (?)</strong>: <code class="language-text">grep —color “https\?” readme.md</code></li>
-<li><strong>atleast 1 or more occurances (+)</strong>: <code class="language-text">grep —color “https\+” readme.md</code></li>
-<li><strong>atlas 0 or more occurances (*)</strong>: <code class="language-text">grep -color “https*” readme.md</code></li>
+<li><strong>at least 1 or more occurrences (+)</strong>: <code class="language-text">grep —color “https\+” readme.md</code></li>
+<li><strong>atlas 0 or more occurrences (*)</strong>: <code class="language-text">grep -color “https*” readme.md</code></li>
 <li><strong>escape for special characters</strong>: <code class="language-text">grep -E or backslash (\)</code></li>
 </ul>
 </details> 
@@ -838,7 +780,7 @@ console.log(moment().startOf('day').fromNow());</p>
   <summary>Search for optional patterns with grep OR:</summary>
 <ul>
 <li><strong>color check</strong>: <code class="language-text">echo “is it grey or gray?” | grep —color “grey\|gray” or echo “is it grey or gray?” | grep —color -E “grey|gray”</code></li>
-<li><strong>spell check in your codebase (-rE recursive&#x26;Escape)</strong>: <code class="language-text">grep —color -rE “grey|gray” examples/</code></li>
+<li><strong>spell check in your codebase (-rE recursive &#x26; escape)</strong>: <code class="language-text">grep —color -rE “grey|gray” examples/</code></li>
 </ul>
 </details>  
 <details>
@@ -856,8 +798,8 @@ console.log(moment().startOf('day').fromNow());</p>
 <li><strong>range</strong>: <code class="language-text">echo abc123 | grep —color “[a-z]”</code></li>
 <li><strong>range</strong>: <code class="language-text">echo abc123 | grep —color “[1-9]”</code></li>
 <li><strong>match word with some pattern (matches designer and developer)</strong>: <code class="language-text">grep —color “de[a-z]*er” readme.md</code></li>
-<li><strong>same as above but don’t have to explicit define the character range (matches developer&#x26;designer)</strong>: <code class="language-text">grep —color “de[[:alpha:]]*er” readme.md</code></li>
-<li><strong>sase insesitive match on only 1 character</strong>: <code class="language-text">find . -name “*js” | grep —color “[sS]pec”</code></li>
+<li><strong>same as above but don’t have to explicit define the character range (matches developer &#x26; designer)</strong>: <code class="language-text">grep —color “de[[:alpha:]]*er” readme.md</code></li>
+<li><strong>case insesitive match on only 1 character</strong>: <code class="language-text">find . -name “*js” | grep —color “[sS]pec”</code></li>
 </ul>
 </details> 
 <details>
@@ -874,42 +816,104 @@ console.log(moment().startOf('day').fromNow());</p>
 <li><strong>inverse Search combo</strong>: <code class="language-text">find examples -name “*js” | grep -vE “node_modules|Spec”</code></li>
 </ul>
 </details>  
-<h3>GIT</h3>
+<h3>Git</h3>
 <ul>
 <li><strong>resetting git</strong>: <code class="language-text">git reset --hard HEAD</code></li>
 <li><strong>pull to original settings</strong>: <code class="language-text">git pull - - rebase</code></li>
 </ul>
-<h3>NPM scripts</h3>
+<h3>Npm scripts</h3>
 <ul>
 <li><strong>omit npm config</strong>: <code class="language-text">npm init -y</code></li>
 <li><strong>alias shortcut</strong>: <code class="language-text">npm install —save alias: npm i -S</code></li>
 <li><strong>dev shortcut</strong>: <code class="language-text">npm —save-dev: npm i -D</code></li>
 </ul>
+<h3>Mac keyboard shortcuts</h3>
+<details>
+  <summary>Window Management </summary>
+<ul>
+<li><strong>close one window, or tab</strong>: <code class="language-text">command + w</code></li>
+<li><strong>close all windows</strong>: <code class="language-text">command + q</code></li>
+<li><strong>close all tabs</strong>: <code class="language-text">command + shift + w</code></li>
+<li><strong>new tab</strong>: <code class="language-text">command + t</code></li>
+<li><strong>switch between tabs</strong>: <code class="language-text">command + Shift + [ left/right ]</code></li>
+</ul>
+</details>
+<details>
+  <summary>Text Management</summary>
+<ul>
+<li><strong>jump between words</strong>: <code class="language-text">alt + Left / right</code></li>
+<li><strong>jump to the ends of the line</strong>: <code class="language-text">command + left / right</code></li>
+<li><strong>delete all the words till it hits the left edge.</strong>: <code class="language-text">command + delete</code></li>
+</ul>
+</details>
+<details>
+  <summary>Operating System</summary>
+<ul>
+<li><strong>spotlight search, then up / down and enter to select</strong>: <code class="language-text">command + space</code></li>
+<li><strong>application selector</strong>: <code class="language-text">command + tab</code></li>
+</ul>
+</details>
+<details>
+  <summary>Cursor Movement</summary>
+<ul>
+<li><strong>move cursor to end of the line</strong>: <code class="language-text">ctrl + E</code></li>
+<li><strong>move cursor to start of the line</strong>: <code class="language-text">ctrl + A</code></li>
+<li><strong>move cursor one character forward</strong>: <code class="language-text">ctrl + F</code></li>
+<li><strong>move cursor one character backward</strong>: <code class="language-text">ctrl + B</code></li>
+<li><strong>move cursor one word forward</strong>: <code class="language-text">alt + F / alt + right</code></li>
+<li><strong>move cursor one word backward</strong>: <code class="language-text">alt + B / alt + left</code></li>
+<li><strong>move cursor to clicked character</strong>: <code class="language-text">Alt + click</code></li>
+<li><strong>toggle between the start of line and cursor position</strong>: <code class="language-text">ctrl + XX</code></li>
+</ul>
+</details>
+<details>
+  <summary>Process</summary>
+<ul>
+<li><strong>kills current task (SIGINT)</strong>: <code class="language-text">ctrl + C</code></li>
+<li><strong>inserts an EOF</strong>: <code class="language-text">ctrl + D</code></li>
+<li><strong>pauses current task</strong>: <code class="language-text">ctrl + Z</code></li>
+<li><strong>stop output to the screen (for long running verbose commands))</strong>: <code class="language-text">ctrl + S</code></li>
+<li><strong>allow output to the screen (if previously stopped using stop output command)</strong>: <code class="language-text">ctrl + Q</code></li>
+</ul>
+</details>
+<details>
+  <summary>History</summary>
+<ul>
+<li><strong>previous command</strong>: <code class="language-text">ctrl + P</code></li>
+<li><strong>next command</strong>: <code class="language-text">ctrl + R</code></li>
+</ul>
+</details> 
 <h2>Further reading</h2>
 <details>
     <summary><strong>Resources</strong></summary>
     <br>
-<p>List of topics that were useful to me when I was a developer.</p>
+<p><strong>Core frontend development</strong>:</p>
 <ul>
-<li>Guide: <a href="https://github.com/grab/front-end-guide">https://github.com/grab/front-end-guide</a></li>
-<li>Guide: <a href="https://vanillajstoolkit.com/">https://vanillajstoolkit.com/</a></li>
-<li>Specification: <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">https://www.ecma-international.org/publications-and-standards/standards/ecma-262/</a></li>
-<li>Manual: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference</a></li>
-<li>Compatibility Table: <a href="https://caniuse.com/">https://caniuse.com/</a> — per-feature tables of support.</li>
-<li>Compatibility Table: <a href="https://kangax.github.io/compat-table/es6/">https://kangax.github.io/compat-table/es6/</a> – a table with language features and engines that support those or don’t support.</li>
-<li>Pollyfills
-<ul>
-<li><a href="https://developer.mozilla.org/en-US/docs/Glossary/Polyfill">https://developer.mozilla.org/en-US/docs/Glossary/Polyfill</a></li>
-<li><a href="https://remysharp.com/2010/10/08/what-is-a-polyfill">https://remysharp.com/2010/10/08/what-is-a-polyfill</a></li>
-<li><a href="https://medium.com/beginners-guide-to-mobile-web-development/introduction-to-polyfills-their-usage-9cd6db4b1923">https://medium.com/beginners-guide-to-mobile-web-development/introduction-to-polyfills-their-usage-9cd6db4b1923</a></li>
-<li><a href="https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills">https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills</a></li>
-</ul>
-</li>
+<li><a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">ECMA specification</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference">Mozilla MDN Manual</a></li>
+<li><a href="https://caniuse.com/">Compatibility Table</a></li>
+<li><a href="https://github.com/grab/front-end-guide">Frontend Guide</a></li>
+<li><a href="https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70">Modern JavaScript</a></li>
 <li><a href="https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525">Modern CSS</a></li>
+<li><a href="https://vanillajstoolkit.com/">Vanilla JS Toolkit</a></li>
 <li><a href="https://auth0.com/blog/glossary-of-modern-javascript-concepts/">Glossary of Modern JS Concepts</a></li>
 <li><a href="https://www.w3.org/International/questions/qa-i18n">Localization vs. Internationalization</a></li>
 <li><a href="https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e">The Cost Of JavaScript</a></li>
-<li><a href="https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70">Modern Javascript</a></li>
+</ul>
+<p><strong>Core system design fundamentals for software development</strong>:</p>
+<ul>
+<li><a href="https://blog.wahab2.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f">API Architecture Best Practices for Designing REST APIs</a></li>
+<li><a href="https://medium.com/@ibrahimlanre1890/cap-theorem-in-dbms-42027527092e">CAP Theorem</a></li>
+<li><a href="https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/">The Difference Between RPC and REST</a></li>
+<li><a href="https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7">Eventual vs. Strong Consistency in Distributed Databases</a></li>
+<li><a href="https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/">Latency vs Throughput</a></li>
+<li><a href="https://blog.algomaster.io/p/scalability">Scalability</a></li>
+<li><a href="https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/">Latency vs Throughput</a></li>
+<li><a href="https://www.cockroachlabs.com/blog/what-is-fault-tolerance/">What is Fault Tolerance?</a></li>
+<li><a href="https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c">Consensus in Distributed System</a></li>
+<li><a href="https://www.imperva.com/learn/application-security/rate-limiting/">Rate Limiting</a></li>
+<li><a href="https://www.freecodecamp.org/news/acid-databases-explained/">ACID Transactions</a></li>
+<li><a href="https://towardsdatascience.com/designing-a-relational-database-and-creating-an-entity-relationship-diagram-89c1c19320b2">Relational Database Design &#x26; Entity Relationship</a></li>
 </ul>
 </details>
 <br /></section><footer></footer></article></main><footer><hr/><p><i>Drop me a note if you are curious to chat. Newsletter goes out once a year in December.</i></p><a href="https://twitter.com/mihirchronicles"><strong>Twitter</strong></a> <span> | </span><a href="https://www.linkedin.com/in/mihirchronicles/"><strong>Linkedin</strong></a> <span> | </span><a href="https://eepurl.com/hRGv2D"><strong>Newsletter</strong></a></footer></div></div><div id="gatsby-announcer" style="position:absolute;top:0;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0" aria-live="assertive" aria-atomic="true"></div></div><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-HTPE7YS2EL"></script><script>
