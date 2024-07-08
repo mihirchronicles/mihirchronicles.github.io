@@ -293,6 +293,8 @@ Product metrics can be split into five categories:
 
 **Books**
 - [Lean Analytics: Use Data to Build a Better Startup Faster by Alistair Croll & Benjamin Yoskovitz](https://www.amazon.com/Lean-Analytics-Better-Startup-Faster-ebook/dp/B00AG66LTM)
+- [Competing in the Age of AI: Strategy and Leadership When Algorithms and Networks Run the World by Marco Iansiti & Karim R. Lakhani](https://www.amazon.com/Competing-Age-AI-Leadership-Algorithms/dp/1633697622)
+- [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World by Pedro Domingos](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708/)
 - [Good Books for All Things Data](https://multithreaded.stitchfix.com/blog/2016/06/09/ds-books/)
 - [The Customer-Base Audit: The First Step on the Journey to Customer Centricity](https://www.amazon.com/dp/161363160X?trk=public_post_comment-text)
 
