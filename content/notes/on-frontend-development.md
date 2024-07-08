@@ -75,7 +75,7 @@ The pseudo elements (e.g. `::after`, `::before`, and `::first-letter` - plus 3 o
 <details>
   <summary>Pseudoelements</summary>
   
-   - [Pseudo Elements In Css](https://www.smashingmagazine.com/2011/07/learning-to-use-the-before-and-after-pseudo-elements-in-css/).      - `::before` and `::after`, many of the uses involve graphics but no actual word content. You must set both the `content:"";` property and if your content is empty the `display:inline-block` property or the psuedoelement will not show up. 
+   - [Pseudo Elements In Css](https://www.smashingmagazine.com/2011/07/learning-to-use-the-before-and-after-pseudo-elements-in-css/). `::before` and `::after`, many of the uses involve graphics but no actual word content. You must set both the `content:"";` property and if your content is empty the `display:inline-block` property or the psuedoelement will not show up. 
 </details>
 
 <details>
@@ -573,7 +573,7 @@ window.libraryName = window.libraryName || "Lib 2";
 The core idea of functional programming in JS - that we can plug our pure functions into higher order abstractions - is at the very heart of functional programming. A higher order function is a function that takes another function as a parameter. In JavaScript, functions are "first-class citizens." That means we can assign them to variables, create them inside of other functions, and pass them as arguments like any other object. Iteration in functional programming relies on a holy trinity of functions: map, filter, and reduce. We can use functional programming to reduce boilerplate in everyday code, keeping it DRY.
 </details>
 
-### Testing
+### Testing, debugging & performance
 
 <details>
   <summary>Testing</summary>
@@ -586,8 +586,6 @@ Manual testing is important too. It is usually done by QA engineers, and helps r
 
 JavaScript lacks the strict type checking of Java, which is a blessing and a curse. Code is easier to write but requires more testing to ensure correctness.
 </details>
-
-### Debugging
 
 <details>
   <summary>Debugging & Console</summary>
@@ -720,9 +718,10 @@ Check out [Chrome Devtools](https://developers.google.com/web/tools/chrome-devto
 ```
 </details>
 
-### Performance
-
+<details>
+<summary>Performance</summary>
 Why a little discipline can help if you’d like your site to load & be interactive quickly on mobile devices? tl;dr: less code = less parse/compile + less transfer + less to decompress.
+</details>
 
 ### Tooling
 
@@ -773,10 +772,10 @@ Why a little discipline can help if you’d like your site to load & be interact
 - Internationalization (i18n) is the process of developing products in such a way that they can be localized for languages and cultures easily. Localization (l10n), is the process of adapting applications and text to enable their usability in a particular cultural or linguistic market. For application developers, internationalizing an application means abstracting all of the strings and other locale-specific bits (such as date or currency formats) out of the application. Localizing an application means providing translations and localized formats for the abstracted bits.
 
 ### Visualization
-- [A Better Way To Code](https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0) by Mike Bostock:
-  - A danger of spending so long designing a tool is that you may forget what the tool is for: the tool itself becomes the goal, rather than the value derived from its application.
-  - The purpose of a visualization tool is to construct visualizations. But what is the purpose of visualization? Per Ben Shneiderman: The purpose of visualization is insight, not pictures.
-  - Visualization is a means to an end. A means to insight. A way to think, to understand, to discover, and to communicate something about the world. If we consider only the task of assigning visual encodings, of constructing visualizations, we ignore myriad other challenges: finding relevant data, cleaning it, transforming it into efficient structures, analyzing it with statistics, modeling, explaining our discoveries.
+[A Better Way To Code](https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0) by Mike Bostock:
+- A danger of spending so long designing a tool is that you may forget what the tool is for: the tool itself becomes the goal, rather than the value derived from its application.
+- The purpose of a visualization tool is to construct visualizations. But what is the purpose of visualization? Per Ben Shneiderman: The purpose of visualization is insight, not pictures.
+- Visualization is a means to an end. A means to insight. A way to think, to understand, to discover, and to communicate something about the world. If we consider only the task of assigning visual encodings, of constructing visualizations, we ignore myriad other challenges: finding relevant data, cleaning it, transforming it into efficient structures, analyzing it with statistics, modeling, explaining our discoveries.
 
 ## House of commands
 
@@ -792,6 +791,165 @@ Useful shortcuts and commands I use or have used to optimize my productivity.
 - **shared files**: `shared` 
 - **client source code**: `client` 
 - **server source code**: `server`
+
+### Shell command line
+   
+- **find path and package**: `which [package name] git`
+- **cursor at the beginning of the line**: `control + A`
+- **cursor at the end of the line**: `control + E`
+- **clear line**: `control + U`
+- **in the middle of a line**: `option + click mouse pointer`
+- **echo**: `echo "string"`
+- **manual instructions of commands**: `man grep` [command name]
+- **exit to close the terminal**: `exit`
+- **to kill files**: `kill -9 $(pgrep filename)`
+- **to add permission**: `chmod +x filename`
+- **to find files with an extension**: `find path -name “*.filetype”`
+- **to copy**: `cp path1/filename path2/filename`
+- **file permission**: `chmod g+x/w/or/r filename`
+- **file ownership**: `chown username filename`
+- **show disk space**: `df-h (human readable)`
+- **CPU, RAM, etc**: `top`
+- **search and print**: `grep (can add layers of logic)`
+- **find and Replace**: `sed s/word/word/g`
+- **file Content Print**: `cat`
+- **multiple commands in the same line**: `-`
+- **execute a file with its name, need to set up the environment**: `(# !/usr/bin/env python) ./filename`
+- **delete content in the file**: `cat /dev/null > filename`
+- **back to the previous path**: `cd -`
+- **copy b/w different hosts allows files to be copied to, from, or between different hosts. It uses ssh for data transfer and provides the same authentication and same level of security as ssh.**: `scp`
+- **help (stands for manual)**: `man`
+- **symbolic Link**: `ln -sf source-path destination-path`
+- **more content of a file**: `| more`
+- **list information about all the files**:`ll`
+- **create folder with sub folders**: `mkdir -p folder-name/{sub-folder1, sub-folder2}`
+- **list differences b/w two files**: `diff file-name file-name`
+- **unzip Github folder (master)**: `tar xvf master -C yourFolder --strip-components 1 or tar -xvzf “name”`
+- **find size file in MB or KB**: `ls -l --block-size=M or ls-lh`
+- **find file path based on filename**: `find ./path -name “filename.*”`
+- **find string in directory with file name**: `grep -r --include=*.{cpp,h} “hello” .`
+- **find package if it is installed**: `dpkg -s apache-perl`
+- **find content of the link**: `curl -sS “link”`
+- **conditional search and print**: `$ tail -n 3 calc_process.log | grep final | tr '{' '\n' | grep startdate` and `$ tail -n 3 calc_process.log | grep final | tr '{' '\n' | grep startdate | sed -e 's/}.*$//g'`
+
+### Vim
+
+- **to find text in VIM**: `/ or ? text`
+- **go to bottom**: `Shift +G`
+- **go to top**: `gg or Shift + gg`
+- **line numbers**: `:set nu`
+- **helper & setter**: `:help and :set`
+- **delete**: `d`
+- **delete word**: `dw`
+- **delete a character**: `x`
+- **arrows**: `h, j, k, l`
+- **append at the end of the line**: `a`
+- **shift to the end of the line**: `A`
+- **find and replace all**: `:%s/foo/bar/g`
+- **delete all**: `go on top of line gg and to delete all- dG`
+
+### Grep
+
+<details>
+  <summary>Search the contents of files using grep:</summary>
+    
+   - **find version of a file**: `command name, version, filename: grep version package.json`
+   - **find keyword search**: `command name, keyword, filename: grep react package.json`
+   - **find keyword in more than 1 file**: `command name, keyword, filename: grep “#” README.md codestyle.md xyz.md`
+   - **find by keyword in all files ending with file type**: `command name, keyword, *.fileextension: grep “#” *.md`
+</details> 
+<details>
+  <summary>Search directory contents recursively using grep:</summary>
+
+   - **search recursively in folder root**: `commandname, -r, keyword, path: grep -r react ./`
+   - **search recursively in folder path (relative to your current path not the actual)**: `grep -r react public/components/App.js`
+</details> 
+<details>
+  <summary>Use find to search for filename patterns (grep vs find):</summary>
+
+   - **search filename patterns**: `command name, path, -name, “*fileextension”: find . -name, “*jsx”`
+</details> 
+<details>
+  <summary>Search Matching files by combining find and grep with xargs:</summary>
+
+   - **pipe find into grep**: `find examples -name “*Spec.js” | barges grep “module”`
+   - **same as above but just grep**: `grep -r —include=“Spec.js” “should” examples/`
+</details> 
+<details>
+  <summary>Search the contents of a git repository with git grep:</summary>
+
+   - **find in git that is being tracked in version control**: `git grep bind (query string); results are highlighted in red`
+   - **color keyword query**: `grep -r —color bind ./`
+</details> 
+<details>
+  <summary>Show context around matches using grep:</summary>
+
+   - **line number**: `grep -n “#” *.md`
+   - **after**: `grep -A 2 —color “#” *.md`
+   - **before**: `grep -A 2 —color “#” *.md`
+   - **context (before + after)**: `grep -C 2 —color “#” *.md`
+</details> 
+<details>
+  <summary>Search for basic patterns using grep:</summary>
+
+   - **everything that matches after the string like http**: `grep —color “http.” readme.md`
+   - **special Character like dot, use backslash**: `grep —color “\.com” readme.md`
+   - **all characters b/w special characters like ()**: `grep —color ”(.*)” readme.md`
+</details>
+<details>
+  <summary>Using grep’s extended regular expressions to find complex patterns:</summary>
+
+   - **conditional Search for character 0 or 1 time (?)**: `grep —color “https\?” readme.md`
+   - **at least 1 or more occurrences (+)**: `grep —color “https\+” readme.md`
+   - **atlas 0 or more occurrences (*)**: `grep -color “https*” readme.md`
+   - **escape for special characters**: `grep -E or backslash (\)`
+</details> 
+<details>
+  <summary>Search for optional patterns with grep OR:</summary>
+
+   - **color check**: `echo “is it grey or gray?” | grep —color “grey\|gray” or echo “is it grey or gray?” | grep —color -E “grey|gray”`
+   - **spell check in your codebase (-rE recursive & escape)**: `grep —color -rE “grey|gray” examples/`
+</details>  
+<details>
+  <summary>Specify line beginning and end in patterns using grep:</summary>
+
+   - **anchor for beginning of the line**: `grep —color “^#” app-spec.md`
+   - **anchor for ending of the line**: `grep —color “,$” app-spec.md`
+   - **complex anchor with wildcard phrase**: `grep —color -r “^import .* from” examples/`
+</details> 
+<details>
+  <summary>Match classes of characters using bracket expressions with grep:</summary>
+
+   - **match a or b**: `echo abc123 | grep —color “[ab]”`
+   - **range**: `echo abc123 | grep —color “[a-z]”`
+   - **range**: `echo abc123 | grep —color “[1-9]”`
+   - **match word with some pattern (matches designer and developer)**: `grep —color “de[a-z]*er” readme.md`
+   - **same as above but don’t have to explicit define the character range (matches developer & designer)**: `grep —color “de[[:alpha:]]*er” readme.md`
+   - **case insesitive match on only 1 character**: `find . -name “*js” | grep —color “[sS]pec”`
+</details> 
+<details>
+  <summary>Search with groups using grep:</summary>
+    
+   - **single quote after the grey or gray**: `grep -rE —color “(grey|gray)\’” .`
+   - **single or double quote**: `grep -rE —color “(grey|gray)(\’|\”)” .`
+</details> 
+<details>
+  <summary>Find matches excluding a pattern with grep:</summary>
+    
+   - **inverse search (stuff that does’t match)**: `find examples/angularjs -name “*js” | grep -v “node modules”`
+   - **inverse Search combo**: `find examples -name “*js” | grep -vE “node_modules|Spec”`
+</details>  
+
+### Git
+
+- **resetting git**: `git reset --hard HEAD`
+- **pull to original settings**: `git pull - - rebase`
+
+### Npm scripts
+
+- **omit npm config**: `npm init -y`
+- **alias shortcut**: `npm install —save alias: npm i -S`
+- **dev shortcut**: `npm —save-dev: npm i -D`
 
 ### Mac keyboard shortcuts
 <details>
@@ -844,188 +1002,37 @@ Useful shortcuts and commands I use or have used to optimize my productivity.
    - **next command**: `ctrl + R`
 </details> 
 
-### Shell command line
-   
-- **find path and package**: `which [package name] git`
-- **cursor at the beginning of the line**: `control + A`
-- **cursor at the end of the line**: `control + E`
-- **clear line**: `control + U`
-- **in the middle of a line**: `option + click mouse pointer`
-- **echo**: `echo "string"`
-- **manual instructions of commands**: `man grep` [command name]
-- **exit to close the terminal**: `exit`
-- **to kill files**: `kill -9 $(pgrep filename)`
-- **to add permission**: `chmod +x filename`
-- **to find files with an extension**: `find path -name “*.filetype”`
-- **to copy**: `cp path1/filename path2/filename`
-- **file permission**: `chmod g+x/w/or/r filename`
-- **file ownership**: `chown username filename`
-- **show disk space**: `df-h (human readable)`
-- **CPU, RAM, etc**: `top`
-- **search and print**: `grep (can add layers of logic)`
-- **find and Replace**: `sed s/word/word/g`
-- **file Content Print**: `cat`
-- **multiple commands in the same line**: `-`
-- **execute a file with its name, need to set up the environment**: `(# !/usr/bin/env python) ./filename`
-- **delete content in the file**: `cat /dev/null > filename`
-- **back to the previous path**: `cd -`
-- **copy b/w different hosts allows files to be copied to, from, or between different hosts. It uses ssh for data transfer and provides the same authentication and same level of security as ssh.**: `scp`
-- **help (stands for manual)**: `man`
-- **symbolic Link**: `ln -sf source-path destination-path`
-- **more content of a file**: `| more`
-- **list information about all the files**:`ll`
-- **create folder with sub folders**: `mkdir -p folder-name/{sub-folder1, sub-folder2}`
-- **list differences b/w two files**: `diff file-name file-name`
-- **unzip Github folder (master)**: `tar xvf master -C yourFolder --strip-components 1 or tar -xvzf “name”`
-- **find size file in MB or KB**: `ls -l --block-size=M or ls-lh`
-- **find file path based on filename**: `find ./path -name “filename.*”`
-- **find string in directory with file name**: `grep -r --include=*.{cpp,h} “hello” .`
-- **find package if it is installed**: `dpkg -s apache-perl`
-- **find content of the link**: `curl -sS “link”`
-- **conditional search and print**: `$ tail -n 3 calc_process.log | grep final | tr '{' '\n' | grep startdate` and `$ tail -n 3 calc_process.log | grep final | tr '{' '\n' | grep startdate | sed -e 's/}.*$//g'`
-
-### VIM
-
-- **to find text in VIM**: `/ or ? text`
-- **go to bottom**: `Shift +G`
-- **go to top**: `gg or Shift + gg`
-- **line numbers**: `:set nu`
-- **helper & setter**: `:help and :set`
-- **delete**: `d`
-- **delete word**: `dw`
-- **delete a character**: `x`
-- **arrows**: `h, j, k, l`
-- **append at the end of the line**: `a`
-- **shift to the end of the line**: `A`
-- **find and replace all**: `:%s/foo/bar/g`
-- **delete all**: `go on top of line gg and to delete all- dG`
-
-### GREP
-
-<details>
-  <summary>Search the contents of files using grep:</summary>
-    
-   - **find version of a file**: `command name, version, filename: grep version package.json`
-   - **find keyword search**: `command name, keyword, filename: grep react package.json`
-   - **find keyword in more than 1 file**: `command name, keyword, filename: grep “#” README.md codestyle.md xyz.md`
-   - **find by keyword in all files ending with file type**: `command name, keyword, *.fileextension: grep “#” *.md`
-</details> 
-<details>
-  <summary>Search directory contents recursively using grep:</summary>
-
-   - **search recursively in folder root**: `commandname, -r, keyword, path: grep -r react ./`
-   - **search recursively in folder path (relative to your current path not the actual)**: `grep -r react public/components/App.js`
-</details> 
-<details>
-  <summary>Use find to search for filename patterns (grep vs find):</summary>
-
-   - **search filename patterns**: `command name, path, -name, “*fileextension”: find . -name, “*jsx”`
-</details> 
-<details>
-  <summary>Search Matching files by combining find and grep with xargs:</summary>
-
-   - **pipe find into grep**: `find examples -name “*Spec.js” | barges grep “module”`
-   - **same as above but just grep**: `grep -r —include=“Spec.js” “should” examples/`
-</details> 
-<details>
-  <summary>Search the contents of a git repository with git grep:</summary>
-
-   - **find in git that is being tracked in version control**: `git grep bind (query string); results are highlighted in red`
-   - **color keyword query**: `grep -r —color bind ./`
-</details> 
-<details>
-  <summary>Show context around matches using grep:</summary>
-
-   - **line number**: `grep -n “#” *.md`
-   - **after**: `grep -A 2 —color “#” *.md`
-   - **before**: `grep -A 2 —color “#” *.md`
-   - **context (before + after)**: `grep -C 2 —color “#” *.md`
-</details> 
-<details>
-  <summary>Search for basic patterns using grep:</summary>
-
-   - **everything that matches after the string like http**: `grep —color “http.” readme.md`
-   - **special Character like dot, use backslash**: `grep —color “\.com” readme.md`
-   - **all characters b/w special characters like ()**: `grep —color ”(.*)” readme.md`
-</details>
-<details>
-  <summary>Using grep’s extended regular expressions to find complex patterns:</summary>
-
-   - **conditional Search for character 0 or 1 time (?)**: `grep —color “https\?” readme.md`
-   - **atleast 1 or more occurances (+)**: `grep —color “https\+” readme.md`
-   - **atlas 0 or more occurances (*)**: `grep -color “https*” readme.md`
-   - **escape for special characters**: `grep -E or backslash (\)`
-</details> 
-<details>
-  <summary>Search for optional patterns with grep OR:</summary>
-
-   - **color check**: `echo “is it grey or gray?” | grep —color “grey\|gray” or echo “is it grey or gray?” | grep —color -E “grey|gray”`
-   - **spell check in your codebase (-rE recursive&Escape)**: `grep —color -rE “grey|gray” examples/`
-</details>  
-<details>
-  <summary>Specify line beginning and end in patterns using grep:</summary>
-
-   - **anchor for beginning of the line**: `grep —color “^#” app-spec.md`
-   - **anchor for ending of the line**: `grep —color “,$” app-spec.md`
-   - **complex anchor with wildcard phrase**: `grep —color -r “^import .* from” examples/`
-</details> 
-<details>
-  <summary>Match classes of characters using bracket expressions with grep:</summary>
-
-   - **match a or b**: `echo abc123 | grep —color “[ab]”`
-   - **range**: `echo abc123 | grep —color “[a-z]”`
-   - **range**: `echo abc123 | grep —color “[1-9]”`
-   - **match word with some pattern (matches designer and developer)**: `grep —color “de[a-z]*er” readme.md`
-   - **same as above but don’t have to explicit define the character range (matches developer&designer)**: `grep —color “de[[:alpha:]]*er” readme.md`
-   - **sase insesitive match on only 1 character**: `find . -name “*js” | grep —color “[sS]pec”`
-</details> 
-<details>
-  <summary>Search with groups using grep:</summary>
-    
-   - **single quote after the grey or gray**: `grep -rE —color “(grey|gray)\’” .`
-   - **single or double quote**: `grep -rE —color “(grey|gray)(\’|\”)” .`
-</details> 
-<details>
-  <summary>Find matches excluding a pattern with grep:</summary>
-    
-   - **inverse search (stuff that does’t match)**: `find examples/angularjs -name “*js” | grep -v “node modules”`
-   - **inverse Search combo**: `find examples -name “*js” | grep -vE “node_modules|Spec”`
-</details>  
-
-### GIT
-
-- **resetting git**: `git reset --hard HEAD`
-- **pull to original settings**: `git pull - - rebase`
-
-### NPM scripts
-
-- **omit npm config**: `npm init -y`
-- **alias shortcut**: `npm install —save alias: npm i -S`
-- **dev shortcut**: `npm —save-dev: npm i -D`
-
 ## Further reading
 <details>
     <summary><strong>Resources</strong></summary>
     <br>
 
-List of topics that were useful to me when I was a developer.
-
-- Guide: https://github.com/grab/front-end-guide
-- Guide: https://vanillajstoolkit.com/
-- Specification: https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
-- Manual: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
-- Compatibility Table: https://caniuse.com/ — per-feature tables of support.
-- Compatibility Table: https://kangax.github.io/compat-table/es6/ – a table with language features and engines that support those or don’t support.
-- Pollyfills
-  - https://developer.mozilla.org/en-US/docs/Glossary/Polyfill
-  - https://remysharp.com/2010/10/08/what-is-a-polyfill
-  - https://medium.com/beginners-guide-to-mobile-web-development/introduction-to-polyfills-their-usage-9cd6db4b1923
-  - https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills
+**Core frontend development**:
+- [ECMA specification](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+- [Mozilla MDN Manual](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+- [Compatibility Table](https://caniuse.com/)
+- [Frontend Guide](https://github.com/grab/front-end-guide)
+- [Modern JavaScript](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
 - [Modern CSS](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525)
+- [Vanilla JS Toolkit](https://vanillajstoolkit.com/)
 - [Glossary of Modern JS Concepts](https://auth0.com/blog/glossary-of-modern-javascript-concepts/)
 - [Localization vs. Internationalization](https://www.w3.org/International/questions/qa-i18n)
 - [The Cost Of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
-- [Modern Javascript](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
+
+**Core system design fundamentals for software development**:
+
+- [API Architecture Best Practices for Designing REST APIs](https://blog.wahab2.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f)
+- [CAP Theorem](https://medium.com/@ibrahimlanre1890/cap-theorem-in-dbms-42027527092e)
+- [The Difference Between RPC and REST](https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/)
+- [Eventual vs. Strong Consistency in Distributed Databases](https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7)
+- [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
+- [Scalability](https://blog.algomaster.io/p/scalability)
+- [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
+- [What is Fault Tolerance?](https://www.cockroachlabs.com/blog/what-is-fault-tolerance/)
+- [Consensus in Distributed System](https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c)
+- [Rate Limiting](https://www.imperva.com/learn/application-security/rate-limiting/)
+- [ACID Transactions](https://www.freecodecamp.org/news/acid-databases-explained/)
+- [Relational Database Design & Entity Relationship](https://towardsdatascience.com/designing-a-relational-database-and-creating-an-entity-relationship-diagram-89c1c19320b2)
 
 </details>
 <br />

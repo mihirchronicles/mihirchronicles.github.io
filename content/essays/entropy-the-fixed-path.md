@@ -1,9 +1,9 @@
 ---
-title: "Entropy The Fixed Path"
+title: "Befriending Entropy"
 tags: ["general"]
 date: "2024-06-28"
 draft: false
-path: "/essays/entropy-the-fixed-path"
+path: "/essays/befriending-entropy"
 ---
 
 There used to be fewer problems at work. What is happening?

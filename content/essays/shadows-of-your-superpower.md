@@ -1,9 +1,9 @@
 ---
-title: "Shadows Of Your Superpower "
+title: "Shadows Of A Superpower "
 tags: ["general"]
 date: "2024-04-24"
 draft: false
-path: "/essays/shadows-of-your-superpower"
+path: "/essays/shadows-of-a-superpower"
 ---
 
 Knowing your superpowers are important, but knowing the shadow of your superpowers are equally important. 
