@@ -352,6 +352,9 @@ Product metrics can be split into five categories:
     - [Efficacy studies](https://www.duolingo.com/efficacy/studies)
 - Stitch Fix
     - [Want to make good business decisions? Learn causality](https://multithreaded.stitchfix.com/blog/2019/12/19/good-marketing-decisions/)
+- Netflix
+    - [Netflix Research Lab](https://research.netflix.com/research-area/analytics)
+    - [Netflix Tech Blog](https://netflixtechblog.com/tagged/analytics)
 
 **Tools**
 - [Evan’s Awesome A/B Tools](https://www.evanmiller.org/ab-testing/)

@@ -1,12 +1,12 @@
 ---
-title: "On Frontend Development"
+title: "On Programming"
 tags: ["general"]
 date: "2017-07-06"
 draft: false
-path: "/notes/on-frontend-development"
+path: "/notes/on-programming"
 ---
 
-## Topic Notes
+## Notes
 
 ### CSS
 
@@ -769,13 +769,14 @@ Why a little discipline can help if you’d like your site to load & be interact
 
 ### Internationalization i18n
 
-- Internationalization (i18n) is the process of developing products in such a way that they can be localized for languages and cultures easily. Localization (l10n), is the process of adapting applications and text to enable their usability in a particular cultural or linguistic market. For application developers, internationalizing an application means abstracting all of the strings and other locale-specific bits (such as date or currency formats) out of the application. Localizing an application means providing translations and localized formats for the abstracted bits.
+Internationalization (i18n) is the process of developing products in such a way that they can be localized for languages and cultures easily. Localization (l10n), is the process of adapting applications and text to enable their usability in a particular cultural or linguistic market. For application developers, internationalizing an application means abstracting all of the strings and other locale-specific bits (such as date or currency formats) out of the application. Localizing an application means providing translations and localized formats for the abstracted bits.
 
 ### Visualization
-[A Better Way To Code](https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0) by Mike Bostock:
-- A danger of spending so long designing a tool is that you may forget what the tool is for: the tool itself becomes the goal, rather than the value derived from its application.
-- The purpose of a visualization tool is to construct visualizations. But what is the purpose of visualization? Per Ben Shneiderman: The purpose of visualization is insight, not pictures.
-- Visualization is a means to an end. A means to insight. A way to think, to understand, to discover, and to communicate something about the world. If we consider only the task of assigning visual encodings, of constructing visualizations, we ignore myriad other challenges: finding relevant data, cleaning it, transforming it into efficient structures, analyzing it with statistics, modeling, explaining our discoveries.
+A danger of spending so long designing a tool is that you may forget what the tool is for: the tool itself becomes the goal, rather than the value derived from its application.
+
+The purpose of a visualization tool is to construct visualizations. But what is the purpose of visualization? Per Ben Shneiderman: The purpose of visualization is insight, not pictures. 
+
+Visualization is a means to an end. A means to insight. A way to think, to understand, to discover, and to communicate something about the world. If we consider only the task of assigning visual encodings, of constructing visualizations, we ignore myriad other challenges: finding relevant data, cleaning it, transforming it into efficient structures, analyzing it with statistics, modeling, explaining our discoveries.
 
 ## House of commands
 
@@ -1017,7 +1018,6 @@ Useful shortcuts and commands I use or have used to optimize my productivity.
 - [Vanilla JS Toolkit](https://vanillajstoolkit.com/)
 - [Glossary of Modern JS Concepts](https://auth0.com/blog/glossary-of-modern-javascript-concepts/)
 - [Localization vs. Internationalization](https://www.w3.org/International/questions/qa-i18n)
-- [The Cost Of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
 
 **Core system design fundamentals for software development**:
 
@@ -1033,6 +1033,11 @@ Useful shortcuts and commands I use or have used to optimize my productivity.
 - [Rate Limiting](https://www.imperva.com/learn/application-security/rate-limiting/)
 - [ACID Transactions](https://www.freecodecamp.org/news/acid-databases-explained/)
 - [Relational Database Design & Entity Relationship](https://towardsdatascience.com/designing-a-relational-database-and-creating-an-entity-relationship-diagram-89c1c19320b2)
+
+**Other**:
+- [The unwritten laws of engineering at Stedi](https://www.stedi.com/blog/the-unwritten-laws-of-engineering-at-stedi)
+- [A Better Way to Code by Mike Bostock](https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0)
+- [The Cost Of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
 
 </details>
 <br />
