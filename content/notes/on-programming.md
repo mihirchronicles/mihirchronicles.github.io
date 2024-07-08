@@ -1038,6 +1038,7 @@ Useful shortcuts and commands I use or have used to optimize my productivity.
 - [The unwritten laws of engineering at Stedi](https://www.stedi.com/blog/the-unwritten-laws-of-engineering-at-stedi)
 - [A Better Way to Code by Mike Bostock](https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0)
 - [The Cost Of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
+- [Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611)
 
 </details>
 <br />
