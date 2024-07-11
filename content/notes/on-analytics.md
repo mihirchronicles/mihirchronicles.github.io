@@ -38,6 +38,10 @@ And last thing, both insights and context are equally important.
 
 > Data can only improve decisions insofar as it enables us to learn about the potential outcomes associated with the alternatives under consideration. Instead of being naively data driven, we should seek to be causal information driven. Causal inference provides a set of powerful tools for understanding the extent to which causal relationships can be learned from the data we have. — Stitch Fix
 
+If there is one takeaway in this entire post, it is the following:
+
+**There are no best templates or tools that will make you or your organization a data driven. It is the PRACTICE not the TOOLS. Start with looking at data that matters to you frequently.**
+
 ## Organization maturity model
 
 AMM—analytics maturity model is a sequence of steps or stages that represent the organization's evolution in leveraging data to inform business decisions. The maturity model gives context to where you are in the process and the stages ahead. There are 6 stages of the analytics maturity model and the beginning two stages are part of a starting point foundation. The stages of the analytics maturity model should build on each other, not replace each other. 
@@ -300,6 +304,7 @@ Product metrics can be split into five categories:
 
 **Links**
 - [Data Analysis Journal Substack](https://dataanalysis.substack.com)
+- [What Good Data Self-Serve Looks Like](https://www.dataduel.co/what-good-data-self-serve-looks-like/)
 - [The Role of Analytics by SVPG](https://www.svpg.com/the-role-of-analytics/)
 - [Flavors of Analytics by SVPG](https://www.svpg.com/flavors-of-analytics/)
 - [Leveraging Data Science by SVPG](https://www.svpg.com/leveraging-data-science/)
