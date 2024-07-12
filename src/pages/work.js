@@ -29,8 +29,8 @@ const WorkIndex = ({ data, location }) => {
         <StaticImage src="../images/big_imposter_2.png" alt="big_imposter" className="gallery-image" />
         <StaticImage src="../images/big_imposter_3.png" alt="big_imposter" className="gallery-image" />
       </div>
-      <p><strong>[2023]</strong></p>
-      <p><strong>Details</strong>: A book on imposter syndrome. Work in progress!</p>
+      <p><strong>[2024]</strong></p>
+      <p><strong>Details</strong>: A book on imposter syndrome. Work under progress!</p>
       <p><strong>Website</strong>: <a href="https://bigimposter.webflow.io">beatbigimposter</a></p>
 
       <h2>Wise Charlie</h2>
