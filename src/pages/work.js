@@ -27,11 +27,10 @@ const WorkIndex = ({ data, location }) => {
       <div>
         <StaticImage src="../images/big_imposter_1.png" alt="big_imposter" className="gallery-image" />
         <StaticImage src="../images/big_imposter_2.png" alt="big_imposter" className="gallery-image" />
-        <StaticImage src="../images/big_imposter_3.png" alt="big_imposter" className="gallery-image" />
       </div>
-      <p><strong>[2024]</strong></p>
-      <p><strong>Details</strong>: A book on imposter syndrome. Work under progress!</p>
-      <p><strong>Website</strong>: <a href="https://bigimposter.webflow.io">beatbigimposter</a></p>
+      <p><strong>[2023]</strong></p>
+      <p><strong>Details</strong>: A project exploration on how to beat the imposter syndrome. Created brand assets including logo, website, copy and illustrations. The project was never launched.</p>
+      <p><strong>Website</strong>: <a href="https://bigimposter.webflow.io">www.bigimposter.com</a></p>
 
       <h2>Wise Charlie</h2>
       <div>
