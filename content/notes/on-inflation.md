@@ -7,7 +7,7 @@ path: "/notes/on-inflation"
 ---
 _**UNDER CONSTRUCTION**_
 
-A risky time for the US budget as deficits are out of control. A deficit occurs when the federal government’s spending exceeds its revenues. As of July 2024, the federal government has spent $1.27 trillion more than it has collected resulting in a national deficit. Majority of tax receipts are also eaten up by interest payments. 
+The US budget is at a concerning state as deficits are out of control. A deficit occurs when the federal government’s spending exceeds its revenues. As of July 2024, the federal government has spent $1.27 trillion more than it has collected resulting in a national deficit. Majority of tax receipts are also eaten up by interest payments. 
 
 A deeper investigation is required in understanding how inflation can ruin current progress. We should investigate if it is a political phenomenon, central bank phenomenon, or both? To what extent are interest payments eating up the national income? What major factors are contributing towards inflation? Which political party has caused the most deficits? What major events caused further inflation? What must be done to fix inflation? Why does a government operate this way when no household or a business operate this uncontrollable way?
 
