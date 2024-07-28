@@ -37,6 +37,36 @@ The US government continues to finance its deficits by inflation which causes gr
 
 A deeper dive is required to understand the entire phenomenon.
 
+## Cycles
+
+The deflationary cycle needs to be balanced with the inflationary cycle in order to maintain stability. The right balance requires a certain mix of spending cuts, reducing debt, transferring wealth and printing money so that economic and social stability can be maintained. Let's review both cycles.
+
+### Inflationary cycle
+
+As economic activity increases, we see an expansion cycle. Spending continues to increase and prices start to rise. 
+
+This happens because the increase in spending is fueled by credit which can be created instantly out of thin air.
+
+Prices rise when the amount of spending grow faster than the production of goods. 
+
+When prices rise, we call this inflation.
+
+### Deflationary cycle
+
+The opposite is deflation. It occurs when prices fall. If economic activity is decreasing rapidly, inflation is no longer a threat.  
+
+Deflation can happen due to several reasons—exports (for example, goods from China), innovation (for example, prices in TV sets overtime) or lower wages.
+
+Manufacturers slow down production. Lower production means unemployment. As prices fall and jobs are lost, people put off purchases. The stock market crashes. As economic crisis loom, government lose tax revenue. 
+
+A severe decrease in economic activity for a few or several consecutive quarters will cause a recession or a depression. For example, deflation helped turn the 1929 recession into the Great Depression.
+
+## Policies
+
+### Monetary policy
+
+### Fiscal policy
+
 ## Further reading
 <details>
     <summary><strong>References</strong></summary>
