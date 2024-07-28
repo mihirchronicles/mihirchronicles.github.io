@@ -63,6 +63,8 @@ A severe decrease in economic activity for a few or several consecutive quarters
 
 ## Policies
 
+Government policy is expressed through its borrowing and spending activities. The two types of government policy that contributes towards economy activity are—fiscal policy and monetary policy. The primary goal of both monetary and fiscal policy is the creation of a well-balanced economic environment where growth is stable and positive and inflation is stable and low. Both are used to regulate economic activity over time.
+
 ### Monetary policy
 
 ### Fiscal policy
