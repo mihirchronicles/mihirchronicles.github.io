@@ -32,11 +32,13 @@ It is all about developing healthy skepticism and curiosity to get closer to the
 
 > There are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns — the ones we don’t know we don’t know. — Donald Rumsfeld, Former US Secretary of Defense
 
-And last thing, both insights and context are equally important.
+Both insights and context are equally important. Measuring for the sake of measuring isn't enough.
 
 > Insight tells you what's happening. Context tells you why it's happening. Insight come from customers and competitors, from markets and industries, but most important, from our data.  Context comes from knowledge and experience. It applies perspective to the data. Combining insights and context gives you the full-screen picture of what is happening, why it's happening and what needs to be done. — Transformed by Marty Cagan
 
 > Data can only improve decisions insofar as it enables us to learn about the potential outcomes associated with the alternatives under consideration. Instead of being naively data driven, we should seek to be causal information driven. Causal inference provides a set of powerful tools for understanding the extent to which causal relationships can be learned from the data we have. — Stitch Fix
+
+> Nike invested a material amount of dollars (billions) into something that was less effective but easier to be measured vs something that was more effective but less easy to be measured. In conclusion: an impressive waste of money. — Massimo Giunco, Nike
 
 If there is one takeaway in this entire post, it is the following:
 
@@ -364,6 +366,8 @@ Product metrics can be split into five categories:
     - [Netflix Tech Blog](https://netflixtechblog.com/tagged/analytics)
 - DoorDash
     - [Starting an Analytics Org From Scratch — Lessons From a Decade at DoorDash](https://review.firstround.com/starting-an-analytics-org-from-scratch-lessons-from-a-decade-at-doordash/)
+- Nike
+    [Nike: An Epic Saga of Value Destruction by Massimo Giunco](https://www.linkedin.com/pulse/nike-epic-saga-value-destruction-massimo-giunco-llplf/)
 
 **Tools**
 - [Evan’s Awesome A/B Tools](https://www.evanmiller.org/ab-testing/)
