@@ -513,5 +513,7 @@ Here is my ridiculously long list of good questions accumulated over the years f
     <br>
 
 - [Great work by Paul Graham](http://paulgraham.com/greatwork.html)
+- [The Science of Having a Great Conversation](https://www.wired.com/story/the-science-of-having-a-great-conversation-research-social-connection/)
+
 </details>
  <br />
