@@ -73,6 +73,7 @@ Meetings aren't work. This social aspect of work is required for complex decisio
 - [Toastmasters Club](https://www.toastmasters.org)
 - [37 Signals on Communication](https://37signals.com/how-we-communicate)
 - [The Endgames of Bad Faith Communication](https://consilienceproject.org/the-endgames-of-bad-faith-communication/)
+- [The Science of Having a Great Conversation](https://www.wired.com/story/the-science-of-having-a-great-conversation-research-social-connection/)
 
 </details>
 <br />
