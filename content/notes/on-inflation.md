@@ -42,6 +42,8 @@ A deeper dive is required to understand the entire phenomenon. We'll review diff
 
 > Debt defines your future, and when your future is defined, hope begins to die.’ ... I’m not an anti-debt zealot. There’s a time and place, and used responsibly it’s a wonderful tool. But once you view debt as narrowing what you can endure in a volatile world, you start to see it as a constraint on the asset that matters most: having options and flexibility. — Kent Nerburn 
 
+> As debt increases, you narrow the range of outcomes you can endure in life. — Morgan Housel
+
 > This is a great trap of the twentieth century: on one side is the logic of the market, where we like to imagine we all start out as individuals who don't owe each other anything. On the other is the logic of the state, where we all begin with a debt we can never truly pay. We are constantly told that they are opposites, and that between them they contain the only real human possibilities. But it's a false dichotomy. States created markets. Markets require states. Neither could continue without the other, at least, in anything like the forms we would rec­ognize today. — David Graeber
 
 ## Deficit vs debt
@@ -163,13 +165,61 @@ This is why balancing growth rate and interest rate is critical for policymakers
 
 | Fiscal Year | GDP | Total Debt | Deficit/Surplus | Notable Events | President (Party) | 
 |:--|:--|:--|:--|:--|:--|
-| 2024 |  |  |  |  |  |
-| 2023 |  |  |  |  |  |
-| 2022 |  |  |  |  |  |
-| 2021 |  |  |  |  |  |
-| 2020 |  |  |  |  |  |
-| 2020 |  |  |  | [CARES Act](https://www.congress.gov/bill/116th-congress/house-bill/748) |  |
-
+| 2024 |  |  |  |  | Joe Biden (D) |
+| 2023 |  |  |  |  | Joe Biden (D) |
+| 2022 |  |  |  |  | Joe Biden (D) |
+| 2021 |  |  |  |  | Joe Biden (D) |
+| 2020 |  |  |  |  | Donald Trump (R) |
+| 2019 |  |  |  | [CARES Act](https://www.congress.gov/bill/116th-congress/house-bill/748) | Donald Trump (R) |
+| 2018 |  |  |  |  | Donald Trump (R) |
+| 2017 |  |  |  |  | Donald Trump (R) |
+| 2016 |  |  |  |  | Barack Obama (D) |
+| 2015 |  |  |  |  | Barack Obama (D) |
+| 2014 |  |  |  |  | Barack Obama (D) |
+| 2013 |  |  |  |  | Barack Obama (D) |
+| 2012 |  |  |  |  | Barack Obama (D) |
+| 2011 |  |  |  |  | Barack Obama (D) |
+| 2010 |  |  |  |  | Barack Obama (D) |
+| 2009 |  |  |  |  | Barack Obama (D) |
+| 2008 |  |  |  |  | George W Bush (R) |
+| 2007 |  |  |  |  | George W Bush (R) |
+| 2006 |  |  |  |  | George W Bush (R) |
+| 2005 |  |  |  |  | George W Bush (R) |
+| 2004 |  |  |  |  | George W Bush (R) |
+| 2003 |  |  |  |  | George W Bush (R) |
+| 2002 |  |  |  |  | George W Bush (R) |
+| 2001 |  |  |  |  | George W Bush (R) |
+| 2000 |  |  |  |  | Bill Clinton (D) |
+| 1999 |  |  |  |  | Bill Clinton (D) |
+| 1998 |  |  |  |  | Bill Clinton (D) |
+| 1997 |  |  |  |  | Bill Clinton (D) |
+| 1996 |  |  |  |  |  |
+| 1995 |  |  |  |  |  |
+| 1994 |  |  |  |  |  |
+| 1993 |  |  |  |  |  |
+| 1992 |  |  |  |  |  |
+| 1991 |  |  |  |  |  |
+| 1990 |  |  |  |  |  |
+| 1989 |  |  |  |  |  |
+| 1988 |  |  |  |  |  |
+| 1987 |  |  |  |  |  |
+| 1986 |  |  |  |  |  |
+| 1985 |  |  |  |  |  |
+| 1984 |  |  |  |  |  |
+| 1983 |  |  |  |  |  |
+| 1982 |  |  |  |  |  |
+| 1981 |  |  |  |  |  |
+| 1980 |  |  |  |  |  |
+| 1979 |  |  |  |  |  |
+| 1978 |  |  |  |  |  |
+| 1977 |  |  |  |  |  |
+| 1976 |  |  |  |  |  |
+| 1975 |  |  |  |  |  |
+| 1974 |  |  |  |  |  |
+| 1973 |  |  |  |  |  |
+| 1972 |  |  |  |  |  |
+| 1971 |  |  |  |  |  |
+| 1970 |  |  |  |  |  |
 
 ## Further reading
 <details>
