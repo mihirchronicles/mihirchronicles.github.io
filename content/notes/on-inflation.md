@@ -1,7 +1,7 @@
 ---
 title: "On Inflation"
 tags: ["general"]
-date: "2024-07-24"
+date: "2024-08-05"
 draft: false
 path: "/notes/on-inflation"
 ---
