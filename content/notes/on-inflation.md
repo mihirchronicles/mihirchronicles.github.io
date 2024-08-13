@@ -165,7 +165,7 @@ This is why balancing growth rate and interest rate is critical for policymakers
 
 | Fiscal Year | GDP | Total Debt | Deficit/Surplus | Notable Events | President (Party) | 
 |:--|:--|:--|:--|:--|:--|
-| 2024 |  |  |  |  | Joe Biden (D) |
+| 2024 | TBD |  |  |  | Joe Biden (D) |
 | 2023 |  |  |  |  | Joe Biden (D) |
 | 2022 |  |  |  |  | Joe Biden (D) |
 | 2021 |  |  |  |  | Joe Biden (D) |

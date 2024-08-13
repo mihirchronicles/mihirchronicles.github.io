@@ -306,6 +306,7 @@ Product metrics can be split into five categories:
 
 **Links**
 - [Data Analysis Journal Substack](https://dataanalysis.substack.com)
+- [Measurement/Metrics Foundations by John Cutler](https://docs.google.com/document/d/1205M-IyZayiCIGDh9YgEjuT-RsbLOvQ9dWWfuW0Pu6Y/edit#heading=h.4j4ybanosgzn)
 - [What Good Data Self-Serve Looks Like](https://www.dataduel.co/what-good-data-self-serve-looks-like/)
 - [The Role of Analytics by SVPG](https://www.svpg.com/the-role-of-analytics/)
 - [Flavors of Analytics by SVPG](https://www.svpg.com/flavors-of-analytics/)
