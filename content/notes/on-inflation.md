@@ -161,66 +161,6 @@ If income begin to rise, borrowers begin to appear more creditworthy. When borro
 
 This is why balancing growth rate and interest rate is critical for policymakers.
 
-## Key inflation data
-
-| Fiscal Year | GDP | Total Debt | Deficit/Surplus | Notable Events | President (Party) | 
-|:--|:--|:--|:--|:--|:--|
-| 2024 | TBD |  |  |  | Joe Biden (D) |
-| 2023 |  |  |  |  | Joe Biden (D) |
-| 2022 |  |  |  |  | Joe Biden (D) |
-| 2021 |  |  |  |  | Joe Biden (D) |
-| 2020 |  |  |  |  | Donald Trump (R) |
-| 2019 |  |  |  | [CARES Act](https://www.congress.gov/bill/116th-congress/house-bill/748) | Donald Trump (R) |
-| 2018 |  |  |  |  | Donald Trump (R) |
-| 2017 |  |  |  |  | Donald Trump (R) |
-| 2016 |  |  |  |  | Barack Obama (D) |
-| 2015 |  |  |  |  | Barack Obama (D) |
-| 2014 |  |  |  |  | Barack Obama (D) |
-| 2013 |  |  |  |  | Barack Obama (D) |
-| 2012 |  |  |  |  | Barack Obama (D) |
-| 2011 |  |  |  |  | Barack Obama (D) |
-| 2010 |  |  |  |  | Barack Obama (D) |
-| 2009 |  |  |  |  | Barack Obama (D) |
-| 2008 |  |  |  |  | George W Bush (R) |
-| 2007 |  |  |  |  | George W Bush (R) |
-| 2006 |  |  |  |  | George W Bush (R) |
-| 2005 |  |  |  |  | George W Bush (R) |
-| 2004 |  |  |  |  | George W Bush (R) |
-| 2003 |  |  |  |  | George W Bush (R) |
-| 2002 |  |  |  |  | George W Bush (R) |
-| 2001 |  |  |  |  | George W Bush (R) |
-| 2000 |  |  |  |  | Bill Clinton (D) |
-| 1999 |  |  |  |  | Bill Clinton (D) |
-| 1998 |  |  |  |  | Bill Clinton (D) |
-| 1997 |  |  |  |  | Bill Clinton (D) |
-| 1996 |  |  |  |  |  |
-| 1995 |  |  |  |  |  |
-| 1994 |  |  |  |  |  |
-| 1993 |  |  |  |  |  |
-| 1992 |  |  |  |  |  |
-| 1991 |  |  |  |  |  |
-| 1990 |  |  |  |  |  |
-| 1989 |  |  |  |  |  |
-| 1988 |  |  |  |  |  |
-| 1987 |  |  |  |  |  |
-| 1986 |  |  |  |  |  |
-| 1985 |  |  |  |  |  |
-| 1984 |  |  |  |  |  |
-| 1983 |  |  |  |  |  |
-| 1982 |  |  |  |  |  |
-| 1981 |  |  |  |  |  |
-| 1980 |  |  |  |  |  |
-| 1979 |  |  |  |  |  |
-| 1978 |  |  |  |  |  |
-| 1977 |  |  |  |  |  |
-| 1976 |  |  |  |  |  |
-| 1975 |  |  |  |  |  |
-| 1974 |  |  |  |  |  |
-| 1973 |  |  |  |  |  |
-| 1972 |  |  |  |  |  |
-| 1971 |  |  |  |  |  |
-| 1970 |  |  |  |  |  |
-
 ## Further reading
 <details>
     <summary><strong>References</strong></summary>
@@ -267,6 +207,11 @@ This is why balancing growth rate and interest rate is critical for policymakers
 - [Budget and Economic Data](https://www.cbo.gov/data/budget-economic-data)
 - [Monthly Treasury Statement](https://fiscaldata.treasury.gov/datasets/monthly-treasury-statement/summary-of-receipts-and-outlays-of-the-u-s-government)
 - [USA Spending](https://www.usaspending.gov)
+
+**Future Analysis**
+| Fiscal Year | GDP | Total Debt | Deficit/Surplus | Notable Events | President (Party) | 
+|:--|:--|:--|:--|:--|:--|
+| 2024 | TBD | TBD | TBD | Israel War, Ukraine War, U.S. Election | Joe Biden (D) |
 
 </details>
 <br />
