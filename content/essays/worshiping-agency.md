@@ -6,7 +6,7 @@ draft: false
 path: "/essays/worshiping-agency"
 ---
 
-As a teenager and young adult, my taste for work was unusual.
+My taste for work was unusual as a teenager and young adult, 
 
 I blindly signed up for a pyramid scheme which I didn't know about. I liked the idea of being my own boss and having an office space. To earn that, I would need to sell juice boxes that were high in nutrition and recruit people to sell those densely nutrition juice boxes who were densely energized to hustle. Hence, pyramid! I rallied up my friend to help me stick flyers on people's car parked at a mall. I sold 24 boxes—one to a stranger and the rest to my uncle because he always supported my endeavors.
 
