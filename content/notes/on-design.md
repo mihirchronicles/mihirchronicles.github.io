@@ -807,6 +807,7 @@ To summarize some of my takeaways on what a great designer does:
 - [Information Architecture open source resources on Github](https://github.com/tipoqueno/information-architecture)
 - [Darren Hood’s Information Architecture & Information Design Book Recommendation List](https://uxuncensored.medium.com/darren-hoods-information-architecture-information-design-book-recommendation-list-8011a671c2be)
 - [Uber winning design](https://adplist.substack.com/p/uber-winning-design)
+- [Everything that turned out well in my life followed the same design process](https://www.henrikkarlsson.xyz/p/unfolding)
 
 </details>
 <br />
