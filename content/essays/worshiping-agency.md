@@ -18,7 +18,7 @@ Another few years later I learned how to program through a trade school in Utah.
 
 And then I built a small company called Wise Charlie because I was fascinated by mental models. Charlie Munger inspired me so much that I was on cloud nine. I wanted to make consuming these mental models fun, so I built a deck of cards. After selling it to a thousand customers I sold the company.
 
-This isn't to list or brag about my achievements (or failures) but to understand what makes up for high agency.
+No one asked me to do any of these things, but somehow I found ways to build things or pursue new interests. This isn't to list or brag about my achievements (or failures) but to understand what makes up for high agency. 
 
 This is the first time I am reflecting on my own path and understanding how agency played a pivotal role in shaping my own character and future. High agency is fuel for life which will also be a great lesson for my son.
 
