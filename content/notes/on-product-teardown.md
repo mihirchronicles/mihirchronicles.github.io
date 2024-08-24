@@ -10,15 +10,15 @@ __Work in Progress__
 
 Product teardown is a list of my favorite products I have investigated to get inspiration from. It is an exercise to gain expertise from strong teams who are building great products. Hands-on experience beats any book or lecture in gaining a deep understanding of how to build great products. The list is broken down between fintech and non fintech as I spend a lot of time within the financial industry, However, I do find inspiration from other products and offerings. Following are a few questions I ask when doing a product teardown.
 
-- What is the offering?
-- What is the founder/organization story? What is their mission? What is the motivation for people behind the product?
-- What problem does this product solve? Is this really a problem? Is it an underlying problem or a surface level problem? How painful is this problem for users?
-- How much customization affordance does a product offer to its clients?
-- Who are the most competent competitors to this offering? How does this compare to using an alternative solution? Does a market really need another offering?
-- Are there any design patterns or user experience that standout?
-- Do they have unique organizational structure to empower product, design and engineering to solve user problems? What is their team culture?
-- How does the product grow? Are there any unique growth strategies?
-- What is the strategic goal? How does it support the business model?
+1. What is the offering?
+2. What is the founder/organization story? What is their mission? What is the motivation for people behind the product? | Work in progress
+3. What problem does this product solve? Is this really a problem? Is it an underlying problem or a surface level problem? How painful is this problem for users?
+4. How much customization affordance does a product offer to its clients?
+5. Who are the most competent competitors to this offering? How does this compare to using an alternative solution? Does a market really need another offering?
+6. Are there any design patterns or user experience that standout?
+7. Do they have unique organizational structure to empower product, design and engineering to solve user problems? What is their team culture?
+8. How does the product grow? Are there any unique growth strategies?
+9. What is the strategic goal? How does it support the business model?
 
 ## Fintech
 | Product | Overview | 
@@ -120,6 +120,16 @@ Product teardown is a list of my favorite products I have investigated to get in
 <details>
     <summary><strong>Wealthfront</strong></summary>
     <br>
+
+1. What is the offering?
+2. What is the founder/organization story? What is their mission? What is the motivation for people behind the product? | Work in progress
+3. What problem does this product solve? Is this really a problem? Is it an underlying problem or a surface level problem? How painful is this problem for users?
+4. How much customization affordance does a product offer to its clients?
+5. Who are the most competent competitors to this offering? How does this compare to using an alternative solution? Does a market really need another offering?
+6. Are there any design patterns or user experience that standout?
+7. Do they have unique organizational structure to empower product, design and engineering to solve user problems? What is their team culture?
+8. How does the product grow? Are there any unique growth strategies?
+9. What is the strategic goal? How does it support the business model?
 
 Wealthfront is an automated investment offering based in Palo Alto, California. It is a goal-based planning software with multiple goals, wealth-planning tool and other offerings.
 
