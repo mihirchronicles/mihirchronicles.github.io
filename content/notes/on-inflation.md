@@ -207,6 +207,7 @@ This is why balancing growth rate and interest rate is critical for policymakers
 - [Budget and Economic Data](https://www.cbo.gov/data/budget-economic-data)
 - [Monthly Treasury Statement](https://fiscaldata.treasury.gov/datasets/monthly-treasury-statement/summary-of-receipts-and-outlays-of-the-u-s-government)
 - [USA Spending](https://www.usaspending.gov)
+- [CME Fedwatch Tool](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html)
 
 **Future Analysis**
 | Fiscal Year | GDP | Total Debt | Deficit/Surplus | Notable Events | President (Party) | 
