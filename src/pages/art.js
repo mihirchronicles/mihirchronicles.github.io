@@ -13,6 +13,7 @@ const ArtIndex = ({ data, location }) => {
       <h1>Art</h1>
       <p>Getting lost in imagination, colors, and shapes is a wonderful exercise. Art has helped me expand my imagination and curiosity. Making art is a great way to escape reality, have fun, and be silly. Below are some of my sketches and paintings.</p>
       <div>
+        <StaticImage src="../images/art/hey_there.png" alt="hey" className="gallery-image"/>
         <StaticImage src="../images/art/reading_under_lamp.png" alt="reading under lamp" className="gallery-image"/>
         <StaticImage src="../images/art/landscape.png" alt="landscape" className="gallery-image"/>
         <StaticImage src="../images/art/house.png" alt="house" className="gallery-image"/>
