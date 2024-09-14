@@ -13,8 +13,8 @@ const ArtIndex = ({ data, location }) => {
       <h1>Art</h1>
       <p>Getting lost in imagination, colors, and shapes is a wonderful exercise. Art has helped me expand my imagination and curiosity. Making art is a great way to escape reality, have fun, and be silly. Below are some of my sketches and paintings.</p>
       <div>
-        <StaticImage src="../images/art/hey_there.png" alt="hey" className="gallery-image"/>
-        <StaticImage src="../images/art/reading_under_lamp.png" alt="reading under lamp" className="gallery-image"/>
+        <StaticImage src="../images/art/smileplease.png" alt="smileplease" className="gallery-image"/>
+        <StaticImage src="../images/art/reading_under_lamp.png" alt="readingunderlamp" className="gallery-image"/>
         <StaticImage src="../images/art/landscape.png" alt="landscape" className="gallery-image"/>
         <StaticImage src="../images/art/house.png" alt="house" className="gallery-image"/>
         <StaticImage src="../images/art/austin-music.png" alt="austinmusic" className="gallery-image"/>
@@ -28,7 +28,7 @@ const ArtIndex = ({ data, location }) => {
         <StaticImage src="../images/art/dancewithuniverse.png"alt="dancewithuniverse" className="gallery-image"/>
         <StaticImage src="../images/art/diaper.png"alt="diaper" className="gallery-image"/>
         <StaticImage src="../images/art/couple.png" alt="couple" className="gallery-image"/>
-        <StaticImage src="../images/art/incredible_people.png" alt="incredible people" className="gallery-image"/>
+        <StaticImage src="../images/art/incredible_people.png" alt="incrediblepeople" className="gallery-image"/>
         <StaticImage src="../images/art/beach.png" alt="beach" className="gallery-image"/>
         <StaticImage src="../images/art/leo_art.jpeg" alt="leo" className="gallery-image"/>      </div>
     </Layout>
