@@ -36,10 +36,8 @@ The hard part is not building but maintaining the platform. I know this because 
 
 On the other hand, renting requires huge upfront investment. You are limited to functionalities provided by your vendor, but you no longer have to worry about upgrades, security controls or best practices. Once your business function integrates with a system you can then start focusing on your core business. While initial integration is not easy, it removes the maintenance cost.
 
-Your CapEx is now OpEx. Outsourcing becomes an operational cost.  This might not sit well with a CEO who is thinking short term because profitability might take a hit.
+Your CapEx is now OpEx. Outsourcing becomes an operational cost. This might not sit well with a CEO who is thinking short term because profitability might take a hit. But trading OpEx for CapEx in software is a real trade-off and the decision can be consequential in long-term.
 
 In my opinion, CEO's job is to protect the moat of the company while allocating capital efficiently. Renting might not be good at first but maintaining a platform that was built internally is not good either because you are re-shifting your resources that could otherwise be used to serve your customers.
 
-Trading OpEx for CapEx in software is something to be taken seriously. The trade-offs are consequential to the bottom-line. 
-
-Most companies are already bottlenecked by velocity of feature delivery so pulling engineers away to maintain your internal software is an enormous mistake. 
+It is an enormous mistake when pulling engineers away to maintain your internal software as most companies are already bottlenecked by velocity of feature delivery that matters the most to the core business.
