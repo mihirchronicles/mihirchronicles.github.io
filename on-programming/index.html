@@ -1,0 +1,936 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="x-ua-compatible" content="ie=edge"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/><meta name="generator" content="Gatsby 5.13.3"/><meta name="theme-color" content="#0b0c11"/><meta name="description" content="Notes CSS BEM is a methodology used for modular CSS classes. A robust CSS architecture can help navigate large codebase. ,  and . A  is a component or feature…" data-gatsby-head="true"/><meta property="og:title" content="On Programming" data-gatsby-head="true"/><meta property="og:description" content="Notes CSS BEM is a methodology used for modular CSS classes. A robust CSS architecture can help navigate large codebase. ,  and . A  is a component or feature…" data-gatsby-head="true"/><meta property="og:type" content="website" data-gatsby-head="true"/><meta name="image" content="./src/images/mehere.png" data-gatsby-head="true"/><meta name="twitter:card" content="summary" data-gatsby-head="true"/><meta name="twitter:image" content="./src/images/mehere.png" data-gatsby-head="true"/><meta name="twitter:creator" content="mihirchronicles" data-gatsby-head="true"/><meta name="twitter:title" content="On Programming" data-gatsby-head="true"/><meta name="twitter:description" content="Notes CSS BEM is a methodology used for modular CSS classes. A robust CSS architecture can help navigate large codebase. ,  and . A  is a component or feature…" data-gatsby-head="true"/><style data-href="/styles.f7d22c03640e3cb9504c.css" data-identity="gatsby-global-css">@import url(https://rsms.me/inter/inter.css);@font-face{font-display:swap;font-family:MontserratVariable;font-style:normal;font-weight:100 900;src:url(/static/montserrat-cyrillic-variable-wghtOnly-normal-f41a9bc7688bda1e84508030cb5c18fe.woff2) format("woff2");unicode-range:u+0301,u+0400-045f,u+0490-0491,u+04b0-04b1,u+2116}@font-face{font-display:swap;font-family:MontserratVariable;font-style:normal;font-weight:100 900;src:url(/static/montserrat-cyrillic-ext-variable-wghtOnly-normal-639b3c91831427d83cd3984af014778c.woff2) format("woff2");unicode-range:u+0460-052f,u+1c80-1c88,u+20b4,u+2de0-2dff,u+a640-a69f,u+fe2e-fe2f}@font-face{font-display:swap;font-family:MontserratVariable;font-style:normal;font-weight:100 900;src:url(/static/montserrat-latin-variable-wghtOnly-normal-b66f2d18f66f15c3ac56a2f4d68b3be5.woff2) format("woff2");unicode-range:u+00??,u+0131,u+0152-0153,u+02bb-02bc,u+02c6,u+02da,u+02dc,u+2000-206f,u+2074,u+20ac,u+2122,u+2191,u+2193,u+2212,u+2215,u+feff,u+fffd}@font-face{font-display:swap;font-family:MontserratVariable;font-style:normal;font-weight:100 900;src:url(/static/montserrat-latin-ext-variable-wghtOnly-normal-9f73369162c4382215d4317ba362fe1e.woff2) format("woff2");unicode-range:u+0100-024f,u+0259,u+1e??,u+2020,u+20a0-20ab,u+20ad-20cf,u+2113,u+2c60-2c7f,u+a720-a7ff}@font-face{font-display:swap;font-family:MontserratVariable;font-style:normal;font-weight:100 900;src:url(data:font/woff2;base64,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) format("woff2");unicode-range:u+0102-0103,u+0110-0111,u+0128-0129,u+0168-0169,u+01a0-01a1,u+01af-01b0,u+1ea0-1ef9,u+20ab}@font-face{font-display:swap;font-family:Merriweather;font-style:normal;font-weight:400;src:url(/static/merriweather-cyrillic-ext-400-normal-2a880e22b1b888ab54652a36d43b7f16.woff2) format("woff2"),url(/static/merriweather-all-400-normal-5e7a0e6a9b864b89292d60ba5da59d4b.woff) format("woff");unicode-range:u+0460-052f,u+1c80-1c88,u+20b4,u+2de0-2dff,u+a640-a69f,u+fe2e-fe2f}@font-face{font-display:swap;font-family:Merriweather;font-style:normal;font-weight:400;src:url(/static/merriweather-cyrillic-400-normal-fde0b55efc50742fb57fbebbb11c572f.woff2) format("woff2"),url(/static/merriweather-all-400-normal-5e7a0e6a9b864b89292d60ba5da59d4b.woff) format("woff");unicode-range:u+0301,u+0400-045f,u+0490-0491,u+04b0-04b1,u+2116}@font-face{font-display:swap;font-family:Merriweather;font-style:normal;font-weight:400;src:url(data:font/woff2;base64,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) format("woff2"),url(/static/merriweather-all-400-normal-5e7a0e6a9b864b89292d60ba5da59d4b.woff) format("woff");unicode-range:u+0102-0103,u+0110-0111,u+0128-0129,u+0168-0169,u+01a0-01a1,u+01af-01b0,u+1ea0-1ef9,u+20ab}@font-face{font-display:swap;font-family:Merriweather;font-style:normal;font-weight:400;src:url(/static/merriweather-latin-ext-400-normal-4657f5ab02d5923d223f96a9155a9bdc.woff2) format("woff2"),url(/static/merriweather-all-400-normal-5e7a0e6a9b864b89292d60ba5da59d4b.woff) format("woff");unicode-range:u+0100-024f,u+0259,u+1e??,u+2020,u+20a0-20ab,u+20ad-20cf,u+2113,u+2c60-2c7f,u+a720-a7ff}@font-face{font-display:swap;font-family:Merriweather;font-style:normal;font-weight:400;src:url(/static/merriweather-latin-400-normal-e009f21405b4d7e893674b69deb4cf4a.woff2) format("woff2"),url(/static/merriweather-all-400-normal-5e7a0e6a9b864b89292d60ba5da59d4b.woff) format("woff");unicode-range:u+00??,u+0131,u+0152-0153,u+02bb-02bc,u+02c6,u+02da,u+02dc,u+2000-206f,u+2074,u+20ac,u+2122,u+2191,u+2193,u+2212,u+2215,u+feff,u+fffd}
+
+/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */html{-webkit-text-size-adjust:100%;line-height:1.15}body{margin:0}main{display:block}h1{font-size:2em;margin:.67em 0}hr{box-sizing:content-box;height:0;overflow:visible}pre{font-family:monospace,monospace;font-size:1em}a{background-color:transparent}abbr[title]{border-bottom:none;text-decoration:underline;-webkit-text-decoration:underline dotted;text-decoration:underline dotted}b,strong{font-weight:bolder}code,kbd,samp{font-family:monospace,monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}img{border-style:none}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0}button,input{overflow:visible}button,select{text-transform:none}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:1px dotted ButtonText}fieldset{padding:.35em .75em .625em}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}progress{vertical-align:baseline}textarea{overflow:auto}[type=checkbox],[type=radio]{box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}details{display:block}summary{display:list-item}[hidden]{display:none}html{font-family:Inter,sans-serif}@supports (font-variation-settings:normal){html{font-feature-settings:"liga" 1,"calt" 1;font-family:InterVariable,sans-serif}}:root{--maxWidth-none:"none";--maxWidth-xs:20rem;--maxWidth-sm:24rem;--maxWidth-md:28rem;--maxWidth-lg:32rem;--maxWidth-xl:36rem;--maxWidth-2xl:42rem;--maxWidth-3xl:48rem;--maxWidth-4xl:56rem;--maxWidth-full:"100%";--maxWidth-wrapper:var(--maxWidth-2xl);--spacing-px:1px;--spacing-2px:2px;--spacing-3px:3px;--spacing-0:0;--spacing-1:0.25rem;--spacing-2:0.5rem;--spacing-3:0.75rem;--spacing-4:1rem;--spacing-5:1.25rem;--spacing-6:1.5rem;--spacing-8:2rem;--spacing-10:2.5rem;--spacing-12:3rem;--spacing-16:4rem;--spacing-20:5rem;--spacing-24:6rem;--spacing-32:8rem;--fontFamily-sans:"Inter var","Futura",Verdana,Helvetica;--fontFamily-serif:"Inter var","Futura",Verdana,Helvetica;--font-body:var(--fontFamily-serif);--font-heading:var(--fontFamily-sans);--fontWeight-normal:400;--fontWeight-semi-normal:500;--fontWeight-bold:700;--fontWeight-black:900;--fontSize-root:16px;--lineHeight-none:1;--lineHeight-tight:1.1;--lineHeight-normal:1.5;--lineHeight-relaxed:1.625;--fontSize-0:0.833rem;--fontSize-1:1rem;--fontSize-2:1.2rem;--fontSize-3:1.44rem;--fontSize-4:1.728rem;--fontSize-5:2.074rem;--fontSize-6:2.488rem;--fontSize-7:2.986rem;--color-dark:#0e1013;--color-light:#fff;--color-primary-accent:#f74a1f;--color-secondary-accent:#41434c;--color-tertiary-accent:#99cbd7;--color-background:#efe8d8}*,:after,:before{box-sizing:border-box}::selection{background:var(--color-tertiary-accent)}::-moz-selection{background:var(--color-tertiary-accent)}html{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-size:var(--fontSize-root);line-height:var(--lineHeight-normal)}body{background-color:var(--color-background);color:var(--color-dark);font-family:var(--font-body);font-size:var(--fontSize-1);font-weight:var(--fontWeight-semi-normal)}footer{padding:var(--spacing-0) var(--spacing-0)}hr{border:1px var(--color-dark);border-style:none none dashed;margin-top:var(--spacing-1)}h1,h2,h3,h4,h5,h6{font-family:var(--font-heading);letter-spacing:-.025em;line-height:var(--lineHeight-tight);margin-bottom:var(--spacing-6);margin-top:var(--spacing-12)}h2,h3,h4,h5,h6{font-weight:var(--fontWeight-bold)}h1,h2,h3,h4,h5,h6{color:var(--color-dark)}h1{font-size:var(--fontSize-6);font-weight:var(--fontWeight-black)}h2{font-size:var(--fontSize-5)}h3{font-size:var(--fontSize-4)}h4{font-size:var(--fontSize-3)}h5{font-size:var(--fontSize-2)}h6{font-size:var(--fontSize-1)}h1>a,h2>a,h3>a,h4>a,h5>a,h6>a{color:inherit;text-decoration:none}p{--baseline-multiplier:0.179;--x-height-multiplier:0.35;line-height:var(--lineHeight-relaxed);margin:var(--spacing-0) var(--spacing-0) var(--spacing-8) var(--spacing-0)}ol,p,ul{padding:var(--spacing-0)}ol,ul{list-style-image:none;list-style-position:inside;margin-bottom:var(--spacing-8);margin-left:var(--spacing-0);margin-right:var(--spacing-0)}ol li,ul li{padding-left:var(--spacing-0)}li>p,ol li,ul li{margin-bottom:calc(var(--spacing-8)/2)}li :last-child{margin-bottom:var(--spacing-0)}li>ul{margin-left:var(--spacing-8);margin-top:calc(var(--spacing-8)/2)}blockquote{border-left:var(--spacing-1) solid var(--color-primary-accent);color:var(--color-secondary-accent);font-size:var(--fontSize-2);font-style:italic;margin-bottom:var(--spacing-8);margin-left:calc(var(--spacing-6)*-1);margin-right:var(--spacing-8);padding:var(--spacing-0) var(--spacing-0) var(--spacing-0) var(--spacing-6)}blockquote>:last-child{margin-bottom:var(--spacing-0)}blockquote>ol,blockquote>ul{list-style-position:inside}table{border-spacing:var(--spacing-1);width:100%}table,td,th{border:1px solid;margin-bottom:var(--spacing-8);text-align:left}td,th{padding:var(--spacing-2)}td:first-child{font-weight:var(--fontWeight-bold)}a{color:var(--color-primary-accent);text-decoration:none}a:active,a:focus,a:hover{background-color:var(--color-dark);border-bottom:var(--spacing-1) solid var(--color-primary-accent);color:var(--color-light);text-decoration:none}.global-wrapper{margin:var(--spacing-0) auto;max-width:var(--maxWidth-wrapper);padding:var(--spacing-10) var(--spacing-5)}.global-wrapper[data-is-root-path=true] .bio{margin-bottom:var(--spacing-20)}.global-header,.main-heading{margin-bottom:var(--spacing-12)}.main-heading{font-size:var(--fontSize-7)}.post-list-item{margin-bottom:var(--spacing-8);margin-top:var(--spacing-8)}.post-list-item p{margin-bottom:var(--spacing-0)}.post-list-item h2{color:var(--color-primary-accent);font-size:var(--fontSize-4);margin-bottom:var(--spacing-2);margin-top:var(--spacing-0)}.post-list-item header{margin-bottom:var(--spacing-4)}.nav-link{display:inline-block;font-weight:var(--fontWeight-black);margin-right:var(--spacing-3);position:relative}.nav-link,.post-link{border-bottom:var(--spacing-1) solid transparent;color:var(--color-primary-accent);font-size:var(--fontSize-1);margin-top:var(--spacing-1);text-decoration:none}.post-link{font-weight:var(--fontWeight-semi-normal)}.nav-link:hover,.post-link:hover{background-color:var(--color-dark);border-bottom:var(--spacing-1) solid var(--color-primary-accent)}.newsletter-container{margin-top:var(--spacing-8)}.newsletter-link{background:var(--color-primary-accent);box-shadow:6px 6px 0 0 var(--color-dark);color:var(--color-light);transition-duration:.4s}.newsletter-container:hover .newsletter-link,.newsletter-link{border:solid var(--color-dark) var(--spacing-1);border-radius:var(--spacing-1);font-weight:var(--fontWeight-black);margin-top:var(--spacing-12);padding:var(--spacing-3);text-decoration:none}.newsletter-container:hover .newsletter-link{background:var(--color-light);color:var(--color-dark)}.bio{margin-bottom:var(--spacing-12)}.bio p{font-size:var(--fontSize-2)}.bio p,.bio-avatar{margin-bottom:var(--spacing-0)}.bio-avatar{border:var(--spacing-px) solid var(--color-dark);border-radius:100%;box-shadow:0 0 .1rem .1rem var(--color-secondary-accent);margin-right:var(--spacing-4);min-width:32px}.bio-avatar-link:hover{background-color:transparent;border:none}.bio-avatar:hover{border:var(--spacing-3px) solid var(--color-dark);box-shadow:none;padding:var(--spacing-px)}.gallery-image{max-width:100%;min-width:100%}.about-image,.gallery-image{border-radius:var(--spacing-1);box-shadow:0 0 .15rem .15rem var(--color-secondary-accent);margin-bottom:var(--spacing-6)}.about-image{display:block;height:300px;width:250px}.about-image picture img,.gallery-image picture img{padding:var(--spacing-4)}.blog-post header h1{margin:var(--spacing-0) var(--spacing-0) var(--spacing-4) var(--spacing-0)}.blog-post header p{font-family:var(--font-heading);font-size:var(--fontSize-2)}.gatsby-highlight{margin-bottom:var(--spacing-8)}@media (max-width:42rem){blockquote{margin-left:var(--spacing-0);padding:var(--spacing-0) var(--spacing-0) var(--spacing-0) var(--spacing-4)}ol,ul{list-style-position:inside}.gallery-image{height:auto;max-height:100%;max-width:100%;width:auto}}code[class*=language-],pre[class*=language-]{word-wrap:normal;background:none;color:#000;font-family:Consolas,Monaco,Andale Mono,Ubuntu Mono,monospace;font-size:1em;-webkit-hyphens:none;hyphens:none;line-height:1.5;tab-size:4;text-align:left;text-shadow:0 1px #fff;white-space:pre;word-break:normal;word-spacing:normal}code[class*=language-] ::selection,code[class*=language-]::selection,pre[class*=language-] ::selection,pre[class*=language-]::selection{background:#b3d4fc;text-shadow:none}@media print{code[class*=language-],pre[class*=language-]{text-shadow:none}}pre[class*=language-]{margin:.5em 0;overflow:auto;padding:1em}:not(pre)>code[class*=language-],pre[class*=language-]{background:#f5f2f0}:not(pre)>code[class*=language-]{border-radius:.3em;padding:.1em;white-space:normal}.token.cdata,.token.comment,.token.doctype,.token.prolog{color:#708090}.token.punctuation{color:#999}.token.namespace{opacity:.7}.token.boolean,.token.constant,.token.deleted,.token.number,.token.property,.token.symbol,.token.tag{color:#905}.token.attr-name,.token.builtin,.token.char,.token.inserted,.token.selector,.token.string{color:#690}.language-css .token.string,.style .token.string,.token.entity,.token.operator,.token.url{background:hsla(0,0%,100%,.5);color:#9a6e3a}.token.atrule,.token.attr-value,.token.keyword{color:#07a}.token.class-name,.token.function{color:#dd4a68}.token.important,.token.regex,.token.variable{color:#e90}.token.bold,.token.important{font-weight:700}.token.italic{font-style:italic}.token.entity{cursor:help}</style><style>.gatsby-image-wrapper{position:relative;overflow:hidden}.gatsby-image-wrapper picture.object-fit-polyfill{position:static!important}.gatsby-image-wrapper img{bottom:0;height:100%;left:0;margin:0;max-width:none;padding:0;position:absolute;right:0;top:0;width:100%;object-fit:cover}.gatsby-image-wrapper [data-main-image]{opacity:0;transform:translateZ(0);transition:opacity .25s linear;will-change:opacity}.gatsby-image-wrapper-constrained{display:inline-block;vertical-align:top}</style><noscript><style>.gatsby-image-wrapper noscript [data-main-image]{opacity:1!important}.gatsby-image-wrapper [data-placeholder-image]{opacity:0!important}</style></noscript><script type="module">const e="undefined"!=typeof HTMLImageElement&&"loading"in HTMLImageElement.prototype;e&&document.body.addEventListener("load",(function(e){const t=e.target;if(void 0===t.dataset.mainImage)return;if(void 0===t.dataset.gatsbyImageSsr)return;let a=null,n=t;for(;null===a&&n;)void 0!==n.parentNode.dataset.gatsbyImageWrapper&&(a=n.parentNode),n=n.parentNode;const o=a.querySelector("[data-placeholder-image]"),r=new Image;r.src=t.currentSrc,r.decode().catch((()=>{})).then((()=>{t.style.opacity=1,o&&(o.style.opacity=0,o.style.transition="opacity 500ms linear")}))}),!0);</script><link rel="icon" href="/favicon-32x32.png?v=295f5271e5596ccd4ccdec1a8cbe8de6" type="image/png"/><link rel="manifest" href="/manifest.webmanifest" crossorigin="anonymous"/><link rel="apple-touch-icon" sizes="48x48" href="/icons/icon-48x48.png?v=295f5271e5596ccd4ccdec1a8cbe8de6"/><link rel="apple-touch-icon" sizes="72x72" href="/icons/icon-72x72.png?v=295f5271e5596ccd4ccdec1a8cbe8de6"/><link rel="apple-touch-icon" sizes="96x96" href="/icons/icon-96x96.png?v=295f5271e5596ccd4ccdec1a8cbe8de6"/><link rel="apple-touch-icon" sizes="144x144" href="/icons/icon-144x144.png?v=295f5271e5596ccd4ccdec1a8cbe8de6"/><link rel="apple-touch-icon" sizes="192x192" href="/icons/icon-192x192.png?v=295f5271e5596ccd4ccdec1a8cbe8de6"/><link rel="apple-touch-icon" sizes="256x256" href="/icons/icon-256x256.png?v=295f5271e5596ccd4ccdec1a8cbe8de6"/><link rel="apple-touch-icon" sizes="384x384" href="/icons/icon-384x384.png?v=295f5271e5596ccd4ccdec1a8cbe8de6"/><link rel="apple-touch-icon" sizes="512x512" href="/icons/icon-512x512.png?v=295f5271e5596ccd4ccdec1a8cbe8de6"/><link rel="preconnect" href="https://www.googletagmanager.com"/><link rel="dns-prefetch" href="https://www.googletagmanager.com"/><style data-styled="" data-styled-version="5.3.11"></style><link rel="alternate" type="application/rss+xml" title="Mihirchronicles RSS Feed" href="/rss.xml"/><title data-gatsby-head="true">On Programming | The Mihir Chronicles</title></head><body><div id="___gatsby"><div style="outline:none" tabindex="-1" id="gatsby-focus-wrapper"><div class="global-wrapper" data-is-root-path="false"><a class="bio-avatar-link" href="/"><img src="/static/mehere-1c10259b2b25a3b5db518539891972a1.png" class="bio-avatar" layout="fixed" formats="auto,webp,avif" width="32" height="32" quality="95" alt="The Mihir Chronicles"/></a><header class="global-header"><div><a class="nav-link" href="/notes/">Notes</a><a class="nav-link" href="/bookshelf/">Books</a><a class="nav-link" href="/essays/">Essays</a><a class="nav-link" href="/work/">Work</a><a class="nav-link" href="/art/">Art</a><a class="nav-link" href="/about/">Me</a></div></header><main><article class="blog-post" itemscope="" itemType="http://schema.org/Article"><header><h1 itemProp="headline">On Programming</h1><p>July 06, 2017</p><hr/></header><section itemProp="articleBody"><h2>Notes</h2>
+<h3>CSS</h3>
+<details>
+  <summary>BEM</summary>
+<p>BEM is a methodology used for modular CSS classes. A robust CSS architecture can help navigate large codebase. <code class="language-text">Block</code>, <code class="language-text">Element</code> and <code class="language-text">Modifier</code>. A <code class="language-text">Block</code> is a component or feature than can stand alone and is not dependent on any other code. It can be re-used anywhere. Next, an <code class="language-text">Element</code>. This is always part of a <code class="language-text">Block</code> and has no meaning on its own. Lastly, there is the <code class="language-text">Modifier</code>. This changes the behavior and/or an appearance of a <code class="language-text">Block</code> or <code class="language-text">Element</code>.</p>
+<p>Example:</p>
+<p><strong><code class="language-text">.button</code></strong> is a block.</p>
+<p><strong><code class="language-text">.button__label</code></strong> is an element.</p>
+<p><strong><code class="language-text">.button--confirm</code></strong> is a modifier.</p>
+<p>See resources <a href="http://getbem.com/introduction/">here</a> and <a href="https://zellwk.com/blog/css-architecture-1/">here</a>.</p>
+</details>
+<details>
+  <summary>Psuedo Selectors</summary>
+<p><code class="language-text">::before</code> (<code class="language-text">:before</code>) and <code class="language-text">::after</code> (<code class="language-text">:after</code>) are pseudo elements, which are different from pseudo classes. Both of these are grouped under pseudo selectors. I like this quote from MDN ~</p>
+<blockquote>
+<p>Even the most skilled web developers are still amazed by what's possible using selectors.</p>
+</blockquote>
+<p>Pseudo selectors are only two types of selectors. The others are: simple selectors, attribute selectors, multiple selectors and combinators. All of these help us to target and style HTML elements. So, pseudo selectors include both pseudo elements and pseudo classes. They are added to the end of other selectors, and don't apply to whole elements, only parts of them.</p>
+<p>The pseudo classes (e.g. <code class="language-text">:hover</code>, <code class="language-text">:focus</code>, and <code class="language-text">:nth-of-type()</code> - plus 38 others) style elements in a <em>certain state</em>.</p>
+<p>The pseudo elements (e.g. <code class="language-text">::after</code>, <code class="language-text">::before</code>, and <code class="language-text">::first-letter</code> - plus 3 others, not including experimental ones) apparently need <code class="language-text">::</code> rather than <code class="language-text">:</code>. These don't depend on the state of an element.</p>
+<ul>
+<li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Pseudo-classes_and_pseudo-elements">MDN</a> page has great examples and learning playground to learn the topic.</li>
+<li><a href="https://codepen.io/pehaa/pen/ROapJZ">https://codepen.io/pehaa/pen/ROapJZ</a></li>
+</ul>
+</details>
+<details>
+  <summary>Using CSS methodologies for maintainability</summary>
+<ul>
+<li><strong>OOCSS</strong>: a methodology organized around two main principles. The first principle is separate structure and skin. This means the CSS to define the structure (like layout) shouldn’t be mixed together with the CSS to define the skin (like colors, fonts, etc.). This makes it easier to “re-skin” an application. The second principle is separate container and content. This means think of elements as re-usable objects, with the key idea being that an object should look the same regardless of where it is on the page. <a href="https://github.com/stubbornella/oocss/wiki">https://github.com/stubbornella/oocss/wiki</a></li>
+</ul>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">- **SMACSS**: base rules, layout rules, modules, state rules, and theme rules. The SMACSS methodology also recommends some naming conventions.
+- **BEM**: a methodology organized around the idea of dividing the user interface into independent blocks. A block is a re-usable component (an example would be a search form, defined as `&lt;form class="search-form">&lt;/form>`). An element is a smaller part of a block that can’t be re-used on its own (an example would be a button within the search form, defined as `&lt;button class="search-form__button">Search&lt;/button>`). A modifier is an entity that defines the appearance, state, or behavior of a block or element (an example would be a disabled search form button, defined as `&lt;button class="search-form__button search-form__button--disabled">Search&lt;/button>`). The BEM methodology is simple to understand, with a specific naming convention that allows newcomers to apply it without having to make complex decisions. The downside for some is that the class names can be quite verbose, and don’t follow traditional rules for writing semantic class names. Later approaches like Atomic CSS would take this untraditional approach to a whole other level!
+- **Atomic CSS (aka Functional CSS)**: a methodology organized around the idea of creating small, single-purpose classes with names based on visual function. This approach is in complete opposition with OOCSS, SMACSS, and BEM — instead of treating elements on the page as re-usable objects, Atomic CSS ignores these objects altogether and uses re-usable single purpose utility classes to style each element. So instead of something like `&lt;button class="search-form__button">Search&lt;/button>`, you would have something like `&lt;button class="f6 br3 ph3 pv2 white bg-purple hover-bg-light-purple">Search&lt;/button>`. Many people saw this methodology as a complete violation of established CSS best practices. Further read: [https://adamwathan.me/css-utility-classes-and-separation-of-concerns/](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/).
+- **CSS in JS**: a methodology organized around defining CSS styles not in a separate style sheet, but directly in each component itself. It was introduced as an approach for the React JavaScript framework (which already took the controversial approach of defining the HTML for a component directly in JavaScript instead of a separate HTML file). Originally the methodology used inline styles, but later implementations used JavaScript to generate CSS (with unique class names based on the component) and insert it into the document with a style tag. The CSS in JS methodology once again goes completely against established CSS best practices of separation of concerns.</code></pre></div>
+</details>
+<details>
+  <summary>Float</summary>
+<p>The three columns are not equal in height, and the page doesn’t fill the height of the screen. These issues are inherent with a float-based approach. All a float can do is place content to the left or right of a section — the CSS has no way to infer the heights of the content in the other sections. This problem had no straightforward solution until many years later, with a flexbox-based layout.</p>
+</details>
+<details>
+  <summary>Flex</summary>
+<ul>
+<li><a href="https://github.com/philipwalton/solved-by-flexbox">Solved By Flexbox</a>.</li>
+<li>Flexbox eliminates a lot of the float hacks, but the code isn’t as expressive as it could be for defining layout. It’s hard to read the flexbox CSS and get a visual understanding how all of the elements will be laid out on the page. This leads to a lot of guessing and checking when writing flexbox-based layouts.</li>
+</ul>
+</details>
+<details>
+  <summary>Css Grid</summary>
+<ul>
+<li><a href="https://css-tricks.com/snippets/css/complete-guide-grid/">Complete Guide Grid</a></li>
+</ul>
+</details>
+<details>
+  <summary>Pseudoelements</summary>
+<ul>
+<li><a href="https://www.smashingmagazine.com/2011/07/learning-to-use-the-before-and-after-pseudo-elements-in-css/">Pseudo Elements In Css</a>. <code class="language-text">::before</code> and <code class="language-text">::after</code>, many of the uses involve graphics but no actual word content. You must set both the <code class="language-text">content:"";</code> property and if your content is empty the <code class="language-text">display:inline-block</code> property or the psuedoelement will not show up.</li>
+</ul>
+</details>
+<details>
+  <summary>CSS preprocessors</summary>
+<ul>
+<li>A tooling that was created to help improve the experience of working with CSS as a language itself, starting with CSS preprocessors. A CSS preprocessor allows you to write styles using a different language which gets converted into CSS that the browser can understand. For ex: SASS helps with variables, helper functions, and calculations. Another one is LESS, the key difference from SASS is the syntax, which was designed to be as close to CSS as possible. Less is also written in JS using Node.js. Another alternative CSS preprocessor is Stylus. To use Sass, you need to install Ruby, the programming language used to compile Sass code to regular CSS. Then you would need to install the Sass gem, then run a command in the command line to convert your .sass files into .css files. <code class="language-text">sass --watch index.sass index.css</code>  or <code class="language-text">lessc index.less index.css</code></li>
+</ul>
+</details>
+<details>
+  <summary>CSS postprocessors</summary>
+<ul>
+<li>A CSS postprocessor uses JavaScript to analyze and transform your CSS into valid CSS. In this sense it’s pretty similar to a CSS preprocessor — you can think of it as a different approach to solving the same problem. The key difference is that while a CSS preprocessor uses special syntax to identify what needs to be transformed, a CSS postprocessor can parse regular CSS and transform it without any special syntax required.</li>
+</ul>
+</details>
+<h3>Javascript</h3>
+<details>
+  <summary>Arrow</summary>
+<p>Also known as a fat arrow, <code class="language-text">=></code>.</p>
+<div class="gatsby-highlight" data-language="jsx"><pre class="language-jsx"><code class="language-jsx"><span class="token keyword">var</span> elements <span class="token operator">=</span> <span class="token punctuation">[</span>
+<span class="token string">'Hydrogen'</span><span class="token punctuation">,</span>
+<span class="token string">'Helium'</span><span class="token punctuation">,</span>
+<span class="token string">'Lithium'</span><span class="token punctuation">,</span>
+<span class="token string">'Beryllium'</span>
+<span class="token punctuation">]</span><span class="token punctuation">;</span>
+
+<span class="token punctuation">(</span>elements<span class="token punctuation">.</span><span class="token function">map</span><span class="token punctuation">(</span><span class="token keyword">function</span><span class="token punctuation">(</span><span class="token parameter">element</span><span class="token punctuation">)</span> <span class="token punctuation">{</span><span class="token keyword">return</span> element<span class="token punctuation">.</span>length<span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+<span class="token punctuation">(</span>elements<span class="token punctuation">.</span><span class="token function">map</span><span class="token punctuation">(</span><span class="token parameter">element</span> <span class="token operator">=></span> <span class="token punctuation">{</span><span class="token keyword">return</span> element<span class="token punctuation">.</span>length<span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+<span class="token punctuation">(</span>elements<span class="token punctuation">.</span><span class="token function">map</span><span class="token punctuation">(</span><span class="token parameter">element</span> <span class="token operator">=></span> element<span class="token punctuation">.</span>length<span class="token punctuation">)</span><span class="token punctuation">)</span>
+<span class="token punctuation">(</span>elements<span class="token punctuation">.</span><span class="token function">map</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token parameter"><span class="token punctuation">{</span>length<span class="token punctuation">}</span></span><span class="token punctuation">)</span> <span class="token operator">=></span> length<span class="token punctuation">)</span><span class="token punctuation">)</span></code></pre></div>
+<p>The first function in the list is written without fat arrows. The last three functions are variations of the first function, showing how fat arrows can be used to write shorter function expressions, and therefore less code. You will need a code compiler like <a href="https://babeljs.io/">Babel</a> to compile fat arrows into ES5 syntax so older browsers can use ES6 JavaScript.</p>
+<p>There are a <em>lot</em> of resources that try explaining this syntax. Wes Bos's <a href="https://wesbos.com/arrow-functions/">introduction</a> or <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions">MDN</a> are great resources to get started.</p>
+</details>
+<details>
+  <summary>Strings</summary>
+<p>This list is meant as a quick and basic introduction to JavaScript strings.</p>
+<ul>
+<li>A sequence containing some letters, numbers or symbols.</li>
+<li>Have available methods and properties.</li>
+<li>Can be stored in variables.</li>
+<li>Sit between either single quotes (<code class="language-text">' '</code>), double quotes (<code class="language-text">" "</code>), or backticks ( <code class="language-text"> </code>).</li>
+<li>Can be concatenated (stuck together) with the <code class="language-text">+</code> operator, or with backticks (template strings) in ES6.</li>
+<li>Template strings, or template literals, can take any valid JavaScript expression, allowing dynamic strings.</li>
+<li>Can contain special characters, such as quotation marks, as long as they are escaped - e.g. <code class="language-text">"She'\ll be coming '\round the mountain when she comes"</code>.</li>
+<li>There's no need to escape dissimilar quote marks. For example: "This 'is' fine". This is probably why we tend to favour double quotes in HTML attribute values, and singles in JS (since it allows you to create some innerHTML without the need for escaping).</li>
+<li>When using template literals, you don't need to escape <code class="language-text">'</code> or <code class="language-text">"</code> ... and <code class="language-text">this` `"is"` `'also'` `fine</code></li>
+<li>Is either a <em>string primitive</em> - immutable and more common, e.g. <code class="language-text">const stringPrimitive = "Hello, I am a string.";</code> .</li>
+<li>Or a <em>string object</em> - <code class="language-text">const stringObject = new String("Hello, I am a string.");</code></li>
+<li>The <code class="language-text">typeof</code> operator is used to determine if a string's type is <em>string</em> or <em>object</em>.</li>
+<li>Each character is indexed and can be accessed by an index number using square bracket notation (e.g. "Hello World" - <code class="language-text">myString[0]</code> outputs "H").</li>
+<li>Similar methods to the one above include: <code class="language-text">charAt()</code>, <code class="language-text">indexOf()</code>, <code class="language-text">lastIndexOf()</code>, <code class="language-text">slice()</code>.</li>
+<li>Other common methods and properties are: <code class="language-text">length</code>, <code class="language-text">toUpperCase()</code>, <code class="language-text">toLowerCase()</code>, <code class="language-text">split()</code>, <code class="language-text">trim()</code>, <code class="language-text">replace()</code>.</li>
+<li>Use <a href="https://www.the-art-of-web.com/javascript/escape/">Escape Tool</a> if you run into escape character issues.</li>
+</ul>
+<p>Many thanks to my good friend <a href="https://twitter.com/qubyte">Mark</a> for suggesting additions :)</p>
+</details>
+<details>
+  <summary>Ternary Operators</summary>
+<p>It can replace more verbose syntax (like <code class="language-text">if</code> statements). It looks something like this:</p>
+<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js"><span class="token keyword">const</span> hoursOfSleep <span class="token operator">=</span> <span class="token number">5</span><span class="token punctuation">;</span>
+<span class="token keyword">const</span> timeForSleep <span class="token operator">=</span> <span class="token punctuation">(</span>hoursOfSleep <span class="token operator">&lt;</span> <span class="token number">8</span><span class="token punctuation">)</span> <span class="token operator">?</span> 
+    <span class="token string-property property">"Yup, no more phone for you"</span> <span class="token operator">:</span> 
+    <span class="token string">"Ah nah, a few more minutes of phone time won't hurt"</span><span class="token punctuation">;</span> </code></pre></div>
+<p>Notice the <strong>?</strong> and the <strong>:</strong> These are the important parts. If the condition (in this case <code class="language-text">hoursOfSleep</code>) in front of the question mark evaluates to true, the value of the first expression before the colon is returned. If the condition in front of the question mark evaluates to false, the value of the second expression after the colon is returned. As you can see, if you have had less than 8 hours of sleep, you shouldn't be using your phone. Ternary operators are really flexible and can be used in a number of ways. You can stack them together:</p>
+<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js"><span class="token keyword">const</span> catsRule <span class="token operator">=</span> <span class="token boolean">true</span><span class="token punctuation">,</span>
+<span class="token keyword">const</span> dogsDrool <span class="token operator">=</span> <span class="token boolean">false</span><span class="token punctuation">,</span>
+<span class="token keyword">const</span> catDog <span class="token operator">=</span> catsRule <span class="token operator">?</span> 
+    <span class="token punctuation">(</span>dogsDrool <span class="token operator">?</span> <span class="token string">"Let's all live in harmony"</span><span class="token operator">:</span> <span class="token string">"Both cats and dogs drool"</span><span class="token punctuation">)</span> <span class="token operator">:</span>
+    <span class="token punctuation">(</span>dogsDrool <span class="token operator">?</span> <span class="token string">"Dogs are cool, nearly as cool as cats"</span> <span class="token operator">:</span> <span class="token string">"Dogs and cats can be friends"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token comment">// Output: `"Both cats and dogs drool"`</span></code></pre></div>
+<p>You don't even need to use the parentheses, and can also use multiple statements separated by commas. You can return statements in functions. You can use them in place of bulky <code class="language-text">if/else</code> statements with much nicer-to-read code. The question mark means <code class="language-text">if</code> and the colon means <code class="language-text">else</code>. Check out the <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator">MDN</a> and <a href="https://scotch.io/tutorials/understand-the-javascript-ternary-operator-like-abc">this post</a>.</p>
+</details>
+<details>
+  <summary>Types</summary>
+<p>JavaScript has six primitive types. These all have default values and can be checked for using the <code class="language-text">typeof</code> operator.</p>
+<p>Default values:</p>
+<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js"><span class="token string">'boolean'</span> <span class="token operator">-</span> <span class="token boolean">false</span>
+<span class="token string">'null'</span> <span class="token operator">-</span> <span class="token keyword">null</span>
+<span class="token string">'number'</span> <span class="token operator">-</span> <span class="token number">0</span>
+<span class="token string">'string'</span> <span class="token operator">-</span> <span class="token string">''</span>
+<span class="token string">'undefined'</span> <span class="token operator">-</span> <span class="token keyword">void</span> <span class="token number">0</span>
+<span class="token string">'symbol'</span> <span class="token operator">-</span> <span class="token function">Symbol</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token comment">// new in ES6</span></code></pre></div>
+<p>Checking the type of primitive:</p>
+<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js"><span class="token keyword">if</span> <span class="token punctuation">(</span><span class="token keyword">typeof</span> myPrimitive <span class="token operator">!==</span> <span class="token string">'number'</span><span class="token punctuation">)</span>
+  <span class="token keyword">throw</span> <span class="token keyword">new</span> <span class="token class-name">TypeError</span><span class="token punctuation">(</span><span class="token string">'Type must be a number!'</span><span class="token punctuation">)</span></code></pre></div>
+</details>
+<details>
+  <summary>Event Loops</summary>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=8aGhZQkoFbQ">https://www.youtube.com/watch?v=8aGhZQkoFbQ</a></li>
+<li><a href="http://latentflip.com/loupe/">http://latentflip.com/loupe/</a></li>
+<li>Transcript: <a href="https://2014.jsconf.eu/speakers/philip-roberts-what-the-heck-is-the-event-loop-anyway.html">https://2014.jsconf.eu/speakers/philip-roberts-what-the-heck-is-the-event-loop-anyway.html</a></li>
+<li>JS is a single threaded programing language runtime. One code piece at a time. It has a single call stack.</li>
+<li>I'm a single threaded on blocking asynchronous concurrently glitch</li>
+<li>V8 is a heap and stack</li>
+<li>JavaScript programmers like to use words like, “event-loop”, “non-blocking”, “callback”, “asynchronous”, “single-threaded” and “concurrency”.</li>
+<li>We can do things concurrently in browser because a browser is more than a run-time. It has APIs. You call Web APIs. In node, you have C++ multi-thread.</li>
+<li>API does not live in V8 engine. It is part of XHR().</li>
+<li><a href="https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf">How Does Javascript actually work?</a></li>
+<li>The Engine consists of two main components:* Memory Heap — this is where the memory allocation happens* Call Stack — this is where your stack frames are as your code executes</li>
+<li>JavaScript is a single-threaded programming language, which means it has a single Call Stack. Therefore it can do one thing at a time.</li>
+<li>The Call Stack is a data structure which records basically where in the program we are. If we step into a function, we put it on the top of the stack. If we return from a function, we pop off the top of the stack. That’s all the stack can do.</li>
+</ul>
+</details>
+<details>
+  <summary>Syntax Parsers</summary>
+<p>A program that reads your code and determines what it does and if its grammar is valid. Compiler or interpreter needs to transfer the code to the computer.</p>
+</details>
+<details>
+  <summary>Lexical Environment</summary>
+<p>Where something sits physically in code you write. For example: a variable sits lexically inside a function.</p>
+</details>
+<details>
+  <summary>Name/Value Pairs</summary>
+<p>A name which maps to a unique value. For ex: Address = “100 Main St.”</p>
+</details>
+<details>
+  <summary>Object</summary>
+<p>It is a collection of name value pairs.</p>
+</details>
+<details>
+  <summary>The Execution Context</summary>
+<p>A wrapper to help manage the code that is running. There are lots of lexical environments. Which one is currently running? A base execution context is global. It creates two things for you: Global Object and “this.”</p>
+</details>
+<details>
+  <summary>Hoisting</summary>
+<p>Function and variables are hoisted to the top, but JS engine is not moving the code physically. It is just run line by line.</p>
+</details>
+<details>
+  <summary>Creation Phase</summary>
+<ul>
+<li>Execution context is created - Global Object, “this”</li>
+<li>Outer Env - Setup memory space for variables and Functions</li>
+<li>“Hoisting” - Hoisting: Variables setup (set equal to undefined)</li>
+<li>Functions setup - All variables in JS are set to undefined initially.</li>
+<li>Not defined != undefined: <code class="language-text">undefined</code> is a special keyword in JS. It takes up memory space. If not declared, you will get <code class="language-text">Uncaught Reference error: x is not defined</code>.</li>
+<li>Never set a variable to <code class="language-text">undefined</code>. If you define it then it is hard to debug whether you undefined or the JS engine undefined.</li>
+</ul>
+</details>
+<details>
+  <summary>Code Execution Phase</summary>
+<p>Executes line by line</p>
+<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js"><span class="token keyword">function</span> <span class="token function">b</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">'Called b!'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+<span class="token function">b</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>a<span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token keyword">var</span> a <span class="token operator">=</span> <span class="token string">"Hello World"</span><span class="token punctuation">;</span>
+console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>a<span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+<span class="token comment">// Called b!</span>
+<span class="token comment">// undefined</span>
+<span class="token comment">// Hello World</span></code></pre></div>
+</details>
+<details>
+  <summary>Single Threaded & Synchronous</summary>
+<ul>
+<li>Single Threaded: One command at a time. Javascript behaves in a single threaded manner.</li>
+<li>Synchronous: One at a time and in order. JS is a single threaded synchronous language.</li>
+<li>JavaScript is single-threaded or that it is using a callback queue, which means it has a single Call Stack. Therefore it can do one thing at a time.</li>
+</ul>
+</details>
+<details>
+  <summary>Invocation</summary>
+<p>Running a function by using parenthesis(). You tell JS engine to run the function. For ex:</p>
+<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js"><span class="token keyword">function</span> <span class="token function">b</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+<span class="token punctuation">}</span>
+<span class="token keyword">function</span> <span class="token function">a</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token function">b</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+<span class="token function">a</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span></code></pre></div>
+<ol>
+<li>Global Execution Context (create and code is executed): <code class="language-text">window</code> object</li>
+<li>A new execution context stack is created for <code class="language-text">a()</code></li>
+<li>Another execution context is created for <code class="language-text">b()</code>(create and execute). At the top of the stack. Then <code class="language-text">a()</code> gets executed then global.</li>
+<li>Runs code line by line and each invocation goes in execution context stack. Once the code is executed, it is popped off from a stack. Everytime a function is called, a new execution context is created and popped off after the code is finished.</li>
+</ol>
+</details>
+<details>
+  <summary>Variable Environments</summary>
+<p>Where the variables live and how they relate to each other in memory.</p>
+<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js"><span class="token keyword">function</span> <span class="token function">b</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token keyword">var</span> myVar<span class="token punctuation">;</span>
+    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>myVar<span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+
+<span class="token keyword">function</span> <span class="token function">a</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token keyword">var</span> myVar <span class="token operator">=</span><span class="token number">2</span><span class="token punctuation">;</span>
+    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>myVar<span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token function">b</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+
+<span class="token keyword">var</span> myVar <span class="token operator">=</span> <span class="token number">1</span><span class="token punctuation">;</span>
+console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>myVar<span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token function">a</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>myVar<span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">//global execution context</span>
+
+<span class="token comment">// 1</span>
+<span class="token comment">// 2</span>
+<span class="token comment">// undefined</span>
+<span class="token comment">// 1</span></code></pre></div>
+<ol>
+<li>Global Execution Context (created and code is executed). myVar gets memory allocation for the value of 1.</li>
+<li>Execution Context is created for <code class="language-text">a()</code>. myVar gets the value of 2. Note, every execution context has its own variable environment.</li>
+<li>Execution Context is created for <code class="language-text">b()</code>. myVar gets the value of <code class="language-text">undefined</code>. It is not set to a value so the memory will allocate <code class="language-text">undefined</code>.</li>
+<li>Even if <code class="language-text">myVar</code> is defined 3 times, they are all unique and have their own values.</li>
+</ol>
+</details>
+<details>
+  <summary>The Scope Chain</summary>
+<p>Inherits the value from an outer environment. Every execution context has access to its outer environment (global). Lexical Environment: where does the function sit. It does not matter where these functions sit but how it gets executed. If it cannot find reference within its execution context, it will find reference value from its outside environment down the global chain. Finding and accessing outer environment is called a scope chain.</p>
+<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js"><span class="token keyword">function</span> <span class="token function">a</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token keyword">function</span> <span class="token function">b</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token punctuation">}</span>
+
+    <span class="token keyword">var</span> myVar <span class="token operator">=</span> <span class="token number">2</span><span class="token punctuation">;</span>
+    <span class="token function">b</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+
+<span class="token keyword">var</span> myVar <span class="token operator">=</span> <span class="token number">1</span><span class="token punctuation">;</span>
+<span class="token function">a</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// 2 </span>
+<span class="token function">b</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// Uncaught Reference: b is not defined</span></code></pre></div>
+<ul>
+<li><code class="language-text">function b()</code> above sits inside <code class="language-text">function a()</code> . Lexical environment of <code class="language-text">b()</code> has now changed. <code class="language-text">a()</code> is lexically visible but not <code class="language-text">b()</code>.</li>
+<li><code class="language-text">a()</code> outputs 2. Since b is sitting physically inside <code class="language-text">a()</code>, it went to its environment, otherwise it will go up to its scope chain. The best way to think about it is where is the variable environment sitting lexically.</li>
+</ul>
+</details>
+<details>
+  <summary>Scope</summary>
+<p>where a variable is available in your code. And it it's truly the same variable, or a new copy.</p>
+<ul>
+<li><strong><code class="language-text">let</code></strong>: allows for block scoping {}. Variables are only available inside that block. You can use both <code class="language-text">var</code> and <code class="language-text">let</code> in both ES6.</li>
+<li><strong>Asynchronous callback:</strong> More than one at a time. Code is executing within the engine at the same time. But JS is synchronous. Keep in mind, browser has more than just JS engine. It has rendering engine, http request or hooks.</li>
+</ul>
+</details>
+<details>
+  <summary>Event and Queue</summary>
+<p>An event gets placed on queue. When the execution stack is empty and looks for event queue to see if there are events sitting in the queue. The event gets processed and the next event moves up. Event queue will only get processed once the execution context is empty.</p>
+<ul>
+<li>Code is running line by line (synchronously), by JS engine. However, the browser is processing other engines and makes asynchronous possible.</li>
+</ul>
+<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js"><span class="token comment">// long running function</span>
+<span class="token keyword">function</span> <span class="token function">waitThreeSeconds</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token keyword">var</span> ms <span class="token operator">=</span> <span class="token number">3000</span> <span class="token operator">+</span> <span class="token keyword">new</span> <span class="token class-name">Date</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">getTime</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token keyword">while</span> <span class="token punctuation">(</span><span class="token keyword">new</span> <span class="token class-name">Date</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">&lt;</span> ms<span class="token punctuation">)</span><span class="token punctuation">{</span><span class="token punctuation">}</span>
+    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">'finished function'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+
+<span class="token keyword">function</span> <span class="token function">clickHandler</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">'click event!'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>   
+<span class="token punctuation">}</span>
+
+<span class="token comment">// listen for the click event</span>
+document<span class="token punctuation">.</span><span class="token function">addEventListener</span><span class="token punctuation">(</span><span class="token string">'click'</span><span class="token punctuation">,</span> clickHandler<span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+
+<span class="token function">waitThreeSeconds</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">'finished execution'</span><span class="token punctuation">)</span><span class="token punctuation">;</span></code></pre></div>
+<ul>
+<li>if you don't click, you will get 2 finished functions</li>
+<li>if you click, you will get 2 finished functions then click event! It is because the code gets executed and then event queue gets processed. Event queue won't be processed until execution context is empty. This is how asynchronous is possible (not handled by JS engine but browser).</li>
+</ul>
+</details>
+<details>
+  <summary>Dynamic Typing</summary>
+<p>you don't tell the engine what type of data a variable holds, it figures it out while your code is running. Variables can hold different types of values because it's all figured out during execution. Javascript is dynamically typed. This can be powerful but also very bad.</p>
+</details>
+<details>
+  <summary>Static Typing</summary>
+<p>Other languages like C# or Java, types need to be explicitly defined.</p>
+</details>
+<details>
+  <summary>Primitive Types</summary>
+<p>A type of data that represents a single value. That is, not an object. There are 6 types in JS.
+- <code class="language-text">undefined</code>: represents lack of existence (you shouldn't set a variable to this)
+- <code class="language-text">null</code>: represents lack of existence (you can set a variable to this)
+- <code class="language-text">boolean</code>: true or false
+- <code class="language-text">number</code>: floating point number (there's always some decimal). Unlike other programming languages, there's only one <code class="language-text">number</code> type and it can make math weird.
+- <code class="language-text">string</code>: a sequence of characters. Both '' or "" are allowed.
+- <code class="language-text">symbol</code>: used in ES6, the next version of javascript.</p>
+</details>
+<details>
+  <summary>Operators</summary>
+<p>A special function that is syntactically (written) differently. Generally operators take two parameters and return one result. Operators are functions. For ex: <code class="language-text">+</code> is an addition function.
+- prefix notation: +3 4
+- postfix notation 34+ (old accounting calculators)
+- infix notation 3+4</p>
+ </details>
+<details>
+  <summary>Operator Precedence</summary>
+<p>which operator function gets called first. Functions are called in order of precedence. <em>Higher</em> precedence wins.
+- Table Precedence: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence</a></p>
+ </details>
+<details>
+  <summary>Operator Associativity</summary>
+<p>what order operator functions get called in: left to right or right to left. When functions have the <em>same</em> precedence.</p>
+<ul>
+<li>Which one gets called first? JS is synchronous so it will execute one operator function at a time. Bigger the precedence number, higher one gets called first.</li>
+</ul>
+<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js"><span class="token comment">// Operator Precedence</span>
+<span class="token keyword">var</span> a <span class="token operator">=</span> <span class="token number">3</span> <span class="token operator">+</span> <span class="token number">4</span> <span class="token operator">*</span> <span class="token number">5</span><span class="token punctuation">;</span> <span class="token comment">// * has higer precedence acc to the table</span>
+console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>a<span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+<span class="token comment">// Operator Associativity</span>
+<span class="token keyword">var</span> a <span class="token operator">=</span> <span class="token number">2</span><span class="token punctuation">,</span> b <span class="token operator">=</span> <span class="token number">3</span><span class="token punctuation">,</span> c <span class="token operator">=</span> <span class="token number">4</span><span class="token punctuation">;</span>
+a <span class="token operator">=</span> b <span class="token operator">=</span> c<span class="token punctuation">;</span>
+
+console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>a<span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// 4</span>
+console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>b<span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// 4</span>
+console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>c<span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// 4</span>
+console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>b<span class="token operator">=</span>c<span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token boolean">true</span></code></pre></div>
+<ul>
+<li>Since one function execution at a time <code class="language-text">a</code> is set to 4 in the memory, <code class="language-text">b</code> is set to 4 in the memory. Right to left associativity.</li>
+</ul>
+</details>
+<details>
+  <summary>Coercion</summary>
+<p>converting a value from one type to another. Be careful!</p>
+<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js"><span class="token keyword">var</span> a <span class="token operator">=</span> <span class="token number">1</span> <span class="token operator">+</span> <span class="token number">2</span><span class="token punctuation">;</span> <span class="token comment">// 3</span>
+<span class="token keyword">var</span> b <span class="token operator">=</span> <span class="token string">"hello"</span> <span class="token operator">+</span> <span class="token string">" world!"</span><span class="token punctuation">;</span> <span class="token comment">// hello world</span>
+<span class="token keyword">var</span> c <span class="token operator">=</span> <span class="token number">1</span> <span class="token operator">+</span> <span class="token string">"2"</span><span class="token punctuation">;</span> <span class="token comment">// 12 coerced</span></code></pre></div>
+</details>
+<details>
+  <summary>Comparison Operators</summary>
+<p>are functions. <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness">MDN Doc Comparison</a>. Gochyas examples below:</p>
+<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js">console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token number">1</span> <span class="token operator">&lt;</span> <span class="token number">2</span> <span class="token operator">&lt;</span> <span class="token number">3</span><span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// true</span>
+console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token number">3</span> <span class="token operator">&lt;</span> <span class="token number">2</span> <span class="token operator">&lt;</span> <span class="token number">1</span><span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// true due to associtivity </span>
+console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token boolean">false</span> <span class="token operator">&lt;</span> <span class="token number">1</span><span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// true bc false gets converted to 0 (aka coerced) </span>
+console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token boolean">true</span> <span class="token operator">&lt;</span> <span class="token number">1</span><span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// true bc true gets converted to 1 (aka coerced)</span>
+<span class="token function">Number</span><span class="token punctuation">(</span><span class="token boolean">false</span><span class="token punctuation">)</span> <span class="token comment">//0</span>
+<span class="token function">Number</span><span class="token punctuation">(</span><span class="token boolean">true</span><span class="token punctuation">)</span> <span class="token comment">//1</span>
+<span class="token function">Number</span><span class="token punctuation">(</span><span class="token keyword">undefined</span><span class="token punctuation">)</span> <span class="token comment">//NaN</span>
+<span class="token function">Number</span><span class="token punctuation">(</span><span class="token keyword">null</span><span class="token punctuation">)</span> <span class="token comment">//0</span>
+<span class="token function">Boolean</span><span class="token punctuation">(</span><span class="token keyword">undefined</span><span class="token punctuation">)</span> <span class="token comment">// false</span>
+<span class="token function">Boolean</span><span class="token punctuation">(</span><span class="token keyword">null</span><span class="token punctuation">)</span> <span class="token comment">// false</span>
+<span class="token function">Boolean</span><span class="token punctuation">(</span><span class="token string">""</span><span class="token punctuation">)</span> <span class="token comment">// false</span>
+<span class="token function">Boolean</span><span class="token punctuation">(</span><span class="token number">0</span><span class="token punctuation">)</span> <span class="token comment">// false</span>
+<span class="token boolean">false</span> <span class="token operator">||</span> <span class="token boolean">true</span> <span class="token comment">// true bc true has higher precedence on the table</span>
+<span class="token keyword">undefined</span> <span class="token operator">||</span> <span class="token string">'hello'</span> <span class="token comment">// "hello" bc it will coerce </span>
+<span class="token function">Boolean</span><span class="token punctuation">(</span><span class="token string">"hello"</span><span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// true</span>
+<span class="token string">"hi"</span> <span class="token operator">||</span> <span class="token string">"hello"</span> <span class="token comment">// "hi" first one</span>
+<span class="token keyword">undefined</span> <span class="token operator">||</span> <span class="token string">"hello"</span> <span class="token comment">// hello</span>
+<span class="token keyword">null</span> <span class="token operator">||</span> <span class="token string">"hello"</span> <span class="token comment">// hello</span>
+<span class="token string">""</span> <span class="token operator">||</span> <span class="token string">"hello"</span> <span class="token comment">// hello</span></code></pre></div>
+<ul>
+<li>So to not make variables coerced for unexpected output, use strict equality (<code class="language-text">===</code>) or (<code class="language-text">!==</code>). Use Associativity precedence table for a reference. Strict equality does not coerce values.</li>
+</ul>
+<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js"><span class="token comment">// Equality (==) leads to coercion, confusion and odd potential errors</span>
+<span class="token number">3</span> <span class="token operator">==</span> <span class="token number">3</span> <span class="token comment">// true</span>
+<span class="token string">"3"</span> <span class="token operator">==</span> <span class="token number">3</span> <span class="token comment">// true</span>
+<span class="token boolean">false</span> <span class="token operator">==</span> <span class="token number">0</span> <span class="token comment">// true</span>
+<span class="token keyword">var</span> a <span class="token operator">=</span> <span class="token boolean">false</span><span class="token punctuation">;</span> <span class="token comment">// undefined</span>
+a <span class="token operator">==</span> <span class="token number">0</span> <span class="token comment">// true</span>
+<span class="token keyword">null</span> <span class="token operator">==</span> <span class="token number">0</span> <span class="token comment">// false</span>
+<span class="token keyword">null</span> <span class="token operator">&lt;</span> <span class="token number">1</span> <span class="token comment">// true</span>
+<span class="token string">""</span> <span class="token operator">==</span> <span class="token number">0</span> <span class="token comment">// true</span>
+<span class="token string">""</span> <span class="token operator">==</span> <span class="token boolean">false</span> <span class="token comment">// also true confusing</span>
+
+<span class="token comment">//Strict Equality (===)</span>
+<span class="token number">3</span> <span class="token operator">===</span> <span class="token number">3</span> <span class="token comment">// true</span>
+<span class="token string">"3"</span> <span class="token operator">===</span> <span class="token string">"3"</span> <span class="token comment">// true</span>
+<span class="token string">"3"</span> <span class="token operator">===</span> <span class="token number">3</span> <span class="token comment">// false</span>
+
+<span class="token keyword">var</span> a <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span>
+<span class="token keyword">var</span> b <span class="token operator">=</span> <span class="token boolean">false</span><span class="token punctuation">;</span>
+<span class="token keyword">if</span> <span class="token punctuation">(</span>a<span class="token operator">===</span>b<span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">"They are equal!"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span> <span class="token keyword">else</span> <span class="token punctuation">{</span>
+    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">"Nope, not equal."</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+<span class="token operator">==</span> <span class="token comment">// They are equal!</span>
+<span class="token operator">===</span> <span class="token comment">// Nope, not equal.</span></code></pre></div>
+<ul>
+<li>Coercion and dynamic typing can be useful for frameworks and libraries.</li>
+</ul>
+<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js"><span class="token keyword">var</span> a<span class="token punctuation">;</span>
+
+<span class="token comment">// goes to internet and looks for a value.</span>
+a <span class="token operator">=</span> <span class="token string">""</span><span class="token punctuation">;</span>
+<span class="token keyword">if</span><span class="token punctuation">(</span>a<span class="token punctuation">)</span> <span class="token punctuation">{</span> <span class="token comment">// coercion bc it is not strictly typed</span>
+    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">'Something is there.'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span></code></pre></div>
+<ul>
+<li>Default Values</li>
+</ul>
+<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js">funciton <span class="token function">greet</span> <span class="token punctuation">(</span><span class="token parameter">name</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>name<span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// undefined</span>
+    name <span class="token operator">=</span> name <span class="token operator">||</span> <span class="token string">'&lt;Your name here>'</span><span class="token punctuation">;</span>
+    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">'Hello '</span> <span class="token operator">+</span> name<span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+<span class="token function">greet</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span> 
+
+<span class="token comment">// undefined</span>
+<span class="token comment">// hello undefined // coercecd and concatanted</span>
+
+<span class="token function">greet</span><span class="token punctuation">(</span><span class="token string">'Tony'</span><span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// Hello Tony</span>
+<span class="token function">greet</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// Hello &lt;Your name here.></span>
+
+<span class="token comment">// Naming library names to stop colliding names</span>
+window<span class="token punctuation">.</span>libraryName <span class="token operator">=</span> window<span class="token punctuation">.</span>libraryName <span class="token operator">||</span> <span class="token string">"Lib 2"</span><span class="token punctuation">;</span></code></pre></div>
+</details>
+<details>
+  <summary>Functional programming in JS</summary>
+<p>The core idea of functional programming in JS - that we can plug our pure functions into higher order abstractions - is at the very heart of functional programming. A higher order function is a function that takes another function as a parameter. In JavaScript, functions are "first-class citizens." That means we can assign them to variables, create them inside of other functions, and pass them as arguments like any other object. Iteration in functional programming relies on a holy trinity of functions: map, filter, and reduce. We can use functional programming to reduce boilerplate in everyday code, keeping it DRY.</p>
+</details>
+<h3>Testing, debugging &#x26; performance</h3>
+<details>
+  <summary>Testing</summary>
+<p>A well functioning team cannot rely on creating features in a hurry, throwing them over the fence and then expecting our applications to work well and without bugs. To instil quality from the start of a feature, there should be tests for it.</p>
+<p>Automated testing helps with this. Pre-commit hooks can be used when deploying builds so that errors are caught and addressed early. Unit tests can be run using pre-commit hooks. See a post <a href="https://amberwilson.co.uk/blog/unit-tests/">here</a>. However, there is a fine line between having too many automated tests, e.g. end-to-end tests that take too long to run with each build, and not having enough. Some companies run quicker unit tests on each build, and then run end-to-end tests as a nightly build.</p>
+<p>Manual testing is important too. It is usually done by QA engineers, and helps reveal edge cases that automated tests do not catch.</p>
+<p>JavaScript lacks the strict type checking of Java, which is a blessing and a curse. Code is easier to write but requires more testing to ensure correctness.</p>
+</details>
+<details>
+  <summary>Debugging & Console</summary>
+<p>Debugging is one of the key skills required to be a great developer. Below are the key things you need to know when working with the debugger.</p>
+<ol>
+<li>Step over code, steps over a function that doesn't contain a bug and runs its code</li>
+<li>Step into code, steps inside a function and allows you to run each part separately</li>
+<li>Step out of code, steps out of a function you are inside, and runs its code</li>
+<li>Resume execution of code</li>
+</ol>
+<p>Check out the docs on the <a href="https://developer.mozilla.org/en-US/docs/Tools/Debugger">Firefox</a> debugger and the <a href="https://developers.google.com/web/tools/chrome-devtools/javascript/reference#breakpoints">Chrome</a> debugger. Also check out <a href="https://peterlyons.com/js-debug">this article</a> from Peter Lyons. He explains debugging of both front-end and back-end JavaScript code. Another great resource on <a href="https://blog.bitsrc.io/debugging-javascript-like-a-pro-a2e0f6c53c2e">debugging javascript</a>.</p>
+<p>A lot of people use <code class="language-text">console.log</code> to debug in the console. <code class="language-text">console.log</code> is your best friend. The <code class="language-text">log()</code> method of <code class="language-text">console</code> logs things to the web console. What some people may not know is that you can log things in nice ways! Here are three:</p>
+<p><strong>1. Computed property names -</strong></p>
+<p>The following objects could be logged one at a time:</p>
+<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js"><span class="token keyword">const</span> cat <span class="token operator">=</span> <span class="token punctuation">{</span> <span class="token literal-property property">name</span><span class="token operator">:</span> <span class="token string">'Fluffy'</span><span class="token punctuation">,</span> <span class="token literal-property property">colour</span><span class="token operator">:</span> <span class="token string">'orange'</span><span class="token punctuation">,</span> <span class="token literal-property property">specialSkill</span><span class="token operator">:</span> <span class="token string">'staring'</span> <span class="token punctuation">}</span>
+<span class="token keyword">const</span> dog <span class="token operator">=</span> <span class="token punctuation">{</span> <span class="token literal-property property">name</span><span class="token operator">:</span> <span class="token string">'Thor'</span><span class="token punctuation">,</span> <span class="token literal-property property">colour</span><span class="token operator">:</span> <span class="token string">'brown'</span><span class="token punctuation">,</span> <span class="token literal-property property">specialSkill</span><span class="token operator">:</span> <span class="token string">'running'</span> <span class="token punctuation">}</span>
+<span class="token keyword">const</span> fish <span class="token operator">=</span> <span class="token punctuation">{</span> <span class="token literal-property property">name</span><span class="token operator">:</span> <span class="token string">'Glub'</span><span class="token punctuation">,</span> <span class="token literal-property property">colour</span><span class="token operator">:</span> <span class="token string">'blue'</span><span class="token punctuation">,</span> <span class="token literal-property property">specialSkill</span><span class="token operator">:</span> <span class="token string">'blowing bubbles'</span> <span class="token punctuation">}</span></code></pre></div>
+<p>And the results would be as follows:</p>
+<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js">console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>cat<span class="token punctuation">)</span> <span class="token comment">// {name: "Fluffy", colour: "orange", specialSkill: "staring"}</span>
+console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>dog<span class="token punctuation">)</span> <span class="token comment">// {name: "Thor", colour: "brown", specialSkill: "running"}</span>
+console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>fish<span class="token punctuation">)</span> <span class="token comment">// {name: "Glub", colour: "blue", specialSkill: "blowing bubbles"}</span></code></pre></div>
+<p><strong>2. CSS in the console -</strong></p>
+<p>Define styles like this in the console:</p>
+<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js"><span class="token keyword">var</span> styles <span class="token operator">=</span> <span class="token punctuation">[</span>
+  <span class="token string">'background: linear-gradient(#21618C, #5DADE2)'</span><span class="token punctuation">,</span>
+  <span class="token string">'padding: 5px'</span><span class="token punctuation">,</span>
+  <span class="token string">'border-radius: 8px'</span><span class="token punctuation">,</span>
+  <span class="token string">'text-align: center'</span><span class="token punctuation">,</span>
+  <span class="token string">'color: white'</span><span class="token punctuation">,</span>
+  <span class="token string">'display: block'</span><span class="token punctuation">,</span>
+<span class="token punctuation">]</span><span class="token punctuation">.</span><span class="token function">join</span><span class="token punctuation">(</span><span class="token string">';'</span><span class="token punctuation">)</span></code></pre></div>
+<p>Then prefix console log with the <code class="language-text">%c</code> flag, adding the <code class="language-text">styles</code> variable to the end:</p>
+<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js">console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>
+  <span class="token template-string"><span class="token template-punctuation string">`</span><span class="token string">%c My cat is </span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>cat<span class="token punctuation">.</span>name<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string">, </span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>cat<span class="token punctuation">.</span>colour<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string">, </span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>cat<span class="token punctuation">.</span>specialSkill<span class="token interpolation-punctuation punctuation">}</span></span><span class="token template-punctuation string">`</span></span><span class="token punctuation">,</span>
+  styles
+<span class="token punctuation">)</span></code></pre></div>
+<p>Try it in your console or look at <a href="https://codesandbox.io/embed/determined-wozniak-4lt93">this</a> example on CodeSandbox!</p>
+<p><strong>3. Tables in the console</strong></p>
+<p>To display objects in a table in order to more easily compare them, try using <code class="language-text">console.table</code>. You can do so with the animal objects above by running:</p>
+<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js">console<span class="token punctuation">.</span><span class="token function">table</span><span class="token punctuation">(</span><span class="token punctuation">[</span>cat<span class="token punctuation">,</span> dog<span class="token punctuation">,</span> fish<span class="token punctuation">]</span><span class="token punctuation">)</span></code></pre></div>
+<p>Not only will there be a nicely-formatted table to see in the console, but the (unlabeled) objects will also be displayed as well.</p>
+<p>Check out <a href="https://developers.google.com/web/tools/chrome-devtools/">Chrome Devtools</a> to learn more.</p>
+<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js">    <span class="token comment">// Formatted Strings</span>
+    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>
+        <span class="token string">"%c The quick %c brown %c fox jumps over the %c lazy dog"</span><span class="token punctuation">,</span>
+        <span class="token string">"font-size: 34px;"</span><span class="token punctuation">,</span>
+        <span class="token string">"font-size: 24px; color: brown;"</span><span class="token punctuation">,</span>
+        <span class="token string">"color: orange;"</span><span class="token punctuation">,</span>
+        <span class="token string">"color: black; font-weight: bold;"</span>
+    <span class="token punctuation">)</span>
+
+    <span class="token comment">// Formatted Strings with Css styling</span>
+    <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">let</span> i <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span> i <span class="token operator">&lt;</span> <span class="token number">10</span><span class="token punctuation">;</span> i<span class="token operator">++</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+        console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>
+        <span class="token string">"%s I've been called %d times, this is the document body %o"</span><span class="token punctuation">,</span>
+        <span class="token string">"Hello"</span><span class="token punctuation">,</span> i<span class="token punctuation">,</span> document<span class="token punctuation">.</span>body
+        <span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token punctuation">}</span>
+
+    <span class="token comment">// Object Tables</span>
+    <span class="token keyword">var</span> animals <span class="token operator">=</span> <span class="token punctuation">[</span>
+        <span class="token punctuation">{</span> <span class="token literal-property property">kind</span><span class="token operator">:</span> <span class="token string">'Horse'</span><span class="token punctuation">,</span> <span class="token literal-property property">name</span><span class="token operator">:</span> <span class="token string">'Henry'</span><span class="token punctuation">,</span> <span class="token literal-property property">age</span><span class="token operator">:</span> <span class="token number">43</span> <span class="token punctuation">}</span><span class="token punctuation">,</span>
+        <span class="token punctuation">{</span> <span class="token literal-property property">kind</span><span class="token operator">:</span> <span class="token string">'Dog'</span><span class="token punctuation">,</span> <span class="token literal-property property">name</span><span class="token operator">:</span> <span class="token string">'Spot'</span><span class="token punctuation">,</span> <span class="token literal-property property">age</span><span class="token operator">:</span> <span class="token number">13</span> <span class="token punctuation">}</span><span class="token punctuation">,</span>
+        <span class="token punctuation">{</span> <span class="token literal-property property">kind</span><span class="token operator">:</span> <span class="token string">'Cat'</span><span class="token punctuation">,</span> <span class="token literal-property property">name</span><span class="token operator">:</span> <span class="token string">' Mittens'</span><span class="token punctuation">,</span> <span class="token literal-property property">age</span><span class="token operator">:</span> <span class="token number">18</span> <span class="token punctuation">}</span><span class="token punctuation">,</span>
+    <span class="token punctuation">]</span><span class="token punctuation">;</span>
+    console<span class="token punctuation">.</span><span class="token function">table</span><span class="token punctuation">(</span>animals<span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+    <span class="token comment">// Tracing function calls</span>
+    <span class="token comment">// The console.trace method lets you dump a stack trace in the console — </span>
+    <span class="token comment">// in other words, the path the runtime took to call that function — </span>
+    <span class="token comment">// which is useful in tracking down the function responsible for passing bad data.</span>
+    <span class="token keyword">function</span> <span class="token function">foo</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+        <span class="token function">bar</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        <span class="token keyword">function</span> <span class="token function">bar</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+        console<span class="token punctuation">.</span><span class="token function">trace</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        <span class="token punctuation">}</span>
+    <span class="token punctuation">}</span>
+    <span class="token function">foo</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+    <span class="token comment">// Counting function calls</span>
+    window<span class="token punctuation">.</span><span class="token function">addEventListener</span><span class="token punctuation">(</span><span class="token string">'click'</span><span class="token punctuation">,</span> <span class="token keyword">function</span><span class="token punctuation">(</span><span class="token parameter">event</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+        console<span class="token punctuation">.</span><span class="token function">count</span><span class="token punctuation">(</span>event<span class="token punctuation">.</span>type<span class="token punctuation">)</span><span class="token punctuation">;</span>
+        console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>event<span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+    <span class="token comment">// To reset a counter, you just need to call below with the label, and it will reset back to zero.</span>
+    console<span class="token punctuation">.</span><span class="token function">countReset</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+    <span class="token comment">// Grouping Information in collapsible list</span>
+    console<span class="token punctuation">.</span><span class="token function">group</span><span class="token punctuation">(</span><span class="token string">'First group'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">'First message'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    console<span class="token punctuation">.</span><span class="token function">group</span><span class="token punctuation">(</span><span class="token string">'A group inside the first group'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">'A message inside the group inside the first group'</span><span class="token punctuation">)</span><span class="token punctuation">;</span> console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">'Another message inside the group inside the first group'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    console<span class="token punctuation">.</span><span class="token function">groupEnd</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">'Second message'</span><span class="token punctuation">)</span><span class="token punctuation">;</span> console<span class="token punctuation">.</span><span class="token function">groupEnd</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+    <span class="token comment">// Inspecting State</span>
+    $_ variable holds the most recent expression that was evaluated <span class="token keyword">in</span> the console context<span class="token punctuation">.</span>
+    And $0 through $4 holds the most recent element that was inspected <span class="token keyword">with</span> inspect element</code></pre></div>
+</details>
+<details>
+<summary>Performance</summary>
+Why a little discipline can help if you’d like your site to load & be interactive quickly on mobile devices? tl;dr: less code = less parse/compile + less transfer + less to decompress.
+</details>
+<h3>Tooling</h3>
+<details>
+  <summary>Package Manager</summary>
+<ul>
+<li><strong>Package Manager</strong>: This is useful later when sharing a project with others — instead of sharing the node_modules folder (which can get very large), you only need to share the package.json file and other developers can install the required packages automatically with the command npm install. So now we no longer have to manually download moment.js from the website, we can automatically download and update it using npm.</li>
+</ul>
+</details>
+<details>
+  <summary>Module Bundling</summary>
+<ul>
+<li>
+<p><strong>Module Bundling</strong>: Most programming languages provide a way to import code from one file into another. JavaScript wasn’t originally designed with this feature, because JavaScript was designed to only run in the browser, with no access to the file system of the client’s computer (for security reasons). So for the longest time, organizing JavaScript code in multiple files required you to load each file with variables shared globally. This is actually what we’re doing with the above moment.js example — the entire <strong><code class="language-text">moment.min.js</code></strong> file is loaded in the HTML, which defines a global variable <code class="language-text">moment</code>, which is then available to any file loaded after <strong><code class="language-text">moment.min.js</code></strong> (regardless of whether it needs access to it). node.js solved this problem. It is a JavaScript runtime designed to run on the server. Here’s what the earlier example would look like using node.js modules. Instead of loading all of moment.min.js with an HTML script tag, you can load it directly in the JavaScript file as follows:</p>
+<p>// index.jsvar moment = require('moment');
+console.log("Hello from JavaScript!");
+console.log(moment().startOf('day').fromNow());</p>
+</li>
+<li>
+<p>Again, this is how module loading works in node.js, which works great since node.js is a server side language with access to the computer’s file system. Node.js also knows the location of each npm module path, so instead of having to write require('./node_modules/moment/min/moment.min.js), you can simply write require('moment') — pretty sweet. This is all great for node.js, but if you tried to use the above code in the browser, you’d get an error saying require is not defined. The browser doesn’t have access to the file system, which means loading modules in this way is very tricky — loading files has to be done dynamically, either synchronously (which slows down execution) or asynchronously (which can have timing issues).</p>
+</li>
+<li>
+<p>This is where a module bundler comes in. A JavaScript module bundler is a tool that gets around the problem with a build step (which has access to the file system) to create a final output that is browser compatible (which doesn’t need access to the file system). In this case, we need a module bundler to find all require statements (which is invalid browser JavaScript syntax) and replace them with the actual contents of each required file. The final result is a single bundled JavaScript file (with no require statements)! The most popular module bundler was Browserify, which was released in 2011 and pioneered the usage of node.js style require statements on the frontend (which is essentially what enabled npm to become the frontend package manager of choice). Around 2015, webpack eventually became the more widely used module bundler (fueled by the popularity of the React frontend framework, which took full advantage of webpack’s various features).</p>
+</li>
+</ul>
+</details>
+<details>
+  <summary>Transpiling</summary>
+<ul>
+<li>
+<p><strong>Transpiling</strong>: Transpiling code means converting the code in one language to code in another similar language. This is an important part of frontend development — since browsers are slow to add new features, new languages were created with experimental features that transpile to browser compatible languages. For CSS, there’s Sass, Less, and Stylus, to name a few. For JavaScript, the most popular transpiler for a while was CoffeeScript (released around 2010), whereas nowadays most people use babel or TypeScript.</p>
+</li>
+<li>
+<p>Babel is not a new language but a transpiler that transpiles next generation JavaScript with features not yet available to all browsers (ES2015 and beyond) to older more compatible JavaScript (ES5). Note that we’re installing 3 separate packages as dev dependencies — @babel/core is the main part of babel, @babel/preset-env is a preset defining which new JavaScript features to transpile, and babel-loader is a package to enable babel to work with webpack. We can configure webpack to use babel-loader.</p>
+</li>
+<li>
+<p>But there’s still some unpolished edges in our workflow. If we’re concerned about performance, we should be minifying the bundle file, which should be easy enough since we’re already incorporating a build step. We also need to re-run the webpack command each time we change the JavaScript, which gets old real fast. So the next thing we’ll look at are some convenience tools to solve these issues.</p>
+</li>
+</ul>
+</details>
+<details>
+  <summary>Tooling Automation Build</summary>
+<ul>
+<li>
+<p><strong>Tooling Automation Build</strong>: Now that we’re invested in using a build step to work with JavaScript modules, it makes sense to use a task runner, which is a tool that automates different parts of the build process. For frontend development, tasks include minifying code, optimizing images, running tests, etc.</p>
+</li>
+<li>
+<p>In 2013, Grunt was the most popular frontend task runner, with Gulp following shortly after. Both rely on plugins that wrap other command line tools. Nowadays the most popular choice seems to be using the scripting capabilities built into the npm package manager itself, which doesn’t use plugins but instead works with other command line tools directly.</p>
+</li>
+<li>
+<p>Any time you change your JavaScript in index.js, webpack-dev-server will rebuild its own bundled JavaScript and refresh the browser automatically. This is a surprisingly useful time saver, as it allows you to keep your focus on the code instead of having to continually switch contexts between the code and the browser to see new changes.</p>
+</li>
+<li>
+<p>This is only scratching the surface, there are plenty more options with both webpack and webpack-dev-server (which you can read about here). You can of course make npm scripts for running other tasks as well, such as converting Sass to CSS, compressing images, running tests — anything that has a command line tool is fair game. There are also some great advanced options and tricks with npm scripts themselves — this talk by Kate Hudson is a great place to start:</p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=0RYETb9YVrk">Kate Hudson talk on Webpack</a></p>
+</li>
+<li>
+<p><a href="https://webpack.js.org/guides/development/">Webpack</a></p>
+</li>
+</ul>
+</details>
+<h3>Internationalization i18n</h3>
+<p>Internationalization (i18n) is the process of developing products in such a way that they can be localized for languages and cultures easily. Localization (l10n), is the process of adapting applications and text to enable their usability in a particular cultural or linguistic market. For application developers, internationalizing an application means abstracting all of the strings and other locale-specific bits (such as date or currency formats) out of the application. Localizing an application means providing translations and localized formats for the abstracted bits.</p>
+<h3>Visualization</h3>
+<p>A danger of spending so long designing a tool is that you may forget what the tool is for: the tool itself becomes the goal, rather than the value derived from its application.</p>
+<p>The purpose of a visualization tool is to construct visualizations. But what is the purpose of visualization? Per Ben Shneiderman: The purpose of visualization is insight, not pictures.</p>
+<p>Visualization is a means to an end. A means to insight. A way to think, to understand, to discover, and to communicate something about the world. If we consider only the task of assigning visual encodings, of constructing visualizations, we ignore myriad other challenges: finding relevant data, cleaning it, transforming it into efficient structures, analyzing it with statistics, modeling, explaining our discoveries.</p>
+<h2>House of commands</h2>
+<p>Useful shortcuts and commands I use or have used to optimize my productivity.</p>
+<h3>Folder structure</h3>
+<ul>
+<li><strong>executable files</strong>:<code class="language-text">bin</code></li>
+<li><strong>3rd party libraries</strong>: <code class="language-text">lib</code></li>
+<li><strong>env/configuration files</strong>: <code class="language-text">etc</code></li>
+<li><strong>log files</strong>: <code class="language-text">log</code></li>
+<li><strong>source code</strong>: <code class="language-text">src</code></li>
+<li><strong>shared files</strong>: <code class="language-text">shared</code></li>
+<li><strong>client source code</strong>: <code class="language-text">client</code></li>
+<li><strong>server source code</strong>: <code class="language-text">server</code></li>
+</ul>
+<h3>Shell command line</h3>
+<ul>
+<li><strong>find path and package</strong>: <code class="language-text">which [package name] git</code></li>
+<li><strong>cursor at the beginning of the line</strong>: <code class="language-text">control + A</code></li>
+<li><strong>cursor at the end of the line</strong>: <code class="language-text">control + E</code></li>
+<li><strong>clear line</strong>: <code class="language-text">control + U</code></li>
+<li><strong>in the middle of a line</strong>: <code class="language-text">option + click mouse pointer</code></li>
+<li><strong>echo</strong>: <code class="language-text">echo "string"</code></li>
+<li><strong>manual instructions of commands</strong>: <code class="language-text">man grep</code> [command name]</li>
+<li><strong>exit to close the terminal</strong>: <code class="language-text">exit</code></li>
+<li><strong>to kill files</strong>: <code class="language-text">kill -9 $(pgrep filename)</code></li>
+<li><strong>to add permission</strong>: <code class="language-text">chmod +x filename</code></li>
+<li><strong>to find files with an extension</strong>: <code class="language-text">find path -name “*.filetype”</code></li>
+<li><strong>to copy</strong>: <code class="language-text">cp path1/filename path2/filename</code></li>
+<li><strong>file permission</strong>: <code class="language-text">chmod g+x/w/or/r filename</code></li>
+<li><strong>file ownership</strong>: <code class="language-text">chown username filename</code></li>
+<li><strong>show disk space</strong>: <code class="language-text">df-h (human readable)</code></li>
+<li><strong>CPU, RAM, etc</strong>: <code class="language-text">top</code></li>
+<li><strong>search and print</strong>: <code class="language-text">grep (can add layers of logic)</code></li>
+<li><strong>find and Replace</strong>: <code class="language-text">sed s/word/word/g</code></li>
+<li><strong>file Content Print</strong>: <code class="language-text">cat</code></li>
+<li><strong>multiple commands in the same line</strong>: <code class="language-text">-</code></li>
+<li><strong>execute a file with its name, need to set up the environment</strong>: <code class="language-text">(# !/usr/bin/env python) ./filename</code></li>
+<li><strong>delete content in the file</strong>: <code class="language-text">cat /dev/null > filename</code></li>
+<li><strong>back to the previous path</strong>: <code class="language-text">cd -</code></li>
+<li><strong>copy b/w different hosts allows files to be copied to, from, or between different hosts. It uses ssh for data transfer and provides the same authentication and same level of security as ssh.</strong>: <code class="language-text">scp</code></li>
+<li><strong>help (stands for manual)</strong>: <code class="language-text">man</code></li>
+<li><strong>symbolic Link</strong>: <code class="language-text">ln -sf source-path destination-path</code></li>
+<li><strong>more content of a file</strong>: <code class="language-text">| more</code></li>
+<li><strong>list information about all the files</strong>:<code class="language-text">ll</code></li>
+<li><strong>create folder with sub folders</strong>: <code class="language-text">mkdir -p folder-name/{sub-folder1, sub-folder2}</code></li>
+<li><strong>list differences b/w two files</strong>: <code class="language-text">diff file-name file-name</code></li>
+<li><strong>unzip Github folder (master)</strong>: <code class="language-text">tar xvf master -C yourFolder --strip-components 1 or tar -xvzf “name”</code></li>
+<li><strong>find size file in MB or KB</strong>: <code class="language-text">ls -l --block-size=M or ls-lh</code></li>
+<li><strong>find file path based on filename</strong>: <code class="language-text">find ./path -name “filename.*”</code></li>
+<li><strong>find string in directory with file name</strong>: <code class="language-text">grep -r --include=*.{cpp,h} “hello” .</code></li>
+<li><strong>find package if it is installed</strong>: <code class="language-text">dpkg -s apache-perl</code></li>
+<li><strong>find content of the link</strong>: <code class="language-text">curl -sS “link”</code></li>
+<li><strong>conditional search and print</strong>: <code class="language-text">$ tail -n 3 calc_process.log | grep final | tr '{' '\n' | grep startdate</code> and <code class="language-text">$ tail -n 3 calc_process.log | grep final | tr '{' '\n' | grep startdate | sed -e 's/}.*$//g'</code></li>
+</ul>
+<h3>Vim</h3>
+<ul>
+<li><strong>to find text in VIM</strong>: <code class="language-text">/ or ? text</code></li>
+<li><strong>go to bottom</strong>: <code class="language-text">Shift +G</code></li>
+<li><strong>go to top</strong>: <code class="language-text">gg or Shift + gg</code></li>
+<li><strong>line numbers</strong>: <code class="language-text">:set nu</code></li>
+<li><strong>helper &#x26; setter</strong>: <code class="language-text">:help and :set</code></li>
+<li><strong>delete</strong>: <code class="language-text">d</code></li>
+<li><strong>delete word</strong>: <code class="language-text">dw</code></li>
+<li><strong>delete a character</strong>: <code class="language-text">x</code></li>
+<li><strong>arrows</strong>: <code class="language-text">h, j, k, l</code></li>
+<li><strong>append at the end of the line</strong>: <code class="language-text">a</code></li>
+<li><strong>shift to the end of the line</strong>: <code class="language-text">A</code></li>
+<li><strong>find and replace all</strong>: <code class="language-text">:%s/foo/bar/g</code></li>
+<li><strong>delete all</strong>: <code class="language-text">go on top of line gg and to delete all- dG</code></li>
+</ul>
+<h3>Grep</h3>
+<details>
+  <summary>Search the contents of files using grep:</summary>
+<ul>
+<li><strong>find version of a file</strong>: <code class="language-text">command name, version, filename: grep version package.json</code></li>
+<li><strong>find keyword search</strong>: <code class="language-text">command name, keyword, filename: grep react package.json</code></li>
+<li><strong>find keyword in more than 1 file</strong>: <code class="language-text">command name, keyword, filename: grep “#” README.md codestyle.md xyz.md</code></li>
+<li><strong>find by keyword in all files ending with file type</strong>: <code class="language-text">command name, keyword, *.fileextension: grep “#” *.md</code></li>
+</ul>
+</details> 
+<details>
+  <summary>Search directory contents recursively using grep:</summary>
+<ul>
+<li><strong>search recursively in folder root</strong>: <code class="language-text">commandname, -r, keyword, path: grep -r react ./</code></li>
+<li><strong>search recursively in folder path (relative to your current path not the actual)</strong>: <code class="language-text">grep -r react public/components/App.js</code></li>
+</ul>
+</details> 
+<details>
+  <summary>Use find to search for filename patterns (grep vs find):</summary>
+<ul>
+<li><strong>search filename patterns</strong>: <code class="language-text">command name, path, -name, “*fileextension”: find . -name, “*jsx”</code></li>
+</ul>
+</details> 
+<details>
+  <summary>Search Matching files by combining find and grep with xargs:</summary>
+<ul>
+<li><strong>pipe find into grep</strong>: <code class="language-text">find examples -name “*Spec.js” | barges grep “module”</code></li>
+<li><strong>same as above but just grep</strong>: <code class="language-text">grep -r —include=“Spec.js” “should” examples/</code></li>
+</ul>
+</details> 
+<details>
+  <summary>Search the contents of a git repository with git grep:</summary>
+<ul>
+<li><strong>find in git that is being tracked in version control</strong>: <code class="language-text">git grep bind (query string); results are highlighted in red</code></li>
+<li><strong>color keyword query</strong>: <code class="language-text">grep -r —color bind ./</code></li>
+</ul>
+</details> 
+<details>
+  <summary>Show context around matches using grep:</summary>
+<ul>
+<li><strong>line number</strong>: <code class="language-text">grep -n “#” *.md</code></li>
+<li><strong>after</strong>: <code class="language-text">grep -A 2 —color “#” *.md</code></li>
+<li><strong>before</strong>: <code class="language-text">grep -A 2 —color “#” *.md</code></li>
+<li><strong>context (before + after)</strong>: <code class="language-text">grep -C 2 —color “#” *.md</code></li>
+</ul>
+</details> 
+<details>
+  <summary>Search for basic patterns using grep:</summary>
+<ul>
+<li><strong>everything that matches after the string like http</strong>: <code class="language-text">grep —color “http.” readme.md</code></li>
+<li><strong>special Character like dot, use backslash</strong>: <code class="language-text">grep —color “\.com” readme.md</code></li>
+<li><strong>all characters b/w special characters like ()</strong>: <code class="language-text">grep —color ”(.*)” readme.md</code></li>
+</ul>
+</details>
+<details>
+  <summary>Using grep’s extended regular expressions to find complex patterns:</summary>
+<ul>
+<li><strong>conditional Search for character 0 or 1 time (?)</strong>: <code class="language-text">grep —color “https\?” readme.md</code></li>
+<li><strong>at least 1 or more occurrences (+)</strong>: <code class="language-text">grep —color “https\+” readme.md</code></li>
+<li><strong>atlas 0 or more occurrences (*)</strong>: <code class="language-text">grep -color “https*” readme.md</code></li>
+<li><strong>escape for special characters</strong>: <code class="language-text">grep -E or backslash (\)</code></li>
+</ul>
+</details> 
+<details>
+  <summary>Search for optional patterns with grep OR:</summary>
+<ul>
+<li><strong>color check</strong>: <code class="language-text">echo “is it grey or gray?” | grep —color “grey\|gray” or echo “is it grey or gray?” | grep —color -E “grey|gray”</code></li>
+<li><strong>spell check in your codebase (-rE recursive &#x26; escape)</strong>: <code class="language-text">grep —color -rE “grey|gray” examples/</code></li>
+</ul>
+</details>  
+<details>
+  <summary>Specify line beginning and end in patterns using grep:</summary>
+<ul>
+<li><strong>anchor for beginning of the line</strong>: <code class="language-text">grep —color “^#” app-spec.md</code></li>
+<li><strong>anchor for ending of the line</strong>: <code class="language-text">grep —color “,$” app-spec.md</code></li>
+<li><strong>complex anchor with wildcard phrase</strong>: <code class="language-text">grep —color -r “^import .* from” examples/</code></li>
+</ul>
+</details> 
+<details>
+  <summary>Match classes of characters using bracket expressions with grep:</summary>
+<ul>
+<li><strong>match a or b</strong>: <code class="language-text">echo abc123 | grep —color “[ab]”</code></li>
+<li><strong>range</strong>: <code class="language-text">echo abc123 | grep —color “[a-z]”</code></li>
+<li><strong>range</strong>: <code class="language-text">echo abc123 | grep —color “[1-9]”</code></li>
+<li><strong>match word with some pattern (matches designer and developer)</strong>: <code class="language-text">grep —color “de[a-z]*er” readme.md</code></li>
+<li><strong>same as above but don’t have to explicit define the character range (matches developer &#x26; designer)</strong>: <code class="language-text">grep —color “de[[:alpha:]]*er” readme.md</code></li>
+<li><strong>case insesitive match on only 1 character</strong>: <code class="language-text">find . -name “*js” | grep —color “[sS]pec”</code></li>
+</ul>
+</details> 
+<details>
+  <summary>Search with groups using grep:</summary>
+<ul>
+<li><strong>single quote after the grey or gray</strong>: <code class="language-text">grep -rE —color “(grey|gray)\’” .</code></li>
+<li><strong>single or double quote</strong>: <code class="language-text">grep -rE —color “(grey|gray)(\’|\”)” .</code></li>
+</ul>
+</details> 
+<details>
+  <summary>Find matches excluding a pattern with grep:</summary>
+<ul>
+<li><strong>inverse search (stuff that does’t match)</strong>: <code class="language-text">find examples/angularjs -name “*js” | grep -v “node modules”</code></li>
+<li><strong>inverse Search combo</strong>: <code class="language-text">find examples -name “*js” | grep -vE “node_modules|Spec”</code></li>
+</ul>
+</details>  
+<h3>Git</h3>
+<ul>
+<li><strong>resetting git</strong>: <code class="language-text">git reset --hard HEAD</code></li>
+<li><strong>pull to original settings</strong>: <code class="language-text">git pull - - rebase</code></li>
+</ul>
+<h3>Npm scripts</h3>
+<ul>
+<li><strong>omit npm config</strong>: <code class="language-text">npm init -y</code></li>
+<li><strong>alias shortcut</strong>: <code class="language-text">npm install —save alias: npm i -S</code></li>
+<li><strong>dev shortcut</strong>: <code class="language-text">npm —save-dev: npm i -D</code></li>
+</ul>
+<h3>Mac keyboard shortcuts</h3>
+<details>
+  <summary>Window Management </summary>
+<ul>
+<li><strong>close one window, or tab</strong>: <code class="language-text">command + w</code></li>
+<li><strong>close all windows</strong>: <code class="language-text">command + q</code></li>
+<li><strong>close all tabs</strong>: <code class="language-text">command + shift + w</code></li>
+<li><strong>new tab</strong>: <code class="language-text">command + t</code></li>
+<li><strong>switch between tabs</strong>: <code class="language-text">command + Shift + [ left/right ]</code></li>
+</ul>
+</details>
+<details>
+  <summary>Text Management</summary>
+<ul>
+<li><strong>jump between words</strong>: <code class="language-text">alt + Left / right</code></li>
+<li><strong>jump to the ends of the line</strong>: <code class="language-text">command + left / right</code></li>
+<li><strong>delete all the words till it hits the left edge.</strong>: <code class="language-text">command + delete</code></li>
+</ul>
+</details>
+<details>
+  <summary>Operating System</summary>
+<ul>
+<li><strong>spotlight search, then up / down and enter to select</strong>: <code class="language-text">command + space</code></li>
+<li><strong>application selector</strong>: <code class="language-text">command + tab</code></li>
+</ul>
+</details>
+<details>
+  <summary>Cursor Movement</summary>
+<ul>
+<li><strong>move cursor to end of the line</strong>: <code class="language-text">ctrl + E</code></li>
+<li><strong>move cursor to start of the line</strong>: <code class="language-text">ctrl + A</code></li>
+<li><strong>move cursor one character forward</strong>: <code class="language-text">ctrl + F</code></li>
+<li><strong>move cursor one character backward</strong>: <code class="language-text">ctrl + B</code></li>
+<li><strong>move cursor one word forward</strong>: <code class="language-text">alt + F / alt + right</code></li>
+<li><strong>move cursor one word backward</strong>: <code class="language-text">alt + B / alt + left</code></li>
+<li><strong>move cursor to clicked character</strong>: <code class="language-text">Alt + click</code></li>
+<li><strong>toggle between the start of line and cursor position</strong>: <code class="language-text">ctrl + XX</code></li>
+</ul>
+</details>
+<details>
+  <summary>Process</summary>
+<ul>
+<li><strong>kills current task (SIGINT)</strong>: <code class="language-text">ctrl + C</code></li>
+<li><strong>inserts an EOF</strong>: <code class="language-text">ctrl + D</code></li>
+<li><strong>pauses current task</strong>: <code class="language-text">ctrl + Z</code></li>
+<li><strong>stop output to the screen (for long running verbose commands))</strong>: <code class="language-text">ctrl + S</code></li>
+<li><strong>allow output to the screen (if previously stopped using stop output command)</strong>: <code class="language-text">ctrl + Q</code></li>
+</ul>
+</details>
+<details>
+  <summary>History</summary>
+<ul>
+<li><strong>previous command</strong>: <code class="language-text">ctrl + P</code></li>
+<li><strong>next command</strong>: <code class="language-text">ctrl + R</code></li>
+</ul>
+</details> 
+<h2>Further reading</h2>
+<details>
+    <summary><strong>Resources</strong></summary>
+    <br>
+<p><strong>Core frontend development</strong>:</p>
+<ul>
+<li><a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">ECMA specification</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference">Mozilla MDN Manual</a></li>
+<li><a href="https://caniuse.com/">Compatibility Table</a></li>
+<li><a href="https://github.com/grab/front-end-guide">Frontend Guide</a></li>
+<li><a href="https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70">Modern JavaScript</a></li>
+<li><a href="https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525">Modern CSS</a></li>
+<li><a href="https://vanillajstoolkit.com/">Vanilla JS Toolkit</a></li>
+<li><a href="https://auth0.com/blog/glossary-of-modern-javascript-concepts/">Glossary of Modern JS Concepts</a></li>
+<li><a href="https://www.w3.org/International/questions/qa-i18n">Localization vs. Internationalization</a></li>
+</ul>
+<p><strong>Core system design fundamentals for software development</strong>:</p>
+<ul>
+<li><a href="https://blog.wahab2.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f">API Architecture Best Practices for Designing REST APIs</a></li>
+<li><a href="https://medium.com/@ibrahimlanre1890/cap-theorem-in-dbms-42027527092e">CAP Theorem</a></li>
+<li><a href="https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/">The Difference Between RPC and REST</a></li>
+<li><a href="https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7">Eventual vs. Strong Consistency in Distributed Databases</a></li>
+<li><a href="https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/">Latency vs Throughput</a></li>
+<li><a href="https://blog.algomaster.io/p/scalability">Scalability</a></li>
+<li><a href="https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/">Latency vs Throughput</a></li>
+<li><a href="https://www.cockroachlabs.com/blog/what-is-fault-tolerance/">What is Fault Tolerance?</a></li>
+<li><a href="https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c">Consensus in Distributed System</a></li>
+<li><a href="https://www.imperva.com/learn/application-security/rate-limiting/">Rate Limiting</a></li>
+<li><a href="https://www.freecodecamp.org/news/acid-databases-explained/">ACID Transactions</a></li>
+<li><a href="https://towardsdatascience.com/designing-a-relational-database-and-creating-an-entity-relationship-diagram-89c1c19320b2">Relational Database Design &#x26; Entity Relationship</a></li>
+</ul>
+<p><strong>Other</strong>:</p>
+<ul>
+<li><a href="https://www.stedi.com/blog/the-unwritten-laws-of-engineering-at-stedi">The unwritten laws of engineering at Stedi</a></li>
+<li><a href="https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0">A Better Way to Code by Mike Bostock</a></li>
+<li><a href="https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e">The Cost Of JavaScript</a></li>
+<li><a href="https://gist.github.com/chitchcock/1281611">Stevey's Google Platforms Rant</a></li>
+</ul>
+</details>
+<br /></section><footer></footer></article></main><footer><hr/><p><i>Drop me a note if you are curious to chat. Newsletter goes out once a year in December.</i></p><a href="https://twitter.com/mihirchronicles"><strong>Twitter</strong></a> <span> | </span><a href="https://www.linkedin.com/in/mihirchronicles/"><strong>Linkedin</strong></a> <span> | </span><a href="https://eepurl.com/hRGv2D"><strong>Newsletter</strong></a></footer></div></div><div id="gatsby-announcer" style="position:absolute;top:0;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0" aria-live="assertive" aria-atomic="true"></div></div><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-HTPE7YS2EL"></script><script>
+      
+      
+      if(true) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-HTPE7YS2EL', {"send_page_view":false});gtag('config', 'UA-63913047-1', {"send_page_view":false});
+      }
+      </script><script id="gatsby-script-loader">/*<![CDATA[*/window.pagePath="/on-programming/";/*]]>*/</script><!-- slice-start id="_gatsby-scripts-1" -->
+          <script
+            id="gatsby-chunk-mapping"
+          >
+            window.___chunkMapping="{\"app\":[\"/app-e8575fea31aee5d56bb2.js\"],\"component---src-pages-404-js\":[\"/component---src-pages-404-js-9b4757eb9fab50e49d40.js\"],\"component---src-pages-about-js\":[\"/component---src-pages-about-js-d263b6152afee2a23980.js\"],\"component---src-pages-art-js\":[\"/component---src-pages-art-js-278773f416a069ca8883.js\"],\"component---src-pages-bookshelf-js\":[\"/component---src-pages-bookshelf-js-bf24b1cd2b83ba831a1c.js\"],\"component---src-pages-essays-js\":[\"/component---src-pages-essays-js-2a4088ca0c49b3f5a6fa.js\"],\"component---src-pages-index-js\":[\"/component---src-pages-index-js-f0be03e5a07034110350.js\"],\"component---src-pages-notes-js\":[\"/component---src-pages-notes-js-c0ad503bf179adfb44ec.js\"],\"component---src-pages-work-js\":[\"/component---src-pages-work-js-45d9962b7cc0fd4dbcb7.js\"],\"component---src-templates-blog-post-js\":[\"/component---src-templates-blog-post-js-32189f41f76c875b6215.js\"]}";
+          </script>
+        <script>window.___webpackCompilationHash="4f620f280cef538ce31f";</script><script src="/webpack-runtime-ff4b9e91080953685316.js" async></script><script src="/framework-ef3424a78eb1f95e334f.js" async></script><script src="/app-e8575fea31aee5d56bb2.js" async></script><!-- slice-end id="_gatsby-scripts-1" --></body></html>

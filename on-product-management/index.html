@@ -1,0 +1,568 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="x-ua-compatible" content="ie=edge"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/><meta name="generator" content="Gatsby 5.13.3"/><meta name="theme-color" content="#0b0c11"/><meta name="description" content="[Last Revised: 07/10/2023] In 2012, I accidentally started the journey of building products with a background in finance and accounting. It was a drastic career…" data-gatsby-head="true"/><meta property="og:title" content="On Product Management" data-gatsby-head="true"/><meta property="og:description" content="[Last Revised: 07/10/2023] In 2012, I accidentally started the journey of building products with a background in finance and accounting. It was a drastic career…" data-gatsby-head="true"/><meta property="og:type" content="website" data-gatsby-head="true"/><meta name="image" content="./src/images/mehere.png" data-gatsby-head="true"/><meta name="twitter:card" content="summary" data-gatsby-head="true"/><meta name="twitter:image" content="./src/images/mehere.png" data-gatsby-head="true"/><meta name="twitter:creator" content="mihirchronicles" data-gatsby-head="true"/><meta name="twitter:title" content="On Product Management" data-gatsby-head="true"/><meta name="twitter:description" content="[Last Revised: 07/10/2023] In 2012, I accidentally started the journey of building products with a background in finance and accounting. It was a drastic career…" data-gatsby-head="true"/><style data-href="/styles.f7d22c03640e3cb9504c.css" data-identity="gatsby-global-css">@import url(https://rsms.me/inter/inter.css);@font-face{font-display:swap;font-family:MontserratVariable;font-style:normal;font-weight:100 900;src:url(/static/montserrat-cyrillic-variable-wghtOnly-normal-f41a9bc7688bda1e84508030cb5c18fe.woff2) format("woff2");unicode-range:u+0301,u+0400-045f,u+0490-0491,u+04b0-04b1,u+2116}@font-face{font-display:swap;font-family:MontserratVariable;font-style:normal;font-weight:100 900;src:url(/static/montserrat-cyrillic-ext-variable-wghtOnly-normal-639b3c91831427d83cd3984af014778c.woff2) format("woff2");unicode-range:u+0460-052f,u+1c80-1c88,u+20b4,u+2de0-2dff,u+a640-a69f,u+fe2e-fe2f}@font-face{font-display:swap;font-family:MontserratVariable;font-style:normal;font-weight:100 900;src:url(/static/montserrat-latin-variable-wghtOnly-normal-b66f2d18f66f15c3ac56a2f4d68b3be5.woff2) format("woff2");unicode-range:u+00??,u+0131,u+0152-0153,u+02bb-02bc,u+02c6,u+02da,u+02dc,u+2000-206f,u+2074,u+20ac,u+2122,u+2191,u+2193,u+2212,u+2215,u+feff,u+fffd}@font-face{font-display:swap;font-family:MontserratVariable;font-style:normal;font-weight:100 900;src:url(/static/montserrat-latin-ext-variable-wghtOnly-normal-9f73369162c4382215d4317ba362fe1e.woff2) format("woff2");unicode-range:u+0100-024f,u+0259,u+1e??,u+2020,u+20a0-20ab,u+20ad-20cf,u+2113,u+2c60-2c7f,u+a720-a7ff}@font-face{font-display:swap;font-family:MontserratVariable;font-style:normal;font-weight:100 900;src:url(data:font/woff2;base64,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) format("woff2");unicode-range:u+0102-0103,u+0110-0111,u+0128-0129,u+0168-0169,u+01a0-01a1,u+01af-01b0,u+1ea0-1ef9,u+20ab}@font-face{font-display:swap;font-family:Merriweather;font-style:normal;font-weight:400;src:url(/static/merriweather-cyrillic-ext-400-normal-2a880e22b1b888ab54652a36d43b7f16.woff2) format("woff2"),url(/static/merriweather-all-400-normal-5e7a0e6a9b864b89292d60ba5da59d4b.woff) format("woff");unicode-range:u+0460-052f,u+1c80-1c88,u+20b4,u+2de0-2dff,u+a640-a69f,u+fe2e-fe2f}@font-face{font-display:swap;font-family:Merriweather;font-style:normal;font-weight:400;src:url(/static/merriweather-cyrillic-400-normal-fde0b55efc50742fb57fbebbb11c572f.woff2) format("woff2"),url(/static/merriweather-all-400-normal-5e7a0e6a9b864b89292d60ba5da59d4b.woff) format("woff");unicode-range:u+0301,u+0400-045f,u+0490-0491,u+04b0-04b1,u+2116}@font-face{font-display:swap;font-family:Merriweather;font-style:normal;font-weight:400;src:url(data:font/woff2;base64,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) format("woff2"),url(/static/merriweather-all-400-normal-5e7a0e6a9b864b89292d60ba5da59d4b.woff) format("woff");unicode-range:u+0102-0103,u+0110-0111,u+0128-0129,u+0168-0169,u+01a0-01a1,u+01af-01b0,u+1ea0-1ef9,u+20ab}@font-face{font-display:swap;font-family:Merriweather;font-style:normal;font-weight:400;src:url(/static/merriweather-latin-ext-400-normal-4657f5ab02d5923d223f96a9155a9bdc.woff2) format("woff2"),url(/static/merriweather-all-400-normal-5e7a0e6a9b864b89292d60ba5da59d4b.woff) format("woff");unicode-range:u+0100-024f,u+0259,u+1e??,u+2020,u+20a0-20ab,u+20ad-20cf,u+2113,u+2c60-2c7f,u+a720-a7ff}@font-face{font-display:swap;font-family:Merriweather;font-style:normal;font-weight:400;src:url(/static/merriweather-latin-400-normal-e009f21405b4d7e893674b69deb4cf4a.woff2) format("woff2"),url(/static/merriweather-all-400-normal-5e7a0e6a9b864b89292d60ba5da59d4b.woff) format("woff");unicode-range:u+00??,u+0131,u+0152-0153,u+02bb-02bc,u+02c6,u+02da,u+02dc,u+2000-206f,u+2074,u+20ac,u+2122,u+2191,u+2193,u+2212,u+2215,u+feff,u+fffd}
+
+/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */html{-webkit-text-size-adjust:100%;line-height:1.15}body{margin:0}main{display:block}h1{font-size:2em;margin:.67em 0}hr{box-sizing:content-box;height:0;overflow:visible}pre{font-family:monospace,monospace;font-size:1em}a{background-color:transparent}abbr[title]{border-bottom:none;text-decoration:underline;-webkit-text-decoration:underline dotted;text-decoration:underline dotted}b,strong{font-weight:bolder}code,kbd,samp{font-family:monospace,monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}img{border-style:none}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0}button,input{overflow:visible}button,select{text-transform:none}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:1px dotted ButtonText}fieldset{padding:.35em .75em .625em}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}progress{vertical-align:baseline}textarea{overflow:auto}[type=checkbox],[type=radio]{box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}details{display:block}summary{display:list-item}[hidden]{display:none}html{font-family:Inter,sans-serif}@supports (font-variation-settings:normal){html{font-feature-settings:"liga" 1,"calt" 1;font-family:InterVariable,sans-serif}}:root{--maxWidth-none:"none";--maxWidth-xs:20rem;--maxWidth-sm:24rem;--maxWidth-md:28rem;--maxWidth-lg:32rem;--maxWidth-xl:36rem;--maxWidth-2xl:42rem;--maxWidth-3xl:48rem;--maxWidth-4xl:56rem;--maxWidth-full:"100%";--maxWidth-wrapper:var(--maxWidth-2xl);--spacing-px:1px;--spacing-2px:2px;--spacing-3px:3px;--spacing-0:0;--spacing-1:0.25rem;--spacing-2:0.5rem;--spacing-3:0.75rem;--spacing-4:1rem;--spacing-5:1.25rem;--spacing-6:1.5rem;--spacing-8:2rem;--spacing-10:2.5rem;--spacing-12:3rem;--spacing-16:4rem;--spacing-20:5rem;--spacing-24:6rem;--spacing-32:8rem;--fontFamily-sans:"Inter var","Futura",Verdana,Helvetica;--fontFamily-serif:"Inter var","Futura",Verdana,Helvetica;--font-body:var(--fontFamily-serif);--font-heading:var(--fontFamily-sans);--fontWeight-normal:400;--fontWeight-semi-normal:500;--fontWeight-bold:700;--fontWeight-black:900;--fontSize-root:16px;--lineHeight-none:1;--lineHeight-tight:1.1;--lineHeight-normal:1.5;--lineHeight-relaxed:1.625;--fontSize-0:0.833rem;--fontSize-1:1rem;--fontSize-2:1.2rem;--fontSize-3:1.44rem;--fontSize-4:1.728rem;--fontSize-5:2.074rem;--fontSize-6:2.488rem;--fontSize-7:2.986rem;--color-dark:#0e1013;--color-light:#fff;--color-primary-accent:#f74a1f;--color-secondary-accent:#41434c;--color-tertiary-accent:#99cbd7;--color-background:#efe8d8}*,:after,:before{box-sizing:border-box}::selection{background:var(--color-tertiary-accent)}::-moz-selection{background:var(--color-tertiary-accent)}html{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-size:var(--fontSize-root);line-height:var(--lineHeight-normal)}body{background-color:var(--color-background);color:var(--color-dark);font-family:var(--font-body);font-size:var(--fontSize-1);font-weight:var(--fontWeight-semi-normal)}footer{padding:var(--spacing-0) var(--spacing-0)}hr{border:1px var(--color-dark);border-style:none none dashed;margin-top:var(--spacing-1)}h1,h2,h3,h4,h5,h6{font-family:var(--font-heading);letter-spacing:-.025em;line-height:var(--lineHeight-tight);margin-bottom:var(--spacing-6);margin-top:var(--spacing-12)}h2,h3,h4,h5,h6{font-weight:var(--fontWeight-bold)}h1,h2,h3,h4,h5,h6{color:var(--color-dark)}h1{font-size:var(--fontSize-6);font-weight:var(--fontWeight-black)}h2{font-size:var(--fontSize-5)}h3{font-size:var(--fontSize-4)}h4{font-size:var(--fontSize-3)}h5{font-size:var(--fontSize-2)}h6{font-size:var(--fontSize-1)}h1>a,h2>a,h3>a,h4>a,h5>a,h6>a{color:inherit;text-decoration:none}p{--baseline-multiplier:0.179;--x-height-multiplier:0.35;line-height:var(--lineHeight-relaxed);margin:var(--spacing-0) var(--spacing-0) var(--spacing-8) var(--spacing-0)}ol,p,ul{padding:var(--spacing-0)}ol,ul{list-style-image:none;list-style-position:inside;margin-bottom:var(--spacing-8);margin-left:var(--spacing-0);margin-right:var(--spacing-0)}ol li,ul li{padding-left:var(--spacing-0)}li>p,ol li,ul li{margin-bottom:calc(var(--spacing-8)/2)}li :last-child{margin-bottom:var(--spacing-0)}li>ul{margin-left:var(--spacing-8);margin-top:calc(var(--spacing-8)/2)}blockquote{border-left:var(--spacing-1) solid var(--color-primary-accent);color:var(--color-secondary-accent);font-size:var(--fontSize-2);font-style:italic;margin-bottom:var(--spacing-8);margin-left:calc(var(--spacing-6)*-1);margin-right:var(--spacing-8);padding:var(--spacing-0) var(--spacing-0) var(--spacing-0) var(--spacing-6)}blockquote>:last-child{margin-bottom:var(--spacing-0)}blockquote>ol,blockquote>ul{list-style-position:inside}table{border-spacing:var(--spacing-1);width:100%}table,td,th{border:1px solid;margin-bottom:var(--spacing-8);text-align:left}td,th{padding:var(--spacing-2)}td:first-child{font-weight:var(--fontWeight-bold)}a{color:var(--color-primary-accent);text-decoration:none}a:active,a:focus,a:hover{background-color:var(--color-dark);border-bottom:var(--spacing-1) solid var(--color-primary-accent);color:var(--color-light);text-decoration:none}.global-wrapper{margin:var(--spacing-0) auto;max-width:var(--maxWidth-wrapper);padding:var(--spacing-10) var(--spacing-5)}.global-wrapper[data-is-root-path=true] .bio{margin-bottom:var(--spacing-20)}.global-header,.main-heading{margin-bottom:var(--spacing-12)}.main-heading{font-size:var(--fontSize-7)}.post-list-item{margin-bottom:var(--spacing-8);margin-top:var(--spacing-8)}.post-list-item p{margin-bottom:var(--spacing-0)}.post-list-item h2{color:var(--color-primary-accent);font-size:var(--fontSize-4);margin-bottom:var(--spacing-2);margin-top:var(--spacing-0)}.post-list-item header{margin-bottom:var(--spacing-4)}.nav-link{display:inline-block;font-weight:var(--fontWeight-black);margin-right:var(--spacing-3);position:relative}.nav-link,.post-link{border-bottom:var(--spacing-1) solid transparent;color:var(--color-primary-accent);font-size:var(--fontSize-1);margin-top:var(--spacing-1);text-decoration:none}.post-link{font-weight:var(--fontWeight-semi-normal)}.nav-link:hover,.post-link:hover{background-color:var(--color-dark);border-bottom:var(--spacing-1) solid var(--color-primary-accent)}.newsletter-container{margin-top:var(--spacing-8)}.newsletter-link{background:var(--color-primary-accent);box-shadow:6px 6px 0 0 var(--color-dark);color:var(--color-light);transition-duration:.4s}.newsletter-container:hover .newsletter-link,.newsletter-link{border:solid var(--color-dark) var(--spacing-1);border-radius:var(--spacing-1);font-weight:var(--fontWeight-black);margin-top:var(--spacing-12);padding:var(--spacing-3);text-decoration:none}.newsletter-container:hover .newsletter-link{background:var(--color-light);color:var(--color-dark)}.bio{margin-bottom:var(--spacing-12)}.bio p{font-size:var(--fontSize-2)}.bio p,.bio-avatar{margin-bottom:var(--spacing-0)}.bio-avatar{border:var(--spacing-px) solid var(--color-dark);border-radius:100%;box-shadow:0 0 .1rem .1rem var(--color-secondary-accent);margin-right:var(--spacing-4);min-width:32px}.bio-avatar-link:hover{background-color:transparent;border:none}.bio-avatar:hover{border:var(--spacing-3px) solid var(--color-dark);box-shadow:none;padding:var(--spacing-px)}.gallery-image{max-width:100%;min-width:100%}.about-image,.gallery-image{border-radius:var(--spacing-1);box-shadow:0 0 .15rem .15rem var(--color-secondary-accent);margin-bottom:var(--spacing-6)}.about-image{display:block;height:300px;width:250px}.about-image picture img,.gallery-image picture img{padding:var(--spacing-4)}.blog-post header h1{margin:var(--spacing-0) var(--spacing-0) var(--spacing-4) var(--spacing-0)}.blog-post header p{font-family:var(--font-heading);font-size:var(--fontSize-2)}.gatsby-highlight{margin-bottom:var(--spacing-8)}@media (max-width:42rem){blockquote{margin-left:var(--spacing-0);padding:var(--spacing-0) var(--spacing-0) var(--spacing-0) var(--spacing-4)}ol,ul{list-style-position:inside}.gallery-image{height:auto;max-height:100%;max-width:100%;width:auto}}code[class*=language-],pre[class*=language-]{word-wrap:normal;background:none;color:#000;font-family:Consolas,Monaco,Andale Mono,Ubuntu Mono,monospace;font-size:1em;-webkit-hyphens:none;hyphens:none;line-height:1.5;tab-size:4;text-align:left;text-shadow:0 1px #fff;white-space:pre;word-break:normal;word-spacing:normal}code[class*=language-] ::selection,code[class*=language-]::selection,pre[class*=language-] ::selection,pre[class*=language-]::selection{background:#b3d4fc;text-shadow:none}@media print{code[class*=language-],pre[class*=language-]{text-shadow:none}}pre[class*=language-]{margin:.5em 0;overflow:auto;padding:1em}:not(pre)>code[class*=language-],pre[class*=language-]{background:#f5f2f0}:not(pre)>code[class*=language-]{border-radius:.3em;padding:.1em;white-space:normal}.token.cdata,.token.comment,.token.doctype,.token.prolog{color:#708090}.token.punctuation{color:#999}.token.namespace{opacity:.7}.token.boolean,.token.constant,.token.deleted,.token.number,.token.property,.token.symbol,.token.tag{color:#905}.token.attr-name,.token.builtin,.token.char,.token.inserted,.token.selector,.token.string{color:#690}.language-css .token.string,.style .token.string,.token.entity,.token.operator,.token.url{background:hsla(0,0%,100%,.5);color:#9a6e3a}.token.atrule,.token.attr-value,.token.keyword{color:#07a}.token.class-name,.token.function{color:#dd4a68}.token.important,.token.regex,.token.variable{color:#e90}.token.bold,.token.important{font-weight:700}.token.italic{font-style:italic}.token.entity{cursor:help}</style><style>.gatsby-image-wrapper{position:relative;overflow:hidden}.gatsby-image-wrapper picture.object-fit-polyfill{position:static!important}.gatsby-image-wrapper img{bottom:0;height:100%;left:0;margin:0;max-width:none;padding:0;position:absolute;right:0;top:0;width:100%;object-fit:cover}.gatsby-image-wrapper [data-main-image]{opacity:0;transform:translateZ(0);transition:opacity .25s linear;will-change:opacity}.gatsby-image-wrapper-constrained{display:inline-block;vertical-align:top}</style><noscript><style>.gatsby-image-wrapper noscript [data-main-image]{opacity:1!important}.gatsby-image-wrapper [data-placeholder-image]{opacity:0!important}</style></noscript><script type="module">const e="undefined"!=typeof HTMLImageElement&&"loading"in HTMLImageElement.prototype;e&&document.body.addEventListener("load",(function(e){const t=e.target;if(void 0===t.dataset.mainImage)return;if(void 0===t.dataset.gatsbyImageSsr)return;let a=null,n=t;for(;null===a&&n;)void 0!==n.parentNode.dataset.gatsbyImageWrapper&&(a=n.parentNode),n=n.parentNode;const o=a.querySelector("[data-placeholder-image]"),r=new Image;r.src=t.currentSrc,r.decode().catch((()=>{})).then((()=>{t.style.opacity=1,o&&(o.style.opacity=0,o.style.transition="opacity 500ms linear")}))}),!0);</script><link rel="icon" href="/favicon-32x32.png?v=295f5271e5596ccd4ccdec1a8cbe8de6" type="image/png"/><link rel="manifest" href="/manifest.webmanifest" crossorigin="anonymous"/><link rel="apple-touch-icon" sizes="48x48" href="/icons/icon-48x48.png?v=295f5271e5596ccd4ccdec1a8cbe8de6"/><link rel="apple-touch-icon" sizes="72x72" href="/icons/icon-72x72.png?v=295f5271e5596ccd4ccdec1a8cbe8de6"/><link rel="apple-touch-icon" sizes="96x96" href="/icons/icon-96x96.png?v=295f5271e5596ccd4ccdec1a8cbe8de6"/><link rel="apple-touch-icon" sizes="144x144" href="/icons/icon-144x144.png?v=295f5271e5596ccd4ccdec1a8cbe8de6"/><link rel="apple-touch-icon" sizes="192x192" href="/icons/icon-192x192.png?v=295f5271e5596ccd4ccdec1a8cbe8de6"/><link rel="apple-touch-icon" sizes="256x256" href="/icons/icon-256x256.png?v=295f5271e5596ccd4ccdec1a8cbe8de6"/><link rel="apple-touch-icon" sizes="384x384" href="/icons/icon-384x384.png?v=295f5271e5596ccd4ccdec1a8cbe8de6"/><link rel="apple-touch-icon" sizes="512x512" href="/icons/icon-512x512.png?v=295f5271e5596ccd4ccdec1a8cbe8de6"/><link rel="preconnect" href="https://www.googletagmanager.com"/><link rel="dns-prefetch" href="https://www.googletagmanager.com"/><style data-styled="" data-styled-version="5.3.11"></style><link rel="alternate" type="application/rss+xml" title="Mihirchronicles RSS Feed" href="/rss.xml"/><title data-gatsby-head="true">On Product Management | The Mihir Chronicles</title></head><body><div id="___gatsby"><div style="outline:none" tabindex="-1" id="gatsby-focus-wrapper"><div class="global-wrapper" data-is-root-path="false"><a class="bio-avatar-link" href="/"><img src="/static/mehere-1c10259b2b25a3b5db518539891972a1.png" class="bio-avatar" layout="fixed" formats="auto,webp,avif" width="32" height="32" quality="95" alt="The Mihir Chronicles"/></a><header class="global-header"><div><a class="nav-link" href="/notes/">Notes</a><a class="nav-link" href="/bookshelf/">Books</a><a class="nav-link" href="/essays/">Essays</a><a class="nav-link" href="/work/">Work</a><a class="nav-link" href="/art/">Art</a><a class="nav-link" href="/about/">Me</a></div></header><main><article class="blog-post" itemscope="" itemType="http://schema.org/Article"><header><h1 itemProp="headline">On Product Management</h1><p>October 30, 2020</p><hr/></header><section itemProp="articleBody"><p>[<em>Last Revised: 07/10/2023</em>]</p>
+<p>In 2012, I accidentally started the journey of building products with a background in finance and accounting. It was a drastic career transition. At that time, I didn't know what <em>product management</em> was, but I was interacting with developers and designers without understanding their domain language.</p>
+<p>I have worked both on physical and digital products as a startup founder and as an employee. As an employee, I have worked at a tiny startup with 25 people to a mid-size organization with 3000 people to a large size organization with 30,000 people. Each one of these organizations with various sizes presented its own challenges and opportunities. Learning never stopped because of an organization size.</p>
+<p>Product Management can be a fulfilling career if you are an intellectual, polymath, enjoy solving hard problems, and like to think critically. It is analytical, creative and collaborative role. I love all 3 aspects about it. I love bringing abstract ideas to life by working with cross-functional teams. The discipline of product management allows me to jump boundaries while solving for complex business and customer problems.</p>
+<p>This is my private repository of notes accumulated over time. A few quotes below before a deep dive:</p>
+<blockquote>
+<p>Customers don't have needs, they just want to make progress within the system they belong. — Alan Klement</p>
+</blockquote>
+<blockquote>
+<p>Understanding a problem well means also understanding your competition, and understanding the systems around which this problem exists. — Julie Zhuo, former VP Product Design at Facebook</p>
+</blockquote>
+<blockquote>
+<p>People don't buy the problem, they buy your solution. Obviously they don't buy it if it's not solving something they care about, but there are many products that are solving what they care about. The real question is, do you solve it better than everybody else so that they buy you? And that's where you need to take time. — Marty Cagan</p>
+</blockquote>
+<blockquote>
+<p>A good product takes chaos and creates order. — Brian Nogard</p>
+</blockquote>
+<blockquote>
+<p>Actually using products helps you get better at your job, because you are more aware of the experiences your users are having. It hones your product sense and your ability to understand the user experience, and it allows you to learn in a hands-on way. — Shreyas Doshi</p>
+</blockquote>
+<blockquote>
+<p>The best PMs aren't the ones who are always looking inward. They look outward. They're the ones who are seeking opportunities outside their own product to get better at what they do. — Shreyas Doshi</p>
+</blockquote>
+<blockquote>
+<p>I think credit is infinitely divisible, and the atomic unit of success is a team, not an individual. You succeed or fail as a team. As a PM, your job is to ensure that recognition goes to the people working alongside you. — Shreyas Doshi</p>
+</blockquote>
+<blockquote>
+<p>You are the conductor of the orchestra. You’re guiding the people who are playing the instruments. You don't have to be able to play every instrument well, but you need to make sure everyone is on the same beat. That's the role of the PM. You don't have to play the violin better than all the violinists. You don't have to code better than your engineers. You don't have to design better than the designers. But you have to make sure everybody is working in tandem. — Shreyas Doshi</p>
+</blockquote>
+<blockquote>
+<p>Experimentation lies at the heart of every company's ability to innovate. — Thomke S</p>
+</blockquote>
+<blockquote>
+<p>Know the industry that you are in. Know what competitors are doing. — Kate Aronowitz, Design partner at Google Ventures</p>
+</blockquote>
+<blockquote>
+<p>People don’t want a quarter-inch drill. They want a quarter-inch hole. — Theodore Levitt</p>
+</blockquote>
+<blockquote>
+<p>We don’t track tasks—we track whether you shipped what you said you were going to ship. No burndown, velocity, story points—a lot of this process actually slows you down because it takes time and sucks the oxygen out of the room. Talk about value, not story points. — Geoff Charles, VP of Product, Ramp</p>
+</blockquote>
+<blockquote>
+<p>Take the bets with asymmetric upside. If an outcome has a 98% chance of failure and a 2% chance of massive benefits for the business, take the bet. That’s ultimately why startups are able to thrive. This applies to so many domains: hiring, selecting investors, building products, and even vendor selection. — Geoff Charles, VP of Product, Ramp</p>
+</blockquote>
+<blockquote>
+<p>Taking risks demands humor, kindness, and gratitude. If you’re taking asymmetric bets, you’re making decisions under high uncertainty and high risk. There are sometimes unknown consequences for other teams. Rather than spend time in analysis paralysis, we publish our assumptions and take accountability. In return, PMs can’t take themselves too seriously. We need to stay kind, express gratitude to all the teams we support, and be ready to apologize and own our mistakes. Life’s too short. — Geoff Charles, VP of Product, Ramp</p>
+</blockquote>
+<h2>What is product management?</h2>
+<p>Before I answer what is product management, let me be clear, what is not a product management? It is not scrum management and neither project management. Scrum doesn't teach you how to develop just like a product owner course doesn't teach you how to be a product manager.</p>
+<p>Product management is an organizational function within a company dealing with new product development, business justification, planning, verification, forecasting, pricing, product launch, and marketing of a product or products at all stages of the product lifecycle.</p>
+<p>Product lifecycle management is the process of managing the entire lifecycle of a product from inception, through engineering, design, prototyping, manufacturing physical products, scaling software businesses, to service, maintenance and disposal of products or retiring old legacy software.</p>
+<p>However, every organization does product management differently depending on several factors. If you are a small startup, PM is perhaps led by a CEO or some other executive or even by product development team. Product management is a structured discipline in mid-to-large organizations.</p>
+<p>Product management is about setting and driving a product vision for potential or existing users. A set of process or processes drives the product vision. Process defines the framework and discipline to accomplish the product vision. Every organization has a different process, but the following should be a starting point when defining a framework.</p>
+<ul>
+<li><em>Product Vision</em>: what do you want the world around you to look like in 6 months? 1 year? 2 years? 5 years?</li>
+<li><em>Outcome</em>: what do you want to achieve to help realize this product vision?</li>
+<li><em>Goals &#x26; Metrics</em>: what are the measurable goals along the way? How can you measure them?</li>
+<li><em>Strategy</em>: what are you going to do in sequence to hit your goals in near and long-term?</li>
+<li><em>Resourcing</em>: what resources do you need to hit these metrics? For example, how many engineers and designers do you need to build a feature or a product?</li>
+</ul>
+<h2>Product management model</h2>
+<p>In an organization with product model, product team exist to solve hard problems for their customers and for their business, in ways your customers love, yet work for your business.</p>
+<ul>
+<li>Value risk: will the customer buy our solution, or choose to use it?</li>
+<li>Viability risk: will this solution work for our business? Is it something we can effectively and legally get to market, sell, service, fund, and monetize?</li>
+<li>Usability risk: can the user easily learn, use and perceive the value of the solution?</li>
+<li>Feasibility risk: do we know how to build and scale this solution, with the staff, time, technology, and data we have?</li>
+</ul>
+<p>In a cross-functional product team, these are the critical competencies and what each is responsible and accountable for:</p>
+<ul>
+<li>The Product Manager is responsible for the value and viability risks, and overall accountable for the product’s outcomes.</li>
+<li>The Product Designer is responsible for the usability risk, and overall accountable for the product’s experience – every interaction your users and customers have with your product.</li>
+<li>The Product Engineer is responsible for the feasibility risk, and overall accountable for the product’s delivery.</li>
+</ul>
+<p>Product management can be engineering driven, design driven, business driven or project driven. If none of these focus on users, product management is done incorrectly. Every company has a different philosophy about the product development process and where PMs fit into that process. Below are the three most common types, with pros and cons:</p>
+<ul>
+<li><em>PM drives engineering</em>: where PMs gather requirements, write product requirement document, and hand it off to engineering to spec out the technical requirements. Contemporary organizations may do this process in a more agile and collaborative way, but the expectation is that PMs know best about what customers need and engineering is there to serve.
+<ul>
+<li>Pro: engineering can focus on coding without a lot of distraction; this tends to work well for <em>waterfall</em> development shops with established products.</li>
+<li>Con: engineers lose sight of the big picture and do not develop empathy for customers, which can lead to a poor customer experience. Often there are unhealthy tensions when technical debt and “plumbing” work needs to be prioritized over customer requirements.</li>
+</ul>
+</li>
+<li>Engineering drives product: technically oriented product companies (cloud, big data, networking) tend to be engineering-driven, where engineers are advancing the science in their domain and PMs validate solutions or create front end access points (UIs, APIs) to tap into new technology. There can be a collaborative relationship and feedback loop between customers, PMs, and engineering, but typically PMs are serving engineering in these companies.
+<ul>
+<li>Pro: breakthrough technology can offer customers things they didn’t even know they needed. An engineer thought it would be cool to do, a PM figured out how to monetize it, and it became a billion-dollar game changer for the company.</li>
+<li>Con: engineers chase the shiny new thing, over-architect the solution, or iterate forever, seeking perfection before getting customer feedback. PM input on priorities is ignored, which sometimes includes the most basic needs of customers.</li>
+</ul>
+</li>
+<li>PM-engineering partnership: there is a strong yin-yang between PM and engineering, with joint discovery, decision-making, and shared accountability. Engineers join PMs in customer interviews, and PMs are in sprint meetings to help unblock tasks or clarify requirements. But the two roles respect the line where one starts and the other stops. PMs understand what is being coded but don’t tell engineers how to code, and engineers have empathy for customers’ needs but leave the prioritization to the PMs.
+<ul>
+<li>Pro: a streamlined prioritization process that values technical debt and plumbing projects; better design processes leading to a more positive user experience; higher-performing teams with improved product velocity, quality, and, typically, happier customers.</li>
+<li>Con: breakthrough innovation may not get green lit; time-to-market may seem to lag (though I’d argue that what’s released is far better aligned with customer needs and more likely to successfully scale if iterated over time).</li>
+</ul>
+</li>
+</ul>
+<p><strong>Startup versus large organization</strong>: Product management at a startup versus a large organization can be a very different experience. The role of a PM at a startup is far more likely to be responsible to wear “all hats,” whereas at a mature company their role will be more distinctly defined.</p>
+<ul>
+<li><em>Startup</em>: beyond discovery, definition, and shipping, PMs may also be responsible for pricing, marketing, support, and potentially even sales. These PMs thrive in a scrappy environment and are comfortable with ambiguity and frequent changes to direction as the company works towards product-market fit and learns to operate at scale.
+<ul>
+<li>Pro: PMs are likely to be more involved with company strategy, get exposure to senior leadership and the board. Ownership pod is fairly large leading to making a bigger impact. They also have more influence and authority over company resources.</li>
+<li>Con: There’s typically little to no mentorship, role models, or best practices within the company. You may have to seek it externally. Budgets are typically tight, and PMs may not have the requisite experience to succeed at some of the things they’re tasked to do.</li>
+</ul>
+</li>
+<li><em>Mature organization</em>: The PM may have a narrower scope and have coworkers who handle pricing, go-to-market strategies, and so on. And they are likely to be part of a larger team of PMs.
+<ul>
+<li>Pro: PMs are more likely to have mentoring and role models, as well as development standards and best practices. Close association with an engineering team can create strong relationships over time, which is great for long-term impact and career growth. And if the product has market fit, there is an established customer base and performance baseline to work from, versus guessing until you get it right.</li>
+<li>Con: PMs have less exposure to company strategy and are just one of many voices of the customer. They can get “lost” in the system and have to deal with politics, process bottlenecks, competing priorities and tighter budgets. User feedback might not align with revenue goals which can make your job seem more like project management as opposed to product management (users are at the heart of product management).</li>
+</ul>
+</li>
+</ul>
+<p><strong>Product management goals</strong>: Practicing the discipline of product management without goals is like traveling in an empty universe. Goals define whether the progress is being made or not. In its purest form, a goal is a way to track whether you’re achieving what you set out to do. When setting goals, start with what you’re trying to achieve as a company, team and product. What’s your ultimate mission? A goal should never be an end in itself—the end is achieving your mission. A good goal has the following attributes:</p>
+<ul>
+<li><em>Concrete</em>: it’s clear and unambiguous (something that isn’t subjective).</li>
+<li><em>Simple</em>: everyone understands what it is and how it’s measured.</li>
+<li><em>Quick feedback loop</em>: the results of your changes can be seen quickly. Think about how long it takes for a user to reach the milestone you’re tracking, and whether you can expect movement in a reasonable time-frame.</li>
+<li><em>Business-oriented</em>: it’s easy to see how this goal actually drives the larger business need.</li>
+</ul>
+<h2>The role of a product manager</h2>
+<p>There are many flavors of product management, but being a PM is a job of influence to drive positive outcomes for the end user. Let's simplify it even further—<em>positive outcomes for a user</em>. However, it is not as straight-forward as it sounds in theory. To drive positive outcomes for the end user, PMs do many things, but are primarily focused on the following:</p>
+<ul>
+<li>PMs are responsible to set overall vision, direction, capability, quality and delivery of products. These responsibilities are scattered between associates and mid-senior level positions.</li>
+<li>PMs are able to build coalitions and get a buy in from functional groups—design, data, business, sales, and other cross-functional segments.</li>
+<li>There is no room for an ego. If there is a key player missing, it will make the PM look weak. Resourcing is not a primary job but is a key element to executing on delivering a great product. This is where the previous point comes into play. A strong partnership with others can help fill the in the gaps.</li>
+<li>PMs are constantly learning and picking up on domain knowledge. Best PMs are autodidacts because they are curious about everything. Sales, marketing, negotiation, design, or tech—they are all equally important to learn.</li>
+<li>PMs should have strong collaboration mindset. PMs are like point guard playing basketball because they make others look great. A good collaboration between business, design and tech make everyone look great.</li>
+<li>PMs understand the roadmap. It is important even if you don't own it. Features are prioritized based on the roadmap. PMs turn goals into projects with the help of their teams and entrepreneurial spirit. Too much to do is always a battle. That's the perpetual state of being a PM, but the goal is to use a hammer on the highest nail.</li>
+<li>Building with user adoption in mind. Beyond shipping new features on a regular cadence and keeping the peace between engineering and the design team, the best PMs create products with strong user adoption that have exponential revenue growth and perhaps even disrupt an industry.</li>
+<li>PMs should be capable of writing well. Communication is a key and able to communicate with several stakeholders all at once becomes challenging. One way to overcome that challenge is to document for all types of audience. It is a good idea to document something that can be obvious to your audience. Different things mean to different audience. Writing helps bridge that gap. Documentation culture helps scale up the communication to an entire organization.</li>
+<li>PMs should be resilient. Being resilient is a key to becoming a successful PM because if you are doing something hard, there will always be failures. Resiliency is hard to find in a resume. Great PMs are people who have overcome adversity in their life. Emotional intelligence goes a long way if there is a product execution or a life failure. From failure, everyone learns.</li>
+<li>Your management expects you to have a good enough sense of your team’s capacity and velocity that you can make the call on the spot.</li>
+</ul>
+<p>Brian Armstrong has excellent advice on what it takes to be a successful PM:</p>
+<blockquote>
+<p>My goal is to set you up for success as a new product manager. First, you’re going to have to dedicate yourself to the art of product management. It is one of those things, like people management, that seems simple, but can take many years to really master. The only way to learn it is to actually do it. That being said, reading about it and learning from others does help. One suggestion would be to speak with 2–3 product managers (here or at other companies) to get their view. Become a knowledge sponge. Copy others before you try to find your own voice and do something unique (that can come after you’ve achieved mastery). The main parts of the job in my view are: 1) Understand the customer deeply — this means user studies, you have to go talk to the users every week and spend a lot of time with them to hear their pain, get inside their head. 2) Be metrics driven, you should be using time series data to give you insight into what people are doing with the product and see if the changes you are making are improving things. If you haven’t instrumented the app and chosen a metric you want to improve, you are just guessing. 3) The product manager is responsible for prioritizing the product roadmap and communicating it to the team. Not as a top-down dictator, but as a consensus builder amongst all the stakeholders, breaking a tie when necessary. 4) You need to be a communication hub, both when building consensus internally on priorities/roadmap, but also externally communicating changes to customers. Users need to see that the product is continually improving by hearing about it from you. Everyone internally needs to be on the same page when changes roll out. You are the point of contact for all things related to this product. 5) Once you master all of that, you will need to develop product vision (conviction about where things are going in the future, make the hard calls about what to eliminate, etc) and strive to make something truly great. You can think about it not just as eliminating customer pain, but actually creating customer delight. In rare instances, you can wind up creating something that people actually love. (very few products attain this — nobody says they love Tide detergent, but people do say they love their Harley Davidson). On a practical note, you are responsible for the following tasks on the team: running product review, maintaining/updating the product roadmap, and doing sprint planning.</p>
+</blockquote>
+<p>Ian McAllister (former Amazon executive) response on Quora on how to become a top 1% — “The top 10% of product managers excel at a few of these things. The top 1% excel at most or all of them:</p>
+<ul>
+<li><em>Think big</em>: A 1% PM's thinking won't be constrained by the resources available to them today or today's market environment. They'll describe large disruptive opportunities and develop concrete plans for how to take advantage of them.</li>
+<li><em>Communicate</em>: A 1% PM can make a case that is impossible to refute or ignore. They'll use data appropriately, when available, but they'll also tap into other biases, beliefs, and triggers that can convince the powers that be to part with headcount, money, or other resources and then get out of the way.</li>
+<li><em>Simplify</em>: A 1% PM knows how to get 80% of the value out of any feature or project with 20% of the effort. They do so repeatedly, launching more and achieving compounding effects for the product or business.</li>
+<li><em>Forecast and measure</em>: A 1% PM is able to forecast the approximate benefit of a project and can do so efficiently by applying experience and leveraging comparable benchmarks. They also measure benefit once projects are launched and factor those learnings into their future prioritization and forecasts.</li>
+<li><em>Execute</em>: A 1% PM grinds it out. They do whatever is necessary to ship. They recognize no specific bounds to the scope of their role. As necessary, they recruit, they produce buttons, they do bizdev, they escalate, they tussle with internal counsel, they *.</li>
+<li><em>Understand technical trade-offs</em>: A 1% PM does not need to have a CS degree. They do need to be able to roughly understand the technical complexity of the features they put on the backlog, without any costing input from devs. They should partner with devs to make the right technical trade-offs (i.e. compromise).</li>
+<li><em>Understand good design</em>: A 1% PM doesn't have to be a designer, but they should appreciate great design and be able to distinguish it from good design. They should also be able to articulate the difference to their design counterparts, or at least articulate directions to pursue to go from good to great.</li>
+<li><em>Write effective copy</em>: A 1% PM should be able to write concise copy that gets the job done. They should understand that each additional word they write dilutes the value of the previous ones. They should spend time and energy trying to find the perfect words for key copy (button labels, nav, calls-to-action, etc.), not just words that will suffice.”</li>
+<li><em>Story-tellers:</em> the best PMs are able to weave tales that incorporate market needs, strategy, and tactics into a story that their stakeholders can get their heads around and hopefully adopt the story themselves. It can be challenging when you see something clearly, but you can’t get others around you to see it. You work through other people's eyes, so it takes a lot of convincing. You have to be a great communicator and storyteller. You have to read your audience. You have to try harder to understand others and find an angle to explain that makes sense to them. People you work with are smart, they just need a great story to be convinced.</li>
+<li><em>Learning by doing:</em> to master the art of product management requires several years of practice and doing. Natural talents won't be enough. Ultimately, the best thing you can do to prepare for a career in product management is to build. Manage and “own” a project from inception through execution and operation. Create KPIs to measure your impact.</li>
+<li><em>3 Ps:</em> analyze the 3 Ps—people, process and product, to assess on the quality of people, the best process to deliver the product, and excellence and relevance of a product. Keep in mind to not implement process for the sake of process. Relevance is a key to establish the right process.</li>
+<li><em>Hard decisions:</em> be willing to stand up for what you believe in, especially when you are representing your users. Confidence of a PM comes from having a strong work ethic and conviction. Conviction can be built using both intuition and data. Hard decisions make great products. Success is not guaranteed, but confidence eliminates fear of failure.</li>
+<li><em>Questions:</em> are a PM's best tool. The best way to understand what’s going on or how to get better is to pose probing questions to all stakeholders, and above all, to yourself. Stopping for a tune-up if you’re already further along the road is critical to leveling up as a leader. Questions help you travel on the right road. If you aren't on the right path it doesn't matter how fast you are traveling. Asking the right questions will help you choose the right road.</li>
+<li><em>Emotional Intelligence (EQ):</em> the best PMs have the ability to empathize with customers during surveys and interviews. A PM with a high EQ has strong relationships within their organization and a keen sense of how to navigate both internal and external hurdles to ship a great product. People don’t talk enough about EQ. PMs get huge value from being highly empathetic with the team, not just with users. There are plenty of smart people, but not enough people with the right balance of emotional intelligence.</li>
+<li><em>Social capital:</em> economic and social benefits derived from the preferential treatment and cooperation between individuals and groups. Components of social capital include reciprocity, trust and values. If these are shared between individuals within a network then the community will function as an organic whole. This is important for the next up, relationship management.</li>
+<li><em>Relationship management:</em> probably one of the most important characteristics of a great PM is relationship management skills. By forming authentic and trustworthy connections with both internal and external stakeholders, the best PMs inspire people and help them reach their full potential. Relationship management is also vital in successful negotiation, resolving conflicts, and working with others toward a shared goal, which is especially challenging when a PM is tasked with balancing the needs of customers, resource-constrained engineering teams, and the company’s revenue goals. Authentic and trusting relationships within an organization can lead to more support when additional funding is needed for a product or when an engineer must be swayed to include a quick bug fix in the next sprint. Outside an organization, these skills could encourage existing customers to beta test a new feature for early feedback or to convince a target customer to try the MVP of a product still in stealth mode.</li>
+<li><em>Social awareness:</em> PMs must understand customer's emotions and concerns about their product as much as they understand the concerns of the sales team on how to sell that product, or the support team on how to support it, or the engineering team on how to build it. PMs need deep understanding of how the organization operates and must build social capital to influence the success of their product, from obtaining budget and staffing to securing a top engineer to work on their product. Finally, social awareness ensures the best PMs service their customers with a product that addresses their jobs to be done, which is ultimately what drives product-market fit.</li>
+<li><em>Confirmation bias:</em> PMs must be self-aware of their own confirmation biases to avoid projecting their own preferences onto users of their products. PMs should stay objective in despite of features they love which addresses their own pain points. The lack of self-awareness in any sort of biases could derail more important priorities or damage the PM’s relationship with engineers, who may lose confidence in their PM when a feature isn’t adopted by users.</li>
+<li><em>Self-management:</em> being a PM can be incredibly stressful. The CEO wants one thing, the engineering team another, and customers have their own opinions about feature priorities. Managing tight deadlines, revenue targets, market demands, prioritization conflicts, and resource constraints all at once is not for the faint of heart. If a PM cannot maintain their emotions and keep it cool under pressure, they can quickly lose the confidence of all their constituents. The best PMs know how to push hard on the right priorities, with urgency but without conveying a sense of panic or stress. A PM should know when to take a breath and step away to regroup.</li>
+</ul>
+<p>Lastly, according to Marty Cagan, it is critical for PMs to have access to 3 things for them to be successful:</p>
+<ul>
+<li>The first is that that product manager needs unencumbered access to their users and customers.</li>
+<li>Second, product manager needs unencumbered access to the engineers.</li>
+<li>And the third is unencumbered access to the stakeholders.</li>
+</ul>
+<h2>Core responsibilities of a product manager</h2>
+<p>PMs are always learning, but they should keep up with core competencies. The following core competencies are the baseline for any PM, and the best PMs hone in on these skills over the years. The following core competencies are reflected in shipping the great products.</p>
+<ul>
+<li>Conduct customer interviews and user testing</li>
+<li>Run team wide including design and engineering sprints</li>
+<li>Roadmap planning</li>
+<li>Feature prioritization</li>
+<li>The art of resource allocation</li>
+<li>The art of managing conflicts</li>
+<li>Perform market assessments and conduct competitive analysis</li>
+<li>Assess market trends to explore innovative features</li>
+<li>Translate business-to-technical requirements, and vice versa</li>
+<li>Pricing and revenue modeling</li>
+<li>Community (internal or/and external) engagement</li>
+<li>Gauge prospects and beta users to adopt a new feature or a product</li>
+<li>Act as a liaison with cross-functional business units</li>
+<li>Document stories, epics, technical requirements, user workflows</li>
+<li>Support training and conduct demos for cross-functional teams</li>
+<li>Define and track adoption metrics</li>
+<li>Collect and prioritize user feedback</li>
+</ul>
+<h2>What should a PM do on Day 1?</h2>
+<p>What should a new PM do in the first month? Joining a new product team is like starting a new position on a basketball team; eager to play, but don't know the chemistry or tactics to perform. Training and practice is necessary before a PM can score. A structured program can provide training, but many organizations don't even understand what product management is, let alone what to train the new PMs on. More often than not PMs are left to sink or swim. Here is a framework I created during the first month of being a PM at Morningstar.</p>
+<ul>
+<li><strong>Company's mission</strong>
+<ul>
+<li>What is the underlying business?</li>
+<li>What is the objective of the business?</li>
+<li>How does the business help customers?</li>
+<li>Where does the company fall short on meeting customer's expectations?</li>
+</ul>
+</li>
+<li><strong>Learn the product</strong>
+<ul>
+<li>What is the product?</li>
+<li>Why are we building?</li>
+<li>Who are we building for?</li>
+<li>How are we going to build it?</li>
+<li>Are there any OKRs for each milestone?</li>
+</ul>
+</li>
+<li><strong>Meet the team &#x26; stakeholders</strong>
+<ul>
+<li>How is the team structured?</li>
+<li>What role does each member play?</li>
+<li>Where does the team excel?</li>
+<li>Where does the team fall short?</li>
+<li>Is the team aligned on product mission and strategy?</li>
+<li>What does the team expect of you?</li>
+</ul>
+</li>
+<li><strong>Review documentation &#x26; artifacts</strong>
+<ul>
+<li>Review product vision &#x26; strategy artifacts.</li>
+<li>Review the product roadmap.</li>
+<li>Review the product's technical requirements.</li>
+<li>Review JIRA board and backlog.</li>
+<li>Review the product's performance data.</li>
+</ul>
+</li>
+<li><strong>Execute</strong>
+<ul>
+<li>Provide and update Acceptance Criteria with appropriate context and information including design and data points.</li>
+<li>Help team unblock during sprint rituals by providing product &#x26; business context.</li>
+<li>Write documents that are missing.</li>
+</ul>
+</li>
+<li><strong>Test</strong>
+<ul>
+<li>Experiment &#x26; test hypothesis to find user engagement and value. Running physical experiments is relatively expensive, so companies have had to be parsimonious with the number of experiments.</li>
+<li>Controlled experiments, also called randomized experiments and A/B tests, have had a profound influence in many fields.</li>
+<li>The electric light bulb required more than 1,000 complex experiments. In modern times, with the magic of software, experimentation is much cheaper, and the ability to test innovative ideas unprecedented.</li>
+</ul>
+</li>
+<li><strong>Measure</strong>
+<ul>
+<li>Measure results from your experiments such as A/B tests.</li>
+<li>Track down your team decisions on a decision log and assess which ones succeeded.</li>
+<li>Measure team velocity for each sprint by tracking down start and close tickets.</li>
+<li>Evaluate qualitative feedback from users via usability testing or incoming feedback.</li>
+<li>Measure user growth. It is natural for a set number of users to leave. But on a longer scale, you will find product-market fit from users that stay around longer as time passes.</li>
+<li>Focus on outcome not outputs. To do that, ensure you understand the outcome.</li>
+<li>Metrics need to be understandable, comparable, actionable and normalized (ratio or rate).</li>
+<li>Be as specific when measuring metrics:
+<ul>
+<li>OK metric: new events created per week</li>
+<li>Good metric: new events created per week per user</li>
+<li>Great metric: % of users who create a new task, per week</li>
+<li>Awesome metric: % of users who create 3+ daily tasks, per week</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2>What is hidden in plain sight?</h2>
+<p>Peter Thiel, in his book, Zero to One, outlines his belief that the biggest insights in life are “hidden in plain sight”—concealed only by our preconceptions or tendency to accept realities as they are (complacency).</p>
+<blockquote>
+<p>Tell me something that’s true, that almost nobody agrees with you on. — Peter Thiel</p>
+</blockquote>
+<p>The product manager's (PM, I will be using the acronym for the remainder of the article) ultimate quest is to answer the following questions:</p>
+<ul>
+<li><em>What is hidden in plain sight?</em></li>
+<li><em>What does a user want? And how do you want your customers to become better at doing their job?</em></li>
+</ul>
+<p>From these questions above, I have realized from this past decade that product management is more of an art than a science. Product management is not formulaic. It requires a PM to come up with great ideas, but also build things that customers want and make their jobs easier. How to balance the two is the task on hand for a PM.</p>
+<p>I also believe there are two types of product managers—<em>generalist</em> and <em>technical</em>. Great PMs are generalist who are able to jump many boundaries of engineering, design and business. As engineering and design becomes more specialized, the generalist fills the gap. But surfacing those insights are not enough. Those insights need to solve user problems and need to be delivered to them at the right time. As much as the discipline of product management focuses on strategy, luck also plays a key role. iPhone would've never been successful if it was introduced any sooner or later. Technological advances play an important role on when to introduce the right product and features. For example, Blackberry had the best smartphone when Apple introduced an iPhone. Blackberry today is almost non-existent. This is another example of art versus science.</p>
+<p>Product management is also an execution job. Strategy plays a huge role, but strategy without execution serves neither the organization nor the end-user.</p>
+<blockquote>
+<p>Knowledge without action, is like having no knowledge at all. — Ted Nicholas</p>
+</blockquote>
+<blockquote>
+<p>The essence of strategy is choosing what not to do. — Michael Porter</p>
+</blockquote>
+<p>HP Labs, which was a pioneer a few decades ago, defined their product equation in the 1980s.</p>
+<blockquote>
+<p>Product = Customer x Business x Technology</p>
+</blockquote>
+<p>User problems don't need to be invented for the sake of doing the job of product management. For every feature or product delivered, there is only one question that can tell if meaningful work is being done, <em>“Are the users making progress with your product?”</em></p>
+<p>How can you ensure your users are making progress? If you are not using data on user engagement, you are relying on your intuition. But I said earlier that the discipline of product management is an art not a science. Correct, but it does not hurt to collect data on what is working and what is not. Just like everything else, balance between data and intuition is required here. Intuition is what leads to opinionated decisions. If you hold strong opinions when making decisions, it is your job to explain why.</p>
+<h2>Lessons from personal experiences</h2>
+<ul>
+<li><strong>Creating value (business and clients)</strong>:
+<ul>
+<li>Solving problems, not creating hype.</li>
+<li>The essence of product management is to discover and create value for the end user.</li>
+<li>A great product manager creates value by solving the right problem. The word “right” is key here.</li>
+<li>Focus on why, not the what; client won't come just because your team built a feature.</li>
+<li>Being a successful product manager requires the ability to thrive in ambiguity.</li>
+<li>Focus on results, not output; solve client's problems that work for business goals.</li>
+<li>People don't buy problems, they buy solutions.</li>
+<li>Empathize for user problems.</li>
+<li>People don't buy problems, they buy solutions.</li>
+<li>Good marketing isn’t about hype, manipulating, or reaching out to customers without their permission.</li>
+</ul>
+</li>
+<li><strong>Learning from doing</strong>:
+<ul>
+<li>Action produces information.</li>
+<li>Feature failure is not a disaster, but a learning step to get from v1 to v2.</li>
+<li>Learning never stops because problems never go away; cherishing this mindset helps you deal with day-to-day.</li>
+<li>Outcome driven culture is highly critical, but outcomes cannot be discussed without speed in mind or a launch plan. A project that doesn't get out to clients is risky. Outcomes with high velocity is what teams should strive for.</li>
+</ul>
+</li>
+<li><strong>Using data to drive insights</strong>:
+<ul>
+<li>Leverage data to craft a 5-star customer experience.</li>
+<li>There's a huge difference between data driven and data obsessed. Data driven organizations have plenty of data, but the data is not leveraged to make decisions. Data obsessed organizations have data in their DNA. They embed data in every meeting, conversation and domain in order to make decisions.</li>
+</ul>
+</li>
+<li><strong>Seeking collaboration</strong>:
+<ul>
+<li>Define products collaboratively, not sequentially.</li>
+<li>Collaboration can only happen when working in isolation is eliminated.</li>
+<li>Address product risks early—value (user), usability (design), feasibility (engineering) and business.</li>
+</ul>
+</li>
+<li><strong>Documentation is communication</strong>:
+<ul>
+<li>Application workflows and product requirements are absolute must and needs to be communicated upstream and downstream.</li>
+<li>It is also a product manager's responsibility to report and document bugs and feature gap.</li>
+<li>Sweating small details in feature gathering documentation and design artifacts</li>
+</ul>
+</li>
+<li><strong>Maintaining decision log</strong>:
+<ul>
+<li>Making decisions with cross-functional teams and stakeholders, so execution teams can move forward—present the situation, list dependencies &#x26; risks, share options available, list pros &#x26; cons and finally make a recommendation.</li>
+<li>A decision has both elements of data and opinion; knowing which one is a key to prevent analysis paralysis.</li>
+<li>Feature prioritization depends on trade-offs. You need to weigh both pros and cons for each decision your organization makes.</li>
+<li>While making a decision, look out for problems that are larger than the current scope. Able to deal with these trade-offs are impactful both in negative and positive way.</li>
+</ul>
+</li>
+<li><strong>Celebrating small and big wins to create product culture</strong>:
+<ul>
+<li>Celebrate if a feature optimization helps your product become faster. Celebrate if a feature optimization helps save a penny for your customer. Celebrate all small wins.</li>
+</ul>
+</li>
+</ul>
+<h2>Major subtopics of product management</h2>
+<ul>
+<li><strong>Product Intuition</strong>: Excellent product managers have great product sense. Below are the tips to getting there. The more you practice them, the better you will build product intuition while helping you make high conviction decisions. Your management expects you to have a good enough sense of your team’s capacity and velocity that you can make the call on the spot. If you don’t, you’ll immediately lose the respect of the other stakeholders in the room. Build this muscle soon before you ask for trouble, and you’ll grow an intuition around sizing and difficulty.
+<ul>
+<li>Use your product like a real customer.</li>
+<li>Validating business requirements in applications. Report bugs if something is broken.</li>
+<li>Research behavioral patterns about your target audience.</li>
+<li>Interview prospects.</li>
+<li>Conduct on-site research via observations.</li>
+<li>Read customer reviews (if there are any).</li>
+<li>Review your metrics primarily client sign-ups and drop-offs over weekly, monthly, quarterly and annually.</li>
+<li>Tag along customer service reps and sales.</li>
+<li>Explore industry blogs and competitor space.</li>
+<li>Understand the core growth loops so you can aim for the right features.</li>
+</ul>
+</li>
+<li><strong>Project Thinking vs Product Thinking</strong>:
+<ul>
+<li>Product Thinking:
+<ul>
+<li>Most important question: Why</li>
+<li>Optimize for: Outcomes</li>
+<li>Improves: Effectiveness</li>
+<li>Most important capability: Insight</li>
+<li>Biggest Differentiator: Creativity</li>
+<li>Biggest Secret: Simulation</li>
+<li>Effect on outcome: Exponential</li>
+<li>Most important core value: Empowerment</li>
+<li>When done in excess: Great plans gathering dust</li>
+</ul>
+</li>
+<li>Project Thinking:
+<ul>
+<li>Most important question: When</li>
+<li>Optimize for: Outputs</li>
+<li>Improves: Efficiency</li>
+<li>Most important capability: Execution</li>
+<li>Biggest Differentiator: Discipline</li>
+<li>Biggest Secret: Influence</li>
+<li>Effect on outcome: Multiplicative</li>
+<li>Most important core value: Action</li>
+<li>When done in excess: Heroic effort lacking results</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>User Stories vs Job Stories</strong>: User stories capture broad needs of user personas. Job stories zone in on specific situations where a product is 'hired' for a task. The difference is between general vs specific. Below are a few examples of specific features:
+<ul>
+<li>Push notifications
+<ul>
+<li>User story: As a user, I want to receive real-time notifications about updates or important events in the app, so that I can stay informed without having to open the app constantly.</li>
+<li>Job story: When an important event occurs, I want the app to notify me immediately, so l don't miss out on timely information or actions.</li>
+</ul>
+</li>
+<li>Dark mode
+<ul>
+<li>User story: As a user, I want to switch the app to dark mode, so that I can use it comfortably in low-light environments without straining my eyes.</li>
+<li>Job story: When I'm using my device in the dark, I want the app to adjust its theme to reduce eye strain, so I can continue using it without discomfort.</li>
+</ul>
+</li>
+<li>Offline mode
+<ul>
+<li>User story: As a user, I want to access the app's content even when I'm offline, so that I can continue my activities without interruption when I don't have an internet connection.</li>
+<li>Job story: When I lose my internet connection. I want the app to still provide me with essential functionalities, so I'm not left stranded or unable to complete my tasks.</li>
+</ul>
+</li>
+<li>Multi-language support
+<ul>
+<li>User story: As a user who speaks multiple languages, I want to switch the app's language to one I'm comfortable with so that I can use the app more effectively.</li>
+<li>Job story: When I lose my internet connection. I want the app to still provide me with essential functionalities, so I'm not left stranded or unable to complete my tasks.</li>
+</ul>
+</li>
+<li>Social media
+<ul>
+<li>User story: As a user, I want to share content from the app directly to my social media platforms, so that I can easily share interesting finds with my friends and followers.</li>
+<li>Job story: When I come across something share- worthy in the app, I want a seamless way to post it on my social media, so I can engage with my network without switching between multiple apps.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Analytical Thinking</strong>: Being analytical isn’t only about numbers. It is about developing healthy skepticism and curiosity, validating your hypothesis (and having a hypothesis in the first place) and vetting with multiple data points to get closer to the truth. It gives you a competitive edge, and you will learn to make informed decisions.
+<ul>
+<li>Retrieve: First, you need to learn how to get data. SQL is most common in work places.</li>
+<li>Analyze: Analytical thinking is to crunch numbers understand the why and execute at lightning speed. To do so you need the basic understanding of—patterns, nuances, absolute numbers &#x26; percentages, variances, expected vs actual, contribution to whole, peaks, margins and biases.</li>
+<li>Look for clues by asking:
+<ul>
+<li>Why is this happening?</li>
+<li>What is the impact?</li>
+<li>What should we do about it (if anything)?</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Capabilities vs Domain vs Experience</strong>: When requirements are defined, the big question is where to host the requirements? Like everything else, it depends on business architecture modeling. This is mostly designed by a system architect. How it gets packaged is not a product concern, but need to understand to drive feature requirements. No system is right or wrong, but a core architectural system might have the following:
+<ul>
+<li>Domain: What is the core functionality that drives business objective? It is associated with one data store in a database. Domains can be grouped in many ways, but it should always be driven by business objective that drives business value. For example, Order Management.</li>
+<li>Capabilities: How functionalities can be grouped. This layer can interact with several data stores.</li>
+<li>Experiences: How it gets integrated with capabilities to drive different platforms such as native applications vs web applications. It can interact with more than one capability to drive client experience. Having this layer helps reduce rebuilding of redundant functionalities and logic for various operating systems.</li>
+</ul>
+</li>
+<li><strong>Go-to-Market (GTM)</strong>: It is an organizational plan to deliver unique value proposition to customers and achieve competitive advantage. Below are the components of GTM. Start with debugging upstream or downstream of product cycle to optimize for GTM:
+<ul>
+<li>What exactly are you building? It starts with vision. But if the vision is wrong everyone is going home. It starts with product management.</li>
+<li>How do you position it? How do you tell the story in a short-time frame without using product jargon? Great product use less words to spread the message. It starts with product marketing.</li>
+<li>How do you do demand generation? How do you do sales? If the product does not sell, there is a gap in product market fit.</li>
+<li>How do you do customer retention? If the customers are churning, there is value deceleration.</li>
+</ul>
+</li>
+<li><strong>Product Market Fit (PMF)</strong>: It is another way to say you are in search for demand curve or another way to say you have produced value. Product market fit allows a company to sell product at scale. When people want to pull it out of your hands that is a product market fit. Company building should happen when you have a product market fit.
+<ul>
+<li>Use cohort analysis to measure product market fit. Look at a group of people that tried your product in a period of time (week, month, quarter). Then look at how many of those people continue to use your product for a while. You will have a fairly deep drop-off on the first month. Does it flatten somewhere? If so, that means that there are customers who are finding value in your product, which means you have PMF with these customers.</li>
+<li>Create a retention curve by plotting the percent of active users over time (for each cohort of users). If it flattens off at some point, you have probably found product/market fit for some market or audience.</li>
+</ul>
+</li>
+<li><strong>Product Marketing</strong>: The product manager (PM) defines the product vision and strategy. However, you cannot create a strategy without market and industry analysis, which is theoretically the product marketing manager's (PMM) main job. The main areas of responsibility for a product marketer are:
+<ul>
+<li>Discovery: target customers, customers’ jobs/needs (methods like interviews or surveys)</li>
+<li>Analyzing the market and the industry: Sizing market opportunities by considering Total Addressable Market (TAM), Serviceable Available Market (SAM), and Serviceable Obtainable Market (TOM). Analyzing market characteristics, like the average Annual Growth Rate, Average Revenue Per User (ARPU), average Customer Acquisition Cost (CAC), and average Churn Rate. Analyzing the industry (e.g., Porter’s Five Forces). Performing competitive analysis.</li>
+<li>Shaping how others think about the product: formulating the positioning strategy, which defines target customers, the product’s place in the market, its core benefits, and supporting evidence. Adjusting product messaging. In short, it’s about explaining why the product is awesome (copywriting, storytelling) based on positioning strategy.</li>
+<li>Enable others to tell the same story: training and guiding sales, resellers and other partners</li>
+<li>Creating the Go-to-market (GTM) strategy. It should include business goal, target customers, value proposition, positioning strategy and business model, including pricing.</li>
+</ul>
+</li>
+<li><strong>Strategy</strong>: Business strategy explains how a company tries to beat the competition. The ultimate goal of a strategy is to help us gain a competitive advantage, which leads to better financial results. For example, companies that try to beat competitors by offering lower prices are pursuing a cost leadership strategy (Aldi, Walmart, IKEA, Southwest Airlines, McDonald's, etc.). On the other side of the spectrum are companies that want to win by being unique. These companies can charge higher prices because they are perceived differently (Apple, Whole Foods Market, BMW, Qatar Airways, Four Seasons Hotels, etc.).
+<ul>
+<li>A strategy isn’t: a goal (goals only talk about why; a strategy also explains how), using best practices such as Design Thinking or Six Sigma (can be implemented by any competitor so they are not trade-off decisions) and merely a plan (strategy needs to lead to a competitive advantage).</li>
+<li>A strategy is: choosing what to do and what not to do, a series of trade-off decisions, a quest for competitive advantage, about being different (not merely better), focusing a company’s resources on the most critical issues.</li>
+<li>Blue Ocean Canvas is one of the most useful tools for designing strategies. To create a blue ocean we need to:
+<ul>
+<li>Define 5-12 competing factors.</li>
+<li>Plot a dominant industry line.</li>
+<li>Create your blue ocean offer by asking what competing factors can we eliminate, decrease, raise, and introduce.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Competitor Analysis</strong>: Understanding competitors’ strategy, business model, and future plans help us design better products and experiences. We can anticipate how competitors will react to our innovations, and how we can differentiate better (create unique value for our users).
+<ul>
+<li>The first step of competitor analysis is identifying competitors.</li>
+<li>Divide the competition into direct and indirect competitors. Direct competitors are companies that offer the same product (or service) and indirect competitors offer a different product that solves the same problem. For example, Uber’s direct competitors are taxi companies and Lyft. The indirect competitors are bike sharing services, public transport, car sharing services, and walking on foot.</li>
+<li>Gather data for insights. Divide data gathering into three buckets:
+<ul>
+<li>Business data: revenue, market share, etc.</li>
+<li>Product data: product portfolio, features, etc.</li>
+<li>Customers data: target group, reviews, etc.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Application Programming Interface (API)</strong>: APIs are mechanisms that enable two software components to communicate with each other using a set of definitions and protocols. For example, Morningstar's software system contains daily stock market data. The stock market app on your phone “talks” to this system via APIs and shows you daily stock prices on your phone. People interact with software through Graphical User Interfaces (GUIs) while software interacts with another software through APIs.
+<ul>
+<li>APIs are developer friendly. APIs can serve as [Placeholder]-As-A-Service. The placeholder can be wealth management, inventory management or ride-sharing. Simply by writing a few lines of code, platforms can let their customers set up any services. APIs abstract away code and business complexity. I can use ACH services through API without writing code or understanding how ACH works. APIs can be internal or external facing.</li>
+<li>APIs consist of functions, contracts, business logic which helps scale for adoption. Businesses today can use APIs from other software providers without having to invest their own resources to build out capabilities. If I am in the business of stock data, I do not need to build a payment gateway. I can use Stripe's API to build my business.</li>
+<li>Business model for API is pay-as-you-go. Every time an API is consumed, you get charged. API first companies have deep moats because they are highly specialized, but can also pose risk if a bigger company enters the market.</li>
+<li>Components are derivatives of APIs. They are reusable objects based on API specification.</li>
+<li>API architecture is usually explained in terms of client and server. The application sending the request is called the client, and the application sending the response is called the server.</li>
+<li>There are different kinds of APIs: SOAP APIs, REST APIs and Websocket APIs.</li>
+<li>REST APIs are the most popular and flexible APIs found on the web today. The client sends requests to the server as data. The server uses this client input to start internal functions and returns output data back to the client. REST stands for Representational State Transfer. REST defines a set of functions like GET, PUT, DELETE, etc. that clients can use to access server data. Clients and servers exchange data using HTTP. The main feature of REST API is statelessness. Statelessness means that servers do not save client data between requests. Client requests to the server are similar to URLs you type in your browser to visit a website. The response from the server is plain data, without the typical graphical rendering of a web page.
+<ul>
+<li>One software system sends a request to the API of another system and in return, the API sends the response. The request has a type and a payload. These APIs can be accessed via API keys or authentication tokens.</li>
+<li>REST uses various representation to represent a resource like text, JSON, XML but JSON is the most popular schema. A schema is a structure, which is defined in JSON format. It provides data type information for the data record fields. The schema defines whether a field in the record is a string, integer, floating point, or other data types.</li>
+<li>The request has a type and a payload.
+<ul>
+<li>Type signifies what should the API do: Add something (POST), Delete something (DELETE), Update something (PUT), or Fetch something (GET).</li>
+<li>The payload contains any important information that the API needs.</li>
+<li>Some APIs also have headers, which contain the authentication information, so that only the right systems can access the APIs.</li>
+<li>This request is sent to the end-point of the API, a place on the internet where this API lives (generally URL).</li>
+<li>When API receives the request, it takes some action, generates the response, and sends back a response.</li>
+<li>A response along with the returned data also contains a status code, which signifies if the API request was fulfilled or not.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>It is critical to know the ins and outs of a contract. You don't set your house on fire to test your smoke alarm. You test the contract. This ensures your applications will work together. The contract is between a consumer and a provider.</li>
+<li>GraphQL is a query language that was developed specifically for APIs. It prioritizes giving clients exactly the data they request and no more. It is designed to make APIs fast, flexible, and developer-friendly. As an alternative to REST, GraphQL gives front-end developers the ability to query multiple databases, microservices, and APIs with a single GraphQL endpoint. Organizations choose to build APIs with GraphQL because it helps them develop applications faster.</li>
+</ul>
+</li>
+</ul>
+<h2>Further reading</h2>
+<details>
+    <summary><strong>References</strong></summary>
+    <br>
+<ul>
+<li><a href="/build">Build by Tony Fadell</a></li>
+<li><a href="https://www.lennyrachitsky.com/">Lenny's Newsletter</a>
+<ul>
+<li><a href="https://www.lennysnewsletter.com/p/how-ramp-builds-product">Lenny's Newsletter | How Ramp Builds Product</a></li>
+<li><a href="https://www.lennyspodcast.com/the-ultimate-guide-to-jtbd-bob-moesta-co-creator-of-the-framework/">The ultimate guide to JTBD Lenny's Podcast | Bob Moesta </a></li>
+<li><a href="https://www.lennyspodcast.com/the-nature-of-product-marty-cagan-silicon-valley-product-group/#transcript">The nature of product | Marty Cagan, Silicon Valley Product Group</a></li>
+<li><a href="https://www.lennysnewsletter.com/p/building-beautiful-products-with#details">Building beautiful products with Stripe’s Head of Design | Katie Dill (Stripe, Airbnb, Lyft)</a></li>
+</ul>
+</li>
+<li><a href="https://www.svpg.com/product-core-competencies/">Product Core Competencies by Marty Cagan</a></li>
+<li><a href="https://www.svpg.com/coaching-tools-the-assessment/">Coaching Tools – The Assessment by Marty Cagan</a></li>
+<li><a href="https://www.svpg.com/product-management-theater/">Product Management Theater by Marty Cagan</a></li>
+<li><a href="http://www.quora.com/Product-Management/What-distinguishes-the-top-1-of-product-managers-from-the-top-10">What distinguishes the Top 1% of product managers from the Top 10%?</a></li>
+<li><a href="https://youtu.be/U_HBcBus1nI">The Essence of Product | Christian Idiodi</a></li>
+<li><a href="https://www.youtube.com/watch?app=desktop&#x26;v=h_8M23wVjXk">Shaping in a Nutshell by Ryan Singer at Basecamp</a></li>
+<li><a href="https://jasonevanish.com/2020/01/12/100-lessons-and-spicy-takes-on-being-a-software-product-manager/">Jason Evanish's Twitter thread</a></li>
+<li><a href="https://ai.stanford.edu/~ronnyk/ExPThinkWeek2009Public.pdf">Online Experimentation at Microsoft</a></li>
+<li><a href="https://brianbalfour.com/essays/product-market-fit">The Never Ending Road To Product Market Fit</a></li>
+<li><a href="https://sriramk.com/memos/brian_armstrong_new_PM_letter.pdf">The Coinbase CEO Brian Armstrong advice on being a new PM.</a></li>
+<li><a href="https://d.mba/guides/7-things-designer-should-know-about-business">7 Things Every Designer Should Know About Business</a></li>
+<li><a href="https://henryvasquez.com/2022/11/15/how-to-break-the-rules-of-product-management/">How to Break the Rules of Product Management by Henry Vasquez</a></li>
+<li><a href="https://dataschool.com/learn-sql/">Learn SQL</a>, <a href="https://www.khanacademy.org/computing/computer-programming/sql">Khan Academy SQL</a>, <a href="https://sqlzoo.net/wiki/SELECT_basics">SQL Zoo</a></li>
+<li><a href="https://dev.37signals.com/domain-driven-boldness/">Domain drive boldness</a></li>
+<li><a href="https://twitter.com/shreyas/status/1712262410764173598">You need to be more strategic by Shreyas Doshi</a></li>
+</ul>
+</details>
+<br /></section><footer></footer></article></main><footer><hr/><p><i>Drop me a note if you are curious to chat. Newsletter goes out once a year in December.</i></p><a href="https://twitter.com/mihirchronicles"><strong>Twitter</strong></a> <span> | </span><a href="https://www.linkedin.com/in/mihirchronicles/"><strong>Linkedin</strong></a> <span> | </span><a href="https://eepurl.com/hRGv2D"><strong>Newsletter</strong></a></footer></div></div><div id="gatsby-announcer" style="position:absolute;top:0;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0" aria-live="assertive" aria-atomic="true"></div></div><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-HTPE7YS2EL"></script><script>
+      
+      
+      if(true) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-HTPE7YS2EL', {"send_page_view":false});gtag('config', 'UA-63913047-1', {"send_page_view":false});
+      }
+      </script><script id="gatsby-script-loader">/*<![CDATA[*/window.pagePath="/on-product-management/";/*]]>*/</script><!-- slice-start id="_gatsby-scripts-1" -->
+          <script
+            id="gatsby-chunk-mapping"
+          >
+            window.___chunkMapping="{\"app\":[\"/app-e8575fea31aee5d56bb2.js\"],\"component---src-pages-404-js\":[\"/component---src-pages-404-js-9b4757eb9fab50e49d40.js\"],\"component---src-pages-about-js\":[\"/component---src-pages-about-js-d263b6152afee2a23980.js\"],\"component---src-pages-art-js\":[\"/component---src-pages-art-js-278773f416a069ca8883.js\"],\"component---src-pages-bookshelf-js\":[\"/component---src-pages-bookshelf-js-bf24b1cd2b83ba831a1c.js\"],\"component---src-pages-essays-js\":[\"/component---src-pages-essays-js-2a4088ca0c49b3f5a6fa.js\"],\"component---src-pages-index-js\":[\"/component---src-pages-index-js-f0be03e5a07034110350.js\"],\"component---src-pages-notes-js\":[\"/component---src-pages-notes-js-c0ad503bf179adfb44ec.js\"],\"component---src-pages-work-js\":[\"/component---src-pages-work-js-45d9962b7cc0fd4dbcb7.js\"],\"component---src-templates-blog-post-js\":[\"/component---src-templates-blog-post-js-32189f41f76c875b6215.js\"]}";
+          </script>
+        <script>window.___webpackCompilationHash="4f620f280cef538ce31f";</script><script src="/webpack-runtime-ff4b9e91080953685316.js" async></script><script src="/framework-ef3424a78eb1f95e334f.js" async></script><script src="/app-e8575fea31aee5d56bb2.js" async></script><!-- slice-end id="_gatsby-scripts-1" --></body></html>
