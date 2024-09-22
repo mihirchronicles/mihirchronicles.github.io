@@ -14,6 +14,6 @@ Instead, we should applaud bravery. It is not easy to build a product. The produ
 
 Even one of the best thinkers, late Charlie Munger would not bet against the doers, and he knew a heck lot more about how the world operates. He knew Elon Musk overestimates himself but he was wise enough not to ever bet against him.
 
-The world changes because of doers, not critics. Let's celebrate the doers for the bet they place on the future for what most think is not possible.
+The world changes because of doers, not critics. Let's celebrate the doers for the bet they place on the future for what most think is impossible or hard.
 
 I'd rather see the world building, failing and learning from it than being entertained for mockery.
