@@ -1,7 +1,7 @@
 ---
 title: "Principled Decision Making"
 tags: ["general"]
-date: "2024-10-18"
+date: "2024-10-05"
 draft: false
 path: "/essays/principled-decision-making"
 ---
