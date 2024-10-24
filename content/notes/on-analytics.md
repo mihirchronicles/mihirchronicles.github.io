@@ -370,7 +370,6 @@ Product metrics can be split into five categories:
 - Notion
     - [A brief history of Notion’s data catalog](https://www.notion.so/blog/a-brief-history-of-notions-data-catalog)
     - [Building and scaling Notion’s data lake](https://www.notion.so/blog/building-and-scaling-notions-data-lake)
-    - []()
 - Nike
     - [Nike: An Epic Saga of Value Destruction by Massimo Giunco](https://www.linkedin.com/pulse/nike-epic-saga-value-destruction-massimo-giunco-llplf/)
 
@@ -383,6 +382,7 @@ Product metrics can be split into five categories:
 - [Dashboard Design Patterns](https://dashboarddesignpatterns.github.io)
 - [Statista Facts & Research](https://www.statista.com/)
 - [Our World In Data](https://ourworldindata.org)
+- [Gap Minder](https://www.gapminder.org)
 - [Mixpanel](https://mixpanel.com)
 - [Amplitude](https://help.amplitude.com/hc/en-us/articles/360050153151-Build-a-retention-analysis)
 
