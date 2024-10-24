@@ -367,8 +367,12 @@ Product metrics can be split into five categories:
     - [Netflix Tech Blog](https://netflixtechblog.com/tagged/analytics)
 - DoorDash
     - [Starting an Analytics Org From Scratch — Lessons From a Decade at DoorDash](https://review.firstround.com/starting-an-analytics-org-from-scratch-lessons-from-a-decade-at-doordash/)
+- Notion
+    - [A brief history of Notion’s data catalog](https://www.notion.so/blog/a-brief-history-of-notions-data-catalog)
+    - [Building and scaling Notion’s data lake](https://www.notion.so/blog/building-and-scaling-notions-data-lake)
+    - []()
 - Nike
-    [Nike: An Epic Saga of Value Destruction by Massimo Giunco](https://www.linkedin.com/pulse/nike-epic-saga-value-destruction-massimo-giunco-llplf/)
+    - [Nike: An Epic Saga of Value Destruction by Massimo Giunco](https://www.linkedin.com/pulse/nike-epic-saga-value-destruction-massimo-giunco-llplf/)
 
 **Tools**
 - [Evan’s Awesome A/B Tools](https://www.evanmiller.org/ab-testing/)
