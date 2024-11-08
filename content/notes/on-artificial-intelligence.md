@@ -8,7 +8,32 @@ path: "/notes/on-artificial-intelligence"
 
 _**In Progress**_
 
-## Notes
+## Cognition
+
+### Intelligene 
+### Learning
+### Common Sense
+### Machines
+
+## History Of AI
+
+### Machine Learning 
+### AGI
+### AI
+### LLM
+### Neural Network
+### Transformer Model
+### XOR Problem
+
+## Singularity
+
+## Economic Impact
+
+## Gaps
+- Data wall & knowledge box
+- Inferences to connect dots for future discovery 
+
+## Applications & Experiments
 
 
 ## Further reading
