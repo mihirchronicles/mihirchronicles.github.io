@@ -215,6 +215,7 @@ I'll end this deep dive with this quote:
     - [The Best Commencement Speeches, Ever by NPR](https://apps.npr.org/commencement/)
     - [Storytelling by Scott Galloway](https://www.profgalloway.com/storytelling/)
     - [On being funny at work](https://www.lennysnewsletter.com/p/on-being-funny-at-work)
+    - [The Moth | The Art and Craft of Storytelling](https://themoth.org)
 
 </details>
 <br />
