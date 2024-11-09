@@ -189,6 +189,7 @@ I'll end this deep dive with this quote:
     - [Uncovering the Structure of the Greatest Communicators by Nancy Duarte](https://www.youtube.com/watch?v=1nYFpuc2Umk&feature=emb_title)
     - [The Danger of a Single Story by Chimamanda Ngozi Adichie](https://www.youtube.com/watch?v=D9Ihs241zeg)
     - [The science of storytelling by Will Storr](https://www.ted.com/talks/will_storr_the_science_of_storytelling)
+    - [Homework for Life | Matthew Dicks | TEDxBerkshires](https://www.youtube.com/watch?v=x7p329Z8MD0)
 - Inspiring Storytellers
     - [Sir Ken Robinson](https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity?language=en)
     - [Boyd Varty](https://www.youtube.com/watch?v=2hmATVhRD08)
@@ -199,6 +200,7 @@ I'll end this deep dive with this quote:
     - [Admiral McRaven](https://www.youtube.com/watch?v=yaQZFhrW0fU&list=FLrlPaGQuKQiYMqpFYyc-40A&index=28)
     - [Doris Kearns Goodwin](https://www.youtube.com/watch?v=KzSAFJBLyn4)
     - [Bill Gurley](https://www.youtube.com/watch?v=xmYekD6-PZ8&list=WL&index=4)
+    - [Matthew Dicks](https://matthewdicks.com)
     - Warren Buffett
     - Charlie Munger
     - Morgan Freeman
@@ -210,7 +212,9 @@ I'll end this deep dive with this quote:
     - [Minto Pyramid](https://www.harrisonmetal.com/library/storytelling-amp-presenting-1-thank-you-barbara-minto)
     - [South Park creators on storytelling](https://twitter.com/david_perell/status/1286900697749889025)
     - [Best speeches of all times](https://twitter.com/patrick_oshag/status/1499175362827272198)
+    - [The Best Commencement Speeches, Ever by NPR](https://apps.npr.org/commencement/)
     - [Storytelling by Scott Galloway](https://www.profgalloway.com/storytelling/)
+    - [On being funny at work](https://www.lennysnewsletter.com/p/on-being-funny-at-work)
 
 </details>
 <br />
