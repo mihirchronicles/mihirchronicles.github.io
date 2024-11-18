@@ -119,7 +119,7 @@ Most important life lessons are clichés but without them life can be a wild rid
 
 - **Valuable feedback hurts a lot.** Be careful in going in reactive or defensive mode.
 - **Luck increases with surface area.** Be in the right places, have lots of conversations, put yourself out there, ask for what you want and be optimistic and positive.
-- **Seek uncorrelated inputs** if you want to think originally and differently. Read wide and deep. Read older things over newer things.
+- **Seek uncorrelated inputs** if you want to think originally and differently. Read wide and deep. Read older things over newer things. Form opinions and then find the strongest critique of those opinions. Repeat.
 - As my wife says, **now is the good old times.** Nostalgia is now, don't waste it.
 - **Shortcuts will eventually bite you.** Seek high integrity, even when it costs you.
 - **Know your what makes you the worst version of yourself.**
@@ -128,3 +128,5 @@ Most important life lessons are clichés but without them life can be a wild rid
 - **20s are for explorations. 30s are for execution.** Don't waste it.
 - **Find people who energize you and make you want to conquer the world.** Go be friends with them.
 - **The energy you put out in the world, you get back.**
+- **Beware over-delegation and being too far from the details.**
+- **Doom scrolling and reading too much drowns out your inner voice.** Lean more towards action.
