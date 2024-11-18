@@ -124,8 +124,10 @@ Most important life lessons are clichés but without them life can be a wild rid
 - **Shortcuts will eventually bite you.** Seek high integrity, even when it costs you.
 - **Know what makes you the worst version of yourself.** Find your flaws so you can improve your current version.
 - **Know what makes you the best version of yoursef.** Figure out what gives you enduring value. For me it is exercising and learning.
-- **Do things that uplifts you.** It sounds simple but the imabalance life will put you over the edge. Wasting time is depressing. Spend time on your hobbies or explore alone or with your friends and family. It is the best way to lift your spirit.
+- **Do things that uplifts you.** It sounds simple but the imabalance life will put you over the edge. Wasting time is depressing. Spend time on your hobbies or explore alone or with your friends and family. It is the best way to lift your spirit. 
+- **Time is undefeated.** The only way to compete with time is to do things. The clock doesn't stop, but once you do something, clock cannot take it away. Take charge now.
 - **Hard work and play are indistinguishable.** You will see this in so called successful people. They are serious about the game they play. This is also true for children. They are pretty intense because they are serious when they play. This is where childlike wonder comes from.
+- **The challenge in life is figuring out both which game to play and how to play it best.**
 - **The way to get things done is to be small and move fast.** Moving fast forces you to strip things down to the bare bones. Impose urgency. Yes, no one is dying, but the missions drive humanity forward. Small is less complex. 2 is better than 4. 4 is better than 8. This is the nature of power laws.
 - **20s are for explorations. 30s are for execution.** Don't waste it.
 - **Find people who energize you and make you want to conquer the world.** Go be friends with them.
@@ -140,8 +142,13 @@ Most important life lessons are clichés but without them life can be a wild rid
 - **Status seeking activities will eventually burn you out.** Focus on substance and enduring value creation.
 - **Slowing down feels natural as you get older.** Shift your priorities, lean into changes, be curious about new things, maintain child like wonder and move a lot. This should help prevent from slowing down.
 - **High agents don't ask for approvals and permissions.** Figure out what you want to do, and plant the “this is happening” flag. People will come along for the ride.
+
+> I am the master of my fate. I am the captain of my soul. — Mandela
+
+> Life is a use it or lose it proposition. — Bill Gurley
+
 - **You will always be short of money** but faith and obsession will drive you even further. Learn to work around constraints and use intangible resources that are availale to us.
-- **Don’t network, make friends.** Everyone wants to be human and short-term transactions don't standout.
+- **Don’t network, make friends.**  In all men’s lives one of the most dominant elements is the desire to be inside the local ring and the terror of being left outside. You can choose the friendship route or the transactional route to get in. One will standout longer than the other.
 - **Be honest in your endeavours of learning.** Real learning is extremely hard and effortful. Anything that is too digestible is entertainment. We are bombarded with digestible things in the age of internet—podcasts, twitter, articles, etc.
 - **Reality is endlessly surprising.** Technology tools were supposed to kill humanity. They haven't yet. Media is supposed to know the election outcome based on their polling. Everyone knows the stock market direction. No one knows. Be aware of Knightian uncertainty.
 - **The world is a museum of passion projects.** 
