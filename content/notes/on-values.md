@@ -120,10 +120,10 @@ Most important life lessons are clichés but without them life can be a wild rid
 - **Valuable feedback hurts a lot.** Be careful in going in reactive or defensive mode.
 - **Luck increases with surface area.** Be in the right places, have lots of conversations, put yourself out there, ask for what you want and be optimistic and positive.
 - **Seek uncorrelated inputs** if you want to think originally and differently. Read wide and deep. Read older things over newer things. Form opinions and then find the strongest critique of those opinions. Repeat.
-- As my wife says, **now is the good old times.** Nostalgia is now, don't waste it.
+- As my wife says, **now is the good old days.** Nostalgia is now, don't waste it.
 - **Shortcuts will eventually bite you.** Seek high integrity, even when it costs you.
 - **Know what makes you the worst version of yourself.** Find your flaws so you can work on it.
-- **Know what makes you the best version of yoursef.** Figure out what gives you enduring value. For me it is exercising.
+- **Know what makes you the best version of yoursef.** Figure out what gives you enduring value. For me it is exercising and writing.
 - **Do things that uplifts you.** It sounds simple but the imabalance life will put you over the edge. Wasting time is depressing. Spend time on your hobbies or explore alone or with your friends and family. It is the best way to lift your spirit. 
 - **The way to get things done is to be small and move fast.** Moving fast forces you to strip things down to the bare bones. Impose urgency. Yes, no one is dying, but the missions drive humanity forward. Small is less complex. 2 is better than 4. 4 is better than 8. This is the nature of power laws.
 - **20s are for explorations. 30s are for execution.** Don't waste it.
