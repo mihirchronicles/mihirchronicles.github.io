@@ -122,22 +122,23 @@ Most important life lessons are clichés but without them life can be a wild rid
 - **Seek uncorrelated inputs** if you want to think originally and differently. Read wide and deep. Read older things over newer things. Form opinions and then find the strongest critique of those opinions. Repeat.
 - As my wife says, **now is the good old days.** Nostalgia is now, don't waste it.
 - **Shortcuts will eventually bite you.** Seek high integrity, even when it costs you.
-- **Know what makes you the worst version of yourself.** Find your flaws so you can work on it.
-- **Know what makes you the best version of yoursef.** Figure out what gives you enduring value. For me it is exercising and writing.
-- **Do things that uplifts you.** It sounds simple but the imabalance life will put you over the edge. Wasting time is depressing. Spend time on your hobbies or explore alone or with your friends and family. It is the best way to lift your spirit. 
+- **Know what makes you the worst version of yourself.** Find your flaws so you can improve your current version.
+- **Know what makes you the best version of yoursef.** Figure out what gives you enduring value. For me it is exercising and learning.
+- **Do things that uplifts you.** It sounds simple but the imabalance life will put you over the edge. Wasting time is depressing. Spend time on your hobbies or explore alone or with your friends and family. It is the best way to lift your spirit.
+- **Hard work and play are indistinguishable.** You will see this in so called successful people. They are serious about the game they play. This is also true for children. They are pretty intense because they are serious when they play. This is where childlike wonder comes from.
 - **The way to get things done is to be small and move fast.** Moving fast forces you to strip things down to the bare bones. Impose urgency. Yes, no one is dying, but the missions drive humanity forward. Small is less complex. 2 is better than 4. 4 is better than 8. This is the nature of power laws.
 - **20s are for explorations. 30s are for execution.** Don't waste it.
 - **Find people who energize you and make you want to conquer the world.** Go be friends with them.
 - **The energy you put out in the world, you get back.** 
-- **Beware over-delegation and being too far from the details.**
+- **Beware of over-delegation and being too far from the details.** I see too many people avoid real work. The work is in the details.
 - **Doom scrolling and reading too much drowns out your inner voice.** Lean more towards action.
 - **Days with 0 output are the killers** and it matters when you know your primary focus but watch out for workaholic behavior.
 - **Imposter comes from overconsuming.** You need to balance your production and consumption balance.
-- **There is a right time for things.** Personal finance is not taught in school and it should be is frequently talked about but if kids don't have comprehension for the topic, what good does it do?
+- **Learning happens when both context and time are right.** Personal finance should be taught in highshcool is frequently discussed about but if young adults don't have comprehension for the topic, what good will it do? 
 - **Take the leap if you are thinking about it.** Now is the time.
 - **Conduct annual reflection** on everything that matters.
 - **Status seeking activities will eventually burn you out.** Focus on substance and enduring value creation.
-- **Slowing down feels natural as you get older.** Shift your priorities, lean into changes, be curious about new things and move a lot. But refuse to slow down otherwise you will feel older.
+- **Slowing down feels natural as you get older.** Shift your priorities, lean into changes, be curious about new things, maintain child like wonder and move a lot. This should help prevent from slowing down.
 - **High agents don't ask for approvals and permissions.** Figure out what you want to do, and plant the “this is happening” flag. People will come along for the ride.
 - **You will always be short of money** but faith and obsession will drive you even further. Learn to work around constraints and use intangible resources that are availale to us.
 - **Don’t network, make friends.** Everyone wants to be human and short-term transactions don't standout.
