@@ -123,11 +123,9 @@ Lets's explore it how.
 
 Below are interesting use cases I have gathered to 10x your productivity. Note, LLMs don't perform any actions outside their knowledge base, while AI agents are designed to take actions, make decisions, and interact with systems.
 
-
 | <div style="width:150px"> **Model**</div> | **Application** & **Prompt** |
 | --- | --- |
-| Optical Character Recognition (OCR)| **Model**: [Google OCR](https://cloud.google.com/use-cases/ocr), [Meta TextOCR](https://research.facebook.com/publications/textocr-towards-large-scale-end-to-end-reasoning-for-arbitrary-shaped-scene-text/), [Llama OCR](https://github.com/Nutlope/llama-ocr). **AI Assistant**: [Claude](https://claude.ai/). **What**: Extract text and data from images and documents, turn unstructured content into business-ready structured data, and unlock valuable insights. **How**: Take a screenshot of the Zoom screen. Upload it to Claude. Ask to OCR Zoom call attendees. This is helpful during sales. **Promt**: What is the professional background of Zoom call attendees? Can you OCR everyone with a full name with a searchable LinkedIn profile for each person? |
-|||
+| Optical Character Recognition (OCR)| **Model**: [Google OCR](https://cloud.google.com/use-cases/ocr), [Meta TextOCR](https://research.facebook.com/publications/textocr-towards-large-scale-end-to-end-reasoning-for-arbitrary-shaped-scene-text/), [Llama OCR](https://github.com/Nutlope/llama-ocr) powered by [meta-llama/Llama-3.2-11B-Vision](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision). **AI Assistant**: [Claude](https://claude.ai/). **Details**: Extract text and data from images and documents, turn unstructured content into business-ready structured data, and unlock valuable insights. Take a screenshot of the Zoom screen. Upload it to Claude. Ask to OCR Zoom call attendees. This is helpful during sales or other virtual calls. **Promt**: What is the professional background of people on the call? Can you OCR everyone that has a name displayed with their searchable social profiles such as Linkedin? |
 
 ## Random Notes 
 - No learner is immune to the curse of dimensionality. It’s the second worst problem in machine learning, after overfitting (over stretching assumptions beyond parameters). — Pedro Domingos, Author or The Master Algorithm
