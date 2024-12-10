@@ -71,7 +71,7 @@ A book on investment legends. William Green is a well-known financial journalist
 - You get a lot of A’s and B’s in school. In the stock market, you get a lot of F’s. And if you’re right six or seven times out of ten, you’re very good.
 - All of humanity’s problems stem from man’s inability to sit quietly in a room alone.
 - I feel wealthier not because I have more money but because I’ve got health, good friendships, I’ve got a great family. Prosperity takes all of these things into consideration: health, wealth, happiness, peace of mind. That’s what a prosperous person is, not just a lot of money. That doesn’t mean anything. – Van Den Berg
-If all you succeed in doing in life is getting rich by buying little pieces of paper, it’s a failed life. Life is more than being shrewd in wealth accumulation. — Charlie Munger
+- If all you succeed in doing in life is getting rich by buying little pieces of paper, it’s a failed life. Life is more than being shrewd in wealth accumulation. — Charlie Munger
 - It’s frightening to think that you might not know something, but more frightening to think that, by and large, the world is run by people who have faith that they know exactly what’s going on.
 - If you just go around and identify all of the disasters and say, ‘What caused that?’ and try to avoid it, it turns out to be a very simple way to find opportunities and avoid troubles.
 - I don’t have any wonderful insights that other people don’t have. I just have slightly more consistently than others avoided idiocy. Other people are trying to be smart. All I’m trying to be is non-idiotic. I find that all you have to do to get ahead in life is to be non-idiotic and live a long time. It’s harder to be non-idiotic than most people think.
