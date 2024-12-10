@@ -54,7 +54,7 @@ A book on investment legends. William Green is a well-known financial journalist
     - Mike Zapata
     - Paul Yablon
     - Whitney Tilson
-    - François-Marie Wojcik
+    - Francois-Marie Wojcik
     - Sarah Ketterer
     - Christopher Davis
     - Raamdeo Agrawal
