@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 10 Dec 2024 03:27:21 GMT</lastBuildDate><item><title><![CDATA[Richer, Wiser, Happier | How The World's Greatest Investors Win In Markets And Life by William Green]]></title><description><![CDATA[I. Brief Summary A book on investment legends. William Green is a well-known financial journalist and has access to many of the world's best…]]></description><link>https://mihirchronicles.com/richer-wiser-happier/</link><guid isPermaLink="false">https://mihirchronicles.com/richer-wiser-happier/</guid><pubDate>Sat, 07 Dec 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;I. Brief Summary&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 11 Dec 2024 01:17:47 GMT</lastBuildDate><item><title><![CDATA[Richer, Wiser, Happier | How The World's Greatest Investors Win In Markets And Life by William Green]]></title><description><![CDATA[I. Brief Summary A book on investment legends. William Green is a well-known financial journalist and has access to many of the world's best…]]></description><link>https://mihirchronicles.com/richer-wiser-happier/</link><guid isPermaLink="false">https://mihirchronicles.com/richer-wiser-happier/</guid><pubDate>Sat, 07 Dec 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;I. Brief Summary&lt;/h2&gt;
 &lt;p&gt;A book on investment legends. William Green is a well-known financial journalist and has access to many of the world&apos;s best investors. He shares lessons learned from his interviews of superinvestors. The book is filled with gems of wisdom and clonable concepts. If emulating these investors to become rich is nice in theory but tough to execute, emulating the way they live to become happy might not work even in theory because of their cold and difficult personalities. Nonetheless, the lessons can be fine tuned to lead a great investing and personal life.&lt;/p&gt;
 &lt;h2&gt;II. Big Ideas&lt;/h2&gt;
 &lt;ul&gt;
@@ -1558,8 +1558,19 @@ for neural-net training called a &lt;em&gt;transformer&lt;/em&gt;. The following
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Companies&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;Google
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.unofficialgoogledatascience.com/&quot;&gt;Unofficial Google Data Science&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Meta
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://medium.com/@AnalyticsAtMeta&quot;&gt;Analytics at Meta&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;AirBnB
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering&quot;&gt;Airbnb Tech Blog&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7#.miqyczkzb&quot;&gt;Experiments at Airbnb&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/experiment-reporting-framework-4e3fcd29e6c0#.cbl72jip2&quot;&gt;Experiment Reporting Framework by AirBnB&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/https-medium-com-jonathan-parks-scaling-erf-23fd17c91166&quot;&gt;Scaling Airbnb’s Experimentation Platform&lt;/a&gt;&lt;/li&gt;
@@ -1591,6 +1602,7 @@ for neural-net training called a &lt;em&gt;transformer&lt;/em&gt;. The following
 &lt;/li&gt;
 &lt;li&gt;Netflix
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://netflixtechblog.com/&quot;&gt;Netflix Tech Blog&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://research.netflix.com/research-area/analytics&quot;&gt;Netflix Research Lab&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://netflixtechblog.com/tagged/analytics&quot;&gt;Netflix Tech Blog&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
