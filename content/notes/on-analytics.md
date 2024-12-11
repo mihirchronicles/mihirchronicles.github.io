@@ -347,7 +347,12 @@ Product metrics can be split into five categories:
 - [Daniel McCarthy](https://www.linkedin.com/in/danielmcc/)
 
 **Companies**
+- Google
+    - [Unofficial Google Data Science](https://www.unofficialgoogledatascience.com/)
+- Meta
+    - [Analytics at Meta](https://medium.com/@AnalyticsAtMeta)
 - AirBnB
+    - [Airbnb Tech Blog](https://medium.com/airbnb-engineering)
 	- [Experiments at Airbnb](https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7#.miqyczkzb)
 	- [Experiment Reporting Framework by AirBnB](https://medium.com/airbnb-engineering/experiment-reporting-framework-4e3fcd29e6c0#.cbl72jip2)
 	- [Scaling Airbnb’s Experimentation Platform](https://medium.com/airbnb-engineering/https-medium-com-jonathan-parks-scaling-erf-23fd17c91166)
@@ -364,6 +369,7 @@ Product metrics can be split into five categories:
 - Stitch Fix
     - [Want to make good business decisions? Learn causality](https://multithreaded.stitchfix.com/blog/2019/12/19/good-marketing-decisions/)
 - Netflix
+    - [Netflix Tech Blog](https://netflixtechblog.com/)
     - [Netflix Research Lab](https://research.netflix.com/research-area/analytics)
     - [Netflix Tech Blog](https://netflixtechblog.com/tagged/analytics)
 - DoorDash
