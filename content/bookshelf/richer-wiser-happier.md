@@ -9,59 +9,105 @@ A book on investment legends. William Green is a well-known financial journalist
 ## II. Big Ideas
 - Many of the investors talk about how they have created systems to mitigate risk but every system is doomed to fail because there is so much randomness that it can drive you insane.
 - The lessons shared can also be conflicting because some invest almost all of their money in just a few stocks, but that’s contrary to the advice given by Benjamin Graham (value investor legend), who says diversification is key.
-- Investors covererd in this book—some well known and others heard for the first time:
-    - Sir John Templeton
-    - Irving Kahn
-    - Bill Ruane
-    - Marty Whitman
-    - Jack Bogle
-    - Charlie Munger
-    - Ed Thorp
-    - Howard Marks
-    - Joel Greenblatt
-    - Bill Miller
-    - Mohnish Pabrai
-    - Tom Gayner
-    - Guy Spier
-    - Fred Martin
-    - Ken Shubin Stein
-    - Matthew McClennan
-    - Jeffrey Gundlach
-    - Francis Chou
-    - Thyra Zerhusen
-    - Thomas Russo
-    - Chuck Akre
-    - Li Lu
-    - Pat Dorsey
-    - Michael Price
-    - Mason Hawkins
-    - Bill Ackman
-    - Jeff Vinik
-    - Mario Gabelli
-    - Laura Geritz
-    - Brian McMahon
-    - Henry Ellenbogen
-    - Donald Yacktman
-    - Bill Nygren
-    - Paul Lountzis
-    - Jason Karp
-    - Will Danoff
-    - François Rochon
-    - John Spears
-    - Joel Tillinghast
-    - Nick Sleep & Qais Zakaria
-    - Paul Isaac
-    - Mike Zapata
-    - Paul Yablon
-    - Whitney Tilson
-    - Francois-Marie Wojcik
-    - Sarah Ketterer
-    - Christopher Davis
-    - Raamdeo Agrawal
-    - Arnold Van Den Berg
-    - Mariko Gordon
-    - Jean-Marie Eveillard
-    - Guy Spier
+- Investors covererd in this book:
+    - **Sir John Templeton**: 
+        - Templeton bought stock in 104 U.S. companies, trading at $1 or less, in 1939 at the brink of WWII based on the theory that companies would see huge demand if war broke out. He invested $100 per stock. He made money on 100 out of 104 stocks—a total of 5x his money. Templeton shorted 84 internet stocks, selling at triple its IPO price during the Dotcom Bubble on the theory that insiders would dump their shares after the lockup period ended. He bet $2.2 million on each stock ($185 million total) and made $90 million when the bubble burst. His strategy was to place short bets 7 days before the lockup expiration and cover the bets 10 days after expiration. He also had a rule in place to cover if the stocks rose a certain amount (to protect from excessive losses).
+        - You have to buy at a time when other people are desperately trying to sell.
+        - It’s a human failing to even put your mind on a question of which stock market is going to go up or down. No one knows that.
+        - Six Guiding Principles:
+            - Beware of emotions. 
+                - Most people get led astray by emotions in investing. They get led astray by being excessively careless and optimistic when they have big profits, and by getting excessively pessimistic and too cautious when they have big losses. 
+                - To buy when others are despondently selling and to sell when others are enthusiastically buying is the most difficult. But it pays the greatest rewards.
+            - Beware of your own ignorance.
+                - So many people buy something with the tiniest amount of information. They don't really understand what it is that they are buying. The one with the greatest information is likely to come out ahead. It takes a huge amount of work and study and investigation. Templeton claimed that diligence had played a much greater role in his success than innate talent.
+                - He often spoke of his determination to give the extra ounce - to make the extra call, to schedule the extra meeting, to take the extra research trip. He was similarly dedicated to his lifelong programme of continuous self-education.
+            - You should diversify broadly to protect yourself from your own fallibility.
+                - Investing is so difficult, that even the best investors should assume that they'll be right no more than two-thirds of the time, however hard they work.
+            - Invest in a company only if it falls within your circle of competence.
+            - The best way to find bargains is to study whichever assets have performed most dismally in the past five years, then to assess whether the cause of those woes is temporary or permanent.
+                - Most people are naturally drawn to investments that are already successful. Templeton took the opposite approach asking "Where is the outlook worst?"
+            - One of the most important things for an investor is not to chase fads.
+                - The best way for an investor to avoid popular delusions is to focus not on outlook but on value.
+    - **Irving Kahn**
+        - Investing is about preserving more than anything.
+        - Considering the downside is the single most important thing an investor must do. This task must be dealt with before any consideration can be made for gains.
+        - If you achieve only reasonable returns and suffer minimal losses, you will become a wealthy man and will surpass any gambler friends you may have. This is also a good way to cure your sleeping problems.
+    - **Bill Ruane**:
+        - He learned his investing principles from Albert Hettinger.
+        - Do not borrow money to buy stocks. You don't act rationally when you're investing borrowed money.
+        - Watch out for momentum. Proceed with extreme caution “when you see markets going crazy”, either because the herd is panicking or charging into stocks at irrational valuations.
+        - Ignore market predictions: I firmly believe that nobody knows the market will do....The important thing is to find an attractive idea and invest in a company that's cheap.
+        - Invest in a small number of stocks that you have researched so intensively that you have an informational advantage. I don’t know anybody who can really do a good job investing in a lot of stocks except Peter Lynch. It was the most important principle for Ruane, according to Green.
+        - You don’t act rationally when you’re investing borrowed money.
+        - Most people would be much better off with an index fund.
+    - **Marty Whitman**
+    - **Jack Bogle**
+        - Don’t take excessive risk.
+        - Keep your costs low.
+        - The crowd is always wrong.
+    - **Charlie Munger**
+        - Avoid stupidity. Other people are trying to be smart. All I’m trying to be is non-idiotic.
+        - Common errors:
+            - Listening to market predictions.
+            - Buying cyclicals at the top of the cycle or poor businesses at market tops.
+            - Being close-minded.
+            - Doing things because “other people do it.”
+            - Rush to decisions.
+            - Ego, overconfidence, overoptimism.
+        - If you would persuade, appeal to interest and not to reason. This maxim is a wise guide to a great and simple precaution in life: Never, ever, think about something else when you should be thinking about the power of incentives.
+        - A systematic process of studying counterarguments, taking a devil’s advocate approach, or writing premortems (assuming disaster) are ways to limit biases and improve decisions.
+        - Lists of your biggest biases, emotional tendencies, and mistakes serve as a good checklist before making a decision.
+        - If you’re going to be in this game for the long pull, which is the way to do it, you better be able to handle a fifty percent decline without fussing too much about it. And so my lesson to all of you is, conduct your life so that you can handle the fifty percent decline with grace.
+        - You have to be like a man standing with a spear next to a stream. Most of the time he’s doing nothing. When a fat juicy salmon swims by, the man spears it. Then he goes back to doing nothing. It may be six months before the next salmon goes by.
+    - **Ed Thorp**
+        - As far as gambling is concerned, if I don’t have an edge, I don’t play.
+        - He heavily relied on the Kelly Criterion to size positions.
+        - Had a chance to invest in LTCM but passed because they were taking too much risk....So the probability of their ruin appeared substantial to me.
+    - **Howard Marks**
+    - **Joel Greenblatt**
+    - **Bill Miller**
+    - **Mohnish Pabrai**
+    - **Tom Gayner**
+    - **Guy Spier**
+    - **Fred Martin**
+    - **Ken Shubin Stein**
+    - **Matthew McClennan**
+    - **Jeffrey Gundlach**
+    - **Francis Chou**
+    - **Thyra Zerhusen**
+    - **Thomas Russo**
+    - **Chuck Akre**
+    - **Li Lu**
+    - **Pat Dorsey**
+    - **Michael Price**
+    - **Mason Hawkins**
+    - **Bill Ackman**
+    - **Jeff Vinik**
+    - **Mario Gabelli**
+    - **Laura Geritz**
+    - **Brian McMahon**
+    - **Henry Ellenbogen**
+    - **Donald Yacktman**
+    - **Bill Nygren**
+    - **Paul Lountzis**
+    - **Jason Karp**
+    - **Will Danoff**
+    - **François Rochon**
+    - **John Spears**
+    - **Joel Tillinghast**
+    - **Nick Sleep & Qais Zakaria**
+    - **Paul Isaac**
+    - **Mike Zapata**
+    - **Paul Yablon**
+    - **Whitney Tilson**
+    - **Francois-Marie Wojcik**
+    - **Sarah Ketterer**
+    - **Christopher Davis**
+    - **Raamdeo Agrawal**
+    - **Arnold Van Den Berg**
+    - **Mariko Gordon**
+    - **Jean-Marie Eveillard**
+    - **Guy Spier**
 
 ## III. Quotes
 - Everything is on a path to fade. — Matthew McLennan
