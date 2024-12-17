@@ -1,7 +1,7 @@
 ---
 title: "On Artificial Intelligence"
 tags: ["general"]
-date: "2024-11-30"
+date: "2024-12-15"
 draft: false
 path: "/notes/on-artificial-intelligence"
 ---
