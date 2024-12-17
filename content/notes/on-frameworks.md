@@ -274,7 +274,7 @@ The domain model has the following elements:
 
 1. **Domain Objects**: Entities with an ID which can be indexed
 2. **Values**: A property value wrapped in a class 
-3. **Aggregates**: A group of related Entities
+3. **Aggregates**: A group of related entities
 
 These elements represent the domain (business logic) in which the problem is solved. In a domain model, you model objects and draw associations between them so that you have high level idea on how the system will work and how they will interact with each other.
 
