@@ -42,6 +42,7 @@ A few things about information architecture I have learned over the years.
 - [A visual vocabulary for describing information architecture and interaction design](http://www.jjg.net/ia/visvocab/)
 - [Journal of Information Architecture](https://journalofia.org)
 - [An experimental chart of the visualize action of information architecture and user interaction](https://medium.com/@zamake/an-experimental-chart-for-visualize-information-architecture-and-user-interaction-361bebf44487)
+- [Your secret weapon to a great data model might be sitting on your UX team](https://medium.com/tegus-tech/ayour-secret-weapon-to-a-good-data-model-might-be-sitting-on-your-ux-team-953e1e982103)
 - [Ask HN: What are some well-designed websites?](https://news.ycombinator.com/item?id=37419447)
 - [Ontology, Taxonomy and Choreography as a model for understanding information architecture. An excerpt from a half-day workshop on information architecture given by Dan Klyn for The Understanding Group](https://www.youtube.com/watch?v=6oaxdq7uqIY)
 
