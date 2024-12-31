@@ -162,3 +162,4 @@ Most important life lessons are clichés but without them life can be a wild rid
 - **Everything worthwhile takes a long-time.** Don't give-up too easily.
 - **Choose to do things magnify your spirit.**
 - **Choose joy over fear. Choose joy over anger. Choose joy over animosity. Choose joy above everything else.**
+- **Always check the y-axis.** Don't generalize reality based on y-axis because scale can be compressed or expanded based on author's incentives or biases. Disproportionate scale creates unwanted fear portrayed by media. Always question the data before you buy into any narrative.
