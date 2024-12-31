@@ -1,14 +1,15 @@
 ---
-title: "On Values"
+title: "On Examined Life"
 tags: ["general"]
-date: "2021-07-10"
+date: "2016-01-01"
 draft: false
-path: "/notes/on-values"
+path: "/notes/on-examined-life"
 ---
 
-Most important life lessons are clichés but without them life can be a wild ride. Living a quality life with conviction is worth pursuing and only way to lead a quality life is to understand your belief system. I have mine listed below. These are not hard rules but a way to hold myself accountable to certain standard in life. Here are my values and principles based on my experiences. They go in no particular order.
+Socrates was right about _an unexamined life is not worth living_.
 
-- Socrates was right about **an unexamined life is not worth living**.
+Most important life lessons are clichés but without them life can be a wild ride. Living a quality life with conviction is worth pursuing and only way to lead a quality life is to understand your belief system. These are not hard rules but a way to hold myself accountable to certain standard in life. Here are a few things on life I have examined based on my experiences. They go in no particular order.
+
 - **Seek excellence.** It fills your soul. Be a yardstick of quality where excellence is expected.
 - **Don't set rules, set values.** Rules set limits that teach us to adopt a fixed view of the world. Values encourage us to internalize principles for ourselves. 
 - **Seek honesty in all matters.** Without honesty none of the values below matter. It is easy to fool yourself subconsciously because your brain will allow you to play all sort of games and tricks. Once you give in to these tricks, breaking the honesty wall becomes a habit and lying becomes a norm. And yes, lying to yourself is not okay either! This is why honesty is the highest virtue you will carry. It takes years to build reputation and minutes to break trust. The byproduct of being honest is authenticity and originality because it leads you to a path that you want to take, not led by someone else. So always strive to seek for authenticity. If you are honest, you will own your individuality and the world will respect you for that. And if you ever screw up, actively seek out correction, accept ownership of your mistake and the world will forgive you. These are the traits of honest people.
@@ -160,6 +161,6 @@ Most important life lessons are clichés but without them life can be a wild rid
 - **You are the custodian of your own integrity**. People won't care about it until you breach their trust so hold it to its highest standard until it becomes a problem.
 - **Pick presence over productivity or quick hacks**. Attention is the rarest and purest form of generosity.
 - **Everything worthwhile takes a long-time.** Don't give-up too easily.
-- **Choose to do things magnify your spirit.**
-- **Choose joy over fear. Choose joy over anger. Choose joy over animosity. Choose joy above everything else.**
+- **Choose to do things that magnify your spirit.**
+- **Choose joy over fear. Choose joy over animosity. Most importantly, choose joy above everything else.**
 - **Always check the y-axis.** Don't generalize reality based on y-axis because scale can be compressed or expanded based on author's incentives or biases. Disproportionate scale creates unwanted fear portrayed by media. Always question the data before you buy into any narrative.
