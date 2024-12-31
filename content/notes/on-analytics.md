@@ -24,6 +24,8 @@ Data-driven and optimization should co-exist, but too much optimization without 
 
 In mathematics, a local maximum is the largest value of a function within given parameters. That does not mean it is the largest possible value, the largest in a particular range. Consider a lake on a mountainside. The water isn't at its lowest level. It would be sea level, but it is at the lowest possible level in the area.
 
+> Data can't tell you about the future. It can only tell you about the past...You have to trust yourself and your team to go for it. — Doug McMillon​
+
 Optimization is all about finding the lowest or highest values, but within constrained range. If you tell a machine to build a bike with 3 tires, with the most stable layout, it will come up with a tricycle-like configuration. It is the most optimal solution. However, there is another option. Four wheels would be better to provide the most stability. Math is good at optimizing a known system. Human judgement is good at finding a new one. 
 
 Optimizing without a soul misses the bigger picture. Quantitative data is great for testing hypotheses, but it is lousy to generate new ones unless you combine with human judgement.
