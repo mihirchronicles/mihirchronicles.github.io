@@ -5,7 +5,6 @@ date: "2020-10-30"
 draft: false
 path: "/notes/on-product-management"
 ---
-[_Last Revised: 07/10/2023_]
 
 In 2012, I accidentally started the journey of building products with a background in finance and accounting. It was a drastic career transition. At that time, I didn't know what *product management* was, but I was interacting with developers and designers without understanding their domain language.
 

@@ -5,7 +5,6 @@ date: "2021-07-10"
 draft: false
 path: "/notes/on-values"
 ---
-[_Last Revised: 11/17/2024_]
 
 Most important life lessons are clichés but without them life can be a wild ride. Living a quality life with conviction is worth pursuing and only way to lead a quality life is to understand your belief system. I have mine listed below. These are not hard rules but a way to hold myself accountable to certain standard in life. Here are my values and principles based on my experiences. They go in no particular order.
 

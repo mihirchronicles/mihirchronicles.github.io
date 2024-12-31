@@ -5,7 +5,6 @@ date: "2020-09-06"
 draft: false
 path: "/notes/on-writing"
 ---
-[_Last Revised: 11/11/2022_]
 
 The underlying motivation for the piece stemmed from my personal hobby of reading. This led to fiddling with unstructured thoughts and ideas. It was hard for them to stick. 
 

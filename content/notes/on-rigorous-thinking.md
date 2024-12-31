@@ -5,7 +5,6 @@ tags: ["general"]
 draft: false
 path: "/notes/on-rigorous-thinking"
 ---
-[_Last Revised: 06/25/2022_]
 
 Striving for rigorous thinking over lazy thinking should be everyone’s goal. Rigorous thinking enforces people to defend their thesis and advocate their ideas. The ideas are backed by data rooted in reality. Lazy thinking is a black box of logic where people don’t know why something works.
 
