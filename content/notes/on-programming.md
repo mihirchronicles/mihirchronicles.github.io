@@ -56,15 +56,6 @@ Every software product is built with the same three parts.
     - It is critical to know the ins and outs of a contract. You don't set your house on fire to test your smoke alarm. You test the contract. This ensures your applications will work together. The contract is between a consumer and a provider.
     - GraphQL is a query language that was developed specifically for APIs. It prioritizes giving clients exactly the data they request and no more. It is designed to make APIs fast, flexible, and developer-friendly. As an alternative to REST, GraphQL gives front-end developers the ability to query multiple databases, microservices, and APIs with a single GraphQL endpoint. Organizations choose to build APIs with GraphQL because it helps them develop applications faster.
 
-## Testing
-
-Testing is essential to successfully shipping new features the first time and ongoing maintenance of existing software. Testing is a high-leverage area for PMs to quickly improve your product quality. There are many types of testing, but we’ll focus on the following:
-
-- Unit tests: Unit tests are code written in combination with new functions, to test a variety of functionality. This is the lowest level of testing. The percentage of the code base that has associated unit tests is called coverage. 
-- Integration tests: Integration tests are tests between different components of the software. For example, we might test that the new feature we added to upsell customers at checkout properly works with our tax calculation service. This is targeted testing between components that are independent but closely related.
-- End-to-end tests: End-to-end (E2E) tests are a full walkthrough of the desired workflow and interact with all relevant systems. E2E testing is more time-intensive but often reveals issues you otherwise might not find. This is especially true if the workflow is dependent on many services working together correctly.
-- User acceptance tests: User acceptance tests are typically in the domain of product or design. These tests require users to use the current version of your feature from beginning to end with minimal intervention. From this, you’ll learn if the interaction design is intuitive or if more work is needed before making the feature available.
-
 ## Monolithic vs Microservice Architecture
 
 - A monolithic architecture is a traditional approach where an entire application is built as a single, self-contained unit. This architecture has several characteristics:
@@ -97,7 +88,164 @@ Testing is essential to successfully shipping new features the first time and on
   - Scalability Requirements: If high scalability is needed, microservices might be the better choice.
   - Development Speed: Monoliths can offer faster initial development, while microservices provide better long-term flexibility.
 
-### CSS
+## Testing, debugging & performance
+
+Testing is essential to successfully shipping new features the first time and ongoing maintenance of existing software. Testing is a high-leverage area for PMs to quickly improve your product quality. There are many types of testing, but we’ll focus on the following:
+
+- Unit tests: Unit tests are code written in combination with new functions, to test a variety of functionality. This is the lowest level of testing. The percentage of the code base that has associated unit tests is called coverage. 
+- Integration tests: Integration tests are tests between different components of the software. For example, we might test that the new feature we added to upsell customers at checkout properly works with our tax calculation service. This is targeted testing between components that are independent but closely related.
+- End-to-end tests: End-to-end (E2E) tests are a full walkthrough of the desired workflow and interact with all relevant systems. E2E testing is more time-intensive but often reveals issues you otherwise might not find. This is especially true if the workflow is dependent on many services working together correctly.
+- User acceptance tests: User acceptance tests are typically in the domain of product or design. These tests require users to use the current version of your feature from beginning to end with minimal intervention. From this, you’ll learn if the interaction design is intuitive or if more work is needed before making the feature available.
+
+<details>
+  <summary>Testing</summary>
+
+A well functioning team cannot rely on creating features in a hurry, throwing them over the fence and then expecting our applications to work well and without bugs. To instil quality from the start of a feature, there should be tests for it.
+
+Automated testing helps with this. Pre-commit hooks can be used when deploying builds so that errors are caught and addressed early. Unit tests can be run using pre-commit hooks. See a post [here](https://amberwilson.co.uk/blog/unit-tests/). However, there is a fine line between having too many automated tests, e.g. end-to-end tests that take too long to run with each build, and not having enough. Some companies run quicker unit tests on each build, and then run end-to-end tests as a nightly build.
+
+Manual testing is important too. It is usually done by QA engineers, and helps reveal edge cases that automated tests do not catch.
+
+JavaScript lacks the strict type checking of Java, which is a blessing and a curse. Code is easier to write but requires more testing to ensure correctness.
+</details>
+
+<details>
+  <summary>Debugging & Console</summary>
+
+Debugging is one of the key skills required to be a great developer. Below are the key things you need to know when working with the debugger.
+
+1. Step over code, steps over a function that doesn't contain a bug and runs its code
+2. Step into code, steps inside a function and allows you to run each part separately
+3. Step out of code, steps out of a function you are inside, and runs its code
+4. Resume execution of code
+
+Check out the docs on the [Firefox](https://developer.mozilla.org/en-US/docs/Tools/Debugger) debugger and the [Chrome](https://developers.google.com/web/tools/chrome-devtools/javascript/reference#breakpoints) debugger. Also check out [this article](https://peterlyons.com/js-debug) from Peter Lyons. He explains debugging of both front-end and back-end JavaScript code. Another great resource on [debugging javascript](https://blog.bitsrc.io/debugging-javascript-like-a-pro-a2e0f6c53c2e).
+
+A lot of people use `console.log` to debug in the console. `console.log` is your best friend. The `log()` method of `console` logs things to the web console. What some people may not know is that you can log things in nice ways! Here are three:
+
+**1. Computed property names -**
+
+The following objects could be logged one at a time:
+
+```js
+const cat = { name: 'Fluffy', colour: 'orange', specialSkill: 'staring' }
+const dog = { name: 'Thor', colour: 'brown', specialSkill: 'running' }
+const fish = { name: 'Glub', colour: 'blue', specialSkill: 'blowing bubbles' }
+```
+
+And the results would be as follows:
+
+```js
+console.log(cat) // {name: "Fluffy", colour: "orange", specialSkill: "staring"}
+console.log(dog) // {name: "Thor", colour: "brown", specialSkill: "running"}
+console.log(fish) // {name: "Glub", colour: "blue", specialSkill: "blowing bubbles"}
+```
+
+**2. CSS in the console -**
+
+Define styles like this in the console:
+
+```js
+var styles = [
+  'background: linear-gradient(#21618C, #5DADE2)',
+  'padding: 5px',
+  'border-radius: 8px',
+  'text-align: center',
+  'color: white',
+  'display: block',
+].join(';')
+```
+
+Then prefix console log with the `%c` flag, adding the `styles` variable to the end:
+
+```js
+console.log(
+  `%c My cat is ${cat.name}, ${cat.colour}, ${cat.specialSkill}`,
+  styles
+)
+```
+
+Try it in your console or look at [this](https://codesandbox.io/embed/determined-wozniak-4lt93) example on CodeSandbox!
+
+**3. Tables in the console**
+
+To display objects in a table in order to more easily compare them, try using `console.table`. You can do so with the animal objects above by running:
+
+```js
+console.table([cat, dog, fish])
+```
+
+Not only will there be a nicely-formatted table to see in the console, but the (unlabeled) objects will also be displayed as well.
+
+Check out [Chrome Devtools](https://developers.google.com/web/tools/chrome-devtools/) to learn more.
+
+```js
+    // Formatted Strings
+    console.log(
+        "%c The quick %c brown %c fox jumps over the %c lazy dog",
+        "font-size: 34px;",
+        "font-size: 24px; color: brown;",
+        "color: orange;",
+        "color: black; font-weight: bold;"
+    )
+
+    // Formatted Strings with Css styling
+    for (let i = 0; i < 10; i++) {
+        console.log(
+        "%s I've been called %d times, this is the document body %o",
+        "Hello", i, document.body
+        );
+    }
+
+    // Object Tables
+    var animals = [
+        { kind: 'Horse', name: 'Henry', age: 43 },
+        { kind: 'Dog', name: 'Spot', age: 13 },
+        { kind: 'Cat', name: ' Mittens', age: 18 },
+    ];
+    console.table(animals);
+
+    // Tracing function calls
+    // The console.trace method lets you dump a stack trace in the console — 
+    // in other words, the path the runtime took to call that function — 
+    // which is useful in tracking down the function responsible for passing bad data.
+    function foo() {
+        bar();
+        function bar() {
+        console.trace();
+        }
+    }
+    foo();
+
+    // Counting function calls
+    window.addEventListener('click', function(event) {
+        console.count(event.type);
+        console.log(event);
+    });
+
+    // To reset a counter, you just need to call below with the label, and it will reset back to zero.
+    console.countReset();
+
+    // Grouping Information in collapsible list
+    console.group('First group');
+    console.log('First message');
+    console.group('A group inside the first group');
+    console.log('A message inside the group inside the first group'); console.log('Another message inside the group inside the first group');
+    console.groupEnd();
+    console.log('Second message'); console.groupEnd();
+
+    // Inspecting State
+    $_ variable holds the most recent expression that was evaluated in the console context.
+    And $0 through $4 holds the most recent element that was inspected with inspect element
+```
+</details>
+
+<details>
+<summary>Performance</summary>
+Why a little discipline can help if you’d like your site to load & be interactive quickly on mobile devices? tl;dr: less code = less parse/compile + less transfer + less to decompress.
+</details>
+
+## CSS
 
 <details>
   <summary>BEM</summary>
@@ -179,7 +327,7 @@ The pseudo elements (e.g. `::after`, `::before`, and `::first-letter` - plus 3 o
    - A CSS postprocessor uses JavaScript to analyze and transform your CSS into valid CSS. In this sense it’s pretty similar to a CSS preprocessor — you can think of it as a different approach to solving the same problem. The key difference is that while a CSS preprocessor uses special syntax to identify what needs to be transformed, a CSS postprocessor can parse regular CSS and transform it without any special syntax required.
 </details>
 
-### Javascript
+## Javascript
 
 <details>
   <summary>Arrow</summary>
@@ -662,157 +810,7 @@ window.libraryName = window.libraryName || "Lib 2";
 The core idea of functional programming in JS - that we can plug our pure functions into higher order abstractions - is at the very heart of functional programming. A higher order function is a function that takes another function as a parameter. In JavaScript, functions are "first-class citizens." That means we can assign them to variables, create them inside of other functions, and pass them as arguments like any other object. Iteration in functional programming relies on a holy trinity of functions: map, filter, and reduce. We can use functional programming to reduce boilerplate in everyday code, keeping it DRY.
 </details>
 
-### Testing, debugging & performance
-
-<details>
-  <summary>Testing</summary>
-
-A well functioning team cannot rely on creating features in a hurry, throwing them over the fence and then expecting our applications to work well and without bugs. To instil quality from the start of a feature, there should be tests for it.
-
-Automated testing helps with this. Pre-commit hooks can be used when deploying builds so that errors are caught and addressed early. Unit tests can be run using pre-commit hooks. See a post [here](https://amberwilson.co.uk/blog/unit-tests/). However, there is a fine line between having too many automated tests, e.g. end-to-end tests that take too long to run with each build, and not having enough. Some companies run quicker unit tests on each build, and then run end-to-end tests as a nightly build.
-
-Manual testing is important too. It is usually done by QA engineers, and helps reveal edge cases that automated tests do not catch.
-
-JavaScript lacks the strict type checking of Java, which is a blessing and a curse. Code is easier to write but requires more testing to ensure correctness.
-</details>
-
-<details>
-  <summary>Debugging & Console</summary>
-
-Debugging is one of the key skills required to be a great developer. Below are the key things you need to know when working with the debugger.
-
-1. Step over code, steps over a function that doesn't contain a bug and runs its code
-2. Step into code, steps inside a function and allows you to run each part separately
-3. Step out of code, steps out of a function you are inside, and runs its code
-4. Resume execution of code
-
-Check out the docs on the [Firefox](https://developer.mozilla.org/en-US/docs/Tools/Debugger) debugger and the [Chrome](https://developers.google.com/web/tools/chrome-devtools/javascript/reference#breakpoints) debugger. Also check out [this article](https://peterlyons.com/js-debug) from Peter Lyons. He explains debugging of both front-end and back-end JavaScript code. Another great resource on [debugging javascript](https://blog.bitsrc.io/debugging-javascript-like-a-pro-a2e0f6c53c2e).
-
-A lot of people use `console.log` to debug in the console. `console.log` is your best friend. The `log()` method of `console` logs things to the web console. What some people may not know is that you can log things in nice ways! Here are three:
-
-**1. Computed property names -**
-
-The following objects could be logged one at a time:
-
-```js
-const cat = { name: 'Fluffy', colour: 'orange', specialSkill: 'staring' }
-const dog = { name: 'Thor', colour: 'brown', specialSkill: 'running' }
-const fish = { name: 'Glub', colour: 'blue', specialSkill: 'blowing bubbles' }
-```
-
-And the results would be as follows:
-
-```js
-console.log(cat) // {name: "Fluffy", colour: "orange", specialSkill: "staring"}
-console.log(dog) // {name: "Thor", colour: "brown", specialSkill: "running"}
-console.log(fish) // {name: "Glub", colour: "blue", specialSkill: "blowing bubbles"}
-```
-
-**2. CSS in the console -**
-
-Define styles like this in the console:
-
-```js
-var styles = [
-  'background: linear-gradient(#21618C, #5DADE2)',
-  'padding: 5px',
-  'border-radius: 8px',
-  'text-align: center',
-  'color: white',
-  'display: block',
-].join(';')
-```
-
-Then prefix console log with the `%c` flag, adding the `styles` variable to the end:
-
-```js
-console.log(
-  `%c My cat is ${cat.name}, ${cat.colour}, ${cat.specialSkill}`,
-  styles
-)
-```
-
-Try it in your console or look at [this](https://codesandbox.io/embed/determined-wozniak-4lt93) example on CodeSandbox!
-
-**3. Tables in the console**
-
-To display objects in a table in order to more easily compare them, try using `console.table`. You can do so with the animal objects above by running:
-
-```js
-console.table([cat, dog, fish])
-```
-
-Not only will there be a nicely-formatted table to see in the console, but the (unlabeled) objects will also be displayed as well.
-
-Check out [Chrome Devtools](https://developers.google.com/web/tools/chrome-devtools/) to learn more.
-
-```js
-    // Formatted Strings
-    console.log(
-        "%c The quick %c brown %c fox jumps over the %c lazy dog",
-        "font-size: 34px;",
-        "font-size: 24px; color: brown;",
-        "color: orange;",
-        "color: black; font-weight: bold;"
-    )
-
-    // Formatted Strings with Css styling
-    for (let i = 0; i < 10; i++) {
-        console.log(
-        "%s I've been called %d times, this is the document body %o",
-        "Hello", i, document.body
-        );
-    }
-
-    // Object Tables
-    var animals = [
-        { kind: 'Horse', name: 'Henry', age: 43 },
-        { kind: 'Dog', name: 'Spot', age: 13 },
-        { kind: 'Cat', name: ' Mittens', age: 18 },
-    ];
-    console.table(animals);
-
-    // Tracing function calls
-    // The console.trace method lets you dump a stack trace in the console — 
-    // in other words, the path the runtime took to call that function — 
-    // which is useful in tracking down the function responsible for passing bad data.
-    function foo() {
-        bar();
-        function bar() {
-        console.trace();
-        }
-    }
-    foo();
-
-    // Counting function calls
-    window.addEventListener('click', function(event) {
-        console.count(event.type);
-        console.log(event);
-    });
-
-    // To reset a counter, you just need to call below with the label, and it will reset back to zero.
-    console.countReset();
-
-    // Grouping Information in collapsible list
-    console.group('First group');
-    console.log('First message');
-    console.group('A group inside the first group');
-    console.log('A message inside the group inside the first group'); console.log('Another message inside the group inside the first group');
-    console.groupEnd();
-    console.log('Second message'); console.groupEnd();
-
-    // Inspecting State
-    $_ variable holds the most recent expression that was evaluated in the console context.
-    And $0 through $4 holds the most recent element that was inspected with inspect element
-```
-</details>
-
-<details>
-<summary>Performance</summary>
-Why a little discipline can help if you’d like your site to load & be interactive quickly on mobile devices? tl;dr: less code = less parse/compile + less transfer + less to decompress.
-</details>
-
-### Tooling
+## Tooling
 
 <details>
   <summary>Package Manager</summary>
@@ -856,11 +854,11 @@ Why a little discipline can help if you’d like your site to load & be interact
   - [Webpack](https://webpack.js.org/guides/development/)
 </details>
 
-### Internationalization i18n
+## Internationalization i18n
 
 Internationalization (i18n) is the process of developing products in such a way that they can be localized for languages and cultures easily. Localization (l10n), is the process of adapting applications and text to enable their usability in a particular cultural or linguistic market. For application developers, internationalizing an application means abstracting all of the strings and other locale-specific bits (such as date or currency formats) out of the application. Localizing an application means providing translations and localized formats for the abstracted bits.
 
-### Visualization
+## Visualization
 A danger of spending so long designing a tool is that you may forget what the tool is for: the tool itself becomes the goal, rather than the value derived from its application.
 
 The purpose of a visualization tool is to construct visualizations. But what is the purpose of visualization? Per Ben Shneiderman: The purpose of visualization is insight, not pictures. 
