@@ -376,25 +376,6 @@ How can you ensure your users are making progress? If you are not using data on 
         - Business data: revenue, market share, etc.
         - Product data: product portfolio, features, etc.
         - Customers data: target group, reviews, etc.
-- **Application Programming Interface (API)**: APIs are mechanisms that enable two software components to communicate with each other using a set of definitions and protocols. For example, Morningstar's software system contains daily stock market data. The stock market app on your phone “talks” to this system via APIs and shows you daily stock prices on your phone. People interact with software through Graphical User Interfaces (GUIs) while software interacts with another software through APIs.
-    - APIs are developer friendly. APIs can serve as [Placeholder]-As-A-Service. The placeholder can be wealth management, inventory management or ride-sharing. Simply by writing a few lines of code, platforms can let their customers set up any services. APIs abstract away code and business complexity. I can use ACH services through API without writing code or understanding how ACH works. APIs can be internal or external facing.
-    - APIs consist of functions, contracts, business logic which helps scale for adoption. Businesses today can use APIs from other software providers without having to invest their own resources to build out capabilities. If I am in the business of stock data, I do not need to build a payment gateway. I can use Stripe's API to build my business.
-    - Business model for API is pay-as-you-go. Every time an API is consumed, you get charged. API first companies have deep moats because they are highly specialized, but can also pose risk if a bigger company enters the market.
-    - Components are derivatives of APIs. They are reusable objects based on API specification.
-    - API architecture is usually explained in terms of client and server. The application sending the request is called the client, and the application sending the response is called the server.
-    - There are different kinds of APIs: SOAP APIs, REST APIs and Websocket APIs.
-    - REST APIs are the most popular and flexible APIs found on the web today. The client sends requests to the server as data. The server uses this client input to start internal functions and returns output data back to the client. REST stands for Representational State Transfer. REST defines a set of functions like GET, PUT, DELETE, etc. that clients can use to access server data. Clients and servers exchange data using HTTP. The main feature of REST API is statelessness. Statelessness means that servers do not save client data between requests. Client requests to the server are similar to URLs you type in your browser to visit a website. The response from the server is plain data, without the typical graphical rendering of a web page.
-        - One software system sends a request to the API of another system and in return, the API sends the response. The request has a type and a payload. These APIs can be accessed via API keys or authentication tokens.
-        - REST uses various representation to represent a resource like text, JSON, XML but JSON is the most popular schema. A schema is a structure, which is defined in JSON format. It provides data type information for the data record fields. The schema defines whether a field in the record is a string, integer, floating point, or other data types.
-        - The request has a type and a payload.
-            - Type signifies what should the API do: Add something (POST), Delete something (DELETE), Update something (PUT), or Fetch something (GET).
-            - The payload contains any important information that the API needs.
-            - Some APIs also have headers, which contain the authentication information, so that only the right systems can access the APIs.
-            - This request is sent to the end-point of the API, a place on the internet where this API lives (generally URL).
-            - When API receives the request, it takes some action, generates the response, and sends back a response.
-            - A response along with the returned data also contains a status code, which signifies if the API request was fulfilled or not.
-    - It is critical to know the ins and outs of a contract. You don't set your house on fire to test your smoke alarm. You test the contract. This ensures your applications will work together. The contract is between a consumer and a provider.
-    - GraphQL is a query language that was developed specifically for APIs. It prioritizes giving clients exactly the data they request and no more. It is designed to make APIs fast, flexible, and developer-friendly. As an alternative to REST, GraphQL gives front-end developers the ability to query multiple databases, microservices, and APIs with a single GraphQL endpoint. Organizations choose to build APIs with GraphQL because it helps them develop applications faster.
 
 ## Further reading
 <details>
@@ -407,6 +388,8 @@ How can you ensure your users are making progress? If you are not using data on 
     - [The ultimate guide to JTBD Lenny's Podcast | Bob Moesta ](https://www.lennyspodcast.com/the-ultimate-guide-to-jtbd-bob-moesta-co-creator-of-the-framework/)
     - [The nature of product | Marty Cagan, Silicon Valley Product Group](https://www.lennyspodcast.com/the-nature-of-product-marty-cagan-silicon-valley-product-group/#transcript)
     - [Building beautiful products with Stripe’s Head of Design | Katie Dill (Stripe, Airbnb, Lyft)](https://www.lennysnewsletter.com/p/building-beautiful-products-with#details)
+    - [Become a more technical product manager | Colin Matthews](https://www.lennysnewsletter.com/p/become-a-more-technical-product-manager)
+- [Technical Foundations for Product Managers](https://blog.techforproduct.com)
 - [Product Core Competencies by Marty Cagan](https://www.svpg.com/product-core-competencies/)
 - [Coaching Tools – The Assessment by Marty Cagan](https://www.svpg.com/coaching-tools-the-assessment/)
 - [Product Management Theater by Marty Cagan](https://www.svpg.com/product-management-theater/)

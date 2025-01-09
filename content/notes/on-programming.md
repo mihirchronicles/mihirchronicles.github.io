@@ -6,7 +6,96 @@ draft: false
 path: "/notes/on-programming"
 ---
 
-## Notes
+Below are my notes on software development from my days of programming. 
+
+## Application Programming Interface (API)
+
+Every software product is built with the same three parts. 
+
+- The core components of software products:
+    - Client: Website or app used by end users
+    - Server: Processes requests from the client
+    - Database: Permanent storage of data
+- API (Application Programming Interface):
+    - Front door to the server
+    - Allows applications to access data or trigger events
+    - Can be public (used by external developers) or private (internal use only)
+    - Example of API Request of Airbnb:
+        - Client sends request to api.airbnb.com/listings for Toronto
+        - Server retrieves listings from database
+        - Database returns listings to server
+        - Server sends listings back to client
+- Types of APIs:
+    - SOAP: Legacy design, used in healthcare and financial services
+    - REST: Most popular design pattern
+    - GraphQL: Newer design created by Meta, often used for private APIs
+- Common REST API Request Types:
+    - GET requests: Retrieve data (e.g., opening a web page)
+    - POST requests: Submit new data to the server (e.g., creating an image with DALL-E)
+- API Request Components:
+    - Base URL: Home for all API endpoints
+    - Endpoint: Specific resource to access
+    - Query parameter: Additional data passed with requests
+- APIs are mechanisms that enable two software components to communicate with each other using a set of definitions and protocols. For example, Morningstar's software system contains daily stock market data. The stock market app on your phone “talks” to this system via APIs and shows you daily stock prices on your phone. People interact with software through Graphical User Interfaces (GUIs) while software interacts with another software through APIs.
+    - APIs are developer friendly. APIs can serve as [Placeholder]-As-A-Service. The placeholder can be wealth management, inventory management or ride-sharing. Simply by writing a few lines of code, platforms can let their customers set up any services. APIs abstract away code and business complexity. I can use ACH services through API without writing code or understanding how ACH works. APIs can be internal or external facing.
+    - APIs consist of functions, contracts, business logic which helps scale for adoption. Businesses today can use APIs from other software providers without having to invest their own resources to build out capabilities. If I am in the business of stock data, I do not need to build a payment gateway. I can use Stripe's API to build my business.
+    - Business model for API is pay-as-you-go. Every time an API is consumed, you get charged. API first companies have deep moats because they are highly specialized, but can also pose risk if a bigger company enters the market.
+    - Components are derivatives of APIs. They are reusable objects based on API specification.
+    - API architecture is usually explained in terms of client and server. The application sending the request is called the client, and the application sending the response is called the server.
+    - There are different kinds of APIs: SOAP APIs, REST APIs and Websocket APIs.
+    - REST APIs are the most popular and flexible APIs found on the web today. The client sends requests to the server as data. The server uses this client input to start internal functions and returns output data back to the client. REST stands for Representational State Transfer. REST defines a set of functions like GET, PUT, DELETE, etc. that clients can use to access server data. Clients and servers exchange data using HTTP. The main feature of REST API is statelessness. Statelessness means that servers do not save client data between requests. Client requests to the server are similar to URLs you type in your browser to visit a website. The response from the server is plain data, without the typical graphical rendering of a web page.
+        - One software system sends a request to the API of another system and in return, the API sends the response. The request has a type and a payload. These APIs can be accessed via API keys or authentication tokens.
+        - REST uses various representation to represent a resource like text, JSON, XML but JSON is the most popular schema. A schema is a structure, which is defined in JSON format. It provides data type information for the data record fields. The schema defines whether a field in the record is a string, integer, floating point, or other data types.
+        - The request has a type and a payload.
+            - Type signifies what should the API do: Add something (POST), Delete something (DELETE), Update something (PUT), or Fetch something (GET).
+            - The payload contains any important information that the API needs.
+            - Some APIs also have headers, which contain the authentication information, so that only the right systems can access the APIs.
+            - This request is sent to the end-point of the API, a place on the internet where this API lives (generally URL).
+            - When API receives the request, it takes some action, generates the response, and sends back a response.
+            - A response along with the returned data also contains a status code, which signifies if the API request was fulfilled or not.
+    - It is critical to know the ins and outs of a contract. You don't set your house on fire to test your smoke alarm. You test the contract. This ensures your applications will work together. The contract is between a consumer and a provider.
+    - GraphQL is a query language that was developed specifically for APIs. It prioritizes giving clients exactly the data they request and no more. It is designed to make APIs fast, flexible, and developer-friendly. As an alternative to REST, GraphQL gives front-end developers the ability to query multiple databases, microservices, and APIs with a single GraphQL endpoint. Organizations choose to build APIs with GraphQL because it helps them develop applications faster.
+
+## Testing
+
+Testing is essential to successfully shipping new features the first time and ongoing maintenance of existing software. Testing is a high-leverage area for PMs to quickly improve your product quality. There are many types of testing, but we’ll focus on the following:
+
+- Unit tests: Unit tests are code written in combination with new functions, to test a variety of functionality. This is the lowest level of testing. The percentage of the code base that has associated unit tests is called coverage. 
+- Integration tests: Integration tests are tests between different components of the software. For example, we might test that the new feature we added to upsell customers at checkout properly works with our tax calculation service. This is targeted testing between components that are independent but closely related.
+- End-to-end tests: End-to-end (E2E) tests are a full walkthrough of the desired workflow and interact with all relevant systems. E2E testing is more time-intensive but often reveals issues you otherwise might not find. This is especially true if the workflow is dependent on many services working together correctly.
+- User acceptance tests: User acceptance tests are typically in the domain of product or design. These tests require users to use the current version of your feature from beginning to end with minimal intervention. From this, you’ll learn if the interaction design is intuitive or if more work is needed before making the feature available.
+
+## Monolithic vs Microservice Architecture
+
+- A monolithic architecture is a traditional approach where an entire application is built as a single, self-contained unit. This architecture has several characteristics:
+    - Single Codebase: All components of the application are part of one codebase.
+    - Shared Database: The entire application typically uses a single, shared database.
+    - Deployment: The whole application is deployed as one unit.
+- Advantages of Monoliths:
+    - Simpler development process, especially for smaller applications
+    - Easier testing and deployment
+    - Better performance for certain types of applications
+- Disadvantages of Monoliths:
+    - Scalability issues as the application grows
+    - Difficulty in adopting new technologies
+    - Challenges in understanding and maintaining large codebases
+- Microservice architecture involves breaking down an application into smaller, independent services that communicate with each other. Key features include:
+    - Distributed Services: Each service is developed and deployed independently.
+  - API Communication: Services interact through well-defined APIs.
+  - Database per Service: Each microservice typically has its own database.
+- Advantages of Microservices:
+  - Improved scalability and flexibility
+  - Easier adoption of new technologies
+  - Better fault isolation
+- Disadvantages of Microservices:
+  - Increased complexity in development and deployment
+  - Challenges in data consistency and transactions across services
+  - Potential performance overhead due to network communication
+- Choosing the Right Architecture: The choice between monolithic and microservice architectures depends on various factors:
+  - Project Size: Monoliths are often suitable for smaller projects, while microservices are beneficial for larger, complex applications.
+  - Team Structure: Microservices can be advantageous for large, distributed teams.
+  - Scalability Requirements: If high scalability is needed, microservices might be the better choice.
+  - Development Speed: Monoliths can offer faster initial development, while microservices provide better long-term flexibility.
 
 ### CSS
 
