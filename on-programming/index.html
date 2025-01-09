@@ -75,14 +75,6 @@
 </ul>
 </li>
 </ul>
-<h2>Testing</h2>
-<p>Testing is essential to successfully shipping new features the first time and ongoing maintenance of existing software. Testing is a high-leverage area for PMs to quickly improve your product quality. There are many types of testing, but we’ll focus on the following:</p>
-<ul>
-<li>Unit tests: Unit tests are code written in combination with new functions, to test a variety of functionality. This is the lowest level of testing. The percentage of the code base that has associated unit tests is called coverage.</li>
-<li>Integration tests: Integration tests are tests between different components of the software. For example, we might test that the new feature we added to upsell customers at checkout properly works with our tax calculation service. This is targeted testing between components that are independent but closely related.</li>
-<li>End-to-end tests: End-to-end (E2E) tests are a full walkthrough of the desired workflow and interact with all relevant systems. E2E testing is more time-intensive but often reveals issues you otherwise might not find. This is especially true if the workflow is dependent on many services working together correctly.</li>
-<li>User acceptance tests: User acceptance tests are typically in the domain of product or design. These tests require users to use the current version of your feature from beginning to end with minimal intervention. From this, you’ll learn if the interaction design is intuitive or if more work is needed before making the feature available.</li>
-</ul>
 <h2>Monolithic vs Microservice Architecture</h2>
 <ul>
 <li>A monolithic architecture is a traditional approach where an entire application is built as a single, self-contained unit. This architecture has several characteristics:
@@ -136,7 +128,125 @@
 </ul>
 </li>
 </ul>
-<h3>CSS</h3>
+<h2>Testing, debugging &#x26; performance</h2>
+<p>Testing is essential to successfully shipping new features the first time and ongoing maintenance of existing software. Testing is a high-leverage area for PMs to quickly improve your product quality. There are many types of testing, but we’ll focus on the following:</p>
+<ul>
+<li>Unit tests: Unit tests are code written in combination with new functions, to test a variety of functionality. This is the lowest level of testing. The percentage of the code base that has associated unit tests is called coverage.</li>
+<li>Integration tests: Integration tests are tests between different components of the software. For example, we might test that the new feature we added to upsell customers at checkout properly works with our tax calculation service. This is targeted testing between components that are independent but closely related.</li>
+<li>End-to-end tests: End-to-end (E2E) tests are a full walkthrough of the desired workflow and interact with all relevant systems. E2E testing is more time-intensive but often reveals issues you otherwise might not find. This is especially true if the workflow is dependent on many services working together correctly.</li>
+<li>User acceptance tests: User acceptance tests are typically in the domain of product or design. These tests require users to use the current version of your feature from beginning to end with minimal intervention. From this, you’ll learn if the interaction design is intuitive or if more work is needed before making the feature available.</li>
+</ul>
+<details>
+  <summary>Testing</summary>
+<p>A well functioning team cannot rely on creating features in a hurry, throwing them over the fence and then expecting our applications to work well and without bugs. To instil quality from the start of a feature, there should be tests for it.</p>
+<p>Automated testing helps with this. Pre-commit hooks can be used when deploying builds so that errors are caught and addressed early. Unit tests can be run using pre-commit hooks. See a post <a href="https://amberwilson.co.uk/blog/unit-tests/">here</a>. However, there is a fine line between having too many automated tests, e.g. end-to-end tests that take too long to run with each build, and not having enough. Some companies run quicker unit tests on each build, and then run end-to-end tests as a nightly build.</p>
+<p>Manual testing is important too. It is usually done by QA engineers, and helps reveal edge cases that automated tests do not catch.</p>
+<p>JavaScript lacks the strict type checking of Java, which is a blessing and a curse. Code is easier to write but requires more testing to ensure correctness.</p>
+</details>
+<details>
+  <summary>Debugging & Console</summary>
+<p>Debugging is one of the key skills required to be a great developer. Below are the key things you need to know when working with the debugger.</p>
+<ol>
+<li>Step over code, steps over a function that doesn't contain a bug and runs its code</li>
+<li>Step into code, steps inside a function and allows you to run each part separately</li>
+<li>Step out of code, steps out of a function you are inside, and runs its code</li>
+<li>Resume execution of code</li>
+</ol>
+<p>Check out the docs on the <a href="https://developer.mozilla.org/en-US/docs/Tools/Debugger">Firefox</a> debugger and the <a href="https://developers.google.com/web/tools/chrome-devtools/javascript/reference#breakpoints">Chrome</a> debugger. Also check out <a href="https://peterlyons.com/js-debug">this article</a> from Peter Lyons. He explains debugging of both front-end and back-end JavaScript code. Another great resource on <a href="https://blog.bitsrc.io/debugging-javascript-like-a-pro-a2e0f6c53c2e">debugging javascript</a>.</p>
+<p>A lot of people use <code class="language-text">console.log</code> to debug in the console. <code class="language-text">console.log</code> is your best friend. The <code class="language-text">log()</code> method of <code class="language-text">console</code> logs things to the web console. What some people may not know is that you can log things in nice ways! Here are three:</p>
+<p><strong>1. Computed property names -</strong></p>
+<p>The following objects could be logged one at a time:</p>
+<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js"><span class="token keyword">const</span> cat <span class="token operator">=</span> <span class="token punctuation">{</span> <span class="token literal-property property">name</span><span class="token operator">:</span> <span class="token string">'Fluffy'</span><span class="token punctuation">,</span> <span class="token literal-property property">colour</span><span class="token operator">:</span> <span class="token string">'orange'</span><span class="token punctuation">,</span> <span class="token literal-property property">specialSkill</span><span class="token operator">:</span> <span class="token string">'staring'</span> <span class="token punctuation">}</span>
+<span class="token keyword">const</span> dog <span class="token operator">=</span> <span class="token punctuation">{</span> <span class="token literal-property property">name</span><span class="token operator">:</span> <span class="token string">'Thor'</span><span class="token punctuation">,</span> <span class="token literal-property property">colour</span><span class="token operator">:</span> <span class="token string">'brown'</span><span class="token punctuation">,</span> <span class="token literal-property property">specialSkill</span><span class="token operator">:</span> <span class="token string">'running'</span> <span class="token punctuation">}</span>
+<span class="token keyword">const</span> fish <span class="token operator">=</span> <span class="token punctuation">{</span> <span class="token literal-property property">name</span><span class="token operator">:</span> <span class="token string">'Glub'</span><span class="token punctuation">,</span> <span class="token literal-property property">colour</span><span class="token operator">:</span> <span class="token string">'blue'</span><span class="token punctuation">,</span> <span class="token literal-property property">specialSkill</span><span class="token operator">:</span> <span class="token string">'blowing bubbles'</span> <span class="token punctuation">}</span></code></pre></div>
+<p>And the results would be as follows:</p>
+<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js">console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>cat<span class="token punctuation">)</span> <span class="token comment">// {name: "Fluffy", colour: "orange", specialSkill: "staring"}</span>
+console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>dog<span class="token punctuation">)</span> <span class="token comment">// {name: "Thor", colour: "brown", specialSkill: "running"}</span>
+console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>fish<span class="token punctuation">)</span> <span class="token comment">// {name: "Glub", colour: "blue", specialSkill: "blowing bubbles"}</span></code></pre></div>
+<p><strong>2. CSS in the console -</strong></p>
+<p>Define styles like this in the console:</p>
+<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js"><span class="token keyword">var</span> styles <span class="token operator">=</span> <span class="token punctuation">[</span>
+  <span class="token string">'background: linear-gradient(#21618C, #5DADE2)'</span><span class="token punctuation">,</span>
+  <span class="token string">'padding: 5px'</span><span class="token punctuation">,</span>
+  <span class="token string">'border-radius: 8px'</span><span class="token punctuation">,</span>
+  <span class="token string">'text-align: center'</span><span class="token punctuation">,</span>
+  <span class="token string">'color: white'</span><span class="token punctuation">,</span>
+  <span class="token string">'display: block'</span><span class="token punctuation">,</span>
+<span class="token punctuation">]</span><span class="token punctuation">.</span><span class="token function">join</span><span class="token punctuation">(</span><span class="token string">';'</span><span class="token punctuation">)</span></code></pre></div>
+<p>Then prefix console log with the <code class="language-text">%c</code> flag, adding the <code class="language-text">styles</code> variable to the end:</p>
+<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js">console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>
+  <span class="token template-string"><span class="token template-punctuation string">`</span><span class="token string">%c My cat is </span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>cat<span class="token punctuation">.</span>name<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string">, </span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>cat<span class="token punctuation">.</span>colour<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string">, </span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>cat<span class="token punctuation">.</span>specialSkill<span class="token interpolation-punctuation punctuation">}</span></span><span class="token template-punctuation string">`</span></span><span class="token punctuation">,</span>
+  styles
+<span class="token punctuation">)</span></code></pre></div>
+<p>Try it in your console or look at <a href="https://codesandbox.io/embed/determined-wozniak-4lt93">this</a> example on CodeSandbox!</p>
+<p><strong>3. Tables in the console</strong></p>
+<p>To display objects in a table in order to more easily compare them, try using <code class="language-text">console.table</code>. You can do so with the animal objects above by running:</p>
+<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js">console<span class="token punctuation">.</span><span class="token function">table</span><span class="token punctuation">(</span><span class="token punctuation">[</span>cat<span class="token punctuation">,</span> dog<span class="token punctuation">,</span> fish<span class="token punctuation">]</span><span class="token punctuation">)</span></code></pre></div>
+<p>Not only will there be a nicely-formatted table to see in the console, but the (unlabeled) objects will also be displayed as well.</p>
+<p>Check out <a href="https://developers.google.com/web/tools/chrome-devtools/">Chrome Devtools</a> to learn more.</p>
+<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js">    <span class="token comment">// Formatted Strings</span>
+    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>
+        <span class="token string">"%c The quick %c brown %c fox jumps over the %c lazy dog"</span><span class="token punctuation">,</span>
+        <span class="token string">"font-size: 34px;"</span><span class="token punctuation">,</span>
+        <span class="token string">"font-size: 24px; color: brown;"</span><span class="token punctuation">,</span>
+        <span class="token string">"color: orange;"</span><span class="token punctuation">,</span>
+        <span class="token string">"color: black; font-weight: bold;"</span>
+    <span class="token punctuation">)</span>
+
+    <span class="token comment">// Formatted Strings with Css styling</span>
+    <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">let</span> i <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span> i <span class="token operator">&lt;</span> <span class="token number">10</span><span class="token punctuation">;</span> i<span class="token operator">++</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+        console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>
+        <span class="token string">"%s I've been called %d times, this is the document body %o"</span><span class="token punctuation">,</span>
+        <span class="token string">"Hello"</span><span class="token punctuation">,</span> i<span class="token punctuation">,</span> document<span class="token punctuation">.</span>body
+        <span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token punctuation">}</span>
+
+    <span class="token comment">// Object Tables</span>
+    <span class="token keyword">var</span> animals <span class="token operator">=</span> <span class="token punctuation">[</span>
+        <span class="token punctuation">{</span> <span class="token literal-property property">kind</span><span class="token operator">:</span> <span class="token string">'Horse'</span><span class="token punctuation">,</span> <span class="token literal-property property">name</span><span class="token operator">:</span> <span class="token string">'Henry'</span><span class="token punctuation">,</span> <span class="token literal-property property">age</span><span class="token operator">:</span> <span class="token number">43</span> <span class="token punctuation">}</span><span class="token punctuation">,</span>
+        <span class="token punctuation">{</span> <span class="token literal-property property">kind</span><span class="token operator">:</span> <span class="token string">'Dog'</span><span class="token punctuation">,</span> <span class="token literal-property property">name</span><span class="token operator">:</span> <span class="token string">'Spot'</span><span class="token punctuation">,</span> <span class="token literal-property property">age</span><span class="token operator">:</span> <span class="token number">13</span> <span class="token punctuation">}</span><span class="token punctuation">,</span>
+        <span class="token punctuation">{</span> <span class="token literal-property property">kind</span><span class="token operator">:</span> <span class="token string">'Cat'</span><span class="token punctuation">,</span> <span class="token literal-property property">name</span><span class="token operator">:</span> <span class="token string">' Mittens'</span><span class="token punctuation">,</span> <span class="token literal-property property">age</span><span class="token operator">:</span> <span class="token number">18</span> <span class="token punctuation">}</span><span class="token punctuation">,</span>
+    <span class="token punctuation">]</span><span class="token punctuation">;</span>
+    console<span class="token punctuation">.</span><span class="token function">table</span><span class="token punctuation">(</span>animals<span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+    <span class="token comment">// Tracing function calls</span>
+    <span class="token comment">// The console.trace method lets you dump a stack trace in the console — </span>
+    <span class="token comment">// in other words, the path the runtime took to call that function — </span>
+    <span class="token comment">// which is useful in tracking down the function responsible for passing bad data.</span>
+    <span class="token keyword">function</span> <span class="token function">foo</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+        <span class="token function">bar</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        <span class="token keyword">function</span> <span class="token function">bar</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+        console<span class="token punctuation">.</span><span class="token function">trace</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        <span class="token punctuation">}</span>
+    <span class="token punctuation">}</span>
+    <span class="token function">foo</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+    <span class="token comment">// Counting function calls</span>
+    window<span class="token punctuation">.</span><span class="token function">addEventListener</span><span class="token punctuation">(</span><span class="token string">'click'</span><span class="token punctuation">,</span> <span class="token keyword">function</span><span class="token punctuation">(</span><span class="token parameter">event</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+        console<span class="token punctuation">.</span><span class="token function">count</span><span class="token punctuation">(</span>event<span class="token punctuation">.</span>type<span class="token punctuation">)</span><span class="token punctuation">;</span>
+        console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>event<span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+    <span class="token comment">// To reset a counter, you just need to call below with the label, and it will reset back to zero.</span>
+    console<span class="token punctuation">.</span><span class="token function">countReset</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+    <span class="token comment">// Grouping Information in collapsible list</span>
+    console<span class="token punctuation">.</span><span class="token function">group</span><span class="token punctuation">(</span><span class="token string">'First group'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">'First message'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    console<span class="token punctuation">.</span><span class="token function">group</span><span class="token punctuation">(</span><span class="token string">'A group inside the first group'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">'A message inside the group inside the first group'</span><span class="token punctuation">)</span><span class="token punctuation">;</span> console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">'Another message inside the group inside the first group'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    console<span class="token punctuation">.</span><span class="token function">groupEnd</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">'Second message'</span><span class="token punctuation">)</span><span class="token punctuation">;</span> console<span class="token punctuation">.</span><span class="token function">groupEnd</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+    <span class="token comment">// Inspecting State</span>
+    $_ variable holds the most recent expression that was evaluated <span class="token keyword">in</span> the console context<span class="token punctuation">.</span>
+    And $0 through $4 holds the most recent element that was inspected <span class="token keyword">with</span> inspect element</code></pre></div>
+</details>
+<details>
+<summary>Performance</summary>
+Why a little discipline can help if you’d like your site to load & be interactive quickly on mobile devices? tl;dr: less code = less parse/compile + less transfer + less to decompress.
+</details>
+<h2>CSS</h2>
 <details>
   <summary>BEM</summary>
 <p>BEM is a methodology used for modular CSS classes. A robust CSS architecture can help navigate large codebase. <code class="language-text">Block</code>, <code class="language-text">Element</code> and <code class="language-text">Modifier</code>. A <code class="language-text">Block</code> is a component or feature than can stand alone and is not dependent on any other code. It can be re-used anywhere. Next, an <code class="language-text">Element</code>. This is always part of a <code class="language-text">Block</code> and has no meaning on its own. Lastly, there is the <code class="language-text">Modifier</code>. This changes the behavior and/or an appearance of a <code class="language-text">Block</code> or <code class="language-text">Element</code>.</p>
@@ -205,7 +315,7 @@
 <li>A CSS postprocessor uses JavaScript to analyze and transform your CSS into valid CSS. In this sense it’s pretty similar to a CSS preprocessor — you can think of it as a different approach to solving the same problem. The key difference is that while a CSS preprocessor uses special syntax to identify what needs to be transformed, a CSS postprocessor can parse regular CSS and transform it without any special syntax required.</li>
 </ul>
 </details>
-<h3>Javascript</h3>
+<h2>Javascript</h2>
 <details>
   <summary>Arrow</summary>
 <p>Also known as a fat arrow, <code class="language-text">=></code>.</p>
@@ -596,118 +706,7 @@ window<span class="token punctuation">.</span>libraryName <span class="token ope
   <summary>Functional programming in JS</summary>
 <p>The core idea of functional programming in JS - that we can plug our pure functions into higher order abstractions - is at the very heart of functional programming. A higher order function is a function that takes another function as a parameter. In JavaScript, functions are "first-class citizens." That means we can assign them to variables, create them inside of other functions, and pass them as arguments like any other object. Iteration in functional programming relies on a holy trinity of functions: map, filter, and reduce. We can use functional programming to reduce boilerplate in everyday code, keeping it DRY.</p>
 </details>
-<h3>Testing, debugging &#x26; performance</h3>
-<details>
-  <summary>Testing</summary>
-<p>A well functioning team cannot rely on creating features in a hurry, throwing them over the fence and then expecting our applications to work well and without bugs. To instil quality from the start of a feature, there should be tests for it.</p>
-<p>Automated testing helps with this. Pre-commit hooks can be used when deploying builds so that errors are caught and addressed early. Unit tests can be run using pre-commit hooks. See a post <a href="https://amberwilson.co.uk/blog/unit-tests/">here</a>. However, there is a fine line between having too many automated tests, e.g. end-to-end tests that take too long to run with each build, and not having enough. Some companies run quicker unit tests on each build, and then run end-to-end tests as a nightly build.</p>
-<p>Manual testing is important too. It is usually done by QA engineers, and helps reveal edge cases that automated tests do not catch.</p>
-<p>JavaScript lacks the strict type checking of Java, which is a blessing and a curse. Code is easier to write but requires more testing to ensure correctness.</p>
-</details>
-<details>
-  <summary>Debugging & Console</summary>
-<p>Debugging is one of the key skills required to be a great developer. Below are the key things you need to know when working with the debugger.</p>
-<ol>
-<li>Step over code, steps over a function that doesn't contain a bug and runs its code</li>
-<li>Step into code, steps inside a function and allows you to run each part separately</li>
-<li>Step out of code, steps out of a function you are inside, and runs its code</li>
-<li>Resume execution of code</li>
-</ol>
-<p>Check out the docs on the <a href="https://developer.mozilla.org/en-US/docs/Tools/Debugger">Firefox</a> debugger and the <a href="https://developers.google.com/web/tools/chrome-devtools/javascript/reference#breakpoints">Chrome</a> debugger. Also check out <a href="https://peterlyons.com/js-debug">this article</a> from Peter Lyons. He explains debugging of both front-end and back-end JavaScript code. Another great resource on <a href="https://blog.bitsrc.io/debugging-javascript-like-a-pro-a2e0f6c53c2e">debugging javascript</a>.</p>
-<p>A lot of people use <code class="language-text">console.log</code> to debug in the console. <code class="language-text">console.log</code> is your best friend. The <code class="language-text">log()</code> method of <code class="language-text">console</code> logs things to the web console. What some people may not know is that you can log things in nice ways! Here are three:</p>
-<p><strong>1. Computed property names -</strong></p>
-<p>The following objects could be logged one at a time:</p>
-<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js"><span class="token keyword">const</span> cat <span class="token operator">=</span> <span class="token punctuation">{</span> <span class="token literal-property property">name</span><span class="token operator">:</span> <span class="token string">'Fluffy'</span><span class="token punctuation">,</span> <span class="token literal-property property">colour</span><span class="token operator">:</span> <span class="token string">'orange'</span><span class="token punctuation">,</span> <span class="token literal-property property">specialSkill</span><span class="token operator">:</span> <span class="token string">'staring'</span> <span class="token punctuation">}</span>
-<span class="token keyword">const</span> dog <span class="token operator">=</span> <span class="token punctuation">{</span> <span class="token literal-property property">name</span><span class="token operator">:</span> <span class="token string">'Thor'</span><span class="token punctuation">,</span> <span class="token literal-property property">colour</span><span class="token operator">:</span> <span class="token string">'brown'</span><span class="token punctuation">,</span> <span class="token literal-property property">specialSkill</span><span class="token operator">:</span> <span class="token string">'running'</span> <span class="token punctuation">}</span>
-<span class="token keyword">const</span> fish <span class="token operator">=</span> <span class="token punctuation">{</span> <span class="token literal-property property">name</span><span class="token operator">:</span> <span class="token string">'Glub'</span><span class="token punctuation">,</span> <span class="token literal-property property">colour</span><span class="token operator">:</span> <span class="token string">'blue'</span><span class="token punctuation">,</span> <span class="token literal-property property">specialSkill</span><span class="token operator">:</span> <span class="token string">'blowing bubbles'</span> <span class="token punctuation">}</span></code></pre></div>
-<p>And the results would be as follows:</p>
-<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js">console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>cat<span class="token punctuation">)</span> <span class="token comment">// {name: "Fluffy", colour: "orange", specialSkill: "staring"}</span>
-console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>dog<span class="token punctuation">)</span> <span class="token comment">// {name: "Thor", colour: "brown", specialSkill: "running"}</span>
-console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>fish<span class="token punctuation">)</span> <span class="token comment">// {name: "Glub", colour: "blue", specialSkill: "blowing bubbles"}</span></code></pre></div>
-<p><strong>2. CSS in the console -</strong></p>
-<p>Define styles like this in the console:</p>
-<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js"><span class="token keyword">var</span> styles <span class="token operator">=</span> <span class="token punctuation">[</span>
-  <span class="token string">'background: linear-gradient(#21618C, #5DADE2)'</span><span class="token punctuation">,</span>
-  <span class="token string">'padding: 5px'</span><span class="token punctuation">,</span>
-  <span class="token string">'border-radius: 8px'</span><span class="token punctuation">,</span>
-  <span class="token string">'text-align: center'</span><span class="token punctuation">,</span>
-  <span class="token string">'color: white'</span><span class="token punctuation">,</span>
-  <span class="token string">'display: block'</span><span class="token punctuation">,</span>
-<span class="token punctuation">]</span><span class="token punctuation">.</span><span class="token function">join</span><span class="token punctuation">(</span><span class="token string">';'</span><span class="token punctuation">)</span></code></pre></div>
-<p>Then prefix console log with the <code class="language-text">%c</code> flag, adding the <code class="language-text">styles</code> variable to the end:</p>
-<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js">console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>
-  <span class="token template-string"><span class="token template-punctuation string">`</span><span class="token string">%c My cat is </span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>cat<span class="token punctuation">.</span>name<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string">, </span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>cat<span class="token punctuation">.</span>colour<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string">, </span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>cat<span class="token punctuation">.</span>specialSkill<span class="token interpolation-punctuation punctuation">}</span></span><span class="token template-punctuation string">`</span></span><span class="token punctuation">,</span>
-  styles
-<span class="token punctuation">)</span></code></pre></div>
-<p>Try it in your console or look at <a href="https://codesandbox.io/embed/determined-wozniak-4lt93">this</a> example on CodeSandbox!</p>
-<p><strong>3. Tables in the console</strong></p>
-<p>To display objects in a table in order to more easily compare them, try using <code class="language-text">console.table</code>. You can do so with the animal objects above by running:</p>
-<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js">console<span class="token punctuation">.</span><span class="token function">table</span><span class="token punctuation">(</span><span class="token punctuation">[</span>cat<span class="token punctuation">,</span> dog<span class="token punctuation">,</span> fish<span class="token punctuation">]</span><span class="token punctuation">)</span></code></pre></div>
-<p>Not only will there be a nicely-formatted table to see in the console, but the (unlabeled) objects will also be displayed as well.</p>
-<p>Check out <a href="https://developers.google.com/web/tools/chrome-devtools/">Chrome Devtools</a> to learn more.</p>
-<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js">    <span class="token comment">// Formatted Strings</span>
-    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>
-        <span class="token string">"%c The quick %c brown %c fox jumps over the %c lazy dog"</span><span class="token punctuation">,</span>
-        <span class="token string">"font-size: 34px;"</span><span class="token punctuation">,</span>
-        <span class="token string">"font-size: 24px; color: brown;"</span><span class="token punctuation">,</span>
-        <span class="token string">"color: orange;"</span><span class="token punctuation">,</span>
-        <span class="token string">"color: black; font-weight: bold;"</span>
-    <span class="token punctuation">)</span>
-
-    <span class="token comment">// Formatted Strings with Css styling</span>
-    <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">let</span> i <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span> i <span class="token operator">&lt;</span> <span class="token number">10</span><span class="token punctuation">;</span> i<span class="token operator">++</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-        console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>
-        <span class="token string">"%s I've been called %d times, this is the document body %o"</span><span class="token punctuation">,</span>
-        <span class="token string">"Hello"</span><span class="token punctuation">,</span> i<span class="token punctuation">,</span> document<span class="token punctuation">.</span>body
-        <span class="token punctuation">)</span><span class="token punctuation">;</span>
-    <span class="token punctuation">}</span>
-
-    <span class="token comment">// Object Tables</span>
-    <span class="token keyword">var</span> animals <span class="token operator">=</span> <span class="token punctuation">[</span>
-        <span class="token punctuation">{</span> <span class="token literal-property property">kind</span><span class="token operator">:</span> <span class="token string">'Horse'</span><span class="token punctuation">,</span> <span class="token literal-property property">name</span><span class="token operator">:</span> <span class="token string">'Henry'</span><span class="token punctuation">,</span> <span class="token literal-property property">age</span><span class="token operator">:</span> <span class="token number">43</span> <span class="token punctuation">}</span><span class="token punctuation">,</span>
-        <span class="token punctuation">{</span> <span class="token literal-property property">kind</span><span class="token operator">:</span> <span class="token string">'Dog'</span><span class="token punctuation">,</span> <span class="token literal-property property">name</span><span class="token operator">:</span> <span class="token string">'Spot'</span><span class="token punctuation">,</span> <span class="token literal-property property">age</span><span class="token operator">:</span> <span class="token number">13</span> <span class="token punctuation">}</span><span class="token punctuation">,</span>
-        <span class="token punctuation">{</span> <span class="token literal-property property">kind</span><span class="token operator">:</span> <span class="token string">'Cat'</span><span class="token punctuation">,</span> <span class="token literal-property property">name</span><span class="token operator">:</span> <span class="token string">' Mittens'</span><span class="token punctuation">,</span> <span class="token literal-property property">age</span><span class="token operator">:</span> <span class="token number">18</span> <span class="token punctuation">}</span><span class="token punctuation">,</span>
-    <span class="token punctuation">]</span><span class="token punctuation">;</span>
-    console<span class="token punctuation">.</span><span class="token function">table</span><span class="token punctuation">(</span>animals<span class="token punctuation">)</span><span class="token punctuation">;</span>
-
-    <span class="token comment">// Tracing function calls</span>
-    <span class="token comment">// The console.trace method lets you dump a stack trace in the console — </span>
-    <span class="token comment">// in other words, the path the runtime took to call that function — </span>
-    <span class="token comment">// which is useful in tracking down the function responsible for passing bad data.</span>
-    <span class="token keyword">function</span> <span class="token function">foo</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-        <span class="token function">bar</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
-        <span class="token keyword">function</span> <span class="token function">bar</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-        console<span class="token punctuation">.</span><span class="token function">trace</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
-        <span class="token punctuation">}</span>
-    <span class="token punctuation">}</span>
-    <span class="token function">foo</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
-
-    <span class="token comment">// Counting function calls</span>
-    window<span class="token punctuation">.</span><span class="token function">addEventListener</span><span class="token punctuation">(</span><span class="token string">'click'</span><span class="token punctuation">,</span> <span class="token keyword">function</span><span class="token punctuation">(</span><span class="token parameter">event</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-        console<span class="token punctuation">.</span><span class="token function">count</span><span class="token punctuation">(</span>event<span class="token punctuation">.</span>type<span class="token punctuation">)</span><span class="token punctuation">;</span>
-        console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>event<span class="token punctuation">)</span><span class="token punctuation">;</span>
-    <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
-
-    <span class="token comment">// To reset a counter, you just need to call below with the label, and it will reset back to zero.</span>
-    console<span class="token punctuation">.</span><span class="token function">countReset</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
-
-    <span class="token comment">// Grouping Information in collapsible list</span>
-    console<span class="token punctuation">.</span><span class="token function">group</span><span class="token punctuation">(</span><span class="token string">'First group'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
-    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">'First message'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
-    console<span class="token punctuation">.</span><span class="token function">group</span><span class="token punctuation">(</span><span class="token string">'A group inside the first group'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
-    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">'A message inside the group inside the first group'</span><span class="token punctuation">)</span><span class="token punctuation">;</span> console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">'Another message inside the group inside the first group'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
-    console<span class="token punctuation">.</span><span class="token function">groupEnd</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
-    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">'Second message'</span><span class="token punctuation">)</span><span class="token punctuation">;</span> console<span class="token punctuation">.</span><span class="token function">groupEnd</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
-
-    <span class="token comment">// Inspecting State</span>
-    $_ variable holds the most recent expression that was evaluated <span class="token keyword">in</span> the console context<span class="token punctuation">.</span>
-    And $0 through $4 holds the most recent element that was inspected <span class="token keyword">with</span> inspect element</code></pre></div>
-</details>
-<details>
-<summary>Performance</summary>
-Why a little discipline can help if you’d like your site to load & be interactive quickly on mobile devices? tl;dr: less code = less parse/compile + less transfer + less to decompress.
-</details>
-<h3>Tooling</h3>
+<h2>Tooling</h2>
 <details>
   <summary>Package Manager</summary>
 <ul>
@@ -768,9 +767,9 @@ console.log(moment().startOf('day').fromNow());</p>
 </li>
 </ul>
 </details>
-<h3>Internationalization i18n</h3>
+<h2>Internationalization i18n</h2>
 <p>Internationalization (i18n) is the process of developing products in such a way that they can be localized for languages and cultures easily. Localization (l10n), is the process of adapting applications and text to enable their usability in a particular cultural or linguistic market. For application developers, internationalizing an application means abstracting all of the strings and other locale-specific bits (such as date or currency formats) out of the application. Localizing an application means providing translations and localized formats for the abstracted bits.</p>
-<h3>Visualization</h3>
+<h2>Visualization</h2>
 <p>A danger of spending so long designing a tool is that you may forget what the tool is for: the tool itself becomes the goal, rather than the value derived from its application.</p>
 <p>The purpose of a visualization tool is to construct visualizations. But what is the purpose of visualization? Per Ben Shneiderman: The purpose of visualization is insight, not pictures.</p>
 <p>Visualization is a means to an end. A means to insight. A way to think, to understand, to discover, and to communicate something about the world. If we consider only the task of assigning visual encodings, of constructing visualizations, we ignore myriad other challenges: finding relevant data, cleaning it, transforming it into efficient structures, analyzing it with statistics, modeling, explaining our discoveries.</p>
