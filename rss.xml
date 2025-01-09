@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 31 Dec 2024 17:22:51 GMT</lastBuildDate><item><title><![CDATA[On Artificial Intelligence]]></title><description><![CDATA[Replicating and scaling human intelligence has been humanity's mission since the dawn of time. There is no doubt we are living in the age of…]]></description><link>https://mihirchronicles.com/on-artificial-intelligence/</link><guid isPermaLink="false">https://mihirchronicles.com/on-artificial-intelligence/</guid><pubDate>Sun, 15 Dec 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Replicating and scaling human intelligence has been humanity&apos;s mission since the dawn of time. There is no doubt we are living in the age of rapid innovation as all walks of life are being transformed by artificial intelligence (AI). The impact is already being felt causing the re-shaping of human experience and decision-making.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 09 Jan 2025 15:34:48 GMT</lastBuildDate><item><title><![CDATA[On Artificial Intelligence]]></title><description><![CDATA[Replicating and scaling human intelligence has been humanity's mission since the dawn of time. There is no doubt we are living in the age of…]]></description><link>https://mihirchronicles.com/on-artificial-intelligence/</link><guid isPermaLink="false">https://mihirchronicles.com/on-artificial-intelligence/</guid><pubDate>Sun, 15 Dec 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Replicating and scaling human intelligence has been humanity&apos;s mission since the dawn of time. There is no doubt we are living in the age of rapid innovation as all walks of life are being transformed by artificial intelligence (AI). The impact is already being felt causing the re-shaping of human experience and decision-making.&lt;/p&gt;
 &lt;p&gt;Here is my attempt to deep dive on the topic of AI without claiming any future predictions.&lt;/p&gt;
 &lt;p&gt;Bold statements come flying high every second on deeming computers being intelligent. Whether they are intelligent enough to save us or kill us, I am not sure, but it is worth exploring what &lt;em&gt;intelligence&lt;/em&gt; even means to us before diving deeper into &lt;em&gt;machines&lt;/em&gt;.&lt;/p&gt;
 &lt;h2&gt;Human Intelligence&lt;/h2&gt;
@@ -16682,34 +16682,6 @@ Author Robert Cialdini (Ph.D.) explores the mental bias of reciprocation tendenc
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Application Programming Interface (API)&lt;/strong&gt;: APIs are mechanisms that enable two software components to communicate with each other using a set of definitions and protocols. For example, Morningstar&apos;s software system contains daily stock market data. The stock market app on your phone “talks” to this system via APIs and shows you daily stock prices on your phone. People interact with software through Graphical User Interfaces (GUIs) while software interacts with another software through APIs.
-&lt;ul&gt;
-&lt;li&gt;APIs are developer friendly. APIs can serve as [Placeholder]-As-A-Service. The placeholder can be wealth management, inventory management or ride-sharing. Simply by writing a few lines of code, platforms can let their customers set up any services. APIs abstract away code and business complexity. I can use ACH services through API without writing code or understanding how ACH works. APIs can be internal or external facing.&lt;/li&gt;
-&lt;li&gt;APIs consist of functions, contracts, business logic which helps scale for adoption. Businesses today can use APIs from other software providers without having to invest their own resources to build out capabilities. If I am in the business of stock data, I do not need to build a payment gateway. I can use Stripe&apos;s API to build my business.&lt;/li&gt;
-&lt;li&gt;Business model for API is pay-as-you-go. Every time an API is consumed, you get charged. API first companies have deep moats because they are highly specialized, but can also pose risk if a bigger company enters the market.&lt;/li&gt;
-&lt;li&gt;Components are derivatives of APIs. They are reusable objects based on API specification.&lt;/li&gt;
-&lt;li&gt;API architecture is usually explained in terms of client and server. The application sending the request is called the client, and the application sending the response is called the server.&lt;/li&gt;
-&lt;li&gt;There are different kinds of APIs: SOAP APIs, REST APIs and Websocket APIs.&lt;/li&gt;
-&lt;li&gt;REST APIs are the most popular and flexible APIs found on the web today. The client sends requests to the server as data. The server uses this client input to start internal functions and returns output data back to the client. REST stands for Representational State Transfer. REST defines a set of functions like GET, PUT, DELETE, etc. that clients can use to access server data. Clients and servers exchange data using HTTP. The main feature of REST API is statelessness. Statelessness means that servers do not save client data between requests. Client requests to the server are similar to URLs you type in your browser to visit a website. The response from the server is plain data, without the typical graphical rendering of a web page.
-&lt;ul&gt;
-&lt;li&gt;One software system sends a request to the API of another system and in return, the API sends the response. The request has a type and a payload. These APIs can be accessed via API keys or authentication tokens.&lt;/li&gt;
-&lt;li&gt;REST uses various representation to represent a resource like text, JSON, XML but JSON is the most popular schema. A schema is a structure, which is defined in JSON format. It provides data type information for the data record fields. The schema defines whether a field in the record is a string, integer, floating point, or other data types.&lt;/li&gt;
-&lt;li&gt;The request has a type and a payload.
-&lt;ul&gt;
-&lt;li&gt;Type signifies what should the API do: Add something (POST), Delete something (DELETE), Update something (PUT), or Fetch something (GET).&lt;/li&gt;
-&lt;li&gt;The payload contains any important information that the API needs.&lt;/li&gt;
-&lt;li&gt;Some APIs also have headers, which contain the authentication information, so that only the right systems can access the APIs.&lt;/li&gt;
-&lt;li&gt;This request is sent to the end-point of the API, a place on the internet where this API lives (generally URL).&lt;/li&gt;
-&lt;li&gt;When API receives the request, it takes some action, generates the response, and sends back a response.&lt;/li&gt;
-&lt;li&gt;A response along with the returned data also contains a status code, which signifies if the API request was fulfilled or not.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;It is critical to know the ins and outs of a contract. You don&apos;t set your house on fire to test your smoke alarm. You test the contract. This ensures your applications will work together. The contract is between a consumer and a provider.&lt;/li&gt;
-&lt;li&gt;GraphQL is a query language that was developed specifically for APIs. It prioritizes giving clients exactly the data they request and no more. It is designed to make APIs fast, flexible, and developer-friendly. As an alternative to REST, GraphQL gives front-end developers the ability to query multiple databases, microservices, and APIs with a single GraphQL endpoint. Organizations choose to build APIs with GraphQL because it helps them develop applications faster.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Further reading&lt;/h2&gt;
 &lt;details&gt;
@@ -16723,8 +16695,10 @@ Author Robert Cialdini (Ph.D.) explores the mental bias of reciprocation tendenc
 &lt;li&gt;&lt;a href=&quot;https://www.lennyspodcast.com/the-ultimate-guide-to-jtbd-bob-moesta-co-creator-of-the-framework/&quot;&gt;The ultimate guide to JTBD Lenny&apos;s Podcast | Bob Moesta &lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.lennyspodcast.com/the-nature-of-product-marty-cagan-silicon-valley-product-group/#transcript&quot;&gt;The nature of product | Marty Cagan, Silicon Valley Product Group&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.lennysnewsletter.com/p/building-beautiful-products-with#details&quot;&gt;Building beautiful products with Stripe’s Head of Design | Katie Dill (Stripe, Airbnb, Lyft)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.lennysnewsletter.com/p/become-a-more-technical-product-manager&quot;&gt;Become a more technical product manager | Colin Matthews&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.techforproduct.com&quot;&gt;Technical Foundations for Product Managers&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.svpg.com/product-core-competencies/&quot;&gt;Product Core Competencies by Marty Cagan&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.svpg.com/coaching-tools-the-assessment/&quot;&gt;Coaching Tools – The Assessment by Marty Cagan&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.svpg.com/product-management-theater/&quot;&gt;Product Management Theater by Marty Cagan&lt;/a&gt;&lt;/li&gt;
@@ -20064,7 +20038,142 @@ So write with a combination of short, medium, and long sentences Create a sound 
 &lt;p&gt;Let’s look at an easy way to start. Firstly, do not jump to conclusions. Secondly, use mental models to ask the right questions. You’ll learn to disassemble and reassemble ideas in such a way that they form something new from something old. Address and assess differing views as a means to form your own conclusions. You can use a mental model checklist as a guidebook to your learning, rather than as a rule book.&lt;/p&gt;
 &lt;p&gt;Read widely and deeply, drawing lines between many disciplines and concepts so that the principles that apply to one can benefit you in another. For example, engineering principles can be applied to economics and vice versa. Independent thinkers approach a high level of abstract thinking that allows them to draw upon their breadth of learning and reach their own novel solutions and ideas.&lt;/p&gt;
 &lt;p&gt;It is easy to pay homage to Charlie Munger’s widely-lauded latticework of mental models, but when you live it, you’ll see why he is right. Knowing the key drivers and major ideas from a variety of fields is a huge source of leverage. It is difficult to study broadly and deeply, but the two are not mutually exclusive.&lt;/p&gt;
-&lt;p&gt;We need to teach that doubt is not to be feared but welcomed and discussed. It’s OK to say, “I don’t know” and question everything because that is when the independent thinkers inherent in you can rise.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[On Programming]]></title><description><![CDATA[Notes CSS BEM is a methodology used for modular CSS classes. A robust CSS architecture can help navigate large codebase. ,  and . A  is a…]]></description><link>https://mihirchronicles.com/on-programming/</link><guid isPermaLink="false">https://mihirchronicles.com/on-programming/</guid><pubDate>Thu, 06 Jul 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Notes&lt;/h2&gt;
+&lt;p&gt;We need to teach that doubt is not to be feared but welcomed and discussed. It’s OK to say, “I don’t know” and question everything because that is when the independent thinkers inherent in you can rise.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[On Programming]]></title><description><![CDATA[Below are my notes on software development from my days of programming. Application Programming Interface (API) Every software product is…]]></description><link>https://mihirchronicles.com/on-programming/</link><guid isPermaLink="false">https://mihirchronicles.com/on-programming/</guid><pubDate>Thu, 06 Jul 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Below are my notes on software development from my days of programming.&lt;/p&gt;
+&lt;h2&gt;Application Programming Interface (API)&lt;/h2&gt;
+&lt;p&gt;Every software product is built with the same three parts.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The core components of software products:
+&lt;ul&gt;
+&lt;li&gt;Client: Website or app used by end users&lt;/li&gt;
+&lt;li&gt;Server: Processes requests from the client&lt;/li&gt;
+&lt;li&gt;Database: Permanent storage of data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;API (Application Programming Interface):
+&lt;ul&gt;
+&lt;li&gt;Front door to the server&lt;/li&gt;
+&lt;li&gt;Allows applications to access data or trigger events&lt;/li&gt;
+&lt;li&gt;Can be public (used by external developers) or private (internal use only)&lt;/li&gt;
+&lt;li&gt;Example of API Request of Airbnb:
+&lt;ul&gt;
+&lt;li&gt;Client sends request to api.airbnb.com/listings for Toronto&lt;/li&gt;
+&lt;li&gt;Server retrieves listings from database&lt;/li&gt;
+&lt;li&gt;Database returns listings to server&lt;/li&gt;
+&lt;li&gt;Server sends listings back to client&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Types of APIs:
+&lt;ul&gt;
+&lt;li&gt;SOAP: Legacy design, used in healthcare and financial services&lt;/li&gt;
+&lt;li&gt;REST: Most popular design pattern&lt;/li&gt;
+&lt;li&gt;GraphQL: Newer design created by Meta, often used for private APIs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Common REST API Request Types:
+&lt;ul&gt;
+&lt;li&gt;GET requests: Retrieve data (e.g., opening a web page)&lt;/li&gt;
+&lt;li&gt;POST requests: Submit new data to the server (e.g., creating an image with DALL-E)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;API Request Components:
+&lt;ul&gt;
+&lt;li&gt;Base URL: Home for all API endpoints&lt;/li&gt;
+&lt;li&gt;Endpoint: Specific resource to access&lt;/li&gt;
+&lt;li&gt;Query parameter: Additional data passed with requests&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;APIs are mechanisms that enable two software components to communicate with each other using a set of definitions and protocols. For example, Morningstar&apos;s software system contains daily stock market data. The stock market app on your phone “talks” to this system via APIs and shows you daily stock prices on your phone. People interact with software through Graphical User Interfaces (GUIs) while software interacts with another software through APIs.
+&lt;ul&gt;
+&lt;li&gt;APIs are developer friendly. APIs can serve as [Placeholder]-As-A-Service. The placeholder can be wealth management, inventory management or ride-sharing. Simply by writing a few lines of code, platforms can let their customers set up any services. APIs abstract away code and business complexity. I can use ACH services through API without writing code or understanding how ACH works. APIs can be internal or external facing.&lt;/li&gt;
+&lt;li&gt;APIs consist of functions, contracts, business logic which helps scale for adoption. Businesses today can use APIs from other software providers without having to invest their own resources to build out capabilities. If I am in the business of stock data, I do not need to build a payment gateway. I can use Stripe&apos;s API to build my business.&lt;/li&gt;
+&lt;li&gt;Business model for API is pay-as-you-go. Every time an API is consumed, you get charged. API first companies have deep moats because they are highly specialized, but can also pose risk if a bigger company enters the market.&lt;/li&gt;
+&lt;li&gt;Components are derivatives of APIs. They are reusable objects based on API specification.&lt;/li&gt;
+&lt;li&gt;API architecture is usually explained in terms of client and server. The application sending the request is called the client, and the application sending the response is called the server.&lt;/li&gt;
+&lt;li&gt;There are different kinds of APIs: SOAP APIs, REST APIs and Websocket APIs.&lt;/li&gt;
+&lt;li&gt;REST APIs are the most popular and flexible APIs found on the web today. The client sends requests to the server as data. The server uses this client input to start internal functions and returns output data back to the client. REST stands for Representational State Transfer. REST defines a set of functions like GET, PUT, DELETE, etc. that clients can use to access server data. Clients and servers exchange data using HTTP. The main feature of REST API is statelessness. Statelessness means that servers do not save client data between requests. Client requests to the server are similar to URLs you type in your browser to visit a website. The response from the server is plain data, without the typical graphical rendering of a web page.
+&lt;ul&gt;
+&lt;li&gt;One software system sends a request to the API of another system and in return, the API sends the response. The request has a type and a payload. These APIs can be accessed via API keys or authentication tokens.&lt;/li&gt;
+&lt;li&gt;REST uses various representation to represent a resource like text, JSON, XML but JSON is the most popular schema. A schema is a structure, which is defined in JSON format. It provides data type information for the data record fields. The schema defines whether a field in the record is a string, integer, floating point, or other data types.&lt;/li&gt;
+&lt;li&gt;The request has a type and a payload.
+&lt;ul&gt;
+&lt;li&gt;Type signifies what should the API do: Add something (POST), Delete something (DELETE), Update something (PUT), or Fetch something (GET).&lt;/li&gt;
+&lt;li&gt;The payload contains any important information that the API needs.&lt;/li&gt;
+&lt;li&gt;Some APIs also have headers, which contain the authentication information, so that only the right systems can access the APIs.&lt;/li&gt;
+&lt;li&gt;This request is sent to the end-point of the API, a place on the internet where this API lives (generally URL).&lt;/li&gt;
+&lt;li&gt;When API receives the request, it takes some action, generates the response, and sends back a response.&lt;/li&gt;
+&lt;li&gt;A response along with the returned data also contains a status code, which signifies if the API request was fulfilled or not.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;It is critical to know the ins and outs of a contract. You don&apos;t set your house on fire to test your smoke alarm. You test the contract. This ensures your applications will work together. The contract is between a consumer and a provider.&lt;/li&gt;
+&lt;li&gt;GraphQL is a query language that was developed specifically for APIs. It prioritizes giving clients exactly the data they request and no more. It is designed to make APIs fast, flexible, and developer-friendly. As an alternative to REST, GraphQL gives front-end developers the ability to query multiple databases, microservices, and APIs with a single GraphQL endpoint. Organizations choose to build APIs with GraphQL because it helps them develop applications faster.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Testing&lt;/h2&gt;
+&lt;p&gt;Testing is essential to successfully shipping new features the first time and ongoing maintenance of existing software. Testing is a high-leverage area for PMs to quickly improve your product quality. There are many types of testing, but we’ll focus on the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Unit tests: Unit tests are code written in combination with new functions, to test a variety of functionality. This is the lowest level of testing. The percentage of the code base that has associated unit tests is called coverage.&lt;/li&gt;
+&lt;li&gt;Integration tests: Integration tests are tests between different components of the software. For example, we might test that the new feature we added to upsell customers at checkout properly works with our tax calculation service. This is targeted testing between components that are independent but closely related.&lt;/li&gt;
+&lt;li&gt;End-to-end tests: End-to-end (E2E) tests are a full walkthrough of the desired workflow and interact with all relevant systems. E2E testing is more time-intensive but often reveals issues you otherwise might not find. This is especially true if the workflow is dependent on many services working together correctly.&lt;/li&gt;
+&lt;li&gt;User acceptance tests: User acceptance tests are typically in the domain of product or design. These tests require users to use the current version of your feature from beginning to end with minimal intervention. From this, you’ll learn if the interaction design is intuitive or if more work is needed before making the feature available.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Monolithic vs Microservice Architecture&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A monolithic architecture is a traditional approach where an entire application is built as a single, self-contained unit. This architecture has several characteristics:
+&lt;ul&gt;
+&lt;li&gt;Single Codebase: All components of the application are part of one codebase.&lt;/li&gt;
+&lt;li&gt;Shared Database: The entire application typically uses a single, shared database.&lt;/li&gt;
+&lt;li&gt;Deployment: The whole application is deployed as one unit.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Advantages of Monoliths:
+&lt;ul&gt;
+&lt;li&gt;Simpler development process, especially for smaller applications&lt;/li&gt;
+&lt;li&gt;Easier testing and deployment&lt;/li&gt;
+&lt;li&gt;Better performance for certain types of applications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Disadvantages of Monoliths:
+&lt;ul&gt;
+&lt;li&gt;Scalability issues as the application grows&lt;/li&gt;
+&lt;li&gt;Difficulty in adopting new technologies&lt;/li&gt;
+&lt;li&gt;Challenges in understanding and maintaining large codebases&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Microservice architecture involves breaking down an application into smaller, independent services that communicate with each other. Key features include:
+&lt;ul&gt;
+&lt;li&gt;Distributed Services: Each service is developed and deployed independently.&lt;/li&gt;
+&lt;li&gt;API Communication: Services interact through well-defined APIs.&lt;/li&gt;
+&lt;li&gt;Database per Service: Each microservice typically has its own database.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Advantages of Microservices:
+&lt;ul&gt;
+&lt;li&gt;Improved scalability and flexibility&lt;/li&gt;
+&lt;li&gt;Easier adoption of new technologies&lt;/li&gt;
+&lt;li&gt;Better fault isolation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Disadvantages of Microservices:
+&lt;ul&gt;
+&lt;li&gt;Increased complexity in development and deployment&lt;/li&gt;
+&lt;li&gt;Challenges in data consistency and transactions across services&lt;/li&gt;
+&lt;li&gt;Potential performance overhead due to network communication&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Choosing the Right Architecture: The choice between monolithic and microservice architectures depends on various factors:
+&lt;ul&gt;
+&lt;li&gt;Project Size: Monoliths are often suitable for smaller projects, while microservices are beneficial for larger, complex applications.&lt;/li&gt;
+&lt;li&gt;Team Structure: Microservices can be advantageous for large, distributed teams.&lt;/li&gt;
+&lt;li&gt;Scalability Requirements: If high scalability is needed, microservices might be the better choice.&lt;/li&gt;
+&lt;li&gt;Development Speed: Monoliths can offer faster initial development, while microservices provide better long-term flexibility.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3&gt;CSS&lt;/h3&gt;
 &lt;details&gt;
   &lt;summary&gt;BEM&lt;/summary&gt;
@@ -21194,7 +21303,7 @@ console.log(moment().startOf(&apos;day&apos;).fromNow());&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;Always check the y-axis.&lt;/strong&gt; Don&apos;t generalize reality based on y-axis because scale can be compressed or expanded based on author&apos;s incentives or biases. Disproportionate scale creates unwanted fear portrayed by media. Always question the data before you buy into any narrative.&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[On Links]]></title><description><![CDATA[Internet has a lot of amazing gems. My list of articles to read and videos to watch has grown significantly. This is my repository of links…]]></description><link>https://mihirchronicles.com/on-links/</link><guid isPermaLink="false">https://mihirchronicles.com/on-links/</guid><pubDate>Thu, 01 Jan 2015 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Internet has a lot of amazing gems. My list of articles to read and videos to watch has grown significantly. This is my repository of links that should be re-visited. Consider this as a public bookmark.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://d37ugbyn3rpeym.cloudfront.net/stripe-press/TAODSAE_zine_press.pdf&quot;&gt;You and Your Research — A talk by Richard W. Hamming&lt;/a&gt;: “You and Your Research” is one of Richard Hamming’s many lectures. In 1996, he published a write-up of his graduate course lectures in engineering at the U.S. Naval Postgraduate School in a book called The Art of Doing Science and Engineering; Learning to Learn. In Hamming’s words, “the course centers around how to look at and think about knowledge,” and is an extension of the wisdom of “You and Your Research.” The book was republished this year, with a foreword from Bret Victor, by Stripe Press. Why do I believe this talk is important? It is important because as far as I know each of you has but one life to lead, and it seems to me it is better to do significant things than to just get along through life to its end. Certainly near the end it is nice to look back at a life of accomplishments rather than a life where you have merely survived and amused yourself. Thus in a real sense I am preaching the messages that (1) it is worth trying to accomplish the goals you set yourself and (2) it is worth setting yourself high goals. Again, to be convincing to you I will talk mainly about my own experience, but there are equivalent stories I could use involving others. I want to get you to the state where you will say to yourself, “Yes, I would like to do first-class work. If Hamming could, then why not me?” Our society frowns on those who say this too loudly, but I only ask you say it to yourself! What you consider first-class work is up to you; you must pick your goals, but make them high!  I will start psychologically rather than logically. The major objection cited by people against striving to do great things is the belief that it is all a matter of luck. I have repeatedly cited Pasteur’s remark, “Luck favors the prepared mind.” It both admits there is an element of luck and yet claims to a great extent it is up to you. You prepare yourself to succeed or not, as you choose, from moment to moment by the way you live your life.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://d37ugbyn3rpeym.cloudfront.net/stripe-press/TAODSAE_zine_press.pdf&quot;&gt;You and Your Research — A talk by Richard W. Hamming&lt;/a&gt;: “You and Your Research” is one of Richard Hamming’s many lectures. In 1996, he published a write-up of his graduate course lectures in engineering at the U.S. Naval Postgraduate School in a book called The Art of Doing Science and Engineering; Learning to Learn. In Hamming’s words, “the course centers around how to look at and think about knowledge,” and is an extension of the wisdom of “You and Your Research.” The book was republished this year, with a foreword from Bret Victor, by Stripe Press. Why do I believe this talk is important? It is important because as far as I know each of you has but one life to lead, and it seems to me it is better to do significant things than to just get along through life to its end. Certainly near the end it is nice to look back at a life of accomplishments rather than a life where you have merely survived and amused yourself. Thus in a real sense I am preaching the messages that (1) it is worth trying to accomplish the goals you set yourself and (2) it is worth setting yourself high goals. Again, to be convincing to you I will talk mainly about my own experience, but there are equivalent stories I could use involving others. I want to get you to the state where you will say to yourself, “Yes, I would like to do first-class work. If Hamming could, then why not me?” Our society frowns on those who say this too loudly, but I only ask you say it to yourself! What you consider first-class work is up to you; you must pick your goals, but make them high!  I will start psychologically rather than logically. The major objection cited by people against striving to do great things is the belief that it is all a matter of luck. I have repeatedly cited Pasteur’s remark, “Luck favors the prepared mind.” It both admits there is an element of luck and yet claims to a great extent it is up to you. You prepare yourself to succeed or not, as you choose, from moment to moment by the way you live your life....Newton observed that if others would think as hard as he did, then they would be able to do the same things. Edison said genius was 99% perspiration and 1% inspiration. It is hard work, applied for long years, which leads to the creative act, and it is rarely just handed to you without any serious effort on your part. Yes, sometimes it just happens, and then it is pure luck. It seems to me to be folly for you to depend solely on luck for the outcome of this one life you have to lead.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://rojospinks.substack.com/p/how-i-became-collapse-aware?utm_source=DenseDiscovery-319&quot;&gt;How I became &apos;collapse aware&apos;&lt;/a&gt;: To be collapse aware is to live with the sense that something about the way we live is coming to an end. And then to ask the next obvious question head on: If the incrementalist approach of our existing political and economic structures is not up to the task of improving things — climate, society, inequality, injustice — what comes next? It’s frequently said that societal collapse is not a singular event, but a process. Collapse isn’t about any one system, country, or political leader — it’s about a shift in all our “normal modes” of living, being, and surviving. But I think you can argue that the American project is the fullest and most visible embodiment of the values that have driven us to this moment....That, more than anything else, feels energizing to me right now. As I’ve written before: Most of the things we need to do to heal the planet and our society are the same things that would heal ourselves. Figuring out how I’m going to live Here makes my life better right now, today. At the same time, it prepares me for a future that feels very uncertain and scary....Do you work so hard in your status-bestowing job that you don’t have any time or energy to offer anyone else in your life? Try to reallocate some of your energy away from how you earn your income. Are you so perpetually busy and overstimulated that the thought of sitting in silence with no entertainment or productive pursuit fills you with dread? Find practices to counter that — it’s a skill that’ll come in handy.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?app=desktop&amp;#x26;v=I64RtGofPW8&quot;&gt;How Language Shapes Thought by Lera Boroditsky at Long Now Foundation&lt;/a&gt;: A fascinating talk on language and how it shapes cognition. Do the languages we speak shape the way we think? For example, how do we think about time? The word “time” is the most frequent noun in the English language. Time is ubiquitous yet ephemeral. It forms the very fabric of our experience, and yet it is unperceivable: we cannot see, touch, or smell time. How do our minds create this fundamental aspect of experience? Do patterns in language and culture influence how we think about time? Do languages merely express thoughts, or do the structures in languages (without our knowledge or consent) shape the very thoughts we wish to express? Can learning new ways to talk change how you think? Is there intrinsic value in human linguistic diversity?&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://zackkanter.com/2019/03/13/what-is-amazon/&quot;&gt;What is Amazon? by Zack Kanter&lt;/a&gt;: I am going to answer the question – what is Amazon? – but you can’t begin to understand Amazon without first understanding Walmart. Walmart revolutionized the retail game; Amazon “borrowed” Walmart’s playbook as a starting point, just as Walmart borrowed the playbook from the early discount retailers as a starting point before it. And so I’ll start by answering the question: what is Walmart?&lt;/li&gt;
