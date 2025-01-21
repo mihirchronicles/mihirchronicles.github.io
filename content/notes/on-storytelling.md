@@ -214,6 +214,7 @@ I'll end this deep dive with this quote:
     - [Best speeches of all times](https://twitter.com/patrick_oshag/status/1499175362827272198)
     - [The Best Commencement Speeches, Ever by NPR](https://apps.npr.org/commencement/)
     - [Storytelling by Scott Galloway](https://www.profgalloway.com/storytelling/)
+    - [Why Storytelling by Tony Fadell](https://www.founderstribune.org/p/why-storytelling-by-tony-fadell)
     - [On being funny at work](https://www.lennysnewsletter.com/p/on-being-funny-at-work)
     - [The Moth | The Art and Craft of Storytelling](https://themoth.org)
 
