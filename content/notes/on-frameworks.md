@@ -416,19 +416,25 @@ Hamilton Helmer covers 7 powers that companies can leverage on:
     <summary><strong>Wardley Maps</strong></summary>
     <br>
 
-They provide situational awareness and shared assumptions about a context necessary for building a sound strategy. It is a representation of the landscape in which a business operates.
+They provide situational awareness and shared assumptions about a context necessary for building a sound strategy. It is a representation of the landscape in which a business operates. Inspired by military strategy, Simon Wardley created this framework to give businesses a clear view of their “battlefield.” Wardley Mapping forces you to see the big picture not just WHAT you’re building, but WHY it matters, WHEN it’s needed, and WHERE you can gain a competitive edge. It helps you move from reactive firefighting to proactive strategic thinking.
+
 - Simon Wardley, the technique’s inventor, describes strategy using Sun Tzu’s Five Factors:
-    - Purpose: A wise leader has a purpose (a what and a why). This is the force that compels you to do what you do and make what you make. It’s the higher reason for doing your work, often called your moral imperative.
+    - Purpose: What’s the goal or game" you’re playing? A wise leader has a purpose (a what and a why). This is the force that compels you to do what you do and make what you make. It’s the higher reason for doing your work, often called your moral imperative. What’s the goal or “game” you’re playing?
     - Landscape: A wise leader grasps the terrain because every organization operates within a landscape that represents the context for its decisions (leader has a map). This is the context: a mapping of the competitive environment in which you operate.
     - Climate: A wise leader anticipates the patterns of the forces acting on the environment. There are always external forces manipulating the environment. In the same way that you don’t control the weather, you don’t control external forces like trends and the economy. But you can be aware of the climate and learn how best to prepare for it.
     - Doctrine: A wise leader trains the organization in universally useful principles. Just as a religion has a core set of beliefs, your company will have a certain set of principles that will be applied to any situation.
     - Leadership: A wise leader makes shrewd decisions that lead to victory. This is the strategy that you’ll determine after you consider your purpose, landscape, and climate.
-- It consists of a value chain (activities needed to fulfill user needs) graphed against evolution (how individual activities change over time under supply and demand competition).
+- It consists of a value chain (activities needed to fulfill user needs) graphed against evolution (how individual activities change over time under supply and demand competition). The Wardley Map represents your value chain through three main components:
+    - Users: Who are the beneficiaries of your product?
+    - Needs: What are their core needs and pain points?
+    - Capabilites: How do you deliver value through different capabilities?
 - In Wardley Maps, the y-axis (vertical) represents visibility to the user. Like a traditional value chain, the higher the component, the more the user can see it. For example, a web page might be at the top, while a database or a server might be near the bottom. The x-axis (horizontal) contains the four stages of evolution:
     - I. Genesis: The object is rare, poorly understood, and uncertain. There is the potential to have high future worth. The object is described with wonder, and it’s different from anything else in the market in this context. It should be a competitive advantage and experimentation is rife. 
     - II. Custom Built: More people are starting to consume and understand the object. The market is forming, and there is potential ROI. As understanding increases, users start to find its value, but inconsistently. The key focus is learning.
     - III. Product Rental: Consumption is rapidly increasing as the market grows. The object is profitable, new features can differentiate it, and there is a refinement of needs. Things are starting to get competitive, and the profit margins mean it’s a crowded market.
     - IV. Commodity/Utility: The object is widespread and stabilizing. It’s a mature and ordered market. The high volume has decreased margins. Operational efficiency is king, and failure is not tolerated in the market. This is the cost of doing business (like oil & gas).
+- Wardley Map Canvas Template
+    - <img src="../../src/images/wardley-map.jpeg" alt="wardley map canvas"/>
 
 #### Further reading
 
