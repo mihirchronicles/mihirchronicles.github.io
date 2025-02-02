@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 21 Jan 2025 02:20:15 GMT</lastBuildDate><item><title><![CDATA[On Artificial Intelligence]]></title><description><![CDATA[Replicating and scaling human intelligence has been humanity's mission since the dawn of time. There is no doubt we are living in the age of…]]></description><link>https://mihirchronicles.com/on-artificial-intelligence/</link><guid isPermaLink="false">https://mihirchronicles.com/on-artificial-intelligence/</guid><pubDate>Sun, 15 Dec 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Replicating and scaling human intelligence has been humanity&apos;s mission since the dawn of time. There is no doubt we are living in the age of rapid innovation as all walks of life are being transformed by artificial intelligence (AI). The impact is already being felt causing the re-shaping of human experience and decision-making.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 02 Feb 2025 20:38:20 GMT</lastBuildDate><item><title><![CDATA[On Artificial Intelligence]]></title><description><![CDATA[Replicating and scaling human intelligence has been humanity's mission since the dawn of time. There is no doubt we are living in the age of…]]></description><link>https://mihirchronicles.com/on-artificial-intelligence/</link><guid isPermaLink="false">https://mihirchronicles.com/on-artificial-intelligence/</guid><pubDate>Sun, 15 Dec 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Replicating and scaling human intelligence has been humanity&apos;s mission since the dawn of time. There is no doubt we are living in the age of rapid innovation as all walks of life are being transformed by artificial intelligence (AI). The impact is already being felt causing the re-shaping of human experience and decision-making.&lt;/p&gt;
 &lt;p&gt;Here is my attempt to deep dive on the topic of AI without claiming any future predictions.&lt;/p&gt;
 &lt;p&gt;Bold statements come flying high every second on deeming computers being intelligent. Whether they are intelligent enough to save us or kill us, I am not sure, but it is worth exploring what &lt;em&gt;intelligence&lt;/em&gt; even means to us before diving deeper into &lt;em&gt;machines&lt;/em&gt;.&lt;/p&gt;
 &lt;h2&gt;Human Intelligence&lt;/h2&gt;
@@ -2445,24 +2445,46 @@ Interview snapshot: An interview snapshot is a one-pager designed to help you sy
 &lt;details&gt;
     &lt;summary&gt;&lt;strong&gt;Wardley Maps&lt;/strong&gt;&lt;/summary&gt;
     &lt;br&gt;
-&lt;p&gt;They provide situational awareness and shared assumptions about a context necessary for building a sound strategy. It is a representation of the landscape in which a business operates.&lt;/p&gt;
+&lt;p&gt;They provide situational awareness and shared assumptions about a context necessary for building a sound strategy. It is a representation of the landscape in which a business operates. Inspired by military strategy, Simon Wardley created this framework to give businesses a clear view of their “battlefield.” Wardley Mapping forces you to see the big picture not just WHAT you’re building, but WHY it matters, WHEN it’s needed, and WHERE you can gain a competitive edge. It helps you move from reactive firefighting to proactive strategic thinking.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Simon Wardley, the technique’s inventor, describes strategy using Sun Tzu’s Five Factors:
 &lt;ul&gt;
-&lt;li&gt;Purpose: A wise leader has a purpose (a what and a why). This is the force that compels you to do what you do and make what you make. It’s the higher reason for doing your work, often called your moral imperative.&lt;/li&gt;
+&lt;li&gt;Purpose: What’s the goal or game&quot; you’re playing? A wise leader has a purpose (a what and a why). This is the force that compels you to do what you do and make what you make. It’s the higher reason for doing your work, often called your moral imperative. What’s the goal or “game” you’re playing?&lt;/li&gt;
 &lt;li&gt;Landscape: A wise leader grasps the terrain because every organization operates within a landscape that represents the context for its decisions (leader has a map). This is the context: a mapping of the competitive environment in which you operate.&lt;/li&gt;
 &lt;li&gt;Climate: A wise leader anticipates the patterns of the forces acting on the environment. There are always external forces manipulating the environment. In the same way that you don’t control the weather, you don’t control external forces like trends and the economy. But you can be aware of the climate and learn how best to prepare for it.&lt;/li&gt;
 &lt;li&gt;Doctrine: A wise leader trains the organization in universally useful principles. Just as a religion has a core set of beliefs, your company will have a certain set of principles that will be applied to any situation.&lt;/li&gt;
 &lt;li&gt;Leadership: A wise leader makes shrewd decisions that lead to victory. This is the strategy that you’ll determine after you consider your purpose, landscape, and climate.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;It consists of a value chain (activities needed to fulfill user needs) graphed against evolution (how individual activities change over time under supply and demand competition).&lt;/li&gt;
+&lt;li&gt;It consists of a value chain (activities needed to fulfill user needs) graphed against evolution (how individual activities change over time under supply and demand competition). The Wardley Map represents your value chain through three main components:
+&lt;ul&gt;
+&lt;li&gt;Users: Who are the beneficiaries of your product?&lt;/li&gt;
+&lt;li&gt;Needs: What are their core needs and pain points?&lt;/li&gt;
+&lt;li&gt;Capabilites: How do you deliver value through different capabilities?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;In Wardley Maps, the y-axis (vertical) represents visibility to the user. Like a traditional value chain, the higher the component, the more the user can see it. For example, a web page might be at the top, while a database or a server might be near the bottom. The x-axis (horizontal) contains the four stages of evolution:
 &lt;ul&gt;
 &lt;li&gt;I. Genesis: The object is rare, poorly understood, and uncertain. There is the potential to have high future worth. The object is described with wonder, and it’s different from anything else in the market in this context. It should be a competitive advantage and experimentation is rife.&lt;/li&gt;
 &lt;li&gt;II. Custom Built: More people are starting to consume and understand the object. The market is forming, and there is potential ROI. As understanding increases, users start to find its value, but inconsistently. The key focus is learning.&lt;/li&gt;
 &lt;li&gt;III. Product Rental: Consumption is rapidly increasing as the market grows. The object is profitable, new features can differentiate it, and there is a refinement of needs. Things are starting to get competitive, and the profit margins mean it’s a crowded market.&lt;/li&gt;
 &lt;li&gt;IV. Commodity/Utility: The object is widespread and stabilizing. It’s a mature and ordered market. The high volume has decreased margins. Operational efficiency is king, and failure is not tolerated in the market. This is the cost of doing business (like oil &amp;#x26; gas).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Wardley Map Canvas Template
+&lt;ul&gt;
+&lt;li&gt;
+&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/486281712129345ea4ad31c82dde9b25/1a057/wardley-map.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 71.51898734177216%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB7bT2HJlf/8QAFxAAAwEAAAAAAAAAAAAAAAAAAAEREv/aAAgBAQABBQKIiIaU0jR//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFhABAQEAAAAAAAAAAAAAAAAAMQAg/9oACAEBAAY/AiIx/8QAHBAAAgICAwAAAAAAAAAAAAAAAAERUSExQWGR/9oACAEBAAE/IVFr4ZA0oJ3I6mRpn//aAAwDAQACAAMAAAAQuM//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPxCH/8QAHBAAAgICAwAAAAAAAAAAAAAAAAERITGBkcHw/9oACAEBAAE/EELaEMyHCJvQimL3Y6hbsB//2Q==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;wardley map canvas&quot; title=&quot;&quot; src=&quot;/static/486281712129345ea4ad31c82dde9b25/828fb/wardley-map.jpg&quot; srcset=&quot;/static/486281712129345ea4ad31c82dde9b25/ff44c/wardley-map.jpg 158w,
+/static/486281712129345ea4ad31c82dde9b25/a6688/wardley-map.jpg 315w,
+/static/486281712129345ea4ad31c82dde9b25/828fb/wardley-map.jpg 630w,
+/static/486281712129345ea4ad31c82dde9b25/0ede0/wardley-map.jpg 945w,
+/static/486281712129345ea4ad31c82dde9b25/1a057/wardley-map.jpg 1026w&quot; sizes=&quot;(max-width: 630px) 100vw, 630px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
