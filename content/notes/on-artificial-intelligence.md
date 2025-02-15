@@ -154,10 +154,19 @@ Lastly, how does AI navigate alignment problem when it's dealt with censorship? 
 
 My interest in this deep dive is not to side with one argument or the other but understand the limitations while using AI tools to power my daily workflows by 10x. We are living in the world of automation, and it is worthwhile to adapt and understand the current norms.
 
-## AI Landscape 
+## AI Landscape
 
-- Neural Network:
-- 
+### AI History
+
+### Deep Learning
+
+- Neural Network
+- Gradient Descent
+- Backpropagation
+- Large Language Models (LLMs)
+- Transformers
+- Attention Mechanism in Transformers
+- Memory in LLMs
 
 ## Use Cases
 
