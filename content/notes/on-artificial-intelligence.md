@@ -154,7 +154,12 @@ Lastly, how does AI navigate alignment problem when it's dealt with censorship? 
 
 My interest in this deep dive is not to side with one argument or the other but understand the limitations while using AI tools to power my daily workflows by 10x. We are living in the world of automation, and it is worthwhile to adapt and understand the current norms.
 
-## AI Landscape & Use Cases
+## AI Landscape 
+
+- Neural Network:
+- 
+
+## Use Cases
 
 Below are interesting use cases I have gathered to 10x your productivity.
 
