@@ -156,7 +156,11 @@ My interest in this deep dive is not to side with one argument or the other but 
 
 ## AI Landscape
 
+This is an ongoing comprehensive guide on AI landscape.
+
 ### AI History
+
+### Machine Learning
 
 ### Deep Learning
 
@@ -167,6 +171,7 @@ My interest in this deep dive is not to side with one argument or the other but 
 - Transformers
 - Attention Mechanism in Transformers
 - Memory in LLMs
+- Agents
 
 ## Use Cases
 
