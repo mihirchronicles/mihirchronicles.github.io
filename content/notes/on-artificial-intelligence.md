@@ -158,7 +158,7 @@ My interest in this deep dive is not to side with one argument or the other but 
 
 This is an ongoing comprehensive guide on AI landscape.
 
-### AI History
+### History
 
 ### Machine Learning
 
