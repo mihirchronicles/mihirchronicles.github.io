@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 15 Feb 2025 21:43:13 GMT</lastBuildDate><item><title><![CDATA[On Artificial Intelligence]]></title><description><![CDATA[Like everyone else, I am LLMed up because of how exciting these tools are. It feels dark, yet some call this era magical. Nevertheless, it…]]></description><link>https://mihirchronicles.com/on-artificial-intelligence/</link><guid isPermaLink="false">https://mihirchronicles.com/on-artificial-intelligence/</guid><pubDate>Sun, 15 Dec 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Like everyone else, I am LLMed up because of how exciting these tools are. It feels dark, yet some call this era magical. Nevertheless, it deserves the hype because it feels similar to the early days of internet, web and mobile. Here is my attempt to deep dive on the topic of artificial intelligence (AI).&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 15 Feb 2025 22:30:53 GMT</lastBuildDate><item><title><![CDATA[On Artificial Intelligence]]></title><description><![CDATA[Like everyone else, I am LLMed up because of how exciting these tools are. It feels dark, yet some call this era magical. Nevertheless, it…]]></description><link>https://mihirchronicles.com/on-artificial-intelligence/</link><guid isPermaLink="false">https://mihirchronicles.com/on-artificial-intelligence/</guid><pubDate>Sun, 15 Dec 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Like everyone else, I am LLMed up because of how exciting these tools are. It feels dark, yet some call this era magical. Nevertheless, it deserves the hype because it feels similar to the early days of internet, web and mobile. Here is my attempt to deep dive on the topic of artificial intelligence (AI).&lt;/p&gt;
 &lt;p&gt;Replicating and scaling intelligence has been humanity&apos;s mission since the dawn of time. There is no doubt we are living in the age of rapid innovation as all walks of life are being transformed by AI. Perhaps AI will re-shape human experience, maybe not, but caution is required when bold statements come flying high every second on deeming computers being intelligent.&lt;/p&gt;
 &lt;p&gt;Formulating a concise definition of &lt;em&gt;human intelligence&lt;/em&gt; is a slippery topic because of its nebulous nature, but worth exploring nonetheless before we dive into &lt;em&gt;machine intelligence&lt;/em&gt;.&lt;/p&gt;
 &lt;h2&gt;Humans&lt;/h2&gt;
@@ -73,7 +73,9 @@
 &lt;p&gt;Lastly, how does AI navigate alignment problem when it&apos;s dealt with censorship? When a government entity censors an LLM model based on their cultural values, LLMs will lack reality. Different cultural zones with different values will censor different things. Open-source models might solve it, but are the powerful entities of the world open to it?&lt;/p&gt;
 &lt;p&gt;My interest in this deep dive is not to side with one argument or the other but understand the limitations while using AI tools to power my daily workflows by 10x. We are living in the world of automation, and it is worthwhile to adapt and understand the current norms.&lt;/p&gt;
 &lt;h2&gt;AI Landscape&lt;/h2&gt;
+&lt;p&gt;This is an ongoing comprehensive guide on AI landscape.&lt;/p&gt;
 &lt;h3&gt;AI History&lt;/h3&gt;
+&lt;h3&gt;Machine Learning&lt;/h3&gt;
 &lt;h3&gt;Deep Learning&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Neural Network&lt;/li&gt;
@@ -83,6 +85,7 @@
 &lt;li&gt;Transformers&lt;/li&gt;
 &lt;li&gt;Attention Mechanism in Transformers&lt;/li&gt;
 &lt;li&gt;Memory in LLMs&lt;/li&gt;
+&lt;li&gt;Agents&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Use Cases&lt;/h2&gt;
 &lt;p&gt;Below are interesting use cases I have gathered to 10x your productivity.&lt;/p&gt;
