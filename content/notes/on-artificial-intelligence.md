@@ -156,18 +156,21 @@ My interest in this deep dive is not to side with one argument or the other but 
 
 ## AI Landscape
 
-- Machine Learning
-- Deep Learning
-- Natural Language Processing (NLP)
-- Neural Network
-- Gradient Descent
-- Backpropagation
-- Large Language Models (LLMs)
-- Transformers
-- Attention Mechanism in Transformers
-- Memory in LLMs
-- Agents
-- Scaling Laws
+- **Machine Learning**
+- **Deep Learning**
+- **Natural Language Processing (NLP)**
+- **Neural Network**
+- **Gradient Descent**
+- **Backpropagation**
+- **Large Language Models (LLMs)**
+- **Transformers**
+    - Attention Mechanism in Transformers
+- **Memory in LLMs**
+- **Prompting**
+    - Chain-of-Thought (CoT): Chain of thought prompting is an approach in artificial intelligence that simulates human-like reasoning processes by delineating complex tasks into a sequence of logical steps towards a final resolution. 
+        - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903): The research paper explores how generating a chain of thought—a series of intermediate reasoning steps—significantly improves the ability of large language models to perform complex reasoning. Experiments on three large language models show that chain-of-thought prompting improves performance on a range of arithmetic, commonsense, and symbolic reasoning tasks. The empirical gains are striking. PaLM 540B with just eight chain-of-thought exemplars achieves state-of-the-art accuracy on the GSM8K benchmark of math word problems, surpassing even finetuned GPT-3 with a verifier. This observation likely raises more questions than it answers—for instance, how much more can we expect reasoning ability to improve with a further increase in model scale? What other prompting methods might expand the range of tasks that language models can solve?
+- **Agents**
+- **Scaling Laws**
 
 ## Use Cases
 
@@ -178,23 +181,6 @@ Below are interesting use cases I have gathered to 10x your productivity.
 | Generative Pre-trained Transformer (GPT) | _AI Technology_: [Wikipedia explanation of GPT](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer), [GPT foundational models](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer#Foundational_models), EinsteinGPT, BloombergGPT <br><br> _AI Assistant_: [ChatGPT](https://chatgpt.com) <br><br> _Details_: It is an artificial neural network that is used in natural language processing by machines. The first GPT was introduced in 2018 by OpenAI.  <br><br> _Usecase_: Machine output in form of human language. Generate knowledge base for new employees. <br><br> _Prompt_: [Open Source Prompts](https://github.com/f/awesome-chatgpt-prompts) |
 | Optical Character Recognition (OCR) | _AI Technology_: [Google OCR](https://cloud.google.com/use-cases/ocr), [Amazon OCR](https://aws.amazon.com/what-is/ocr/#:~:text=Optical%20Character%20Recognition%20(OCR)%20is,words%20in%20the%20image%20file.), [Meta TextOCR](https://research.facebook.com/publications/textocr-towards-large-scale-end-to-end-reasoning-for-arbitrary-shaped-scene-text/), [Llama OCR](https://github.com/Nutlope/llama-ocr) ([meta-llama/Llama-3.2-11B-Vision](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision)) <br><br> _AI Assistant_: [Claude](https://claude.ai/) <br><br> _Details_: Extract text and data from images and documents, turn unstructured content into business-ready structured data, and unlock valuable insights. <br><br> _Usecase_: Take a screenshot of the Zoom call. Upload it to Claude. Ask to OCR Zoom call attendees. This is helpful during sales or community gatherings.  <br><br> _Prompt_: Search the web and provide LinkedIn or other social profiles of all the attendees on the call. |
 | Empathic Large Language Model (eLLM) | _AI Technology_: [Hume's EVI](https://dev.hume.ai/docs/empathic-voice-interface-evi/overview) <br><br> _AI Assistant_: [Hume](https://www.hume.ai), [Hume Demo](https://app.hume.ai) <br><br> _Details_: A conversational AI with emotional intelligence. This eLLM allows Hume's EVI to analyze vocal cues like pitch and tone, providing valuable insights into the user’s emotional state. With this information, EVI can tailor its responses to be more helpful, supportive, or even calming, depending on the situation. <br><br> _Usecase_: Share a conversation that you are about to have with someone that is going to result in conflict. Ask for feedback to ensure the news is shared in a friendly tone to minimize conflict and escalation. This could be used when having a conversation with your boss or your spouse. |
-
-## Heard On Internet
-
-- The astounding efficiency of the human brain and the way babies and toddlers can learn: GPT3 took 1.3 million kWh to train. Converted to calories and assuming 2k calories/day, that's 1,500 years. Think about what kids learn in 10! — Patrick O'Shaughnessy
-- “AI is not like nuclear power where you can restrict the materials,” says computer security expert Bruce Schneier. AI technology is already highly distributed, he says, and the idea that American companies are at a huge and absolute advantage is a mirage.
-- The future belongs to those who out-prompt the rest.
-- To people who see the performance of DeepSeek and think: ‘China is surpassing the U.S. in AI.’ You are reading this wrong. The correct reading is: ‘Open source models are surpassing proprietary ones.’
-- Human Response vs AI: Do submarines swim?
-- At its core LLMs are best at working with natural language. They are adept at summarizing research, answering questions, and delivering information that gets their prompter ~70% of the way to a definitive result. What they lack (for now!) is the ability to do complex calculations and quantitative analyses — two skills crucial to the analytical profession.
-- No learner is immune to the curse of dimensionality. It’s the second worst problem in machine learning, after overfitting (over stretching assumptions beyond parameters). — Pedro Domingos, Author or The Master Algorithm
-- Between stimulus and response there is space. In that space is our power to choose our response. In our response lies our growth and our freedom. — Viktor E. Frankl
-- I'm convinced this next decade is going to transition from “software eating the world” to “AI eating the software.” — Kevin Rose
-- Let the AI only write the first draft for you. Then, add your tone to it.
-- Craftsman knows how to work, art is knowing when to stop. And I think knowing when to stop is going to be a very difficult thing for AI to learn because it is taste. — Ben Affleck
-- Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information? — T.S. Eliot
-- Knowledge can be communicated, but not wisdom. One can find it, live it, be fortified by it, do wonders through it, but one cannot communicate and teach it. — Hermann Hesse, Siddhartha
-- What is the difference between wisdom, knowledge, intelligence, insight and information?
 
 ## Further reading
 <details>
