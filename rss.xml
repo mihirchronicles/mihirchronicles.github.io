@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 18 Feb 2025 16:06:45 GMT</lastBuildDate><item><title><![CDATA[On Artificial Intelligence]]></title><description><![CDATA[Like everyone else, I am LLMed up because of how exciting these tools are. It feels dark, yet some call this era magical. Nevertheless, it…]]></description><link>https://mihirchronicles.com/on-artificial-intelligence/</link><guid isPermaLink="false">https://mihirchronicles.com/on-artificial-intelligence/</guid><pubDate>Sun, 15 Dec 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Like everyone else, I am LLMed up because of how exciting these tools are. It feels dark, yet some call this era magical. Nevertheless, it deserves the hype because it feels similar to the early days of internet, web and mobile. Here is my attempt to deep dive on the topic of artificial intelligence (AI).&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 18 Feb 2025 16:24:28 GMT</lastBuildDate><item><title><![CDATA[On Artificial Intelligence]]></title><description><![CDATA[Like everyone else, I am LLMed up because of how exciting these tools are. It feels dark, yet some call this era magical. Nevertheless, it…]]></description><link>https://mihirchronicles.com/on-artificial-intelligence/</link><guid isPermaLink="false">https://mihirchronicles.com/on-artificial-intelligence/</guid><pubDate>Sun, 15 Dec 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Like everyone else, I am LLMed up because of how exciting these tools are. It feels dark, yet some call this era magical. Nevertheless, it deserves the hype because it feels similar to the early days of internet, web and mobile. Here is my attempt to deep dive on the topic of artificial intelligence (AI).&lt;/p&gt;
 &lt;p&gt;Replicating and scaling intelligence has been humanity&apos;s mission since the dawn of time. There is no doubt we are living in the age of rapid innovation as all walks of life are being transformed by AI. Perhaps AI will re-shape human experience, maybe not, but caution is required when bold statements come flying high every second on deeming computers being intelligent.&lt;/p&gt;
 &lt;p&gt;Formulating a concise definition of &lt;em&gt;human intelligence&lt;/em&gt; is a slippery topic because of its nebulous nature, but worth exploring nonetheless before we dive into &lt;em&gt;machine intelligence&lt;/em&gt;.&lt;/p&gt;
 &lt;h2&gt;Humans&lt;/h2&gt;
@@ -75,21 +75,27 @@
 &lt;h2&gt;AI Landscape&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Machine Learning&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Deep Learning&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Natural Language Processing (NLP)&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Neural Network&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Gradient Descent&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Backpropagation&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Large Language Models (LLMs)&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Transformers&lt;/strong&gt;
+&lt;li&gt;&lt;strong&gt;Deep Learning&lt;/strong&gt;
 &lt;ul&gt;
-&lt;li&gt;Attention Mechanism in Transformers&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Natural Language Processing (NLP)&lt;/em&gt;:&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Neural Network&lt;/em&gt;:&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Gradient Descent&lt;/em&gt;:&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Backpropagation&lt;/em&gt;:&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Memory in LLMs&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Large Language Models (LLMs)&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Memory in LLMs&lt;/em&gt;:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transformers&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Attention Mechanism in Transformers&lt;/em&gt;:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Prompting&lt;/strong&gt;
 &lt;ul&gt;
-&lt;li&gt;Chain-of-Thought (CoT): Chain of thought prompting is an approach in artificial intelligence that simulates human-like reasoning processes by delineating complex tasks into a sequence of logical steps towards a final resolution.
+&lt;li&gt;&lt;em&gt;Chain-of-Thought (CoT)&lt;/em&gt;: Chain of thought prompting is an approach in artificial intelligence that simulates human-like reasoning processes by delineating complex tasks into a sequence of logical steps towards a final resolution.
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://arxiv.org/pdf/2201.11903&quot;&gt;Chain-of-Thought Prompting Elicits Reasoning in Large Language Models&lt;/a&gt;: The research paper explores how generating a chain of thought—a series of intermediate reasoning steps—significantly improves the ability of large language models to perform complex reasoning. Experiments on three large language models show that chain-of-thought prompting improves performance on a range of arithmetic, commonsense, and symbolic reasoning tasks. The empirical gains are striking. PaLM 540B with just eight chain-of-thought exemplars achieves state-of-the-art accuracy on the GSM8K benchmark of math word problems, surpassing even finetuned GPT-3 with a verifier. This observation likely raises more questions than it answers—for instance, how much more can we expect reasoning ability to improve with a further increase in model scale? What other prompting methods might expand the range of tasks that language models can solve?&lt;/li&gt;
 &lt;/ul&gt;
@@ -151,6 +157,10 @@
 &lt;li&gt;&lt;a href=&quot;http://www.incompleteideas.net/IncIdeas/BitterLesson.html&quot;&gt;The Bitter Lesson by Rich Sutton, March 13, 2019&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://colah.github.io&quot;&gt;Chris Olah&apos;s Blog&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://distill.pub&quot;&gt;Distill: A modern medium for presenting machine learning research&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Models&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://ai.google/get-started/our-models/&quot;&gt;Google Models&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;br /&gt;</content:encoded></item><item><title><![CDATA[Richer, Wiser, Happier | How The World's Greatest Investors Win In Markets And Life by William Green]]></title><description><![CDATA[I. Brief Summary A book on investment legends. William Green is a well-known financial journalist and has access to many of the world's best…]]></description><link>https://mihirchronicles.com/richer-wiser-happier/</link><guid isPermaLink="false">https://mihirchronicles.com/richer-wiser-happier/</guid><pubDate>Sat, 07 Dec 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;I. Brief Summary&lt;/h2&gt;
