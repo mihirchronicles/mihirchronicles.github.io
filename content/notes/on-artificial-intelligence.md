@@ -204,18 +204,23 @@ Below are interesting use cases I have gathered to 10x your productivity.
 **Books**
 - [The Master Algorithm | How The Quest For The Ultimate Learning Machine Will Remake Our World by Pedro Domingos](/the-master-algorithm/)
 - [Competing In The Age Of AI | Strategy & Leadership When Algorithms And Networks Run The World by Marco Iansiti & Karim R. Lakhani](/competing-in-age-of-ai/)
+- [Introducing Neural networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com)
 
 **Papers**
-- [CoT (Chain of Thought) - 2022](https://arxiv.org/pdf/2201.11903)
+- [CoT (Chain of Thought) 2022](https://arxiv.org/pdf/2201.11903)
+- [SELF-REFINE: Iterative Refinement with Self-Feedback 2023](https://arxiv.org/pdf/2303.17651)
 
 **Talks & Videos**
 - [ 3Blue1Brown Series on LLM & Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [Santa Fe Institute Complexity Podcast | Nature of Intelligence Series](https://complexity.simplecast.com/episodes)
+- [How Language Shapes Thought | Lera Boroditsky by The Long Now Foundation](https://www.youtube.com/watch?v=I64RtGofPW8)
 
 **Links**
 - [The Evolutionary Argument Against Reality](https://www.quantamagazine.org/the-evolutionary-argument-against-reality-20160421/)
 - [What is intelligent life?](https://aeon.co/essays/why-intelligence-exists-only-in-the-eye-of-the-beholder)
 - [The Bitter Lesson by Rich Sutton, March 13, 2019](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
+- [Chris Olah's Blog](https://colah.github.io)
+- [Distill: A modern medium for presenting machine learning research](https://distill.pub)
 
 </details>
 <br />
