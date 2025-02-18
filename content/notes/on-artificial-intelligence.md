@@ -156,14 +156,9 @@ My interest in this deep dive is not to side with one argument or the other but 
 
 ## AI Landscape
 
-This is an ongoing comprehensive guide on AI landscape.
-
-### History
-
-### Machine Learning
-
-### Deep Learning
-
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
 - Neural Network
 - Gradient Descent
 - Backpropagation
@@ -172,6 +167,7 @@ This is an ongoing comprehensive guide on AI landscape.
 - Attention Mechanism in Transformers
 - Memory in LLMs
 - Agents
+- Scaling Laws
 
 ## Use Cases
 
@@ -209,7 +205,17 @@ Below are interesting use cases I have gathered to 10x your productivity.
 - [The Master Algorithm | How The Quest For The Ultimate Learning Machine Will Remake Our World by Pedro Domingos](/the-master-algorithm/)
 - [Competing In The Age Of AI | Strategy & Leadership When Algorithms And Networks Run The World by Marco Iansiti & Karim R. Lakhani](/competing-in-age-of-ai/)
 
-**Links & Talks**
+**Papers**
+- [CoT (Chain of Thought) - 2022](https://arxiv.org/pdf/2201.11903)
+
+**Talks & Videos**
+- [ 3Blue1Brown Series on LLM & Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [Santa Fe Institute Complexity Podcast | Nature of Intelligence Series](https://complexity.simplecast.com/episodes)
+
+**Links**
+- [The Evolutionary Argument Against Reality](https://www.quantamagazine.org/the-evolutionary-argument-against-reality-20160421/)
+- [What is intelligent life?](https://aeon.co/essays/why-intelligence-exists-only-in-the-eye-of-the-beholder)
+- [The Bitter Lesson by Rich Sutton, March 13, 2019](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 
 </details>
 <br />
