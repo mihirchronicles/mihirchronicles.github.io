@@ -191,6 +191,24 @@ Below are interesting use cases I have gathered to 10x your productivity.
 - [The Master Algorithm | How The Quest For The Ultimate Learning Machine Will Remake Our World by Pedro Domingos](/the-master-algorithm/)
 - [Competing In The Age Of AI | Strategy & Leadership When Algorithms And Networks Run The World by Marco Iansiti & Karim R. Lakhani](/competing-in-age-of-ai/)
 - [Introducing Neural networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com)
+- Artificial Intelligence: A Guide for Thinking Humans by Melanie Mitchell
+- Words, Thoughts and Theories by Alison Gopnik and Andrew N. Meltzoff
+- The Scientist in the Crib: Minds, Brains, and How Children Learn by Alison Gopnik, Andrew N. Meltzoff, and Patricia K. Kuhl
+- The Philosophical Baby: What Children's Minds Tell Us About Truth, Love, and the Meaning of Life by Alison Gopnik
+- The Gardener and the Carpenter: What the New Science of Child Development Tells Us About the Relationship Between Parents and Children by Alison Gopnik
+- Finite and Infinite Games Book by James P. Carse
+- Developing Object Concepts in Infancy: An Associative Learning Perspective by Rakison, D.H., and G. Lupyan
+- Language and Mind by Noam Chomsky
+- On Language by Noam Chomsky
+- The Technological Singularity by Murray Shanahan
+- Embodiment and the inner life: Cognition and Consciousness in the Space of Possible Minds by Murray Shanahan
+- Solving the Frame Problem by Murray Shanahan
+- Search, Inference and Dependencies in Artificial Intelligence by Murray Shanahan and Richard Southwick
+- The Coming Wave: Technology, Power, and the Twenty-first Century's Greatest Dilemma by Mustafa Suleyman, Michael Bhaskar
+- Genesis: Artificial Intelligence, Hope, and the Human Spirit by Henry A. Kissinger, Eric Schmidt, Craig Mundie
+- The Age of AI: And Our Human Future by Henry A Kissinger, Eric Schmidt, Daniel Huttenlocher
+- A Brief History of Artificial Intelligence: What It Is, Where We Are, and Where We Are Going by Michael Wooldridge
+- Machines Who Think: A Personal Inquiry into the History and Prospects of Artificial Intelligence by Pamela McCorduck
 
 **Papers**
 - [CoT (Chain of Thought) 2022](https://arxiv.org/pdf/2201.11903)
