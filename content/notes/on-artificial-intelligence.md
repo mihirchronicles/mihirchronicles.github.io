@@ -158,16 +158,16 @@ My interest in this deep dive is not to side with one argument or the other but 
 
 - **Machine Learning**
 - **Deep Learning**
-- **Natural Language Processing (NLP)**
-- **Neural Network**
-- **Gradient Descent**
-- **Backpropagation**
-- **Large Language Models (LLMs)**
+    - _Natural Language Processing (NLP)_:
+    - _Neural Network_:
+    - _Gradient Descent_:
+    - _Backpropagation_:
+- **Large Language Models (LLMs)**:
+    - _Memory in LLMs_:
 - **Transformers**
-    - Attention Mechanism in Transformers
-- **Memory in LLMs**
+    - _Attention Mechanism in Transformers_:
 - **Prompting**
-    - Chain-of-Thought (CoT): Chain of thought prompting is an approach in artificial intelligence that simulates human-like reasoning processes by delineating complex tasks into a sequence of logical steps towards a final resolution. 
+    - _Chain-of-Thought (CoT)_: Chain of thought prompting is an approach in artificial intelligence that simulates human-like reasoning processes by delineating complex tasks into a sequence of logical steps towards a final resolution. 
         - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903): The research paper explores how generating a chain of thought—a series of intermediate reasoning steps—significantly improves the ability of large language models to perform complex reasoning. Experiments on three large language models show that chain-of-thought prompting improves performance on a range of arithmetic, commonsense, and symbolic reasoning tasks. The empirical gains are striking. PaLM 540B with just eight chain-of-thought exemplars achieves state-of-the-art accuracy on the GSM8K benchmark of math word problems, surpassing even finetuned GPT-3 with a verifier. This observation likely raises more questions than it answers—for instance, how much more can we expect reasoning ability to improve with a further increase in model scale? What other prompting methods might expand the range of tasks that language models can solve?
 - **Agents**
 - **Scaling Laws**
@@ -207,6 +207,9 @@ Below are interesting use cases I have gathered to 10x your productivity.
 - [The Bitter Lesson by Rich Sutton, March 13, 2019](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 - [Chris Olah's Blog](https://colah.github.io)
 - [Distill: A modern medium for presenting machine learning research](https://distill.pub)
+
+**Models**
+- [Google Models](https://ai.google/get-started/our-models/)
 
 </details>
 <br />
