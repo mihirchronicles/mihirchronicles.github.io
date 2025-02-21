@@ -218,6 +218,7 @@ Below are interesting use cases I have gathered to 10x your productivity.
 - [ 3Blue1Brown Series on LLM & Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [Santa Fe Institute Complexity Podcast | Nature of Intelligence Series](https://complexity.simplecast.com/episodes)
 - [How Language Shapes Thought | Lera Boroditsky by The Long Now Foundation](https://www.youtube.com/watch?v=I64RtGofPW8)
+- [Pamela McCorduck: Machines Who Think and the Early Days of AI](https://lexfridman.com/pamela-mccorduck/)
 
 **Links**
 - [The Evolutionary Argument Against Reality](https://www.quantamagazine.org/the-evolutionary-argument-against-reality-20160421/)

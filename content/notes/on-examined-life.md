@@ -164,3 +164,4 @@ Most important life lessons are clichés but without them life can be a wild rid
 - **Choose to do things that magnify your spirit.**
 - **Choose joy over fear. Choose joy over animosity. Most importantly, choose joy above everything else.**
 - **Always check the y-axis.** Don't generalize reality based on y-axis because scale can be compressed or expanded based on author's incentives or biases. Disproportionate scale creates unwanted fear portrayed by media. Always question the data before you buy into any narrative.
+- **Data can help you climb a mountain, it can’t tell you which mountain to climb.** If you have customers complaining about something, but your metrics shows the other. That is where you need to rearrange your metrics with the right data. Metrics serve as proxies for their in-world representations, not as direct indicators of actual truth. When the data and the anecdotes disagree, go with anecdotes. They are usually right.
