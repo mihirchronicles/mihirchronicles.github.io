@@ -168,7 +168,7 @@ My interest in this deep dive is not to side with one argument or the other but 
     - _Attention Mechanism in Transformers_:
 - **Prompting**
     - _Chain-of-Thought (CoT)_: Chain of thought prompting is an approach in artificial intelligence that simulates human-like reasoning processes by delineating complex tasks into a sequence of logical steps towards a final resolution. 
-        - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903): The research paper explores how generating a chain of thought—a series of intermediate reasoning steps—significantly improves the ability of large language models to perform complex reasoning. Experiments on three large language models show that chain-of-thought prompting improves performance on a range of arithmetic, commonsense, and symbolic reasoning tasks. The empirical gains are striking. PaLM 540B with just eight chain-of-thought exemplars achieves state-of-the-art accuracy on the GSM8K benchmark of math word problems, surpassing even finetuned GPT-3 with a verifier. This observation likely raises more questions than it answers—for instance, how much more can we expect reasoning ability to improve with a further increase in model scale? What other prompting methods might expand the range of tasks that language models can solve?
+        - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903): The research paper explores how generating a chain of thought—a series of intermediate reasoning steps—significantly improves the ability of large language models to perform complex reasoning. Experiments on three large language models show that chain-of-thought prompting improves performance on a range of arithmetic, commonsense, and symbolic reasoning tasks. The empirical gains are striking. PaLM 540B with just eight chain-of-thought exemplars achieves state-of-the-art accuracy on the GSM8K benchmark of math word problems, surpassing even fine tuned GPT-3 with a verifier. This observation likely raises more questions than it answers—for instance, how much more can we expect reasoning ability to improve with a further increase in model scale? What other prompting methods might expand the range of tasks that language models can solve?
 - **Agents**
 - **Scaling Laws**
 
@@ -184,7 +184,7 @@ Below are interesting use cases I have gathered to 10x your productivity.
 
 ## Random thoughts & commentary
 
-- 
+- There is always this cycle of “end of X” that goes on with the new era of technology. Tim O’Reily says, “It is not the end of programming. _It is the end of programming as we know it today._” Low level programming of course declined with the rise of human like programming language such as Java or Python. However, you can still find jobs who need COBOL developers, but just not as much. No code tools rose in popularity. APIs replaced complex enterprise systems. You no longer need to build a payment system. You can use Stripe. We keep climbing the level of abstraction because no one likes to talk in 0s and 1s. This desire didn't kill programming; it replaced the skill-set and the toolkit. Old skills became obsolescent—still useful but no longer essential—and new ones became the key to success. I have heard this too many times—“this time is different.” Maybe or maybe not. LLMs will without a doubt disrupt the workflows for programmers, UXers or product managers, but it is not literally the end of these professions. It will require adaptability and new mindset. Textile industry was supposed to be long dead, but the world has not stopped producing clothes and new brands. Skilled workers become unskilled and give rise to anew, and the unskilled are now craftspeople who are maintaining the old. New skilled workers view the explosion of tools and technologies as complimentary, not as a threat. The workers in both regimes (skilled and unskilled due to the explosion of new technology) are still valuable nonetheless. Traditional software management practices might be changing, but if you are a React developer building websites, now you can use the same skill-set to build AI agents. A cool opportunity! These new paradigms will require new mindset, infrastructure and frameworks, but system thinking still remain intact at its core. So much of this wisdom in agents and LLMs are consolidated and packed from decades of human wisdom. No doubt, the distance between prototyping and production has narrowed drastically due to AI.
 
 ## Further reading
 <details>
@@ -219,7 +219,7 @@ Below are interesting use cases I have gathered to 10x your productivity.
 - [SELF-REFINE: Iterative Refinement with Self-Feedback 2023](https://arxiv.org/pdf/2303.17651)
 
 **Talks & Videos**
-- [ 3Blue1Brown Series on LLM & Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [3Blue1Brown Series on LLM & Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [Santa Fe Institute Complexity Podcast | Nature of Intelligence Series](https://complexity.simplecast.com/episodes)
 - [How Language Shapes Thought | Lera Boroditsky by The Long Now Foundation](https://www.youtube.com/watch?v=I64RtGofPW8)
 - [Pamela McCorduck: Machines Who Think and the Early Days of AI](https://lexfridman.com/pamela-mccorduck/)
@@ -228,6 +228,9 @@ Below are interesting use cases I have gathered to 10x your productivity.
 - [The Evolutionary Argument Against Reality](https://www.quantamagazine.org/the-evolutionary-argument-against-reality-20160421/)
 - [What is intelligent life?](https://aeon.co/essays/why-intelligence-exists-only-in-the-eye-of-the-beholder)
 - [The Bitter Lesson by Rich Sutton, March 13, 2019](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
+- [The End of Programming as We Know It by Tim O’Reilly](https://www.oreilly.com/radar/the-end-of-programming-as-we-know-it/)
+
+**Blogs**
 - [Chris Olah's Blog](https://colah.github.io)
 - [Distill: A modern medium for presenting machine learning research](https://distill.pub)
 
