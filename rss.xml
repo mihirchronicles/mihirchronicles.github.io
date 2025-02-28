@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 28 Feb 2025 12:21:14 GMT</lastBuildDate><item><title><![CDATA[On Artificial Intelligence]]></title><description><![CDATA[Like everyone else, I am LLMed up because of how exciting these tools are. It feels dark, yet some call this era magical. Nevertheless, it…]]></description><link>https://mihirchronicles.com/on-artificial-intelligence/</link><guid isPermaLink="false">https://mihirchronicles.com/on-artificial-intelligence/</guid><pubDate>Sun, 15 Dec 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Like everyone else, I am LLMed up because of how exciting these tools are. It feels dark, yet some call this era magical. Nevertheless, it deserves the hype because it feels similar to the early days of internet, web and mobile. Here is my attempt to deep dive on the topic of artificial intelligence (AI).&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 28 Feb 2025 16:17:51 GMT</lastBuildDate><item><title><![CDATA[On Artificial Intelligence]]></title><description><![CDATA[Like everyone else, I am LLMed up because of how exciting these tools are. It feels dark, yet some call this era magical. Nevertheless, it…]]></description><link>https://mihirchronicles.com/on-artificial-intelligence/</link><guid isPermaLink="false">https://mihirchronicles.com/on-artificial-intelligence/</guid><pubDate>Sun, 15 Dec 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Like everyone else, I am LLMed up because of how exciting these tools are. It feels dark, yet some call this era magical. Nevertheless, it deserves the hype because it feels similar to the early days of internet, web and mobile. Here is my attempt to deep dive on the topic of artificial intelligence (AI).&lt;/p&gt;
 &lt;p&gt;Replicating and scaling intelligence has been humanity&apos;s mission since the dawn of time. There is no doubt we are living in the age of rapid innovation as all walks of life are being transformed by AI. Perhaps AI will re-shape human experience, maybe not, but caution is required when bold statements come flying high every second on deeming computers being intelligent.&lt;/p&gt;
 &lt;p&gt;Formulating a concise definition of &lt;em&gt;human intelligence&lt;/em&gt; is a slippery topic because of its nebulous nature, but worth exploring nonetheless before we dive into &lt;em&gt;machine intelligence&lt;/em&gt;.&lt;/p&gt;
 &lt;h2&gt;Humans&lt;/h2&gt;
@@ -10,7 +10,7 @@
 &lt;p&gt;It is not that intelligence is or isn&apos;t a real thing. Intelligence has helped us build tools and languages to drive collective behavior to protect each other and evolve in our society. The capacity to forge allegiance to our leader so we can outwork a lion has helped us survive since the beginning of our times. We made clothes that camouflages other species. This worked in our favor because evolution didn&apos;t support us like Octopus who can impersonate a wide variety of other marine animals. This is our superpower and we call this intelligence.&lt;/p&gt;
 &lt;p&gt;Intelligence has helped us maintain our existence. Intelligence is a unifying concept bringing humanity together. That doesn&apos;t mean intelligence is a linear path. We hallucinate and romanticize intelligence because we forget that we aren&apos;t the only species in this universe. There are powerful forces that do not require intelligence such as coronavirus.&lt;/p&gt;
 &lt;p&gt;For those who are trying to find a middle-ground, pinning down what intelligence means to us is hard but is highly valued by our species and there is no getting rid of it. Let us not forget intelligence is very subjective. It is not universal.&lt;/p&gt;
-&lt;h3&gt;Infant Learning&lt;/h3&gt;
+&lt;h3&gt;Infant learning&lt;/h3&gt;
 &lt;p&gt;How do we obtain intelligence?&lt;/p&gt;
 &lt;p&gt;Humans are not born pre-programmed with a set of instructions that we deem intelligent. Many of our other friends in animal kingdom are born and immediately get up and run around. Humans don&apos;t.&lt;/p&gt;
 &lt;p&gt;We sit there for a few months staring and listening. Babies are processing raw ingredients, but it may look like we are spending a lot of time doing nothing which is perceived to be wasteful.&lt;/p&gt;
@@ -28,7 +28,7 @@
 &lt;p&gt;No other species have we found thus far that cares deeply about why sky is blue or slowing down the decay of human organs so we can live longer. Our strong desire to learn about the world is what makes us super intelligent which has resulted in complex tooling and machinery. Our innate ability to search and explore is intrinsic because we know how babies operate. They are constantly experimenting, seeking, questioning and reasoning. I myself wonder how my kid picked things up which were never taught. This is human cognition at its finest.&lt;/p&gt;
 &lt;p&gt;We use language that is far superior to other species in animal kingdom. I can communicate to my family how I feel. Not only am I able to learn what is going on around me or within me, but I am able to communicate to others about these environments. This allows for ideas to spread quickly and help us become stronger against other species or aliens. Good or bad—is another matter, but we have figured out the flow of information and have used to our advantage.&lt;/p&gt;
 &lt;p&gt;Writing all this down using a language on a tool that was built by a co-human is a form of thinking. Able to borrow ideas and repurpose them with my own thoughts and analogies is another form of intelligence. This is what I think separates human intelligence from animal or other form of intelligence.&lt;/p&gt;
-&lt;h3&gt;Perception vs Reality&lt;/h3&gt;
+&lt;h3&gt;Perception vs reality&lt;/h3&gt;
 &lt;p&gt;Is intelligence accurate? Are we are prone to false positives?&lt;/p&gt;
 &lt;p&gt;There is reality and there is perception. We tend to assume that our perceptions—sights, sounds, textures and tastes portray the real world. We shouldn&apos;t be fooled by &lt;em&gt;internal simulation&lt;/em&gt; because &lt;em&gt;external reality&lt;/em&gt; might not be what we think it is. The difference between the two is what creates illusion. This is why finding reality is so difficult because we all perceive things differently.&lt;/p&gt;
 &lt;p&gt;Can our senses for all 7 billion plus people reach a threshold of 100%? I am not sure, but we should keep this front and center. It is already hard to be in sync with my family unit, co-workers and friends, let alone having all 7 billion plus people be on the same page.&lt;/p&gt;
@@ -56,7 +56,7 @@
 &lt;p&gt;Writing things in English but transforming it in other languages with different semantics is another challenge for LLMs. However, with more training data, LLMs are getting better.&lt;/p&gt;
 &lt;p&gt;No doubt about the innovation neural networks and LLMs are driving in all walks of society but whether an artificial neuron is like a biological neuron is still debatable. Can machines communicate their feelings? Can a machine pause and reflect because it is overheating and getting angry?&lt;/p&gt;
 &lt;p&gt;To be decided! I am not convinced yet.&lt;/p&gt;
-&lt;h2&gt;Humans vs Machines&lt;/h2&gt;
+&lt;h2&gt;Humans vs machines&lt;/h2&gt;
 &lt;p&gt;The basic premise of passing down intelligence requires understanding about our own being. Whatever we have understood is codified and passed along to machines. A simple math such as 2 + 2 = 4 is straightforward. Language semantics is complex but lives within the confines of logic.&lt;/p&gt;
 &lt;p&gt;Telling machines that anything that breaths can throw a ball. Next time you interact with a chatbot, and it tells you maple tree in your yard threw a ball to your kids while they were playing would sound shocking. Would you believe it? You can of course tweak logic further by adding that biological species such as plants and trees do not have motor skills. Additional complexity is raised when abstracting and converting logic from one language to another. Again not impossible, but complex. Today&apos;s hardware such as Nvidia&apos;s GPUs can support complex processing that is resource heavy.&lt;/p&gt;
 &lt;p&gt;However, I am not sure how to teach a machine being angry when the machine is overheated. It is a tall order to teach machines to explore these abstractions by themselves. When my 2 year old cries in the background, I feel emotions. Angry emotions. But I contain myself because it is better to stay calm to not explode the situation. Of course, I can teach this to a machine too. But can it feel the emotions?&lt;/p&gt;
@@ -72,7 +72,7 @@
 &lt;p&gt;Now on the doomsday of AI—what if AI turns against us by consuming tons and tons of information and learning all by itself, reshaping its attitude and sensibility, and starts making decisions on its own, including pressing buttons of all kinds? What if we ask ChatGPT on how to solve global warming problem and if it responds back to us by saying, “By wiping out humanity as they are responsible for the problem.” How do we respond to this now? Exploration for another day, but the role-playing of human intelligence by machines is arguably the most defining moment of our times and is here to stay whether we like it or not. Both cars and electricity kill people, but that hasn&apos;t stopped us from using it. AI could be on the same spectrum.&lt;/p&gt;
 &lt;p&gt;Lastly, how does AI navigate alignment problem when it&apos;s dealt with censorship? When a government entity censors an LLM model based on their cultural values, LLMs will lack reality. Different cultural zones with different values will censor different things. Open-source models might solve it, but are the powerful entities of the world open to it?&lt;/p&gt;
 &lt;p&gt;My interest in this deep dive is not to side with one argument or the other but understand the limitations while using AI tools to power my daily workflows by 10x. We are living in the world of automation, and it is worthwhile to adapt and understand the current norms.&lt;/p&gt;
-&lt;h2&gt;AI Landscape&lt;/h2&gt;
+&lt;h2&gt;AI landscape&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Machine Learning&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Deep Learning&lt;/strong&gt;
@@ -105,7 +105,7 @@
 &lt;li&gt;&lt;strong&gt;Agents&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Scaling Laws&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Use Cases&lt;/h2&gt;
+&lt;h2&gt;Use cases&lt;/h2&gt;
 &lt;p&gt;Below are interesting use cases I have gathered to 10x your productivity.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -129,6 +129,10 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;h2&gt;Random thoughts &amp;#x26; commentary&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;Further reading&lt;/h2&gt;
 &lt;details&gt;
     &lt;summary&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/summary&gt;
@@ -4184,7 +4188,7 @@ A complex system is more than just the sum of its parts.&lt;/p&gt;
 &lt;p&gt;You can talk all you want about having a clear purpose and strategy for your life, but ultimately this means nothing if you are not investing the resources you have in a way that is consistent with your strategy. In the end, a strategy is nothing but good intentions unless it&apos;s effectively implemented. — Clayton M. Christensen&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Frameworks to support strategic analysis:&lt;/p&gt;
-&lt;h2&gt;Porter&apos;s Five Forces Analysis&lt;/h2&gt;
+&lt;h2&gt;Porter&apos;s 5 forces&lt;/h2&gt;
 &lt;p&gt;It is not a boring business exercise. It helped the founders of Warby Parker create a company worth over $1B. Their analysis showed that the eyewear industry is dominated by a single player, Luxottica, which kept prices of prescription glasses artificially high. A pair was priced at around $300 even though it cost only $10-$20 to produce.&lt;/p&gt;
 &lt;p&gt;The best framework for industry analysis is Porter’s Five Forces. It evaluates five competitive forces, which influence industry attractiveness. The basic idea is that your product or company is not competing just with direct competitors but with everyone in the ecosystem, including customers, suppliers, substitutes, and new entrants. For example, you might have very few competitors but you still can’t make any profit because your suppliers have more negotiating power and so they capture most of the profits.&lt;/p&gt;
 &lt;p&gt;Overview of Porter’s Five Forces:&lt;/p&gt;
@@ -4195,7 +4199,7 @@ A complex system is more than just the sum of its parts.&lt;/p&gt;
 &lt;li&gt;Bargaining power of suppliers: how easily can suppliers drive their prices up? How well can they negotiate?&lt;/li&gt;
 &lt;li&gt;Rivalry amongst existing competitors: How many competitors are in an industry? How strong are they?&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Competitor Analysis&lt;/h2&gt;
+&lt;h2&gt;Competitor analysis&lt;/h2&gt;
 &lt;p&gt;Understanding competitors’ strategy, business model, and future plans help us design better products and experiences. We can anticipate how competitors will react to our innovations, and how we can differentiate better (create unique value for our users).&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The first step of competitor analysis is identifying competitors.&lt;/li&gt;
@@ -4208,7 +4212,7 @@ A complex system is more than just the sum of its parts.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;7 Powers&lt;/h2&gt;
+&lt;h2&gt;7 powers&lt;/h2&gt;
 &lt;p&gt;Strategy is the study of the fundamental determinants of potential business value. Strategy (capitalized) is distinguished from strategy (lower case) and is divided into Statics (or “being there”) and Dynamics (or “getting there”).&lt;/p&gt;
 &lt;p&gt;Lower case strategy is a route to continuing Power in significant markets. Lower case &quot;strategy&quot; is also referred to as The Mantra.&lt;/p&gt;
 &lt;p&gt;Power is the set of conditions creating the potential for persistent differential returns. Power is the core concept of Strategy, and the book explains what it looks like when a company has power (Statics) and how a company can get power (Dynamics).&lt;/p&gt;
@@ -17437,7 +17441,7 @@ So write with a combination of short, medium, and long sentences Create a sound 
 &lt;li&gt;&lt;a href=&quot;https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html&quot;&gt;Research &amp;#x26; citation by Owl Purdue&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://blog.apastyle.org/apastyle/2011/04/how-to-use-five-levels-of-heading-in-an-apa-style-paper.html&quot;&gt;Five levels of heading by APA style&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Writing Legends&lt;/h2&gt;
+&lt;h2&gt;Writing legends&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -20143,8 +20147,8 @@ So write with a combination of short, medium, and long sentences Create a sound 
 &lt;p&gt;Let’s look at an easy way to start. Firstly, do not jump to conclusions. Secondly, use mental models to ask the right questions. You’ll learn to disassemble and reassemble ideas in such a way that they form something new from something old. Address and assess differing views as a means to form your own conclusions. You can use a mental model checklist as a guidebook to your learning, rather than as a rule book.&lt;/p&gt;
 &lt;p&gt;Read widely and deeply, drawing lines between many disciplines and concepts so that the principles that apply to one can benefit you in another. For example, engineering principles can be applied to economics and vice versa. Independent thinkers approach a high level of abstract thinking that allows them to draw upon their breadth of learning and reach their own novel solutions and ideas.&lt;/p&gt;
 &lt;p&gt;It is easy to pay homage to Charlie Munger’s widely-lauded latticework of mental models, but when you live it, you’ll see why he is right. Knowing the key drivers and major ideas from a variety of fields is a huge source of leverage. It is difficult to study broadly and deeply, but the two are not mutually exclusive.&lt;/p&gt;
-&lt;p&gt;We need to teach that doubt is not to be feared but welcomed and discussed. It’s OK to say, “I don’t know” and question everything because that is when the independent thinkers inherent in you can rise.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[On Programming]]></title><description><![CDATA[Below are my notes on software development from my days of programming. Application Programming Interface (API) Every software product is…]]></description><link>https://mihirchronicles.com/on-programming/</link><guid isPermaLink="false">https://mihirchronicles.com/on-programming/</guid><pubDate>Thu, 06 Jul 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Below are my notes on software development from my days of programming.&lt;/p&gt;
-&lt;h2&gt;Application Programming Interface (API)&lt;/h2&gt;
+&lt;p&gt;We need to teach that doubt is not to be feared but welcomed and discussed. It’s OK to say, “I don’t know” and question everything because that is when the independent thinkers inherent in you can rise.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[On Programming]]></title><description><![CDATA[Below are my notes on software development from my days of programming. Application programming interface (API) Every software product is…]]></description><link>https://mihirchronicles.com/on-programming/</link><guid isPermaLink="false">https://mihirchronicles.com/on-programming/</guid><pubDate>Thu, 06 Jul 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Below are my notes on software development from my days of programming.&lt;/p&gt;
+&lt;h2&gt;Application programming interface (API)&lt;/h2&gt;
 &lt;p&gt;Every software product is built with the same three parts.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The core components of software products:
@@ -20218,7 +20222,7 @@ So write with a combination of short, medium, and long sentences Create a sound 
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Monolithic vs Microservice Architecture&lt;/h2&gt;
+&lt;h2&gt;Monolithic vs microservice architecture&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;A monolithic architecture is a traditional approach where an entire application is built as a single, self-contained unit. This architecture has several characteristics:
 &lt;ul&gt;
