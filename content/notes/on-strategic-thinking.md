@@ -87,7 +87,7 @@ Strategy is a plan of action to get from point A (current) to point B (future).
 
 Frameworks to support strategic analysis:
 
-## Porter's Five Forces Analysis
+## Porter's 5 forces
 
 It is not a boring business exercise. It helped the founders of Warby Parker create a company worth over $1B. Their analysis showed that the eyewear industry is dominated by a single player, Luxottica, which kept prices of prescription glasses artificially high. A pair was priced at around $300 even though it cost only $10-$20 to produce. 
 
@@ -101,7 +101,7 @@ Overview of Porter’s Five Forces:
 - Bargaining power of suppliers: how easily can suppliers drive their prices up? How well can they negotiate?
 - Rivalry amongst existing competitors: How many competitors are in an industry? How strong are they?
 
-## Competitor Analysis
+## Competitor analysis
 
 Understanding competitors’ strategy, business model, and future plans help us design better products and experiences. We can anticipate how competitors will react to our innovations, and how we can differentiate better (create unique value for our users).
 
@@ -112,7 +112,7 @@ Understanding competitors’ strategy, business model, and future plans help us 
     - Product data: product portfolio, features, etc.
     - Customers data: target group, reviews, etc.
 
-## 7 Powers
+## 7 powers
 
 Strategy is the study of the fundamental determinants of potential business value. Strategy (capitalized) is distinguished from strategy (lower case) and is divided into Statics (or “being there”) and Dynamics (or “getting there”).
 

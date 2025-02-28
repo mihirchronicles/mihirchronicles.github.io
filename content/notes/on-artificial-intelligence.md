@@ -30,7 +30,7 @@ Intelligence has helped us maintain our existence. Intelligence is a unifying co
 
 For those who are trying to find a middle-ground, pinning down what intelligence means to us is hard but is highly valued by our species and there is no getting rid of it. Let us not forget intelligence is very subjective. It is not universal. 
 
-### Infant Learning
+### Infant learning
 
 How do we obtain intelligence?
 
@@ -66,7 +66,7 @@ We use language that is far superior to other species in animal kingdom. I can c
 
 Writing all this down using a language on a tool that was built by a co-human is a form of thinking. Able to borrow ideas and repurpose them with my own thoughts and analogies is another form of intelligence. This is what I think separates human intelligence from animal or other form of intelligence.
 
-### Perception vs Reality
+### Perception vs reality
 
 Is intelligence accurate? Are we are prone to false positives?
 
@@ -122,7 +122,7 @@ No doubt about the innovation neural networks and LLMs are driving in all walks 
 
 To be decided! I am not convinced yet.
 
-## Humans vs Machines
+## Humans vs machines
 
 The basic premise of passing down intelligence requires understanding about our own being. Whatever we have understood is codified and passed along to machines. A simple math such as 2 + 2 = 4 is straightforward. Language semantics is complex but lives within the confines of logic.
 
@@ -154,7 +154,7 @@ Lastly, how does AI navigate alignment problem when it's dealt with censorship? 
 
 My interest in this deep dive is not to side with one argument or the other but understand the limitations while using AI tools to power my daily workflows by 10x. We are living in the world of automation, and it is worthwhile to adapt and understand the current norms.
 
-## AI Landscape
+## AI landscape
 
 - **Machine Learning**
 - **Deep Learning**
@@ -172,7 +172,7 @@ My interest in this deep dive is not to side with one argument or the other but 
 - **Agents**
 - **Scaling Laws**
 
-## Use Cases
+## Use cases
 
 Below are interesting use cases I have gathered to 10x your productivity.
 
@@ -181,6 +181,10 @@ Below are interesting use cases I have gathered to 10x your productivity.
 | Generative Pre-trained Transformer (GPT) | _AI Technology_: [Wikipedia explanation of GPT](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer), [GPT foundational models](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer#Foundational_models), EinsteinGPT, BloombergGPT <br><br> _AI Assistant_: [ChatGPT](https://chatgpt.com) <br><br> _Details_: It is an artificial neural network that is used in natural language processing by machines. The first GPT was introduced in 2018 by OpenAI.  <br><br> _Usecase_: Machine output in form of human language. Generate knowledge base for new employees. <br><br> _Prompt_: [Open Source Prompts](https://github.com/f/awesome-chatgpt-prompts) |
 | Optical Character Recognition (OCR) | _AI Technology_: [Google OCR](https://cloud.google.com/use-cases/ocr), [Amazon OCR](https://aws.amazon.com/what-is/ocr/#:~:text=Optical%20Character%20Recognition%20(OCR)%20is,words%20in%20the%20image%20file.), [Meta TextOCR](https://research.facebook.com/publications/textocr-towards-large-scale-end-to-end-reasoning-for-arbitrary-shaped-scene-text/), [Llama OCR](https://github.com/Nutlope/llama-ocr) ([meta-llama/Llama-3.2-11B-Vision](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision)) <br><br> _AI Assistant_: [Claude](https://claude.ai/) <br><br> _Details_: Extract text and data from images and documents, turn unstructured content into business-ready structured data, and unlock valuable insights. <br><br> _Usecase_: Take a screenshot of the Zoom call. Upload it to Claude. Ask to OCR Zoom call attendees. This is helpful during sales or community gatherings.  <br><br> _Prompt_: Search the web and provide LinkedIn or other social profiles of all the attendees on the call. |
 | Empathic Large Language Model (eLLM) | _AI Technology_: [Hume's EVI](https://dev.hume.ai/docs/empathic-voice-interface-evi/overview) <br><br> _AI Assistant_: [Hume](https://www.hume.ai), [Hume Demo](https://app.hume.ai) <br><br> _Details_: A conversational AI with emotional intelligence. This eLLM allows Hume's EVI to analyze vocal cues like pitch and tone, providing valuable insights into the user’s emotional state. With this information, EVI can tailor its responses to be more helpful, supportive, or even calming, depending on the situation. <br><br> _Usecase_: Share a conversation that you are about to have with someone that is going to result in conflict. Ask for feedback to ensure the news is shared in a friendly tone to minimize conflict and escalation. This could be used when having a conversation with your boss or your spouse. |
+
+## Random thoughts & commentary
+
+- 
 
 ## Further reading
 <details>

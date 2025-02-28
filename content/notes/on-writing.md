@@ -522,7 +522,7 @@ Peterson (2014, p. 19) claims that “the conventions of the American Psychologi
 - [Research & citation by Owl Purdue](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html)
 - [Five levels of heading by APA style](https://blog.apastyle.org/apastyle/2011/04/how-to-use-five-levels-of-heading-in-an-apa-style-paper.html)
 
-## Writing Legends
+## Writing legends
 
 | Name | Bio | 
 | -------------|:-------------:|

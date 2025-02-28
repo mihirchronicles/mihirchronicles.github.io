@@ -8,7 +8,7 @@ path: "/notes/on-programming"
 
 Below are my notes on software development from my days of programming. 
 
-## Application Programming Interface (API)
+## Application programming interface (API)
 
 Every software product is built with the same three parts. 
 
@@ -56,7 +56,7 @@ Every software product is built with the same three parts.
     - It is critical to know the ins and outs of a contract. You don't set your house on fire to test your smoke alarm. You test the contract. This ensures your applications will work together. The contract is between a consumer and a provider.
     - GraphQL is a query language that was developed specifically for APIs. It prioritizes giving clients exactly the data they request and no more. It is designed to make APIs fast, flexible, and developer-friendly. As an alternative to REST, GraphQL gives front-end developers the ability to query multiple databases, microservices, and APIs with a single GraphQL endpoint. Organizations choose to build APIs with GraphQL because it helps them develop applications faster.
 
-## Monolithic vs Microservice Architecture
+## Monolithic vs microservice architecture
 
 - A monolithic architecture is a traditional approach where an entire application is built as a single, self-contained unit. This architecture has several characteristics:
     - Single Codebase: All components of the application are part of one codebase.
