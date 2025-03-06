@@ -161,6 +161,7 @@ Most important life lessons are clichés but without them life can be a wild rid
 - **You are the custodian of your own integrity**. People won't care about it until you breach their trust so hold it to its highest standard until it becomes a problem.
 - **Pick presence over productivity or quick hacks**. Attention is the rarest and purest form of generosity.
 - **Everything worthwhile takes a long-time.** Don't give-up too easily.
+- **To enrich your professional life you have to be both strategic and detail-oriented.** Ideas alone aren't enough and being in the trenches blocks you seeing the horizon. Competitive edge lies when you can balance the two well.
 - **Choose to do things that magnify your spirit.**
 - **Choose joy over fear. Choose joy over animosity. Most importantly, choose joy above everything else.**
 - **Always check the y-axis.** Don't generalize reality based on y-axis because scale can be compressed or expanded based on author's incentives or biases. Disproportionate scale creates unwanted fear portrayed by media. Always question the data before you buy into any narrative.
