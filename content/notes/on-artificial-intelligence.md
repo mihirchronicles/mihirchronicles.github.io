@@ -217,6 +217,9 @@ Below are interesting use cases I have gathered to 10x your productivity.
 **Papers**
 - [CoT (Chain of Thought) 2022](https://arxiv.org/pdf/2201.11903)
 - [SELF-REFINE: Iterative Refinement with Self-Feedback 2023](https://arxiv.org/pdf/2303.17651)
+- [Large Language Models: A Survey 2024](https://arxiv.org/pdf/2402.06196v2)
+- [A Survey on Large Language Model based Autonomous Agents 2023](https://arxiv.org/pdf/2308.11432)
+- [The Prompt Report: A Systematic Survey of Prompt Engineering Techniques 2024](https://arxiv.org/pdf/2406.06608)
 
 **Talks & Videos**
 - [3Blue1Brown Series on LLM & Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
