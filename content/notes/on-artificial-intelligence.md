@@ -248,8 +248,8 @@ Below are interesting use cases I have gathered to 10x your productivity.
 - [Let’s Verify Step by Step Process > Outcome](https://arxiv.org/pdf/2305.20050)
 - [ARC Prize 2024: Technical Report](https://arxiv.org/pdf/2412.04604) 
 - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2501.12948v1)
-- [High-Resolution Image Synthesis with Latent Diffusion Models (Vision Transformer)](https://arxiv.org/pdf/2112.10752)
-- [An image is worth 16x16 words: transformers for image recognition at scale (Latent Diffusion)](https://arxiv.org/pdf/2010.11929)
+- [High-Resolution Image Synthesis with Latent Diffusion Models (Latent Diffusion)](https://arxiv.org/pdf/2112.10752)
+- [An image is worth 16x16 words: transformers for image recognition at scale (Vision Transformer)](https://arxiv.org/pdf/2010.11929)
 
 **Talks, Lectures & Videos**
 - [3Blue1Brown Series on LLM & Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
