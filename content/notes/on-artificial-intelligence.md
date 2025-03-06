@@ -214,18 +214,56 @@ Below are interesting use cases I have gathered to 10x your productivity.
 - A Brief History of Artificial Intelligence: What It Is, Where We Are, and Where We Are Going by Michael Wooldridge
 - Machines Who Think: A Personal Inquiry into the History and Prospects of Artificial Intelligence by Pamela McCorduck
 
-**Papers**
+**Research Papers**
 - [CoT (Chain of Thought) 2022](https://arxiv.org/pdf/2201.11903)
-- [SELF-REFINE: Iterative Refinement with Self-Feedback 2023](https://arxiv.org/pdf/2303.17651)
+- [ToT (Tree of Thoughts)](https://arxiv.org/pdf/2305.10601)
+- [GoT (Graph of Thoughts)](https://arxiv.org/pdf/2308.09687)
+- [Meta CoT](https://arxiv.org/pdf/2501.04682)
+- [Self Refine: Iterative Refinement with Self-Feedback 2023](https://arxiv.org/pdf/2303.17651)
 - [Large Language Models: A Survey 2024](https://arxiv.org/pdf/2402.06196v2)
 - [A Survey on Large Language Model based Autonomous Agents 2023](https://arxiv.org/pdf/2308.11432)
 - [The Prompt Report: A Systematic Survey of Prompt Engineering Techniques 2024](https://arxiv.org/pdf/2406.06608)
+- [Attention Is All You Need (Transformers 2017)](https://arxiv.org/pdf/1706.03762)
+- [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361)
+- [Language Models are Few-Shot Learners (GPT3)](https://arxiv.org/pdf/2005.14165)
+- [LoRA: Low Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
+- [Training Compute-Optimal LLMs](https://arxiv.org/pdf/2203.15556)
+- [Training language models to follow instructions with human feedback (RLHF)](https://arxiv.org/pdf/2203.02155)
+- [Direct Preference Optimization:Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290)
+- [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://arxiv.org/pdf/2306.05685)
+- [Mixtral of Experts MoE](https://arxiv.org/pdf/2401.04088)
+- [Toolformer](https://arxiv.org/pdf/2302.04761)
+- [GPT-4 Technical Report](https://arxiv.org/pdf/2303.08774)
+- [Llama3](https://arxiv.org/pdf/2407.21783)
+- [Gemini1.5](https://arxiv.org/pdf/2403.05530)
+- [Deepseekv3](https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf)
+- [SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering](https://arxiv.org/pdf/2405.15793)
+- [Openhands: An open platform for AI software developers as generalist agents](https://arxiv.org/pdf/2407.16741)
+- [Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models](https://arxiv.org/pdf/2206.04615)
+- [Can Language models resolve real-world Github Issues?](https://arxiv.org/pdf/2310.06770)
+- [Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference](https://arxiv.org/pdf/2403.04132)
+- [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815)
+- [Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model](https://arxiv.org/pdf/1911.08265)
+- [ReACT: Synergizing reasoning and acting in language models](https://arxiv.org/pdf/2210.03629)
+- [Let’s Verify Step by Step Process > Outcome](https://arxiv.org/pdf/2305.20050)
+- [ARC Prize 2024: Technical Report](https://arxiv.org/pdf/2412.04604) 
+- [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2501.12948v1)
+- [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2112.10752)
+- [An image is worth 16x16 words: transformers for image recognition at scale](https://arxiv.org/pdf/2010.11929)
 
-**Talks & Videos**
+**Talks, Lectures & Videos**
 - [3Blue1Brown Series on LLM & Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [3Blue1Brown on Foundational Math/Concepts](https://www.youtube.com/@3blue1brown)
 - [Santa Fe Institute Complexity Podcast | Nature of Intelligence Series](https://complexity.simplecast.com/episodes)
 - [How Language Shapes Thought | Lera Boroditsky by The Long Now Foundation](https://www.youtube.com/watch?v=I64RtGofPW8)
 - [Pamela McCorduck: Machines Who Think and the Early Days of AI](https://lexfridman.com/pamela-mccorduck/)
+- [Build a Large Language Model (from Scratch) #1 Bestseller](https://www.amazon.com/Build-Large-Language-Model-Scratch/dp/1633437167)
+- [Andrej Kaparthy: Zero to Hero Series](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+- [Yannic Kilcher Paper Explanations](https://www.youtube.com/@YannicKilcher)
+- [Noam Brown (o1 founder) on Planning in AI](https://www.youtube.com/watch?v=eaAonE58sLU)
+- [Stanford: Building LLMs](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
+- [Foundations of LLMs](https://arxiv.org/pdf/2501.09223)
+- [Why You’re Not Too Old to Pivot Into AI](https://www.latent.space/p/not-old)
 
 **Links**
 - [The Evolutionary Argument Against Reality](https://www.quantamagazine.org/the-evolutionary-argument-against-reality-20160421/)
@@ -236,6 +274,12 @@ Below are interesting use cases I have gathered to 10x your productivity.
 **Blogs**
 - [Chris Olah's Blog](https://colah.github.io)
 - [Distill: A modern medium for presenting machine learning research](https://distill.pub)
+- [History of Deep Learning](https://github.com/adam-maj/deep-learning?tab=readme-ov-file)
+- [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
+- [Prompting Guide](https://www.promptingguide.ai/)
+- [a16z AI Cannon](https://a16z.com/ai-canon/)
+- [2025 AI Engineer Reading List](https://www.latent.space/p/2025-papers)
+- [State of Generative Models 2024](https://nrehiew.github.io/blog/2024/)
 
 **Models**
 - [Google Models](https://ai.google/get-started/our-models/)
