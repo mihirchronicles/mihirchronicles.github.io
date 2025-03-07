@@ -154,12 +154,19 @@ Lastly, how does AI navigate alignment problem when it's dealt with censorship? 
 
 My interest in this deep dive is not to side with one argument or the other but understand the limitations while using AI tools to power my daily workflows by 10x. We are living in the world of automation, and it is worthwhile to adapt and understand the current norms.
 
-## AI landscape
+## Short history of AI landscape
 
-### Prompting
+The field of artificial intelligence (AI) originated at the 1956 Dartmouth Summer Research Project, organized by John McCarthy (a mathematics professor). This event introduced the term “AI” and laid the foundation for the discipline. During the seminar, Allen Newell and Herbert Simon presented Logic Theorist, a program capable of proving mathematical theorems using heuristic search, successfully solving 38 of 52 theorems in Principia Mathematica. It was designed to perform automated reasoning. Logic Theorist operated by exploring a “search tree”—a branching framework of possible outcomes, using heuristics to hone in on the most promising routes. This approach dominated early AI research.
 
-- _Chain-of-Thought (CoT)_: Chain of thought prompting is an approach in artificial intelligence that simulates human-like reasoning processes by delineating complex tasks into a sequence of logical steps towards a final resolution. 
-    - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903): The research paper explores how generating a chain of thought—a series of intermediate reasoning steps—significantly improves the ability of large language models to perform complex reasoning. Experiments on three large language models show that chain-of-thought prompting improves performance on a range of arithmetic, commonsense, and symbolic reasoning tasks. The empirical gains are striking. PaLM 540B with just eight chain-of-thought exemplars achieves state-of-the-art accuracy on the GSM8K benchmark of math word problems, surpassing even fine tuned GPT-3 with a verifier. This observation likely raises more questions than it answers—for instance, how much more can we expect reasoning ability to improve with a further increase in model scale? What other prompting methods might expand the range of tasks that language models can solve?
+Geoffrey Hinton, known as the “godfather” of modern AI, revolutionized “neural networks” by modeling them after the brain’s structure. His innovations, such as backpropagation and deep learning architectures, enabled neural networks to handle complex tasks. By 2005, advancements in computing power and data availability led to “deep learning,” which improved upon traditional neural nets with more layers, units, and computational capability.
+
+In 2009 Fei-Fei Li founded ImageNet which is a large-scale database with over 14 million annotated images, designed to train AI models for image recognition. By exposing algorithms to labeled images, it enables them to accurately classify new, unlabeled ones. In the ImageNet Challenge, accuracy rates improved from 72% in 2010 to 75% in 2011, still trailing human performance at 95%.
+
+A pivotal moment came in 2012 when Hinton’s students, Alex Krizhevsky and Ilya Sutskever, developed AlexNet. Using GPUs and deep learning techniques, AlexNet achieved an unprecedented 85% accuracy in the ImageNet Challenge, surpassing human performance in subsequent years. This breakthrough validated deep learning as a transformative approach.
+
+The 2017 paper _Attention Is All You Need_ introduced the transformer, a groundbreaking architecture built entirely on attention mechanisms, eliminating the need for recurrence. By processing all inputs simultaneously through self-attention, transformers excel at capturing context and meaning, enabling significant improvements in tasks like text prediction. This innovation laid the foundation for advanced conversational AI systems, such as GPT-4 and Claude, and further validated Geoffrey Hinton’s insights into brain-inspired AI architectures.
+
+AI’s quest to emulate human intelligence continues but several of these breakthroughs got us here today with Large Language Models (LLMs).
 
 ## Use cases
 
@@ -203,6 +210,8 @@ Below are tools and LLMs I have explored to support my day-to-day workflows and 
 - Machines Who Think: A Personal Inquiry into the History and Prospects of Artificial Intelligence by Pamela McCorduck
 
 **Research Papers**
+- [A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence, August 31, 1955](http://jmc.stanford.edu/articles/dartmouth/dartmouth.pdf)
+- [Geoffrey E. Hinton's Publications in Reverse Chronological Order](https://www.cs.toronto.edu/~hinton/papers.html)
 - [CoT (Chain of Thought) 2022](https://arxiv.org/pdf/2201.11903)
 - [ToT (Tree of Thoughts)](https://arxiv.org/pdf/2305.10601)
 - [GoT (Graph of Thoughts)](https://arxiv.org/pdf/2308.09687)
@@ -298,6 +307,8 @@ Below are tools and LLMs I have explored to support my day-to-day workflows and 
 - [The Future of Artificial Intelligence](https://www.youtube.com/watch?v=GwHDAfAAKd4)
 
 **Links**
+- [Artificial Intelligence Coined at Dartmouth](https://home.dartmouth.edu/about/artificial-intelligence-ai-coined-dartmouth)
+- [The History of AI in 7 Experiments](https://www.generalist.com/briefing/the-history-of-ai)
 - [The Evolutionary Argument Against Reality](https://www.quantamagazine.org/the-evolutionary-argument-against-reality-20160421/)
 - [What is intelligent life?](https://aeon.co/essays/why-intelligence-exists-only-in-the-eye-of-the-beholder)
 - [The Bitter Lesson by Rich Sutton, March 13, 2019](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
