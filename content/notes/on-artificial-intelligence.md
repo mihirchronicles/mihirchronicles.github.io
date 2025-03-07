@@ -170,8 +170,6 @@ AI’s quest to emulate human intelligence continues but several of these breakt
 
 ## Use cases
 
-Below are tools and LLMs I have explored to support my day-to-day workflows and use cases.
-
 | **Large Language Models** | **Details** |
 | --- | --- |
 | [Empathic Large Language Model (eLLM)](https://dev.hume.ai/docs/empathic-voice-interface-evi/overview) | _**Details**_: A conversational AI with emotional intelligence. This eLLM allows Hume's EVI to analyze vocal cues like pitch and tone, providing valuable insights into the user’s emotional state. With this information, EVI can tailor its responses to be more helpful, supportive, or even calming, depending on the situation. <br><br> _**Usecase**_: Customer support calls to support busy tax season or end of year donations to charities. <br><br> _**AI Assistant**_: [Hume](https://www.hume.ai), [Hume Demo](https://app.hume.ai) |
