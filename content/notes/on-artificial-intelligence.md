@@ -118,7 +118,7 @@ For example, if we have a sentence—“I like ice cream in the [blank],” an L
 
 Writing things in English but transforming it in other languages with different semantics is another challenge for LLMs. However, with more training data, LLMs are getting better.
 
-No doubt about the innovation neural networks and LLMs are driving in all walks of society but whether an artificial neuron is like a biological neuron is still debatable. Can machines communicate their feelings? Can a machine pause and reflect because it is overheating and getting angry?
+No doubt about the innovation neural networks and LLMs are driving in all walks of society but whether an artificial neuron is like a biological neuron is still debatable. LLMs certainly do not have as much metabolic or biochemical or species-specific motivational behavior as humans do. Can machines communicate their feelings? Can a machine pause and reflect because it is overheating and getting angry?
 
 To be decided! I am not convinced yet.
 
