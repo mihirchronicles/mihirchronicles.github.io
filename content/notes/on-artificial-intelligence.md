@@ -154,7 +154,7 @@ Lastly, how does AI navigate alignment problem when it's dealt with censorship? 
 
 My interest in this deep dive is not to side with one argument or the other but understand the limitations while using AI tools to power my daily workflows by 10x. We are living in the world of automation, and it is worthwhile to adapt and understand the current norms.
 
-## Short history of AI landscape
+## A brief history of AI landscape
 
 The field of artificial intelligence (AI) originated at the 1956 Dartmouth Summer Research Project, organized by John McCarthy (a mathematics professor). This event introduced the term “AI” and laid the foundation for the discipline. During the seminar, Allen Newell and Herbert Simon presented Logic Theorist, a program capable of proving mathematical theorems using heuristic search, successfully solving 38 of 52 theorems in Principia Mathematica. It was designed to perform automated reasoning. Logic Theorist operated by exploring a “search tree”—a branching framework of possible outcomes, using heuristics to hone in on the most promising routes. This approach dominated early AI research.
 
@@ -164,9 +164,7 @@ In 2009 Fei-Fei Li founded ImageNet which is a large-scale database with over 14
 
 A pivotal moment came in 2012 when Hinton’s students, Alex Krizhevsky and Ilya Sutskever, developed AlexNet. Using GPUs and deep learning techniques, AlexNet achieved an unprecedented 85% accuracy in the ImageNet Challenge, surpassing human performance in subsequent years. This breakthrough validated deep learning as a transformative approach.
 
-The 2017 paper _Attention Is All You Need_ introduced the transformer, a groundbreaking architecture built entirely on attention mechanisms, eliminating the need for recurrence. By processing all inputs simultaneously through self-attention, transformers excel at capturing context and meaning, enabling significant improvements in tasks like text prediction. This innovation laid the foundation for advanced conversational AI systems, such as GPT-4 and Claude, and further validated Geoffrey Hinton’s insights into brain-inspired AI architectures.
-
-AI’s quest to emulate human intelligence continues but several of these breakthroughs got us here today with Large Language Models (LLMs).
+In 2017, Google published a paper _Attention Is All You Need_ introducing the transformer, a groundbreaking architecture built entirely on attention mechanisms, eliminating the need for recurrence. By processing all inputs simultaneously through self-attention, transformers excel at capturing context and meaning, enabling significant improvements in tasks like text prediction for Large Language Models (LLMs)—a sophisticated mathematical function that predicts what word comes next for any piece of text. Innovation of transformers laid the foundation for LLMs which are advanced conversational AI systems, such as GPT-3/4 and Claude which further validated Geoffrey Hinton’s insights into brain-inspired AI architectures.
 
 ## Use cases
 
@@ -286,6 +284,7 @@ AI’s quest to emulate human intelligence continues but several of these breakt
 **Talks, Lectures & Videos**
 - [3Blue1Brown Series on LLM & Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [3Blue1Brown on Foundational Math/Concepts](https://www.youtube.com/@3blue1brown)
+- [3Blue1Brown Visualizing transformers and attention | Talk for TNG Big Tech Day '24](https://www.youtube.com/watch?v=KJtZARuO3JY)
 - [Santa Fe Institute Complexity Podcast | Nature of Intelligence Series](https://complexity.simplecast.com/episodes)
 - [How Language Shapes Thought | Lera Boroditsky by The Long Now Foundation](https://www.youtube.com/watch?v=I64RtGofPW8)
 - [Pamela McCorduck: Machines Who Think and the Early Days of AI](https://lexfridman.com/pamela-mccorduck/)
