@@ -164,7 +164,9 @@ In 2009 Fei-Fei Li founded ImageNet which is a large-scale database with over 14
 
 A pivotal moment came in 2012 when Hinton’s students, Alex Krizhevsky and Ilya Sutskever, developed AlexNet. Using GPUs and deep learning techniques, AlexNet achieved an unprecedented 85% accuracy in the ImageNet Challenge, surpassing human performance in subsequent years. This breakthrough validated deep learning as a transformative approach.
 
-In 2017, Google published a paper _Attention Is All You Need_ introducing the transformer, a groundbreaking architecture built entirely on attention mechanisms, eliminating the need for recurrence. By processing all inputs simultaneously through self-attention, transformers excel at capturing context and meaning, enabling significant improvements in tasks like text prediction for Large Language Models (LLMs)—a sophisticated mathematical function that predicts what word comes next for any piece of text. Innovation of transformers laid the foundation for LLMs which are advanced conversational AI systems, such as GPT-3/4 and Claude which further validated Geoffrey Hinton’s insights into brain-inspired AI architectures.
+In 2017, Google published a paper _Attention Is All You Need_ introducing the transformer, a groundbreaking architecture built entirely on attention mechanisms, eliminating the need for recurrence. By processing all inputs simultaneously through self-attention, transformers excel at capturing context and meaning, enabling significant improvements in tasks like text prediction for Large Language Models (LLMs)—a sophisticated mathematical function that predicts what word comes next for any piece of text. Innovation of transformers laid the foundation for LLMs which are advanced conversational AI systems, such as GPT-3/4 and Claude.
+
+The quest to emulate human intelligence continues and much has happened in the field of AI since the introduction of transformers. All these transformative events further validated Geoffrey Hinton’s insights into brain-inspired AI architectures.
 
 ## Use cases
 
