@@ -312,16 +312,27 @@ The quest to emulate human intelligence continues and much has happened in the f
 - [A Conversation With Bing’s Chatbot Left Me Deeply Unsettled](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-microsoft-chatgpt.html)
 - [Talking about Large Language Models](https://cacm.acm.org/research/talking-about-large-language-models/)
 - [Why You’re Not Too Old to Pivot Into AI](https://www.latent.space/p/not-old)
+- [2024: The State of Generative AI in the Enterprise Menlo VC](https://menlovc.com/2024-the-state-of-generative-ai-in-the-enterprise/)
+- [AI Compensation Trends: The Real Cost of Top 1% AI Technical Talent](https://menlovc.com/perspective/ai-compensation-trends-the-real-cost-of-top-1-ai-technical-talent/)
+- [Benedict Evans Presentations](https://www.ben-evans.com/presentations)
+- [Looking for AI use-cases — Benedict Evans](https://www.ben-evans.com/benedictevans/2024/4/19/looking-for-ai-use-cases)
+- [The AI summer — Benedict Evans](https://www.ben-evans.com/benedictevans/2024/7/9/the-ai-summer)
+- [Generative AI’s Act o1 by Sequoia](https://www.sequoiacap.com/article/generative-ais-act-o1/)
+- [The New Ideas Needed for AGI by Sequoia](https://www.sequoiacap.com/article/new-ideas-for-agi/)
+- [AI in 2025: Building Blocks Firmly in Place by Sequoia](https://www.sequoiacap.com/article/ai-in-2025/)
+- [AI investing ecosystem](https://x.com/EricFlaningam/status/1735343035691504087)
+- [24 AI Tools Ranked from Essential to Forgettable for 2025](https://creatoreconomy.so/p/24-ai-tools-ranked-from-essential-to-forgettable)
+- [a16z AI Cannon](https://a16z.com/ai-canon/)
+- [2025 AI Engineer Reading List](https://www.latent.space/p/2025-papers)
 
-**Blogs**
+**Notable Blogs**
 - [Chris Olah's Blog](https://colah.github.io)
 - [Distill: A modern medium for presenting machine learning research](https://distill.pub)
+- [Situational Awareness The Decade Ahead](https://situational-awareness.ai)
 - [History of Deep Learning](https://github.com/adam-maj/deep-learning?tab=readme-ov-file)
 - [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
 - [Prompting Guide](https://www.promptingguide.ai/)
-- [a16z AI Cannon](https://a16z.com/ai-canon/)
-- [2025 AI Engineer Reading List](https://www.latent.space/p/2025-papers)
-- [State of Generative Models 2024](https://nrehiew.github.io/blog/2024/)
+- [State of Generative Models](https://nrehiew.github.io/blog/2024/)
 
 **Models**
 - [Google Models](https://ai.google/get-started/our-models/)
