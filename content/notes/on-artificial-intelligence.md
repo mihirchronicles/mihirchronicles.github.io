@@ -6,9 +6,11 @@ draft: false
 path: "/notes/on-artificial-intelligence"
 ---
 
+Artificial Intelligence (AI) deals with intelligent machines. Machine Learning (ML) is a subfield of AI that focuses on pattern recognition in data. This pattern is applied to new observations. Deep Learning is the field within ML that is based on unstructured data (human language and images). It is based on neural networks inspired by the human brain. Large Language Models (LLMs) deal with human text. LLMs are an example of what's called Generative AI.
+
 Like everyone else, I am LLMed up because of how exciting these tools are. It feels dark, yet some call this era magical. Nevertheless, it deserves the hype because it feels similar to the early days of internet, web and mobile. Here is my attempt to deep dive on the topic of artificial intelligence (AI).
 
-Replicating and scaling intelligence has been humanity's mission since the dawn of time. There is no doubt we are living in the age of rapid innovation as all walks of life are being transformed by AI. Perhaps AI will re-shape human experience, maybe not, but caution is required when bold statements come flying high every second on deeming computers being intelligent. 
+Replicating and scaling intelligence has been humanity's mission since the dawn of time. There is no doubt we are living in the age of rapid innovation as all walks of life are being transformed by AI. Perhaps AI will re-shape human experience, maybe not, but caution is required when bold statements come flying high every second on deeming computers being intelligent.
 
 Formulating a concise definition of _human intelligence_ is a slippery topic because of its nebulous nature, but worth exploring nonetheless before we dive into _machine intelligence_.
 
@@ -16,15 +18,15 @@ Formulating a concise definition of _human intelligence_ is a slippery topic bec
 
 Cognitive science is a vast field with different dichotomies of intelligence—consciousness, thinking (deliberative vs non-deliberative), reflexive behavior, language and semantics, perception, feelings, thought, infant learning, comprehension, recollection, competence and reasoning, awareness, common sense and generalization. Intelligence is an embodiment of these complex systems.
 
-But what does intelligence mean to us? Is intelligence a pre-requisite for survival? Are we the only species with intelligence? 
+But what does intelligence mean to us? Is intelligence a prerequisite for survival? Are we the only species with intelligence? 
 
-As I explored these questions, I realized intelligence is not central for species to be successful on this planet. My grass on my yard has evolved and flourished without any intelligence. A tiny virus shutdown most of the planet in 2020 without having any knowledge of humans. This tells me knowledge is not a pre-requisite for intelligence. There are species out there which has evolved without the need for intelligence. 
+requisite for intelligence. There are species out there which has evolved without the need for intelligence. 
 
 Seeking intelligence around us is natural to us. When I see my pet follow my orders (Leo, sit!), I deem my pet to be intelligent. When I was seeking a life-long partner, I wanted to spend time with an intelligent person. We weren't born with these desires, so why do we give such importance to intelligence? 
 
-Intelligence is not associated to single entity. It expands beyond humans. Take ants for example; they have an aptitude for building complex structures such as [bridge](https://aeon.co/videos/how-to-maintain-infrastructure-the-stunning-collective-intelligence-of-ant-engineers) which we might call intelligent. Polar bears can survive crushing wind and cold in North Pole without any layers of clothing. If survival is the central topic to explain the need for intelligence then it must go beyond our large human brains. Survival comes in different shapes and sizes.
+Intelligence is not associated to single entity. It expands beyond humans. Take ants for example; they have an aptitude for building complex structures such as [bridge](https://aeon.co/videos/how-to-maintain-infrastructure-the-stunning-collective-intelligence-of-ant-engineers) which we might call intelligent. Polar bears can survive crushing wind and cold in the North Pole without any layers of clothing. If survival is the central topic to explain the need for intelligence then it must go beyond our large human brains. Survival comes in different shapes and sizes.
 
-It is not that intelligence is or isn't a real thing. Intelligence has helped us build tools and languages to drive collective behavior to protect each other and evolve in our society. The capacity to forge allegiance to our leader so we can outwork a lion has helped us survive since the beginning of our times. We made clothes that camouflages other species. This worked in our favor because evolution didn't support us like Octopus who can impersonate a wide variety of other marine animals. This is our superpower and we call this intelligence.
+It is not that intelligence is or isn't a real thing. Intelligence has helped us build tools and languages to drive collective behavior to protect each other and evolve in our society. The capacity to forge allegiance to our leader, so we can outwork a lion has helped us survive since the beginning of our times. We made clothes that camouflages other species. This worked in our favor because evolution didn't support us like Octopus who can impersonate a wide variety of other marine animals. This is our superpower and we call this intelligence.
 
 Intelligence has helped us maintain our existence. Intelligence is a unifying concept bringing humanity together. That doesn't mean intelligence is a linear path. We hallucinate and romanticize intelligence because we forget that we aren't the only species in this universe. There are powerful forces that do not require intelligence such as coronavirus. 
 
@@ -128,7 +130,7 @@ The basic premise of passing down intelligence requires understanding about our 
 
 Telling machines that anything that breaths can throw a ball. Next time you interact with a chatbot, and it tells you maple tree in your yard threw a ball to your kids while they were playing would sound shocking. Would you believe it? You can of course tweak logic further by adding that biological species such as plants and trees do not have motor skills. Additional complexity is raised when abstracting and converting logic from one language to another. Again not impossible, but complex. Today's hardware such as Nvidia's GPUs can support complex processing that is resource heavy.
 
-However, I am not sure how to teach a machine being angry when the machine is overheated. It is a tall order to teach machines to explore these abstractions by themselves. When my 2 year old cries in the background, I feel emotions. Angry emotions. But I contain myself because it is better to stay calm to not explode the situation. Of course, I can teach this to a machine too. But can it feel the emotions?
+However, I am not sure how to teach a machine to be angry when it is overheated. It is a tall order to teach machines to explore these abstractions by themselves. When my 2-year-old cries in the background, I feel emotions. But I contain myself because it is better to stay calm to not explode the situation. Of course, I can teach this to a machine too. But can it feel the emotions?
 
 This brings me to a famous theory—Turing Test proposed by Alan Turing–a prominent computer scientist of his era. The theory is used as a way of dealing with the question—whether the machines can think. According to Turing, whether machines can think is itself “meaningless.” However, if we consider the more precise—and related question whether a digital computer can do well in a certain kind of game that Turing describes—The Imitation Game, then at least in Turing’s eyes, we do have a question that can lead to a precise discussion.
 
@@ -152,7 +154,7 @@ Now on the doomsday of AI—what if AI turns against us by consuming tons and to
 
 Lastly, how does AI navigate alignment problem when it's dealt with censorship? When a government entity censors an LLM model based on their cultural values, LLMs will lack reality. Different cultural zones with different values will censor different things. Open-source models might solve it, but are the powerful entities of the world open to it?
 
-My interest in this deep dive is not to side with one argument or the other but understand the limitations while using AI tools to power my daily workflows by 10x. We are living in the world of automation, and it is worthwhile to adapt and understand the current norms.
+My interest in this deep dive is not to side with one argument or the other but to understand the limitations while using AI tools to power my daily workflows by 10x. We are living in the world of automation, and it is worthwhile to adapt and understand the current norms.
 
 ## A brief history of AI landscape
 
@@ -167,6 +169,10 @@ A pivotal moment came in 2012 when Hinton’s students, Alex Krizhevsky and Ilya
 In 2017, Google published a paper _Attention Is All You Need_ introducing the transformer, a groundbreaking architecture built entirely on attention mechanisms, eliminating the need for recurrence. By processing all inputs simultaneously through self-attention, transformers excel at capturing context and meaning, enabling significant improvements in tasks like text prediction for Large Language Models (LLMs)—a sophisticated mathematical function that predicts what word comes next for any piece of text. Innovation of transformers laid the foundation for LLMs which are advanced conversational AI systems, such as GPT-3/4 and Claude.
 
 The quest to emulate human intelligence continues and much has happened in the field of AI since the introduction of transformers. All these transformative events further validated Geoffrey Hinton’s insights into brain-inspired AI architectures.
+
+## AI vocabulary
+
+- **Large Language Models (LLMs)**: Advanced AI systems trained on extensive text datasets to generate and understand human-like language. Examples include GPT-3 and GPT-4.
 
 ## Use cases
 
@@ -309,6 +315,7 @@ The quest to emulate human intelligence continues and much has happened in the f
 - [Ilya Sutskever: "Sequence to sequence learning with neural networks: what a decade"](https://www.youtube.com/watch?v=1yvBqasHLZs&t=1s)
 
 **Links**
+- [Generative AI exists because of the transformer](https://ig.ft.com/generative-ai/?)
 - [Artificial Intelligence Coined at Dartmouth](https://home.dartmouth.edu/about/artificial-intelligence-ai-coined-dartmouth)
 - [The History of AI in 7 Experiments](https://www.generalist.com/briefing/the-history-of-ai)
 - [The Evolutionary Argument Against Reality](https://www.quantamagazine.org/the-evolutionary-argument-against-reality-20160421/)
@@ -335,11 +342,15 @@ The quest to emulate human intelligence continues and much has happened in the f
 - [Scaling: The State of Play in AI](https://www.oneusefulthing.org/p/scaling-the-state-of-play-in-ai)
 - [Scaling Laws – O1 Pro Architecture, Reasoning Training Infrastructure, Orion and Claude 3.5 Opus “Failures”](https://semianalysis.com/2024/12/11/scaling-laws-o1-pro-architecture-reasoning-training-infrastructure-orion-and-claude-3-5-opus-failures/)
 - [The State of Generative Models](https://nrehiew.github.io/blog/2024/)
+- [The architecture of today’s LLM applications by Github](https://github.blog/ai-and-ml/llms/the-architecture-of-todays-llm-applications/)
 
 **Notable Blogs**
 - [Ethan Mollick, Professor at the Wharton School](https://substack.com/@oneusefulthing)
 - [Chris Olah's Blog](https://colah.github.io)
 - [Distill: A modern medium for presenting machine learning research](https://distill.pub)
+- [Allen Pike's Series on LLM](https://allenpike.com/series/llm/)
+- [Tomasz Tunguz's Blog](https://tomtunguz.com)
+- Simon Willison’s Weblog: [2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/), [2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
 - [Situational Awareness The Decade Ahead](https://situational-awareness.ai)
 - [Prompt Engineering Guide](https://www.promptingguide.ai)
 
