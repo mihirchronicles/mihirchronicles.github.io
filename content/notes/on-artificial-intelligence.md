@@ -177,20 +177,101 @@ These definitions were generated using Perplexity using Claude and GPT models. I
 - **Artificial Intelligence**: Artificial intelligence (AI) is a broad field of computer science focused on creating machines that can perform tasks that typically require human intelligence. AI aims to simulate human cognitive functions in computers and other machines. These cognitive tasks include learning, problem-solving, decision-making, understanding natural language, and perceiving the environment.
 - **Machine Learning**: Machine learning (ML) is a subset of artificial intelligence (AI) that enables computers to learn from data without being explicitly programmed. It involves developing algorithms that improve automatically through experience and by using data to make predictions or decisions. Machine learning models are trained on large datasets to identify patterns and trends, allowing them to perform tasks such as image recognition, natural language processing, and predictive analytics. The process involves data collection, preprocessing, model training, and continuous improvement as the model processes more data.
 - **Deep Learning**: Deep learning is a specialized subset of machine learning that uses artificial neural networks (ANNs) to simulate the decision-making process of the human brain. These networks consist of multiple layers of interconnected nodes, enabling the processing of complex patterns in data such as images, text, and sounds. The term “deep” refers to the use of multiple layers—often hundreds or thousands—within these networks to progressively refine and abstract data representations.
+- **AlexNet**: It is a convolutional neural network (CNN) architecture introduced by Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton in 2012. It was designed to perform image classification and won the ImageNet Large Scale Visual Recognition Challenge in 2012, marking a significant milestone in deep learning.
 - **Neural Networks**: A neural network, also known as an artificial neural network (ANN), is a machine learning model inspired by the structure and function of the human brain. It consists of interconnected units called nodes or artificial neurons, organized in layers: an input layer, one or more hidden layers, and an output layer. Each node processes inputs, applies a mathematical operation (often involving weights and activation functions), and passes the output to the next layer.
+- **Gradient Descent**: It is an optimization algorithm widely used in artificial intelligence (AI) and machine learning to minimize a cost or loss function. It iteratively adjusts the parameters of a model (e.g., weights and biases) to reduce the difference between predicted and actual outputs, thereby improving the model’s accuracy.
+- **Backpropagation**: Backpropagation, short for “backward propagation of errors,” is a fundamental algorithm used in artificial intelligence (AI) and machine learning to train artificial neural networks. It works by calculating the gradient of a loss function with respect to the weights and biases of the network, enabling efficient updates to minimize errors and improve model performance.
+- **Chain Rule**: The chain rule in artificial intelligence refers to a mathematical principle used to compute the derivative of composite functions. It is a critical component in training machine learning models, particularly neural networks, as it allows for the efficient calculation of gradients during backpropagation.
+- **Transformer**: A Transformer in artificial intelligence is a deep learning model architecture designed to process and transform sequential data, such as text, into meaningful outputs. It achieves this by leveraging a self-attention mechanism, which allows the model to understand relationships between different elements in the sequence, regardless of their position. Introduced in the 2017 paper “Attention Is All You Need” by Google researchers, Transformers have revolutionized natural language processing (NLP) and extended their impact to other domains like computer vision and multimodal learning.
+- **Feed-forward Layer**: A feed-forward layer in artificial intelligence refers to a layer within a neural network where data flows in one direction—from the input nodes, through any hidden layers, and finally to the output nodes. There are no cycles or loops in the connections, ensuring that information moves forward without feedback.
 - **Generative AI**: Generative AI is a type of artificial intelligence that creates new and original content—such as text, images, audio, video, or code—in response to user prompts or requests. It relies on advanced machine learning techniques, particularly deep learning models, to identify patterns in large datasets and generate novel outputs based on those patterns. Generative AI has revolutionized industries by automating creative tasks and enhancing productivity while also presenting challenges like ethical concerns and misinformation risks.
+- **Diffusion Model**: A diffusion model is a type of generative model in artificial intelligence that creates new data samples by progressively transforming random noise into structured, realistic outputs, such as images, videos, or other data types. It achieves this through a two-step process: adding noise to training data (forward diffusion) and learning to reverse this process (reverse diffusion) to recover the original data or generate new samples.
 - **Large Language Models (LLMs)**: Large Language Models (LLMs) are advanced artificial intelligence systems designed to understand, generate, and process human language. They are built using deep learning techniques, particularly transformer neural networks, and are trained on massive datasets containing billions or trillions of words. These models excel at human-like tasks such as text generation, translation, summarization, sentiment analysis, and more. Examples include GPT-3 and GPT-4.
 - **Natural Language Processing**: Natural Language Processing (NLP) is a branch of artificial intelligence (AI) that focuses on enabling computers to understand, interpret, and manipulate human language as it is written or spoken. It combines computational linguistics with machine learning and deep learning to process and analyze text or speech data. NLP powers applications like chatbots, language translation, sentiment analysis, and voice assistants by bridging the gap between human communication and computer understanding.
 - **AI Prompts**: An AI prompt is an input or instruction provided to a generative AI model, such as a large language model (LLM), to elicit a specific response. Prompts can take various forms, including questions, commands, statements, or even media like images or audio files, depending on the model’s capabilities. They serve as the foundation for guiding the AI’s behavior and output. Well-crafted prompts provide clear instructions and sufficient context to help the AI generate accurate and relevant responses.
 - **Scaling Laws**: Larger models mean they have a greater number of parameters. Scaling laws in machine learning describes predictable relationships between the performance of models and the scale of key factors, such as model size, training dataset size, or computational resources. These laws are often expressed as power-law equations, showing how metrics like test loss improve as these factors are increased.
 - **AI Agents**: An AI agent is an autonomous software system that uses artificial intelligence to interact with its environment, make decisions, and perform tasks to achieve specific goals without constant human oversight. These agents operate independently, adapt to new information, and often improve their performance over time through learning. AI agents are widely used in applications such as customer service chatbots, autonomous vehicles, recommendation systems, and business process automation. Their ability to operate independently makes them valuable in dynamic and complex environments.
+- **Pre-training**: The initial phase of training an AI model using large datasets to learn language patterns and structures before fine-tuning it for specific tasks.
+- **Synthetic Data**: Synthetic data in artificial intelligence refers to artificially generated data that mimics the characteristics and statistical properties of real-world data but does not contain any actual real-world information. It is created algorithmically using techniques such as generative models, simulations, or statistical methods. Synthetic data is widely used in AI and machine learning for tasks like training models, testing algorithms, and ensuring privacy compliance.
+- **Finite Data**: The term “finite data” in artificial intelligence (AI) typically refers to datasets that are limited in size, scope, or availability. Unlike large-scale or infinite data streams, finite data has constraints in terms of volume or diversity, which can impact the training and performance of AI models.
+- **Multimodal Learning**: Multimodal learning in artificial intelligence refers to the ability of AI systems to process, integrate, and analyze data from multiple modalities—such as text, images, audio, video, and numerical data—simultaneously. This approach enhances the AI’s understanding of complex contexts and improves its predictive and generative capabilities.
+- **Reasoning AI**: A shift in AI design toward systems capable of logical problem-solving and step-by-step reasoning, moving beyond statistical prediction.
+- **Semantic Gaps**: The semantic gap refers to the discrepancy between how humans understand and interpret meaning (high-level concepts) and how AI systems process and represent data (low-level features). This gap arises because humans naturally grasp context, emotions, and abstract relationships, while AI systems rely on structured, formal representations of data that often lack the richness of human semantics.
+- **Reinforcement Learning from Human Feedback (RLHF)**: Reinforcement Learning from Human Feedback (RLHF) is a machine learning technique that combines reinforcement learning with human-provided feedback to train artificial intelligence (AI) systems. It is primarily used to align AI models, particularly large language models (LLMs), with human values, preferences, and ethical considerations. RLHF involves training a reward model using human feedback to evaluate and score the outputs of an AI system. This reward model guides the AI agent to optimize its behavior by reinforcing outputs that align with human preferences and penalizing those that do not. The technique is especially effective for tasks where predefined reward functions are challenging to specify, such as generating engaging or factually accurate text.
+- **Mixture of Experts (MoE)**: An AI architecture that activates only specific parts of a model as needed, improving efficiency and performance while reducing resource use. Mixture of Experts (MoE) is a neural network architecture designed to improve efficiency, scalability, and performance by dividing tasks among specialized sub-networks, called “experts.” Each expert focuses on a specific subset of the input data or task, and a gating network dynamically determines which experts to activate for each input. This approach enables models to handle complex problems more effectively while reducing computational overhead.
+- **Retrieval-Augmented Generation (RAG)**: It is an advanced technique in artificial intelligence that enhances the performance of generative AI models, such as large language models (LLMs), by integrating external information retrieval systems. This approach addresses the limitations of LLMs, which rely solely on pre-trained data and may produce outdated or inaccurate responses.
+- **CUDA (Compute Unified Device Architecture)**: It is a parallel computing platform and application programming interface (API) developed by NVIDIA. It enables developers to use NVIDIA GPUs for general-purpose computing tasks beyond graphics rendering, an approach called general-purpose computing on GPUs (GPGPU). CUDA allows for the execution of compute-intensive applications by leveraging the thousands of parallel cores in GPUs, significantly speeding up processing tasks.
+- **NVIDIA GPUs**: They are high-performance graphics processing units (GPUs) developed by NVIDIA Corporation. These GPUs are designed for a wide range of applications, including graphics rendering, artificial intelligence (AI), high-performance computing (HPC), and gaming. They are widely recognized for their ability to handle parallel processing tasks efficiently, making them indispensable in modern computing.
 
-## Use cases
+## AI providers
 
-| **LLMs & Agents** | **Details** |
+| AI Providers | Details | 
+| -------------|:-------------:|
+| _OpenAI_| |
+| _Anthropic_| |
+| _Deep Mind (Google)_| |
+| _X.ai_| |
+| _FAIR (Meta)_| |
+
+<details>
+    <summary><strong>OpenAI</strong></summary>
+    <br>
+
+| **Models** | **Details** |
 | --- | --- |
-| AI Voice Agents | _**Details**_: New, multi-modal models like GPT-4o may power more natural conversational interfaces to reach true human-like quality. To function, voice agents need to ingest human speech (ASR), process this input with an LLM and return an output, and then speak back to the human (TTS). <br><br> _**Usecase**_: Customer support calls to support busy tax season or end of year donations to charities. For example, Empathic Large Language Model (eLLM) is a conversational AI with emotional intelligence. This eLLM allows Hume's EVI to analyze vocal cues like pitch and tone, providing valuable insights into the user’s emotional state. With this information, EVI can tailor its responses to be more helpful, supportive, or even calming, depending on the situation. <br><br> _**AI Assistant & Models**_: [Hume](https://www.hume.ai), [Retell](https://www.retellai.com), [Vapi](https://vapi.ai), [Bland](https://www.bland.ai), [Play](https://play.ht), [Sindarin](https://www.sindarin.tech) |
-| Optical Character Recognition (OCR) | _**Details**_: Extract text and data from images and documents, turn unstructured content into a business-ready structured data, and unlock valuable insights. <br><br> _**Usecase**_: Take a screenshot of Tableau dashboard and generate a one-page business summary. <br><br> _**AI Assistant & Models**_: [InternVL](https://huggingface.co/spaces/OpenGVLab/InternVL), [Google OCR](https://cloud.google.com/use-cases/ocr), [Amazon OCR](https://aws.amazon.com/what-is/ocr/#:~:text=Optical%20Character%20Recognition%20(OCR)%20is,words%20in%20the%20image%20file.), [Meta TextOCR](https://research.facebook.com/publications/textocr-towards-large-scale-end-to-end-reasoning-for-arbitrary-shaped-scene-text/), [Llama OCR](https://github.com/Nutlope/llama-ocr)  |
+| **ChatGPT 4o** | TBD |
+
+<br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Anthropic</strong></summary>
+    <br>
+
+| **Models** | **Details** |
+| --- | --- |
+| **TBD** | TBD |
+
+<br>
+</details>
+<br>
+
+<details>
+    <summary><strong>Deep Mind (Google)</strong></summary>
+    <br>
+
+| **Models** | **Details** |
+| --- | --- |
+| **TBD** | TBD |
+
+<br>
+</details>
+<br>
+
+<details>
+    <summary><strong>X.ai</strong></summary>
+    <br>
+
+| **Models** | **Details** |
+| --- | --- |
+| **TBD** | TBD |
+
+<br>
+</details>
+<br>
+
+<details>
+    <summary><strong>FAIR (Meta)</strong></summary>
+    <br>
+
+| **Models** | **Details** |
+| --- | --- |
+| **TBD** | TBD |
+
+<br>
+</details>
+<br>
 
 ## Further reading
 <details>
