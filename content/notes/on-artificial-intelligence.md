@@ -6,31 +6,31 @@ draft: false
 path: "/notes/on-artificial-intelligence"
 ---
 
-Artificial Intelligence (AI) deals with intelligent machines. Machine Learning (ML) is a subfield of AI that focuses on pattern recognition in data. This pattern is applied to new observations. Deep Learning is the field within ML that is based on unstructured data (human language and images). It is based on neural networks inspired by the human brain. Large Language Models (LLMs) deal with human text. LLMs are an example of what's called Generative AI.
+Artificial Intelligence (AI) focuses on creating intelligent machines. Within AI, Machine Learning (ML) is a specialized area that emphasizes recognizing patterns in data and applying those patterns to make predictions or decisions for new inputs. Deep Learning, a subset of ML, works with unstructured data such as human language and images, utilizing neural networks modeled after the human brain. Large Language Models (LLMs), a type of Generative AI, are designed to process and generate human-like text.
 
-Like everyone else, I am LLMed up because of how exciting these tools are. It feels dark, yet some call this era magical. Nevertheless, it deserves the hype because it feels similar to the early days of internet, web and mobile. Here is my attempt to deep dive on the topic of artificial intelligence (AI).
+Like everyone else, I am LLMed up because of how exciting these tools are. Despite the darkness, some call this era magical. It deserves the hype because it feels like the early days of the internet, web, and mobile. Here’s my attempt to delve into artificial intelligence.
 
-Replicating and scaling intelligence has been humanity's mission since the dawn of time. There is no doubt we are living in the age of rapid innovation as all walks of life are being transformed by AI. Perhaps AI will re-shape human experience, maybe not, but caution is required when bold statements come flying high every second on deeming computers being intelligent.
+Replicating and scaling intelligence has been humanity’s mission since time’s dawn. We live in an era of rapid innovation, where AI transforms all aspects of life. While AI may reshape human experience, caution is warranted when making bold claims about computer intelligence.
 
-Formulating a concise definition of _human intelligence_ is a slippery topic because of its nebulous nature, but worth exploring nonetheless before we dive into _machine intelligence_.
+Formulating a concise definition of _human intelligence_ is a slippery topic because of its nebulous nature, but worth exploring before discussing _machine intelligence_.
 
 ## Humans
 
-Cognitive science is a vast field with different dichotomies of intelligence—consciousness, thinking (deliberative vs non-deliberative), reflexive behavior, language and semantics, perception, feelings, thought, infant learning, comprehension, recollection, competence and reasoning, awareness, common sense and generalization. Intelligence is an embodiment of these complex systems.
+Cognitive science is a vast field with diverse intelligence concepts, including consciousness, thinking (deliberative vs. non-deliberative), reflexive behavior, language, perception, emotions, cognition, infant learning, comprehension, recollection, competence, reasoning, awareness, common sense, and generalization. Intelligence embodies these complex systems.
 
-But what does intelligence mean to us? Is intelligence a prerequisite for survival? Are we the only species with intelligence? 
+What does intelligence mean to us? Is intelligence a prerequisite for survival? Are we the only intelligent species? 
 
-requisite for intelligence. There are species out there which has evolved without the need for intelligence. 
+Intelligence isn’t crucial for species’ success on Earth. My grass thrives without it. A tiny virus nearly wiped out the planet in 2020 without human knowledge. Therefore, knowledge isn’t a prerequisite for intelligence. Some species evolved without the need for intelligence..
 
-Seeking intelligence around us is natural to us. When I see my pet follow my orders (Leo, sit!), I deem my pet to be intelligent. When I was seeking a life-long partner, I wanted to spend time with an intelligent person. We weren't born with these desires, so why do we give such importance to intelligence? 
+Seeking intelligence around us is natural. When my pet follows my orders, I consider it intelligent. When I sought a lifelong partner, I wanted to spend time with an intelligent person. We weren't born with these desires, so why do we place such importance on intelligence? 
 
-Intelligence is not associated to single entity. It expands beyond humans. Take ants for example; they have an aptitude for building complex structures such as [bridge](https://aeon.co/videos/how-to-maintain-infrastructure-the-stunning-collective-intelligence-of-ant-engineers) which we might call intelligent. Polar bears can survive crushing wind and cold in the North Pole without any layers of clothing. If survival is the central topic to explain the need for intelligence then it must go beyond our large human brains. Survival comes in different shapes and sizes.
+Intelligence is not limited to single entity (humans). Ants build complex structures like [bridge](https://aeon.co/videos/how-to-maintain-infrastructure-the-stunning-collective-intelligence-of-ant-engineers), and polar bears survive harsh conditions without clothing. If survival is the key to understanding intelligence, it must transcend human brains. Survival manifests in diverse forms.
 
-It is not that intelligence is or isn't a real thing. Intelligence has helped us build tools and languages to drive collective behavior to protect each other and evolve in our society. The capacity to forge allegiance to our leader, so we can outwork a lion has helped us survive since the beginning of our times. We made clothes that camouflages other species. This worked in our favor because evolution didn't support us like Octopus who can impersonate a wide variety of other marine animals. This is our superpower and we call this intelligence.
+Intelligence is a real thing that has helped us build tools and languages to protect ourselves and evolve. Our ability to form alliances and outwork predators has been crucial since our origins. Camouflage clothing has also been advantageous, as evolution didn’t support us like the octopus, which can mimic various marine animals. This is our superpower, which we call intelligence.
 
-Intelligence has helped us maintain our existence. Intelligence is a unifying concept bringing humanity together. That doesn't mean intelligence is a linear path. We hallucinate and romanticize intelligence because we forget that we aren't the only species in this universe. There are powerful forces that do not require intelligence such as coronavirus. 
+Intelligence has sustained our existence and united humanity. However, it’s not a linear path. We romanticize and hallucinate intelligence due to our belief in our uniqueness. But powerful forces like coronavirus exist without intelligence. 
 
-For those who are trying to find a middle-ground, pinning down what intelligence means to us is hard but is highly valued by our species and there is no getting rid of it. Let us not forget intelligence is very subjective. It is not universal. 
+For those who are trying to find a middle-ground, pinning down what intelligence means is challenging but highly valued by our species. There is no getting rid of it. But let us not forget intelligence is subjective and not universal.
 
 ### Infant learning
 
