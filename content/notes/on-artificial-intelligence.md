@@ -203,75 +203,23 @@ These definitions were generated using Perplexity using Claude and GPT models. I
 - **CUDA (Compute Unified Device Architecture)**: It is a parallel computing platform and application programming interface (API) developed by NVIDIA. It enables developers to use NVIDIA GPUs for general-purpose computing tasks beyond graphics rendering, an approach called general-purpose computing on GPUs (GPGPU). CUDA allows for the execution of compute-intensive applications by leveraging the thousands of parallel cores in GPUs, significantly speeding up processing tasks.
 - **NVIDIA GPUs**: They are high-performance graphics processing units (GPUs) developed by NVIDIA Corporation. These GPUs are designed for a wide range of applications, including graphics rendering, artificial intelligence (AI), high-performance computing (HPC), and gaming. They are widely recognized for their ability to handle parallel processing tasks efficiently, making them indispensable in modern computing.
 
-## AI providers
+## Model factories
 
-| AI Providers | Details | 
+Below are the major providers of LLM models.
+
+| Model factories | Details | 
 | -------------|:-------------:|
-| _OpenAI_| |
-| _Anthropic_| |
-| _Deep Mind (Google)_| |
-| _X.ai_| |
-| _FAIR (Meta)_| |
+| [_OpenAI_](https://openai.com) | It is a leading artificial intelligence research organization founded in December 2015 by influential tech visionaries such as Sam Altman, Greg Brockman, Ilya Sutskever, John Schulman, and Wojciech Zaremba. OpenAI is renowned for its cutting-edge research in machine learning, deep learning, and reinforcement learning. Some of its notable products include: GPT (Generative Pre-trained Transformer) series, DALL-E and ChatGPT. |
+| [_Anthropic_](https://www.anthropic.com) | Anthropic is an artificial intelligence (AI) research and development company founded in 2021 by former OpenAI executives, including AI pioneers, Dario Amodei and Daniela Amodei. Anthropic is best known for its family of large language models (LLMs) called Claude, which competes with OpenAI’s ChatGPT and Google’s Gemini. |
+| [_Deep Mind (Google)_](https://deepmind.google) | The AI research arm of Google, DeepMind, is a leading artificial intelligence research company based in London, UK. It was founded in 2010 by Demis Hassabis, Shane Legg, and Mustafa Suleyman. Google acquired DeepMind in January 2014. In 2023, DeepMind merged with Google’s Brain team to form Google DeepMind, consolidating AI efforts under one umbrella. DeepMind has made groundbreaking contributions to AI research, including: AlphaGo, AlphaFold, AlphaZero, AlphaDev, AlphaTensor, AlphaChip (Google’s Tensor Processing Units (TPUs)). Gemini is a prominent large language models developed by Google DeepMind. |
+| [_X.ai_](https://x.ai) | xAI is an artificial intelligence company founded by Elon Musk in March 2023. Grok is their key product — a chatbot integrated with X (formerly Twitter). |
+| [_Meta AI_](https://ai.meta.com/research/) | FAIR (Fundamental AI Research), now known as Meta AI, is the artificial intelligence research division of Meta Platforms (formerly Facebook). It was originally launched in 2013 as Facebook Artificial Intelligence Research (FAIR) and rebranded following Facebook’s transition to Meta in 2021. FAIR was initially led by Yann LeCun, a Turing Award-winning professor from NYU and a pioneer in deep learning. He continues to serve as Meta’s Chief AI Scientist. What differentiates Meta AI from others is its push for open-source models. FAIR has made groundbreaking advancements which includes PyTorch which is an open-source deep learning framework widely used by researchers and developers globally. |
 
-<details>
-    <summary><strong>OpenAI</strong></summary>
-    <br>
+## AI log
 
-| **Models** | **Details** |
-| --- | --- |
-| **ChatGPT 4o** | TBD |
+- **Voice Agents**:  New, multi-modal models like GPT-4o may power more natural conversational interfaces to reach true human-like quality. To function, voice agents need to ingest human speech (ASR), process this input with an LLM and return an output, and then speak back to the human (TTS). These models can be used for customer support calls to support busy tax season or end of year donations to charities. For example, Empathic Large Language Model (eLLM) is a conversational AI with emotional intelligence. This eLLM allows Hume's EVI to analyze vocal cues like pitch and tone, providing valuable insights into the user’s emotional state. With this information, EVI can tailor its responses to be more helpful, supportive, or even calming, depending on the situation. AI assistants for voice agents — [Hume](https://www.hume.ai), [Retell](https://www.retellai.com), [Vapi](https://vapi.ai), [Bland](https://www.bland.ai), [Play](https://play.ht), [Sindarin](https://www.sindarin.tech).
+- **Optical Character Recognition (OCR)**: Extract text and data from images and documents, turn unstructured content into a business-ready structured data, and unlock valuable insights. OCR usecase — take a screenshot of Tableau dashboard and generate a one-page business summary. AI assistants and models for OCR — [InternVL](https://huggingface.co/spaces/OpenGVLab/InternVL), [Google OCR](https://cloud.google.com/use-cases/ocr), [Amazon OCR](https://aws.amazon.com/what-is/ocr/#:~:text=Optical%20Character%20Recognition%20(OCR)%20is,words%20in%20the%20image%20file.), [Meta TextOCR](https://research.facebook.com/publications/textocr-towards-large-scale-end-to-end-reasoning-for-arbitrary-shaped-scene-text/), [Llama OCR](https://github.com/Nutlope/llama-ocr).
 
-<br>
-</details>
-<br>
-
-<details>
-    <summary><strong>Anthropic</strong></summary>
-    <br>
-
-| **Models** | **Details** |
-| --- | --- |
-| **TBD** | TBD |
-
-<br>
-</details>
-<br>
-
-<details>
-    <summary><strong>Deep Mind (Google)</strong></summary>
-    <br>
-
-| **Models** | **Details** |
-| --- | --- |
-| **TBD** | TBD |
-
-<br>
-</details>
-<br>
-
-<details>
-    <summary><strong>X.ai</strong></summary>
-    <br>
-
-| **Models** | **Details** |
-| --- | --- |
-| **TBD** | TBD |
-
-<br>
-</details>
-<br>
-
-<details>
-    <summary><strong>FAIR (Meta)</strong></summary>
-    <br>
-
-| **Models** | **Details** |
-| --- | --- |
-| **TBD** | TBD |
-
-<br>
-</details>
-<br>
 
 ## Further reading
 <details>
@@ -449,5 +397,5 @@ These definitions were generated using Perplexity using Claude and GPT models. I
 **Models**
 - [Google Models](https://ai.google/get-started/our-models/)
 
-</details>
+</>
 <br />
