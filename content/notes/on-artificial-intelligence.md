@@ -36,23 +36,21 @@ For those who are trying to find a middle-ground, pinning down what intelligence
 
 How do we obtain intelligence?
 
-Humans are not born pre-programmed with a set of instructions that we deem intelligent. Many of our other friends in animal kingdom are born and immediately get up and run around. Humans don't.
+Humans aren’t born with pre-programmed instructions we consider intelligent. Many other animals are born and immediately start running around. Humans don’t. We sit there for a few months, staring and listening. Babies process raw ingredients, but it may seem like we’re wasting time.
 
-We sit there for a few months staring and listening. Babies are processing raw ingredients, but it may look like we are spending a lot of time doing nothing which is perceived to be wasteful.
+Though we lack instructions for interacting with our surroundings, we possess pre-programmed genetic code inherited from our ancestors. While infants can’t feed themselves, they can cry when hungry. This is nature vs. nurture.
 
-Though we are not pre-programmed with instructions on how to interact with our surroundings, we do come with pre-programmed genetic code. Our DNA has genetic code which is passed on to us from our ancestors. An infant does not know how to hold a spoon to feed itself when they enter the world, but knowing how to cry when hungry is in our genetic code. This is nature vs nurture.
+Babies develop adaptive behavior, language, vocalization, and motor skills through repetitive exercises that reinforce learning. Reward and punishment influence this feedback cycle.
 
-As babies grow into infants, they break into adaptive behavior, language, vocalization and motor skills. They are performing repetitive exercises through which learnings are reinforced. Reward and punishment play a role into this feedback cycle.
+For effective learning, cause-and-effect relationships are essential. These relationships help us understand how our surroundings work and shape our behavior. For instance, dropping water on a carpet makes it wet, prompting us to be more careful in the future.
 
-For effective learning you need cause-and-effect. The causal relationships—some things make other things happen enabling us to learn how our surroundings work. The cause and effect shapes our behavior. For example, picking a glass of water and dropping it on the floor makes carpet wet so next time we'll be careful of dropping water on a carpet.
+This feedback loop cycle drives infants and toddlers’ experimentation. They modify one thing to see the result. DNA pre-programs personality and behavior, but major learning comes from interaction. Cultural norms are enforced during this process, like nose-picking in public. 
 
-This cause and effect drives feedback loop cycle for infants and toddlers. They modify one tiny thing to see what happens. They are constantly experimenting by interacting with their environment. Some pre-programming from DNA helps shape our personality and behavior, but major learning comes from experimenting. This is when cultural norms are also enforced. For example, nose picking is bad in public. 
+As toddlers interact with their environment, their motor skills begin to develop. For instance, when they take a hard fall on a playground, their bodies naturally flex. It’s impossible to instruct a toddler exactly which organs to involve when they get hurt. However, the human body adapts without extensive practice. Daniel Dennett, an American philosopher and cognitive scientist, coined the terms “competence with comprehension” and “competence without comprehension” to describe this phenomenon. Our species demonstrates a remarkable amount of competence without fully comprehending the mechanisms behind it. A great example of this is the body’s ability to adapt to injuries like falling on a playground.
 
-As the learning is reinforced for toddlers through interaction with their environment, motor skills starts to take shape. For example, motor flexes when taking a hard fall on a playground. It is impossible to instruct a toddler step by step what organs to involve when they get hurt. But human body evolves without too much practice. Daniel Dennett, an American philosopher and cognitive scientist called this _competence with comprehension_ and _competence without comprehension_. There is a lot of competence in the absence of comprehension within our species. The falling on a playground is a great example.
+This finally leads me to commonsense, which provides us with fundamental assumptions that aid us in navigating this intricate world. Through collective experience and genetic predisposition, we acquire the ability to make quick inferences. For instance, if you have a larger vehicle, you understand that it won’t fit in a narrow alleyway. This is learned through numerous interactions between physical experiences, our innate repository of knowledge, thinking, and rationalization. The combination of these complex intelligent systems enables us to project assumptions onto other aspects of life. This general awareness is what we refer to as common sense.
 
-This finally leads me to commonsense. It gives us basic assumptions that help us navigate this complex world. Experience and genetics collectively teaches us to do quick inferences. If you have a wider vehicle you know you cannot fit in a narrow alleyway. This is learned by having countless interactions between physical experience, innate repository, thinking and rationalizing. And the combination of complex intelligent systems results in projecting assumptions to other things in life. This general awareness is what we mean by common sense.
-
-Intelligence is neither straightforward nor formulaic. Our ancestors don't bring us to the world with step-by-step instructions. But able to desire is what makes us unique and intelligent than other species in the animal kingdom.
+Intelligence is neither simple nor predictable. Our ancestors didn’t provide us with step-by-step instructions to enter the world. However, the ability to desire sets us apart from other species in the animal kingdom and makes us intelligent.
 
 ### Curiosity
 
