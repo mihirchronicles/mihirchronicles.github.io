@@ -56,15 +56,15 @@ Intelligence is neither simple nor predictable. Our ancestors didn’t provide u
 
 What drives our desire to be curious?
 
-As much as we desire a god like control over other species and our surroundings, we are able to fulfill this desire because human species come with curiosity and ability to communicate with language.
+As much as we desire for a god-like level of control over other species and our surroundings, we are fortunate enough to fulfill this desire due to the unique characteristics of the human species, which include curiosity and the remarkable ability to communicate through language.
 
-We learn by living in the world, we move around, we do little experiments, we build relationships, and we feel. What we have is a deep complex system that can do amazing things that we continue to discover.
+We learn through our experiences in the world. We move around, conduct small experiments, build relationships, and experience emotions. This complex system, which we possess, has the ability to perform incredible things that we are continually discovering.
 
-No other species have we found thus far that cares deeply about why sky is blue or slowing down the decay of human organs so we can live longer. Our strong desire to learn about the world is what makes us super intelligent which has resulted in complex tooling and machinery. Our innate ability to search and explore is intrinsic because we know how babies operate. They are constantly experimenting, seeking, questioning and reasoning. I myself wonder how my kid picked things up which were never taught. This is human cognition at its finest.
+No other species we’ve discovered thus far exhibits such profound curiosity about the reasons behind the blue sky or the mechanisms that slow down the decay of human organs, enabling us to extend our lifespans. Our quenchless thirst for knowledge is the driving force behind our exceptional intelligence, which has led to the development of intricate tools and machinery. Our innate ability to search and explore is an inherent trait, as we understand from the behavior of infants. They are constantly experimenting, seeking, questioning, and reasoning. I can’t help but wonder how my child acquired knowledge that wasn’t explicitly taught to him. This is the pinnacle of human cognition.
 
-We use language that is far superior to other species in animal kingdom. I can communicate to my family how I feel. Not only am I able to learn what is going on around me or within me, but I am able to communicate to others about these environments. This allows for ideas to spread quickly and help us become stronger against other species or aliens. Good or bad—is another matter, but we have figured out the flow of information and have used to our advantage.
+We possess a language far superior to other animal species in the kingdom. I can express my emotions to my family. Not only can I comprehend the world around me and within me, but I can also communicate these insights to others. This facilitates the rapid dissemination of ideas, enabling us to enhance our resilience against other species or extraterrestrial entities. Whether this is advantageous or detrimental is a matter of perspective, but we have successfully deciphered the flow of information and have harnessed its potential to our benefit.
 
-Writing all this down using a language on a tool that was built by a co-human is a form of thinking. Able to borrow ideas and repurpose them with my own thoughts and analogies is another form of intelligence. This is what I think separates human intelligence from animal or other form of intelligence.
+Writing all this down using a language created by a fellow human is a form of thinking. Another form of intelligence is the ability to borrow ideas and repurpose them with my own thoughts and analogies. This is what I believe distinguishes human intelligence from animal or other forms of intelligence.
 
 ### Perception vs reality
 
