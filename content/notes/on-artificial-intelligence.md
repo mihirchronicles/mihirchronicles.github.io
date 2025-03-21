@@ -68,23 +68,23 @@ Writing all this down using a language created by a fellow human is a form of th
 
 ### Perception vs reality
 
-Is intelligence accurate? Are we are prone to false positives?
+Are intelligence tests accurate? Are we susceptible to false positives?
 
-There is reality and there is perception. We tend to assume that our perceptions—sights, sounds, textures and tastes portray the real world. We shouldn't be fooled by _internal simulation_ because _external reality_ might not be what we think it is. The difference between the two is what creates illusion. This is why finding reality is so difficult because we all perceive things differently. 
+There’s reality and perception. We often assume that our perceptions—sights, sounds, textures, and tastes—represent the real world. However, we shouldn’t be deceived by internal simulations because external reality might not align with our perceptions. The distinction between the two is what creates illusions. This is why finding reality is challenging because our perceptions vary widely. 
 
-Can our senses for all 7 billion plus people reach a threshold of 100%? I am not sure, but we should keep this front and center. It is already hard to be in sync with my family unit, co-workers and friends, let alone having all 7 billion plus people be on the same page. 
+Can our senses, which are already stretched to the limit with the current population of over 7+ billion people, possibly reach a point of complete alignment? I’m not certain, but it’s crucial that we consider this possibility. It’s already challenging to maintain harmony within my immediate family, workplace, and social circle. Imagine the complexities of coordinating the thoughts and actions of an entire global population. 
 
-Human perception isn't a bad thing because it allows us to survive. Our human brain is CPU intensive compared to rest of the body. Evolution optimized our brain to not process every single input coming through our senses otherwise it would overheat. Therefore, our brains are constantly building models based on interaction with our local environment. Having an accurate model makes processing reality more efficient and why our brain hides reality. 
+Human perception isn’t inherently negative because it’s essential for our survival. Our human brains are highly cognitively demanding compared to the rest of our bodies. Evolution optimized our brains to avoid processing every single input from our senses, as it would lead to overheating (like a machine overheating when it is overworked). Consequently, our brains continuously construct models based on our interactions with our immediate surroundings. An accurate model enhances our ability to process reality efficiently, which explains why our brains tend to distort or conceal it. 
 
-And why we use patterns and categories. We use labels such as small, medium and large. It wouldn't be efficient for our brain to quantify exact measurement of everything we come across. But what is medium to me might mean different to my friend. These categories are subjective, but critical for survival. 
+We use patterns and categories for efficiency. Labels like small, medium, and large help us categorize things without having to measure everything precisely. However, what may be medium to one person might be different to another. These categories are subjective but crucial for survival. 
 
-Imagine being stuck in Sahara Desert. You come across a small body of water that has enough water for yourself and your camel friend. You won't sit there and measure how much. But your brain will help you evaluate whether it is too little, enough or too much for survival. And similarly, your camel friend will do the  same. You might see small quantity but your camel friend might see it as large quantity. The perception is in context of experience and evolution. Humans can survive without water for weeks, but camels can survive without water for months. But in reality the water is in fixed quantity. So everything we see is one big illusion, but it has been critical to our survival. And other species behave similarly.
+Imagine being stranded in the Sahara Desert. You stumble upon a small body of water that could sustain you and your camel companion. Instead of meticulously measuring its quantity, your brain instinctively assesses whether it’s sufficient for survival. Similarly, your camel friend employs a similar evaluation process. While you perceive a small amount, your camel friend might perceive it as a substantial quantity. This perception is shaped by our experiences and evolutionary history. Humans can endure weeks without water, while camels can survive for months. However, in reality, the water quantity remains fixed. Consequently, everything we perceive is an illusion, yet it has been pivotal to our survival. This phenomenon is not unique to humans; other species exhibit similar behaviors.
 
-How our brain is structured plays a critical role in this conversation of reality versus perception.
+Our brain’s structure plays a crucial role in this discussion about the distinction between reality and perception.
 
-Our brain is split into two operations—rationalizing based on logic (left hemisphere) and rationalizing based on emotions (right hemisphere). This creates two paths for human species to evaluate reality—mathematical operation and emotional operation. Our human experience also depends on our environment and experiences. A snake might be treated differently by a human who grew up in Amazon Rain Forest versus someone who grew up in New York City. How one feels about a snake is purely dependent on their emotions created by their environment. 
- 
-Then are we machines? Based on this argument, we are not purely computational beings. The experiences of everyday life shapes the ultimate nature of our reality.
+Our brains are divided into two distinct operations: rationalizing based on logic (left hemisphere) and rationalizing based on emotions (right hemisphere). This division creates two distinct paths for the human species to evaluate reality: a mathematical approach and an emotional one. Our human experiences are also shaped by our environment and experiences. For instance, a snake might be treated differently by a person who grew up in the Amazon Rainforest compared to someone who grew up in New York City. The way one feels about a snake is entirely dependent on the emotions they experience due to their environment. 
+
+Based on this argument, we are not purely computational beings. Our everyday experiences shape the ultimate nature of our reality. Therefore, we are not machines.
 
 ## Machines
 
