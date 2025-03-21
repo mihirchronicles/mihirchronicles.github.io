@@ -205,7 +205,7 @@ These definitions were generated using Perplexity using Claude and GPT models. I
 
 ## Model factories
 
-Below are the major providers of LLM models.
+Below are a few major providers of LLM models.
 
 | Model factories | Details | 
 | -------------|:-------------:|
@@ -218,7 +218,8 @@ Below are the major providers of LLM models.
 
 ## AI log
 
-- **Voice Agents**:  New, multi-modal models like GPT-4o may power more natural conversational interfaces to reach true human-like quality. To function, voice agents need to ingest human speech (ASR), process this input with an LLM and return an output, and then speak back to the human (TTS). These models can be used for customer support calls to support busy tax season or end of year donations to charities. For example, Empathic Large Language Model (eLLM) is a conversational AI with emotional intelligence. This eLLM allows Hume's EVI to analyze vocal cues like pitch and tone, providing valuable insights into the user’s emotional state. With this information, EVI can tailor its responses to be more helpful, supportive, or even calming, depending on the situation. AI assistants for voice agents — [Hume](https://www.hume.ai), [Retell](https://www.retellai.com), [Vapi](https://vapi.ai), [Bland](https://www.bland.ai), [Play](https://play.ht), [Sindarin](https://www.sindarin.tech).
+- **Stable Diffusion**: A generative artificial intelligence (generative AI) model that produces unique photorealistic images from text and image prompts. It originally launched in 2022. Besides images, you can also use the model to create videos and animations. The model is based on diffusion technology and uses latent space. This significantly reduces processing requirements, and you can run the model on desktops or laptops equipped with GPUs. Stable Diffusion can be fine-tuned to meet your specific needs with as little as five images through transfer learning. I have used this model to generate posters in the style of combination from multiple artists (for example, Jacqueline Casey and Charley Harper). Once you have the output, you can apply [AI scaling](https://huggingface.co/spaces/doevent/Face-Real-ESRGAN) to increase resolution. And then you can trace vector graphics with any autotrace tool. [Playground for Stable Diffusion models by Stability AI](https://huggingface.co/stabilityai). More on [diffusers](https://huggingface.co/docs/diffusers/en/index).
+- **Voice Agents**: New, multi-modal models like GPT-4o may power more natural conversational interfaces to reach true human-like quality. To function, voice agents need to ingest human speech (ASR), process this input with an LLM and return an output, and then speak back to the human (TTS). These models can be used for customer support calls to support busy tax season or end of year donations to charities. For example, Empathic Large Language Model (eLLM) is a conversational AI with emotional intelligence. This eLLM allows Hume's EVI to analyze vocal cues like pitch and tone, providing valuable insights into the user’s emotional state. With this information, EVI can tailor its responses to be more helpful, supportive, or even calming, depending on the situation. AI assistants for voice agents — [Hume](https://www.hume.ai), [Retell](https://www.retellai.com), [Vapi](https://vapi.ai), [Bland](https://www.bland.ai), [Play](https://play.ht), [Sindarin](https://www.sindarin.tech).
 - **Optical Character Recognition (OCR)**: Extract text and data from images and documents, turn unstructured content into a business-ready structured data, and unlock valuable insights. OCR usecase — take a screenshot of Tableau dashboard and generate a one-page business summary. AI assistants and models for OCR — [InternVL](https://huggingface.co/spaces/OpenGVLab/InternVL), [Google OCR](https://cloud.google.com/use-cases/ocr), [Amazon OCR](https://aws.amazon.com/what-is/ocr/#:~:text=Optical%20Character%20Recognition%20(OCR)%20is,words%20in%20the%20image%20file.), [Meta TextOCR](https://research.facebook.com/publications/textocr-towards-large-scale-end-to-end-reasoning-for-arbitrary-shaped-scene-text/), [Llama OCR](https://github.com/Nutlope/llama-ocr).
 
 
@@ -398,5 +399,5 @@ Below are the major providers of LLM models.
 **Models**
 - [Google Models](https://ai.google/get-started/our-models/)
 
-</>
+</details>
 <br />
