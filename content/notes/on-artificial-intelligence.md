@@ -8,7 +8,7 @@ path: "/notes/on-artificial-intelligence"
 
 Artificial Intelligence (AI) focuses on creating intelligent machines. Within AI, Machine Learning (ML) is a specialized area that emphasizes recognizing patterns in data and applying those patterns to make predictions or decisions for new inputs. Deep Learning, a subset of ML, works with unstructured data such as human language and images, utilizing neural networks modeled after the human brain. Large Language Models (LLMs), a type of Generative AI, are designed to process and generate human-like text.
 
-Like everyone else, I am LLMed up because of how exciting these tools are. Despite the darkness, some call this era magical. It deserves the hype because it feels like the early days of the internet, web, and mobile. Here’s my attempt to delve into artificial intelligence.
+Like everyone else, I am LLMed up because of how exciting these tools are. Despite the darkness, some call this era magical. It deserves the hype because it feels like the early days of the internet, web, and mobile. Here’s my attempt to take a deep dive into artificial intelligence.
 
 Replicating and scaling intelligence has been humanity’s mission since time’s dawn. We live in an era of rapid innovation, where AI transforms all aspects of life. While AI may reshape human experience, caution is warranted when making bold claims about computer intelligence.
 
