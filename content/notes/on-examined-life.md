@@ -8,7 +8,9 @@ path: "/notes/on-examined-life"
 
 Socrates was right about _an unexamined life is not worth living_.
 
-Most important life lessons are clichés but without them life can be a wild ride. Living a quality life with conviction is worth pursuing and only way to lead a quality life is to understand your belief system. These are not hard rules but a way to hold myself accountable to certain standard in life. Here are a few things on life I have examined based on my experiences. They go in no particular order.
+Life often feels like a battlefield, filled with daily struggles and challenges. However, shifting your focus to what truly matters can bring clarity and purpose. Many life lessons may seem like clichés until they are personally experienced, but without a philosophical foundation, life can feel chaotic and directionless. Pursuing a life of quality and conviction is a worthwhile endeavor, and the key to achieving it lies in understanding your own belief system.
+
+Stoicism, along with other philosophical frameworks, life experiences, and lessons learned from failures, serves as a powerful remedy for many of today’s modern problems. Below are my lessons. They are not rigid rules but rather guiding principles I use to hold myself accountable to a certain standard in life. They are presented in no particular order, but each holds significance.
 
 - **Seek excellence.** It fills your soul. Be a yardstick of quality where excellence is expected.
 - **Don't set rules, set values.** Rules set limits that teach us to adopt a fixed view of the world. Values encourage us to internalize principles for ourselves. 
