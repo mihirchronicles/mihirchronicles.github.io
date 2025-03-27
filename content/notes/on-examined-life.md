@@ -32,7 +32,15 @@ Stoicism, along with other philosophical frameworks, life experiences, and lesso
 - **Practice equanimity by building pockets of stillness into your life.** There is no such thing as being always happy. If you are sad, accept sadness. Accept every emotion to the fullest and ride them out with equanimous (calm and composed) mind. When the mind experiences something pleasant or unpleasant, it simply understands it as things are, then there is no suffering. Experience joy or sadness without giving into craving. Suffering comes from craving. You will maintain peace of mind with the attitude of accepting “as is” when you are dealing with emotions. Both peak and bottom shall pass by. This is one way to show gratitude.
 - **Positivity is a good behavior.** Asking a question positively generates a better response. Example: “'Person: Can I smoke while I'm praying?' Priest: No. 'Person: Can I pray whilst I'm smoking?' Priest: Of course you can.” Positive thinking is an incredibly powerful tool. Proactive behavior spurs positivity and vice-versa. The pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty. Positive people don't just have a good day; they make it a good day. People who think positively usually see endless possibilities. Success doesn't create optimism, but optimism leads to progress. Avoid negative energy at all cost. But do not drop your skepticism. A skeptic is not a pessimist. A skeptic just knows how to avoid stupidity while being an optimist.
 
-> Everything negative – pressure, challenges – is all an opportunity for me to rise. — Kobe Bryant
+> Your mind will take the shape of what you frequently hold in thought, for the human spirit is colored by such impressions. — Marcus Aurelius
+
+> The best revenge is to be unlike him who performed the injury. — Marcus Aurelius
+
+> Be discriminating about what images and ideas you permit into your mind. — Epictetus
+
+> Any person capable of angering you becomes your master. — Seneca
+
+> If someone succeeds in provoking you, realize that your mind is complicit in the provocation. — Seneca
 
 - **Seek truth.** Seek truth by always going to the source. Always ask why! Rationalize from the first-principles thinking. Ideas need to be mapped to objective reality to draw facts. The mindset of optimistic contrarian is when you think clearly from the ground up. Tactics provide the “what” and the “how.” But if you want results no matter how the landscape changes, you must also understand the “why.” By understanding the principles that shape your reality, your “why” will more accurately guide your thoughts and actions. Invert everything to refine your thinking. Instead of worrying about what it takes to be successful, ask yourself what will it take to be not successful. Be greedy when others are fearful and be fearful when others are greedy. Inversion allows you to remove blind-spots from your initial hypothesis. Believe in yourself but self-belief must be balanced with self-awareness. Truth-seeking is hard and often painful, but it is what separates self-belief from self-delusion. Learn to think well, and it'll pay huge reward!
 
@@ -42,8 +50,17 @@ Stoicism, along with other philosophical frameworks, life experiences, and lesso
 
 > If art is to nourish the roots of our culture, society must set the artist free to follow his vision wherever it takes him. We must never forget that art is not a form of propaganda; it is a form of truth. — JFK
 
-- **Live frugal, but not cheap.** Learn to avoid lifestyle inflation and shifting up your goal post. Consume to meet the basic needs, waste nothing and be content with what you have. But don’t make mistake frugality with letting go of your youth and having fun. You don't have to cheap out on having fun. Both fun and frugality can co-exist. People who live far below their means enjoy freedom that people who are busy upgrading their lifestyles can’t fathom. Frugality allows you to stay rich. Getting rich and staying rich are different things that require different skills. Spending money to show people how much money you have is the fastest way to lose money. Debt will cripple you. Savings will give you wings to fly on. Freedom plus time are worth much more than nice cars and clothes.
-- **Do everything with intense focus.** Focus is a force multiplier both in work and life. Without intense focus everything else fails. And focusing on too many things is a recipe for failure. Cultivate trust and attention. Protect your attention like you protect your friends, family, and money. Singular focus allows you to choose direction over speed. If you don't know the direction, it doesn't matter how fast you are traveling. Inversely, if you’re locked on to your desired destination, all progress is positive, no matter how slow you’re going. You’ll reach your destination eventually with intense focus and ruthlessly prioritizing.
+- **Live frugal, but not cheap.** Learn to avoid lifestyle inflation and shifting up your goal post. Consume to meet the basic needs, waste nothing and be content with what you have. But don’t make mistake frugality with letting go of your youth and having fun. You don't have to cheap out on having fun. Both fun and frugality can co-exist. People who live far below their means enjoy freedom that people who are busy upgrading their lifestyles can’t fathom. Frugality allows you to stay rich. Getting rich and staying rich are different things that require different skills. Spending money to show off is the fastest way to lose money. Debt will cripple you. Savings will give you wings to fly on. Freedom plus time are worth much more than nice cars and clothes.
+
+> Wealth consists not in having many possessions, but in having few wants. — Epictetus
+
+> It is not the man who has too little, but the man who craves too much, who is poor. — Seneca
+
+- **You can’t pursue anything if you’re pursuing everything.** Focus is a force multiplier both in work and life. Without intense focus everything else fails. And focusing on too many things is a recipe for failure. Cultivate trust and attention. Protect your attention like you protect your friends, family, and money. Singular focus allows you to choose direction over speed. If you don't know the direction, it doesn't matter how fast you are traveling. Inversely, if you’re locked on to your desired destination, all progress is positive, no matter how slow you’re going. Of all emotions, desire must be controlled most, as it shapes what we pursue and defines our destiny. You’ll reach your destination eventually with intense focus and ruthlessly prioritizing.
+
+> To be everywhere is to be nowhere. ― Seneca
+
+> If a man knows not to which port he sails, no wind is favorable. — Seneca
 
 > If you chase two rabbits, you will not catch either one. — Russian Proverb 
 
@@ -107,11 +124,13 @@ Stoicism, along with other philosophical frameworks, life experiences, and lesso
 
 > Discipline will sooner or later defeat intelligence. — Japanese Proverb
 
-- **Hard problems beget hard work.** Skills will only take you far but work ethic will define your character. Work on hard problems. When you work on hard problems, you are alive and relieved after solving them. You can get to about 90th percentile in your field by working either smart or hard, which is still a great accomplishment. But getting to the 99th percentile requires both—you will be competing with other very talented people who will have great ideas and are willing to work a lot. You don't need to sacrifice life and hobbies while working hard. This is easy for people who see work playful. Momentum compounds, and hard work begets progress.
+- **Hard problems beget hard work.** Skills will only take you far but work ethic will define your character. Work on hard problems. When you work on hard problems, you are alive and relieved after solving them. You can get to about 90th percentile in your field by working either smart or hard, which is still a great accomplishment. But getting to the 99th percentile requires both—you will be competing with other very talented people who will have great ideas and are willing to work a lot. You don't need to sacrifice life and hobbies while working hard. This is easy for people who see work playful. Momentum compounds, and hard work begets progress. Don't be afraid of it.
 
 > Hard work enables one to excel over those who coast through life. — John Boyd
 
 > A lot of people say they want to be great, but they’re not willing to make the sacrifices necessary to achieve greatness. They have other concerns, whether important or not, and they spread themselves out. That’s totally fine. After all, greatness is not for everybody.  — Kobe Bryant
+
+> Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present. — Marcus Aurelius
 
 - **Seek multidisciplinary approach over specialization.** Complexity is the name of the game. We simplify because we are addicted to narratives, but the complexity goes on. This is why having a generalist mindset can be a huge advantage. Ideas in isolation doesn't have much value, but when you connect constellation of ideas, it takes a meaningful form. Knowing the key drivers and major ideas in variety of fields is a huge source of leverage. It is difficult to study broadly and deeply, but the two aren't mutually exclusive. You have to be radically open-minded. It is easy to pay homage to Charlie Munger’s latticework of mental models, but when you live it, you see why he is right.
 
@@ -128,6 +147,18 @@ Stoicism, along with other philosophical frameworks, life experiences, and lesso
 - **Know what makes you the best version of yoursef.** Figure out what gives you enduring value. For me it is exercising and learning.
 - **Do things that uplifts you.** It sounds simple but the imabalance life will put you over the edge. Wasting time is depressing. Spend time on your hobbies or explore alone or with your friends and family. It is the best way to lift your spirit. 
 - **Time is undefeated.** The only way to compete with time is to do things. The clock doesn't stop, but once you do something, clock cannot take it away. Take charge now.
+- **Guard your energy and time**.  In order to preserve the most of your time, you need to avoid distractions. The biggest class of distraction is the things you can’t control. By focusing on what you can’t control, you lose control. To find lasting peace in an unpredictable world, you have but one option — control over your character. The Stoics likened life to an archer — she controls her aim and shot but not the wind that may alter the arrow’s path. Thus, her focus should be on perfecting her aim, not the outcome.
+
+> Learning to live with less will create space in your life for the things that truly matter to you. — Seneca
+
+> People are frugal in guarding their personal property; but as soon as it comes to squandering time they are most wasteful of the one thing in which it is right to be stingy. — Seneca
+
+> We are always complaining that our days are few, and acting as though there would be no end of them. — Seneca
+
+> The more we value things outside our control, the less control we have. — Epictetus
+
+> It’s not what happens to you, but how you react to it that matters. — Epictetus
+
 - **Hard work and play are indistinguishable.** You will see this in so called successful people. They are serious about the game they play. This is also true for children. They are pretty intense because they are serious when they play. This is where childlike wonder comes from.
 - **The challenge in life is figuring out both which game to play and how to play it best.**
 - **The way to get things done is to be small and move fast.** Moving fast forces you to strip things down to the bare bones. Impose urgency. Yes, no one is dying, but the missions drive humanity forward. Small is less complex. 2 is better than 4. 4 is better than 8. This is the nature of power laws.
@@ -137,8 +168,8 @@ Stoicism, along with other philosophical frameworks, life experiences, and lesso
 - **Beware of over-delegation and being too far from the details.** I see too many people avoid real work. The work is in the details.
 - **Doom scrolling and reading too much drowns out your inner voice.** Lean more towards action.
 - **Days with 0 output are the killers** and it matters when you know your primary focus but watch out for workaholic behavior.
-- **Imposter comes from overconsuming.** You need to balance your production and consumption balance.
-- **Learning happens when both context and time are right.** Personal finance should be taught in highshcool is frequently discussed about but if young adults don't have comprehension for the topic, what good will it do? 
+- **Imposter comes from over consuming.** You need to balance your production and consumption balance.
+- **Learning happens when both context and time are right.** Personal finance should be taught in high shcool is frequently discussed but if young adults don't have comprehension for the topic, what good will it do? 
 - **Take the leap if you are thinking about it.** Now is the time.
 - **Conduct annual reflection** on everything that matters.
 - **Status seeking activities will eventually burn you out.** Focus on substance and enduring value creation.
@@ -173,3 +204,6 @@ Stoicism, along with other philosophical frameworks, life experiences, and lesso
 > Sometimes I’ve made mistakes in assessing the future economics of a business I’ve purchased for Berkshire – each a case of capital allocation gone wrong. That happens with both judgments about marketable equities – we view these as partial ownership of businesses – and the 100% acquisitions of companies...The cardinal sin is delaying the correction of mistakes or what Charlie Munger called “thumb-sucking.” Problems, he would tell me, cannot be wished away. They require action, however uncomfortable that may be. — Warren Buffett 2024 Annual Letter
 
 - **Indecision will kill your dreams a lot faster than mistakes.** Stay away from pessimistic. They have a problem for every solution. Their pessimistic outlook will bleed into your decision-making. One individual can ruin an entire action orientated group.
+- **You always have an option to have no opinion.**
+
+> You always own the option of having no opinion. There is never any need to get worked up or to trouble your soul about things you can't control. These things are not asking to be judged by you. Leave them alone. — Marcus Aurelius
