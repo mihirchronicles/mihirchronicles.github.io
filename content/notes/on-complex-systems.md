@@ -140,6 +140,7 @@ Everything is caught up in non-linear web of incentives, constraints and connect
     <summary><strong>References</strong></summary>
     <br>
 
+- [Systems Thinking Speech by Dr. Russell Ackoff](https://www.youtube.com/watch?v=EbLh7rZ3rhU)
 - [Systems Engineering by NASA](https://www.nasa.gov/wp-content/uploads/2018/09/nasa_systems_engineering_handbook_0.pdf)
 - [Thinking in Systems by Donella H. Meadows, Diana Wright](/thinking-in-systems)
 - [One from Many by Dee Hock](/one-from-many)

@@ -325,6 +325,7 @@ Below are a few major providers of LLM models.
 - [Artificial Intelligence, Scientific Discovery, and Product Innovation*](https://aidantr.github.io/files/AI_innovation.pdf)
 - [Foundations of LLMs](https://arxiv.org/pdf/2501.09223)
 - [Computing Power and the Governance of Artificial Intelligence](https://arxiv.org/abs/2402.08797)
+- [Large Language Models Pass the Turing Test](https://arxiv.org/abs/2503.23674)
 
 **Talks, Lectures & Videos**
 - [3Blue1Brown Series on LLM & Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
