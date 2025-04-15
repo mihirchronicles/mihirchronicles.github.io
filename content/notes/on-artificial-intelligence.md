@@ -394,6 +394,8 @@ Below are a few major providers of LLM models.
 - Simon Willison’s Weblog: [2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/), [2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
 - [Situational Awareness The Decade Ahead](https://situational-awareness.ai)
 - [Prompt Engineering Guide](https://www.promptingguide.ai)
+- [Rudolf's writing](https://rudolf.website)
+- [AI 2027](https://ai-2027.com)
 
 **Models**
 - [Google Models](https://ai.google/get-started/our-models/)
