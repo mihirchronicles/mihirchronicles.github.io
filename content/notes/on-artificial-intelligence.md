@@ -396,6 +396,7 @@ Below are a few major providers of LLM models.
 - [Prompt Engineering Guide](https://www.promptingguide.ai)
 - [Rudolf's writing](https://rudolf.website)
 - [AI 2027](https://ai-2027.com)
+- [RAID (Real World AI Definitions)](https://danielmiessler.com/blog/raid-ai-definitions)
 
 **Models**
 - [Google Models](https://ai.google/get-started/our-models/)
