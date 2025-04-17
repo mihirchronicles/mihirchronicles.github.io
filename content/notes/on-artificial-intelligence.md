@@ -397,6 +397,7 @@ Below are a few major providers of LLM models.
 - [Rudolf's writing](https://rudolf.website)
 - [AI 2027](https://ai-2027.com)
 - [RAID (Real World AI Definitions)](https://danielmiessler.com/blog/raid-ai-definitions)
+- [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
 **Models**
 - [Google Models](https://ai.google/get-started/our-models/)
