@@ -11,12 +11,12 @@ const WorkIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <h1>Work</h1>
-      <p>There is a pure joy in building products. Building a product is like planting a seed which allows for experimenting with new ideas. Pursuing product development either bring chaos in order or helps me escape chaos. It brings hope and sense of aliveness. The journey of building products has given me insights on various topics which has been fruitful in my professional life. Below are the products I have woked on.</p>
+      <p>Creating products is an unparalleled joy, akin to planting a seed that nurtures experimentation with novel ideas. Product development can be seen as either chaotic or orderly, instilling hope and a sense of vitality. The journey of building products has broadened my understanding of various subjects, which have proven invaluable in my professional life. Below are the products I’ve had the privilege of working on.</p>
 
-      <h2>Schwab Charitable</h2>
+      <h2>DAFgiving360 (Schwab Charitable)</h2>
       <p><strong>[2023 - Current]</strong></p>
-      <p><strong>Details</strong>: Responsible for automating 90% of grants given to charities resulting in reduction of operational overhead costs while enhancing user experience for donors. Work in progress.</p>
-      <p><strong>Website</strong>: <a href="https://www.schwabcharitable.org">Schwab Charitable</a></p>
+      <p><strong>Details</strong>: Responsible for automating 90% of grants given to charities resulting in reduction in operational overhead costs while enhancing user experience for donors, charities and advisors.</p>
+      <p><strong>Website</strong>: <a href="https://www.dafgiving360.org">DAFgiving360</a></p>
 
       <h2>Schwab Intelligent Portfolios</h2>
       <p><strong>[2021 - 2023]</strong></p>
@@ -30,7 +30,7 @@ const WorkIndex = ({ data, location }) => {
       </div>
       <p><strong>[2023]</strong></p>
       <p><strong>Details</strong>: A project exploration on how to beat the imposter syndrome. Created brand assets including logo, website, copy and illustrations. The project was never launched.</p>
-      <p><strong>Website</strong>: <a href="https://bigimposter.webflow.io">www.bigimposter.com</a></p>
+      <p><strong>Website</strong>: <a href="https://bigimposter.webflow.io">Big Imposter</a></p>
 
       <h2>Wise Charlie</h2>
       <div>
@@ -44,7 +44,7 @@ const WorkIndex = ({ data, location }) => {
       <p><strong>Product</strong>: Wise Charlie is a collection of 100 mental model cards packaged in a beautiful and compact box. It is a pocket tool for independent thinking. Each model has fun artwork with a short definition followed by a funny example. I wanted the product to reflect humor because Charlie Munger in real life is hilarious.</p>
       <p><strong>Highlights</strong>: The project was a challenge in many ways that I did not anticipate. Manufacturing and shipping a physical product is still harder than building a digital product. Maintaining a project is hard especially when you are running it solo. Nonetheless, the project was super fun to build and share with teachers, students, designers, parents and investors. So many of us want to be good at thinking better while having fun. The project was able to achieve that with 600+ customers. Project got a shout out from <a href="https://www.densediscovery.com/issues/111">Kai from Dense Discovery</a>, <a href="https://barbaraoakley.com/p-is-for-pterodactyl-the-worst-alphabet-book-ever/">Barbara Oakley</a>, <a href="https://klart.io/pixels/5fb63e559d3494717438a94a">Fredrick from Pixels</a>, Blas from Rabbit Hole and many more. First, I decided to shut down the project after 4 years because there are a lot of similarities between Wise Charlie & Mihir Chronicles. I decided to consolidate the two. More on <a href="https://twitter.com/mihirchronicles/status/1479596342242590727?s=20">what</a> I learned and <a href="https://mailchi.mp/a203c96984bf/the-end-of-wise-charlie-project">why</a>. But I started getting a flood of emails from customers asking me to not shut down. They asked me whether I'd be interested in selling the business. I ultimately ended up selling the business. The outcome I didn't desire but came in surprising ways.</p>
       <p><strong>Instagram</strong>: <a href="https://www.instagram.com/heywisecharlie/">@heywisecharlie</a></p>
-      <p><strong>Web Archive</strong>: <a href="http://web.archive.org/web/20210725045443/https://www.wisecharlie.com/">www.wisecharlie.com</a></p>
+      <p><strong>Web Archive</strong>: <a href="http://web.archive.org/web/20210725045443/https://www.wisecharlie.com/">Wise Charlie</a></p>
 
       <h2>Morningstar Investor</h2>
       <div>

@@ -11,7 +11,7 @@ const ArtIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <h1>Art</h1>
-      <p>Getting lost in imagination, colors, and shapes is a wonderful exercise. Art has helped me expand my imagination and curiosity. Making art is a great way to escape reality, have fun, and be silly. Below are some of my sketches and paintings.</p>
+      <p>Getting lost in imagination, colors, and shapes is an exhilarating experience. Art has been a powerful tool for me to expand my imagination and foster a sense of curiosity and creativity. Engaging in artistic endeavors provides an excellent way to escape from the mundane realities of life, allowing me to indulge in fun and playful moments. I’ve shared a few of my sketches and paintings for your enjoyment.</p>
       <div>
         <StaticImage src="../images/art/pleasesmile.png" alt="smile" className="gallery-image"/>
         <StaticImage src="../images/art/reading_under_lamp.png" alt="readingunderlamp" className="gallery-image"/>

@@ -364,6 +364,7 @@ Below are a few major providers of LLM models.
 - [The Bitter Lesson by Rich Sutton, March 13, 2019](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 - [The End of Programming as We Know It by Tim O’Reilly](https://www.oreilly.com/radar/the-end-of-programming-as-we-know-it/)
 - [The metaphors of artificial intelligence](https://www.science.org/doi/full/10.1126/science.adt6140?af=R)
+- [Machine Learning for Humans](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
 - [A Conversation With Bing’s Chatbot Left Me Deeply Unsettled](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-microsoft-chatgpt.html)
 - [Talking about Large Language Models](https://cacm.acm.org/research/talking-about-large-language-models/)
 - [Why You’re Not Too Old to Pivot Into AI](https://www.latent.space/p/not-old)

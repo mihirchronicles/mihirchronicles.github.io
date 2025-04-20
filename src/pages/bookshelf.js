@@ -21,7 +21,7 @@ const BookshelfIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <h1>Bookshelf</h1>
-      <p>Reading is a fun way to experience life and go on an adventure! It is important to make time to read what's fairly academic and super profound. To maintain lifelong curiosity, I use multi-disciplinary approach to select and read deep and wide array of books. Below are my book summaries.</p>
+      <p>Reading is a form of forced meditation that can be a fun and exciting way to explore life and embark on adventures. It’s crucial to make time for reading material that is both academically rigorous and profoundly insightful. To nurture a lifelong sense of curiosity, I employ a multi-disciplinary approach to select and read a wide range of books. Below are my book summaries.</p>
       <ul>
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
