@@ -10,7 +10,7 @@ The crucial role of details and moving beyond the surface has a significant impa
 
 In the domains of investing and product development, gaining an edge requires having asymmetrical information. While intellectual ideas are crucial, they can also lead to a feeling of stagnation because crucial details are overlooked.
 
-Humans use simplified models to comprehend the world, but these models inevitably omit numerous details. Every step of the process is filled with intricate details that have tangible consequences for the outcome. Ignoring these details is simply not an option in this hyper-competitive era.
+Humans use simplified models to comprehend the world, but these models inevitably omit numerous details. As the saying goes — _the map is not the territory._ Every step of the process is filled with intricate details that have tangible consequences for the outcome. Ignoring these details is simply not an option in this hyper-competitive era.
 
 Consider making a pour-over coffee. On the surface, it seems quite simple: two spoons of ground beans in a filter, followed by the pouring of boiling water, which results in a cup of delicious coffee. 
 

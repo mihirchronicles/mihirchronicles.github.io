@@ -228,3 +228,4 @@ Stoicism, along with other philosophical frameworks, life experiences, and lesso
 
 - **To understand our human species you need to understand the comfort we find in storytelling. Stories scale but logic not so much.**
 - **Reading is forced meditation.**
+- **The universe doesn't reward those who play it perfectly safe. It rewards those who are willing to test gravity.**
