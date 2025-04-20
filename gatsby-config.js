@@ -12,7 +12,7 @@ module.exports = {
     title: `The Mihir Chronicles`,
     author: {
       name: `Me here, here!`,
-      summary: `This is my playground 🕹️. A collection of deepdives 📓, book summaries 📚, essays 📜 & artwork 🎨. I build products for living. A student of human behavior & finance.`,
+      summary: `This is my playground 🕹️. A collection of deepdives 📓, book summaries 📚, essays 📜 & artwork 🎨. I build products for living. A student of human behavior & financial markets.`,
     },
     description: `A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.`,
     siteUrl: `https://mihirchronicles.com/`,
