@@ -86,45 +86,7 @@ Heuristic evaluation (Nielsen and Molich) is a usability method for finding flaw
 - Flexibility and efficiency of use: Designers often focus only on first-time users, but once a system is used again and again, users need ways to speed up their process. A system should cater to both new users and expert users by including accelerators, meaning having multiple ways and methods for accomplishing certain routine tasks quickly and easily.
 - Aesthetic and minimalist design: Remove unnecessary elements from the interface and focus on the essentials. Create less noise and distractions in your design, and let users have a smoother experience and faster way to accomplish their goals. 
 - Help users recognize, diagnose, and recover from errors: The simple 3 steps to respect this principle are the following: inform users when an error has occurred, tell users exactly what the problem is, using plain language (no codes) and offer a way/solution to fix the error.
-- Help and documentation: Things like onboarding pages, tooltips, walkthroughs, videos, chatbots, comprehensive FAQs, are great ways to provide help and documentation. 
-
-## General design heuristics
-A collection of general heuristics (biases & principles) designers should consider when researching and building out user experiences:
-
-- Confirmation bias: The tendency to interpret data in a way that supports your preexisting beliefs.
-- False-consensus bias: The tendency to see your own opinions and behaviors as being common, while viewing other opinions and behaviors as being uncommon.
-- Recency bias: The tendency to attribute greater importance to recent events than to historic ones.
-- Primacy bias: The tendency to place greater emphasis on your first impressions than any information you encounter later on.
-- Anchoring bias: The tendency to rely too much on pre-existing reference points or “anchors” when making decisions.
-- Peak-end bias: The tendency to place greater emphasis on intense emotional moments (peaks) and the final moments (end) of an experience.
-- Implicit bias: A negative judgement, prejudice, or stereotype-confirming attitude that influences your decisions but that you don't consciously recognize.
-- Hindsight bias: The tendency to believe that past events were more easily predictable than they were.
-- Social desirability bias: The tendency to answer questions in a way that will make you look good to others, i.e. over-reporting “good” behavior and under-reporting “bad” behavior.
-- Serial position bias: The tendency to remember the first and last items in a list better than those in the middle.
-- Clustering illusion bias: The tendency to find false patterns and trends in random information when no such patterns exist.
-- Framing bias: The tendency to make decisions based on how the information is presented or “framed” instead of the information itself.
-- Sunk-cost bias: The tendency to continue a behavior if you've already invested time, effort, and money into it, even if the current costs outweigh the benefits.
-- Transparency bias: The tendency to overestimate how well other people understand your own internal thoughts and feelings, or to overestimate how well you understand other people's thoughts and feelings.
-- Fundamental attribution bias: The tendency to attribute someone's behavior to their character or personality, while downplaying the influence of situational and environmental factors.
-- Zeigarnik effect: People remember uncompleted or interrupted tasks better than completed tasks.
-- Isolation effect: It is also known as the Von Restorff effect, predicts that when multiple similar objects are present, the one that differs from the rest is most likely to be remembered.
-- Tesler’s law: It is also known as The Law of Conservation of Complexity, states that for any system there is a certain amount of complexity which cannot be reduced.
-- Serial position effect: Users have a propensity to best remember the first and last items in a series.
-- Peak-end rule: People judge an experience largely based on how they felt at its peak and at its end, rather than the total sum or average of every moment of the experience.
-- Parkinson’s law: Any task will inflate until all of the available time is spent.
-- Pareto principle: It states that, for many events, roughly 80% of the effects come from 20% of the causes.
-- Occam's Razor: Among competing hypotheses that predict equally well, the one with the fewest assumptions should be selected.
-- Miller's law: The average person can only keep 7 (plus or minus 2) items in their working memory.
-- Law of uniform connectedness: Elements that are visually connected are perceived as more related than elements with no connection.
-- Law of similarity: The human eye tends to perceive similar elements in a design as a complete picture, shape, or group, even if those elements are separated.
-- Law of prägnanz: It suggests that when people are presented with complex shapes or a set of ambiguous elements, their brains choose to interpret them in the easiest manner possible.
-- Law of proximity: Objects that are near, or proximate to each other, tend to be grouped together.
-- Law of common region: Elements tend to be perceived into groups if they are sharing an area with a clearly defined boundary.
-- Jacob's law: Users spend most of their time on other sites. This means that users prefer your site to work the same way as all the other sites they already know.
-- Hick's law: The time it takes to make a decision increases with the number and complexity of choices.
-- Goal gradient effect: The tendency to approach a goal increases with proximity to the goal.
-- Fitt's law: The time to acquire a target is a function of the distance to and size of the target.
-- Doherty threshold: Use perceived performance to improve response time and reduce the perception of waiting. Animation is one way to visually engage people while loading or processing is happening in the background.
+- Help and documentation: Things like onboarding pages, tooltips, walkthroughs, videos, chatbots, comprehensive FAQs, are great ways to provide help and documentation.
 
 ## Visual language
 
@@ -226,6 +188,17 @@ Motion graphics are an essential part of modern media design. They are used in f
 Wikipedia defines it as—“Information architecture (IA) is the structural design of shared information environments; the art and science of organizing and labelling websites, intranets, online communities and software to support usability and findability; and an emerging community of practice focused on bringing principles of design, architecture and information science to the digital landscape. Typically, it involves a model or concept of information that is used and applied to activities which require explicit details of complex information systems. These activities include library systems and database development.”
 
 Information architecture is a critical part of the user experience. You want the user to not only be able to understand the structure of your content, but also to predict it. They should be able to find jewelry under the sub-category of accessories, the author’s name on a blog post, and so on.  With a good IA, users can find the information they’re looking for as easily and quickly as possible. Without one, users won’t delight in your product, no matter how beautiful or engaging.
+
+- The ancient art of structuring information is the basic premise of information architecture (IA). This helps us communicate on a *shared language* while supporting *usability* and *findability* of information. If information is not usable or findable, the audience will be challenged to *build trust* and *connect over your message*. 
+- In the digital world, abstract ideas are conceptualized through modeling. The model (or a concept) covers the complex details of your information system based on your beliefs and core principles. *Data*, *logic* (can be in a visual form) and *language* are the primitives of your information. The architecture represents the design of your digital landscape. *Design* is intentional in a way that supports the longevity and survivorship of your ideas.
+- Enterprise architecture of your business logic is one example. This business logic normally dictates the relative ordering and contextual legality of certain operations and data values. This contains the information of how your enterprise operates, the workflows of components that make up for the operation of your enterprise and how these components co-exist giving the structure of your enterprise. Employees, systems, decision-makers, customers and users, events such as transactions (employee payroll and customer purchases) play a role in enterprise architecture. Without this information neither can you adapt your systems to new normal nor attract employees or customers. It is the foundation for any system.
+- According to Wikipedia—in computer software, business logic or domain logic is the part of the program that encodes the real-world business rules that determine how data can be created, stored, and changed. It is contrasted with the remainder of the software that might be concerned with lower-level details of managing a database or displaying the user interface, system infrastructure, or generally connecting various parts of the program.
+- Sitemap of your website is another example. If your users cannot navigate your website, you will lose them. This is why structuring navigation that is usable and findable is critical, so they can get from one destination to another to perform their jobs.
+- There are several systems and sub-systems of a larger system that deals with the information component. There is one part of information which is the classification of information (data, logic or language) and the other which is structuring of that information. Then there is the user experience of information retrieval. Your readers will not be happy if the retrieval of information is painful.
+- Information rich systems prioritize accessibility.
+- Information rich systems provide useful context and composability.
+- Information rich systems make information consumable to help make quick decisions.
+- One last thing about an information rich system is it needs to be fluid. It needs to adapt as new information comes in. It needs to be structured dynamically enough, so it can adapt with time or interaction. For example, information might be ineffective if your website content does not change dynamically based on user behavior. For example, your music app that will recommend music based on what you click on the page and what your friends are listening. Dynamic content such as music recommendation data is as useful as your static content such as the logo on your website's homepage.
 
 A masterclass in information architecture is to explore [McMaster-Carr catalog website](https://www.mcmaster.com). The website is a joy to use. There are countless others on the internet. What makes them special?
 
@@ -808,6 +781,30 @@ To summarize some of my takeaways on what a great designer does:
 - [Darren Hood’s Information Architecture & Information Design Book Recommendation List](https://uxuncensored.medium.com/darren-hoods-information-architecture-information-design-book-recommendation-list-8011a671c2be)
 - [Uber winning design](https://adplist.substack.com/p/uber-winning-design)
 - [Everything that turned out well in my life followed the same design process](https://www.henrikkarlsson.xyz/p/unfolding)
+
+_**Information Architecture Resources**_
+
+**Books**
+- [Darren Hood’s Information Architecture & Information Design Book Recommendation List](https://uxuncensored.medium.com/darren-hoods-information-architecture-information-design-book-recommendation-list-8011a671c2be)
+
+**Links & Talks**
+- [Wikipedia IA](https://en.wikipedia.org/wiki/Information_architecture)
+- [iA.net](https://ia.net/dictionary/i/information-architecture)
+    - [iA Deck](https://ia.net/wp-content/uploads/migration/IA-on-iA_1-0_ORN.pdf)
+    - [Information Entropy](https://ia.net/topics/information-entropy)
+- [Github Information Architecture](https://github.com/tipoqueno/information-architecture)
+- [Github Awesome Information Architecture](https://github.com/worldiaday/Awesome-InformationArchitecture)
+- [Information Architecture. Basics for Designers.](https://uxplanet.org/information-architecture-basics-for-designers-b5d43df62e20)
+- [Complete Beginner’s Guide to Information Architecture](https://uxbooth.com/articles/complete-beginners-guide-to-information-architecture/)
+- [The ultimate guide to information architecture](https://webdesignerdepot.com/the-ultimate-guide-to-information-architecture/)
+- [What is information architecture](https://www.optimalworkshop.com/101guides/information-architecture-101/what-is-information-architecture#what-is-information-architecture)
+- [Card Sorting: A Definitive Guide](https://boxesandarrows.com/card-sorting-a-definitive-guide/)
+- [A visual vocabulary for describing information architecture and interaction design](http://www.jjg.net/ia/visvocab/)
+- [Journal of Information Architecture](https://journalofia.org)
+- [An experimental chart of the visualize action of information architecture and user interaction](https://medium.com/@zamake/an-experimental-chart-for-visualize-information-architecture-and-user-interaction-361bebf44487)
+- [Your secret weapon to a great data model might be sitting on your UX team](https://medium.com/tegus-tech/ayour-secret-weapon-to-a-good-data-model-might-be-sitting-on-your-ux-team-953e1e982103)
+- [Ask HN: What are some well-designed websites?](https://news.ycombinator.com/item?id=37419447)
+- [Ontology, Taxonomy and Choreography as a model for understanding information architecture. An excerpt from a half-day workshop on information architecture given by Dan Klyn for The Understanding Group](https://www.youtube.com/watch?v=6oaxdq7uqIY)
 
 </details>
 <br />
