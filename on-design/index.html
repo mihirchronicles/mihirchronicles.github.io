@@ -229,6 +229,112 @@
 <li>Listen to the world around you to find inspiration.</li>
 <li>It’s common to think something should sound like what it is but sound doesn’t always need to be this literal.</li>
 </ol>
+<h2>Design system</h2>
+<p>I have been working on Design System at Morningstar since 2018. There is so much I have learned. I am a systems thinker because of this experience. Below are some of the lessons from my observations made and experiences gained while helping build a Design System.</p>
+<p>The team has gone through 3 versions of the library since I joined. The team is meticulously process driven shaped by Nathan Curtis of Eight Shapes since the early days of the team. That culture of systems thinking is still present and the team continues to evolve as it overcomes challenges and solve problems.</p>
+<blockquote>
+<p>A highly disciplined team that is ruthless about process, rigor and attention to details. This ensures delivery with high quality. The process is transparent and honest. Team members are compassionate but firm; they challenge one another and others. But, don't become married to process. — Nathan Curtis</p>
+</blockquote>
+<blockquote>
+<p>Design systems provide a convenient, centralized, and evolving map of a brand’s known product territories with directional pointers to help you explore new regions. — Chris Messina</p>
+</blockquote>
+<p>The Morningstar Design System (MDS) didn't start with Vue or React. MDS didn't even support javascript for almost 2 years. The components were supported using plain HTML &#x26; CSS. After three years, we rallied everyone to use Vue for their products so the system can scale and support product needs. The game of inches by going after the incremental changes paid off for our team and the organization. MDS is thriving today because the community is contributing and engineers are creating pull requests. The system is alive!</p>
+<p>Before joining Morningstar Design System team, I had no clue what Design System did or meant. Twitter Bootstrap was the closest thing I knew. Developers who were not proficient in design would import a third party library such as Twitter Bootstrap to make their web application look “pretty.” These third party libraries covered the basics such as spacing, sizes, and colors. This allowed developers to focus on coding their applications instead of design.</p>
+<p><strong>Problem statement 1:</strong> Morningstar has over 60 products and they are all distributed across the organization, globally. Designers and developers faced many challenges of maintaining the design and code standard. Deadlines and roadmaps took over so the goal would be to make the components look as similar to other products as possible. There were central design specifications in form of PDFs but were not accessible to everyone. Or the specifications would be outdated. So the organizational products would have permutations of buttons, navigation, menus, etc. This disrupted branding and the user experience (UX) for Morningstar.</p>
+<p>Every time a new product was launched, so were the components. They were being rebuilt over and over again. If you factor in the salary of developers and designers, and tie it into the time spent on building these same components, it would turn out to be hundreds and thousands of dollars. This would turn out to be very costly for the organization.</p>
+<p><strong>Problem statement 2:</strong> To solve the problem stated above, developers and designers teamed up part-time to build a central library. So anyone could consume this library (our version of Twitter Bootstrap) and would meet the design standard. It was not perfect, but it was progress in the right direction.</p>
+<p>Consuming teams found many challenges including implementation of the components because of lack of documentation. Changes made were less frequent making the library stale. However, the library was available for anyone to fork it and expand it, which frequently happened.</p>
+<p>This led to consuming teams building their own versions on top of this central library.</p>
+<ul>
+<li>Product A built the central library.</li>
+<li>Product B built another set of library on top of the central library.</li>
+<li>Product C is now consuming Product B's library because Product B has the variation of button they need. So there were many extensions of the central library. This led to many non-standard components again.</li>
+</ul>
+<p>The intention of Design System is not to stop people from doing. Design system exist to help people work faster, sacrifice control and embrace chaos when necessary.</p>
+<p>There was no central team managing the library, contributing to the components, documenting the visual guidelines and technical guidelines, and educating developers and designers on the system.</p>
+<p>Until Morningstar Design System (MDS) arrived.</p>
+<p>The team was responsible for version 1 release of the library with components that were largely consumed across all products. The library was also introduced with <a href="https://designsystem.morningstar.com/">public documentation site</a>. Below is the easy-to-consume definition by the MDS team.</p>
+<blockquote>
+<p>The Morningstar Design System is a collection of design &#x26; technical standards built into a central library to help teams quickly build high-quality, consistent experiences.</p>
+</blockquote>
+<blockquote>
+<p>Design never was just how it looks, but now it’s also how it sounds, how it speaks, and where it can go. — Chris Messina</p>
+</blockquote>
+<p>The main objective of the Design System is to bring consistency across all products, improve the speed of development, and support for maintenance. In other words, the system should never get in the way of development.</p>
+<ol>
+<li><strong>Central team:</strong> The central team has a clear ownership and is accountable for its roadmap. A centralized team helps scale the system. The decisions made by the team should benefit the entire organization not just itself. The central team is not only responsible for building blocks, but also need to maintain what they build. This ensures trust and durability for other product teams to adopt the Design System.</li>
+<li><strong>Maintenance &#x26; standardization:</strong> Design System eliminates code redundancy which then helps save time and money. Imagine a developer building a button every time a new product is built. Building a component library standardizes the technology stack which allows for maintainable changes or modifications. Reusable components then standardize the user experience (UX) and branding across all products.</li>
+<li><strong>Product focused:</strong> Design system should be treated as a product while treating consuming teams and implementors as clients. If clients are not treated well, there won't be any adoption, gradually leading to decline of the system. Design System is a living system serving other products. Design System consists of many *features—*UI components, design assets, design tokens and documentation. These are tangible outputs from the system which users value. Features are mostly driven by designers. But, developers consume these features while they do rapid development of applications. The following questions must be asked when architecting the system.
+<ul>
+<li>How do we release the new components?</li>
+<li>How do we architect with little to no disruption?</li>
+<li>What tools do developers currently use?</li>
+<li>Which languages are products written in? For example, Vue or React.</li>
+</ul>
+</li>
+<li><strong>Stakeholders:</strong> Design system consist of several stakeholders. The system should be built with the mindset of keeping everyone in mind. Treat all stakeholders as part of the system. An inclusive system brings transparency and build trust. The following are the group of people who keep the design system alive.
+<ul>
+<li>Developers use and build the system</li>
+<li>Designers create visual language and components</li>
+<li>Product managers are customers of the system</li>
+<li>The leadership team are the buyers of the system</li>
+<li>Contributors include both designers and developers</li>
+</ul>
+</li>
+<li><strong>Roadmap</strong>: Since Design System is a product, it should also have a roadmap. There were two roadmaps for the year—for the first half and second half. MDS team operated remotely since its inception so to bring everyone together the team would gather during the on-site meeting in Chicago. During this week-long planning meeting, the team conducted several sessions on large themes and objectives. The team would have breakout sessions and small group discussions. During the end of the planning meeting, the team would share these objectives with key stakeholders and users. Sharing these objectives with everyone validated the team's priorities. Every design system should have a roadmap because it consists of features and value delivered to users.</li>
+<li><strong>Collaboration</strong>: To welcome collaboration, communication channels are accessible for transparency. There are separate channels for engineering and design. Temporary channels are created during the beta and alpha testing. JIRA board is accessible to everyone. The team hosts weekly showcases to share a sprint progress. The team would accept pull-requests (PRs) from other developers if the changes made benefited the larger audience. This sort of transparency is intentional which leads to adoption and contribution.</li>
+<li><strong>Adoption &#x26; contribution:</strong> Once adoption reaches the peak, community contribution takes off. Process needs to be defined because quality can be sacrificed. This helps scale the system but quality can be sacrificed. But if the adoption rate is slow, getting contributing back can be challenging. To embed contribution and collaboration requires continuous engagement with adopters and implementors. But it doesn't just stop at engaging. As a central team, prioritizing feedback and implementing the changes are as crucial to maintaining the trust.</li>
+<li><strong>Building process:</strong> Process must be established for feature delivery. MDS team broke down the process into 4 steps — Discovery, Design, Build, Doc and Publish. These are not sequential and not role specific. These steps overlapped all the time and could be carried out by anyone.</li>
+<li><strong>Library distribution:</strong> There are a few ways to distribute UI Libraries. System can publish using NPM or Yarn with Semantic Versioning (SemVer) by versioning in form of X.Y.Z. See below to read more on SemVer. System can also publish the assets on CDN. At Morningstar, for version 3 of the library, MDS used monorepo to distribute pre-built components. Now consuming teams can pick and choose what they need from the library.</li>
+</ol>
+<ul>
+<li>Design System is not a project or a side project. It is a product serving other products.</li>
+<li>Design System is not a style guide, pattern library or a component library. But all of these together make up the system.</li>
+</ul>
+<blockquote>
+<p>A style guide is an artefact of the design process. A design system is a living, funded product with a roadmap &#x26; backlog, serving an ecosystem. — Nathan Curtis</p>
+</blockquote>
+<ul>
+<li>Design System does not just serve the design organization. It serves engineering, product and key stakeholders.</li>
+<li>Design System does not care about agile methodology. If it is treated like a product which it should be then it needs agile for it to be efficient.</li>
+<li>Design System is just a documentation site or a component library. No. Maintenance and support are ongoing tasks which means constantly updating documentation and supporting adopters with new features and components.</li>
+<li>Design System does not need documentation. A system can be complex depending on the size of the organization. This requires thorough documentation for adopters to understand and consume the system.</li>
+<li>Design System stops at building. Promoting the system to potential adopters is part of primary tasks.</li>
+<li>Design System is defaulted to just web platform. It can be multi-platform.</li>
+<li>Design System limits product teams from building new components. Not true. For a component to be in the system, MDS uses a 2-team rule which means there should be a need for X by more than just one team.</li>
+</ul>
+<p>A design system consists of but not limited to:</p>
+<ul>
+<li>Reusable UI Components with many variations</li>
+<li>Sketch Library (or any other tool)</li>
+<li>Visual Language Assets: Logo, Typography, Colors, Layouts, Grids, Icons, Spaces &#x26; Sizes</li>
+<li>Documentation for Engineers &#x26; Designers</li>
+<li>Accessibility Guidelines</li>
+<li>Content Guidelines</li>
+<li>Release Notes and Change Logs</li>
+<li>Contribution Guidelines</li>
+</ul>
+<p>Design system requires a change in mindset. The bullet points below are credited to Nathan Curtis.</p>
+<ul>
+<li>Component style libraries → Shared resources</li>
+<li>Standards → shared values</li>
+<li>Documentation → shared language</li>
+<li>Roadmap → shared destination</li>
+<li>Communication strategy → shared understanding</li>
+<li>Contribution → shared equity</li>
+<li>Governance → shared execution</li>
+</ul>
+<p>A few of my favorite design system below, While building components, I spent much of my time on what other systems were doing with their components. Below are a few that I frequently visited during the discovery phase.</p>
+<ul>
+<li><a href="https://designsystem.morningstar.com/">Morningstar</a></li>
+<li><a href="https://polaris.shopify.com/">Shopify</a></li>
+<li><a href="https://www.atlassian.design/">Atlassian</a></li>
+<li><a href="https://www.lightningdesignsystem.com/">Salesforce</a></li>
+<li><a href="https://www.ibm.com/design/language/">IBM</a></li>
+<li><a href="https://spotify.design/">Spotify</a></li>
+<li><a href="https://airbnb.design/">AirBnB</a></li>
+<li><a href="https://primer.style/">Github</a></li>
+</ul>
 <h2>Design legends</h2>
 <table>
 <thead>
@@ -837,12 +943,8 @@ Cassandre.</p>
 <li><a href="https://www.henrikkarlsson.xyz/p/unfolding">Everything that turned out well in my life followed the same design process</a></li>
 </ul>
 <p><em><strong>Information Architecture Resources</strong></em></p>
-<p><strong>Books</strong></p>
 <ul>
 <li><a href="https://uxuncensored.medium.com/darren-hoods-information-architecture-information-design-book-recommendation-list-8011a671c2be">Darren Hood’s Information Architecture &#x26; Information Design Book Recommendation List</a></li>
-</ul>
-<p><strong>Links &#x26; Talks</strong></p>
-<ul>
 <li><a href="https://en.wikipedia.org/wiki/Information_architecture">Wikipedia IA</a></li>
 <li><a href="https://ia.net/dictionary/i/information-architecture">iA.net</a>
 <ul>
@@ -863,6 +965,22 @@ Cassandre.</p>
 <li><a href="https://medium.com/tegus-tech/ayour-secret-weapon-to-a-good-data-model-might-be-sitting-on-your-ux-team-953e1e982103">Your secret weapon to a great data model might be sitting on your UX team</a></li>
 <li><a href="https://news.ycombinator.com/item?id=37419447">Ask HN: What are some well-designed websites?</a></li>
 <li><a href="https://www.youtube.com/watch?v=6oaxdq7uqIY">Ontology, Taxonomy and Choreography as a model for understanding information architecture. An excerpt from a half-day workshop on information architecture given by Dan Klyn for The Understanding Group</a></li>
+</ul>
+<p><em><strong>Design System Resources</strong></em></p>
+<ul>
+<li><a href="https://atomicdesign.bradfrost.com/">Atomic Design</a> by Brad Frost</li>
+<li><a href="https://eightshapes.com/components/">Component</a> by Eight Shapes</li>
+<li><a href="https://marcabraham.com/2014/10/22/priya-prakash-explains-about-design-principles-at-mobile-academy/">Design Principle</a> by Priya Prakash</li>
+<li><a href="https://dbanks.design/blog/multi-platform/">Multi-Platform</a> by Danny Banks</li>
+<li><a href="https://eightshapes.com/articles/design-system-support.html">Design System Support</a> by Nathan Curtis</li>
+<li><a href="https://medium.com/@didoo/measuring-the-impact-of-a-design-system-7f925af090f7">Measuring the Impact of Design System</a> by Cristiano Rastelli</li>
+<li><a href="https://blog.prototypr.io/ui-case-study-state-styles-of-card-component-with-accessibility-in-mind-2f30137c6108">UI Case Study</a> by Nana Jeon</li>
+<li><a href="https://medium.com/eightshapes-llc/system-features-step-by-step-e69c90982630">Design System Process</a> by Nathan Curtis</li>
+<li><a href="http://semver.org/">Semantic Versioning (Semver)</a></li>
+<li><a href="https://github.com/viljamis/vue-design-system/wiki/terminology">Vue Design System</a></li>
+<li><a href="http://news.design.systems/">Design System Newsletter</a></li>
+<li><a href="https://www.designsystems.com/">Design Systems Blog</a></li>
+<li><a href="https://github.com/alexpate/awesome-design-systems">Awesome Design Systems</a></li>
 </ul>
 </details>
 <br /></section><footer></footer></article></main><footer><hr/><p><i>Drop me a note if you are curious to chat. Newsletter goes out once a year in December.</i></p><a href="https://twitter.com/mihirchronicles"><strong>Twitter</strong></a> <span> | </span><a href="https://www.linkedin.com/in/mihirchronicles/"><strong>Linkedin</strong></a> <span> | </span><a href="https://eepurl.com/hRGv2D"><strong>Newsletter</strong></a></footer></div></div><div id="gatsby-announcer" style="position:absolute;top:0;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0" aria-live="assertive" aria-atomic="true"></div></div><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-HTPE7YS2EL"></script><script>
