@@ -8,7 +8,7 @@ path: "/notes/on-financial-markets"
 
 This is my attempt to explore topics in the area of all things related to financial markets while gaining the investment wisdom from legendary investors.
 
-Starting with a short history lesson on ownership and stock market.
+Starting with a short history lesson on stock ownership and stock market.
 
 In the 1600s, the Dutch East India Company employed hundreds of ships to trade gold, spices, and silk around the globe. But running this massive operation wasn’t cheap. In order to fund their expensive voyages, the company turned to private citizens–individuals who could invest money to support the trip in exchange for a share of the ship’s profits. This practice allowed the company to afford even grander voyages, increasing profits for both themselves and their savvy investors. Selling these shares in coffee houses and shipping ports across the continent, the Dutch East India Company unknowingly invented the world’s first stock market. 
 
@@ -36,7 +36,9 @@ A patient investor is also not ideologically driven. He or she is open to change
 
 | Name | Bio | 
 | -------------|:-------------:|
-| _Inflation_ | The rate of increase in prices over a given period of time which drives cost of living and policy creation both at fiscal and monetary level. |
+| _Inflation_ | Inflation is the rate at which the general level of prices for goods and services rises over time, resulting in a decrease in the purchasing power of money. |
+| _S&P500_ | The S&P 500, officially known as the Standard & Poor’s 500 Index, is a stock market index that tracks the performance of 500 of the largest publicly traded companies in the United States. |
+| _Donor Advised Funds (DAFs)_ | A Donor-Advised Fund (DAF) is a charitable giving account established at a public charity, known as the sponsoring organization, which manages and administers the fund on behalf of the donor. When you contribute cash, securities, or other assets to a DAF, you are generally eligible for an immediate tax deduction. The assets in the DAF can then be invested for tax-free growth, and you can recommend grants from your fund to any eligible IRS-qualified public charity at any time. |
 
 <details>
     <summary><strong>Inflation</strong></summary>
@@ -196,6 +198,20 @@ But money supply alone won't fix it. Income needs to grow faster than the debt g
 If income begin to rise, borrowers begin to appear more creditworthy. When borrowers appear more creditworthy, lenders begin to lend money again. Debt burden begins to fall. The economy begins to grow again, getting the economy back to the right trajectory of the long term debt cycle. 
 
 This is why balancing growth rate and interest rate is critical for policymakers.
+
+</details>
+<br>
+
+<details>
+    <summary><strong>S&P500</strong></summary>
+    <br>
+
+</details>
+<br>
+
+<details>
+    <summary><strong>Donor Advised Funds (DAFs)</strong></summary>
+    <br>
 
 </details>
 <br>
