@@ -97,7 +97,6 @@ William Bernstein’s shares a collection of pivotal historical events which ill
     - The General Agreement on Tariffs and Trade (GATT) attempted lower tariffs. The use of stacked shipping containers (by Malcolm McLean) lowered shipping substantially. 
     - The United States embraced free trade in the post-war years, but globalization has also created dangerous inequality.
 
-
 ## III. Quotes
 - Our urge to trade has profoundly affected the trajectory of the human species. Simply by allowing nations to concentrate on producing those things that their geographic, climatic, and intellectual endowments best enable them to do, and to exchange those goods for what is best produced elsewhere, trade has directly propelled our global prosperity.
 - What investment banking is to the ambitious and acquisitive today, the pepper trade was to the Romans—the most direct route to great riches.
