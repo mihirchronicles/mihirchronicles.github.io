@@ -791,7 +791,6 @@ The analytics framework presented in Lean Analytics takes many of the stages in 
 _Source_: https://leananalyticsbook.com/the-lean-gates-of-analytics/
 
 </details>
-<br>
 
 ## Further reading
 <details>

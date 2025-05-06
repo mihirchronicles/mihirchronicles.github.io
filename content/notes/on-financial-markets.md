@@ -203,8 +203,63 @@ This is why balancing growth rate and interest rate is critical for policymakers
 <br>
 
 <details>
-    <summary><strong>S&P500</strong></summary>
+    <summary><strong>S&P 500</strong></summary>
     <br>
+
+The S&P 500 is one of the most influential financial benchmarks in the world serving as both a barometer for the U.S. economy and the foundation for trillions of dollars in passive investments.
+
+The academic research in the 1960s, particularly the emerging Efficient Market Hypothesis was the genesis of index funds. It suggested that market prices reflect all available information, making it difficult for active managers to consistently outperform the market through stock selection.
+
+The first theoretical model for an index fund was proposed in 1960 by Edward Renshaw and Paul Feldstein, both students at the University of Chicago. Their concept of an “Unmanaged Investment Company” garnered little support at the time but planted the seeds for what would become one of the most transformative financial innovations of the 20th century.
+
+The journey from theory to practice began in the early 1970s with several pioneering efforts:
+
+- In 1971, Wells Fargo launched one of the first index funds, initially consisting of equal weightings of all stocks listed on the New York Stock Exchange (approximately 1,500 companies). However, this approach proved unwieldy due to constant rebalancing requirements and excessive transaction costs.
+- In 1972, Qualidex Fund, Inc., established by Richard A. Beach, created an early index fund tracking the Dow Jones Industrial Average.
+- By 1973, Wells Fargo had shifted to a more practical approach, launching a market-cap weighted S&P 500 fund as a closed-end vehicle for institutional investors.
+- In the same year, Rex Sinquefield at American National Bank of Chicago developed another S&P 500 index fund for institutional investors, with the New York Telephone Company becoming its first major client.
+
+The early attempts were restricted to institutional investors and weren’t available to the general public. The true revolution in index investing came with John C. Bogle, whose vision would democratize access to diversified market returns. Bogle, who graduated from Princeton in 1951 with a thesis titled “The Economic Role of the Investment Company,” founded The Vanguard Group in 1974 after being fired from Wellington Management.
+
+Bogle was influenced by several key sources:
+
+- Paul Samuelson’s 1974 paper “Challenge to Judgment”
+- Charles Ellis’ 1975 study “The Loser’s Game”
+- Academic research demonstrating that most active managers failed to outperform the market after accounting for fees
+
+On December 31, 1975, Bogle launched the First Index Investment Trust (later renamed the Vanguard 500 Index Fund), the first index fund available to individual investors. The fund was designed to track the returns of the S&P 500 at minimal cost, eliminating the need for expensive active management. The fund’s debut was far from success. It raised only $11 million in its initial public offering, compared to expectations of $150 million.
+
+Industry peers decried the concept, with Fidelity Investments Chairman Edward Johnson famously stating he “couldn’t believe that the great mass of investors are going to be satisfied with receiving just average returns”. Some even called it “un-American” and “Bogle’s folly.”
+
+Bogle’s index fund concept gradually gained traction as evidence mounted that most active managers failed to beat their benchmarks after fees. The Vanguard 500 Index Fund crossed the $100 billion milestone in November 1999 and surpassed Fidelity’s Magellan Fund to become the largest mutual fund in 2000, a milestone Bogle had predicted in 1992.
+
+By [2014](https://en.wikipedia.org/wiki/Index_fund), index funds constituted 20.2% of equity mutual fund assets in the United States. From 2007 through 2014, index domestic equity mutual funds and ETFs received $1 trillion in net new cash (including reinvested dividends), while actively managed domestic equity mutual funds experienced a net outflow of $659 billion. 
+
+The S&P 500 is a market-capitalization weighted stock index designed to measure the performance of 500 leading publicly-traded companies in the United States. It captures approximately 80% of the available market capitalization of the U.S. equity market, making it one of the most comprehensive gauges of large-cap American stocks. 
+
+It is not a strict rule based index. The S&P 500 is maintained by a committee that selects constituents based on specific criteria while also exercising discretion to ensure the index remains representative of the broader market.
+
+The index value methodology: total market capitalization of all constituent companies divided by a proprietary divisor (approximately 8.3 billion). This divisor is periodically adjusted to ensure that corporate actions like stock splits or changes in the index composition don’t artificially affect the index value. The purpose of the index divisor is to maintain the continuity of an index.
+
+The S&P 500 index is a free-float market capitalization-weighted index, meaning that companies with larger available market capitalization have proportionally greater influence on the index’s movements.
+
+Here are the eligibility requirements for constituent companies:
+
+- **Market Capitalization**: As of January 2, 2025, companies must have a total market capitalization of at least $20.5 billion. This threshold has increased substantially over time to reflect market growth.
+- **Liquidity**: The company must have a float-adjusted liquidity ratio (FALR) greater than 0.75, calculated as the annual dollar value traded divided by float-adjusted market capitalization.
+- **Trading Volume**: The stock must trade a minimum of 250,000 shares in each of the six months leading up to evaluation.
+- **Financial Viability**: The sum of the most recent four consecutive quarters’ GAAP earnings must be positive, as should the most recent quarter.
+- **Domicile and Listing**: Must be a U.S. domiciled company listed on eligible U.S. exchanges such as NYSE, Nasdaq, or CBOE.
+- **Public Float**: At least 50% of the company’s total shares must be available to the public.
+- **Security Type**: Only common equity securities are eligible; preferred stocks, LLPs, MLPs, closed-end funds, ETFs, and several other security types are explicitly excluded.
+
+S&P 500 undergoes regular maintenance to ensure it continues to represent the target market segment accurately. Share counts are updated quarterly based on the latest publicly available filings. While there is no scheduled reconstitution (rebalance) of the index, changes in response to corporate actions and market developments can occur at any time, with announcements typically made at least three business days in advance.
+
+There are several key advantages of the S&P 500 index—costs, low turnover, tax efficiency, liquidity, and no style drift. Because index funds follow a passive strategy that simply tracks a market benchmark rather than attempting to outperform it, they typically charge much lower fees than actively managed funds. Index funds typically have lower portfolio turnover, meaning they buy and sell securities less frequently than actively managed funds. This can result in greater tax efficiency and lower transaction costs. Unlike actively managed funds that might deviate from their stated investment style in pursuit of higher returns, index funds maintain consistent exposure to their target market segments, providing more reliable portfolio diversification.
+
+On the flip side, smaller firms with high growth potential may be underrepresented. From 2010 to 2020, the Russell 2000 (a small-cap index) outperformed the S&P 500 in six years, yet its impact on broader indices remained minimal due to its smaller weight. It also fails to adapt to disruptive trends. For example, the S&P 500 excluded Tesla until 2020, despite its dominance in electric vehicles, because it lacked consistent profitability. Critics also argue that market-cap weighting inherently over allocates to overpriced stocks. During the dot-com bubble, for instance, the S&P 500’s heavy tech weighting amplified losses when the sector collapsed.
+
+The concept pioneered by Bogle-providing low-cost, diversified exposure to markets-has expanded well beyond the original S&P 500 index fund. Today, investors can access index funds targeting virtually any market segment, geography, or asset class, from total stock market indices to specialized sector funds, international markets, fixed income, and more.
 
 </details>
 <br>
@@ -214,7 +269,6 @@ This is why balancing growth rate and interest rate is critical for policymakers
     <br>
 
 </details>
-<br>
 
 ## Investing legends
 

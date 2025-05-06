@@ -2863,7 +2863,6 @@ When we are not treated fairly, we often become angry or frustrated. The pursuit
 
  <br>
 </details>
-<br>
 
 ## Further reading
 <details>
