@@ -252,9 +252,9 @@ Communication is an attitude of openness towards the other. It is an art that dr
 - Long form communication helps you think deeply and broadly.
 - Meetings should be a last resort.
 
-The last point brings me to next topic on how to run effective meetings if you are going to use them.
+**Effective meetings**
 
-Meetings aren't work. This social aspect of work is required for complex decision-making where no single person holds the entire context regarding a topic being discussed. Disciplined meetings are run by responsible players on the team to ensure no one's time is wasted. Tips on how you run meetings:
+The last point brings me to next topic on how to run effective meetings if you are going to use them. Meetings aren't work. This social aspect of work is required for complex decision-making where no single person holds the entire context regarding a topic being discussed. Disciplined meetings are run by responsible players on the team to ensure no one's time is wasted. Tips on how you run meetings:
 
 - If you are in a managerial role—your job is to gather information, relay information or make a decision as a team. And everyone on the team is being paid to attend the meeting to make progress on items that need decisions. Regard attendance as showing up for work.
 - Consider yourself a *chairperson* of a meeting. You are responsible for the effectiveness of every meeting. If they are not running smoothly, the *chairperson* is to be blamed, not the attendees or the subordinates.
@@ -266,6 +266,33 @@ Meetings aren't work. This social aspect of work is required for complex decisio
 - As a chairperson, it is your responsibility to be a timekeeper and keep the discussion moving. 
 - Be cautious of tabling items if a decision needs to be reached. It is okay to table items if further insight or people are needed to make a decision. However, it is a responsibility of a decision maker to make decisions if there are varying opinions on how to get something done. Coming together and not making any decision in spite of all information being available is costly.
 - Once the meeting is over, the chairperson is responsible to send out notes on what was discussed and the outcomes for each one of the agenda items. Ensure each outcome is timestamped and accessible for everyone on the team, so the team can go back and visit. This should be done within a reasonable time.
+
+**Effective email**
+
+Below are the elements required for a good email to emphasize rigorous thinking and delivering the right level of detail to ensure communication is effective and strategically aligned with expectations of decision makers.
+
+- Summarize the draft in 1–3 bullet points. Provide 2–3 specific, actionable recommendations in concise bullet points. Each recommendation should address one of the areas:
+    - *Structure*: Evaluates how clearly the email is organized to ensure the executive can quickly locate key information.
+    - *Clarity*: Considers conciseness and ease of understanding, ensuring each sentence provides value without unnecessary detail.
+    - *Level of Detail*: Balances information with brevity, avoiding overwhelming detail while providing enough context for decision-making.
+    - *Tone*: Reflects a confident, professional tone that acknowledges challenges without downplaying them, guiding the executive's emotional response as appropriate.
+
+For example:
+- *Recommendation*: Add a specific action-oriented next step instead of asking for general feedback.
+- *Original*: “Please let me know if you’d like me to dive deeper into any of these areas.”
+- *Suggested Rewrite*: “I recommend focusing on (1) optimizing math module instructions and (2) enhancing module load times for mobile retention. These changes address our key engagement issues, with expected improvements based on initial testing (e.g., 4% increase in mobile retention). Let me know if you’d like us to proceed with this approach for our next iteration.”
+
+Follow the principles below for writing effective emails
+
+- *Be Concise and Focused*: Ensure every sentence adds value. Use bullet points or numbered lists to highlight key information for easy scanning.
+- *Maintain Clear Structure*: Organize content into logical sections with clear headings or bullets so that critical information is immediately accessible.
+- *Use Action-Oriented Language*: Clearly state required actions, expected outcomes, and deadlines. Be specific about what needs to be done, by whom, and when.
+- *Adopt a Professional Tone*: Communicate with confidence and clarity. Be transparent about challenges, presenting both risks and solutions to foster trust.
+- *Provide Specific Recommendations*: Offer a preferred course of action with supporting rationale, rather than posing open-ended questions. Use data to justify your recommendation and explain why it’s the best option.
+- *Guide Emotional Response*: Use tone and phrasing to signal the appropriate level of urgency or positivity, especially when delivering difficult messages.
+- *Include the Right Level of Detail*: Prioritize the most important information in the body of the email. Offer additional details-such as design files or data tables-as attachments or links.
+- *Demonstrate Rigorous Thinking*: Back up proposals with data, consider potential risks, and suggest alternatives. Ensure recommendations are logical and well-founded.
+- *Ask Strategic Questions*: When needed, frame questions to include potential upsides, downsides, and constraints, supporting well-informed decision-making.
 
 ## Further reading
 <details>
@@ -324,6 +351,7 @@ Meetings aren't work. This social aspect of work is required for complex decisio
     - [37 Signals on Communication](https://37signals.com/how-we-communicate)
     - [The Endgames of Bad Faith Communication](https://consilienceproject.org/the-endgames-of-bad-faith-communication/)
     - [The Science of Having a Great Conversation](https://www.wired.com/story/the-science-of-having-a-great-conversation-research-social-connection/)
+    - [Hilary Gridley’s Supermanager Prompts](https://docs.google.com/document/d/1PyfwLZcSxENRc3CGptPKRWS7k33vf2h_ELG4lA2AZD4/edit?tab=t.0)
 
 </details>
 <br />

@@ -215,7 +215,8 @@ Below are a few major providers of LLM models.
 | [_Nvidia_](https://developer.nvidia.com/ai-models) | NVIDIA is at the forefront of generative AI research, launching groundbreaking models like Nemotron-4 340B, Megatron-Turing NLG 530B, NVLM 1.0, StyleGAN, GauGAN, eDiff-I, and many more. These generative models are pre-trained for efficient enterprise application development. |
 
 ## AI log
-- **Prompting**: It means instructions in the context of AI to produce a specific output. The more effective you are in your prompting (instructions) the more relevant response you will get from LLMs and chatbots. This process is crucial for maximizing the utility of AI systems.
+- **AI Prototyping**: Work in progress
+- **Prompting for Product Managers**: It means instructions in the context of AI to produce a specific output. The more effective you are in your prompting (instructions) the more relevant response you will get from LLMs and chatbots. This process is crucial for maximizing the utility of AI systems.
     - Useful resources on prompt engineering:
         - [Prompt Engineering by Lee Boonstra from Google](https://www.kaggle.com/whitepaper-prompt-engineering) 
         - [Prompt Engineering Overview by Anthropic](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
@@ -453,6 +454,7 @@ Below are a few major providers of LLM models.
 - [Scaling Laws – O1 Pro Architecture, Reasoning Training Infrastructure, Orion and Claude 3.5 Opus “Failures”](https://semianalysis.com/2024/12/11/scaling-laws-o1-pro-architecture-reasoning-training-infrastructure-orion-and-claude-3-5-opus-failures/)
 - [The State of Generative Models](https://nrehiew.github.io/blog/2024/)
 - [The architecture of today’s LLM applications by Github](https://github.blog/ai-and-ml/llms/the-architecture-of-todays-llm-applications/)
+- [Product manager is an unfair role. So work unfairly](https://www.lennysnewsletter.com/p/product-manager-is-an-unfair-role)
 
 **Notable Blogs**
 - [Ethan Mollick, Professor at the Wharton School](https://substack.com/@oneusefulthing)
