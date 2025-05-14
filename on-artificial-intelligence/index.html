@@ -151,6 +151,110 @@
 </table>
 <h2>AI log</h2>
 <ul>
+<li><strong>Prompting</strong>: It means instructions in the context of AI to produce a specific output. The more effective you are in your prompting (instructions) the more relevant response you will get from LLMs and chatbots. This process is crucial for maximizing the utility of AI systems.
+<ul>
+<li>Useful resources on prompt engineering:
+<ul>
+<li><a href="https://www.kaggle.com/whitepaper-prompt-engineering">Prompt Engineering by Lee Boonstra from Google</a></li>
+<li><a href="https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview">Prompt Engineering Overview by Anthropic</a></li>
+</ul>
+</li>
+<li>As a product manager, I want to maximize context sharing so we can speed up the project execution. PMs have a ton of context. They spend all day sharing it in meetings, emails and chats. That is a lot of typing. What if we kill this redundancy? Speech-to-text dictation has dramatically improved in recent years with the introduction of context-based models such as OpenAI’s <a href="https://openai.com/index/whisper/">Whisper model</a>. You can use Whisper natively using ChatGPT or lightweight tools such as <a href="https://betterdictation.com">BetterDictation</a> or <a href="https://superwhisper.com">Superwhisper</a>. You’ll be able to transfer context to LLMs in the same natural way you do to your teammates using text-to-speech models.
+<ul>
+<li>
+<details>
+  <summary><strong>PRD Template</strong></summary>
+  <br>
+<p><code class="language-text">You are an expert product manager and I need your help to articulate my thoughts into a PRD. I’m going to give you the template and then I’m going to later tell you all the context that I have in my head, and you’re going to help me structure the document. Do you understand?</code></p>
+<p><em>[hit enter]</em></p>
+<ul>
+<li><code class="language-text"># Objective</code></li>
+<li><code class="language-text"># Target customer</code></li>
+<li><code class="language-text"># How this connects to company strategy</code></li>
+<li><code class="language-text"># What we believe</code></li>
+<li><code class="language-text"># Solution constraints and principles</code></li>
+<li><code class="language-text"># [other sections from your preferred template]</code></li>
+</ul>
+<p><em>[hit enter]</em></p>
+<p><em>[dictate your thoughts on the above sections using speech-to-text]</em></p>
+  </details>
+</li>
+<li>
+<details>
+  <summary><strong>User Stories</strong></summary>
+  <br>
+<p><code class="language-text">You are an expert product manager and product owner. I will describe functionality to you, and you will provide a user story following the user story template that follows, paying close attention to line breaks. Do you understand and are you ready?</code></p>
+<ul>
+<li><code class="language-text">User Story Template [pick your favorite]:</code></li>
+<li><code class="language-text"># Story</code>
+<ul>
+<li><code class="language-text">As a &lt;type of user>,</code></li>
+<li><code class="language-text">I want to &lt;perform some task>,</code></li>
+<li><code class="language-text">so that I can &lt;achieve some goal>.</code></li>
+</ul>
+</li>
+<li><code class="language-text"># Objectives</code>
+<ul>
+<li><code class="language-text">&lt;text></code></li>
+</ul>
+</li>
+<li><code class="language-text"># Acceptance criteria</code>
+<ul>
+<li><code class="language-text">1. Given &lt;some context>,</code>
+<ul>
+<li><code class="language-text">When &lt;some action is carried out>,</code></li>
+<li><code class="language-text">Then &lt;a set of observable outcomes should occur></code></li>
+</ul>
+</li>
+<li><code class="language-text">2. …</code></li>
+</ul>
+</li>
+<li><code class="language-text"># Tech notes</code>
+<ul>
+<li><code class="language-text">(leave empty)</code></li>
+</ul>
+</li>
+<li><code class="language-text"># Grooming Q&amp;A</code>
+<ul>
+<li><code class="language-text">(leave empty)</code></li>
+</ul>
+</li>
+</ul>
+<p><em>[hit enter]</em></p>
+<p><em>[Look at the Figma prototype in another window for convenience, and describe out loud one user story at a time using Whisper speech-to-text, then hit enter]</em></p>
+  </details>
+</li>
+<li>
+<details>
+  <summary><strong>Blog Post on Feature Release</strong></summary>
+  <br>
+<p><code class="language-text">Please help me take my dictated notes and organize them into a well-structured blog post [optional: adding/changing headings where necessary]. Retain as much of the ideas in my notes as possible so they’re all included in the final product. Maintain the authentic tone and phrasing I would use—do not make it sound like it was written by an AI or ChatGPT. Preserve any quotations or citations of others as exact quotes. Otherwise, please make this as well-organized, cohesive, amazing, and readable as possible.</code></p>
+<ul>
+<li>
+<p><code class="language-text">--</code></p>
+<ul>
+<li><code class="language-text">[Optional section] Use these headings:</code>
+<ul>
+<li><code class="language-text"># first heading</code></li>
+<li><code class="language-text"># second heading# etc.</code></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code class="language-text">--</code></p>
+<ul>
+<li><code class="language-text">Here are the notes:</code></li>
+</ul>
+</li>
+</ul>
+<p><em>[open an outline and/or verbalize your thoughts out loud using Whisper speech-to-text]</em></p>
+  </details>
+</li>
+</ul>
+</li>
+</ul>
+</li>
 <li><strong>Stable Diffusion</strong>: A generative artificial intelligence (generative AI) model that produces unique photorealistic images from text and image prompts. It originally launched in 2022. Besides images, you can also use the model to create videos and animations. The model is based on diffusion technology and uses latent space. This significantly reduces processing requirements, and you can run the model on desktops or laptops equipped with GPUs. Stable Diffusion can be fine-tuned to meet your specific needs with as little as five images through transfer learning. I have used this model to generate posters in the style of combination from multiple artists (for example, Jacqueline Casey and Charley Harper). Once you have the output, you can apply <a href="https://huggingface.co/spaces/doevent/Face-Real-ESRGAN">AI scaling</a> to increase resolution. And then you can trace vector graphics with any autotrace tool. <a href="https://huggingface.co/stabilityai">Playground for Stable Diffusion models by Stability AI</a>. More on <a href="https://huggingface.co/docs/diffusers/en/index">diffusers</a>.</li>
 <li><strong>Voice Agents</strong>: New, multi-modal models like GPT-4o may power more natural conversational interfaces to reach true human-like quality. To function, voice agents need to ingest human speech (ASR), process this input with an LLM and return an output, and then speak back to the human (TTS). These models can be used for customer support calls to support busy tax season or end of year donations to charities. For example, Empathic Large Language Model (eLLM) is a conversational AI with emotional intelligence. This eLLM allows Hume's EVI to analyze vocal cues like pitch and tone, providing valuable insights into the user’s emotional state. With this information, EVI can tailor its responses to be more helpful, supportive, or even calming, depending on the situation. AI assistants for voice agents — <a href="https://www.hume.ai">Hume</a>, <a href="https://www.retellai.com">Retell</a>, <a href="https://vapi.ai">Vapi</a>, <a href="https://www.bland.ai">Bland</a>, <a href="https://play.ht">Play</a>, <a href="https://www.sindarin.tech">Sindarin</a>.</li>
 <li><strong>Optical Character Recognition (OCR)</strong>: Extract text and data from images and documents, turn unstructured content into a business-ready structured data, and unlock valuable insights. OCR usecase — take a screenshot of Tableau dashboard and generate a one-page business summary. AI assistants and models for OCR — <a href="https://huggingface.co/spaces/OpenGVLab/InternVL">InternVL</a>, <a href="https://cloud.google.com/use-cases/ocr">Google OCR</a>, <a href="https://aws.amazon.com/what-is/ocr/#:~:text=Optical%20Character%20Recognition%20(OCR)%20is,words%20in%20the%20image%20file.">Amazon OCR</a>, <a href="https://research.facebook.com/publications/textocr-towards-large-scale-end-to-end-reasoning-for-arbitrary-shaped-scene-text/">Meta TextOCR</a>, <a href="https://github.com/Nutlope/llama-ocr">Llama OCR</a>.</li>
