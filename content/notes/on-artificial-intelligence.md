@@ -215,9 +215,9 @@ Below are a few major providers of LLM models.
 | [_Nvidia_](https://developer.nvidia.com/ai-models) | NVIDIA is at the forefront of generative AI research, launching groundbreaking models like Nemotron-4 340B, Megatron-Turing NLG 530B, NVLM 1.0, StyleGAN, GauGAN, eDiff-I, and many more. These generative models are pre-trained for efficient enterprise application development. |
 
 ## AI log
-- **AI Prototyping**
+- **AI Prototyping**: AI prototyping is changing the way product teams work. Instead of spending weeks or months waiting for a feature to ship, you can build a prototype and get immediate feedback. Ship an internal tool in a day and see if it actually solves a problem. Sketch a mockup on a whiteboard and turn it into an app the same day. 1) v0 for beautiful designs. 2) Bolt for quick prototypes using design specs. 3) Replit for internal or data-driven tools. 4) Lovable for building production apps.
     - <details>
-        <summary><strong>Build a prototype from an existing Figma design or a screenshot</strong></summary>
+        <summary><strong>Build a prototype from Figma design or a screenshot using Bolt</strong></summary>
         <br>
 
         **Prompt:** `Build a prototype to match this design. Match it exactly. Use Tailwindcss. Match styles, fonts, spacing, and colors.`
@@ -230,16 +230,40 @@ Below are a few major providers of LLM models.
         </details>
 
     - <details>
-        <summary><strong>TBD</strong></summary>
+        <summary><strong>Build a functional prototype using V0</strong></summary>
         <br>
 
-        **Prompt:** ``
+        **Prompt:** `Build a prototype for [x]. This tool should have the following behaviors: [Behavior 1],[Behavior 2] and [Behavior 3]. Implement a simple initial iteration that meets these exact requirements.`
 
-        *[]*
-
-        **Tool:** 
+        *[Provide a wireframe]*
         
-        **Example:** [s](t)
+        **Tool:** [V0](https://v0.dev/)
+        
+        **Example:** Build a grant tracker based on YTD donation.
+        </details>
+    - <details>
+        <summary><strong>Build a dashboard to visualize data using Replit</strong></summary>
+        <br>
+
+        **Prompt:** `Build a prototype for [x]. Use Python and Streamlit.`
+
+        *[Provide a wireframe]*
+
+        **Tool:** [Replit](https://replit.com)
+        
+        **Example:** Build an adoption dashboard for every feature launch.
+        </details>
+    - <details>
+        <summary><strong>Building a web app using Lovable</strong></summary>
+        <br>
+
+        **Prompt:** `Build a web app to track fintech companies that are pinned on a [city] map using Mapbox. Allow users to add a new fintech company based on name and address. Allow users to filter the companies based on neighborhoods of a [city].`
+
+        *[Provide a wireframe]*
+
+        **Tool:** [Lovable](https://lovable.dev)
+        
+        **Example:** [Fintech Community](https://nyc.cambrian.vc)
         </details>
 - **Prompting for Product Managers**: It means instructions in the context of AI to produce a specific output. The more effective you are in your prompting (instructions) the more relevant response you will get from LLMs and chatbots. This process is crucial for maximizing the utility of AI systems. Useful resources on prompt engineering: [Prompt Engineering by Lee Boonstra from Google](https://www.kaggle.com/whitepaper-prompt-engineering) and [Prompt Engineering Overview by Anthropic](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview). As a product manager you can maximize context sharing using AI tools so you can speed up project execution. PMs have a ton of context. They spend all day sharing it in meetings, emails and chats. That is a lot of typing. What if we kill this redundancy? Speech-to-text dictation has dramatically improved in recent years with the introduction of context-based models such as OpenAI’s [Whisper model](https://openai.com/index/whisper/). You can use Whisper natively using ChatGPT or lightweight tools such as [BetterDictation](https://betterdictation.com) or [Superwhisper](https://superwhisper.com). You’ll be able to transfer context to LLMs in the same natural way you do to your teammates using text-to-speech models. 
     - <details>
