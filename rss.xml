@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 14 May 2025 14:46:20 GMT</lastBuildDate><item><title><![CDATA[Who Defines The Scope]]></title><link>https://mihirchronicles.com/who-defines-the-scope/</link><guid isPermaLink="false">https://mihirchronicles.com/who-defines-the-scope/</guid><pubDate>Sun, 11 May 2025 00:00:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[A Splendid Exchange | How Trade Shaped The World by William J. Bernstein]]></title><description><![CDATA[I. Brief Summary William Bernstein’s shares a collection of pivotal historical events which illustrates the profound impact of trade on…]]></description><link>https://mihirchronicles.com/a-splendid-exchange/</link><guid isPermaLink="false">https://mihirchronicles.com/a-splendid-exchange/</guid><pubDate>Tue, 29 Apr 2025 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;I. Brief Summary&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 14 May 2025 21:40:13 GMT</lastBuildDate><item><title><![CDATA[Who Defines The Scope]]></title><link>https://mihirchronicles.com/who-defines-the-scope/</link><guid isPermaLink="false">https://mihirchronicles.com/who-defines-the-scope/</guid><pubDate>Sun, 11 May 2025 00:00:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[A Splendid Exchange | How Trade Shaped The World by William J. Bernstein]]></title><description><![CDATA[I. Brief Summary William Bernstein’s shares a collection of pivotal historical events which illustrates the profound impact of trade on…]]></description><link>https://mihirchronicles.com/a-splendid-exchange/</link><guid isPermaLink="false">https://mihirchronicles.com/a-splendid-exchange/</guid><pubDate>Tue, 29 Apr 2025 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;I. Brief Summary&lt;/h2&gt;
 &lt;p&gt;William Bernstein’s shares a collection of pivotal historical events which illustrates the profound impact of trade on human enterprise, shaping societies, economies, and cultures. Bernstein explores the interplay between various entities in global trade development, including religion, royal communities, merchants, governments, and militaries. The book explores the conflict between free trade, characterized by low tariffs, and protectionism, which advocates for high tariffs. Bernstein’s exposition of global commerce is both insightful and informative, providing a valuable understanding of the complexities and dynamics of international trade.&lt;/p&gt;
 &lt;h2&gt;II. Big Ideas&lt;/h2&gt;
 &lt;ul&gt;
@@ -317,16 +317,31 @@
 &lt;/table&gt;
 &lt;h2&gt;AI log&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;AI Prototyping&lt;/strong&gt;: Work in progress&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Prompting for Product Managers&lt;/strong&gt;: It means instructions in the context of AI to produce a specific output. The more effective you are in your prompting (instructions) the more relevant response you will get from LLMs and chatbots. This process is crucial for maximizing the utility of AI systems.
+&lt;li&gt;&lt;strong&gt;AI Prototyping&lt;/strong&gt;
 &lt;ul&gt;
-&lt;li&gt;Useful resources on prompt engineering:
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.kaggle.com/whitepaper-prompt-engineering&quot;&gt;Prompt Engineering by Lee Boonstra from Google&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview&quot;&gt;Prompt Engineering Overview by Anthropic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;details&gt;
+  &lt;summary&gt;&lt;strong&gt;Build a prototype from an existing Figma design or a screenshot&lt;/strong&gt;&lt;/summary&gt;
+  &lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Prompt:&lt;/strong&gt; &lt;code class=&quot;language-text&quot;&gt;Build a prototype to match this design. Match it exactly. Use Tailwindcss. Match styles, fonts, spacing, and colors.&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;[Include a single screenshot from Figma or your favorite site]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tool:&lt;/strong&gt; &lt;a href=&quot;https://bolt.new&quot;&gt;Bolt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; &lt;a href=&quot;https://symphonious-fudge-0b7fb4.netlify.app/&quot;&gt;Mihirchronicles Landing Page&lt;/a&gt;&lt;/p&gt;
+  &lt;/details&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;details&gt;
+  &lt;summary&gt;&lt;strong&gt;TBD&lt;/strong&gt;&lt;/summary&gt;
+  &lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Prompt:&lt;/strong&gt; ``&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;[]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tool:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; &lt;a href=&quot;t&quot;&gt;s&lt;/a&gt;&lt;/p&gt;
+  &lt;/details&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;As a product manager, I want to maximize context sharing so we can speed up the project execution. PMs have a ton of context. They spend all day sharing it in meetings, emails and chats. That is a lot of typing. What if we kill this redundancy? Speech-to-text dictation has dramatically improved in recent years with the introduction of context-based models such as OpenAI’s &lt;a href=&quot;https://openai.com/index/whisper/&quot;&gt;Whisper model&lt;/a&gt;. You can use Whisper natively using ChatGPT or lightweight tools such as &lt;a href=&quot;https://betterdictation.com&quot;&gt;BetterDictation&lt;/a&gt; or &lt;a href=&quot;https://superwhisper.com&quot;&gt;Superwhisper&lt;/a&gt;. You’ll be able to transfer context to LLMs in the same natural way you do to your teammates using text-to-speech models.
+&lt;li&gt;&lt;strong&gt;Prompting for Product Managers&lt;/strong&gt;: It means instructions in the context of AI to produce a specific output. The more effective you are in your prompting (instructions) the more relevant response you will get from LLMs and chatbots. This process is crucial for maximizing the utility of AI systems. Useful resources on prompt engineering: &lt;a href=&quot;https://www.kaggle.com/whitepaper-prompt-engineering&quot;&gt;Prompt Engineering by Lee Boonstra from Google&lt;/a&gt; and &lt;a href=&quot;https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview&quot;&gt;Prompt Engineering Overview by Anthropic&lt;/a&gt;. As a product manager you can maximize context sharing using AI tools so you can speed up project execution. PMs have a ton of context. They spend all day sharing it in meetings, emails and chats. That is a lot of typing. What if we kill this redundancy? Speech-to-text dictation has dramatically improved in recent years with the introduction of context-based models such as OpenAI’s &lt;a href=&quot;https://openai.com/index/whisper/&quot;&gt;Whisper model&lt;/a&gt;. You can use Whisper natively using ChatGPT or lightweight tools such as &lt;a href=&quot;https://betterdictation.com&quot;&gt;BetterDictation&lt;/a&gt; or &lt;a href=&quot;https://superwhisper.com&quot;&gt;Superwhisper&lt;/a&gt;. You’ll be able to transfer context to LLMs in the same natural way you do to your teammates using text-to-speech models.
 &lt;ul&gt;
 &lt;li&gt;
 &lt;details&gt;
@@ -417,8 +432,6 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;[open an outline and/or verbalize your thoughts out loud using Whisper speech-to-text]&lt;/em&gt;&lt;/p&gt;
   &lt;/details&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
