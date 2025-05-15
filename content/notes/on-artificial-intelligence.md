@@ -215,7 +215,7 @@ Below are a few major providers of LLM models.
 | [_Nvidia_](https://developer.nvidia.com/ai-models) | NVIDIA is at the forefront of generative AI research, launching groundbreaking models like Nemotron-4 340B, Megatron-Turing NLG 530B, NVLM 1.0, StyleGAN, GauGAN, eDiff-I, and many more. These generative models are pre-trained for efficient enterprise application development. |
 
 ## AI log
-- **AI Prototyping**: AI prototyping is changing the way product teams work. Instead of spending weeks or months waiting for a feature to ship, you can build a prototype and get immediate feedback. Ship an internal tool in a day and see if it actually solves a problem. Sketch a mockup on a whiteboard and turn it into an app the same day. 1) v0 for beautiful designs. 2) Bolt for quick prototypes using design specs. 3) Replit for internal or data-driven tools. 4) Lovable for building production apps.
+- **AI Prototyping**: AI prototyping is changing the way product teams work. Instead of spending weeks or months waiting for a feature to ship, you can build a prototype and get immediate feedback. Ship an internal tool in a day and see if it actually solves a problem. Sketch a mockup on a whiteboard and turn it into an app the same day.
     - <details>
         <summary><strong>Build a prototype from Figma design or a screenshot using Bolt</strong></summary>
         <br>
@@ -230,19 +230,19 @@ Below are a few major providers of LLM models.
         </details>
 
     - <details>
-        <summary><strong>Build a functional prototype using V0</strong></summary>
+        <summary><strong>Build a functional prototype using V0 for slick designs</strong></summary>
         <br>
 
         **Prompt:** `Build a prototype for [x]. This tool should have the following behaviors: [Behavior 1],[Behavior 2] and [Behavior 3]. Implement a simple initial iteration that meets these exact requirements.`
 
         *[Provide a wireframe]*
-        
+
         **Tool:** [V0](https://v0.dev/)
         
         **Example:** Build a grant tracker based on YTD donation.
         </details>
     - <details>
-        <summary><strong>Build a dashboard to visualize data using Replit</strong></summary>
+        <summary><strong>Build an internal dashboard to visualize data using Replit</strong></summary>
         <br>
 
         **Prompt:** `Build a prototype for [x]. Use Python and Streamlit.`
@@ -254,7 +254,7 @@ Below are a few major providers of LLM models.
         **Example:** Build an adoption dashboard for every feature launch.
         </details>
     - <details>
-        <summary><strong>Building a web app using Lovable</strong></summary>
+        <summary><strong>Build a production app using Lovable</strong></summary>
         <br>
 
         **Prompt:** `Build a web app to track fintech companies that are pinned on a [city] map using Mapbox. Allow users to add a new fintech company based on name and address. Allow users to filter the companies based on neighborhoods of a [city].`
