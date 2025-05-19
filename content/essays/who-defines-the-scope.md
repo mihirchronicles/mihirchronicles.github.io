@@ -8,7 +8,7 @@ path: "/essays/who-defines-the-scope"
 
 Who defines the scope? It may sound like a simple question but it is not.
 
-Is it a customer? Is it a CEO? Is it a board of directors? Is it  an operation team? Is it sales? Or is it an investor? 
+Is it a customer? Is it a CEO? Is it a board of directors? Is it an operation team? Is it sales? Or is it an investor? 
 
 As an organization matures, the complexity lies within the intricate web of your organizational chart. The mission statement serves as the guiding light, but with such a diverse set of stakeholders, it becomes challenging to determine who holds the authority to make decisions regarding scope definition. 
 
