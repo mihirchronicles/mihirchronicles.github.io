@@ -42,6 +42,6 @@ Squads are designed based on the organization’s objectives. If you create an o
 
 Over-provisioning your most important team and empowering them with decision-making authority will drive scope ownership. The key question for this team should be — “What is the primary objective that a team should deliver where the scope is not in conversation?” This approach ensures that you maintain a high-quality standard and ship the most valuable features to your customers.
 
-So, who owns the scope? The size of your company certainly influences that question. Regardless of the size, it’s crucial to understand your core purpose that drives the organizational structure. If you get your organization structure right, you will drive the impact for your customers. Scope ownership is paramount if your organization is serious about execution.
+So, who owns the scope? The size of your company will certainly influence your answer. Regardless of the size, it is crucial to understand your core purpose that drives the organizational structure. If you get your organizational structure right, you will drive the impact for your customers. Scope ownership is paramount if your organization is serious about execution.
 
-A symmetrical chart is not the desired outcome for your customers. They are not interested in your OKRs; they want solutions that make their lives easier so they can maintain their relationship with your organization.
+A symmetrical chart is not the desired outcome for your customers. They are not interested in your OKRs; they want solutions that make their lives easier so they can continue their relationship with your organization.
