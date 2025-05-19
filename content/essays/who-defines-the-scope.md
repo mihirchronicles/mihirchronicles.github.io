@@ -6,3 +6,42 @@ draft: false
 path: "/essays/who-defines-the-scope"
 ---
 
+Who defines the scope? It may sound like a simple question but it is not.
+
+Is it a customer? Is it a CEO? Is it a board of directors? Is it  an operation team? Is it sales? Or is it an investor? 
+
+As an organization matures, the complexity lies within the intricate web of your organizational chart. The mission statement serves as the guiding light, but with such a diverse set of stakeholders, it becomes challenging to determine who holds the authority to make decisions regarding scope definition. 
+
+As someone who lives within the intersection of these cross-functional teams, I find myself dancing between various perspectives. As the owner of a domain within an organization, the distinction between the decisions I am permitted to make and those that belong to someone else becomes increasingly blurred over time. I have learned when to step in versus when to punt. 
+
+However, when you delegate decision-making, you risk frustrating your customers. How many times have you heard, “We are a customer-driven organization?” But you don’t see this reflected into your day-to-day when there are a lack of decisions.
+
+A common management error I observe is placing excessive reliance on OKRs to make decisions. While reviewing them is commendable, if your organization lacks a data-centric approach, you may lack the necessary insights to determine the next course of action. Furthermore, if you’re measuring the wrong metrics, you might inadvertently drive the wrong solution. Consequently, management often resorts to increasing the creation and collection of metrics to boost their confidence in decision-making. 
+
+All customers wanted was a self-service option to remove their email address from the application, eliminating the need to continue calling the 1-800 number. Instead of addressing this straightforward issue, we introduced more metrics and OKRs. 
+
+This brings me back to the question of who owns the scope? Let's  answer this by breaking down between a start-up versus a large organization.
+
+If you are a seed stage startup without a product market fit, then a founder should own the product scope as this individual is close to the vision and the survival of the company depends on it. If you are a startup with a product market fit, then you need to consider trade-offs on what is critical for next stage. If it's customer acquisition then a founder should focus on hiring the talent and outsource the product responsibility by hiring someone else.
+
+If you are a seed-stage startup without a product market fit, the founder should own the product scope since they’re closest to the vision and the company’s survival depends on it. However, if you’re a startup with a product market fit, you need to consider trade-offs when deciding what’s critical for the next stage. If customer acquisition is the focus, the founder should prioritize hiring the right talent and outsourcing the product responsibility by hiring someone else. For example, Marissa Mayer, employee no. 22 at Google took on the responsibility of product management while the founders of Google, Larry Page and Sergey Brin, focused on key priorities to launch Google to the next stage.
+
+If you are a seed-stage startup without a product market fit, the founder should own the product scope since they are closest to the vision and the company’s survival hinges on it. 
+
+However, if you’re a startup with a product market fit, you need to consider trade-offs when deciding what’s crucial for the next stage. If customer acquisition is your focus, the founder should prioritize hiring the right talent and outsourcing product responsibility to someone else. For instance, Marissa Mayer, Google’s 22nd employee, took on product management while Larry Page and Sergey Brin focused on key priorities to propel Google to the next level. 
+
+If your startup is product-led and growth is dependent on the features you ship, it pays for the founder or CEO to own the product scope and delegate other responsibilities. For instance, Brian Chesky at Airbnb drives the product vision and scope from the top. Although he may not be involved in every aspect of decision-making, it’s evident who sets the scope for the organization. And based on his priorities, resources and team structures are set accordingly.
+
+A few of these startups will eventually evolve into large organizations. During quarterly town halls, everyone comprehends the north star message, but when it’s time to plan, you encounter dependency challenges. There is no cohesion, and progress is slow. That guiding principle shared by the executive team quickly evaporates. Customers are already forgotten, and you find yourself entangled in the complexities of your own organization. 
+
+To help diagnose this problem you need to understand your organizational structure. We said the mission is A during all hands. Squad B thinks it is mission A + B. Squad C thinks it is mission A + C. Squad D thinks it is mission A + B + D. No matter how narrow these teams are no one ever seems to be aligned. In my observation this is another management error. All hands can only do so much. Organization design is as critical as the organization structure. 
+
+To diagnose this problem, you need to understand your organizational structure. We mentioned that the mission is A during all hands. However, Squad B believes it is mission A + B, Squad C believes it is mission A + C, and Squad D believes it is mission A + B + D. Regardless of how narrow these teams are, no one is ever aligned. Planning sessions are painful. In my observation, this is another management error. All hands can only do so much. Organization design is as critical as the organization structure because you ship your product organization.
+
+Squads are designed based on the organization’s objectives. If you create an organizational chart that focuses on the main objectives, your organization can focus on making meaningful and purposeful decisions. Narrow teams, symmetrical teams, proportional (1 UX for every 3 engineers) and OKRs are not the solutions. Instead, it’s your organizational structure strategy that needs to align with your “all hands” message to drive customer impact. You need teams that focus on the main thing. You can outsource maintenance to smaller teams, and that becomes their primary focus. 
+
+Over-provisioning your most important team and empowering them with decision-making authority will drive scope ownership. The key question for this team should be — “What is the primary objective that a team should deliver where the scope is not in conversation?” This approach ensures that you maintain a high-quality standard and ship the most valuable features to your customers.
+
+So, who owns the scope? The size of your company certainly influences that question. Regardless of the size, it’s crucial to understand your core purpose that drives the organizational structure. If you get your organization structure right, you will drive the impact for your customers. Scope ownership is paramount if your organization is serious about execution.
+
+A symmetrical chart is not the desired outcome for your customers. They are not interested in your OKRs; they want solutions that make their lives easier so they can maintain their relationship with your organization.
