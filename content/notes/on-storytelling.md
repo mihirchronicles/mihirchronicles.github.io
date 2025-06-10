@@ -335,6 +335,10 @@ Follow the principles below for writing effective emails
     - Morgan Freeman
     - Neil deGrasse Tyson
 - Other
+    - [Careful Futures Blog](https://enaeva.substack.com)
+        - [The Role of Storytelling in Systemic Change](https://enaeva.substack.com/p/the-role-of-storytelling-in-systemic)
+        - [How to Use Storytelling as a Collaborative Tool for Holding Complexity](https://enaeva.substack.com/p/how-to-use-storytelling-as-a-collaborative)
+        - [The Future Needs Better Storytellers: Designing with Imagination in Mind](https://enaeva.substack.com/p/the-future-needs-better-storytellers)
     - [How to open pieces of narrative non-fiction writing, conference talks, and sticky jars](https://maggieappleton.com/openings)
     - Steve Jobs on [storytelling](https://www.quora.com/What-are-the-best-stories-about-people-randomly-or-non-randomly-meeting-Steve-Jobs)
     - [NPR](https://www.npr.org)
