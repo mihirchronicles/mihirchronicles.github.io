@@ -6,7 +6,21 @@ draft: false
 path: "/notes/on-analytics"
 ---
 
-Analytics is about tracking the metrics that are critical to your business. It matters if your business cares about where the money is going from or where the money is going to in order to support the business model.
+Analysts come in various forms, which is why data analytics has become highly specialized. However, analytics as a whole is a crucial business function because it involves tracking the metrics that drive business needs, resulting in an impact on revenue, costs, or both.
+
+Analysts vary in strengths, making data analytics specialized. Some excel at math and analytical precision, while others excel at storytelling, transforming complex data into clear narratives. Some have strong product intuition, while others excel at data acquisition and can quickly identify inaccuracies. While proficiency in various areas is ideal, each individual has unique strengths and preferences.
+
+The fundamental principles of analytics remain consistent, regardless of new tools or technologies. Analysts, regardless of the time, still require the same set of skills:
+
+1. Comprehend business strategy and key performance indicators (KPIs) to understand events and measure them effectively.
+2. Proficiency in statistics, as teams continue to prioritize growth optimization.
+3. Knowledge of modeling to demonstrate data-driven decision impact.
+4. Recognize causal inference, distinguishing between correlation and causation.
+5. Critical thinking skills to challenge assumptions and validate work.
+6. Data acquisition and collection for analysis.
+7. Visual communication through reports and dashboards.
+
+Effective analysts recognize their expertise and focus on developing it. While mastery of all skills isn’t necessary, identifying strengths and leveraging them is crucial. Discover and embrace your analytics superpower. Your superpower is as good as your organizational strength on analytics.
 
 All organizations want to be data driven. Everyone has “data” but they get the second part wrong—“driven.” Measuring is the job that holds the organization accountable, but is the hardest job. You are forced to face inconvenient truths, should not serve personal agenda and requires changing paths in the light of new insights. Another part of “driven” it requires an investment in data infrastructure. If an organization does not have the right tools or the right process to cleanse, structure and surface data, measuring anything will be an obstacle.
 

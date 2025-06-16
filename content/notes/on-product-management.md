@@ -505,6 +505,36 @@ Hamilton Helmer covers 7 powers that companies can leverage on:
         - Product data: product portfolio, features, etc.
         - Customers data: target group, reviews, etc.
 
+## Product log
+
+An investigation into products that caught my attention. Not only do I highlight what is working, but also cover product friction log—challenge, difficulty, or point of frustration a user encounters while interacting with a product. This is my way of building product sense, cover hidden pain points and strive for continuous improvement.
+
+Below is a framework I follow typically, but it is just a starting point.
+
+| Field | Description | 
+| -------------|:-------------:|
+| Objective | What is the user trying to accomplish? |
+|User Description | Who is the user (persona, experience level)? |
+| Step-by-Step Log | Detailed account of actions taken and what happened at each step. |
+| Pain Points/Obstacles | Where did the user encounter friction? |
+| Positive Elements | What worked well or delighted the user? |
+| Severity/Impact | How serious is the issue? (often color-coded or scored). |
+| Suggested Improvements | Ideas for resolving the friction. |
+| Share Feedback | Send feedback to an owner. |
+
+<details>
+    <summary><strong>Notion AI</strong></summary>
+
+- Objective: 
+- Step-by-Step Log: 
+- Pain Points/Obstacles: 
+- Positive Elements: 
+- Severity/Impact: 
+- Suggested Improvements: 
+- Share Feedback: 
+
+</details>
+
 ## Further reading
 <details>
     <summary><strong>References</strong></summary>
