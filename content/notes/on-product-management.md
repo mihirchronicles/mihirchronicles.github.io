@@ -419,18 +419,23 @@ Hamilton Helmer covers 7 powers that companies can leverage on:
 
 An investigation into products is the best way to build product sense. Highlighting what is working, but also covering product friction—challenge, difficulty, or point of frustration a user encounters while interacting with a product—will allow you to build your product sense. This is how you drive continuous improvement and fix hidden pain points.
 
-Below is a framework I follow typically, but I use it as a starting point.
+Below are a list of questions to get started. is a framework I follow typically, but I use it as a starting point.
 
-| Field | Description | 
-| -------------|:-------------:|
-| Objective | What is the user trying to accomplish? |
-|User Description | Who is the user (persona, experience level)? |
-| Step-by-Step Log | Detailed account of actions taken and what happened at each step. |
-| Pain Points/Obstacles | Where did the user encounter friction? |
-| Positive Elements | What worked well or delighted the user? |
-| Severity/Impact | How serious is the issue? (often color-coded or scored). |
-| Suggested Improvements | Ideas for resolving the friction. |
-| Share Feedback | Send feedback to an owner. |
+- Objective: What is the offering? What is the user trying to accomplish?
+- Persona/Target User: Who is the user (persona, experience level)?
+- What is the founder/organization story? What is their mission? What is the motivation for people behind the product?
+- Pain Points/Obstacles: Where did the user encounter friction?  What problem does this product solve? Is this really a problem? Is it an underlying problem or a surface level problem? How painful is this problem for users?
+- Positive Elements: What worked well or delighted the user?
+- How much customization affordance does a product offer to its clients?
+- Who are the most competent competitors to this offering? How does this compare to using an alternative solution? Does a market really need another offering?
+- Severity/Impact: How serious is the issue? (often color-coded or scored)
+- Are there any design patterns or user experience that standout?
+- Do they have unique organizational structure to empower product, design and engineering to solve user problems? What is their team culture?
+- How does the product grow? Are there any unique growth strategies?
+- What is the strategic goal? How does it support the business model?
+- What is the distribution model?
+- Step-by-Step Log: Detailed account of actions taken and what happened at each step.
+- Suggested Improvements: Ideas for resolving the friction.
 
 ## Major subtopics of product management
 
