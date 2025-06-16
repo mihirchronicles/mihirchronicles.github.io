@@ -415,6 +415,23 @@ Hamilton Helmer covers 7 powers that companies can leverage on:
 - **Celebrating small and big wins to create product culture**:
     - Celebrate if a feature optimization helps your product become faster. Celebrate if a feature optimization helps save a penny for your customer. Celebrate all small wins.
 
+## Product log
+
+An investigation into products is the best way to build product sense. Highlighting what is working, but also covering product friction—challenge, difficulty, or point of frustration a user encounters while interacting with a product—will allow you to build your product sense. This is how you drive continuous improvement and fix hidden pain points.
+
+Below is a framework I follow typically, but I use it as a starting point.
+
+| Field | Description | 
+| -------------|:-------------:|
+| Objective | What is the user trying to accomplish? |
+|User Description | Who is the user (persona, experience level)? |
+| Step-by-Step Log | Detailed account of actions taken and what happened at each step. |
+| Pain Points/Obstacles | Where did the user encounter friction? |
+| Positive Elements | What worked well or delighted the user? |
+| Severity/Impact | How serious is the issue? (often color-coded or scored). |
+| Suggested Improvements | Ideas for resolving the friction. |
+| Share Feedback | Send feedback to an owner. |
+
 ## Major subtopics of product management
 
 - **Product Intuition**: Excellent product managers have great product sense. Below are the tips to getting there. The more you practice them, the better you will build product intuition while helping you make high conviction decisions. Your management expects you to have a good enough sense of your team’s capacity and velocity that you can make the call on the spot. If you don’t, you’ll immediately lose the respect of the other stakeholders in the room. Build this muscle soon before you ask for trouble, and you’ll grow an intuition around sizing and difficulty.
@@ -504,23 +521,6 @@ Hamilton Helmer covers 7 powers that companies can leverage on:
         - Business data: revenue, market share, etc.
         - Product data: product portfolio, features, etc.
         - Customers data: target group, reviews, etc.
-
-## Product log
-
-An investigation into products is the best way to build product sense. Not only do I highlight what is working, but also cover product friction log—challenge, difficulty, or point of frustration a user encounters while interacting with a product. This allows you to build your product sense, cover hidden pain points and strive for continuous improvement.
-
-Below is a framework I follow typically, but it is just a starting point.
-
-| Field | Description | 
-| -------------|:-------------:|
-| Objective | What is the user trying to accomplish? |
-|User Description | Who is the user (persona, experience level)? |
-| Step-by-Step Log | Detailed account of actions taken and what happened at each step. |
-| Pain Points/Obstacles | Where did the user encounter friction? |
-| Positive Elements | What worked well or delighted the user? |
-| Severity/Impact | How serious is the issue? (often color-coded or scored). |
-| Suggested Improvements | Ideas for resolving the friction. |
-| Share Feedback | Send feedback to an owner. |
 
 ## Further reading
 <details>

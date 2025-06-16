@@ -20,7 +20,7 @@ The fundamental principles of analytics remain consistent, regardless of new too
 6. Data acquisition and collection for analysis.
 7. Visual communication through reports and dashboards.
 
-Effective analysts recognize their expertise and focus on developing it. While mastery of all skills isn’t necessary, identifying strengths and leveraging them is crucial. Discover and embrace your analytics superpower. Your superpower is as good as your organizational strength on analytics.
+Effective analysts recognize their expertise and focus on developing it. While mastery of all skills isn’t necessary, identifying strengths and leveraging them is crucial in giving rise to superpower. But one's superpower is as good as their organizational strength on analytics.
 
 All organizations want to be data driven. Everyone has “data” but they get the second part wrong—“driven.” Measuring is the job that holds the organization accountable, but is the hardest job. You are forced to face inconvenient truths, should not serve personal agenda and requires changing paths in the light of new insights. Another part of “driven” it requires an investment in data infrastructure. If an organization does not have the right tools or the right process to cleanse, structure and surface data, measuring anything will be an obstacle.
 
