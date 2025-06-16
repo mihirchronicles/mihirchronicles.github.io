@@ -417,9 +417,7 @@ Hamilton Helmer covers 7 powers that companies can leverage on:
 
 ## Product log
 
-An investigation into products is the best way to build product sense. Highlighting what is working, but also covering product friction—challenge, difficulty, or point of frustration a user encounters while interacting with a product—will allow you to build your product sense. This is how you drive continuous improvement and fix hidden pain points.
-
-Below are a list of questions to get started. is a framework I follow typically, but I use it as a starting point.
+An investigation into products is the best way to build product sense. Highlighting what is working, but also covering product friction—challenge, difficulty, or point of frustration a user encounters while interacting with a product—will allow you to build your product sense. This is how you drive continuous improvement and fix hidden pain points. Can’t continue to build great product muscle by reading articles. Hands-on experience beats any book or lecture in gaining a deep understanding of how to build great products. Below are a list of questions to get started when you are doing a product log or a product teardown.
 
 - Objective: What is the offering? What is the user trying to accomplish?
 - Persona/Target User: Who is the user (persona, experience level)?
