@@ -56,6 +56,8 @@ Stoicism, along with other philosophical frameworks, life experiences, and lesso
 
 > If art is to nourish the roots of our culture, society must set the artist free to follow his vision wherever it takes him. We must never forget that art is not a form of propaganda; it is a form of truth. — JFK
 
+> If something isn’t working, listen. Action without understanding is the beginning of destruction.  — Victor Saad
+
 - **Live frugal, but not cheap.** Learn to avoid lifestyle inflation and shifting up your goal post. Consume to meet the basic needs, waste nothing and be content with what you have. But don’t make mistake frugality with letting go of your youth and having fun. You don't have to cheap out on having fun. Both fun and frugality can co-exist. People who live far below their means enjoy freedom that people who are busy upgrading their lifestyles can’t fathom. Frugality allows you to stay rich. Getting rich and staying rich are different things that require different skills. Spending money to show off is the fastest way to lose money. Debt will cripple you. Savings will give you wings to fly on. Freedom plus time are worth much more than nice cars and clothes.
 
 > Wealth consists not in having many possessions, but in having few wants. — Epictetus
@@ -124,7 +126,7 @@ Stoicism, along with other philosophical frameworks, life experiences, and lesso
 
 > Work of an artist is never completed only abandoned. — NA 
 
-- **Repetition leads to excellence.** Consistency is the playground for perfection. Be so good that they can't ignore you. Key to becoming so good is to do boring tasks over and over again until you perfect it. Doing new and cool things is desirable but doing repetitive task is not. It will take many tries till you perfect your art. Use space repetition technique and focused/diffused mode. Effort counts not passion; effort counts not talent. Deliberate practice is a key to repetition. Structured but flexible repetition is the best productivity tool. It doesn't matter what you are trying to become better at, if you only do the work when it’s convenient or exciting, then you’ll never be consistent enough to achieve remarkable results. The ability to show up every day, stick to the schedule, and do the work, especially when you don't feel like it, is so valuable that it is literally all you need to become better 99% of the time.
+- **Repetition leads to excellence.** Consistency is the playground for perfection. Be so good that they can't ignore you. Key to becoming so good is to do boring tasks over and over again until you perfect it. Doing new and cool things is desirable but doing repetitive task is not. It will take many tries till you perfect your art. Use space repetition technique and focused/diffused mode. Effort counts not passion; effort counts not talent. Deliberate practice is a key to repetition. Structured but flexible repetition is the best productivity tool. It doesn't matter what you are trying to become better at, if you only do the work when it’s convenient or exciting, then you’ll never be consistent enough to achieve remarkable results. The ability to show up every day, stick to the schedule, and do the work, especially when you don't feel like it, is so valuable that it is literally all you need to become better 99% of the time. The bravest people are usually the most consistent.
 
 > We are what we repeatedly do. Excellence, then, is not an act, but a habit. — Aristotle
 
@@ -237,6 +239,16 @@ Stoicism, along with other philosophical frameworks, life experiences, and lesso
 - **Not having kids puts life on an easy mode and a life without purpose.** They are not replacement for friends or being your future care takers. Life becomes much more fruitful if you can have them. You get a sense of pride and purpose.
 - In the late 1650s, the Dutch artist Johannes Vermeer painted a picture called The Little Street, that continues to challenge our value system to this day. **Living normal is more remarkable, rare and difficult than ambitions like ruling a nation.**
 - **Be guided by beauty**. You wouldn't sit in an unpleasant theater and watch your favorite movie. You'd rather pay a premium for a nice theater, so you can enjoy your favorite movie. This is why it is worth pursuing beauty. Beauty also matters beyond poetry and art. In fact, it matters in every aspect of life. An organization that is running extremely well and accomplishing its mission with excellence is beautiful in itself.
-- **Go all the way. Don't waste your time with half-baked.**
+- **Go all the way. Don't waste your time with half-baked.** A clear “no” is one of the kindest things you can do for yourself or offer someone.
 
 > “If you're going to try, go all the way. Otherwise, don't even start.” —Charles Bukowski
+
+- **You cannot be a perfect version at all times.** You are going to trip and fall when you encounter unexplored territory. Get up, show up, and keep learning. And don't judge others when they are in similar situations.
+- **Joy is not a reward system. It is a practice.** You can have fun at all times without feeling guilty. You don't need to choose joy for special occasions only. No one will complain about a joyful person.
+- **If you don’t take control of your own schedule, others will, and one day you will wake up and ask how did time slip by.** 
+- **Most mess comes from wanting more than we need.** Having more and doing more is not going to solve your mess. The in-between is where the magic happens. Use breaks, long walk, and nature to find harmony and balance. This is where you will unleash your creativity.
+- **Clarity comes from space not from doing more.** Being busy isn’t the same as being valuable. Learn the difference. Take a step back when you are overwhelmed.
+- **Don't believe everything your mind is chattering about.**
+- **If you can't explain it simply, you do not understand.**
+- **Leadership doesn't start with vision. It begins with listening.**
+- **Some things are beautiful because they are small. Not everything needs to scale.** 
