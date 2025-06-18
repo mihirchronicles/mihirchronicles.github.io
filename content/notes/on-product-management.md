@@ -554,6 +554,7 @@ An investigation into products is the best way to build product sense. Highlight
 - [Domain drive boldness](https://dev.37signals.com/domain-driven-boldness/)
 - [You need to be more strategic by Shreyas Doshi](https://twitter.com/shreyas/status/1712262410764173598)
 - Strategy
+    - [All Revenue is Not Created Equal: The Keys to the 10X Revenue Club by Bill Gurley](https://abovethecrowd.com/2011/05/24/all-revenue-is-not-created-equal-the-keys-to-the-10x-revenue-club/)
     - [A Plan Is Not a Strategy by Roger Martin](https://www.youtube.com/watch?v=iuYlGRnC7J8)
     - [Founder's Mentality and the paths to sustainable growth by Bain Capital](https://www.youtube.com/watch?v=Rp4RCIfX66I&list=FLrlPaGQuKQiYMqpFYyc-40A&index=20)
     - [Build by Tony Fadell](/build)

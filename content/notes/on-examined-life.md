@@ -220,7 +220,7 @@ Stoicism, along with other philosophical frameworks, life experiences, and lesso
 > Sometimes I’ve made mistakes in assessing the future economics of a business I’ve purchased for Berkshire – each a case of capital allocation gone wrong. That happens with both judgments about marketable equities – we view these as partial ownership of businesses – and the 100% acquisitions of companies...The cardinal sin is delaying the correction of mistakes or what Charlie Munger called “thumb-sucking.” Problems, he would tell me, cannot be wished away. They require action, however uncomfortable that may be. — Warren Buffett 2024 Annual Letter
 
 - **Indecision will kill your dreams a lot faster than mistakes.** Stay away from pessimistic. They have a problem for every solution. Their pessimistic outlook will bleed into your decision-making. One individual can ruin an entire action orientated group.
-- **Overanalyzing will cripple you. Don't let the pusuit of life's meaning paralyze you.**
+- **Overanalyzing will cripple you. Don't let the pursuit of life's meaning paralyze you.**
 
 > Meaning is not something you stumble across, like the answer to a riddle or the prize in a treasure hunt. Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you, out of your own talent and understanding, out of the things you believe in, out of the things and people you love, out of the values for which you are willing to sacrifice something. The ingredients are there. You are the only one who can put them together into that unique pattern that will be your life. Let it be a life that has dignity and meaning for you. If it does, then the particular balance of success or failure is of less account. – John W. Gardner
 
@@ -237,3 +237,6 @@ Stoicism, along with other philosophical frameworks, life experiences, and lesso
 - **Not having kids puts life on an easy mode and a life without purpose.** They are not replacement for friends or being your future care takers. Life becomes much more fruitful if you can have them. You get a sense of pride and purpose.
 - In the late 1650s, the Dutch artist Johannes Vermeer painted a picture called The Little Street, that continues to challenge our value system to this day. **Living normal is more remarkable, rare and difficult than ambitions like ruling a nation.**
 - **Be guided by beauty**. You wouldn't sit in an unpleasant theater and watch your favorite movie. You'd rather pay a premium for a nice theater, so you can enjoy your favorite movie. This is why it is worth pursuing beauty. Beauty also matters beyond poetry and art. In fact, it matters in every aspect of life. An organization that is running extremely well and accomplishing its mission with excellence is beautiful in itself.
+- **Go all the way. Don't waste your time with half-baked.**
+
+> “If you're going to try, go all the way. Otherwise, don't even start.” —Charles Bukowski

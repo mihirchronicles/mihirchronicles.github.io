@@ -591,6 +591,7 @@ planning on your plan not going according to the plan.
     <summary><strong>Bill Gurley</strong></summary>
     <br>
 
+- [All Revenue is Not Created Equal: The Keys to the 10X Revenue Club](https://abovethecrowd.com/2011/05/24/all-revenue-is-not-created-equal-the-keys-to-the-10x-revenue-club/)
 - Previous "all-time" highs are completely irrelevant. It's not "cheap" because it is down 70%. Forget those prices happened.
 - Valuation multiples are always a hack proxy. Dangerous to use. If you insist, 10X should be considered AMAZING and an upper limit. Over that silly.
 - You may be shocked to learn that people want to value your company on FCF and earnings. Facebook trades at 14X GAAP EPS, & is growing 23%. What earnings multiple are you assuming?
