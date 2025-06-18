@@ -247,7 +247,7 @@ Stoicism, along with other philosophical frameworks, life experiences, and lesso
 - **Joy is not a reward system. It is a practice.** You can have fun at all times without feeling guilty. You don't need to choose joy for special occasions only. No one will complain about a joyful person.
 - **If you don’t take control of your own schedule, others will, and one day you will wake up and ask how did time slip by.** 
 - **Most mess comes from wanting more than we need.** Having more and doing more is not going to solve your mess. The in-between is where the magic happens. Use breaks, long walk, and nature to find harmony and balance. This is where you will unleash your creativity.
-- **Clarity comes from space not from doing more.** Being busy isn’t the same as being valuable. Learn the difference. Take a step back when you are overwhelmed.
+- **Clarity comes from space not from doing more.** Being busy isn’t the same as being valuable. Learn the difference and take a step back when you feel overwhelmed.
 - **Don't believe everything your mind is chattering about.**
 - **If you can't explain it simply, you do not understand.**
 - **Leadership doesn't start with vision. It begins with listening.**
