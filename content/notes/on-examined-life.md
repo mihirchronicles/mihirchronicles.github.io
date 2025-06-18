@@ -245,10 +245,12 @@ Stoicism, along with other philosophical frameworks, life experiences, and lesso
 
 - **You cannot be a perfect version at all times.** You are going to trip and fall when you encounter unexplored territory. Get up, show up, and keep learning. And don't judge others when they are in similar situations.
 - **Joy is not a reward system. It is a practice.** You can have fun at all times without feeling guilty. You don't need to choose joy for special occasions only. No one will complain about a joyful person.
-- **If you don’t take control of your own schedule, others will, and one day you will wake up and ask how did time slip by.** 
-- **Most mess comes from wanting more than we need.** Having more and doing more is not going to solve your mess. The in-between is where the magic happens. Use breaks, long walk, and nature to find harmony and balance. This is where you will unleash your creativity.
+- **Take ownership of your time, or watch others claim it for their purposes. The difference between intentional living and lost years often comes down to this single choice.** Be intentional about letting others hijack your schedule.
+- **Most mess stems from wanting pursuing excess beyond necessity.** Having more or doing more is not going to solve your mess. 
+- **The in-between is where the magic happens.** Use breaks, long walk, and nature to find harmony and balance. This is where you will unleash your creativity.
 - **Clarity comes from space not from doing more.** Being busy isn’t the same as being valuable. Learn the difference and take a step back when you feel overwhelmed.
 - **Don't believe everything your mind is chattering about.**
 - **If you can't explain it simply, you do not understand.**
 - **Leadership doesn't start with vision. It begins with listening.**
 - **Some things are beautiful because they are small. Not everything needs to scale.** 
+- **Every moment begins with a story.** What stories are shaping your choices right now? And who benefits from them? We live inside inherited narratives about growth, success, productivity, power—and often forget that these are not truths. They are agreements. Sometimes outdated ones. The good thing about stories is you can re-write them. Changemakers use stories to their own advantage.

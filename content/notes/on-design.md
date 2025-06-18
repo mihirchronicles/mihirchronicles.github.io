@@ -921,6 +921,7 @@ _**Design System Resources**_
 - [Design System Newsletter](http://news.design.systems/)
 - [Design Systems Blog](https://www.designsystems.com/)
 - [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems)
+- [Design system documentation is essential–as long as it’s good](https://pjonori.blog/posts/design-system-documentation/)
 
 </details>
 <br />
