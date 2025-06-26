@@ -234,6 +234,12 @@ Communication is an attitude of openness towards the other. It is an art that dr
 - Speak from facts. State when your opinions are your opinions. Leave nothing to chance or assumptions.
 - What you call or label something matters. Using different taxonomy in different groups is poison because there is no shared understanding.
 - Facial expression and body language are part of communication.
+- Learn to speak slower. 
+    - When you talk too quickly, other people may think you’re unsure of yourself, and your message becomes difficult to understand.
+    - Filler language is a product of speed.
+    - The people who are supremely confident are the ones that feel like they have the license to take things deliberately and thoughtfully.
+    - Slowing down your speaking cadence starts with slowing down your breathing. The faster you breathe, the faster you speak. Your voice is a wind instrument.
+    - Make broad gestures when you speak—big hand motions, slowly walking across the floor and align your speech to those movements.
 - Communication is logical and so is emotional. 
 - Be direct, succinct and kind in your message. People don’t have the energy, time, or desire to try to read smoke signals to figure out what you want them to say or do.
 - Good communication requires empathy.
@@ -334,6 +340,7 @@ Follow the principles below for writing effective emails
     - Charlie Munger
     - Morgan Freeman
     - Neil deGrasse Tyson
+    - Jony Ive
 - Other
     - [Careful Futures Blog](https://enaeva.substack.com)
         - [The Role of Storytelling in Systemic Change](https://enaeva.substack.com/p/the-role-of-storytelling-in-systemic)
