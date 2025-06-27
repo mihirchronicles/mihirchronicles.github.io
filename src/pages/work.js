@@ -11,11 +11,11 @@ const WorkIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <h1>Work</h1>
-      <p>Creating products is an unparalleled joy, akin to planting a seed that nurtures experimentation with novel ideas. Product development can be seen as either chaotic or orderly, instilling hope and a sense of vitality. The journey of building products has broadened my understanding of various subjects, which have proven invaluable in my professional life. Below are the products I’ve had the privilege of working on.</p>
+      <p>Creating products is an unparalleled joy, akin to nurturing an idea that blossoms into experimentation. As a tool maker, a simple product can move society forward. And the progress is how I measure my value on this planet. It all begins with a single thought. Product development can be perceived as either chaotic or orderly, instilling hope and a sense of vitality. The journey of building products has broadened my understanding of various subjects, which have proven invaluable in my professional life. Below are the products I’ve had the privilege of working on.</p>
 
       <h2>DAFgiving360 (Schwab Charitable)</h2>
       <p><strong>[2023 - Current]</strong></p>
-      <p><strong>Details</strong>: Responsible for automating 90% of grants given to charities resulting in reduction in operational overhead costs while enhancing user experience for donors, charities and advisors.</p>
+      <p><strong>Details</strong>: I am currently leading digital product strategy and execution for donor advised funds (DAF) at DAFgiving360. Optimizing capabilities and user experiences that connect donors with 255,000+ charities nationwide.</p>
       <p><strong>Website</strong>: <a href="https://www.dafgiving360.org">DAFgiving360</a></p>
 
       <h2>Schwab Intelligent Portfolios</h2>
