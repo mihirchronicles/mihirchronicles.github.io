@@ -6,7 +6,7 @@ draft: false
 path: "/notes/on-capital-allocation"
 ---
 
-This is my attempt to explore wisdom on capital allocation from legendary investors. I use capital allocation and investing interchangeably in these notes. They are synonymous terms.
+This is my attempt to explore wisdom on capital allocation from legendary investors. I use _capital allocation_ and _investing_ interchangeably in these notes. They are synonymous terms.
 
 Starting with a short history lesson on equity ownership and stock market.
 
@@ -32,7 +32,7 @@ A patient investor is also not ideologically driven. He or she is open to change
 
 > If you think the world is all art, you’ll miss how much stuff is too complicated to think about intuitively. But if you think the world is all science, you’ll miss how much people like to take shortcuts, believe only what they want to believe, and have to deal with stuff that is too complicated for them to summarize in a statistic. Another way to think about this: Investing is not physics, which is guided by cold, immutable laws. It’s like biology, guided by the messy mutations and accidents of evolution, constantly adapting and sometimes defying logic. — Morgan Housel
 
-## Topics
+## Capital allocation topics
 
 | Name | Bio | 
 | -------------|:-------------:|
