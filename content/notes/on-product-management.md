@@ -419,21 +419,20 @@ Hamilton Helmer covers 7 powers that companies can leverage on:
 
 An investigation into products is the best way to build product sense. Highlighting what is working, but also covering product friction—challenge, difficulty, or point of frustration a user encounters while interacting with a product—will allow you to build your product sense. This is how you drive continuous improvement and fix hidden pain points. Can’t continue to build great product muscle by reading articles. Hands-on experience beats any book or lecture in gaining a deep understanding of how to build great products. Below are a list of questions to get started when you are doing a product log or a product teardown.
 
-- Objective: What is the offering? What is the user trying to accomplish?
-- Persona/Target User: Who is the user (persona, experience level)?
-- What is the founder/organization story? What is their mission? What is the motivation for people behind the product?
-- Pain Points/Obstacles: Where did the user encounter friction?  What problem does this product solve? Is this really a problem? Is it an underlying problem or a surface level problem? How painful is this problem for users?
-- Positive Elements: What worked well or delighted the user?
-- How much customization affordance does a product offer to its clients?
-- Who are the most competent competitors to this offering? How does this compare to using an alternative solution? Does a market really need another offering?
-- Severity/Impact: How serious is the issue? (often color-coded or scored)
-- Are there any design patterns or user experience that standout?
-- Do they have unique organizational structure to empower product, design and engineering to solve user problems? What is their team culture?
-- How does the product grow? Are there any unique growth strategies?
-- What is the strategic goal? How does it support the business model?
-- What is the distribution model?
-- Step-by-Step Log: Detailed account of actions taken and what happened at each step.
-- Suggested Improvements: Ideas for resolving the friction.
+- _Objective_: What is the offering? What is the user trying to accomplish?
+- _Persona/Target User_: Who is the user (persona, experience level)?
+- _Background_: What is the founder/organization story? What is their mission? What is the motivation for people behind the product?
+- _Pain Points/Obstacles_: Where did the user encounter friction?  What problem does this product solve? Is this really a problem? Is it an underlying problem or a surface level problem? How painful is this problem for users?
+- _Positive Elements_: What worked well or delighted the user?
+- _Personalization_: How much customization affordance does a product offer to its clients?
+- _Competitors_: Who are the most competent competitors to this offering? How does this compare to using an alternative solution? Does a market really need another offering?
+- _Severity & Impact_: How serious is the issue? (often color-coded or scored)
+- _User Delight_: Are there any design patterns or user experience that standout?
+- _Org Structure_: Do they have unique organizational structure to empower product, design and engineering to solve user problems? What is their team culture?
+- _Growth & Distribution_: How does the product grow? Are there any unique growth strategies? What is the distribution model?
+- _Strategy_: What is the strategic goal? How does it support the business model?
+- _Step-by-Step Log_: Detailed account of actions taken and what happened at each step.
+- _Suggested Improvements_: Ideas for resolving the friction.
 
 ## Major subtopics of product management
 

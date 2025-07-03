@@ -1,28 +1,28 @@
 ---
-title: "On Financial Markets"
+title: "On Capital Allocation"
 tags: ["general"]
 date: "2022-11-20"
 draft: false
-path: "/notes/on-financial-markets"
+path: "/notes/on-capital-allocation"
 ---
 
-This is my attempt to explore topics in the area of all things related to financial markets while gaining the investment wisdom from legendary investors.
+This is my attempt to explore wisdom on capital allocation from legendary investors. I use capital allocation and investing interchangeably in these notes. They are synonymous terms.
 
-Starting with a short history lesson on stock ownership and stock market.
+Starting with a short history lesson on equity ownership and stock market.
 
 In the 1600s, the Dutch East India Company employed hundreds of ships to trade gold, spices, and silk around the globe. But running this massive operation wasn’t cheap. In order to fund their expensive voyages, the company turned to private citizens–individuals who could invest money to support the trip in exchange for a share of the ship’s profits. This practice allowed the company to afford even grander voyages, increasing profits for both themselves and their savvy investors. Selling these shares in coffee houses and shipping ports across the continent, the Dutch East India Company unknowingly invented the world’s first stock market. 
 
 This was the first version of stock market. Companies have been collecting money from prospective investors to support all kinds of businesses since then.
 
-**What is investing?**
+**What is capital allocation?**
 
-Investing is responsible capital allocation. Responsible investing leads to sustainable wealth accumulation. Though it requires every investor to deal with trade-offs–money, time, attention and energy. Investing is the function of taking finite resources, allocating it and maximizing for ideal outcome.
+Investing is responsible capital allocation. Responsible investing leads to sustainable wealth accumulation. Though it requires every investor to deal with trade-offs–money, time, attention and energy. Capital allocation is the function of taking finite resources, allocating it and maximizing for ideal outcome.
 
-The story behind the numbers is equally important in investing.
+Both story and numbers are equally important in capital allocation.
 
-Stories (ideas) require beliefs. So naturally investing is about conviction and acting on that conviction. This is why investing falls within the field of social science. The limitation of any story is the size of our beliefs.
+Stories (ideas) require beliefs. So naturally capital allocation is about conviction and acting on that conviction. This is why investing falls within the field of social science. The limitation of any story is the size of our beliefs.
 
-In other words, investing is both art and science.
+In other words, capital allocation (investing) is both art and science.
 
 Tenfold investment returns require a lot of luck, but also patience. 
 
@@ -36,9 +36,8 @@ A patient investor is also not ideologically driven. He or she is open to change
 
 | Name | Bio | 
 | -------------|:-------------:|
-| _Inflation_ | Inflation is the rate at which the general level of prices for goods and services rises over time, resulting in a decrease in the purchasing power of money. |
+| _Inflation_ | Inflation is a critical component of investing. It is the rate at which the general level of prices for goods and services rises over time, resulting in a decrease in the purchasing power of money. |
 | _S&P500_ | The S&P 500, officially known as the Standard & Poor’s 500 Index, is a stock market index that tracks the performance of 500 of the largest publicly traded companies in the United States. |
-| _Donor Advised Funds (DAFs)_ | A Donor-Advised Fund (DAF) is a charitable giving account established at a public charity, known as the sponsoring organization, which manages and administers the fund on behalf of the donor. When you contribute cash, securities, or other assets to a DAF, you are generally eligible for an immediate tax deduction. The assets in the DAF can then be invested for tax-free growth, and you can recommend grants from your fund to any eligible IRS-qualified public charity at any time. |
 
 <details>
     <summary><strong>Inflation</strong></summary>
@@ -277,7 +276,7 @@ The concept pioneered by Bogle—providing low-cost, diversified exposure to mar
 
 </details>
 
-## Investing legends
+## Capital allocator legends
 
 | Name | Bio | 
 | -------------|:-------------:|
