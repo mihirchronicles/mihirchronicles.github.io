@@ -20,7 +20,17 @@ This is my notepad of everything I have learned and learning over time.
     <summary><strong>Donor Advised Funds</strong></summary>
     <br>
 
-    - 
+- DAF — donor advised fund is an investment account that lets you take a tax deduction now and give the money to charity later.
+- DAF allows for maximizing granting by investing the money tax-free.
+- A grant can be made anytime from your DAF to a charity of your choice. Approval of a grant is at DAF sponsor's discretionary based on their internal policies.
+- DAF provider charges an administrative fee to invest your DAF and make donations when you recommend them. Administrative fee varies based on an account balance and contributions.
+- Investment options are limited to index funds unless you have a professionally managed account which has a high minimum on account balance. There are certain players who are starting to offer ETFs.
+- DAF is mostly the United States concept.
+- DAF is a 501(c)3 organization which needs to comply with [IRS guidelines](https://www.irs.gov/charities-non-profits/charitable-organizations/donor-advised-funds). 
+- While there are certain charity exemption rules, IRS qualified charities need to meet eligibility requirements. More from [IRS](https://www.irs.gov/charities-and-nonprofits).
+- IRS provides [The Exempt Organizations Business Master File Extract](https://www.irs.gov/charities-non-profits/exempt-organizations-business-master-file-extract-eo-bmf) which provides information about an organization from the Internal Revenue Service's Business Master File. It has the most recent information the IRS has for these organizations.
+- There are IRS guidelines on [charitable contributions](https://www.irs.gov/charities-non-profits/charitable-organizations/donor-advised-funds). Contribution type varies from cash to non-cash to complex assets.
+- To be eligible to claim a tax deduction in a given tax year, you must complete the contribution to your DAF by the last day of the year — December 31.
 
 </details>
 <br>
