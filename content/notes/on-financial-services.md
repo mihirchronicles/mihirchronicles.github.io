@@ -20,12 +20,13 @@ This is my notepad of everything I have learned and learning over time.
     <summary><strong>Donor Advised Funds</strong></summary>
     <br>
 
-- DAF — donor advised fund is an investment account that lets you take a tax deduction now and give the money to charity later.
-- DAF allows for maximizing granting by investing the money tax-free.
-- A grant can be made anytime from your DAF to a charity of your choice. Approval of a grant is at DAF sponsor's discretionary based on their internal policies.
-- DAF provider charges an administrative fee to invest your DAF and make donations when you recommend them. Administrative fee varies based on an account balance and contributions.
-- Investment options are limited to index funds unless you have a professionally managed account which has a high minimum on account balance. There are certain players who are starting to offer ETFs.
 - DAF is mostly the United States concept.
+- DAFs were originated by community foundations to boost charitable giving. The first DAF was created in 1931 by the New York Community Trust. Overtime commercial investment services got involved which boosted charitable giving further.
+- DAF — donor advised fund is an investment account which could be opened via a brokerage service that lets you take a tax deduction when contributions are made and give the money to a charity later.
+- DAF allows for maximizing granting by investing the money tax-free.
+- A grant can be made anytime from a DAF to a charity of your choice. Approval of a grant is at DAF sponsor's discretionary based on their internal policies.
+- DAF provider charges an administrative fee to invest your DAF and make donations when you recommend them. Administrative fee varies based on an account balance and contributions.
+- Investment options are limited to index funds unless you have a professionally managed account which requires a high account balance. There are certain players who are starting to offer ETFs but not widely adopted.
 - DAF is a 501(c)3 organization which needs to comply with [IRS guidelines](https://www.irs.gov/charities-non-profits/charitable-organizations/donor-advised-funds). 
 - While there are certain charity exemption rules, IRS qualified charities need to meet eligibility requirements. More from [IRS](https://www.irs.gov/charities-and-nonprofits).
 - IRS provides [The Exempt Organizations Business Master File Extract](https://www.irs.gov/charities-non-profits/exempt-organizations-business-master-file-extract-eo-bmf) which provides information about an organization from the Internal Revenue Service's Business Master File. It has the most recent information the IRS has for these organizations.
