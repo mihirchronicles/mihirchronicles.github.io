@@ -1,7 +1,7 @@
 ---
 title: "On Financial Services"
 tags: ["general"]
-date: "2025-07-11"
+date: "2022-11-01"
 draft: false
 path: "/notes/on-financial-services"
 ---
