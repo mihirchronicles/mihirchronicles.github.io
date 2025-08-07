@@ -20,7 +20,7 @@ Cognitive science is a vast field with diverse intelligence concepts, including 
 
 What does intelligence mean to us? Is intelligence a prerequisite for survival? Are we the only intelligent species? 
 
-Intelligence isn’t crucial for species’ success on Earth. My grass thrives without it. A tiny virus nearly wiped out the planet in 2020 without human knowledge. Therefore, knowledge isn’t a prerequisite for intelligence. Some species evolved without the need for intelligence..
+Intelligence isn’t crucial for species’ success on Earth. My grass thrives without it. A tiny virus nearly wiped out the planet in 2020 without human knowledge. Therefore, knowledge isn’t a prerequisite for intelligence. Some species evolved without the need for intelligence.
 
 Seeking intelligence around us is natural. When my pet follows my orders, I consider it intelligent. When I sought a lifelong partner, I wanted to spend time with an intelligent person. We weren't born with these desires, so why do we place such importance on intelligence? 
 
