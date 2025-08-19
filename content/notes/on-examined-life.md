@@ -114,6 +114,8 @@ Stoicism, along with other philosophical frameworks, life experiences, and lesso
 
 > Imitation precedes creation. — Stephen King
 
+> There are those who seek knowledge for the sake of knowledge; that is Curiosity. There are those who seek knowledge to be known by others; that is Vanity. There are those who seek knowledge in order to serve; that is Love. — St. Bernard
+
 - **Take incremental steps to think long-term.** Incremental steps are better than a giant leap. Compound interest is the most underrated law. Extreme patience with extreme focus with extreme decisiveness with a long-term view will do magic and wonders. It’s amazing how much of a competitive advantage can be found by simply having the disposition to wait longer than everyone else. Be the tortoise, not the hare! Take small steps in a sequence but with urgency. Smooth sailing is fast selling. Play long-term game with long-term people. Momentum in everyday life is highly underrated. It's all about effort.
 
 > The best kind of success is continuous, every day, not occasional. Learn, build, share, repeat — Patrick O'Shaughnessy
@@ -266,4 +268,3 @@ Stoicism, along with other philosophical frameworks, life experiences, and lesso
 - **Poor consequences are a result of discussions happening far too late.** If your intentions are blindsided with wrong incentives you are bound to have unexpected consequences which can be harmful to society.
 - **Pay a great deal of attention to the words you use because they affect the way we think.** The words you choose to frame a problem has a lot more weight than you might think.
 - **Know your non-negotiables.** Especially while you are parenting. The peak career years collide with your peak life years. Your kids are little, parents are aging, and your youth is slipping by. Your body and mental health is asking you to slow you down. Grind and sacrifice start to blur. You fight so hard to climb the ladder, and then realize the cost of staying there may be more than you are willing to pay. You have to decide what is worth it and what isn't. If you don't balance, if you are not asking the right questions, or if you are not setting the boundaries then one day you will end up with regrets. To minimize your regrets, know your trade-offs and set your non-negotiables, so you can truly live your life.
-
