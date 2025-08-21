@@ -6,9 +6,9 @@ draft: false
 path: "/notes/on-financial-services"
 ---
 
-I’ve spent one-third of my life in the financial services and capital markets sector. The financial services sector encompasses a wide range of public and private companies and institutions (governments and endowments) that provide various money management, wealth management, portfolio advice, investment products and private venture funds.
+I’ve spent one-third of my life in the financial services and capital markets sector. The sector encompasses a wide range of public and private companies and institutions (including governments and endowments) that provide various money management, wealth management, portfolio advice, investment products and private venture funds.
 
-During my internship at the Chicago Board of Trade, I got to see old school trading (non-electronic). During college, I had the privilege of attending a Berkshire Hathaway shareholder meeting (Woodstock for Capitalists) without owning a single share (thanks to my finance professor). I got to see my personal heroes—Warren Buffett and Charlie Munger, speak live. These experiences gave me a deeper appreciation for the industry. 
+During my internship at the Chicago Board of Trade, I got to see old school trading (non-electronic). During college, I had the privilege of attending a Berkshire Hathaway shareholder meeting (Woodstock for Capitalists) without owning a single share (thanks to my finance professor). I got to see my personal heroes—Warren Buffett and Charlie Munger speak live. These experiences gave me a deeper appreciation for the industry. 
 
 So far, I have worked for two major investment firms—Morningstar and Charles Schwab. These experiences further solidified my interest in the financial services sector. My obsession keeps growing for this industry.
 
