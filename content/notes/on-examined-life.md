@@ -180,7 +180,8 @@ Stoicism, along with other philosophical frameworks, life experiences, and lesso
 - **Find people who energize you and make you want to conquer the world.** Go be friends with them. Long-term friends multiply life's true wealth.
 - **Proximity rules in relationships.** Almost all relationships require proximity and intention to keep growing. True connection flourishes when we prioritize being present and intentional with one another. There are exceptions, but they are much rarer than you think.
 - **The energy you put out in the world, you get back.** 
-- **Beware of over-delegation and being too far from the details.** I see too many people avoid real work. The work is in the details.
+- **Beware of over-delegation and being too far from the details.** I see too many people avoid real work. The work is in the details. The deeper you go, the better it gets.
+- **To enrich your professional life you have to be both strategic and detail-oriented.** Ideas alone aren't enough and being in the trenches blocks you seeing the horizon. Competitive edge lies when you can balance the two well.
 - **Doom scrolling and reading too much drowns out your inner voice.** Lean more towards action.
 - **Days with 0 output are the killers** and it matters when you know your primary focus but watch out for workaholic behavior.
 - **Imposter comes from over consuming.** You need to balance your production and consumption balance.
@@ -209,7 +210,6 @@ Stoicism, along with other philosophical frameworks, life experiences, and lesso
 - **You are the custodian of your own integrity**. People won't care about it until you breach their trust so hold it to its highest standard until it becomes a problem.
 - **Pick presence over productivity or quick hacks**. Attention is the rarest and purest form of generosity.
 - **Everything worthwhile takes a long-time.** Don't give-up too easily.
-- **To enrich your professional life you have to be both strategic and detail-oriented.** Ideas alone aren't enough and being in the trenches blocks you seeing the horizon. Competitive edge lies when you can balance the two well.
 - **Choose to do things that magnify your spirit.**
 - **Choose joy over fear. Choose joy over animosity. Most importantly, choose joy above everything else.**
 - **Always check the y-axis.** Don't generalize reality based on y-axis because scale can be compressed or expanded based on author's incentives or biases. Disproportionate scale creates unwanted fear portrayed by media. Always question the data before you buy into any narrative.
@@ -268,3 +268,4 @@ Stoicism, along with other philosophical frameworks, life experiences, and lesso
 - **Poor consequences are a result of discussions happening far too late.** If your intentions are blindsided with wrong incentives you are bound to have unexpected consequences which can be harmful to society.
 - **Pay a great deal of attention to the words you use because they affect the way we think.** The words you choose to frame a problem has a lot more weight than you might think.
 - **Know your non-negotiables.** Especially while you are parenting. The peak career years collide with your peak life years. Your kids are little, parents are aging, and your youth is slipping by. Your body and mental health is asking you to slow you down. Grind and sacrifice start to blur. You fight so hard to climb the ladder, and then realize the cost of staying there may be more than you are willing to pay. You have to decide what is worth it and what isn't. If you don't balance, if you are not asking the right questions, or if you are not setting the boundaries then one day you will end up with regrets. To minimize your regrets, know your trade-offs and set your non-negotiables, so you can truly live your life.
+- Lack of father figure taught me to gift time, not things. Becoming a father taught me to never mess this up.
