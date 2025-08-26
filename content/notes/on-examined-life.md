@@ -190,6 +190,7 @@ Stoicism, along with other philosophical frameworks, life experiences, and lesso
 - **Conduct annual reflection** on everything that matters.
 - **Status seeking activities will eventually burn you out.** Focus on substance and enduring value creation.
 - **Slowing down feels natural as you get older.** Shift your priorities, lean into changes, be curious about new things, maintain child like wonder and move a lot. This should help prevent from slowing down.
+- **The willingness to problem-solve is underrated.** Be the person who brings solutions and answers, not more questions. The employee who says “I researched this, here are three options, I recommend X because Y” becomes indispensable. Resourcefulness beats credentials every time because there is no playbook. No precedent. Once you do this, you will draw right people's attention.
 - **High agents don't ask for approvals and permissions.** Figure out what you want to do, and plant the “this is happening” flag. People will come along for the ride.
 
 > I am the master of my fate. I am the captain of my soul. — Mandela
