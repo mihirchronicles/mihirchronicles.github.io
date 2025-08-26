@@ -18,9 +18,50 @@ Below is my attempt to capture what I _know_ and what I have _learned_ so far fr
 
 | Name | Bio | 
 | -------------|:-------------:|
-| _Separately Managed Accounts_ | It is an investment portfolio owned and managed by a professional asset management firm, often a registered investment advisor (RIA). Unlike mutual funds or ETFs, SMAs allow investors to directly own individual securities and customize their portfolio to align with their specific financial goals and preferences. |
 | _Donor Advised Funds_ | A donor-advised fund (DAF) is a charitable giving vehicle that allows individuals, families, and businesses to make tax-deductible contributions to a sponsoring organization, which then holds and invests the funds in a separate account. The donor retains advisory privileges over how the funds are distributed to qualified charitable organizations over time. |
+| _Separately Managed Accounts_ | It is an investment portfolio owned and managed by a professional asset management firm, often a registered investment advisor (RIA). Unlike mutual funds or ETFs, SMAs allow investors to directly own individual securities and customize their portfolio to align with their specific financial goals and preferences. |
 | _Robo-advisors_ | Robo-advisors are automated investment platforms that use algorithms to provide financial planning and portfolio management services with minimal human intervention. |
+
+<details>
+    <summary><strong>Donor Advised Funds</strong></summary>
+    <br>
+
+A Donor-Advised Fund (DAF) is a charitable giving account established at a public charity, known as the sponsoring organization, which manages and administers the fund on behalf of the donor. Eligible contributions such as cash, or appreciated securities generally allow for immediate tax deduction. The assets in the DAF can then be invested for tax-free growth. Grants can be recommended from DAF account to any eligible IRS-qualified public charity at any time.
+
+The competitive landscape includes traditional wealth management firms, community foundations, and newer technology-focused providers, each offering different fee structures, investment options, and service levels to attract donors and their financial advisors.
+
+**Core Services**:
+- Initial Contribution: Donors contribute cash, securities, or other assets to their DAF account and receive an immediate tax deduction for the full fair market value of the contribution.
+- Investment Growth: The sponsoring organization invests the contributed funds, allowing them to potentially grow tax-free over time while awaiting distribution to charities.
+- Grant Recommendations: Donors can recommend grants from their DAF to qualified charitable organizations whenever they choose. While the sponsoring organization has legal control over the funds, they typically honor the donor's recommendations.
+
+**Key Advantages**:
+- Tax Benefits: Immediate tax deduction upon contribution, even if grants are made years later. This allows donors to "bunch" charitable deductions in high-income years.
+- Investment Growth: Funds can be invested and grow tax-free, potentially increasing the total amount available for charitable giving.
+- Flexibility: Donors can take time to research charities and make thoughtful giving decisions without time pressure.
+- Simplified Administration: The sponsoring organization handles all the administrative work, tax reporting, and due diligence on recipient charities.
+
+**Major Players**:
+- Fidelity Charitable
+- Schwab Charitable
+- Daffy
+
+**More on DAFs**: 
+- DAF is mostly the United States concept.
+- DAFs were originated by community foundations to boost charitable giving. The first DAF was created in 1931 by the New York Community Trust. Overtime commercial investment services got involved which boosted charitable giving further.
+- DAF — donor advised fund is an investment account which could be opened via a brokerage service that lets you take a tax deduction when contributions are made and give the money to a charity later.
+- DAF allows for maximizing granting by investing the money tax-free.
+- A grant can be made anytime from a DAF to a charity of your choice. Approval of a grant is at DAF sponsor's discretionary based on their internal policies.
+- DAF provider charges an administrative fee to invest your DAF and make donations when you recommend them. Administrative fee varies based on an account balance and contributions.
+- Investment options are limited to index funds unless you have a professionally managed account which requires a high account balance. There are certain players who are starting to offer ETFs but not widely adopted.
+- DAF is a 501(c)3 organization which needs to comply with [IRS guidelines](https://www.irs.gov/charities-non-profits/charitable-organizations/donor-advised-funds). 
+- While there are certain charity exemption rules, IRS qualified charities need to meet eligibility requirements. More from [IRS](https://www.irs.gov/charities-and-nonprofits).
+- IRS provides [The Exempt Organizations Business Master File Extract](https://www.irs.gov/charities-non-profits/exempt-organizations-business-master-file-extract-eo-bmf) which provides information about an organization from the Internal Revenue Service's Business Master File. It has the most recent information the IRS has for these organizations.
+- There are IRS guidelines on [charitable contributions](https://www.irs.gov/charities-non-profits/charitable-organizations/donor-advised-funds). Contribution type varies from cash to non-cash to complex assets.
+- To be eligible to claim a tax deduction in a given tax year, you must complete the contribution to your DAF by the last day of the year — December 31.
+
+</details>
+<br>
 
 <details>
     <summary><strong>Separately Managed Accounts</strong></summary>
@@ -63,47 +104,6 @@ Investors have direct access to their portfolio and holdings, unlike mutual fund
 - Blackrock
 - JP Morgan Chase
 - Goldman Sachs
-
-</details>
-<br>
-
-<details>
-    <summary><strong>Donor Advised Funds</strong></summary>
-    <br>
-
-A Donor-Advised Fund (DAF) is a charitable giving account established at a public charity, known as the sponsoring organization, which manages and administers the fund on behalf of the donor. Eligible contributions such as cash, or appreciated securities generally allow for immediate tax deduction. The assets in the DAF can then be invested for tax-free growth. Grants can be recommended from DAF account to any eligible IRS-qualified public charity at any time.
-
-The competitive landscape includes traditional wealth management firms, community foundations, and newer technology-focused providers, each offering different fee structures, investment options, and service levels to attract donors and their financial advisors.
-
-**Core Services**:
-- Initial Contribution: Donors contribute cash, securities, or other assets to their DAF account and receive an immediate tax deduction for the full fair market value of the contribution.
-- Investment Growth: The sponsoring organization invests the contributed funds, allowing them to potentially grow tax-free over time while awaiting distribution to charities.
-- Grant Recommendations: Donors can recommend grants from their DAF to qualified charitable organizations whenever they choose. While the sponsoring organization has legal control over the funds, they typically honor the donor's recommendations.
-
-**Key Advantages**:
-- Tax Benefits: Immediate tax deduction upon contribution, even if grants are made years later. This allows donors to "bunch" charitable deductions in high-income years.
-- Investment Growth: Funds can be invested and grow tax-free, potentially increasing the total amount available for charitable giving.
-- Flexibility: Donors can take time to research charities and make thoughtful giving decisions without time pressure.
-- Simplified Administration: The sponsoring organization handles all the administrative work, tax reporting, and due diligence on recipient charities.
-
-**Major Players**:
-- Fidelity Charitable
-- Schwab Charitable
-- Daffy
-
-**More on DAFs**: 
-- DAF is mostly the United States concept.
-- DAFs were originated by community foundations to boost charitable giving. The first DAF was created in 1931 by the New York Community Trust. Overtime commercial investment services got involved which boosted charitable giving further.
-- DAF — donor advised fund is an investment account which could be opened via a brokerage service that lets you take a tax deduction when contributions are made and give the money to a charity later.
-- DAF allows for maximizing granting by investing the money tax-free.
-- A grant can be made anytime from a DAF to a charity of your choice. Approval of a grant is at DAF sponsor's discretionary based on their internal policies.
-- DAF provider charges an administrative fee to invest your DAF and make donations when you recommend them. Administrative fee varies based on an account balance and contributions.
-- Investment options are limited to index funds unless you have a professionally managed account which requires a high account balance. There are certain players who are starting to offer ETFs but not widely adopted.
-- DAF is a 501(c)3 organization which needs to comply with [IRS guidelines](https://www.irs.gov/charities-non-profits/charitable-organizations/donor-advised-funds). 
-- While there are certain charity exemption rules, IRS qualified charities need to meet eligibility requirements. More from [IRS](https://www.irs.gov/charities-and-nonprofits).
-- IRS provides [The Exempt Organizations Business Master File Extract](https://www.irs.gov/charities-non-profits/exempt-organizations-business-master-file-extract-eo-bmf) which provides information about an organization from the Internal Revenue Service's Business Master File. It has the most recent information the IRS has for these organizations.
-- There are IRS guidelines on [charitable contributions](https://www.irs.gov/charities-non-profits/charitable-organizations/donor-advised-funds). Contribution type varies from cash to non-cash to complex assets.
-- To be eligible to claim a tax deduction in a given tax year, you must complete the contribution to your DAF by the last day of the year — December 31.
 
 </details>
 <br>
