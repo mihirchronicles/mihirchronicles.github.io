@@ -1,9 +1,9 @@
 ---
-title: "Beyond Intellectually Stuck"
+title: "Intricate Details"
 tags: ["general"]
 date: "2025-04-19"
 draft: false
-path: "/essays/beyond-intellectually-stuck"
+path: "/essays/intricate-details"
 ---
 
 The crucial role of details and moving beyond the surface has a significant impact on an outcome, but is often overlooked by intellectuals due to the ease with which simplification can be sold.
