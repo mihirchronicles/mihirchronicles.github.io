@@ -34,7 +34,7 @@ A writing culture promotes a more objective approach to decision-making by prior
 
 Writing culture is the most effective way to create an organization’s flywheel, especially in the era of artificial intelligence. Abundance will necessitate curation, but you can’t curate without thinking, and you can’t think without writing.
 
-Writing culture emphasizes comprehension over aesthetics, nuance over generality, clarity over vagueness, deliberation over impulse, and rigor over hierarchy.
+Writing culture emphasizes nuance over generality, deliberation over impulse, comprehension over aesthetics, clarity over vagueness, and rigor over hierarchy.
 
 Be a builder who writes because...
 
