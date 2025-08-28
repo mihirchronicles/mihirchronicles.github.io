@@ -1,12 +1,12 @@
 ---
-title: "Who Defines The Scope"
+title: "Scope Master"
 tags: ["general"]
 date: "2025-05-11"
 draft: false
-path: "/essays/who-defines-the-scope"
+path: "/essays/scope-master"
 ---
 
-Who defines the scope? It may sound like a simple question but it is not.
+Who defines the scope? It may sound like a simple question, but it is not.
 
 Is it a customer, a CEO, a board of directors, an operations team, sales, or an investor? 
 
@@ -40,5 +40,5 @@ Over-provisioning your most important team and empowering them with decision-mak
 
 So back to who owns the scope? The size of your company will certainly influence your answer. Regardless of the size, it is crucial to understand your core purpose that drives the organizational structure. If you get your organizational structure right, you will drive the impact for your customers. Scope ownership is paramount if your organization is serious about execution.
 
-A symmetrical chart is not the desired outcome for your customers. They are not interested in your OKRs; they want solutions that make their lives easier so they can continue their relationship with your organization.
+A symmetrical chart is not the desired outcome for your customers. They are not interested in your OKRs; they want solutions that make their lives easier, so they can continue their relationship with your organization.
 
