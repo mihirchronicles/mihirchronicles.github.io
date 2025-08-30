@@ -11,16 +11,22 @@ const WorkIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <h1>Work</h1>
-      <p>Creating products is an unparalleled joy, akin to nurturing an idea that blossoms into experimentation. As a tool maker, a simple product can move society forward. And the progress is how I measure my value on this planet. It all begins with a single thought. Product development can be perceived as either chaotic or orderly, instilling hope and a sense of vitality. The journey of building products has broadened my understanding of various subjects, which have proven invaluable in my professional life. Below are the products I’ve had the privilege of working on.</p>
+      <p>Creating products is an unparalleled joy, akin to nurturing an idea that blossoms into experimentation. Building allows you to understand how things work. As a tool maker, a simple product can move society forward. It all begins with a single thought. Product development can be perceived as either chaotic or orderly, instilling hope and a sense of vitality. The journey of building products has broadened my understanding of various subjects, which have proven invaluable to my professional life. Below are the products I’ve had the privilege of working on.</p>
 
       <h2>DAFgiving360 (Schwab Charitable)</h2>
+      <div>
+        <StaticImage src="../images/daf.png" alt="dafgiving360 donor advised fund" className="gallery-image" />
+      </div>
       <p><strong>[2023 - Current]</strong></p>
-      <p><strong>Details</strong>: I am currently leading digital product strategy and execution for donor advised funds (DAF) at DAFgiving360. Optimizing capabilities and user experiences that connect donors with 255,000+ charities nationwide.</p>
+      <p><strong>Details</strong>: Driving digital product strategy and execution for donor advised funds (DAF) at DAFgiving360. Optimizing capabilities and user experiences that connect donors with 255,000+ charities nationwide.</p>
       <p><strong>Website</strong>: <a href="https://www.dafgiving360.org">DAFgiving360</a></p>
 
       <h2>Schwab Intelligent Portfolios</h2>
+      <div>
+        <StaticImage src="../images/sip.png" alt="schwab intelligent portfolios" className="gallery-image" />
+      </div>
       <p><strong>[2021 - 2023]</strong></p>
-      <p><strong>Details</strong>: Worked on Schwab Intelligent Portfolio—a robo advisor platform for automated investing—to re-modernize user experience and re-platform capabilities around risk profiling and portfolio recommendation.</p>
+      <p><strong>Details</strong>: Led effort on modernizing risk profile and recommendation for automated investing offering (robo-advisor) to reduce the number of questions resulting in a fewer clicks and faster onboarding experience and investment portfolio recommendation.</p>
       <p><strong>Website</strong>: <a href="https://intelligent.schwab.com">Schwab Intelligent Portfolios</a></p>
 
       <h2>Big Imposter</h2>
