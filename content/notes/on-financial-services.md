@@ -848,6 +848,7 @@ He is a master in decision-making and critical thinking which are critical in in
         - [The Great Inflation](https://www.federalreservehistory.org/essays/great-inflation)
         - [Inflation by IMF](https://www.imf.org/en/Publications/fandd/issues/Series/Back-to-Basics/Inflation)
         - [New York Fed](https://www.newyorkfed.org)
+        - [FOMC](https://www.federalreserve.gov/monetarypolicy/fomc.htm)
         - [Recession of 1937–38](https://www.federalreservehistory.org/essays/recession-of-1937-38)
         - [Full Employment and Balanced Growth Act of 1978 (Humphrey-Hawkins)](https://www.federalreservehistory.org/essays/humphrey-hawkins-act)
         - [Political Parties in Power and U.S. Economic Performance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3542494)
