@@ -17,17 +17,11 @@ const ArtIndex = ({ data, location }) => {
         <StaticImage src="../images/art/pleasesmile.png" alt="smile" className="gallery-image"/>
         <StaticImage src="../images/art/reading_under_lamp.png" alt="readingunderlamp" className="gallery-image"/>
         <StaticImage src="../images/art/landscape.png" alt="landscape" className="gallery-image"/>
-        <StaticImage src="../images/art/house.png" alt="house" className="gallery-image"/>
         <StaticImage src="../images/art/austin-music.png" alt="austinmusic" className="gallery-image"/>
-        <StaticImage src="../images/art/peoplegarden.png" alt="peoplegarden" className="gallery-image"/>
         <StaticImage src="../images/art/readers.png" alt="readers" className="gallery-image"/>
         <StaticImage src="../images/art/reading.png" alt="reading" className="gallery-image"/>
         <StaticImage src="../images/art/paindoc.jpg" alt="paindoc" className="gallery-image"/>
         <StaticImage src="../images/art/hugart.png"alt="hugart" className="gallery-image"/>
-        <StaticImage src="../images/art/supportart.png" alt="supportart" className="gallery-image"/>
-        <StaticImage src="../images/art/kind_avacado.png" alt="kind_avacado" className="gallery-image"/>
-        <StaticImage src="../images/art/dancewithuniverse.png"alt="dancewithuniverse" className="gallery-image"/>
-        <StaticImage src="../images/art/diaper.png"alt="diaper" className="gallery-image"/>
         <StaticImage src="../images/art/couple.png" alt="couple" className="gallery-image"/>
         <StaticImage src="../images/art/incredible_people.png" alt="incrediblepeople" className="gallery-image"/>
         <StaticImage src="../images/art/beach.png" alt="beach" className="gallery-image"/>
