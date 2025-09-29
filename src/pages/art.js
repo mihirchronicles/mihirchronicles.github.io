@@ -11,7 +11,7 @@ const ArtIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <h1>Art</h1>
-      <p>Getting lost in imagination, colors, and shapes is an exhilarating experience. Art has been a powerful tool for me to expand my imagination and foster a sense of curiosity and creativity. Engaging in artistic endeavors provides an excellent way to escape from the mundane realities of life, allowing me to indulge in fun and playful moments. I’ve shared a few of my sketches and paintings for your enjoyment.</p>
+      <p>Art has been a powerful tool for me to expand my imagination and foster a sense of curiosity and creativity. Engaging in artistic endeavors provides an excellent way to escape from the mundane realities of life, allowing one to indulge in fun and playful moments.</p>
       <div>
         <StaticImage src="../images/art/beachday.png" alt="beach day" className="gallery-image"/>
         <StaticImage src="../images/art/pleasesmile.png" alt="smile" className="gallery-image"/>

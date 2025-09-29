@@ -21,7 +21,7 @@ const NotesIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <h1>Notes</h1>
-      <p>I’ve been a lifelong student, and I love diving into topics that genuinely interest me. I’ve compiled my deep dive notes, which I’m constantly exploring and expanding upon. Each topic is a continuous journey, and I often revisit them as my knowledge grows.</p>
+      <p>I’ve compiled my deep dive notes, which I’m constantly exploring and expanding upon. Each topic is a continuous journey, and I often revisit them as my knowledge expands.</p>
       <ul>
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug

@@ -21,7 +21,7 @@ const EssayIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <h1>Essays</h1>
-      <p>These essays are a reflection of my observations, both personal and professional. There’s no particular theme; I explore whatever comes to mind or topics that challenge me. Each essay digs deeper into my own ignorance by posing difficult questions. They help me clarify my thoughts and develop coherent reasoning.</p>
+      <p>These essays are a reflection of my observations at a both personal and professional level. There’s no particular theme. I explore questions that I cannot stop thinking about. Each essay digs deeper into my own ignorance which helps me clarify my thoughts.</p>
       <ul>
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug

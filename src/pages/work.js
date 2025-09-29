@@ -11,7 +11,7 @@ const WorkIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <h1>Work</h1>
-      <p>Creating products is an unparalleled joy, akin to nurturing an idea that blossoms into experimentation. Building allows you to understand how things work. As a tool maker, a simple product can move society forward. It all begins with a single thought. Product development can be perceived as either chaotic or orderly, instilling hope and a sense of vitality. The journey of building products has broadened my understanding of various subjects, which have proven invaluable to my professional life. Below are the products I’ve had the privilege of working on.</p>
+      <p>Nurturing an idea that blossoms into an experimentation is an unparalleled joy. The journey of building products has broadened my understanding of various subjects and how things work. Below are the products I’ve had a privilege of working on.</p>
 
       <h2>DAFgiving360 (Schwab Charitable)</h2>
       <div>
