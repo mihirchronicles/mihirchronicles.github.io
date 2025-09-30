@@ -347,17 +347,6 @@ Overview of Porter’s Five Forces:
 - Bargaining power of suppliers: how easily can suppliers drive their prices up? How well can they negotiate?
 - Rivalry amongst existing competitors: How many competitors are in an industry? How strong are they?
 
-### Competitor analysis
-
-Understanding competitors’ strategy, business model, and future plans help us design better products and experiences. We can anticipate how competitors will react to our innovations, and how we can differentiate better (create unique value for our users).
-
-- The first step of competitor analysis is identifying competitors.
-- Divide the competition into direct and indirect competitors. Direct competitors are companies that offer the same product (or service) and indirect competitors offer a different product that solves the same problem. For example, Uber’s direct competitors are taxi companies and Lyft. The indirect competitors are bike sharing services, public transport, car sharing services, and walking on foot.
-- Gather data for insights. Divide data gathering into three buckets:
-    - Business data: revenue, market share, etc.
-    - Product data: product portfolio, features, etc.
-    - Customers data: target group, reviews, etc.
-
 ### 7 powers
 
 Strategy is the study of the fundamental determinants of potential business value. Strategy (capitalized) is distinguished from strategy (lower case) and is divided into Statics (or “being there”) and Dynamics (or “getting there”).
@@ -414,28 +403,6 @@ Hamilton Helmer covers 7 powers that companies can leverage on:
     - While making a decision, look out for problems that are larger than the current scope. Able to deal with these trade-offs are impactful both in negative and positive way.
 - **Celebrating small and big wins to create product culture**:
     - Celebrate if a feature optimization helps your product become faster. Celebrate if a feature optimization helps save a penny for your customer. Celebrate all small wins.
-
-## Product log
-
-An investigation into products is the best way to build product sense. Highlighting what is working, but also covering product friction—challenge, difficulty, or point of frustration a user encounters while interacting with a product—will allow you to build your product sense. This is how you drive continuous improvement and fix hidden pain points. Can’t continue to build great product muscle by reading articles. Hands-on experience beats any book or lecture in gaining a deep understanding of how to build great products. Below are a list of questions to get started when you are doing a product log or a product teardown.
-
-- _Objective_: What is the offering? What is the user trying to accomplish?
-- _Persona/Target User_: Who is the user (persona, experience level)?
-- _Background_: What is the founder/organization story? What is their mission? What is the motivation for people behind the product?
-- _Pain Points/Obstacles_: Where did the user encounter friction?  What problem does this product solve? Is this really a problem? Is it an underlying problem or a surface level problem? How painful is this problem for users?
-- _Positive Elements_: What worked well or delighted the user?
-- _Personalization_: How much customization affordance does a product offer to its clients?
-- _Competitors_: Who are the most competent competitors to this offering? How does this compare to using an alternative solution? Does a market really need another offering?
-- _Severity & Impact_: How serious is the issue? (often color-coded or scored)
-- _User Delight_: Are there any design patterns or user experience that standout?
-- _Org Structure_: Do they have unique organizational structure to empower product, design and engineering to solve user problems? What is their team culture?
-- _Growth & Distribution_: How does the product grow? Are there any unique growth strategies? What is the distribution model?
-- _Strategy_: What is the strategic goal? How does it support the business model?
-- _Step-by-Step Log_: Detailed account of actions taken and what happened at each step.
-- _Suggested Improvements_: Ideas for resolving the friction.
-
-## Major subtopics of product management
-
 - **Product Intuition**: Excellent product managers have great product sense. Below are the tips to getting there. The more you practice them, the better you will build product intuition while helping you make high conviction decisions. Your management expects you to have a good enough sense of your team’s capacity and velocity that you can make the call on the spot. If you don’t, you’ll immediately lose the respect of the other stakeholders in the room. Build this muscle soon before you ask for trouble, and you’ll grow an intuition around sizing and difficulty.
     - Use your product like a real customer.
     - Validating business requirements in applications. Report bugs if something is broken.
@@ -491,6 +458,10 @@ An investigation into products is the best way to build product sense. Highlight
         - Why is this happening?
         - What is the impact?
         - What should we do about it (if anything)?
+    - Divide data insights into three buckets:
+        - Business data: revenue, market share, etc.
+        - Product data: product portfolio, features, etc.
+        - Customers data: target group, reviews, etc.
 - **Capabilities vs Domain vs Experience**: When requirements are defined, the big question is where to host the requirements? Like everything else, it depends on business architecture modeling. This is mostly designed by a system architect. How it gets packaged is not a product concern, but need to understand to drive feature requirements. No system is right or wrong, but a core architectural system might have the following: 
     - Domain: What is the core functionality that drives business objective? It is associated with one data store in a database. Domains can be grouped in many ways, but it should always be driven by business objective that drives business value. For example, Order Management. 
     - Capabilities: How functionalities can be grouped. This layer can interact with several data stores.
@@ -516,13 +487,22 @@ An investigation into products is the best way to build product sense. Highlight
         - Define 5-12 competing factors.
         - Plot a dominant industry line.
         - Create your blue ocean offer by asking what competing factors can we eliminate, decrease, raise, and introduce.
-- **Competitor Analysis**: Understanding competitors’ strategy, business model, and future plans help us design better products and experiences. We can anticipate how competitors will react to our innovations, and how we can differentiate better (create unique value for our users).
-    - The first step of competitor analysis is identifying competitors.
-    - Divide the competition into direct and indirect competitors. Direct competitors are companies that offer the same product (or service) and indirect competitors offer a different product that solves the same problem. For example, Uber’s direct competitors are taxi companies and Lyft. The indirect competitors are bike sharing services, public transport, car sharing services, and walking on foot. 
-    - Gather data for insights. Divide data gathering into three buckets:
-        - Business data: revenue, market share, etc.
-        - Product data: product portfolio, features, etc.
-        - Customers data: target group, reviews, etc.
+- **Competition**: Divide the competition into direct and indirect competitors. Direct competitors are companies that offer the same product (or service) and indirect competitors offer a different product that solves the same problem. For example, Uber’s direct competitors are taxi companies and Lyft. The indirect competitors are bike sharing services, public transport, car sharing services, and walking on foot. 
+- **Discovery & Analysis**: An investigation into products is the best way to build product sense. Highlighting what is working, but also covering product friction—challenge, difficulty, or point of frustration a user encounters while interacting with a product—will allow you to build your product sense. This is how you drive continuous improvement and fix hidden pain points. Can’t continue to build great product muscle by reading articles. Hands-on experience beats any book or lecture in gaining a deep understanding of how to build great products. Below are a list of questions to get started when you are doing a product log or a product teardown.
+    - Objective: What is the offering? What is the user trying to accomplish?
+    - Persona/Target User: Who is the user (persona, experience level)?
+    - Background: What is the founder/organization story? What is their mission? What is the motivation for people behind the product?
+    - Pain Points/Obstacles: Where did the user encounter friction? What problem does this product solve? Is this really a problem? Is it an underlying problem or a surface level problem? How painful is this problem for users?
+    - Positive Elements: What worked well or delighted the user?
+    - Personalization: How much customization affordance does a product offer to its clients?
+    - Competitors: Who are the most competent competitors to this offering? How does this compare to using an alternative solution? Does a market really need another offering?
+    - Severity & Impact: How serious is the issue? (often color-coded or scored)
+    - User Delight: Are there any design patterns or user experience that standout?
+    - Org Structure: Do they have unique organizational structure to empower product, design and engineering to solve user problems? What is their team culture?
+    - Growth & Distribution: How does the product grow? Are there any unique growth strategies? What is the distribution model?
+    - Strategy: What is the strategic goal? How does it support the business model?
+    - Step-by-Step Log: Detailed account of actions taken and what happened at each step.
+    - Suggested Improvements: Ideas for resolving the friction.
 
 ## Further reading
 <details>
