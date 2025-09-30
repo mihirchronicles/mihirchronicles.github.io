@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 29 Sep 2025 21:17:01 GMT</lastBuildDate><item><title><![CDATA[Writing Culture]]></title><description><![CDATA[The most effective approach to addressing dystopia within a large organization is to establish a writing culture. This is equally true for…]]></description><link>https://mihirchronicles.com/writing-culture/</link><guid isPermaLink="false">https://mihirchronicles.com/writing-culture/</guid><pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;The most effective approach to addressing dystopia within a large organization is to establish a writing culture. This is equally true for organizations who are small but desire to scale one day.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 30 Sep 2025 14:00:56 GMT</lastBuildDate><item><title><![CDATA[Writing Culture]]></title><description><![CDATA[The most effective approach to addressing dystopia within a large organization is to establish a writing culture. This is equally true for…]]></description><link>https://mihirchronicles.com/writing-culture/</link><guid isPermaLink="false">https://mihirchronicles.com/writing-culture/</guid><pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;The most effective approach to addressing dystopia within a large organization is to establish a writing culture. This is equally true for organizations who are small but desire to scale one day.&lt;/p&gt;
 &lt;p&gt;By codifying ideas through words, we effectively codify our thinking. If you are a builder then you should take writing seriously.&lt;/p&gt;
 &lt;p&gt;Engaging in the act of writing about any subject matter will necessitate critical thinking, regardless of your prior knowledge on the topic. This process serves as a valuable tool for identifying product gaps and identifying potential opportunities. It is important to note that writing about a subject does not replace the need for thorough research, analysis, and client interviews. However, once you have gathered sufficient information, the next logical step is to systematically document and synthesize your knowledge.&lt;/p&gt;
 &lt;p&gt;Writing is an excellent technique for learning about unfamiliar places. By processing information and then writing about it, you engage in critical thinking and recollection. The more you recall, the stronger your neurons become, as the saying goes, “neurons that fire together, wire together.”&lt;/p&gt;
@@ -17184,19 +17184,6 @@ Author Robert Cialdini (Ph.D.) explores the mental bias of reciprocation tendenc
 &lt;li&gt;Bargaining power of suppliers: how easily can suppliers drive their prices up? How well can they negotiate?&lt;/li&gt;
 &lt;li&gt;Rivalry amongst existing competitors: How many competitors are in an industry? How strong are they?&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Competitor analysis&lt;/h3&gt;
-&lt;p&gt;Understanding competitors’ strategy, business model, and future plans help us design better products and experiences. We can anticipate how competitors will react to our innovations, and how we can differentiate better (create unique value for our users).&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The first step of competitor analysis is identifying competitors.&lt;/li&gt;
-&lt;li&gt;Divide the competition into direct and indirect competitors. Direct competitors are companies that offer the same product (or service) and indirect competitors offer a different product that solves the same problem. For example, Uber’s direct competitors are taxi companies and Lyft. The indirect competitors are bike sharing services, public transport, car sharing services, and walking on foot.&lt;/li&gt;
-&lt;li&gt;Gather data for insights. Divide data gathering into three buckets:
-&lt;ul&gt;
-&lt;li&gt;Business data: revenue, market share, etc.&lt;/li&gt;
-&lt;li&gt;Product data: product portfolio, features, etc.&lt;/li&gt;
-&lt;li&gt;Customers data: target group, reviews, etc.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 &lt;h3&gt;7 powers&lt;/h3&gt;
 &lt;p&gt;Strategy is the study of the fundamental determinants of potential business value. Strategy (capitalized) is distinguished from strategy (lower case) and is divided into Statics (or “being there”) and Dynamics (or “getting there”).&lt;/p&gt;
 &lt;p&gt;Lower case strategy is a route to continuing Power in significant markets. Lower case &quot;strategy&quot; is also referred to as The Mantra.&lt;/p&gt;
@@ -17269,27 +17256,6 @@ Author Robert Cialdini (Ph.D.) explores the mental bias of reciprocation tendenc
 &lt;li&gt;Celebrate if a feature optimization helps your product become faster. Celebrate if a feature optimization helps save a penny for your customer. Celebrate all small wins.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Product log&lt;/h2&gt;
-&lt;p&gt;An investigation into products is the best way to build product sense. Highlighting what is working, but also covering product friction—challenge, difficulty, or point of frustration a user encounters while interacting with a product—will allow you to build your product sense. This is how you drive continuous improvement and fix hidden pain points. Can’t continue to build great product muscle by reading articles. Hands-on experience beats any book or lecture in gaining a deep understanding of how to build great products. Below are a list of questions to get started when you are doing a product log or a product teardown.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Objective&lt;/em&gt;: What is the offering? What is the user trying to accomplish?&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Persona/Target User&lt;/em&gt;: Who is the user (persona, experience level)?&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Background&lt;/em&gt;: What is the founder/organization story? What is their mission? What is the motivation for people behind the product?&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Pain Points/Obstacles&lt;/em&gt;: Where did the user encounter friction?  What problem does this product solve? Is this really a problem? Is it an underlying problem or a surface level problem? How painful is this problem for users?&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Positive Elements&lt;/em&gt;: What worked well or delighted the user?&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Personalization&lt;/em&gt;: How much customization affordance does a product offer to its clients?&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Competitors&lt;/em&gt;: Who are the most competent competitors to this offering? How does this compare to using an alternative solution? Does a market really need another offering?&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Severity &amp;#x26; Impact&lt;/em&gt;: How serious is the issue? (often color-coded or scored)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;User Delight&lt;/em&gt;: Are there any design patterns or user experience that standout?&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Org Structure&lt;/em&gt;: Do they have unique organizational structure to empower product, design and engineering to solve user problems? What is their team culture?&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Growth &amp;#x26; Distribution&lt;/em&gt;: How does the product grow? Are there any unique growth strategies? What is the distribution model?&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Strategy&lt;/em&gt;: What is the strategic goal? How does it support the business model?&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Step-by-Step Log&lt;/em&gt;: Detailed account of actions taken and what happened at each step.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Suggested Improvements&lt;/em&gt;: Ideas for resolving the friction.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Major subtopics of product management&lt;/h2&gt;
-&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Product Intuition&lt;/strong&gt;: Excellent product managers have great product sense. Below are the tips to getting there. The more you practice them, the better you will build product intuition while helping you make high conviction decisions. Your management expects you to have a good enough sense of your team’s capacity and velocity that you can make the call on the spot. If you don’t, you’ll immediately lose the respect of the other stakeholders in the room. Build this muscle soon before you ask for trouble, and you’ll grow an intuition around sizing and difficulty.
 &lt;ul&gt;
 &lt;li&gt;Use your product like a real customer.&lt;/li&gt;
@@ -17379,6 +17345,13 @@ Author Robert Cialdini (Ph.D.) explores the mental bias of reciprocation tendenc
 &lt;li&gt;What should we do about it (if anything)?&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;Divide data insights into three buckets:
+&lt;ul&gt;
+&lt;li&gt;Business data: revenue, market share, etc.&lt;/li&gt;
+&lt;li&gt;Product data: product portfolio, features, etc.&lt;/li&gt;
+&lt;li&gt;Customers data: target group, reviews, etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Capabilities vs Domain vs Experience&lt;/strong&gt;: When requirements are defined, the big question is where to host the requirements? Like everything else, it depends on business architecture modeling. This is mostly designed by a system architect. How it gets packaged is not a product concern, but need to understand to drive feature requirements. No system is right or wrong, but a core architectural system might have the following:
@@ -17424,17 +17397,23 @@ Author Robert Cialdini (Ph.D.) explores the mental bias of reciprocation tendenc
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Competitor Analysis&lt;/strong&gt;: Understanding competitors’ strategy, business model, and future plans help us design better products and experiences. We can anticipate how competitors will react to our innovations, and how we can differentiate better (create unique value for our users).
+&lt;li&gt;&lt;strong&gt;Competition&lt;/strong&gt;: Divide the competition into direct and indirect competitors. Direct competitors are companies that offer the same product (or service) and indirect competitors offer a different product that solves the same problem. For example, Uber’s direct competitors are taxi companies and Lyft. The indirect competitors are bike sharing services, public transport, car sharing services, and walking on foot.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Discovery &amp;#x26; Analysis&lt;/strong&gt;: An investigation into products is the best way to build product sense. Highlighting what is working, but also covering product friction—challenge, difficulty, or point of frustration a user encounters while interacting with a product—will allow you to build your product sense. This is how you drive continuous improvement and fix hidden pain points. Can’t continue to build great product muscle by reading articles. Hands-on experience beats any book or lecture in gaining a deep understanding of how to build great products. Below are a list of questions to get started when you are doing a product log or a product teardown.
 &lt;ul&gt;
-&lt;li&gt;The first step of competitor analysis is identifying competitors.&lt;/li&gt;
-&lt;li&gt;Divide the competition into direct and indirect competitors. Direct competitors are companies that offer the same product (or service) and indirect competitors offer a different product that solves the same problem. For example, Uber’s direct competitors are taxi companies and Lyft. The indirect competitors are bike sharing services, public transport, car sharing services, and walking on foot.&lt;/li&gt;
-&lt;li&gt;Gather data for insights. Divide data gathering into three buckets:
-&lt;ul&gt;
-&lt;li&gt;Business data: revenue, market share, etc.&lt;/li&gt;
-&lt;li&gt;Product data: product portfolio, features, etc.&lt;/li&gt;
-&lt;li&gt;Customers data: target group, reviews, etc.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
+&lt;li&gt;Objective: What is the offering? What is the user trying to accomplish?&lt;/li&gt;
+&lt;li&gt;Persona/Target User: Who is the user (persona, experience level)?&lt;/li&gt;
+&lt;li&gt;Background: What is the founder/organization story? What is their mission? What is the motivation for people behind the product?&lt;/li&gt;
+&lt;li&gt;Pain Points/Obstacles: Where did the user encounter friction? What problem does this product solve? Is this really a problem? Is it an underlying problem or a surface level problem? How painful is this problem for users?&lt;/li&gt;
+&lt;li&gt;Positive Elements: What worked well or delighted the user?&lt;/li&gt;
+&lt;li&gt;Personalization: How much customization affordance does a product offer to its clients?&lt;/li&gt;
+&lt;li&gt;Competitors: Who are the most competent competitors to this offering? How does this compare to using an alternative solution? Does a market really need another offering?&lt;/li&gt;
+&lt;li&gt;Severity &amp;#x26; Impact: How serious is the issue? (often color-coded or scored)&lt;/li&gt;
+&lt;li&gt;User Delight: Are there any design patterns or user experience that standout?&lt;/li&gt;
+&lt;li&gt;Org Structure: Do they have unique organizational structure to empower product, design and engineering to solve user problems? What is their team culture?&lt;/li&gt;
+&lt;li&gt;Growth &amp;#x26; Distribution: How does the product grow? Are there any unique growth strategies? What is the distribution model?&lt;/li&gt;
+&lt;li&gt;Strategy: What is the strategic goal? How does it support the business model?&lt;/li&gt;
+&lt;li&gt;Step-by-Step Log: Detailed account of actions taken and what happened at each step.&lt;/li&gt;
+&lt;li&gt;Suggested Improvements: Ideas for resolving the friction.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
