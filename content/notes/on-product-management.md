@@ -503,6 +503,10 @@ Hamilton Helmer covers 7 powers that companies can leverage on:
     - Strategy: What is the strategic goal? How does it support the business model?
     - Step-by-Step Log: Detailed account of actions taken and what happened at each step.
     - Suggested Improvements: Ideas for resolving the friction.
+- **Assumption Setting**: Always account for assumptions and communicate clearly and widely with your team. Do not limit your solution or target population based on your defined assumptions. Consider them early on so you can scale your solution but they could be out of scope on Day 1.
+    - Role and context: State your assumed role and the company/product context
+    - Geographic focus: Specific market, behavior based on local culture or region
+    - Platform and constraints: Identify any technical or strategic constraints that will help focus your solution
 
 ## Further reading
 <details>
