@@ -201,7 +201,7 @@ The index fund revolution began during the 1960s where the emerging _Efficient M
 
 Edward Renshaw and Paul Feldstein, two University of Chicago students, proposed the first theoretical model for an index fund in 1960. They envisioned an "Unmanaged Investment Company" that would simply mirror market performance. Though their concept received little support at the time, it planted the intellectual seeds for what would become one of the 20th century's most transformative financial innovations.
 
-## Early pioneers and starters
+### Early pioneers and starters
 
 The transition from theory to practice began in the early 1970s with several experimental efforts that revealed the practical challenges ahead:
 - **Wells Fargo's Bold Beginning (1971)**: The bank launched one of the first index funds, initially tracking all 1,500 stocks on the New York Stock Exchange with equal weightings. This approach quickly proved unwieldy due to constant rebalancing requirements and prohibitive transaction costs.
@@ -257,7 +257,7 @@ The S&P 500's advantages have made it the cornerstone of modern portfolio constr
 - **Liquidity**: Deep markets ensure easy entry and exit
 - **Performance**: Beats the vast majority of active strategies over time
 
-But it also has the following limitatons:
+But it also has the following limitations:
 
 - **Small-Cap Underrepresentation**: High-growth smaller companies receive minimal index weight. The Russell 2000 outperformed the S&P 500 in six of ten years from 2010-2020, yet its impact on broad indices remained negligible.
 - **Disruption Lag**: The index can be slow to embrace transformative companies. For example, Tesla, despite dominating electric vehicles, remained excluded until 2020 due to inconsistent profitability requirements.
@@ -294,12 +294,14 @@ The competitive landscape includes traditional wealth management firms, communit
 - **Grant Recommendations**: Donors can recommend grants from their DAF to qualified charitable organizations whenever they choose. While the sponsoring organization has legal control over the funds, they typically honor the donor's recommendations.
 
 ### Benefits
+
 - **Tax Benefits**: Immediate tax deduction upon contribution, even if grants are made years later. This allows donors to "bunch" charitable deductions in high-income years.
 - **Investment Growth**: Funds can be invested and grow tax-free, potentially increasing the total amount available for charitable giving.
 - **Flexibility**: Donors can take time to research charities and make thoughtful giving decisions without time pressure.
 - **Simplified Administration**: The sponsoring organization handles all the administrative work, tax reporting, and due diligence on recipient charities.
 
 ### DAF log
+
 - Major Players:
     - Fidelity Charitable
     - Schwab Charitable
@@ -331,7 +333,8 @@ Between these two end of the spectrum is the growing universe of separately mana
 
 SMAs differ from pooled vehicles like mutual funds in that each portfolio is unique to a single account (hence the name). In other words, if you set up a separate account with Money Manager X, then Manager X has the discretion to make decisions for this account that may be different from decisions made for other accounts. Mutual funds cannot offer, due to their structure as investments shared by a group of investors, the benefit of customized portfolio management. Separate accounts overcome this barrier.
 
-## Core features
+### Core features
+
 - **Direct Ownership**: Investors own the underlying securities directly, rather than owning shares in a pooled fund.
 - **Customization**: SMAs offer flexibility to tailor the portfolio to specific needs, such as excluding certain sectors or companies.
 - **Professional Management**: SMAs are managed by professional investment firms who make investment decisions on the investor's behalf.
@@ -339,12 +342,14 @@ SMAs differ from pooled vehicles like mutual funds in that each portfolio is u
 - **Higher Minimums and Fees**: SMAs typically require higher minimum investment amounts and come with higher management fees compared to mutual funds or ETFs.
 
 ### Benefits
+
 - **Personalization**: Investors can tailor their portfolios to their specific needs, values, and risk tolerance.
 - **Tax Efficiency**: Tax-loss harvesting and avoidance of embedded capital gains can lead to tax savings.
 - **Transparency**: Investors have direct access to their portfolio and holdings, unlike mutual funds.
 - **Control**: Investors can work with their financial advisor to set parameters and guidelines for managing their investments.
 
 ### SMA log
+
 - Major Players:
     - Charles Schwab
     - Fidelity
@@ -386,6 +391,7 @@ Robo-advisors work well for investors who want professional portfolio management
 - **Goal-Based Investing**: Separate portfolios for different financial objectives with appropriate risk levels and time horizons.
 
 ### Robo log
+
 - Major players:
     - Schwab Intelligent Portfolios: No advisory fees but higher cash allocations.
     - Betterment: One of the pioneers, known for goal-based investing and user-friendly interface.
