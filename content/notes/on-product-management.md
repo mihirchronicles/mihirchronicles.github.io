@@ -451,26 +451,11 @@ Hamilton Helmer covers 7 powers that companies can leverage on:
     - Social media
         - User story: As a user, I want to share content from the app directly to my social media platforms, so that I can easily share interesting finds with my friends and followers.
         - Job story: When I come across something share- worthy in the app, I want a seamless way to post it on my social media, so I can engage with my network without switching between multiple apps.
-- **Analytical Thinking**: Being analytical isn’t only about numbers. It is about developing healthy skepticism and curiosity, validating your hypothesis (and having a hypothesis in the first place) and vetting with multiple data points to get closer to the truth. It gives you a competitive edge, and you will learn to make informed decisions.
-    - Retrieve: First, you need to learn how to get data. SQL is most common in work places.
-    - Analyze: Analytical thinking is to crunch numbers understand the why and execute at lightning speed. To do so you need the basic understanding of—patterns, nuances, absolute numbers & percentages, variances, expected vs actual, contribution to whole, peaks, margins and biases. 
-    - Look for clues by asking:
-        - Why is this happening?
-        - What is the impact?
-        - What should we do about it (if anything)?
-    - Divide data insights into three buckets:
-        - Business data: revenue, market share, etc.
-        - Product data: product portfolio, features, etc.
-        - Customers data: target group, reviews, etc.
+
 - **Capabilities vs Domain vs Experience**: When requirements are defined, the big question is where to host the requirements? Like everything else, it depends on business architecture modeling. This is mostly designed by a system architect. How it gets packaged is not a product concern, but need to understand to drive feature requirements. No system is right or wrong, but a core architectural system might have the following: 
     - Domain: What is the core functionality that drives business objective? It is associated with one data store in a database. Domains can be grouped in many ways, but it should always be driven by business objective that drives business value. For example, Order Management. 
     - Capabilities: How functionalities can be grouped. This layer can interact with several data stores.
     - Experiences: How it gets integrated with capabilities to drive different platforms such as native applications vs web applications. It can interact with more than one capability to drive client experience. Having this layer helps reduce rebuilding of redundant functionalities and logic for various operating systems.
-- **Go-to-Market (GTM)**: It is an organizational plan to deliver unique value proposition to customers and achieve competitive advantage. Below are the components of GTM. Start with debugging upstream or downstream of product cycle to optimize for GTM:
-    - What exactly are you building? It starts with vision. But if the vision is wrong everyone is going home. It starts with product management.
-    - How do you position it? How do you tell the story in a short-time frame without using product jargon? Great product use less words to spread the message. It starts with product marketing.
-    - How do you do demand generation? How do you do sales? If the product does not sell, there is a gap in product market fit.
-    - How do you do customer retention? If the customers are churning, there is value deceleration.
 -  **Product Market Fit (PMF)**: It is another way to say you are in search for demand curve or another way to say you have produced value. Product market fit allows a company to sell product at scale. When people want to pull it out of your hands that is a product market fit. Company building should happen when you have a product market fit.
     - Use cohort analysis to measure product market fit. Look at a group of people that tried your product in a period of time (week, month, quarter). Then look at how many of those people continue to use your product for a while. You will have a fairly deep drop-off on the first month. Does it flatten somewhere? If so, that means that there are customers who are finding value in your product, which means you have PMF with these customers.
     - Create a retention curve by plotting the percent of active users over time (for each cohort of users). If it flattens off at some point, you have probably found product/market fit for some market or audience.
@@ -507,6 +492,47 @@ Hamilton Helmer covers 7 powers that companies can leverage on:
     - Role and context: State your assumed role and the company/product context
     - Geographic focus: Specific market, behavior based on local culture or region
     - Platform and constraints: Identify any technical or strategic constraints that will help focus your solution
+- **Product Description**: Go beyond superficial descriptions. A compelling product statement is emotional, personal and inspirational. The 3 components your statement should address are customer value, strategic context, and mission statement. For example:
+    - Superficial: “This app tracks your daily steps.”
+    - Deeper Purpose: “This app transforms mundane movement into a visual journey of personal growth, helping you celebrate small victories and build confidence through the simple act of showing up for yourself each day.”
+- **Segmentation**: Segmentation begins with ecosystem analysis. It is part of systems thinking. 
+    - Start by mapping out all users in your product ecosystem, then pick one group that aligns with your mission and strategy. Once you've chosen your focus, break that group down into smaller segments based on how they behave, what motivates them, and their specific context. 
+    - Pick a segment that offer the best opportunities. 
+    - Finally, create a persona that captures the essence of your chosen segment.
+    - When developing segments, focus on meaningful differences in how people behave, what they need, and the situations they're in. Start by understanding why people use or would use your product—these core motivations shape everything else.
+    - Segmentation questions:
+        - Primary motivations: What fundamental goals drive their behavior?
+        - Behavioral patterns: How often do they use similar products, and in what ways?
+        - Context of use: Where, when, and how do they engage with your product?
+        - Expertise level: Are they beginners, intermediate users, or power users?
+        - Resource constraints: What limitations (time, money, knowledge, space) affect their usage?
+        - Goals and outcomes: What specific results are they trying to achieve?
+- **Journey Mapping**: Map out your persona's complete experience as it unfolds in their actual day-to-day life. It's a rich journey context with emotions.
+    - Skip the generic stages like “awareness” or “consideration” and get specific—what are they doing at 7am when they first hit the problem? How are they feeling on their commute when frustration builds? What makes them finally search for a solution while they're already juggling ten other things? Pay attention to the little details: where they are, what mood they're in, what's happening around them. These specifics turn your journey map from some abstract diagram into a real story that shows you exactly when and why problems pop up, which makes it way easier to spot where you can actually help.
+    - Identify pain points at each stage of the journey where users struggle, face uncertainty, or experience frustration. Frame these problems with specificity about context, emotional impact, and user outcomes. 
+    - Distinguish between needs (desires) and problems (obstacles).
+    - Once you've found a few real problems, pick one using two simple questions: how bad does it hurt when it happens (severity), and how often does it actually happen to your users (frequency)? You're usually looking for something that's both painful and happens a lot.
+    - There should be an obvious link between the problem you're solving and why you're doing this in the first place. It's a good reality check to make sure you're not just chasing something random.
+    - Once you have identified pain points, it is time to brainstorm solutions. Your solution should just not focus on impact but also the effort. Your users can't wait several quarters for you to solve their problems. A great solution factors in both impact and effort (scope).
+    - Identify potential challenges with your solution and how you might mitigate them, demonstrating strategic foresight and thoughtful planning.
+    - You should also consider stages in which you will launch (beta or v1). 
+    - Finally, identify go-to-market strategy. Explain how users would discover and engage with your solution, considering integration within existing product experiences and initial distribution strategy.
+- **Go-to-Market (GTM)**: It is an organizational plan to deliver unique value proposition to customers and achieve competitive advantage. Below are the components of GTM. Start with debugging upstream or downstream of product cycle to optimize for GTM:
+    - What exactly are you building? It starts with vision. But if the vision is wrong everyone is going home. It starts with product management.
+    - How do you position it? How do you tell the story in a short-time frame without using product jargon? Great product use less words to spread the message. It starts with product marketing.
+    - How do you do demand generation? How do you do sales? If the product does not sell, there is a gap in product market fit.
+    - How do you do customer retention? If the customers are churning, there is value deceleration.
+- **Analytical Thinking**: Being analytical isn’t only about numbers. It is about developing healthy skepticism and curiosity, validating your hypothesis (and having a hypothesis in the first place) and vetting with multiple data points to get closer to the truth. It gives you a competitive edge, and you will learn to make informed decisions.
+    - Retrieve: First, you need to learn how to get data. SQL is most common in work places.
+    - Analyze: Analytical thinking is to crunch numbers understand the why and execute at lightning speed. To do so you need the basic understanding of—patterns, nuances, absolute numbers & percentages, variances, expected vs actual, contribution to whole, peaks, margins and biases. 
+    - Look for clues by asking:
+        - Why is this happening?
+        - What is the impact?
+        - What should we do about it (if anything)?
+    - Divide data insights into three buckets:
+        - Business data: revenue, market share, etc.
+        - Product data: product portfolio, features, etc.
+        - Customers data: target group, reviews, etc.
 
 ## Further reading
 <details>
@@ -520,6 +546,7 @@ Hamilton Helmer covers 7 powers that companies can leverage on:
     - [The nature of product | Marty Cagan, Silicon Valley Product Group](https://www.lennyspodcast.com/the-nature-of-product-marty-cagan-silicon-valley-product-group/#transcript)
     - [Building beautiful products with Stripe’s Head of Design | Katie Dill (Stripe, Airbnb, Lyft)](https://www.lennysnewsletter.com/p/building-beautiful-products-with#details)
     - [Become a more technical product manager | Colin Matthews](https://www.lennysnewsletter.com/p/become-a-more-technical-product-manager)
+    - [The definitive guide to mastering product sense interviews | Ben Erez](https://www.lennysnewsletter.com/p/the-definitive-guide-to-mastering)
 - [Technical Foundations for Product Managers](https://blog.techforproduct.com)
 - [Product Core Competencies by Marty Cagan](https://www.svpg.com/product-core-competencies/)
 - [Coaching Tools – The Assessment by Marty Cagan](https://www.svpg.com/coaching-tools-the-assessment/)
