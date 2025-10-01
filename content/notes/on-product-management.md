@@ -524,7 +524,7 @@ Hamilton Helmer covers 7 powers that companies can leverage on:
     - How do you do customer retention? If the customers are churning, there is value deceleration.
 - **Analytical Thinking**: Being analytical isn’t only about numbers. It is about developing healthy skepticism and curiosity, validating your hypothesis (and having a hypothesis in the first place) and vetting with multiple data points to get closer to the truth. It gives you a competitive edge, and you will learn to make informed decisions.
     - Retrieve: First, you need to learn how to get data. SQL is most common in work places.
-    - Analyze: Analytical thinking is to crunch numbers understand the why and execute at lightning speed. To do so you need the basic understanding of—patterns, nuances, absolute numbers & percentages, variances, expected vs actual, contribution to whole, peaks, margins and biases. 
+    - Analyze: Analytical thinking is to crunch numbers understand the why and execute at lightning speed. To do so you need the basic understanding of—patterns, nuances, absolute numbers & percentages, variances, expected vs actual, contribution to whole, peaks, margins and biases.
     - Look for clues by asking:
         - Why is this happening?
         - What is the impact?
@@ -533,6 +533,18 @@ Hamilton Helmer covers 7 powers that companies can leverage on:
         - Business data: revenue, market share, etc.
         - Product data: product portfolio, features, etc.
         - Customers data: target group, reviews, etc.
+    - Define concrete metrics that track ecosystem health. 
+    - Understand what the value proposition is for your organization, so you can _identify_ and _define_ North Start Metric. The definition needs to be specific and clear for your data and engineering team. 
+    - North Star Metric (NSM) should have a healthy breakdown on time frame (weekly, monthly, etc.)
+    - You should have control over your NSM, so you can influence the metric in positive direction by solving the right problems.
+    - Look for false positives.
+    - Be cautious of averages and ratios especially when you are focusing on segments. 
+    - When dealing with conflicting metrics, it is natural to have a prioritization tension. Identify your pros and cons of each option, and make a decision that connects back to the mission and core objective.
+    - Let's take restaurant delivery business as an example:
+        - Your framework should include all players in the ecosystem—diners, restaurants, delivery drivers such as DoorDash.
+        - Track daily, weekly, and monthly ("DWM") in the ecosystem metrics section before zooming in on a specific time frame for your North Star Metric (NSM). 
+        - The NSM, “completed deliveries per week,” captures the total volume of your core action that creates value for everyone—diners get food, restaurants get orders, drivers earn money, and business generates revenue. 
+        - The guardrail metric ensures you're not just optimizing for speed at the expense of food quality or driver safety.
 
 ## Further reading
 <details>
@@ -541,16 +553,26 @@ Hamilton Helmer covers 7 powers that companies can leverage on:
 
 - [Build by Tony Fadell](/build)
 - [Lenny's Newsletter](https://www.lennyrachitsky.com/)
+    - [Essential reading for product builders—part 1](https://www.lennysnewsletter.com/p/essential-reading-for-product-builderspart)
+    - [Essential reading for product builders—part 2](https://www.lennysnewsletter.com/p/essential-reading-for-product-builderspart-1ac)
     - [Lenny's Newsletter | How Ramp Builds Product](https://www.lennysnewsletter.com/p/how-ramp-builds-product)
     - [The ultimate guide to JTBD Lenny's Podcast | Bob Moesta ](https://www.lennyspodcast.com/the-ultimate-guide-to-jtbd-bob-moesta-co-creator-of-the-framework/)
     - [The nature of product | Marty Cagan, Silicon Valley Product Group](https://www.lennyspodcast.com/the-nature-of-product-marty-cagan-silicon-valley-product-group/#transcript)
     - [Building beautiful products with Stripe’s Head of Design | Katie Dill (Stripe, Airbnb, Lyft)](https://www.lennysnewsletter.com/p/building-beautiful-products-with#details)
     - [Become a more technical product manager | Colin Matthews](https://www.lennysnewsletter.com/p/become-a-more-technical-product-manager)
     - [The definitive guide to mastering product sense interviews | Ben Erez](https://www.lennysnewsletter.com/p/the-definitive-guide-to-mastering)
+    - [The definitive guide to mastering analytical thinking interviews | Ben Erez](https://www.lennysnewsletter.com/p/the-definitive-guide-to-mastering-f81)
 - [Technical Foundations for Product Managers](https://blog.techforproduct.com)
-- [Product Core Competencies by Marty Cagan](https://www.svpg.com/product-core-competencies/)
-- [Coaching Tools – The Assessment by Marty Cagan](https://www.svpg.com/coaching-tools-the-assessment/)
-- [Product Management Theater by Marty Cagan](https://www.svpg.com/product-management-theater/)
+- Marty Cagan
+    - [Product Core Competencies by Marty Cagan](https://www.svpg.com/product-core-competencies/)
+    - [Coaching Tools – The Assessment by Marty Cagan](https://www.svpg.com/coaching-tools-the-assessment/)
+    - [Product Management Theater by Marty Cagan](https://www.svpg.com/product-management-theater/)
+- Ravi Mehta Blog
+    - [How To Become a Peak Product Manager](https://www.ravi-mehta.com/product-manager-skills/)
+    - [Time management for hands-on Product Leaders](https://blog.ravi-mehta.com/p/time-management-for-hands-on-product)
+    - [Building AI products competitors can't match](https://blog.ravi-mehta.com/p/building-ai-products)
+- [Culture by Netflix](https://www.slideshare.net/slideshow/culture-1798664/1798664)
+- [Lewis Lin Question Bank](https://www.lewis-lin.com/blog/lewis-lin-question-bank)
 - [What distinguishes the Top 1% of product managers from the Top 10%?](http://www.quora.com/Product-Management/What-distinguishes-the-top-1-of-product-managers-from-the-top-10)
 - [The Essence of Product | Christian Idiodi](https://youtu.be/U_HBcBus1nI)
 - [Shaping in a Nutshell by Ryan Singer at Basecamp](https://www.youtube.com/watch?app=desktop&v=h_8M23wVjXk)
@@ -563,6 +585,7 @@ Hamilton Helmer covers 7 powers that companies can leverage on:
 - [Learn SQL](https://dataschool.com/learn-sql/), [Khan Academy SQL](https://www.khanacademy.org/computing/computer-programming/sql), [SQL Zoo](https://sqlzoo.net/wiki/SELECT_basics)
 - [Domain drive boldness](https://dev.37signals.com/domain-driven-boldness/)
 - [You need to be more strategic by Shreyas Doshi](https://twitter.com/shreyas/status/1712262410764173598)
+
 - Strategy
     - [All Revenue is Not Created Equal: The Keys to the 10X Revenue Club by Bill Gurley](https://abovethecrowd.com/2011/05/24/all-revenue-is-not-created-equal-the-keys-to-the-10x-revenue-club/)
     - [A Plan Is Not a Strategy by Roger Martin](https://www.youtube.com/watch?v=iuYlGRnC7J8)
