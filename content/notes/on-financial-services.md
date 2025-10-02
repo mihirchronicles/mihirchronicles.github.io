@@ -19,13 +19,29 @@ My career has taken me through two major investment firms—Morningstar and Char
 What follows is my attempt to capture the insights I've gained and lessons I've learned from building products and services in this space.
 
 
-| Name | Bio | 
+| Name | Topics | 
 | -------------|:-------------:|
+| _Stablecoins_ | They are a type of cryptocurrency designed to maintain a stable value by pegging to a specific asset like fiat currency (USD) or treasuries. |
 | _Inflation_ | The persistent rise in the general price level of goods and services over time, eroding the purchasing power of money. For investors, inflation represents a hidden tax that can diminish real returns if not properly accounted for in portfolio construction. |
 | _S&P500_ | A market-capitalization-weighted index tracking 500 of America's largest publicly traded companies. Often used as the benchmark for U.S. equity market performance, it represents approximately 80% of the total U.S. stock market capitalization. |
 | _Donor Advised Funds_ | Tax-advantaged charitable giving vehicles that function like investment accounts for philanthropy. Contributors receive immediate tax deductions while retaining advisory privileges over grant timing and recipients, making charitable giving more strategic and flexible. |
 | _Separately Managed Accounts_ | Personalized investment portfolios where investors directly own individual securities rather than shares in a pooled fund. SMAs offer customization benefits including tax optimization, ESG alignment, and the ability to exclude specific holdings based on personal preferences. |
 | _Robo-advisors_ | Algorithm-driven investment platforms that automate portfolio management through modern portfolio theory and behavioral finance principles. They democratize professional investment management by offering low-cost, accessible financial planning to a broader market segment. |
+
+<details>
+    <summary><strong>Stablecoins</strong></summary>
+    <br>
+
+- Stablecoins are a type of cryptocurrencies pegged to a fiat currency, treasuries, gold or basket of currencies to stabilize the price fluctuation while getting the benefits of cryptocurrencies such as instantaneous settlement and borderless transactions.
+- Mechanics of various stablecoins
+    - Fiat based collateral which are the most common. They are backed 1:1 by a fiat currency such as USD or Euro or other high-quality liquid assets like U.S. Treasury bills held in reserve by a central entity.
+    - Crypto based collateral which are backed by a reserve of other cryptocurrencies.  Because the underlying crypto collateral can be volatile, these stablecoins are typically over-collateralized. This means a larger value of cryptocurrency, for example, $150 worth of Ethereum is locked in a smart contract for every $100 worth of stablecoin issued, providing a buffer against price drops.
+    - Algorithmic based stablecoins use smartcontracts to automatically manage the supply and demand to maintain the price peg . If the stablecoin's price drops below its peg, the algorithm decreases the supply (by burning tokens). If the price goes above, it increases the supply (by minting new tokens) to bring the price back to the target. More complex and risky.
+- Stablecoins bridge the gap between traditional and modern finance.
+
+
+</details>
+<br>
 
 <details>
     <summary><strong>Inflation</strong></summary>
@@ -227,7 +243,7 @@ Despite the skepticism, evidence gradually mounted that most active managers fai
 
 The numbers tell the story of this transformation. By 2014, index funds represented 20.2% of U.S. equity mutual fund assets. From 2007 to 2014, index domestic equity funds received $1 trillion in net new investments, while actively managed funds experienced $659 billion in outflows. Currently, the index funds have accumulated trillions proving Bogle's original vision right.
 
-### The S&P 500 explained
+### S&P500 overview
 
 The S&P 500 is a market-capitalization weighted index tracking 500 leading U.S. public companies, capturing approximately 80% of available American equity market capitalization. Unlike rigid rule-based indices, it's maintained by a committee that balances specific criteria with discretionary judgment to ensure broad market representation.
 
@@ -287,26 +303,22 @@ A Donor-Advised Fund (DAF) is a charitable giving account established at a publi
 
 The competitive landscape includes traditional wealth management firms, community foundations, and newer technology-focused providers, each offering different fee structures, investment options, and service levels to attract donors and their financial advisors.
 
-### Core features
-
-- **Initial Contribution**: Donors contribute cash, securities, or other assets to their DAF account and receive an immediate tax deduction for the full fair market value of the contribution.
-- **Investment Growth**: The sponsoring organization invests the contributed funds, allowing them to potentially grow tax-free over time while awaiting distribution to charities.
-- **Grant Recommendations**: Donors can recommend grants from their DAF to qualified charitable organizations whenever they choose. While the sponsoring organization has legal control over the funds, they typically honor the donor's recommendations.
-
-### Benefits
-
-- **Tax Benefits**: Immediate tax deduction upon contribution, even if grants are made years later. This allows donors to "bunch" charitable deductions in high-income years.
-- **Investment Growth**: Funds can be invested and grow tax-free, potentially increasing the total amount available for charitable giving.
-- **Flexibility**: Donors can take time to research charities and make thoughtful giving decisions without time pressure.
-- **Simplified Administration**: The sponsoring organization handles all the administrative work, tax reporting, and due diligence on recipient charities.
-
 ### DAF log
-
-- Major Players:
-    - Fidelity Charitable
-    - Schwab Charitable
-    - Daffy
-    - Community Foundations
+- Core features
+    - **Initial Contribution**: Donors contribute cash, securities, or other assets to their DAF account and receive an immediate tax deduction for the full fair market value of the contribution.
+    - **Investment Growth**: The sponsoring organization invests the contributed funds, allowing them to potentially grow tax-free over time while awaiting distribution to charities.
+    - **Grant Recommendations**: Donors can recommend grants from their DAF to qualified charitable organizations whenever they choose. While the sponsoring organization has legal control over the funds, they typically honor the donor's recommendations.
+- Benefits
+    - **Tax Benefits**: Immediate tax deduction upon contribution, even if grants are made years later. This allows donors to "bunch" charitable deductions in high-income years.
+    - **Investment Growth**: Funds can be invested and grow tax-free, potentially increasing the total amount available for charitable giving.
+    - **Flexibility**: Donors can take time to research charities and make thoughtful giving decisions without time pressure.
+    - **Simplified Administration**: The sponsoring organization handles all the administrative work, tax reporting, and due diligence on recipient charities.
+- Major players
+    -  **Fidelity Charitable**
+    -  **Schwab Charitable**
+    -  **Daffy**
+    -  **Community Foundations**
+    - Qualified Charitable Distributions (QCD)**
 - DAF is mostly the United States concept.
 - DAFs were originated by community foundations to boost charitable giving. The first DAF was created in 1931 by the New York Community Trust. Overtime commercial investment services got involved which boosted charitable giving further.
 - DAF — donor advised fund is an investment account which could be opened via a brokerage service that lets you take a tax deduction when contributions are made and give the money to a charity later.
@@ -333,29 +345,24 @@ Between these two end of the spectrum is the growing universe of separately mana
 
 SMAs differ from pooled vehicles like mutual funds in that each portfolio is unique to a single account (hence the name). In other words, if you set up a separate account with Money Manager X, then Manager X has the discretion to make decisions for this account that may be different from decisions made for other accounts. Mutual funds cannot offer, due to their structure as investments shared by a group of investors, the benefit of customized portfolio management. Separate accounts overcome this barrier.
 
-### Core features
-
-- **Direct Ownership**: Investors own the underlying securities directly, rather than owning shares in a pooled fund.
-- **Customization**: SMAs offer flexibility to tailor the portfolio to specific needs, such as excluding certain sectors or companies.
-- **Professional Management**: SMAs are managed by professional investment firms who make investment decisions on the investor's behalf.
-- **Tax Advantages**: SMAs can offer tax-efficient strategies like tax-loss harvesting and can avoid embedded capital gains that mutual funds may have.
-- **Higher Minimums and Fees**: SMAs typically require higher minimum investment amounts and come with higher management fees compared to mutual funds or ETFs.
-
-### Benefits
-
-- **Personalization**: Investors can tailor their portfolios to their specific needs, values, and risk tolerance.
-- **Tax Efficiency**: Tax-loss harvesting and avoidance of embedded capital gains can lead to tax savings.
-- **Transparency**: Investors have direct access to their portfolio and holdings, unlike mutual funds.
-- **Control**: Investors can work with their financial advisor to set parameters and guidelines for managing their investments.
-
 ### SMA log
-
-- Major Players:
-    - Charles Schwab
-    - Fidelity
-    - Blackrock
-    - JP Morgan Chase
-    - Goldman Sachs
+- Core features
+    - **Direct Ownership**: Investors own the underlying securities directly, rather than owning shares in a pooled fund.
+    - **Customization**: SMAs offer flexibility to tailor the portfolio to specific needs, such as excluding certain sectors or companies.
+    - **Professional Management**: SMAs are managed by professional investment firms who make investment decisions on the investor's behalf.
+    - **Tax Advantages**: SMAs can offer tax-efficient strategies like tax-loss harvesting and can avoid embedded capital gains that mutual funds may have.
+    - **Higher Minimums and Fees**: SMAs typically require higher minimum investment amounts and come with higher management fees compared to mutual funds or ETFs.
+- Benefits
+    - **Personalization**: Investors can tailor their portfolios to their specific needs, values, and risk tolerance.
+    - **Tax Efficiency**: Tax-loss harvesting and avoidance of embedded capital gains can lead to tax savings.
+    - **Transparency**: Investors have direct access to their portfolio and holdings, unlike mutual funds.
+    - **Control**: Investors can work with their financial advisor to set parameters and guidelines for managing their investments.
+- Major players
+    - **Charles Schwab**
+    - **Fidelity**
+    - **Blackrock**
+    - **JP Morgan Chase**
+    - **Goldman Sachs**
 - Suitable for individuals with significant assets who want to customize their investment strategies.
 - Ideal for investors who want to align their portfolios with their values, goals, and tax situation.
 - Provide investors with more direct control over their investments and a clear view of their holdings.
@@ -375,29 +382,25 @@ Robo-advisors are digital platforms that automatically create and manage investm
 
 Robo-advisors work well for investors who want professional portfolio management at low cost, prefer hands-off investing, are comfortable with technology, have straightforward financial situations, and are focused on long-term wealth building rather than active trading. They're particularly suitable for young professionals, new investors, busy individuals who don't want to manage investments themselves, and cost-conscious investors seeking diversified portfolios. Below is an overview of the offering.
 
-### Core features
-
-- **Portfolio Management**: Automatic asset allocation, rebalancing, and tax-loss harvesting based on your profile and goals.
-- **Financial Planning**: Goal-based investing for retirement, home purchases, education, or general wealth building.
-- **Account Types**: Support for taxable accounts, IRAs, Roth IRAs, and sometimes 401(k) rollovers.
-- **Monitoring and Adjustments**: Continuous portfolio oversight with automatic rebalancing when allocations drift from targets.
-
-### Benefits
-
-- **Low Fees**: Typically charge 0.25-0.50% annually, significantly lower than traditional financial advisors (usually 1-2%).
-- **Low Minimums**: Many platforms have no minimum investment requirements, making investing accessible to beginners.
-- **Tax Optimization**: Advanced tax-loss harvesting to minimize tax liability on gains.
-- **Automatic Rebalancing**: Maintains target asset allocation without manual intervention.
-- **Goal-Based Investing**: Separate portfolios for different financial objectives with appropriate risk levels and time horizons.
-
 ### Robo log
 
-- Major players:
-    - Schwab Intelligent Portfolios: No advisory fees but higher cash allocations.
-    - Betterment: One of the pioneers, known for goal-based investing and user-friendly interface.
-    - Wealthfront: Strong tax-loss harvesting capabilities and financial planning tools.
-    - Vanguard Personal Advisor Services: Hybrid model combining robo-advisory with human advisors.
-    - Fidelity Go: No fees for accounts under $25,000, then 0.35% annually.
+- Core features
+    - **Portfolio Management**: Automatic asset allocation, rebalancing, and tax-loss harvesting based on your profile and goals.
+    - **Financial Planning**: Goal-based investing for retirement, home purchases, education, or general wealth building.
+    - **Account Types**: Support for taxable accounts, IRAs, Roth IRAs, and sometimes 401(k) rollovers.
+    - **Monitoring and Adjustments**: Continuous portfolio oversight with automatic rebalancing when allocations drift from targets.
+- Benefits
+    - **Low Fees**: Typically charge 0.25-0.50% annually, significantly lower than traditional financial advisors (usually 1-2%).
+    - **Low Minimums**: Many platforms have no minimum investment requirements, making investing accessible to beginners.
+    - **Tax Optimization**: Advanced tax-loss harvesting to minimize tax liability on gains.
+    - **Automatic Rebalancing**: Maintains target asset allocation without manual intervention.
+    - **Goal-Based Investing**: Separate portfolios for different financial objectives with appropriate risk levels and time horizons.
+- Major players
+    - **Schwab Intelligent Portfolios**: No advisory fees but higher cash allocations.
+    - **Betterment**: One of the pioneers, known for goal-based investing and user-friendly interface.
+    - **Wealthfront**: Strong tax-loss harvesting capabilities and financial planning tools.
+    - **Vanguard Personal Advisor Services**: Hybrid model combining robo-advisory with human advisors.
+    - **Fidelity Go**: No fees for accounts under $25,000, then 0.35% annually.
 - Lower fees than traditional advisors make professional portfolio management accessible to smaller investors.
 - 24/7 account access, automatic investing, and hands-off management.
 - Removes emotional decision-making from investing by automating the process.
@@ -410,7 +413,9 @@ Robo-advisors work well for investors who want professional portfolio management
 
 </details>
 
-## Capital allocator legends
+## Capital allocation
+
+My fascination for financial services started because of great legends who do investing well. Capital allocation is a psychology game as much as it is technical. I'd like to study great capital allocators and learn from them. Below is a quick overview on capital allocation.
 
 The defining characteristic of America is its capitalist system. While it is not without flaws, it has consistently rewarded those who have actively participated in its economy. Capitalism rewards agency over intelligence. It operates based on risk and leverage, and capital allocators are compensated for their ownership stake.
 
@@ -565,7 +570,6 @@ dollars is $10 a second for 38 months. Now let’s think about a trillion: $10 a
     <summary><strong>John C Bogle</strong></summary>
     <br>
 
-- On Bogle: I think they were pivotal. I think a couple of things maybe later were equally as pivotal. But obviously, your childhood is major. First of all, he was always working. He was a scholarship kid. He had a taste or a sniff of the Great Depression. I always tell people, like especially my mom and my family, I would say, “Visiting Jack Bogle was like hanging out with my grandfather, not my father.” He was not a boomer. He was a World War II-type guy. He had the same sense of humor. The office had like pictures of warships and stuff, just like my grandfather. And that generation was very thrifty generally. They had just seen things that the rest of us haven't. And I think he had enough of that that was a nice core for him. And obviously, working off of scholarships, he had to work, doing all kinds of jobs, including setting bowling pins. And in my life, as I've met people who had to work through college, they tend to be the most successful people. That's a really good ethic to begin with. So, I think thriftiness was important. Obviously, that paid dividends later. And in fact, I do think there was some genetics at work though. His great grandfather was a populist fighter of insurance companies. And Bogle lists some of his great grandfather's speeches in one of his books. And it's fascinating how similar their language is. His great grandfather was the one who said, “Gentlemen, cut your costs.” He just copied it. So, there was some genetics at play, I believe, and of course, obviously, the environmental aspects that I said as well. And I think his father was not a great achiever; he didn't achieve a lot and had trouble holding down a job. And I think that also probably sparked Bogle to want to make something of himself.
 - Investing is simple, but not easy. Bogle, the creator of Vanguard which created the first index mutual fund in 1974 was lonely in the fight at first. But as time passed on, the idea caught on fire. 
     - Paul A Samuelson, Nobel laureate in economic sciences and professor at MIT once said: Bogle's reasoned percepts can enable a few millions of us savers to become in twenty years the envy of our suburban neighbors—while at the same time we have slept well in these eventful times.
     - The record of an investor in the first index mutual fund: $15,000 invested in 1976 would be valued at $913,000 in 2016.
@@ -646,6 +650,7 @@ dollars is $10 a second for 38 months. Now let’s think about a trillion: $10 a
 - The greatest enemy of a good plan is the dream of a perfect plan. Stick to a good plan.
 - Investors should be satisfied with the reasonably good return obtainable from a defensive portfolio.
 - I was selling nutritious bagels, but everybody wanted donuts.
+- On Bogle–“I think they were pivotal. I think a couple of things maybe later were equally as pivotal. But obviously, your childhood is major. First of all, he was always working. He was a scholarship kid. He had a taste or a sniff of the Great Depression. I always tell people, like especially my mom and my family, I would say, “Visiting Jack Bogle was like hanging out with my grandfather, not my father.” He was not a boomer. He was a World War II-type guy. He had the same sense of humor. The office had like pictures of warships and stuff, just like my grandfather. And that generation was very thrifty generally. They had just seen things that the rest of us haven't. And I think he had enough of that that was a nice core for him. And obviously, working off of scholarships, he had to work, doing all kinds of jobs, including setting bowling pins. And in my life, as I've met people who had to work through college, they tend to be the most successful people. That's a really good ethic to begin with. So, I think thriftiness was important. Obviously, that paid dividends later. And in fact, I do think there was some genetics at work though. His great grandfather was a populist fighter of insurance companies. And Bogle lists some of his great grandfather's speeches in one of his books. And it's fascinating how similar their language is. His great grandfather was the one who said, “Gentlemen, cut your costs.” He just copied it. So, there was some genetics at play, I believe, and of course, obviously, the environmental aspects that I said as well. And I think his father was not a great achiever; he didn't achieve a lot and had trouble holding down a job. And I think that also probably sparked Bogle to want to make something of himself.”
 
 </details>
 <br>
