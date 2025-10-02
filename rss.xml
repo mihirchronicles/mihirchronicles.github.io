@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 01 Oct 2025 15:46:16 GMT</lastBuildDate><item><title><![CDATA[Writing Culture]]></title><description><![CDATA[The most effective approach to addressing dystopia within a large organization is to establish a writing culture. This is equally true for…]]></description><link>https://mihirchronicles.com/writing-culture/</link><guid isPermaLink="false">https://mihirchronicles.com/writing-culture/</guid><pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;The most effective approach to addressing dystopia within a large organization is to establish a writing culture. This is equally true for organizations who are small but desire to scale one day.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 02 Oct 2025 14:12:54 GMT</lastBuildDate><item><title><![CDATA[Writing Culture]]></title><description><![CDATA[The most effective approach to addressing dystopia within a large organization is to establish a writing culture. This is equally true for…]]></description><link>https://mihirchronicles.com/writing-culture/</link><guid isPermaLink="false">https://mihirchronicles.com/writing-culture/</guid><pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;The most effective approach to addressing dystopia within a large organization is to establish a writing culture. This is equally true for organizations who are small but desire to scale one day.&lt;/p&gt;
 &lt;p&gt;By codifying ideas through words, we effectively codify our thinking. If you are a builder then you should take writing seriously.&lt;/p&gt;
 &lt;p&gt;Engaging in the act of writing about any subject matter will necessitate critical thinking, regardless of your prior knowledge on the topic. This process serves as a valuable tool for identifying product gaps and identifying potential opportunities. It is important to note that writing about a subject does not replace the need for thorough research, analysis, and client interviews. However, once you have gathered sufficient information, the next logical step is to systematically document and synthesize your knowledge.&lt;/p&gt;
 &lt;p&gt;Writing is an excellent technique for learning about unfamiliar places. By processing information and then writing about it, you engage in critical thinking and recollection. The more you recall, the stronger your neurons become, as the saying goes, “neurons that fire together, wire together.”&lt;/p&gt;
@@ -6103,10 +6103,14 @@ Life is too short to do business with people you don’t like.
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;Name&lt;/th&gt;
-&lt;th align=&quot;center&quot;&gt;Bio&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;Topics&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Stablecoins&lt;/em&gt;&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;They are a type of cryptocurrency designed to maintain a stable value by pegging to a specific asset like fiat currency (USD) or treasuries.&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;em&gt;Inflation&lt;/em&gt;&lt;/td&gt;
 &lt;td align=&quot;center&quot;&gt;The persistent rise in the general price level of goods and services over time, eroding the purchasing power of money. For investors, inflation represents a hidden tax that can diminish real returns if not properly accounted for in portfolio construction.&lt;/td&gt;
@@ -6129,6 +6133,22 @@ Life is too short to do business with people you don’t like.
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;details&gt;
+    &lt;summary&gt;&lt;strong&gt;Stablecoins&lt;/strong&gt;&lt;/summary&gt;
+    &lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Stablecoins are a type of cryptocurrencies pegged to a fiat currency, treasuries, gold or basket of currencies to stabilize the price fluctuation while getting the benefits of cryptocurrencies such as instantaneous settlement and borderless transactions.&lt;/li&gt;
+&lt;li&gt;Mechanics of various stablecoins
+&lt;ul&gt;
+&lt;li&gt;Fiat based collateral which are the most common. They are backed 1:1 by a fiat currency such as USD or Euro or other high-quality liquid assets like U.S. Treasury bills held in reserve by a central entity.&lt;/li&gt;
+&lt;li&gt;Crypto based collateral which are backed by a reserve of other cryptocurrencies.  Because the underlying crypto collateral can be volatile, these stablecoins are typically over-collateralized. This means a larger value of cryptocurrency, for example, $150 worth of Ethereum is locked in a smart contract for every $100 worth of stablecoin issued, providing a buffer against price drops.&lt;/li&gt;
+&lt;li&gt;Algorithmic based stablecoins use smartcontracts to automatically manage the supply and demand to maintain the price peg . If the stablecoin&apos;s price drops below its peg, the algorithm decreases the supply (by burning tokens). If the price goes above, it increases the supply (by minting new tokens) to bring the price back to the target. More complex and risky.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Stablecoins bridge the gap between traditional and modern finance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br&gt;
 &lt;details&gt;
     &lt;summary&gt;&lt;strong&gt;Inflation&lt;/strong&gt;&lt;/summary&gt;
     &lt;br&gt;
@@ -6252,7 +6272,7 @@ Life is too short to do business with people you don’t like.
 &lt;p&gt;The fund&apos;s debut was anything but victorious. It raised only $11 million in its initial public offering, falling far short of the expected $150 million. Industry veterans ridiculed the concept, with Fidelity&apos;s Edward Johnson famously declaring he “couldn&apos;t believe that the great mass of investors are going to be satisfied with receiving just average returns.” Critics dismissed it as “un-American“ and “Bogle&apos;s folly.”&lt;/p&gt;
 &lt;p&gt;Despite the skepticism, evidence gradually mounted that most active managers failed to beat their benchmarks after fees. The Vanguard 500 Index Fund crossed $100 billion in November 1999 and surpassed Fidelity&apos;s legendary Magellan Fund to become the world&apos;s largest mutual fund in 2000—a milestone Bogle had predicted eight years earlier.&lt;/p&gt;
 &lt;p&gt;The numbers tell the story of this transformation. By 2014, index funds represented 20.2% of U.S. equity mutual fund assets. From 2007 to 2014, index domestic equity funds received $1 trillion in net new investments, while actively managed funds experienced $659 billion in outflows. Currently, the index funds have accumulated trillions proving Bogle&apos;s original vision right.&lt;/p&gt;
-&lt;h3&gt;The S&amp;#x26;P 500 explained&lt;/h3&gt;
+&lt;h3&gt;S&amp;#x26;P500 overview&lt;/h3&gt;
 &lt;p&gt;The S&amp;#x26;P 500 is a market-capitalization weighted index tracking 500 leading U.S. public companies, capturing approximately 80% of available American equity market capitalization. Unlike rigid rule-based indices, it&apos;s maintained by a committee that balances specific criteria with discretionary judgment to ensure broad market representation.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Index Mechanics&lt;/strong&gt;: The index value equals the total market capitalization of all constituents divided by a proprietary divisor (approximately 8.3 billion). This divisor adjusts periodically to maintain continuity despite corporate actions like stock splits or composition changes.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Free-Float Weighting&lt;/strong&gt;: The index uses free-float market capitalization weighting, meaning companies with larger publicly available market values exert proportionally greater influence on index movements.&lt;/p&gt;
@@ -6300,27 +6320,30 @@ Life is too short to do business with people you don’t like.
     &lt;br&gt;
 &lt;p&gt;A Donor-Advised Fund (DAF) is a charitable giving account established at a public charity, known as the sponsoring organization, which manages and administers the fund on behalf of the donor. Eligible contributions such as cash, or appreciated securities generally allow for immediate tax deduction. The assets in the DAF can then be invested for tax-free growth. Grants can be recommended from DAF account to any eligible IRS-qualified public charity at any time.&lt;/p&gt;
 &lt;p&gt;The competitive landscape includes traditional wealth management firms, community foundations, and newer technology-focused providers, each offering different fee structures, investment options, and service levels to attract donors and their financial advisors.&lt;/p&gt;
-&lt;h3&gt;Core features&lt;/h3&gt;
+&lt;h3&gt;DAF log&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Core features
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Initial Contribution&lt;/strong&gt;: Donors contribute cash, securities, or other assets to their DAF account and receive an immediate tax deduction for the full fair market value of the contribution.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Investment Growth&lt;/strong&gt;: The sponsoring organization invests the contributed funds, allowing them to potentially grow tax-free over time while awaiting distribution to charities.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Grant Recommendations&lt;/strong&gt;: Donors can recommend grants from their DAF to qualified charitable organizations whenever they choose. While the sponsoring organization has legal control over the funds, they typically honor the donor&apos;s recommendations.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Benefits&lt;/h3&gt;
+&lt;/li&gt;
+&lt;li&gt;Benefits
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Tax Benefits&lt;/strong&gt;: Immediate tax deduction upon contribution, even if grants are made years later. This allows donors to &quot;bunch&quot; charitable deductions in high-income years.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Investment Growth&lt;/strong&gt;: Funds can be invested and grow tax-free, potentially increasing the total amount available for charitable giving.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Flexibility&lt;/strong&gt;: Donors can take time to research charities and make thoughtful giving decisions without time pressure.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Simplified Administration&lt;/strong&gt;: The sponsoring organization handles all the administrative work, tax reporting, and due diligence on recipient charities.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;DAF log&lt;/h3&gt;
+&lt;/li&gt;
+&lt;li&gt;Major players
 &lt;ul&gt;
-&lt;li&gt;Major Players:
-&lt;ul&gt;
-&lt;li&gt;Fidelity Charitable&lt;/li&gt;
-&lt;li&gt;Schwab Charitable&lt;/li&gt;
-&lt;li&gt;Daffy&lt;/li&gt;
-&lt;li&gt;Community Foundations&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fidelity Charitable&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Schwab Charitable&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Daffy&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Community Foundations&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Qualified Charitable Distributions (QCD)**&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;DAF is mostly the United States concept.&lt;/li&gt;
@@ -6344,7 +6367,9 @@ Life is too short to do business with people you don’t like.
 &lt;p&gt;The investment management world is divided into retail and institutional investors. Products designed for mid-income individual investors, such as the retail classes of mutual funds, have modest initial investment requirements: $1,000 or even less. In contrast, managed accounts or funds for institutions have imposed minimum investment requirements of $25 million or more.&lt;/p&gt;
 &lt;p&gt;Between these two end of the spectrum is the growing universe of separately managed accounts (SMA) targeted toward wealthy (but not necessarily ultra-wealthy) individual investors. Whether you refer to them as “individually managed accounts,” “separate account,” or “separately managed accounts,” these individual-oriented managed accounts are going mainstream.&lt;/p&gt;
 &lt;p&gt;SMAs differ from pooled vehicles like mutual funds in that each portfolio is unique to a single account (hence the name). In other words, if you set up a separate account with Money Manager X, then Manager X has the discretion to make decisions for this account that may be different from decisions made for other accounts. Mutual funds cannot offer, due to their structure as investments shared by a group of investors, the benefit of customized portfolio management. Separate accounts overcome this barrier.&lt;/p&gt;
-&lt;h3&gt;Core features&lt;/h3&gt;
+&lt;h3&gt;SMA log&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Core features
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Direct Ownership&lt;/strong&gt;: Investors own the underlying securities directly, rather than owning shares in a pooled fund.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Customization&lt;/strong&gt;: SMAs offer flexibility to tailor the portfolio to specific needs, such as excluding certain sectors or companies.&lt;/li&gt;
@@ -6352,22 +6377,22 @@ Life is too short to do business with people you don’t like.
 &lt;li&gt;&lt;strong&gt;Tax Advantages&lt;/strong&gt;: SMAs can offer tax-efficient strategies like tax-loss harvesting and can avoid embedded capital gains that mutual funds may have.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Higher Minimums and Fees&lt;/strong&gt;: SMAs typically require higher minimum investment amounts and come with higher management fees compared to mutual funds or ETFs.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Benefits&lt;/h3&gt;
+&lt;/li&gt;
+&lt;li&gt;Benefits
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Personalization&lt;/strong&gt;: Investors can tailor their portfolios to their specific needs, values, and risk tolerance.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Tax Efficiency&lt;/strong&gt;: Tax-loss harvesting and avoidance of embedded capital gains can lead to tax savings.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Transparency&lt;/strong&gt;: Investors have direct access to their portfolio and holdings, unlike mutual funds.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Control&lt;/strong&gt;: Investors can work with their financial advisor to set parameters and guidelines for managing their investments.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;SMA log&lt;/h3&gt;
+&lt;/li&gt;
+&lt;li&gt;Major players
 &lt;ul&gt;
-&lt;li&gt;Major Players:
-&lt;ul&gt;
-&lt;li&gt;Charles Schwab&lt;/li&gt;
-&lt;li&gt;Fidelity&lt;/li&gt;
-&lt;li&gt;Blackrock&lt;/li&gt;
-&lt;li&gt;JP Morgan Chase&lt;/li&gt;
-&lt;li&gt;Goldman Sachs&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Charles Schwab&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fidelity&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blackrock&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;JP Morgan Chase&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Goldman Sachs&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Suitable for individuals with significant assets who want to customize their investment strategies.&lt;/li&gt;
@@ -6385,14 +6410,17 @@ Life is too short to do business with people you don’t like.
     &lt;br&gt;
 &lt;p&gt;Robo-advisors are digital platforms that automatically create and manage investment portfolios based on your financial goals, risk tolerance, and time horizon. They use modern portfolio theory and algorithms to build diversified portfolios primarily composed of low-cost exchange-traded funds (ETFs). A risk assessment is required during account open based on investor&apos;s suitability and willingness amongst other criteria.&lt;/p&gt;
 &lt;p&gt;Robo-advisors work well for investors who want professional portfolio management at low cost, prefer hands-off investing, are comfortable with technology, have straightforward financial situations, and are focused on long-term wealth building rather than active trading. They&apos;re particularly suitable for young professionals, new investors, busy individuals who don&apos;t want to manage investments themselves, and cost-conscious investors seeking diversified portfolios. Below is an overview of the offering.&lt;/p&gt;
-&lt;h3&gt;Core features&lt;/h3&gt;
+&lt;h3&gt;Robo log&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Core features
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Portfolio Management&lt;/strong&gt;: Automatic asset allocation, rebalancing, and tax-loss harvesting based on your profile and goals.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Financial Planning&lt;/strong&gt;: Goal-based investing for retirement, home purchases, education, or general wealth building.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Account Types&lt;/strong&gt;: Support for taxable accounts, IRAs, Roth IRAs, and sometimes 401(k) rollovers.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Monitoring and Adjustments&lt;/strong&gt;: Continuous portfolio oversight with automatic rebalancing when allocations drift from targets.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Benefits&lt;/h3&gt;
+&lt;/li&gt;
+&lt;li&gt;Benefits
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Low Fees&lt;/strong&gt;: Typically charge 0.25-0.50% annually, significantly lower than traditional financial advisors (usually 1-2%).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Low Minimums&lt;/strong&gt;: Many platforms have no minimum investment requirements, making investing accessible to beginners.&lt;/li&gt;
@@ -6400,15 +6428,14 @@ Life is too short to do business with people you don’t like.
 &lt;li&gt;&lt;strong&gt;Automatic Rebalancing&lt;/strong&gt;: Maintains target asset allocation without manual intervention.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Goal-Based Investing&lt;/strong&gt;: Separate portfolios for different financial objectives with appropriate risk levels and time horizons.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Robo log&lt;/h3&gt;
+&lt;/li&gt;
+&lt;li&gt;Major players
 &lt;ul&gt;
-&lt;li&gt;Major players:
-&lt;ul&gt;
-&lt;li&gt;Schwab Intelligent Portfolios: No advisory fees but higher cash allocations.&lt;/li&gt;
-&lt;li&gt;Betterment: One of the pioneers, known for goal-based investing and user-friendly interface.&lt;/li&gt;
-&lt;li&gt;Wealthfront: Strong tax-loss harvesting capabilities and financial planning tools.&lt;/li&gt;
-&lt;li&gt;Vanguard Personal Advisor Services: Hybrid model combining robo-advisory with human advisors.&lt;/li&gt;
-&lt;li&gt;Fidelity Go: No fees for accounts under $25,000, then 0.35% annually.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Schwab Intelligent Portfolios&lt;/strong&gt;: No advisory fees but higher cash allocations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Betterment&lt;/strong&gt;: One of the pioneers, known for goal-based investing and user-friendly interface.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wealthfront&lt;/strong&gt;: Strong tax-loss harvesting capabilities and financial planning tools.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vanguard Personal Advisor Services&lt;/strong&gt;: Hybrid model combining robo-advisory with human advisors.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fidelity Go&lt;/strong&gt;: No fees for accounts under $25,000, then 0.35% annually.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Lower fees than traditional advisors make professional portfolio management accessible to smaller investors.&lt;/li&gt;
@@ -6422,7 +6449,8 @@ Life is too short to do business with people you don’t like.
 &lt;li&gt;Still subject to market volatility and downturns like any investment.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
-&lt;h2&gt;Capital allocator legends&lt;/h2&gt;
+&lt;h2&gt;Capital allocation&lt;/h2&gt;
+&lt;p&gt;My fascination for financial services started because of great legends who do investing well. Capital allocation is a psychology game as much as it is technical. I&apos;d like to study great capital allocators and learn from them. Below is a quick overview on capital allocation.&lt;/p&gt;
 &lt;p&gt;The defining characteristic of America is its capitalist system. While it is not without flaws, it has consistently rewarded those who have actively participated in its economy. Capitalism rewards agency over intelligence. It operates based on risk and leverage, and capital allocators are compensated for their ownership stake.&lt;/p&gt;
 &lt;p&gt;Let&apos;s start with a short history lesson on equity ownership and stock market.&lt;/p&gt;
 &lt;p&gt;In the 1600s, the Dutch East India Company employed hundreds of ships to trade gold, spices, and silk around the globe. But running this massive operation wasn’t cheap. In order to fund their expensive voyages, the company turned to private citizens–individuals who could invest money to support the trip in exchange for a share of the ship’s profits. This practice allowed the company to afford even grander voyages, increasing profits for both themselves and their savvy investors. Selling these shares in coffee houses and shipping ports across the continent, the Dutch East India Company unknowingly invented the world’s first stock market.&lt;/p&gt;
@@ -6601,7 +6629,6 @@ Life is too short to do business with people you don’t like.
     &lt;summary&gt;&lt;strong&gt;John C Bogle&lt;/strong&gt;&lt;/summary&gt;
     &lt;br&gt;
 &lt;ul&gt;
-&lt;li&gt;On Bogle: I think they were pivotal. I think a couple of things maybe later were equally as pivotal. But obviously, your childhood is major. First of all, he was always working. He was a scholarship kid. He had a taste or a sniff of the Great Depression. I always tell people, like especially my mom and my family, I would say, “Visiting Jack Bogle was like hanging out with my grandfather, not my father.” He was not a boomer. He was a World War II-type guy. He had the same sense of humor. The office had like pictures of warships and stuff, just like my grandfather. And that generation was very thrifty generally. They had just seen things that the rest of us haven&apos;t. And I think he had enough of that that was a nice core for him. And obviously, working off of scholarships, he had to work, doing all kinds of jobs, including setting bowling pins. And in my life, as I&apos;ve met people who had to work through college, they tend to be the most successful people. That&apos;s a really good ethic to begin with. So, I think thriftiness was important. Obviously, that paid dividends later. And in fact, I do think there was some genetics at work though. His great grandfather was a populist fighter of insurance companies. And Bogle lists some of his great grandfather&apos;s speeches in one of his books. And it&apos;s fascinating how similar their language is. His great grandfather was the one who said, “Gentlemen, cut your costs.” He just copied it. So, there was some genetics at play, I believe, and of course, obviously, the environmental aspects that I said as well. And I think his father was not a great achiever; he didn&apos;t achieve a lot and had trouble holding down a job. And I think that also probably sparked Bogle to want to make something of himself.&lt;/li&gt;
 &lt;li&gt;Investing is simple, but not easy. Bogle, the creator of Vanguard which created the first index mutual fund in 1974 was lonely in the fight at first. But as time passed on, the idea caught on fire.
 &lt;ul&gt;
 &lt;li&gt;Paul A Samuelson, Nobel laureate in economic sciences and professor at MIT once said: Bogle&apos;s reasoned percepts can enable a few millions of us savers to become in twenty years the envy of our suburban neighbors—while at the same time we have slept well in these eventful times.&lt;/li&gt;
@@ -6721,6 +6748,7 @@ Life is too short to do business with people you don’t like.
 &lt;li&gt;The greatest enemy of a good plan is the dream of a perfect plan. Stick to a good plan.&lt;/li&gt;
 &lt;li&gt;Investors should be satisfied with the reasonably good return obtainable from a defensive portfolio.&lt;/li&gt;
 &lt;li&gt;I was selling nutritious bagels, but everybody wanted donuts.&lt;/li&gt;
+&lt;li&gt;On Bogle–“I think they were pivotal. I think a couple of things maybe later were equally as pivotal. But obviously, your childhood is major. First of all, he was always working. He was a scholarship kid. He had a taste or a sniff of the Great Depression. I always tell people, like especially my mom and my family, I would say, “Visiting Jack Bogle was like hanging out with my grandfather, not my father.” He was not a boomer. He was a World War II-type guy. He had the same sense of humor. The office had like pictures of warships and stuff, just like my grandfather. And that generation was very thrifty generally. They had just seen things that the rest of us haven&apos;t. And I think he had enough of that that was a nice core for him. And obviously, working off of scholarships, he had to work, doing all kinds of jobs, including setting bowling pins. And in my life, as I&apos;ve met people who had to work through college, they tend to be the most successful people. That&apos;s a really good ethic to begin with. So, I think thriftiness was important. Obviously, that paid dividends later. And in fact, I do think there was some genetics at work though. His great grandfather was a populist fighter of insurance companies. And Bogle lists some of his great grandfather&apos;s speeches in one of his books. And it&apos;s fascinating how similar their language is. His great grandfather was the one who said, “Gentlemen, cut your costs.” He just copied it. So, there was some genetics at play, I believe, and of course, obviously, the environmental aspects that I said as well. And I think his father was not a great achiever; he didn&apos;t achieve a lot and had trouble holding down a job. And I think that also probably sparked Bogle to want to make something of himself.”&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;br&gt;
