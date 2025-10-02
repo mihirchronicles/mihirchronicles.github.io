@@ -132,6 +132,10 @@ Kevin Kelly on action:
 
 > Most articles and stories are improved significantly if you delete the first page of the manuscript draft. Immediately start with the action. Separate the processes of creating from improving. You can’t write and edit, or sculpt and polish, or make and analyze at the same time. If you do, the editor stops the creator. While you write the first draft, don’t let the judgy editor get near. At the start, the creator mind must be unleashed from judgment. To write about something hard to explain, write a detailed letter to a friend about why it is so hard to explain, and then remove the initial “Dear Friend” part and you’ll have a great first draft.
 
+Martin Scorsese wrote about Philip Glass’ influence on him:
+
+> In the practice of meditating, the most important thing is the practice. It doesn't matter how you feel, it doesn't matter how much you succeed or fail—what matters is doing it. And I think that's also true of making films, or composing and playing music. We keep practicing our art forms so that we can keep coming closer and closer to what beckons us and energizes us, which we can't name—we can only go to it, and only our practice will get us there. — Martin Scorsese
+
 ## Further reading
 <details>
     <summary><strong>References</strong></summary>
