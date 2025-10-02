@@ -33,11 +33,11 @@ What follows is my attempt to capture the insights I've gained and lessons I've 
     <br>
 
 - Stablecoins are a type of cryptocurrencies pegged to a fiat currency, treasuries, gold or basket of currencies to stabilize the price fluctuation while getting the benefits of cryptocurrencies such as instantaneous settlement and borderless transactions.
+- Stablecoins bridge the gap between traditional and modern finance.
 - Mechanics of various stablecoins
     - Fiat based collateral which are the most common. They are backed 1:1 by a fiat currency such as USD or Euro or other high-quality liquid assets like U.S. Treasury bills held in reserve by a central entity.
-    - Crypto based collateral which are backed by a reserve of other cryptocurrencies.  Because the underlying crypto collateral can be volatile, these stablecoins are typically over-collateralized. This means a larger value of cryptocurrency, for example, $150 worth of Ethereum is locked in a smart contract for every $100 worth of stablecoin issued, providing a buffer against price drops.
-    - Algorithmic based stablecoins use smartcontracts to automatically manage the supply and demand to maintain the price peg . If the stablecoin's price drops below its peg, the algorithm decreases the supply (by burning tokens). If the price goes above, it increases the supply (by minting new tokens) to bring the price back to the target. More complex and risky.
-- Stablecoins bridge the gap between traditional and modern finance.
+    - Crypto based collateral which are backed by a reserve of other cryptocurrencies.  Because the underlying crypto collateral can be volatile, these stablecoins are typically over-collateralized. A large value of cryptocurrency, for example, $150 worth of Ethereum is locked in a smart contract for every $100 worth of stablecoin issued, providing a buffer against price drops.
+    - Algorithmic based stablecoins use smartcontracts to automatically manage the supply and demand to maintain the price peg. If the stablecoin's price drops below its peg, the algorithm decreases the supply by burning tokens. If the price goes above, it increases the supply by minting new tokens to bring the price back to the target. This is more complex and risky.
 
 
 </details>
