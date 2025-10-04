@@ -13,6 +13,7 @@ const ArtIndex = ({ data, location }) => {
       <h1>Art</h1>
       <p>Art has been a powerful tool for me to expand my imagination and foster a sense of curiosity and creativity. Engaging in artistic endeavors provides an excellent way to escape from the mundane realities of life and allowing one to indulge in fun and playful moments.</p>
       <div>
+        <StaticImage src="../images/art/chicity.png" alt="chi city" className="gallery-image"/>
         <StaticImage src="../images/art/beachday.png" alt="beach day" className="gallery-image"/>
         <StaticImage src="../images/art/pleasesmile.png" alt="smile" className="gallery-image"/>
         <StaticImage src="../images/art/reading_under_lamp.png" alt="readingunderlamp" className="gallery-image"/>
