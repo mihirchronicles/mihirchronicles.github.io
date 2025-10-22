@@ -250,7 +250,7 @@ Below are a few major providers of generational LLM models.
 - [Why "Self-Generated Learning” May Be More Radical and Consequential Than First Appears](https://www.youtube.com/watch?v=U87dqzUO694)
 - [Children’s Early Language Learning: An Inspiration for Social AI](https://www.youtube.com/watch?v=dSWJG6ZQ3Qc)
 - [The Future of Artificial Intelligence](https://www.youtube.com/watch?v=GwHDAfAAKd4)
-- [Invest Like The Best Episode Capital, Compute & AI Scaling, Chetan Puttagunta and Modest Proposal i](https://joincolossus.com/episode/chetan-puttagunta-and-modest-proposal-capital-compute-ai-scaling/)
+- [Invest Like The Best Episode Capital, Compute & AI Scaling, Chetan Puttagunta and Modest Proposal](https://joincolossus.com/episode/chetan-puttagunta-and-modest-proposal-capital-compute-ai-scaling/)
 - [AI, Semiconductors, and the Robotic Frontier with Gavin Baker](https://joincolossus.com/episode/baker-ai-semiconductors-and-the-robotic-frontier/)
 - [Ilya Sutskever: "Sequence to sequence learning with neural networks: what a decade"](https://www.youtube.com/watch?v=1yvBqasHLZs&t=1s)
 
