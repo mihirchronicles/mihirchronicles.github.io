@@ -10,11 +10,29 @@ Dr. Casey Means argues that modern lifestyle factors like processed foods and po
 
 ## II. Big Ideas
 
-- Simple markers can show us “check engine” alerts. A most basic and accessible way to see if you have a reasonable level of metabolic health is by checking five markers that are almost always tested and tracked at your annual checkup: blood sugar, triglycerides, high-density lipoprotein (HDL) cholesterol, blood pressure, and waist circumference.
-- Focus on cell biology over diet dogma. Put all your energy into finding and eating unprocessed foods grown in healthy soil. Your health will vastly improve. It actually is that simple.
-- With food we covered three simple rules that get you quite far: don't eat added sugar, don't eat industrially processed vegetable and seed oils, and don't eat highly processed grains. 
-- More than 90 percent of serotonin, the hormone that regulates mood and contentment, is made in the gut—not in the brain.
-- Authors and poets who address the human condition, mortality, eternity, and continuity with nature that I recommend are Mary Oliver, Pema Chödrön, Paramahansa Yogananda, Michael Pollan, Clarissa Pinkola Estés, Seneca, Marcus Aurelius, Robin Wall Kimmerer, Rumi, Lao-tzu, Khalil Gibran, Hafiz, Walt Whitman, W. S. Merwin, Thích Nhất Hạnh, Diane Ackerman, Alan Watts, Lewis Thomas, Ram Das, Rainer Maria Rilke, Deepak Chopra, and Wang Wei.
+- Essential biomarkers can show us “check engine” alerts:
+   - Fasting Glucose: Optimal: 70–85 mg/dL
+   - Fasting Insulin: Optimal: 2–6 uIU/mL
+   - Hemoglobin A1c: Optimal: < 5.4%
+   - Triglycerides: Optimal: < 70 mg/dL
+   - HDL Cholesterol: Optimal: > 50 mg/dL
+   - Liver Enzymes (ALT/AST): Optimal: < 17 U/L (indicates liver health)
+- Avoid the “Unholy Trinity” to restore metabolic health, strictly limit or eliminate:
+    - Refined Added Sugars
+    - Refined Grains (white flour, processed wheat)
+    - Industrial Seed Oils (vegetable, canola, soybean oils)
+- Every meal should aim to include these 5 essential elements to support cellular function:
+   - Fiber (feeds the gut microbiome)
+   - Quality Protein (essential for structure and function)
+   - Omega-3 Fatty Acids (reduces inflammation)
+   - Probiotics (fermented foods)
+   - Antioxidants (protects cells from damage)
+- Glucose stability: avoid "naked carbs" (eating carbs alone). Always pair carbohydrates with protein, fat, or fiber to prevent blood sugar spikes.
+- Essential lifestyle pillars:
+    - Movement is Medicine: Sedentary life signals safety to the body, leading to dormancy. Aim for “movement snacks” throughout the day rather than just one gym session. Walk after meals to lower glucose spikes.
+    - Circadian Rhythm: Align your life with the sun. Get morning sunlight in your eyes, eat during daylight hours, and avoid bright artificial light at night to support mitochondrial repair.
+    - Environmental Toxins: Reduce exposure to “metabolic disruptors” found in plastics, pesticides, and personal care products.
+    - Temperature Stress: Use heat (sauna) and cold (cold plunge/showers) to “shock” your mitochondria into becoming more efficient (hormesis).
 
 ## III. Quotes
 
@@ -32,3 +50,7 @@ Dr. Casey Means argues that modern lifestyle factors like processed foods and po
 - John D. Rockefeller—realizing he could use by-products from his oil production to create pharmaceuticals—heavily funded medical schools throughout the United States to teach a curriculum based on the intervention-first Halsted model. An employee of Rockefeller’s was tasked to create the Flexner Report, which outlined a vision for medical education that prioritized interventions and stigmatized nutritional, traditional, and holistic remedies.
 - Separation defines modern medicine.
 - TRUST THE SYSTEM ON ACUTE ISSUES, IGNORE IT ON CHRONIC Most health care books give recommendations and end with a disclaimer to “consult your doctor.” I have a different conclusion: when it comes to preventing and managing chronic disease, you should not trust the medical system. This might sound pessimistic or even frightening, but understanding the incentives of our medical system and why it does not deserve our benefit of the doubt is the first step to becoming an empowered patient.
+- Focus on cell biology over diet dogma. Put all your energy into finding and eating unprocessed foods grown in healthy soil. Your health will vastly improve. It actually is that simple.
+- With food we covered three simple rules that get you quite far: don't eat added sugar, don't eat industrially processed vegetable and seed oils, and don't eat highly processed grains. 
+- More than 90 percent of serotonin, the hormone that regulates mood and contentment, is made in the gut—not in the brain.
+- Authors and poets who address the human condition, mortality, eternity, and continuity with nature that I recommend are Mary Oliver, Pema Chödrön, Paramahansa Yogananda, Michael Pollan, Clarissa Pinkola Estés, Seneca, Marcus Aurelius, Robin Wall Kimmerer, Rumi, Lao-tzu, Khalil Gibran, Hafiz, Walt Whitman, W. S. Merwin, Thích Nhất Hạnh, Diane Ackerman, Alan Watts, Lewis Thomas, Ram Das, Rainer Maria Rilke, Deepak Chopra, and Wang Wei.
