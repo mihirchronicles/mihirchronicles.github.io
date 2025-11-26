@@ -254,5 +254,9 @@ Below are a few major providers of generational LLM models.
 - [AI, Semiconductors, and the Robotic Frontier with Gavin Baker](https://joincolossus.com/episode/baker-ai-semiconductors-and-the-robotic-frontier/)
 - [Ilya Sutskever: "Sequence to sequence learning with neural networks: what a decade"](https://www.youtube.com/watch?v=1yvBqasHLZs&t=1s)
 
+**Links**
+- [Everything About Transformers by Krupa Dave](https://www.krupadave.com/articles/everything-about-transformers?x=v3)
+- [AI eats the world by Ben Evans](https://www.ben-evans.com/presentations)
+
 </details>
 <br />
