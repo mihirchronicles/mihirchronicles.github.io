@@ -141,16 +141,127 @@ Several frameworks can help manage and overcome complexity.
 
 Structured thinking is required to solve complex problems and to conduct deep analysis. Without hard parameters, it is difficult to manage scope of the problem and create actionable steps. Frameworks are not immediately applicable to the real world because the real world doesn't share all the assumptions and parameters. All frameworks have complementary weaknesses. And vice versa. It is wise to use caution to stay adaptable while using frameworks. A few frameworks I have used or continue to use in my daily life.
 
-### Decision-making
+### Decision-making & goal setting
 
 | Framework | Description |
 | -------------|:-------------:|
+| S.M.A.R.T | The SMART framework is a popular method for setting effective goals where SMART stands for—Specific, Measurable, Achievable, Relevant, and Time-Bound. |
+| _Rocks, Pebbles & Sand_ | The “rocks in a jar” analogy is used to explain task prioritization. A jar is a finite place with a collection of rocks, pebbles and sand. |
 | _S.P.A.D.E_ | A decision-making framework to help synchronize and speed up collaboration to make difficult choices. An acronym for Setting, People, Alternatives, Decide and Explain. |
 | _Eisenhower Matrix_ | The Eisenhower box includes one axis that is important, the other axis is urgent. It is a two by two matrix to help with prioritization. |
 | _Objective Key Results (OKR)_ | OKR is a goal setting framework that was popularized in Silicon Valley. It stands for Objective and Key Results. Objective answers the WHAT is to be achieved. Key Results answers the HOW is it going to be achieved. |
 | _Now Next Later_ | The Now-Next-Later roadmap is a product management tool that organizes work into three-time horizons, from immediate to long term, starting with the most urgent problems to solve. |
 | _One-way & Two-way Decisions_ | One-way door decisions have lasting effects and are often hard to reverse. Conversely, two-way door decisions are reversible and less impactful. They provide opportunities to experiment, learn, and iterate. |
-| _3Ds_ | A tactical decision-making framework by Annie Duke who is a decision-making expert. The 3 Ds are— discover, discuss and decide. |
+| _3Ds_ | A tactical decision-making framework by Annie Duke who is a decision-making expert. The 3 Ds are—discover, discuss and decide. |
+
+<details>
+    <summary><strong>S.M.A.R.T</strong></summary>
+    <br>
+
+The SMART framework is a popular method for setting effective goals, where SMART stands for Specific, Measurable, Achievable (or Attainable), Relevant, and Time-bound, helping individuals and organizations create clear, focused, and realistic objectives that are easier to track and achieve by adding detail, metrics, feasibility, purpose, and deadlines.
+
+- **S—Specific**:	
+    - Key question: What exactly do I want to accomplish?	
+    - Why it matters: Vague goals produce vague results. You need to define the “Who, What, Where, and Why.”
+- **M—Measurable**:	
+    - Key question: How will I know when it is accomplished?
+    - Why it matters: You need concrete evidence (numbers, metrics, binary yes/no) to track progress.
+- **A—Achievable**:	
+    - Key question: Is this realistic with my current resources?	
+    - Why it matters: The goal should stretch you, but remain possible given your time, money, and talent constraints.
+- **R—Relevant**:	
+    - Key question: Does this align with broader efforts?	
+    - Why it matters: Ensure this goal matters to your long-term strategy (your "Rocks"). If it doesn't, it’s a distraction.
+- **T—Time-bound**:
+    - Key question: When is the deadline?
+    - Why it matters: A goal without a deadline is just a dream. Deadlines create urgency and prevent procrastination.
+
+Examples of Weak vs SMART: Here is how to transform vague statements into SMART goals across different contexts.
+
+1. Business Context (Sales):
+- Weak Goal: “We need to increase our sales.”
+    - Critique: How much? By when? Which product?
+- SMART Goal: “Increase sales of the Enterprise Software tier by 15% (Measurable) among existing clients in the Northeast region (Specific) by December 31st (Time-bound) using the new referral discount program (Achievable/Relevant).”
+
+2. Professional Development (Upskilling):
+- Weak Goal: “I want to get better at public speaking.”
+    - Critique: Subjective and open-ended.
+- SMART Goal: “Present a 15-minute quarterly update (Specific) to the senior leadership team at the Q3 review meeting (Time-bound/Relevant) without reading from notes (Measurable), after practicing twice a week with a mentor (Achievable).”
+
+3. Personal Finance (Savings):
+- Weak Goal: “I want to save money for a house.”
+    - Critique: No target, no timeline.
+- SMART Goal: “Save $20,000 for a down payment (Specific/Measurable) by automating a transfer of $850 from every paycheck (Achievable) into a high-yield savings account for the next 24 months (Time-bound).”
+
+4. Health & Fitness:
+- Weak Goal: “I want to run a marathon.”
+    - Critique: Unrealistic if you currently don't run; lacks a training structure.
+- SMART Goal: “Complete the Chicago Marathon (Specific) in under 4 hours (Measurable) on October 13th (Time-bound) by following a 16-week progressive training plan (Achievable/Relevant).”
+
+Common Pitfalls to Avoid:
+1. Confusing "Activity" with “Outcome”:
+    - Bad: “Send 50 emails a week.” (This is just an activity).
+    - SMART: “Secure 5 new qualified leads per week via email outreach.” (This is an outcome).
+2. The “Achievable” Trap:
+    - Setting the bar too low just to check a box is “sandbagging.”
+    - Setting the bar impossibly high leads to burnout. Aim for the “sweet spot”—difficult but doable.
+3. Ignoring the “Relevant”:
+    - You can set a SMART goal to “Count every paperclip in the office by 5 PM.” It is specific, measurable, achievable, and time-bound—but it is completely irrelevant to business success.
+
+</details>
+<br>
+
+<details>
+    <summary><strong>Rocks, Pebbles & Sand</strong></summary>
+    <br>
+
+The classic “Rocks, Pebbles, Sand” analogy—popularized by Stephen Covey—teaches us that if you schedule the big things first, the small things will fit around them. Rocks are boulders which represent the most important priority like your family. Pebbles are least important but are critical to keep the lights on. Sand is insignificant which represents space filler with distraction. If you do the inverse, you run out of time for what matters.
+
+However, most teams misinterpret this lesson as purely a matter of size (e.g., Rocks = 3 months, Pebbles = 1 month). This misses the point. In the real world, these three categories require fundamentally different mindsets, metrics, and management styles.
+
+If you treat a “Rock” like a big “Pebble,” or manage “Sand” with the rigor of a “Rock,” you create a team that looks productive (high code output) but feels stuck (low strategic progress).
+
+**I. ROCKS—Maximizing Strategic Impact**: Rocks are not just “long projects.” They are strategic initiatives intended to materially advance the company down a unique path, build durable advantages, or solve the most critical challenges.
+- Duration: 3–12 Months
+- Core philosophy:
+    - Maximize Impact, Not ROI: Do not choose Rocks based on efficiency. You are looking for dramatic results. If an idea is quick to build but offers only incremental improvement, it is not a Rock.
+    - Hofstadter’s Law: “It always takes longer than you expect, even when you take into account Hofstadter's Law.” A 3-month estimate is realistically a 3-to-12-month commitment.
+    - The “Greatness” Threshold: Because Rocks consume massive resources, “good” ideas are the enemy. You must hold out for “great” ideas. If you lack a truly strategic idea, do not invent busy work; focus on Pebbles until the strategy clarifies.
+- How to execute:
+    - Deliberate Decisions: Unlike Agile development, Rock selection should be slow and deliberate. Once committed, treat it as a one-way door.
+    - Executive Ownership: While Product Managers (PMs) drive the definition, Executives must own the final decision to align it with the broader company strategy.
+
+**III. PEBBLES—Maximizing ROI**: Pebbles are the “Goldilocks” of work. They are tactical wins—features that delight customers or counter competitors in the short term.
+- Duration: 1–4 Sprints
+- Core philosophy:
+    - Maximize ROI: Here, efficiency rules. We calculate ROI using the standard formula: ROI = Value/Effort
+    - The Estimation Trap: Be wary of the “Hofstadter” effect on ROI. If a project estimated at 4 weeks drags to 6, and the impact comes in 20% lower than expected, your ROI can drop by half.
+    - Scope Discipline: If a Pebble balloons beyond 4 sprints, it is becoming a Rock. You must either ruthlessly cut scope to fit the Pebble timeframe or pause and re-evaluate it as a strategic Rock.
+- How to execute:
+    - PM Sovereignty: The Product Manager is the ultimate decider for Pebbles. They sit at the intersection of customer needs, market pressure, and engineering reality.
+
+**III. SAND—Maximizing Throughput**: Sand consists of the thousand small tweaks—bug fixes, UI polish, text changes, library upgrades—that cumulatively create quality.
+- Duration: less than 1 Sprint (often hours)
+- Core philosophy:
+    - Maximize Throughput: Individual grains of sand are rarely measurable in isolation. Do not waste time trying to quantify the impact of fixing one bug. The goal is volume: how many small improvements can we ship?
+    - Kill Admin Overhead: The biggest enemy of Sand is process. If you spend 20 minutes creating a JIRA ticket for a 5-minute code fix, you have destroyed productivity.
+    - Emotional Prioritization: Because the business value of a single grain is negligible, prioritize based on energy. Let engineers fix the things that annoy them. Happy engineers produce better code.
+- How to execute:
+    - Self-Managed Teams: Management should not schedule Sand. If executives are prioritizing bug fixes, they are micromanaging. The team knows what needs to be polished; let them fit it in.
+
+**IV. The Execution Algorithm**: How do you fit this into a real Sprint Plan? Use this hierarchy of needs. If you cannot fit an item, cut from the bottom up.
+
+1. Time-Critical Items: (Security patches, immovable launch dates).
+2. The Rock: Schedule enough stories to make visible progress. Never starve the Rock.
+3. The Pebble: Schedule stories for the current tactical win.
+4. Sand: Fill the gaps.
+
+#### Further reading
+
+- [Rocks, Pebbles, Sand: How to implement in practice](https://longform.asmartbear.com/rocks-pebbles-sand/)
+
+</details>
+<br>
 
 <details>
     <summary><strong>S.P.A.D.E</strong></summary>
