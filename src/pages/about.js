@@ -35,13 +35,13 @@ const AboutIndex = ({ data, location }) => {
       <p>
         <strong>Below is my take on navigating a good life:</strong>
         <ul>
-        <li><strong>Action produces information.</strong> Indecision is the enemy of action. It is better to take action and learn from the results than to stay stuck in indecisiveness.</li>
-          <li><strong>Dance with the universe.</strong> You are responsible for your life, so design it as such. You are an author and an actor in your own story. The universe awaits—ignore it or dance with it.</li>
+          <li><strong>Action produces information.</strong> Indecision is the enemy of action. It is better to take action and learn from the results than to stay stuck in indecisiveness.</li>
           <li><strong>Cultivate high agency.</strong> Act from internal drive, not social pressure. Lead by example, not instruction. Show, don't tell. Avoid the passive mindset.</li>
-          <li><strong>Humor is the common denominator.</strong> Humor defuses tension, humanizes the room, and strips away misery.</li>
-          <li><strong>Reject animosity.</strong> Negative state of mind is toxic. Let love lead.</li>
-          <li><strong>Writing is deep introspection.</strong> It is where you meet your own ignorance face-to-face.</li>
+          <li><strong>Dance with the universe.</strong> You are responsible for your life, so design it as such. You are an author and an actor in your own story. The universe awaits—ignore it or dance with it.</li>
           <li><strong>Now are the good old times.</strong> Tomorrow's nostalgia is today's moment.</li>
+          <li><strong>Reject animosity.</strong> Negative state of mind is toxic. Let love lead.</li>
+          <li><strong>Humor is the common denominator.</strong> Humor defuses tension, humanizes the room, and strips away misery.</li>
+          <li><strong>Writing is deep introspection.</strong> It is where you meet your ignorance face-to-face.</li>
           <li><strong>Choose your hard.</strong> Every choice has its price. Being fit is hard. Being unhealthy is hard. Entrepreneurship is hard. Working a 9-5 is hard. Everything is hard.</li>
         </ul>
       </p>
