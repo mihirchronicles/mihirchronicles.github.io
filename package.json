@@ -24,6 +24,8 @@
     "prismjs": "^1.29.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
+    "react-is": "^19.2.4",
+    "react-medium-image-zoom": "^5.4.0",
     "styled-components": "^5.3.6"
   },
   "overrides": {
@@ -33,7 +35,9 @@
   },
   "devDependencies": {
     "gh-pages": "^5.0.0",
-    "prettier": "^2.8.3"
+    "patch-package": "^8.0.1",
+    "prettier": "^2.8.3",
+    "punycode": "^2.3.1"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "keywords": [
@@ -51,6 +55,7 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
-    "deploy": "gatsby build && gh-pages -d public -b main"
+    "deploy": "gatsby build && gh-pages -d public -b main",
+    "postinstall": "patch-package"
   }
 }

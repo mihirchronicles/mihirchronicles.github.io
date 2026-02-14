@@ -1,9 +1,52 @@
 import * as React from "react"
 import { graphql } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
+import styled from "styled-components"
+import Zoom from 'react-medium-image-zoom'
+import 'react-medium-image-zoom/dist/styles.css'
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+
+const WorkContainer = styled.article`
+  display: flex;
+  flex-direction: row;
+  gap: 3rem;
+  margin-bottom: 5rem;
+  align-items: flex-start;
+
+  @media (max-width: 768px) {
+    flex-direction: column;
+    gap: 1.5rem;
+    margin-bottom: 4rem;
+  }
+`
+
+const ImageContainer = styled.div`
+  flex: 1;
+  width: 100%;
+  
+  .gallery-image {
+    margin-bottom: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+`
+
+const ContentContainer = styled.div`
+  flex: 1.2;
+
+  h2 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-size: 1.5rem;
+  }
+
+  p {
+    margin-bottom: 1rem;
+    line-height: 1.6;
+  }
+`
 
 const WorkIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
@@ -11,86 +54,179 @@ const WorkIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <h1>Work</h1>
-      <p>Nurturing an idea that blossoms into an experimentation is an unparalleled joy. The journey of building products has broadened my understanding of various subjects and how things work. Below are the products I’ve had a privilege of working on.</p>
+      <p style={{ marginBottom: "4rem", maxWidth: "800px" }}>Nurturing an idea through an experimentation that blossoms into a product is an unparalleled joy. The journey of building products has broadened my understanding of various subjects and how things work. Below are the products I have had the privilege of working on.</p>
 
-      <h2>DAFgiving360 (Schwab Charitable)</h2>
-      <div>
-        <StaticImage src="../images/daf.png" alt="dafgiving360 donor advised fund" className="gallery-image" />
-      </div>
-      <p><strong>[2023 - Current]</strong></p>
-      <p><strong>Details</strong>: Driving digital product strategy and execution for donor advised funds (DAF) at DAFgiving360. Optimizing capabilities and user experiences that connect donors with 255,000+ charities nationwide.</p>
-      <p><strong>Website</strong>: <a href="https://www.dafgiving360.org">DAFgiving360</a></p>
+      <WorkContainer>
+        <ImageContainer>
+          <Zoom>
+            <StaticImage src="../images/daf.png" alt="dafgiving360 donor advised fund" className="gallery-image" />
+          </Zoom>
+        </ImageContainer>
+        <ContentContainer>
+          <h2>DAFgiving360 (Schwab Charitable)</h2>
+          <p><strong>[2023 - 2025]</strong></p>
+          <ul>
+            <li> Led digital product strategy and execution for donor-advised funds (DAF), directly facilitating a total of $8.9 billion in charitable grants during fiscal year 2025.</li>
+            <li> Scaled automated granting workflows and directed end-to-end product development, optimizing capabilities to connect donors with 255,000+ charities nationwide.</li>
+            <li> Defined strategic direction for charitable giving solutions, enhancing user experiences and streamlining the donation process across all digital channels.</li>
+          </ul>
+          <p><strong>Website</strong>: <a href="https://www.dafgiving360.org">DAFgiving360</a></p>
+        </ContentContainer>
+      </WorkContainer>
 
-      <h2>Schwab Intelligent Portfolios</h2>
-      <div>
-        <StaticImage src="../images/sip.png" alt="schwab intelligent portfolios" className="gallery-image" />
-      </div>
-      <p><strong>[2021 - 2023]</strong></p>
-      <p><strong>Details</strong>: Led effort on modernizing risk profile and recommendation for automated investing offering (robo-advisor) to reduce the number of questions resulting in a fewer clicks and faster onboarding experience and investment portfolio recommendation.</p>
-      <p><strong>Website</strong>: <a href="https://intelligent.schwab.com">Schwab Intelligent Portfolios</a></p>
+      <WorkContainer>
+        <ImageContainer>
+          <Zoom>
+            <StaticImage src="../images/sip.png" alt="schwab intelligent portfolios" className="gallery-image" />
+          </Zoom>
+        </ImageContainer>
+        <ContentContainer>
+          <h2>Schwab Intelligent Portfolios</h2>
+          <p><strong>[2021 - 2023]</strong></p>
+          <ul>
+            <li>The Challenge: The existing automated investing onboarding flow was friction-heavy, requiring too many steps for risk profiling.</li>
+            <li>The Solution: Led the effort to modernize the risk profile and portfolio recommendation algorithms, focusing on a minimalist, user-centric design.</li>
+            <li>The Result: Delivered a streamlined Schwab Intelligent Portfolios experience with reduced question density, resulting in a quantifiable decrease in click-throughs and a faster time-to-value for new investors.</li>
+          </ul>
+          <p><strong>Website</strong>: <a href="https://intelligent.schwab.com">Schwab Intelligent Portfolios</a></p>
+        </ContentContainer>
+      </WorkContainer>
 
-      <h2>Big Imposter</h2>
-      <div>
-        <StaticImage src="../images/big_imposter_1.png" alt="big_imposter" className="gallery-image" />
-        <StaticImage src="../images/big_imposter_2.png" alt="big_imposter" className="gallery-image" />
-      </div>
-      <p><strong>[2023]</strong></p>
-      <p><strong>Details</strong>: A project exploration on how to beat the imposter syndrome. Created brand assets including logo, website, copy and illustrations. The project was never launched.</p>
-      <p><strong>Website</strong>: <a href="https://bigimposter.webflow.io">Big Imposter</a></p>
+      <WorkContainer>
+        <ImageContainer>
+          <Zoom>
+            <StaticImage src="../images/big_imposter_1.png" alt="big_imposter" className="gallery-image" />
+          </Zoom>
+          <Zoom>
+            <StaticImage src="../images/big_imposter_2.png" alt="big_imposter" className="gallery-image" />
+          </Zoom>
+        </ImageContainer>
+        <ContentContainer>
+          <h2>Big Imposter</h2>
+          <p><strong>[2023]</strong></p>
+          <ul>
+            <li>Conceptualized and developed a cohesive brand identity for a digital resource dedicated to overcoming professional imposter syndrome.</li>
+            <li>Executed end-to-end creative direction, designing a complete visual system including a custom logo, spot illustrations, and high-fidelity website mockups.</li>
+            <li>Project was abandoned.</li>
+          </ul>
+          <p><strong>Website</strong>: <a href="https://bigimposter.webflow.io">Big Imposter</a></p>
+        </ContentContainer>
+      </WorkContainer>
 
-      <h2>Wise Charlie</h2>
-      <div>
-        <StaticImage src="../images/wise_charlie_deck.jpg" alt="wisecharlie" className="gallery-image"/>
-        <StaticImage src="../images/wise_charlie1.png" alt="wisecharlie" className="gallery-image"/>
-        <StaticImage src="../images/wise_charlie_logo.jpg" alt="wisecharlie" className="gallery-image"/>
-        <StaticImage src="../images/wise_charlie_landing_page.png" alt="wisecharlie" className="gallery-image"/>
-      </div>
-      <p><strong>[2018 - 2021]</strong></p>
-      <p><strong>Details</strong>: Charlie Munger has been a huge source of inspiration to me since I was a teenager. He is Warren Buffett's business partner at Berkshire Hathaway and famously known as one of the broadest thinkers. Munger coined the concept of mental models. Mental models are big ideas from big disciplines. When you collect models from lots of different fields, say psychology, literature, science, math, and so on—you will then be able to recognize lots of interesting connections. Models are reference points of understanding. Munger believes in collecting little packets of understanding for how things work, little models of the world. These mental models can help anyone ask the right questions by thinking critically. It is easy to pay homage to Charlie Munger’s latticework of mental models, but when you live it, you see why he is right. Knowing the key drivers and major ideas in a variety of fields is a huge source of leverage. It is difficult to study broadly and deeply, but the two aren't mutually exclusive. I wanted to create a central repository of these mental models which would explain them in a fun way and pursue academia in a non-traditional way. I had an option to go pursue my MBA or start Wise Charlie. I chose the latter.</p>
-      <p><strong>Product</strong>: Wise Charlie is a collection of 100 mental model cards packaged in a beautiful and compact box. It is a pocket tool for independent thinking. Each model has fun artwork with a short definition followed by a funny example. I wanted the product to reflect humor because Charlie Munger in real life is hilarious.</p>
-      <p><strong>Highlights</strong>: The project was a challenge in many ways that I did not anticipate. Manufacturing and shipping a physical product is still harder than building a digital product. Maintaining a project is hard especially when you are running it solo. Nonetheless, the project was super fun to build and share with teachers, students, designers, parents and investors. So many of us want to be good at thinking better while having fun. The project was able to achieve that with 600+ customers. Project got a shout out from <a href="https://www.densediscovery.com/issues/111">Kai from Dense Discovery</a>, <a href="https://barbaraoakley.com/p-is-for-pterodactyl-the-worst-alphabet-book-ever/">Barbara Oakley</a>, <a href="https://klart.io/pixels/5fb63e559d3494717438a94a">Fredrick from Pixels</a>, Blas from Rabbit Hole and many more. First, I decided to shut down the project after 4 years because there are a lot of similarities between Wise Charlie & Mihir Chronicles. I decided to consolidate the two. More on <a href="https://twitter.com/mihirchronicles/status/1479596342242590727?s=20">what</a> I learned and <a href="https://mailchi.mp/a203c96984bf/the-end-of-wise-charlie-project">why</a>. But I started getting a flood of emails from customers asking me to not shut down. They asked me whether I'd be interested in selling the business. I ultimately ended up selling the business. The outcome I didn't desire but came in surprising ways.</p>
-      <p><strong>Instagram</strong>: <a href="https://www.instagram.com/heywisecharlie/">@heywisecharlie</a></p>
-      <p><strong>Web Archive</strong>: <a href="http://web.archive.org/web/20210725045443/https://www.wisecharlie.com/">Wise Charlie</a></p>
+      <WorkContainer>
+        <ImageContainer>
+          <Zoom>
+            <StaticImage src="../images/wise_charlie_deck.jpg" alt="wisecharlie" className="gallery-image" />
+          </Zoom>
+          <Zoom>
+            <StaticImage src="../images/wise_charlie1.png" alt="wisecharlie" className="gallery-image" />
+          </Zoom>
+          <Zoom>
+            <StaticImage src="../images/wise_charlie_logo.jpg" alt="wisecharlie" className="gallery-image" />
+          </Zoom>
+          <Zoom>
+            <StaticImage src="../images/wise_charlie_landing_page.png" alt="wisecharlie" className="gallery-image" />
+          </Zoom>
+        </ImageContainer>
+        <ContentContainer>
+          <h2>Wise Charlie</h2>
+          <p><strong>[2018 - 2021]</strong></p>
+          <ul>
+            <li>A “pocket tool for independent thinking” consisting of 100 mental model cards in a compact, custom-designed box.</li>
+            <li>Founded and bootstrapped Wise Charlie—an educational project on Charlie Munger's mental models—over a traditional MBA. Dedicated to mastering the 'latticework' of interdisciplinary thinking by translating big ideas from physics, psychology, and math into accessible, high-leverage tools for better decision-making</li>
+            <li>Democratized high-leverage thinking, transforming dense academic concepts into engaging tools for critical decision-making and pattern recognition.</li>
+            <li>Managed end-to-end physical product lifecycle as a solo founder, successfully navigating manufacturing, logistics, and shipping challenges distinct from digital product development.</li>
+            <li>Achieved market validation with 600+ paying customers, delivering a physical tool for critical thinking to a diverse user base of educators, investors, and designers.</li>
+            <li>Project coverage: Project got a shout out from <a href="https://www.densediscovery.com/issues/111">Kai from Dense Discovery</a>, <a href="https://barbaraoakley.com/p-is-for-pterodactyl-the-worst-alphabet-book-ever/">Barbara Oakley</a>, <a href="https://klart.io/pixels/5fb63e559d3494717438a94a">Fredrick from Pixels</a>, Blas from Rabbit Hole and many more.</li>
+            <li>Business was acquired by a customer.</li>
+          </ul>
+          <p><strong>Instagram</strong>: <a href="https://www.instagram.com/heywisecharlie/">@heywisecharlie</a></p>
+          <p><strong>Web Archive</strong>: <a href="http://web.archive.org/web/20210725045443/https://www.wisecharlie.com/">Wise Charlie</a></p>
+        </ContentContainer>
+      </WorkContainer>
 
-      <h2>Morningstar Investor</h2>
-      <div>
-        <StaticImage src="../images/morningstar_dot_com.png" alt="morningstar_dot_com" className="gallery-image"/>
-      </div>
-      <p><strong>[2020-2021]</strong></p>
-      <p><strong>Details</strong>: Morningstar Investor (aka dot com) is Morningstar's staple product which helps individual investors manage their own portfolio by providing features such as watchlist, portfolio tracker and Morningstar research. I got an opportunity to help drive feature development when the executive team decided to modernize the experience.</p>
-      <p><strong>Website</strong>: <a href="http://investor.morningstar.com/">Morningstar Investor</a></p>
+      <WorkContainer>
+        <ImageContainer>
+          <Zoom>
+            <StaticImage src="../images/morningstar_dot_com.png" alt="morningstar_dot_com" className="gallery-image" />
+          </Zoom>
+        </ImageContainer>
+        <ContentContainer>
+          <h2>Morningstar Investor</h2>
+          <p><strong>[2020-2021]</strong></p>
+          <ul>
+            <li>Drove feature development for the modernization of Morningstar Investor, the company's flagship platform for individual investors.</li>
+            <li>Revitalized core capabilities, including Watchlists, Portfolio Tracking, and Research integration, as part of a strategic executive initiative to upgrade the user experience.</li>
+          </ul>
+          <p><strong>Website</strong>: <a href="http://investor.morningstar.com/">Morningstar Investor</a></p>
+        </ContentContainer>
+      </WorkContainer>
 
-      <h2>Morningstar Design System</h2>
-      <div>
-        <StaticImage src="../images/morningstar_design_system.png" alt="designsystem" className="gallery-image"/>
-      </div>
-      <p><strong>[2018 - 2020]</strong></p>
-      <p><strong>Details</strong>: Morningstar is a financial services company with almost 60 plus, client facing, software products. This makes it hard to communicate design, code and user experience standards. Design system brings design and code standards across all Morningstar products.</p>
-      <p><strong>Website</strong>: <a href="http://designsystem.morningstar.com/">Morningstar Design System</a></p>
+      <WorkContainer>
+        <ImageContainer>
+          <Zoom>
+            <StaticImage src="../images/morningstar_design_system.png" alt="designsystem" className="gallery-image" />
+          </Zoom>
+        </ImageContainer>
+        <ContentContainer>
+          <h2>Morningstar Design System</h2>
+          <p><strong>[2018 - 2020]</strong></p>
+          <ul>
+            <li>Unified UX and code standards across a portfolio of 60+ client-facing products, resolving fragmentation through the implementation of a centralized Design System.</li>
+            <li>Created a living style guide and component library, ensuring consistency and accessibility across all products.</li>
+            <li>Collaborated with cross-functional teams to implement the Design System, including product managers, developers, and designers.</li>
+            <li>Facilitated the adoption of the Design System by providing training and documentation, and by working closely with teams to ensure successful implementation.</li>
+          </ul>
+          <p><strong>Website</strong>: <a href="http://designsystem.morningstar.com/">Morningstar Design System</a></p>
+        </ContentContainer>
+      </WorkContainer>
 
-      <h2>Spendout</h2>
-      <div>
-        <StaticImage src="../images/spendout.png" alt="spendout" className="gallery-image"/>
-        <StaticImage src="../images/spendout2.png" alt="spendout2" className="gallery-image"/>
-      </div>
-      <p><strong>[2013]</strong></p>
-      <p><strong>Details</strong>: While working at a design and development shop—Doejo, I was asked to lead a team responsibile for building an expense tracking tool.</p>
-      <p><strong>Product</strong>: An expense tracking tool for contractors who are on sharing economy platforms such as Uber and Airbnb.</p>
-      <p><strong>Highlights</strong>: We had a few hundred users and were close to signing a deal with Uber Chicago. I eventually left the product team to pursue a career as a developer shortly after.</p> 
-      <p><strong>Media</strong>: <a href="http://www.chicagotribune.com/bluesky/originals/81828315-132.html">Chicago Tribune Coverage</a></p>
+      <WorkContainer>
+        <ImageContainer>
+          <Zoom>
+            <StaticImage src="../images/spendout.png" alt="spendout" className="gallery-image" />
+          </Zoom>
+          <Zoom>
+            <StaticImage src="../images/spendout2.png" alt="spendout2" className="gallery-image" />
+          </Zoom>
+        </ImageContainer>
+        <ContentContainer>
+          <h2>Spendout</h2>
+          <p><strong>[2013]</strong></p>
+          <ul>
+            <li>Led the end-to-end product development of a specialized expense tracking tool tailored for the sharing economy (Uber, Airbnb) at digital agency Doejo.</li>
+            <li>Achieved early market traction with hundreds of active users and spearheaded strategic partnership negotiations with Uber Chicago.</li>
+            <li>Project shout out <a href="http://www.chicagotribune.com/bluesky/originals/81828315-132.html">Chicago Tribune Coverage</a>.</li>
+          </ul>
+        </ContentContainer>
+      </WorkContainer>
 
-      <h2>Humble Pen</h2>
-      <div>
-        <StaticImage src="../images/humblepens.png" alt="humblepens" className="gallery-image"/>
-        <StaticImage src="../images/humble_pen.jpg"alt="humblepen" className="gallery-image"/>
-        <StaticImage src="../images/hp_sketch.png" width={700} alt="humblepen" className="gallery-image"/>
-      </div>
-      <p><strong>[2012 - 2015]</strong></p>
-      <p><strong>Details</strong>: The project was inspired during my trip to Haiti in 2012. While searching for meaningful work, I stumbled upon a project which would support education for children in need and reignite one's love for writing. <i>One-for-One Giving</i> business model was fitting. During my trip to Haiti, I asked all the kids at the visiting school in Haiti to write a letter to me. As I read those inspiring letters, it was easy to conclude that kids all around the world are filled with joy, have creative passion and are curious thinkers. A 10-year-old kid wrote to me she aspires to become an astronaut when she grows up. Her letter reminded me there are no limits to dreaming bold, no matter where you are in the world. The project stalled several times during the journey. It was due to my lack of experience in building physical products, lack of knowledge in supply chain and interacting with industrial designers. Eventually, the product launched and it was a success but the project was not sustainable.</p>
-      <p><strong>Product</strong>: Humble Pen was a hand-made designer pen made out of bamboo packaged in a beautiful box. Each pen also came with selected artist inspired postcards. For every sale, the product supported educational needs for children in Haiti, India and Cambodia.</p>
-      <p><strong>Highlights</strong>: Project was shut down due to lack of focus, bad hiring and lack of fundamental economics in the supply chain of Humble Pen. Humble Pen also supported fair wages for artisans. This was naturally unsustainable in the long term. One-for-One Giving business model is not sustainable and I learned business and charity should be kept separate. Nonetheless, project was a success in its own right. Humble Pen supported education for almost 1000 kids.</p>
-      <p><strong>Instagram</strong>: <a href="https://www.instagram.com/humblepen/">@humblepen</a></p>
-      <p><strong>Video</strong>: <a href="https://vimeo.com/humblepen">@vimeovideos</a></p>
+      <WorkContainer>
+        <ImageContainer>
+          <Zoom>
+            <StaticImage src="../images/humblepens.png" alt="humblepens" className="gallery-image" />
+          </Zoom>
+          <Zoom>
+            <StaticImage src="../images/humble_pen.jpg" alt="humblepen" className="gallery-image" />
+          </Zoom>
+          <Zoom>
+            <StaticImage src="../images/hp_sketch.png" width={700} alt="humblepen" className="gallery-image" />
+          </Zoom>
+        </ImageContainer>
+        <ContentContainer>
+          <h2>Humble Pen</h2>
+          <p><strong>[2012 - 2015]</strong></p>
+          <ul>
+            <li>Humble Pen was my crash course in the reality of physical goods versus digital products.</li>
+            <li>Origin: Inspired by a 2012 trip to Haiti and letters from students, I founded a “One-for-One” venture to merge design with social impact.</li>
+            <li>The Product: Designed and manufactured a handcrafted bamboo pen, packaged with artist-curated postcards to reignite the passion for physical writing.</li>
+            <li>The Impact: Successfully funded educational resources for nearly 1,000 children across Haiti, India, and Cambodia.</li>
+            <li>The Retrospective: While the project achieved significant social impact, I made the difficult decision to sunset the venture due to the economic challenges of the One-for-One model and fair-trade supply chains. This experience provided invaluable lessons in unit economics, supply chain logistics, and the distinct separation between business sustainability and charitable giving.</li>
+          </ul>
+          <p><strong>Instagram</strong>: <a href="https://www.instagram.com/humblepen/">@humblepen</a></p>
+          <p><strong>Video</strong>: <a href="https://vimeo.com/humblepen">@vimeovideos</a></p>
+        </ContentContainer>
+      </WorkContainer>
 
     </Layout>
   )
