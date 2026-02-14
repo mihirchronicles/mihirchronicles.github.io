@@ -1,6 +1,6 @@
 ---
 title: "Shadows Of A Superpower "
-tags: ["general"]
+tags: ["product"]
 date: "2024-04-24"
 draft: false
 path: "/essays/shadows-of-a-superpower"

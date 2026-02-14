@@ -1,6 +1,6 @@
 ---
 title: "Finding Magic"
-tags: ["general"]
+tags: ["life"]
 date: "2024-03-11"
 draft: false
 path: "/essays/finding-magic"

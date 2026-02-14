@@ -1,6 +1,6 @@
 ---
 title: "Befriending Entropy"
-tags: ["general"]
+tags: ["product"]
 date: "2024-06-28"
 draft: false
 path: "/essays/befriending-entropy"

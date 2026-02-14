@@ -1,6 +1,6 @@
 ---
 title: "Scope Master"
-tags: ["general"]
+tags: ["product"]
 date: "2025-05-11"
 draft: false
 path: "/essays/scope-master"

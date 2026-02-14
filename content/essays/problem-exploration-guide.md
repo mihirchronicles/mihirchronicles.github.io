@@ -1,6 +1,6 @@
 ---
 title: "Problem Exploration Guide"
-tags: ["general"]
+tags: ["product"]
 date: "2025-11-15"
 draft: false
 path: "/essays/problem-exploration-guide"

@@ -1,6 +1,6 @@
 ---
 title: "Mantras And Missions"
-tags: ["general"]
+tags: ["product"]
 date: "2023-09-06"
 draft: false
 path: "/essays/mantras-and-missions"

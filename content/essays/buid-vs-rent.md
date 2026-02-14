@@ -1,6 +1,6 @@
 ---
 title: "Build Vs Rent"
-tags: ["general"]
+tags: ["product"]
 date: "2024-09-13"
 draft: false
 path: "/essays/build-vs-rent"

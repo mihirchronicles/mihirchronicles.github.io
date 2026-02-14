@@ -1,6 +1,6 @@
 ---
 title: "Lifecycle Of A Performer"
-tags: ["general"]
+tags: ["life"]
 date: "2023-09-17"
 draft: false
 path: "/essays/lifecycle-of-a-performer"

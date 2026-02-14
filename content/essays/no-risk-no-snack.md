@@ -1,6 +1,6 @@
 ---
 title: "No Risk No Snack"
-tags: ["general"]
+tags: ["life"]
 date: "2023-09-10"
 draft: false
 path: "/essays/no-risk-no-snack"

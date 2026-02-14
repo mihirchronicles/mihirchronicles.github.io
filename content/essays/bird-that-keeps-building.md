@@ -1,6 +1,6 @@
 ---
 title: "Bird That Keeps Building"
-tags: ["general"]
+tags: ["product"]
 date: "2023-08-17"
 draft: false
 path: "/essays/bird-that-keeps-building"

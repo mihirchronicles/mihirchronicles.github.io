@@ -1,6 +1,6 @@
 ---
 title: "Doomer Mentality"
-tags: ["general"]
+tags: ["life"]
 date: "2026-02-01"
 draft: false
 path: "/essays/doomer-mentality"

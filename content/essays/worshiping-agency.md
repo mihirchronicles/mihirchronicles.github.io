@@ -1,6 +1,6 @@
 ---
 title: "Worshiping Agency"
-tags: ["general"]
+tags: ["product"]
 date: "2024-08-13"
 draft: false
 path: "/essays/worshiping-agency"

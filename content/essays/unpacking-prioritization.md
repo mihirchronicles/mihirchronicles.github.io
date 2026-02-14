@@ -1,6 +1,6 @@
 ---
 title: "Unpacking Prioritization"
-tags: ["general"]
+tags: ["product"]
 date: "2025-11-30"
 draft: false
 path: "/essays/unpacking-prioritization"

@@ -1,6 +1,6 @@
 ---
 title: "Beating The Big Imposter"
-tags: ["general"]
+tags: ["life"]
 date: "2023-02-10"
 draft: false
 path: "/essays/beating-big-imposter"

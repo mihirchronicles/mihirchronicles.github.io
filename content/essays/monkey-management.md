@@ -1,6 +1,6 @@
 ---
 title: "Monkey Management"
-tags: ["general"]
+tags: ["product"]
 date: "2024-04-12"
 draft: false
 path: "/essays/monkey-management"

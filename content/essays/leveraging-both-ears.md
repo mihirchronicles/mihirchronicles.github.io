@@ -1,6 +1,6 @@
 ---
 title: "Leveraging Both Ears "
-tags: ["general"]
+tags: ["life"]
 date: "2024-03-28"
 draft: false
 path: "/essays/leveraging-both-ears"

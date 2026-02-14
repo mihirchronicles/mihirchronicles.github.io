@@ -1,6 +1,6 @@
 ---
 title: "Observe Not Absorb"
-tags: ["general"]
+tags: ["product"]
 date: "2024-09-28"
 draft: false
 path: "/essays/observe-not-absorb"
@@ -8,7 +8,7 @@ path: "/essays/observe-not-absorb"
 
 Observe not absorb were the wisest words shared with me by my mentor during one of the recent conversations.
 
-She shares a similar point of view as me which is that the doers excel, but the doers have one huge disadvantage—they turn everything into a battle—if not wary of that.
+She shares a similar point of view as me which is that the doers excel, but the doers have one huge disadvantage—they turn everything into a battle—if not mindful of that.
 
 If something is not functioning well, they go into a solution mode. Before they realize they are now solving 50 items while draining their energy. They are losing focus on their original objective.
 

@@ -1,6 +1,6 @@
 ---
 title: "Principled Decision Making"
-tags: ["general"]
+tags: ["product"]
 date: "2024-10-05"
 draft: false
 path: "/essays/principled-decision-making"

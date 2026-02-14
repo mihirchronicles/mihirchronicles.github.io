@@ -1,6 +1,6 @@
 ---
 title: "Simple Analogies"
-tags: ["general"]
+tags: ["product"]
 date: "2024-10-18"
 draft: false
 path: "/essays/simple-analogies"

@@ -1,6 +1,6 @@
 ---
 title: "Retreat Seeking Dilemma"
-tags: ["general"]
+tags: ["life"]
 date: "2023-08-26"
 draft: false
 path: "/essays/retreat-seeking-dilemma"

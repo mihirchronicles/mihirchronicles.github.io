@@ -1,6 +1,6 @@
 ---
 title: "Good Design"
-tags: ["general"]
+tags: ["design"]
 date: "2024-08-21"
 draft: false
 path: "/essays/good-design"

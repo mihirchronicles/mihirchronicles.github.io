@@ -1,6 +1,6 @@
 ---
 title: "An Ode To Taste Building"
-tags: ["general"]
+tags: ["design"]
 date: "2025-03-01"
 draft: false
 path: "/essays/an-ode-to-taste-building"

@@ -1,6 +1,6 @@
 ---
 title: "Rationalizing Independent Thinking"
-tags: ["general"]
+tags: ["life"]
 date: "2018-01-01"
 draft: false
 path: "/essays/independent-thinking"

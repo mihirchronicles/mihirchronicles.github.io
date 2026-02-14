@@ -1,6 +1,6 @@
 ---
 title: "Intricate Details"
-tags: ["general"]
+tags: ["design"]
 date: "2025-04-19"
 draft: false
 path: "/essays/intricate-details"

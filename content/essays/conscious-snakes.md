@@ -1,6 +1,6 @@
 ---
 title: "Conscious Snakes"
-tags: ["general"]
+tags: ["product"]
 date: "2023-03-21"
 draft: false
 path: "/essays/conscious-snakes"

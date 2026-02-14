@@ -1,6 +1,6 @@
 ---
 title: "Writing Culture"
-tags: ["general"]
+tags: ["product"]
 date: "2025-08-28"
 draft: false
 path: "/essays/writing-culture"

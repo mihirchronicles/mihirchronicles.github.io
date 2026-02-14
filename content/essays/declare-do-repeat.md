@@ -1,6 +1,6 @@
 ---
 title: "Declare Do Repeat"
-tags: ["general"]
+tags: ["life"]
 date: "2023-08-05"
 draft: false
 path: "/essays/declare-do-repeat"

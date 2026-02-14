@@ -1,12 +1,12 @@
 ---
 title: "Masterpiece Seekers"
-tags: ["general"]
+tags: ["life"]
 date: "2018-12-01"
 draft: false
 path: "/essays/masterpiece-seekers"
 ---
 
-People always ask, "What do you want to do with your life?" Then, there is a follow-up question, "What are you good at?" To be great, both questions need to be answered.
+People always ask, “What do you want to do with your life?” Then, there is a follow-up question, “What are you good at?” To be great, both questions need to be answered.
 
 Let's briefly cover how to answer the first question. You are given a plain canvas in your life, and it is up to you to create your masterpiece. Before you know what this masterpiece is going to be, you have to explore what options are available to you.
 
@@ -14,9 +14,9 @@ We are novelty-seeking primates, in a permanent quest to find secrets and shortc
 
 In the process, you will run into demoralizing events. You will experience less moral support from your friends and family asking you to stay put at one job. Income will not be sustainable during this exploratory period. You may think you wasted two years working at a job you didn't like. But fear not, these are all short-term hiccups and learnings. All these experimental experiences will help you narrow down your choices, avoid what you don't like, while you meet amazing people who are incredible at their own craft.
 
-Parents and schools rely on "aptitude," which is an innate ability of a student. Relying on aptitude is a bit misleading because aptitude does not present all options available to you. Instead, present yourself with some hard questions like "How can you unite people around the world?" or "What are the consequences of climate change on nature?" Then seek answers to those questions. Meet people in the field who are working on answering those questions. Note, it will take years to articulate great questions. Craftspeople mold their aptitude with curiosity to answer the question, "What do you want to do with your life?"
+Parents and schools rely on "aptitude," which is an innate ability of a student. Relying on aptitude is a bit misleading because aptitude does not present all options available to you. Instead, present yourself with some hard questions like “How can you unite people around the world?” or “What are the consequences of climate change on nature?” Then seek answers to those questions. Meet people in the field who are working on answering those questions. Note, it will take years to articulate great questions. Craftspeople mold their aptitude with curiosity to answer the question, “What do you want to do with your life?”
 
-Now the follow-up question, "What are you good at?" Einstein, Shakespeare, Adam Smith, Henry Ford, Ada Lovelace, Grace Hopper, and so many others were all great craftsmen and craftswomen. Do you think Einstein was gritting his teeth and diligently trying to solve great mysteries of our universe? Of course not! He was having fun. That is why he was so good.
+Now the follow-up question, “What are you good at?” Einstein, Shakespeare, Adam Smith, Henry Ford, Ada Lovelace, Grace Hopper, and so many others were all great craftsmen and craftswomen. Do you think Einstein was gritting his teeth and diligently trying to solve great mysteries of our universe? Of course not! He was having fun. That is why he was so good.
 
 You can only have fun when you deeply care about something. Don't mix caring deeply with being passionate. Passion is a loosely used term these days that people mix with what they are capable of. If you are 5 feet tall and passionate about basketball, it does not mean your passion can lead you to be a pro basketball player. Know your competencies versus when you are being delusional. Craftspeople know their limitations.
 

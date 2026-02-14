@@ -1,6 +1,6 @@
 ---
 title: "The Forcing Function Of Momentum"
-tags: ["general"]
+tags: ["product"]
 date: "2026-01-31"
 draft: false
 path: "/essays/momentum"

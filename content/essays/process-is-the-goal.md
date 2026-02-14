@@ -1,6 +1,6 @@
 ---
 title: "Process Is The Goal"
-tags: ["general"]
+tags: ["life"]
 date: "2020-12-30"
 draft: false
 path: "/essays/process-is-the-goal"
