@@ -56,6 +56,7 @@ const WorkIndex = ({ data, location }) => {
       <h1>Work</h1>
       <p style={{ marginBottom: "4rem", maxWidth: "800px" }}>Nurturing an idea through an experimentation that blossoms into a product is an unparalleled joy. The journey of building products has broadened my understanding of various subjects and how things work. Below are the products I have had the privilege of working on.</p>
 
+      <h2>DAFgiving360 (Schwab Charitable)</h2>
       <WorkContainer>
         <ImageContainer>
           <Zoom>
@@ -63,7 +64,6 @@ const WorkIndex = ({ data, location }) => {
           </Zoom>
         </ImageContainer>
         <ContentContainer>
-          <h2>DAFgiving360 (Schwab Charitable)</h2>
           <p><strong>[2023 - 2025]</strong></p>
           <ul>
             <li> Led digital product strategy and execution for donor-advised funds (DAF), directly facilitating a total of $8.9 billion in charitable grants during fiscal year 2025.</li>
@@ -74,6 +74,7 @@ const WorkIndex = ({ data, location }) => {
         </ContentContainer>
       </WorkContainer>
 
+      <h2>Schwab Intelligent Portfolios</h2>
       <WorkContainer>
         <ImageContainer>
           <Zoom>
@@ -81,7 +82,6 @@ const WorkIndex = ({ data, location }) => {
           </Zoom>
         </ImageContainer>
         <ContentContainer>
-          <h2>Schwab Intelligent Portfolios</h2>
           <p><strong>[2021 - 2023]</strong></p>
           <ul>
             <li>The Challenge: The existing automated investing onboarding flow was friction-heavy, requiring too many steps for risk profiling.</li>
@@ -92,6 +92,7 @@ const WorkIndex = ({ data, location }) => {
         </ContentContainer>
       </WorkContainer>
 
+      <h2>Big Imposter</h2>
       <WorkContainer>
         <ImageContainer>
           <Zoom>
@@ -102,7 +103,6 @@ const WorkIndex = ({ data, location }) => {
           </Zoom>
         </ImageContainer>
         <ContentContainer>
-          <h2>Big Imposter</h2>
           <p><strong>[2023]</strong></p>
           <ul>
             <li>Conceptualized and developed a cohesive brand identity for a digital resource dedicated to overcoming professional imposter syndrome.</li>
@@ -113,6 +113,7 @@ const WorkIndex = ({ data, location }) => {
         </ContentContainer>
       </WorkContainer>
 
+      <h2>Wise Charlie</h2>
       <WorkContainer>
         <ImageContainer>
           <Zoom>
@@ -129,7 +130,6 @@ const WorkIndex = ({ data, location }) => {
           </Zoom>
         </ImageContainer>
         <ContentContainer>
-          <h2>Wise Charlie</h2>
           <p><strong>[2018 - 2021]</strong></p>
           <ul>
             <li>A “pocket tool for independent thinking” consisting of 100 mental model cards in a compact, custom-designed box.</li>
@@ -145,6 +145,7 @@ const WorkIndex = ({ data, location }) => {
         </ContentContainer>
       </WorkContainer>
 
+      <h2>Morningstar Investor</h2>
       <WorkContainer>
         <ImageContainer>
           <Zoom>
@@ -152,7 +153,6 @@ const WorkIndex = ({ data, location }) => {
           </Zoom>
         </ImageContainer>
         <ContentContainer>
-          <h2>Morningstar Investor</h2>
           <p><strong>[2020-2021]</strong></p>
           <ul>
             <li>Drove feature development for the modernization of Morningstar Investor, the company's flagship platform for individual investors.</li>
@@ -162,6 +162,7 @@ const WorkIndex = ({ data, location }) => {
         </ContentContainer>
       </WorkContainer>
 
+      <h2>Morningstar Design System</h2>
       <WorkContainer>
         <ImageContainer>
           <Zoom>
@@ -169,7 +170,6 @@ const WorkIndex = ({ data, location }) => {
           </Zoom>
         </ImageContainer>
         <ContentContainer>
-          <h2>Morningstar Design System</h2>
           <p><strong>[2018 - 2020]</strong></p>
           <ul>
             <li>Unified UX and code standards across a portfolio of 60+ client-facing products, resolving fragmentation through the implementation of a centralized Design System.</li>
@@ -181,6 +181,7 @@ const WorkIndex = ({ data, location }) => {
         </ContentContainer>
       </WorkContainer>
 
+      <h2>Spendout</h2>
       <WorkContainer>
         <ImageContainer>
           <Zoom>
@@ -191,7 +192,6 @@ const WorkIndex = ({ data, location }) => {
           </Zoom>
         </ImageContainer>
         <ContentContainer>
-          <h2>Spendout</h2>
           <p><strong>[2013]</strong></p>
           <ul>
             <li>Led the end-to-end product development of a specialized expense tracking tool tailored for the sharing economy (Uber, Airbnb) at digital agency Doejo.</li>
@@ -201,6 +201,7 @@ const WorkIndex = ({ data, location }) => {
         </ContentContainer>
       </WorkContainer>
 
+      <h2>Humble Pen</h2>
       <WorkContainer>
         <ImageContainer>
           <Zoom>
@@ -214,7 +215,6 @@ const WorkIndex = ({ data, location }) => {
           </Zoom>
         </ImageContainer>
         <ContentContainer>
-          <h2>Humble Pen</h2>
           <p><strong>[2012 - 2015]</strong></p>
           <ul>
             <li>Humble Pen was my crash course in the reality of physical goods versus digital products.</li>
