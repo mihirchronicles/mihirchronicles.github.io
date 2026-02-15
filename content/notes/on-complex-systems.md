@@ -256,7 +256,7 @@ If you treat a “Rock” like a big “Pebble,” or manage “Sand” with the
 3. The Pebble: Schedule stories for the current tactical win.
 4. Sand: Fill the gaps.
 
-#### Further reading
+**Further reading**
 
 - [Rocks, Pebbles, Sand: How to implement in practice](https://longform.asmartbear.com/rocks-pebbles-sand/)
 
@@ -275,7 +275,7 @@ Consensus doesn't work and when time comes to make hard decisions, there should 
 - D is for Decide: Once you've laid out all the alternatives—complete with their respective pros and cons and quantitative modelーit is time to get your consultants to vote. Get feedback privately.
 - E is for Explain: Once you've decided, now the real work begins. Go to the approver and lay out the alternatives and your argument.  If you created a high-quality decision framework, they're unlikely to veto it. Call a commitment meeting. Broadcast your decision. Add it to the S.P.A.D.E. log. Keep a log that links to your S.P.A.D.E. and marks the date of the decision. It will be much easier than relying on Gmail search or Slack when you want to reference or amend a past decision.
 
-#### Further reading
+**Further reading**
 
 - [Gokul's S.P.A.D.E. Toolkit: How to implement Square's famous decision-making framework](https://coda.io/@gokulrajaram/gokuls-spade-toolkit)
 
@@ -301,7 +301,7 @@ It isn't perfect because urgent can mean different things to different people. B
 
 > What is important is seldom urgent and what is urgent is seldom important. — Dwight Eisenhower
 
-#### Further reading
+**Further reading**
 
 - [The Eisenhower Matrix | Avoid the "Urgency Trap" with Dwight D. Eisenhower's famous prioritization framework](https://todoist.com/productivity-methods/eisenhower-matrix)
 
@@ -324,7 +324,7 @@ OKRs are not perfect. In the absence of strong leadership or the absence of a vi
 
 Nonetheless, OKRs are valuable in driving focus for the entire organization and measure progress against set objectives.
 
-### Background
+**Background**
 
 John Doerr is the father of OKR who is responsible for bringing OKRs to Google and the world. He transformed Andy Grove's managerial system from Intel and made the process formal through OKR. Andy Grove was best known for driving operational excellence at Intel during its peak. Following were Grove's managerial philosophy:
 
@@ -336,7 +336,7 @@ John Doerr is the father of OKR who is responsible for bringing OKRs to Google a
 - A tool, not a weapon—OKRs are not legal documents according to which you’re expected to measure your performance.
 - Be patient—it’s next to impossible to fully understand the mechanism of the system in one cycle (1 quarter); five quarterly cycles should be enough to see how the goals actually perform.
 
-### Definition 
+**Definition**
 
 OKR is short for *Objective and Key Results*. Both are collaboratively driven by an entire organization to execute on the vision and strategic goals.
 
@@ -347,15 +347,15 @@ If implemented correctly, it drives focus and transparency while eliminating con
 
 An illustrative example of OKRs in an organization:
 
-**CEO**
+_CEO_
 - Objective: gain ice-cream market share in Chicago.
 - Key Results: sell 5000 pallets of vanilla ice-cream a week in neighborhoods with large population.
 
-**Head of Manufacturing**
+_Head of Manufacturing_
 - Objective: produce 5000 pallets of vanilla ice-cream a week.
 - Key Result: make 150,000 gallons of vanilla ice-cream a week.
 
-**Head of Sales**
+_Head of Sales_
 - Objective: sell 5000 pallets of vanilla ice-cream a week.
 - Key Result 1: create a referral program to achieve >90% brand recommendation from existing buyers.
 - Key Result 2: create a brand promotion with summer camp organizations to sell ice-cream during game days.
@@ -370,7 +370,7 @@ A key point to remember—progress should be measured by outcome not an output o
 
 Lastly, the goal is not to create a feature factory machine, but to solve a business problem and create organizational value. If organization is structured and aligned correctly, OKRs can be extremely effective by ensuring all members of the organization are working toward the same goals.
 
-### OKR superpowers
+**OKR superpowers**
 
 The 5 superpowers of OKRs—focus, alignment, commitment, tracking progress and stretching.
 
@@ -385,7 +385,7 @@ The 5 superpowers of OKRs—focus, alignment, commitment, tracking progress and 
 
 > If companies don’t continue to innovate, they’re going to die—and I didn’t say iterate, I said innovate. — Bill Campbell
 
-### Continuous performance management
+**Continuous performance management**
 
 > Feedback is an opinion, grounded in observations and experiences, which allows us to know what impression we make on others. — Sheryl Sandberg
 
@@ -395,7 +395,7 @@ OKRs set the context for Continuous Performance Management (CFR). CFRs help prom
 - Feedback—bidirectional or networked communication among peers to evaluate progress and guide future improvement. For example, “We are constantly surrounded by positive reinforcement and feedback, but many of us haven’t been trained to seek it out. Say you give a presentation to your team. After the fact, somebody comes up to you and says, ‘Hey, nice job.’ Most of us would say, ‘Oh great, thanks,’ and move on. But we want to probe a little deeper: ‘Thank you. What one thing did you like about it?’ The idea is to capture more specific feedback in real time.”
 - Recognition—expressions of appreciation to deserving individuals for contributions of all sizes.
 
-### Relationship between OKRs and culture
+**Relationship between OKRs and culture**
 
 Culture eats strategy for breakfast. OKRs are the raw ingredients to make that breakfast.
 
@@ -409,7 +409,7 @@ A culture that drives focus, alignment and meaning will always win. If an organi
 - Dependability—can we count on each other to do high-quality work on time? 
 - Impact of work—do we fundamentally believe that the work we are doing matters?
 
-#### Further reading
+**Further reading**
 
 - [Measure What Matters Book Summary](/measure-what-matters/)
 - [High Output Management Book Summary](/high-output-management/)
@@ -502,7 +502,7 @@ A theory of innovation that is based on the economic principle that people buy p
 - “People buy products and services to get a job done”. — Clayton Christensen
 - “One of the biggest misconceptions around Jobs to Be Done is this notion that it's pain and gain as opposed to context and outcome.” — Bob Moesta, Co-creator of the Jobs To Be Done (JTBD)
 
-#### Further reading
+**Further reading**
 
 - [The ultimate guide to JTBD Lenny's Podcast | Bob Moesta ](https://www.lennyspodcast.com/the-ultimate-guide-to-jtbd-bob-moesta-co-creator-of-the-framework/)
 
@@ -575,7 +575,7 @@ Hamilton Helmer covers 7 powers that companies can leverage on:
 - Cornered Resource: Preferential access at attractive terms to a coveted asset that can independently enhance value.
 - Process Power: Embedded company organization and activity sets which enable lower costs and/or superior product, and which can be matched only by an extended commitment.
 
-#### Further reading
+**Further reading**
 
 - [7 powers](https://mihirchronicles.com/7-powers/)
 
@@ -606,7 +606,7 @@ They provide situational awareness and shared assumptions about a context necess
 - Wardley Map Canvas Template
     - <img src="../../src/images/wardley-map.jpeg" alt="wardley map canvas"/>
 
-#### Further reading
+**Further reading**
 
 - [Simon Wardley blog on Wardley Maps](https://swardley.medium.com)
 - [Wardley Maps Book](https://medium.com/wardleymaps)
@@ -735,7 +735,7 @@ Here is more on the five metrics:
 3. Adoption and Retention: Adoption looks at new users while Retention tracks the longevity of all users. Adoption and Retention metrics can be used to provide stronger insight into counts of the number of unique users in a given time period (e.g. seven-day active users), addressing the problem of distinguishing new users from existing users. Adoption metrics track how many new users start using a product during a given time period (for example, the number of accounts created in the last seven days), and Retention metrics track how many of the users from a given time period are still present in some later time period (for example, the percentage of seven-day active users in a given week who are still seven-day active three months later). What counts as "using" a product can vary depending on its nature and goals.
 4. Task Success: This category encompasses several traditional behavioral metrics of user experience, such as efficiency (e.g. time to complete a task), effectiveness (e.g. percent of tasks completed), and error rate. One way to measure these on a large scale is via a remote usability or benchmarking study, where users can be assigned specific tasks. With web server log file data, it can be difficult to know which task the user was trying to accomplish, depending on the nature of the site. If an optimal path exists for a particular task (e.g. a multi-step sign-up process) it is possible to measure how closely users follow it
 
-#### Further reading
+Further reading**
 
 - [Why Google HEART framework? Definitions, reliability & value](https://www.capitalone.com/tech/software-engineering/heart-framework-enterprise-applications/)
 - [Measuring the User Experience on a Large Scale: User-Centered Metrics for Web Applications](https://research.google/pubs/measuring-the-user-experience-on-a-large-scale-user-centered-metrics-for-web-applications/)
@@ -765,7 +765,7 @@ AARRR Pirate Metrics framework is an acronym for a set of five user-behavior met
     - Function: Viral and word-of-mouth invitations to other potential users
     - Relevant Metrics: Invitation sent, viral coefficient, viral cycle time
 
-#### Further reading
+**Further reading**
 
 - [AARRR Pirate Metrics Framework](https://www.productplan.com/glossary/aarrr-framework/)
 
@@ -791,7 +791,7 @@ In The Lean Startup Eric Ries identified the three drivers of business growth: v
     - Customer Acquisition Cost (CAC)
     - Time to Customer Breakeven
 
-#### Further reading
+**Further reading**
 
 - [The three drivers of growth for your business model. Choose one.](http://www.startuplessonslearned.com/2008/09/three-drivers-of-growth-for-your.html)
 
