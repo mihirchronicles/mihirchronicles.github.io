@@ -197,7 +197,7 @@ ol {
   margin-right: var(--spacing-0);
   padding: var(--spacing-0);
   margin-bottom: var(--spacing-8);
-  list-style-position: inside;
+  /* list-style-position: inside; */
   list-style-image: none;
 }
 
@@ -235,10 +235,10 @@ blockquote> :last-child {
   margin-bottom: var(--spacing-0);
 }
 
-blockquote>ul,
+/* blockquote>ul,
 blockquote>ol {
   list-style-position: inside;
-}
+} */
 
 table {
   width: 100%;
@@ -518,10 +518,10 @@ a:focus {
     margin-left: var(--spacing-0);
   }
 
-  ul,
+  /* ul,
   ol {
     list-style-position: inside;
-  }
+  } */
 
   .gallery-image {
     width: auto;
