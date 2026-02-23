@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 15 Feb 2026 13:50:03 GMT</lastBuildDate><item><title><![CDATA[Doomer Mentality]]></title><description><![CDATA[The weight of the world feels heavier when you are responsible for small shoulders. As a father to my 3-year-old and one on the way, I feel…]]></description><link>https://mihirchronicles.com/doomer-mentality/</link><guid isPermaLink="false">https://mihirchronicles.com/doomer-mentality/</guid><pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;The weight of the world feels heavier when you are responsible for small shoulders. As a father to my 3-year-old and one on the way, I feel uneasy to pass cynical views on to my children.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 23 Feb 2026 02:23:53 GMT</lastBuildDate><item><title><![CDATA[Doomer Mentality]]></title><description><![CDATA[The weight of the world feels heavier when you are responsible for small shoulders. As a father to my 3-year-old and one on the way, I feel…]]></description><link>https://mihirchronicles.com/doomer-mentality/</link><guid isPermaLink="false">https://mihirchronicles.com/doomer-mentality/</guid><pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;The weight of the world feels heavier when you are responsible for small shoulders. As a father to my 3-year-old and one on the way, I feel uneasy to pass cynical views on to my children.&lt;/p&gt;
 &lt;p&gt;To address this head on, I conducted an exercise to assess my levels of cynicism, optimism, and pessimism from several days of journaling. Then I rated where I stand with each one of them.&lt;/p&gt;
 &lt;p&gt;The ratings came back stark. Moderately cynical. Low optimism. Very high pessimism. It is evident that my assessment of the world is quite negative. Not the inheritance I&apos;d hope to leave.&lt;/p&gt;
 &lt;p&gt;This wasn&apos;t always my default setting. My experiences played a significant role in shaping those perspectives. Besides that, the perpetual 24/7 information flow now defines modern existence. We carry the world&apos;s suffering in our pockets.&lt;/p&gt;
@@ -17723,8 +17723,7 @@ Author Robert Cialdini (Ph.D.) explores the mental bias of reciprocation tendenc
 &lt;/ul&gt;
 &lt;h2 id=&quot;lessons-from-personal-experiences&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#lessons-from-personal-experiences&quot; aria-label=&quot;lessons from personal experiences permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Lessons from personal experiences&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Creating value (business and clients)&lt;/strong&gt;:&lt;/p&gt;
+&lt;li&gt;&lt;strong&gt;Creating value (business and clients)&lt;/strong&gt;:
 &lt;ul&gt;
 &lt;li&gt;Solving problems, not creating hype.&lt;/li&gt;
 &lt;li&gt;The essence of product management is to discover and create value for the end user.&lt;/li&gt;
@@ -17738,8 +17737,7 @@ Author Robert Cialdini (Ph.D.) explores the mental bias of reciprocation tendenc
 &lt;li&gt;Good marketing isn’t about hype, manipulating, or reaching out to customers without their permission.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Learning from doing&lt;/strong&gt;:&lt;/p&gt;
+&lt;li&gt;&lt;strong&gt;Learning from doing&lt;/strong&gt;:
 &lt;ul&gt;
 &lt;li&gt;Action produces information.&lt;/li&gt;
 &lt;li&gt;Feature failure is not a disaster, but a learning step to get from v1 to v2.&lt;/li&gt;
@@ -17747,31 +17745,27 @@ Author Robert Cialdini (Ph.D.) explores the mental bias of reciprocation tendenc
 &lt;li&gt;Outcome driven culture is highly critical, but outcomes cannot be discussed without speed in mind or a launch plan. A project that doesn&apos;t get out to clients is risky. Outcomes with high velocity is what teams should strive for.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Using data to drive insights&lt;/strong&gt;:&lt;/p&gt;
+&lt;li&gt;&lt;strong&gt;Using data to drive insights&lt;/strong&gt;:
 &lt;ul&gt;
 &lt;li&gt;Leverage data to craft a 5-star customer experience.&lt;/li&gt;
 &lt;li&gt;There&apos;s a huge difference between data driven and data obsessed. Data driven organizations have plenty of data, but the data is not leveraged to make decisions. Data obsessed organizations have data in their DNA. They embed data in every meeting, conversation and domain in order to make decisions.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Seeking collaboration&lt;/strong&gt;:&lt;/p&gt;
+&lt;li&gt;&lt;strong&gt;Seeking collaboration&lt;/strong&gt;:
 &lt;ul&gt;
 &lt;li&gt;Define products collaboratively, not sequentially.&lt;/li&gt;
 &lt;li&gt;Collaboration can only happen when working in isolation is eliminated.&lt;/li&gt;
 &lt;li&gt;Address product risks early—value (user), usability (design), feasibility (engineering) and business.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Documentation is communication&lt;/strong&gt;:&lt;/p&gt;
+&lt;li&gt;&lt;strong&gt;Documentation is communication&lt;/strong&gt;:
 &lt;ul&gt;
 &lt;li&gt;Application workflows and product requirements are absolute must and needs to be communicated upstream and downstream.&lt;/li&gt;
 &lt;li&gt;It is also a product manager&apos;s responsibility to report and document bugs and feature gap.&lt;/li&gt;
 &lt;li&gt;Sweating small details in feature gathering documentation and design artifacts&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Maintaining decision log&lt;/strong&gt;:&lt;/p&gt;
+&lt;li&gt;&lt;strong&gt;Maintaining decision log&lt;/strong&gt;:
 &lt;ul&gt;
 &lt;li&gt;Making decisions with cross-functional teams and stakeholders, so execution teams can move forward—present the situation, list dependencies &amp;#x26; risks, share options available, list pros &amp;#x26; cons and finally make a recommendation.&lt;/li&gt;
 &lt;li&gt;A decision has both elements of data and opinion; knowing which one is a key to prevent analysis paralysis.&lt;/li&gt;
@@ -17779,14 +17773,12 @@ Author Robert Cialdini (Ph.D.) explores the mental bias of reciprocation tendenc
 &lt;li&gt;While making a decision, look out for problems that are larger than the current scope. Able to deal with these trade-offs are impactful both in negative and positive way.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Celebrating small and big wins to create product culture&lt;/strong&gt;:&lt;/p&gt;
+&lt;li&gt;&lt;strong&gt;Celebrating small and big wins to create product culture&lt;/strong&gt;:
 &lt;ul&gt;
 &lt;li&gt;Celebrate if a feature optimization helps your product become faster. Celebrate if a feature optimization helps save a penny for your customer. Celebrate all small wins.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Product Intuition&lt;/strong&gt;: Excellent product managers have great product sense. Below are the tips to getting there. The more you practice them, the better you will build product intuition while helping you make high conviction decisions. Your management expects you to have a good enough sense of your team’s capacity and velocity that you can make the call on the spot. If you don’t, you’ll immediately lose the respect of the other stakeholders in the room. Build this muscle soon before you ask for trouble, and you’ll grow an intuition around sizing and difficulty.&lt;/p&gt;
+&lt;li&gt;&lt;strong&gt;Product Intuition&lt;/strong&gt;: Excellent product managers have great product sense. Below are the tips to getting there. The more you practice them, the better you will build product intuition while helping you make high conviction decisions. Your management expects you to have a good enough sense of your team’s capacity and velocity that you can make the call on the spot. If you don’t, you’ll immediately lose the respect of the other stakeholders in the room. Build this muscle soon before you ask for trouble, and you’ll grow an intuition around sizing and difficulty.
 &lt;ul&gt;
 &lt;li&gt;Use your product like a real customer.&lt;/li&gt;
 &lt;li&gt;Validating business requirements in applications. Report bugs if something is broken.&lt;/li&gt;
@@ -17800,8 +17792,7 @@ Author Robert Cialdini (Ph.D.) explores the mental bias of reciprocation tendenc
 &lt;li&gt;Understand the core growth loops so you can aim for the right features.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Project Thinking vs Product Thinking&lt;/strong&gt;:&lt;/p&gt;
+&lt;li&gt;&lt;strong&gt;Project Thinking vs Product Thinking&lt;/strong&gt;:
 &lt;ul&gt;
 &lt;li&gt;Product Thinking:
 &lt;ul&gt;
@@ -17831,8 +17822,7 @@ Author Robert Cialdini (Ph.D.) explores the mental bias of reciprocation tendenc
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;User Stories vs Job Stories&lt;/strong&gt;: User stories capture broad needs of user personas. Job stories zone in on specific situations where a product is &apos;hired&apos; for a task. The difference is between general vs specific. Below are a few examples of specific features:&lt;/p&gt;
+&lt;li&gt;&lt;strong&gt;User Stories vs Job Stories&lt;/strong&gt;: User stories capture broad needs of user personas. Job stories zone in on specific situations where a product is &apos;hired&apos; for a task. The difference is between general vs specific. Below are a few examples of specific features:
 &lt;ul&gt;
 &lt;li&gt;Push notifications
 &lt;ul&gt;
@@ -17866,23 +17856,20 @@ Author Robert Cialdini (Ph.D.) explores the mental bias of reciprocation tendenc
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Capabilities vs Domain vs Experience&lt;/strong&gt;: When requirements are defined, the big question is where to host the requirements? Like everything else, it depends on business architecture modeling. This is mostly designed by a system architect. How it gets packaged is not a product concern, but need to understand to drive feature requirements. No system is right or wrong, but a core architectural system might have the following:&lt;/p&gt;
+&lt;li&gt;&lt;strong&gt;Capabilities vs Domain vs Experience&lt;/strong&gt;: When requirements are defined, the big question is where to host the requirements? Like everything else, it depends on business architecture modeling. This is mostly designed by a system architect. How it gets packaged is not a product concern, but need to understand to drive feature requirements. No system is right or wrong, but a core architectural system might have the following:
 &lt;ul&gt;
 &lt;li&gt;Domain: What is the core functionality that drives business objective? It is associated with one data store in a database. Domains can be grouped in many ways, but it should always be driven by business objective that drives business value. For example, Order Management.&lt;/li&gt;
 &lt;li&gt;Capabilities: How functionalities can be grouped. This layer can interact with several data stores.&lt;/li&gt;
 &lt;li&gt;Experiences: How it gets integrated with capabilities to drive different platforms such as native applications vs web applications. It can interact with more than one capability to drive client experience. Having this layer helps reduce rebuilding of redundant functionalities and logic for various operating systems.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Product Market Fit (PMF)&lt;/strong&gt;: It is another way to say you are in search for demand curve or another way to say you have produced value. Product market fit allows a company to sell product at scale. When people want to pull it out of your hands that is a product market fit. Company building should happen when you have a product market fit.&lt;/p&gt;
+&lt;li&gt;&lt;strong&gt;Product Market Fit (PMF)&lt;/strong&gt;: It is another way to say you are in search for demand curve or another way to say you have produced value. Product market fit allows a company to sell product at scale. When people want to pull it out of your hands that is a product market fit. Company building should happen when you have a product market fit.
 &lt;ul&gt;
 &lt;li&gt;Use cohort analysis to measure product market fit. Look at a group of people that tried your product in a period of time (week, month, quarter). Then look at how many of those people continue to use your product for a while. You will have a fairly deep drop-off on the first month. Does it flatten somewhere? If so, that means that there are customers who are finding value in your product, which means you have PMF with these customers.&lt;/li&gt;
 &lt;li&gt;Create a retention curve by plotting the percent of active users over time (for each cohort of users). If it flattens off at some point, you have probably found product/market fit for some market or audience.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Product Marketing&lt;/strong&gt;: The product manager (PM) defines the product vision and strategy. However, you cannot create a strategy without market and industry analysis, which is theoretically the product marketing manager&apos;s (PMM) main job. The main areas of responsibility for a product marketer are:&lt;/p&gt;
+&lt;li&gt;&lt;strong&gt;Product Marketing&lt;/strong&gt;: The product manager (PM) defines the product vision and strategy. However, you cannot create a strategy without market and industry analysis, which is theoretically the product marketing manager&apos;s (PMM) main job. The main areas of responsibility for a product marketer are:
 &lt;ul&gt;
 &lt;li&gt;Discovery: target customers, customers’ jobs/needs (methods like interviews or surveys)&lt;/li&gt;
 &lt;li&gt;Analyzing the market and the industry: Sizing market opportunities by considering Total Addressable Market (TAM), Serviceable Available Market (SAM), and Serviceable Obtainable Market (TOM). Analyzing market characteristics, like the average Annual Growth Rate, Average Revenue Per User (ARPU), average Customer Acquisition Cost (CAC), and average Churn Rate. Analyzing the industry (e.g., Porter’s Five Forces). Performing competitive analysis.&lt;/li&gt;
@@ -17891,8 +17878,7 @@ Author Robert Cialdini (Ph.D.) explores the mental bias of reciprocation tendenc
 &lt;li&gt;Creating the Go-to-market (GTM) strategy. It should include business goal, target customers, value proposition, positioning strategy and business model, including pricing.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Strategy&lt;/strong&gt;: Business strategy explains how a company tries to beat the competition. The ultimate goal of a strategy is to help us gain a competitive advantage, which leads to better financial results. For example, companies that try to beat competitors by offering lower prices are pursuing a cost leadership strategy (Aldi, Walmart, IKEA, Southwest Airlines, McDonald&apos;s, etc.). On the other side of the spectrum are companies that want to win by being unique. These companies can charge higher prices because they are perceived differently (Apple, Whole Foods Market, BMW, Qatar Airways, Four Seasons Hotels, etc.).&lt;/p&gt;
+&lt;li&gt;&lt;strong&gt;Strategy&lt;/strong&gt;: Business strategy explains how a company tries to beat the competition. The ultimate goal of a strategy is to help us gain a competitive advantage, which leads to better financial results. For example, companies that try to beat competitors by offering lower prices are pursuing a cost leadership strategy (Aldi, Walmart, IKEA, Southwest Airlines, McDonald&apos;s, etc.). On the other side of the spectrum are companies that want to win by being unique. These companies can charge higher prices because they are perceived differently (Apple, Whole Foods Market, BMW, Qatar Airways, Four Seasons Hotels, etc.).
 &lt;ul&gt;
 &lt;li&gt;A strategy isn’t: a goal (goals only talk about why; a strategy also explains how), using best practices such as Design Thinking or Six Sigma (can be implemented by any competitor so they are not trade-off decisions) and merely a plan (strategy needs to lead to a competitive advantage).&lt;/li&gt;
 &lt;li&gt;A strategy is: choosing what to do and what not to do, a series of trade-off decisions, a quest for competitive advantage, about being different (not merely better), focusing a company’s resources on the most critical issues.&lt;/li&gt;
@@ -17905,11 +17891,8 @@ Author Robert Cialdini (Ph.D.) explores the mental bias of reciprocation tendenc
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Competition&lt;/strong&gt;: Divide the competition into direct and indirect competitors. Direct competitors are companies that offer the same product (or service) and indirect competitors offer a different product that solves the same problem. For example, Uber’s direct competitors are taxi companies and Lyft. The indirect competitors are bike sharing services, public transport, car sharing services, and walking on foot.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Discovery &amp;#x26; Analysis&lt;/strong&gt;: An investigation into products is the best way to build product sense. Highlighting what is working, but also covering product friction—challenge, difficulty, or point of frustration a user encounters while interacting with a product—will allow you to build your product sense. This is how you drive continuous improvement and fix hidden pain points. Can’t continue to build great product muscle by reading articles. Hands-on experience beats any book or lecture in gaining a deep understanding of how to build great products. Below are a list of questions to get started when you are doing a product log or a product teardown.&lt;/p&gt;
+&lt;li&gt;&lt;strong&gt;Competition&lt;/strong&gt;: Divide the competition into direct and indirect competitors. Direct competitors are companies that offer the same product (or service) and indirect competitors offer a different product that solves the same problem. For example, Uber’s direct competitors are taxi companies and Lyft. The indirect competitors are bike sharing services, public transport, car sharing services, and walking on foot.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Discovery &amp;#x26; Analysis&lt;/strong&gt;: An investigation into products is the best way to build product sense. Highlighting what is working, but also covering product friction—challenge, difficulty, or point of frustration a user encounters while interacting with a product—will allow you to build your product sense. This is how you drive continuous improvement and fix hidden pain points. Can’t continue to build great product muscle by reading articles. Hands-on experience beats any book or lecture in gaining a deep understanding of how to build great products. Below are a list of questions to get started when you are doing a product log or a product teardown.
 &lt;ul&gt;
 &lt;li&gt;Objective: What is the offering? What is the user trying to accomplish?&lt;/li&gt;
 &lt;li&gt;Persona/Target User: Who is the user (persona, experience level)?&lt;/li&gt;
@@ -17927,23 +17910,20 @@ Author Robert Cialdini (Ph.D.) explores the mental bias of reciprocation tendenc
 &lt;li&gt;Suggested Improvements: Ideas for resolving the friction.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Assumption Setting&lt;/strong&gt;: Always account for assumptions and communicate clearly and widely with your team. Do not limit your solution or target population based on your defined assumptions. Consider them early on so you can scale your solution but they could be out of scope on Day 1.&lt;/p&gt;
+&lt;li&gt;&lt;strong&gt;Assumption Setting&lt;/strong&gt;: Always account for assumptions and communicate clearly and widely with your team. Do not limit your solution or target population based on your defined assumptions. Consider them early on so you can scale your solution but they could be out of scope on Day 1.
 &lt;ul&gt;
 &lt;li&gt;Role and context: State your assumed role and the company/product context&lt;/li&gt;
 &lt;li&gt;Geographic focus: Specific market, behavior based on local culture or region&lt;/li&gt;
 &lt;li&gt;Platform and constraints: Identify any technical or strategic constraints that will help focus your solution&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Product Description&lt;/strong&gt;: Go beyond superficial descriptions. A compelling product statement is emotional, personal and inspirational. The 3 components your statement should address are customer value, strategic context, and mission statement. For example:&lt;/p&gt;
+&lt;li&gt;&lt;strong&gt;Product Description&lt;/strong&gt;: Go beyond superficial descriptions. A compelling product statement is emotional, personal and inspirational. The 3 components your statement should address are customer value, strategic context, and mission statement. For example:
 &lt;ul&gt;
 &lt;li&gt;Superficial: “This app tracks your daily steps.”&lt;/li&gt;
 &lt;li&gt;Deeper Purpose: “This app transforms mundane movement into a visual journey of personal growth, helping you celebrate small victories and build confidence through the simple act of showing up for yourself each day.”&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Segmentation&lt;/strong&gt;: Segmentation begins with ecosystem analysis. It is part of systems thinking.&lt;/p&gt;
+&lt;li&gt;&lt;strong&gt;Segmentation&lt;/strong&gt;: Segmentation begins with ecosystem analysis. It is part of systems thinking.
 &lt;ul&gt;
 &lt;li&gt;Start by mapping out all users in your product ecosystem, then pick one group that aligns with your mission and strategy. Once you&apos;ve chosen your focus, break that group down into smaller segments based on how they behave, what motivates them, and their specific context.&lt;/li&gt;
 &lt;li&gt;Pick a segment that offer the best opportunities.&lt;/li&gt;
@@ -17961,8 +17941,7 @@ Author Robert Cialdini (Ph.D.) explores the mental bias of reciprocation tendenc
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Journey Mapping&lt;/strong&gt;: Map out your persona&apos;s complete experience as it unfolds in their actual day-to-day life. It&apos;s a rich journey context with emotions.&lt;/p&gt;
+&lt;li&gt;&lt;strong&gt;Journey Mapping&lt;/strong&gt;: Map out your persona&apos;s complete experience as it unfolds in their actual day-to-day life. It&apos;s a rich journey context with emotions.
 &lt;ul&gt;
 &lt;li&gt;Skip the generic stages like “awareness” or “consideration” and get specific—what are they doing at 7am when they first hit the problem? How are they feeling on their commute when frustration builds? What makes them finally search for a solution while they&apos;re already juggling ten other things? Pay attention to the little details: where they are, what mood they&apos;re in, what&apos;s happening around them. These specifics turn your journey map from some abstract diagram into a real story that shows you exactly when and why problems pop up, which makes it way easier to spot where you can actually help.&lt;/li&gt;
 &lt;li&gt;Identify pain points at each stage of the journey where users struggle, face uncertainty, or experience frustration. Frame these problems with specificity about context, emotional impact, and user outcomes.&lt;/li&gt;
@@ -17975,8 +17954,56 @@ Author Robert Cialdini (Ph.D.) explores the mental bias of reciprocation tendenc
 &lt;li&gt;Finally, identify go-to-market strategy. Explain how users would discover and engage with your solution, considering integration within existing product experiences and initial distribution strategy.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Go-to-Market (GTM)&lt;/strong&gt;: It is an organizational plan to deliver unique value proposition to customers and achieve competitive advantage. Below are the components of GTM. Start with debugging upstream or downstream of product cycle to optimize for GTM:&lt;/p&gt;
+&lt;li&gt;&lt;strong&gt;Domain Modeling&lt;/strong&gt;: Most features fail before a single line of code is written. Not because the engineering was bad. Not because the design was ugly. Because nobody agreed on what the &lt;em&gt;things&lt;/em&gt; in the system actually are. That is a domain modeling problem. Domain modeling is not database design. It is not an ERD on a whiteboard. It is the practice of understanding your customer&apos;s reality—the people, the things, and the relationships between them before you prescribe a solution. It is the step that most teams skip, and it is the reason most products feel clunky.
+&lt;ul&gt;
+&lt;li&gt;When you ask an engineer to build a feature, they make dozens of small decisions about how to store and relate data. When you have not modeled the domain first, those decisions are made in a vacuum. Engineers guess. Designers assume. And everyone builds toward a slightly different understanding of what the product is supposed to do.&lt;/li&gt;
+&lt;li&gt;The result is technical debt that is not really technical. It is conceptual. You end up with table structures that do not match how customers think, search that does not surface what users expect, and a codebase held together with conditional logic that compensates for a poorly understood reality.&lt;/li&gt;
+&lt;li&gt;The fix is not better code. It is systems thinking.&lt;/li&gt;
+&lt;li&gt;Stage 1: Before wireframes. Before tickets. Before anything. Sit with the customer&apos;s workflow and ask four questions:
+&lt;ul&gt;
+&lt;li&gt;Who are the people? Not user types or personas in the marketing sense. The actual roles operating in the system. An analyst. A firm. A project manager in the field. Each person has different jobs to do and different mental models of the data.&lt;/li&gt;
+&lt;li&gt;What are the jobs to be done? Not features. The underlying goals. “Find a company to invest in.” “Report impact data from the field.” “Compare two cleanup sites.” These jobs reveal the entry points into your system — and entry points are your entities.&lt;/li&gt;
+&lt;li&gt;What are the things they interact with? These are your candidate entities. Write down every noun a customer mentions in a workflow conversation. Company. Project. Impact Log. Permit. Investor. Expert Interview. Do not filter yet. Volume first.&lt;/li&gt;
+&lt;li&gt;What are the relationships between those things? This is where most teams stop too early. A company has many projects. A project generates many impact logs. A topic links to many companies. Map these explicitly. A line on a whiteboard is worth more than three paragraphs in a spec.&lt;/li&gt;
+&lt;li&gt;One practical technique: the sticky note sort. Write every noun on a yellow note. Then move attributes — things that describe an entity rather than stand alone — to blue notes and stick them inside the relevant entity. CEO name goes inside Company. GPS coordinates go inside Project, not Company, because a company operates in many locations. This is not a trivial distinction. If you attach location to the company, you have just built a system that can only ever have one location per company. That is a structural limitation that will haunt you.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Stage 2: Once you know your entities, you write the contract. Not a spec. Not a Figma file. A JSON draft. This is the moment you stop vibing and start defining. The schema contract translates the entities and relationships from your whiteboard into the strict rules an engineer can actually build against. It prevents the single most common source of broken products: unstructured data.
+&lt;ul&gt;
+&lt;li&gt;Use Enums, not strings, for categories. If users can type anything into a field, they will. One person types &quot;kg.&quot; Another types &quot;Kilos.&quot; A third types &quot;5,000 kg.&quot; Now you cannot sum your own impact data. An Enum forces a pre-approved list. It creates a shared vocabulary at the point of entry, which is the only place it matters.&lt;/li&gt;
+&lt;li&gt;Split values from units. A database cannot sum the text &quot;5 tons.&quot; You must split it into two fields: &lt;code class=&quot;language-text&quot;&gt;value&lt;/code&gt; as a Float and &lt;code class=&quot;language-text&quot;&gt;unit&lt;/code&gt; as an Enum. This is not pedantry. This is the difference between a dashboard that works and one that throws a NaN error when the CEO asks for a total.&lt;/li&gt;
+&lt;li&gt;Use Geopoints for location, not strings. “Los Angeles” as a string gives you a label. A Geopoint gives you a coordinate that enables map-based filtering, radius search, and spatial comparison. The data type you choose in the schema determines what the product can do. This is a product decision, not an engineering one.&lt;/li&gt;
+&lt;li&gt;Define constraints. Can a company exist without a name? Can an impact log have a negative value? Can a project have zero parent companies? Answer these questions in the schema. If you do not, engineers will make assumptions, and your UI will eventually surface a broken edge case in front of a customer.&lt;/li&gt;
+&lt;li&gt;The output of this stage is a JSON draft, not a diagram. Hand it to your engineers as a contract. It replaces the vague design spec and closes the gap between what the UI promises and what the database can deliver.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Stage 3: Entities and schemas get you a structured product. A knowledge graph gets you an intelligent one. A relational database stores transactions. A knowledge graph stores &lt;em&gt;relationships between concepts&lt;/em&gt;. The difference matters when customers ask questions that require the system to reason across domains.
+&lt;ul&gt;
+&lt;li&gt;Consider the difference between these two answers to the question “Show me all investments fighting climate change”:
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Database answer:&lt;/em&gt; Returns nothing, because no company is tagged “climate change.”&lt;/li&gt;
+&lt;li&gt;Knowledge graph answer: Walks the connections. GreenYield practices Regenerative Farming. Regenerative Farming increases Carbon Sequestration. Carbon Sequestration fights Climate Change. GreenYield surfaces automatically, even though the phrase “climate change” appears nowhere in its profile.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;This is called semantic interoperability. The system understands the &lt;em&gt;meaning&lt;/em&gt; of the business activity, not just the text labels. Netflix built exactly this with their Unified Data Architecture—a knowledge graph that sits above their physical databases and lets users search with human language rather than exact keywords.&lt;/li&gt;
+&lt;li&gt;For product managers, building a knowledge graph starts with one discipline: naming your verbs.&lt;/li&gt;
+&lt;li&gt;The entity map gives you the nouns. The knowledge graph gives you the arrows. Write them explicitly:
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;[Investment] → funds → [Project]&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;[Project] → generates → [Impact_Log]&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;[Company] → practices → [Topic]&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;[Topic] → reduces → [Outcome]&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;These arrows are not decorative. They define what questions the system can answer automatically. If you want your product to surface insight without forcing the user to manually connect the dots, the relationships must be in the model.&lt;/li&gt;
+&lt;li&gt;One critical placement decision—in an innovation investment context, money should connect to the &lt;strong&gt;Project&lt;/strong&gt;, not the &lt;strong&gt;Impact Log&lt;/strong&gt;. If you link investment directly to a specific result, the system loses the asset that created that result. You cannot amortize the investment over time. You cannot compare cost-per-outcome across projects. The Project is the capacity. The Impact Log is the evidence. They are not the same entity, and your model must reflect that.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Your system design should reflect the mental model of your customer. Not the mental model of the engineer who built the first version. Not the mental model inherited from a legacy database schema. The customer&apos;s. If customers call it a Fund and your system calls it a Portfolio, you have created cognitive load. They have to translate every time they use the product. Over hundreds of interactions, that adds up to friction they cannot name but definitely feel. This is what a clunky experience actually is. It is rarely bad visual design. It is almost always a semantic gap—the distance between how the user thinks and how the system stores.&lt;/li&gt;
+&lt;li&gt;Domain modeling closes that gap. It is not a backend task. It is not an engineering task. It is a product management task, and it belongs at the beginning of every feature, not at the end. Build the model first. Then build the product.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Go-to-Market (GTM)&lt;/strong&gt;: It is an organizational plan to deliver unique value proposition to customers and achieve competitive advantage. Below are the components of GTM. Start with debugging upstream or downstream of product cycle to optimize for GTM:
 &lt;ul&gt;
 &lt;li&gt;What exactly are you building? It starts with vision. But if the vision is wrong everyone is going home. It starts with product management.&lt;/li&gt;
 &lt;li&gt;How do you position it? How do you tell the story in a short-time frame without using product jargon? Great product use less words to spread the message. It starts with product marketing.&lt;/li&gt;
@@ -17984,8 +18011,7 @@ Author Robert Cialdini (Ph.D.) explores the mental bias of reciprocation tendenc
 &lt;li&gt;How do you do customer retention? If the customers are churning, there is value deceleration.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Analytical Thinking&lt;/strong&gt;: Being analytical isn’t only about numbers. It is about developing healthy skepticism and curiosity, validating your hypothesis (and having a hypothesis in the first place) and vetting with multiple data points to get closer to the truth. It gives you a competitive edge, and you will learn to make informed decisions.&lt;/p&gt;
+&lt;li&gt;&lt;strong&gt;Analytical Thinking&lt;/strong&gt;: Being analytical isn’t only about numbers. It is about developing healthy skepticism and curiosity, validating your hypothesis (and having a hypothesis in the first place) and vetting with multiple data points to get closer to the truth. It gives you a competitive edge, and you will learn to make informed decisions.
 &lt;ul&gt;
 &lt;li&gt;Retrieve: First, you need to learn how to get data. SQL is most common in work places.&lt;/li&gt;
 &lt;li&gt;Analyze: Analytical thinking is to crunch numbers understand the why and execute at lightning speed. To do so you need the basic understanding of—patterns, nuances, absolute numbers &amp;#x26; percentages, variances, expected vs actual, contribution to whole, peaks, margins and biases.&lt;/li&gt;
