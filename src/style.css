@@ -529,7 +529,7 @@ a:focus {
   .about-image {
     float: none;
     display: block;
-    margin-left: var(--spacing-0);
+    margin-left: auto;
     margin-right: auto;
     height: auto;
   }
