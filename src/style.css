@@ -528,6 +528,9 @@ a:focus {
 
   .about-image {
     float: none;
+    display: block;
+    margin-left: var(--spacing-0);
+    margin-right: auto;
     height: auto;
   }
 
