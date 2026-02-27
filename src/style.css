@@ -528,6 +528,7 @@ a:focus {
 
   .about-image {
     float: none;
+    height: auto;
   }
 
   .gallery-image {
