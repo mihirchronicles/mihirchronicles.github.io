@@ -526,6 +526,10 @@ a:focus {
     margin-left: var(--spacing-0);
   }
 
+  .about-image {
+    float: none;
+  }
+
   .gallery-image {
     width: auto;
     height: auto;
