@@ -527,8 +527,8 @@ a:focus {
   }
 
   .about-image {
+    display: none;
     float: none;
-    display: block;
     margin-left: auto;
     margin-right: auto;
     height: auto;
