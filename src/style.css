@@ -418,8 +418,10 @@ a:focus {
 
 .about-image {
   width: 250px;
-  height: 300px;
-  display: block;
+  height: auto;
+  float: left;
+  margin-top: 6px;
+  margin-right: var(--spacing-6);
   margin-bottom: var(--spacing-6);
   border-radius: var(--spacing-1);
   box-shadow: 0 0 0.15rem 0.15rem var(--color-secondary-accent);

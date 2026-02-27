@@ -152,12 +152,13 @@ The competitive landscape includes traditional wealth management firms, communit
     - **Investment Growth**: Funds can be invested and grow tax-free, potentially increasing the total amount available for charitable giving.
     - **Flexibility**: Donors can take time to research charities and make thoughtful giving decisions without time pressure.
     - **Simplified Administration**: The sponsoring organization handles all the administrative work, tax reporting, and due diligence on recipient charities.
-- Major players
-    -  **Fidelity Charitable**
-    -  **Schwab Charitable**
-    -  **Daffy**
+- Charitable giving vehicles
+    -  **Financial Institutions**
+        -  **Fidelity Charitable DAF**
+        -  **Schwab Charitable DAF**
+        -  **Daffy DAF**
     -  **Community Foundations**
-    - Qualified Charitable Distributions (QCD)**
+    -  **Qualified Charitable Distributions (QCD)**
 - DAF is mostly the United States concept.
 - DAFs were originated by community foundations to boost charitable giving. The first DAF was created in 1931 by the New York Community Trust. Overtime commercial investment services got involved which boosted charitable giving further.
 - DAF — donor advised fund is an investment account which could be opened via a brokerage service that lets you take a tax deduction when contributions are made and give the money to a charity later.
