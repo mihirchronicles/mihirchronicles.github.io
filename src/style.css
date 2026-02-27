@@ -527,10 +527,10 @@ a:focus {
   }
 
   .about-image {
-    display: none;
     float: none;
     margin-left: auto;
     margin-right: auto;
+    display: none;
     height: auto;
   }
 
