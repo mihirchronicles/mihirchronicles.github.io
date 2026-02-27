@@ -193,11 +193,11 @@ p {
 
 ul,
 ol {
-  margin-left: var(--spacing-0);
+  margin-left: var(--spacing-4);
   margin-right: var(--spacing-0);
   padding: var(--spacing-0);
   margin-bottom: var(--spacing-8);
-  /* list-style-position: inside; */
+  list-style-position: outside;
   list-style-image: none;
 }
 
@@ -427,7 +427,7 @@ a:focus {
 
 .about-image picture img,
 .gallery-image picture img {
-  padding: var(--spacing-4);
+  padding: var(--spacing-2);
 }
 
 .blog-post header h1 {
@@ -513,15 +513,16 @@ a:focus {
 }
 
 @media (max-width: 42rem) {
+
+  ul,
+  ol {
+    margin-left: var(--spacing-2);
+  }
+
   blockquote {
     padding: var(--spacing-0) var(--spacing-0) var(--spacing-0) var(--spacing-4);
     margin-left: var(--spacing-0);
   }
-
-  /* ul,
-  ol {
-    list-style-position: inside;
-  } */
 
   .gallery-image {
     width: auto;
