@@ -1,13 +1,15 @@
 ---
-title: One from Many | VISA and the Rise of Chaordic Organization by Dee Hock
+title: One from Many by Dee Hock
 date: "2023-11-01"
 path: "/bookshelf/one-from-many"
 ---
 
 ## I. Brief Summary
+
 A beautiful chronicle by Dee Hock, the creator of VISA which had a profound impact on our society at scale. It is a part biography, history, business management and philosophy book. He argues that industrial age is an outdated operating model and has been destructive to our society and well-being. It explores the emergence of a new form of organization that blends chaos and order (chaordic organization). Chaordic is an operating model based on competitive but cooperative, distributed, decentralized organization modeled after nature rather than machine. This is going to be one of my all-time favorites. Dee Hock is my business hero!
 
 ## II. Big Ideas
+
 - Dee Hock was born in North Ogden, Utah in 1929.
 - In 1967, Dee Hock helped open one of the first six BankAmericard credit card licensee operations at the National Bank of Commerce in Seattle. After seeing all of the problems of the licensee banks in working with Bank of America, he managed to create what would become Visa and acted as the CEO from 1970 to 1984.
 - Hock in the section “Old Monkey Mind” throughout the book explores the philosophical underpinnings of the things he was doing and learning.
@@ -31,6 +33,7 @@ A beautiful chronicle by Dee Hock, the creator of VISA which had a profound impa
     - The third primary function was origination and transfer of value data.
 
 ## III. Quotes
+
 - The source of all our problems today comes from the gap between how we think and now nature works.
 - The theology of chaordic organization is simple. Heaven is purpose, principle, and people. Purgatory is paper and procedure. Hell is rule and regulation.
 - The list goes on and on: welfare, social security, global warming, ocean pollution, preservation of species, communications, software development, fisheries; each with a need for a concept of organization that enables independent, effective action as the smallest scale, right on down to the individual. One that also allows self-organization and self-governance to ensure effective action at any subsequent scale right on through to the global. An organization within which coherence, cohesion, and order could emerge on which every part could rely without need for knowledge or control of others.

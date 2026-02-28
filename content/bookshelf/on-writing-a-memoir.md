@@ -1,13 +1,15 @@
 ---
-title: On Writing | A Memoir Of The Craft by Stephen King
+title: On Writing by Stephen King
 date: "2022-11-11"
 path: "/bookshelf/on-writing-a-memoir"
 ---
 
 ## I. Brief Summary
+
 Stephen King needs no introduction in its current era. His novels are well-read and movies are drawn upon from his writings. I'm not the biggest fan of King's books, but I really enjoyed his advice on how to write well. His advice will empower an aspiring writer.
 
 ## II. Big Ideas
+
 - Write with the door closed, rewrite with the door open.
 - Writing is a lonely job. Having someone who believes in you makes a lot of difference.
 - Put your desk in the corner, and every time you sit down there to write, remind yourself why it isn’t in the middle of the room. Life isn’t a support-system for art. It’s the other way around.
@@ -15,6 +17,7 @@ Stephen King needs no introduction in its current era. His novels are well-read 
 - Remember that the basic rule of vocabulary is use the first word that comes to your mind, if it is appropriate and colorful.
 
 ## III. Quotes
+
 - Books are a uniquely portable magic.
 - Grammar is not just a pain in the ass; it’s the pole you grab to get your thoughts up on their feet and walking. Besides, all those simple sentences worked for Hemingway, didn’t they? Even when he was drunk on his ass, he was a fucking genius.
 - It’s hard for me to believe that people who read very little (or not at all in some cases) should presume to write and expect people to like what they have written.

@@ -1,13 +1,15 @@
 ---
-title: Measure What Matters | How Google, Bono, And The Gates Foundation Rock The World With OKRs by John Doerr
+title: Measure What Matters by John Doerr
 date: "2024-02-29"
 path: "/bookshelf/measure-what-matters"
 ---
 
 ## I. Brief Summary
+
 OKRs have been a better part of my entire professional journey but the framework rarely got implemented the way it was intended to. This is why OKRs are disliked today because of lost context. I disliked them too until I read this book. If the framework is employed correctly from top to bottom the entire organization can move mountains. This book is based on late Andy Grove's managerial foundation who led Intel. John Doerr is the father of OKR who is responsible for bringing OKRs to Google and the world. He saw before anyone else the transformative power Andy Grove's system from Intel could have at Google, and this book is a great window into how OKRs are implemented. It is a powerful goal-setting framework for organizations.
 
 ## II. Big Ideas
+
 - Ideas are easy. Execution is everything.
 - Influential leaders like Bill Gates, Larry Page, and Bono praise OKR for its effective goal-setting system. 
     - Bill Gates (Microsoft) has praised the OKR system for its ability to align teams and drive focus. 
@@ -55,6 +57,7 @@ OKRs have been a better part of my entire professional journey but the framework
     - What have I learned that might alter my approach to the next cycle’s OKRs?
 
 ## III. Quotes
+
 - There are so many people working so hard and achieving so little.
 - Then come the four OKR “superpowers”: focus, align, track, and stretch.
 - OKRs surface your primary goals. They channel efforts and coordination. They link diverse operations, lending purpose and unity to the entire organization.

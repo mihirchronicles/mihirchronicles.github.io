@@ -148,7 +148,7 @@ const BookshelfIndex = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <h1>Bookshelf</h1>
       <p>Reading is a form of forced meditation. To nurture a lifelong sense of curiosity, I employ a multi-disciplinary approach to select and read a wide range of books. Below are my book summaries.</p>
-
+      <h2>Book Summaries</h2>
       <BookshelfGrid>
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug

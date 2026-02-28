@@ -1,13 +1,15 @@
 ---
-title: Nobody Wants to Read Your Sh*t | Why That Is And What You Can Do About It by Steven Pressfield
+title: Nobody Wants to Read Your Sh*t by Steven Pressfield
 date: "2022-11-14"
 path: "/bookshelf/nobody-wants-to-read-your-shit"
 ---
 
 ## I. Brief Summary
+
 A guide to the ins and out of writing, whether it’s a book, a screenplay or advertising material. Steven Pressfield is a best-selling writer who has worked in advertising, screenwriting and as an author of both fiction and nonfiction. A bit of self-help element to the book.
 
 ## II. Big Ideas
+
 - Nobody wants to read anything. It isn't that people are mean or cruel. They're just busy. What's the answer?
     - Streamline your message. Focus it and pare it down to it simplest, clearest, easiest-to-understand form.
     - Make its expression fun. Or sexy or interesting or scary or informative. Make it so compelling that a person would have to be crazy NOT to read it.
@@ -41,6 +43,7 @@ A guide to the ins and out of writing, whether it’s a book, a screenplay or ad
     - An ending that brings it all home with a bang.
 
 ## III. Quotes
+
 - A real writer (or artist or entrepreneur) has something to give. She has lived enough and suffered enough and thought deeply enough about her experience to be able to process it into something that is of value to others, even if only as entertainment. A fake writer (or artist or entrepreneur) is just trying to draw attention to himself. The word “fake” may be too unkind. Let’s say “young” or “evolving.”
 - At the beginning, the author's writing was like a selfie: a disposable plea for attention that was all about him and his life. But since he hadn't done much living, there wasn't much substance.
 - All of a sudden I understood why I was so moody, neurotic, simultaneously paranoid and megalomaniac, mistrustful, uneasy, driven by ambition but paralyzed by guilt about my ambition, horny, obsessive, compulsive, obsessive-compulsive, not to mention shy, withdrawn, and dandruff-ridden. I was creative. All creative people were like that!

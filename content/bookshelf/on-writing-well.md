@@ -1,13 +1,15 @@
 ---
-title: On Writing Well | The Classic Guide to Writing Nonfiction by William Zinsser
+title: On Writing Well by William Zinsser
 date: "2022-11-07"
 path: "/bookshelf/on-writing-well"
 ---
 
 ## I. Brief Summary
+
 William Zinsser was an American writer, editor, literary critic, and teacher. It offers fundamental principles on how to write well. A lot of extremely useful advice in this book.
 
 ## II. Big Ideas
+
 - The secret of good writing is to strip every sentence to its cleanest components.
 - Clear thinking becomes clear writing; one can’t exist without the other.
 - Writers must therefore constantly ask: what am I trying to say? Surprisingly often they don’t know. Then they must look at what they have written and ask: have I said it? Is it clear to someone encountering the subject for the first time?
@@ -31,6 +33,7 @@ William Zinsser was an American writer, editor, literary critic, and teacher. It
 - Go with your interests. No area of life is stupid to someone who takes it seriously. If you follow your affections you will write well and will engage your readers.
 
 ## III. Quotes
+
 - Decide what you want to do. Then decide to do it. Then do it.
 - Don’t try to visualize the great mass audience. There is no such audience—every reader is a different person.
 - Writing is hard work. A clear sentence is no accident. Very few sentences come out right the first time, or even the third time. Remember this in moments of despair. If you find that writing is hard, it’s because it is hard.
