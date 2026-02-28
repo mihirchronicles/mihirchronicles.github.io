@@ -3,7 +3,9 @@ title: Finite And Infinite Games by James Carse
 date: "2021-09-03"
 path: "/bookshelf/finite-infinite-games.md"
 ---
+
 ## I. Brief Summary
+
 The core idea of the book is to understand the two games we are used to playing in our daily lives—a game with a boundary (finite play) and a game without a boundary (infinite play). A dramatic book which I struggled to finish in one sitting because it was so heavy on metaphysics and moral philosophy. But this is a great gift to the world by James Carse. He has a way to make complex topics black and white and though the world necessarily doesn't operate that way, you can visualize these two buckets while reading. For every idea he presents in the book, he proposes an opposite side of it. For example, the opposite of a boundary is a horizon; the opposite of power is strength. Power is the ability to control the way others play; strength is the ability to allow others to play as they wish. Some may dislike his book due to his presentation of moral philosophy, but irrespective of that, it has some powerful ideas. The distinction between finite games and an infinite game is heuristically very powerful to understand the world around us.
 
 ## II. Big Ideas
@@ -69,6 +71,7 @@ The core idea of the book is to understand the two games we are used to playing 
     - A garden is a place where growth is found. It has its own source of change. One does not bring change to a garden, but comes to a garden prepared for change, and therefore prepared to change.
 
 ## III. Quotes
+
 - There are no rules that require us to obey rules. If there were, there would have to be a rule for those rules, and so on.
 - The rules of an infinite game have a different status from those of a finite game. They are like the grammar of a living language, where those of a finite game are like the rules of debate.
 - To believe is to know you believe, and to know you believe is not to believe. — Sartre

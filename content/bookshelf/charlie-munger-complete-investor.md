@@ -1,12 +1,15 @@
 ---
-title: Charlie Munger | The Complete Investor by Tren Griffin
+title: Charlie Munger by Tren Griffin
 date: "2023-05-24"
 path: "/bookshelf/charlie-munger-complete-investor"
 ---
+
 ## I. Brief Summary
+
 A book about Charlie Munger. The originality lacks because it is a collection of Munger quotes. Tren Griffin argues his ideas aren't well understood because they aren't unified. This book attempts to do unify Munger's big ideas, so one can learn to think well like Charlie Munger.
 
 ## II. Big Ideas
+
 - Munger’s ability to cut to the heart of an issue with a few well-chosen words is legendary, as is his desire to think independently.
 - Attain “ataraxia or perfect imperturbability” meaning becoming unshakeably calm and collected.
 - Graham value investing principles
@@ -117,6 +120,7 @@ A book about Charlie Munger. The originality lacks because it is a collection of
     - I don’t even like to hear the word EBITDA. Talk to me about CASH and CASH only.
 
 ## III. Quotes
+
 - Develop into a lifelong self-learner through voracious reading; cultivate curiosity and strive to become a little wiser every day.
 - I believe in the discipline of mastering the best that other people have ever figured out. I don’t believe in just sitting down and trying to dream it all up yourself. Nobody’s that smart.
 - Remember that reputation and integrity are your most valuable assets—and can be lost in a heartbeat.

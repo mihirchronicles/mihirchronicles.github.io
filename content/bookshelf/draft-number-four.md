@@ -1,13 +1,15 @@
 ---
-title: Draft No. 4 | On The Writing Process by John McPhee
+title: Draft No. 4 by John McPhee
 date: "2022-11-10"
 path: "/bookshelf/draft-number-four"
 ---
 
 ## I. Brief Summary
+
 McPhee is an American writer. He is considered one of the pioneers of creative nonfiction. He is a four-time finalist for the Pulitzer Prize. A collection of linked essays that detail various aspects of McPhee's approach to "creative non-fiction." All of these essays appeared in The New Yorker. McPhee understands how to give readers enough, but not too much.
 
 ## II. Big Ideas
+
 - Main takeaways: 
     - Start by writing a great lead.
     - A thousand details add up to one impression.
@@ -22,6 +24,7 @@ McPhee is an American writer. He is considered one of the pioneers of creative n
 - Don’t rely on memory.
 
 ## III. Quotes
+
 - No one will ever write in just the way that you do, or in just the way that anyone else does. Because of this fact, there is no real competition between writers. What appears to be competition is actually nothing more than jealousy and gossip. Writing is a matter strictly of developing oneself. You compete only with yourself. You develop yourself by writing.
 - A piece of writing has to start somewhere, go somewhere, and sit down when it gets there.
 - It doesn’t matter that something you’ve done before worked out well. Your last piece is never going to write your next one for you.

@@ -1,5 +1,5 @@
 ---
-title: Get Together by Bailey Richardson, Kevin Huynh, Kai Elmer Sotto
+title: Get Together by Bailey Richardson
 date: "2020-02-01"
 path: "/bookshelf/get-together"
 ---
@@ -28,6 +28,7 @@ The author writes and share their ideas on how to kick the tires on building a r
 - Celebrations mobilize around where to head next, give the tanks a much-needed refill, and reflect on what the community has accomplished. Honoring changer-makers, action-takers and members will revitalize the group and supercharge your fans. 
 
 ## III. Quotes
+
 - Fires can't be made with dead embers, nor can enthusiasm be stirred by spiritless men. — Balwin
 - If you want to show that your community is alive and vibrant, you'll need to maintain a steady pulse.
 - Pride is a captivating energy.

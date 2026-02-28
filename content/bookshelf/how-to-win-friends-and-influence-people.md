@@ -190,6 +190,7 @@ Dale Carnegie's writes and shares his big ideas broken down into 4 sections with
 - Principle 9: Make the other person happy about doing the things you suggest.
 
 ## III. Quotes
+
 - For the great aim of education, is not knowledge but action. — Herbert Sepencer
 - Let's realize criticisms are like homing pigeons. They always return home.
 - Judge not, that ye be not judged.

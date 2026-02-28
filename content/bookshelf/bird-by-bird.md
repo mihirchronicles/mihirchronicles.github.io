@@ -1,13 +1,15 @@
 ---
-title: Bird By Bird | Some Instructions On Writing And Life by Anne Lamott
+title: Bird By Bird by Anne Lamott
 date: "2022-11-05"
 path: "/bookshelf/bird-by-bird"
 ---
 
 ## I. Brief Summary
+
 Anne Lamott offers basic instructions on how to write and manage discipline around writing. She is witty which makes reading this book fun. My takeaway—to become a better writer, you have to write more and first draft is always going to be terrible. Don't judge your first draft too harshly. Do not make perfectionism your friend. Writing reveals the story because you have to write to figure out what you're writing about.
 
 ## II. Big Ideas
+
 - Sit down to work at approximately the same time every day.
 - Perfectionism is the voice of the oppressor, the enemy of the people.
 - Becoming a better writer is going to help you become a better reader, and that is the real payoff.
@@ -17,6 +19,7 @@ Anne Lamott offers basic instructions on how to write and manage discipline arou
 - There will be a lot of mistakes, things to edit out and other things that need to be added. You just aren’t always going to make the right decision and that’s okay.
 
 ## III. Quotes
+
 - Thirty years ago my older brother, who was ten years old at the time, was trying to get a report on birds written that he'd had three months to write. It was due the next day. We were out at our family cabin in Bolinas, and he was at the kitchen table close to tears, surrounded by binder paper and pencils and unopened books on birds, immobilized by the hugeness of the task ahead. Then my father sat down beside him, put his arm around my brother's shoulder, and said—“Bird by bird, buddy. Just take it bird by bird”.
 - One writer I know tells me that he sits down every morning and says to himself nicely, “It’s not like you don’t have a choice, because you do—you can either type or kill yourself.”
 - Writing has so much to give, so much to teach, so many surprises. That thing you had to force yourself to do – the actual act of writing – turns out to be the best part. It’s like discovering that while you thought you needed the tea ceremony for the caffeine, what you really needed was the tea ceremony. The act of writing turns out to be its own reward.

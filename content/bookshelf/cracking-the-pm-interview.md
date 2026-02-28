@@ -1,5 +1,5 @@
 ---
-title: Cracking The PM Interview by Gayle Laakmann McDowell and Jackie Bavaro
+title: Cracking The PM Interview by Gayle Laakmann McDowell
 date: "2020-07-02"
 path: "/bookshelf/cracking-the-pm-interview"
 ---
@@ -9,6 +9,7 @@ path: "/bookshelf/cracking-the-pm-interview"
 As I am exploring a Product Management role as a next step of progression in my career path, this was one of the most recommended books from product people. 
 
 ## II. Big Ideas
+
 - PM is responsible for making that a team ships a great product.
 - PM needs to set vision and strategy. The PM defines success and makes decisions.
 - PMs don't have direct authority over the people on their team.

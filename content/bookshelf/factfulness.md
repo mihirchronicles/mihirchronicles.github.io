@@ -1,13 +1,15 @@
 ---
-title: Factfulness | Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think by Hans Rosling, Ola Rosling and Anna Rosling
+title: Factfulness by Hans Rosling
 date: "2024-10-31"
 path: "/bookshelf/factfulness"
 ---
 
 ## I. Brief Summary
+
 A fresh perspective on human progress at a global level in poverty, wealth, population increase, births, mortality, education, healthcare, gender equality, conflict, energy, and the environment. Hans Rosling highlights all of this while building your world-view based on facts not drama. A must read and pairs well with Thinking, Fast and Slow by Daniel Kahneman to improve your worldly view and critical thinking.
 
 ## II. Big Ideas
+
 - Rosling highlights the problem that we tend to hold a view of a divide between _developed_ and _developing_ countries that made more sense a few decades ago. Now this divided view simply doesn’t reflect the huge convergence in data we have seen since as a result of improving conditions across the world. He suggests a more relevant worldview broken down into 4 levels of income:
     - Level 1: $1 per day
     - Level 2: $2-$8 per day
@@ -81,6 +83,7 @@ A fresh perspective on human progress at a global level in poverty, wealth, popu
             - Be wary of drastic action. Ask what the side effects will be. Ask how the idea has been tested. Step-by-step practical improvements, and evaluation of their impact, are less dramatic but usually more effective.
 
 ## III. Quotes
+
 - Cultures, nations, religions, and people are not rocks. They are in constant transformation.
 - Every group of people I ask thinks the world is more frightening, more violent, and more hopeless—in short, more dramatic than it really is.
 - There was a balance. It wasn’t because humans lived in balance with nature. Humans died in balance with nature.

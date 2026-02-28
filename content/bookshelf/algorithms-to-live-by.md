@@ -1,13 +1,15 @@
 ---
-title: Algorithms To Live By | The Computer Science Of Human Decisions by Brian Christian & Tom Griffiths
+title: Algorithms To Live By by Brian Christian & Tom Griffiths
 date: "2024-01-27"
 path: "/bookshelf/algorithms-to-live-by"
 ---
 
 ## I. Brief Summary
+
 A book about maximizing human cognition and decision-making using computer science algorithms. Cognitive load is expensive. The underlying directive of any good algorithm is to minimize the labor of thought. Brian Christian and Tom Griffiths explain these complex algorithms in simple words make it practical to use in your day-to-day life. 
 
 ## II. Big Ideas
+
 - **Optimal Stopping**: You have to hire a secretary from a pool of fixed applicants. You have to interview the candidates one by one and make a hire/no-hire decision right after each interview. If you pass on someone, you cannot come back to them. If you hire someone, the process stops and they are your new secretary. How do you maximize your chances to find the best secretary in the group? This is the famous Secretary Problem. 
     - 37% Rule: The optimal strategy involves interviewing and rejecting the first few candidates no matter how good they are just to set up the baseline first and then hiring the best you’ve seen so far after. This optimal point turns out to be about 37%. Reject 37% of the applicants, and then hire the next one better than anyone you’ve seen so far. 
     - Optimal Stopping: It is analogous to a “look-then-leap” scenario. You stop looking too early, you don’t know if someone better isn’t going to come along. You stop too late, you might have passed on the best candidate already. Time is an important factor in decision-making. There is often a cost to taking too much time when making a decision. Consider whether the extra time spent searching all options to find the “best” really better than a slightly less optimal (but still good) decision found in much less time.
@@ -50,6 +52,7 @@ A book about maximizing human cognition and decision-making using computer scien
     - Competition: In Silicon Valley companies started giving unlimited vacations to compete for talent. The problem is everyone wants to take one less day than their peer to show loyalty and their ambition. It is a classic race to 0, so nobody ends up taking any holidays.
 
 ## III. Quotes
+
 - But lest you think this is another fluffy brain book, it's actually hard computer programming with the occasional laugh-out-loud line. The team behind it are serious academics who have thought deeply about how computers think and how we can use those algorithms to make our lives easier. Which, when you think about it, isn't so crazy, because who taught the computers to think in the first place? We're just reclaiming tactics that are ours to begin with.
 - The best algorithms are all about doing what makes the most sense in the least amount of time, which by no means involves giving careful consideration to every factor and pursuing every computation to the end. Life is just too complicated for that.
 - People are almost always confronting what computer science regards as the hard cases. Up against such hard cases, effective algorithms make assumptions, show a bias toward simpler solutions, trade off the costs of error against the costs of delay, and take chances.

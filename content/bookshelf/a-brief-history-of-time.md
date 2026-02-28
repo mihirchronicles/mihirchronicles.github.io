@@ -3,10 +3,13 @@ title: A Brief History Of Time by Stephen Hawking
 date: "2021-02-14"
 path: "/bookshelf/a-brief-history-of-times"
 ---
+
 ## I. Brief Summary
+
 Stephen Hawking lays out the history of scientific theories since Nicolaus Copernicus first challenged that the earth was not the center of the universe. This book was highly technical, but Hawking does a wonderful job of using analogies to break down the ideas in an elementary form. The book goes deep into cosmology theories such as relativity, quantum mechanics, uncertainty principle, unified theory, string theory, particle theory, black holes, time travel, thermodynamics, expansion of universe, big bang, singularity and gravity. The book also offers world-class questions from which the theories arises. The primary objective of these scientific theories is to understand the rational governing laws of universe. The work is in progress but Stephen Hawking believes it is probable that we are close to achieving unified theory of universe. This is a masterpiece on scientific writing by Stephen Hawking. A must-read!
 
 ## II. Big Ideas
+
 - Edwin Hubble in 1929 made the landmark observation that the distant galaxies are moving rapidly away from us, not matter where you look. This confirmed that the universe is expanding. Hawking explains it further:
     - When we add up all this dark matter, we still get only about one tenth of the amount required to halt the expansion. However, we cannot exclude the possibility that there might be some other form of matter, distributed almost uniformly throughout the universe, that we have not yet detected and that might still raise the average density of the universe up to the critical value needed to halt the expansion.
     - The present evidence therefore suggests that the universe will probably expand forever, but all we can really be sure of is that even if the universe is going to recollapse, it won’t do so for at least another ten thousand million years, since it has already been expanding for at least that long. This should not unduly worry us: by that time, unless we have colonized beyond the Solar System, mankind will long since have died out, extinguished along with our sun!
@@ -64,6 +67,7 @@ Stephen Hawking lays out the history of scientific theories since Nicolaus Coper
     - ...any model that described the whole universe in detail would be much too complicated mathematically for us to be able to calculate exact predictions. One therefore has to make simplifying assumptions and approximations—and even then, the problem of extracting predictions remains a formidable one.
 
 ## III. Quotes
+
 - Equations are more important to me, because politics is for the present, but an equation is something for eternity. — Albert Einstein
 - How much choice did God have in constructing the universe? — Albert Einstein
 - Up to now, most scientists have been too occupied with the development of new theories that describe what the universe is to ask the question why. On the other hand, the people whose business it is to ask why, the philosophers, have not been able to keep up with the advance of scientific theories.

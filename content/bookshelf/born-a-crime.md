@@ -1,5 +1,5 @@
 ---
-title: Born A Crime | Stories From A South African Childhood by Trevor Noah
+title: Born A Crime by Trevor Noah
 date: "2020-06-16"
 path: "/bookshelf/born-a-crime"
 ---

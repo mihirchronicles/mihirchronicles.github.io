@@ -1,13 +1,15 @@
 ---
-title: The Little Book Of Common Sense Investing | The Only Way To Guarantee Your Fair Share of Stock Market Returns by John C Bogle
+title: The Little Book Of Common Sense Investing by John C Bogle
 date: "2022-05-30"
 path: "/bookshelf/common-sense-investing"
 ---
 
 ##  Brief Summary
+
 I've been lucky enough to work at Morningstar which is known for its fund and stock ratings. During my tenure there, I got an opportunity to hear John Bogle at one of the Morningstar Investment's Conference. Shortly after, he passed away. People who believe in Bogle are known as Bogleheads. I am now one of them! John C. Bogle is truly a legend and when you read his writings, you'll understand why. Meeting the average stock performance is hard, let alone beating the market. Beyond picking stocks, there is construction of the optimal portfolio, sizing, timing and all the uncontrollable variables that market presents including tax as a cost. When you add all of these things together, the effort you put in does not justify the outcome unless you are beating the market by many folds. Passive investing is still superior because it allows you to ignore the bells and whistles of the market which allows you to sleep peacefully at night. Accepting what market produces for you should be considered satisfactory. This book is a master class on how to think and invest for long-term especially in the traditional index funds. John C. Bogle wrote this book shortly before he passed away. He was an American hero and his legacy lives on through Vanguard (the leader in low cost index funds).
 
 ## Big Ideas
+
 - Investing is simple, but not easy. Bogle, the creator of Vanguard which created the first index mutual fund in 1974 was lonely in the fight at first. But as time passed on, the idea caught on fire. 
     - Paul A Samuelson, Nobel laureate in economic sciences and professor at MIT once said: Bogle's reasoned percepts can enable a few millions of us savers to become in twenty years the envy of our suburban neighbors—while at the same time we have slept well in these eventful times.
     - The record of an investor in the first index mutual fund: $15,000 invested in 1976 would be valued at $913,000 in 2016.
@@ -59,6 +61,7 @@ I've been lucky enough to work at Morningstar which is known for its fund and st
     - Long-term
 
 ## Quotes
+
 - The magic of compounding investment returns. The tyranny of compounding investment costs.
 - Before the deduction of the costs of investing, beating the stock market is a zero-sum game. After the deduction of the costs of investing beating the stock market is a loser's game.
 - Weak managements ultimately fall victim to the creative destruction that is the hallmark of competitive capitalism.

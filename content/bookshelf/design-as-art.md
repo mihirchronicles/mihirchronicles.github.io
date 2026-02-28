@@ -3,7 +3,9 @@ title: Design As Art by Bruno Munari
 date: "2022-09-28"
 path: "/bookshelf/design-as-art"
 ---
+
 ## I. Brief Summary
+
 Design as Art is a collection of Munari’s essays on various topics concerning design and art. He was among the most inspirational designers of all time, described by Picasso as 'the new Leonardo'. He insisted that design ought to be beautiful, functional and accessible. He shares his thoughts on visual, graphic and industrial design and the role it plays in the objects (lamps, road signs, typography, posters, children's books, advertising, cars and chairs) we use everyday. The book is precise, smart, and humorous on the topic of relationship between art and design. His writing is meditative. His ability to share thoughts on when design needs to step back and when it needs to step up and his maddening account on the various types of chairs or knives are still relevant in contemporary times. Munari’s mid-century Italian humour pairs well with his immense knowledge of the tradition of commercial design as an art form. It helps you engage with everyday objects as not just objects of utility, but expressions of culture and aesthetic value. 
 
 ## II. Big Ideas
@@ -38,6 +40,7 @@ Design as Art is a collection of Munari’s essays on various topics concerning 
     - When a lot of money comes along before culture arrives, we get the phenomenon of the gold telephone. And when I say culture I don’t mean academic knowledge, I mean information: information about what is happening in the world, about the things that make life interesting.
 
 ## III. Quotes
+
 - A designer is a planner with an aesthetic sense.
 - The designer of today re-establishes the long-lost contact between art and the public, between living people and art as a living thing. Instead of pictures for the drawing-room, electric gadgets for the kitchen. There should be no such thing as art divorced from life, with beautiful things to look at and hideous things to use. If what we use every day is made with art, and not thrown together by chance or caprice, then we shall have nothing to hide.
 - When the objects we use every day and the surroundings we live in have become in themselves a work of art, then we shall be able to say that we have achieved a balanced life.

@@ -1,12 +1,15 @@
 ---
-title: Dieter Rams | The Complete Works by Klaus Klemp
+title: Dieter Rams by Klaus Klemp
 date: "2022-08-20"
 path: "/bookshelf/dieter-rams-complete-works"
 ---
+
 ## I. Brief Summary
+
 This book presents the product designs of an industrial designer Dieter Rams, organized in chronological order from 1947 to 2020. Dieter Rams is an industrial designer whose collaborations with Braun and Vitsoe have produced some of the most iconic consumer products of the 20th century. Rams is known for consumer products that has defined the most recent of our society—an electric razor, blow-drier, electric tooth brush, or a lighter. Rams is credited as the lead inventor of the patented F1 mactron pocket lighter design from 1971. His greatest economic success was for the American company—the Sensor razor which went on to sell 100 million units in 1989. His design philosophy is simple, yet hard—less, but better. 
 
 ## II. Big Ideas
+
 - Rams describes his thoughts on what design should be:
     - Rams has always based his design on functionality, intensive cooperation with engineers was an integral part of his practice and he was often involved in the technical development of products. He practiced what he preached—design is a process, and industrial design is teamwork with many people involved. 
     - Design is not just about the formal design of things, it determines the life of every individual and how we all live with one another. 
@@ -60,6 +63,7 @@ This book presents the product designs of an industrial designer Dieter Rams, or
         - _Good design is as little design as possible._ Less, but better – because it concentrates on the essential aspects, and the products are not burdened with non-essentials. Back to purity, back to simplicity.
 
 ## III. Quotes
+
 - There have been so many inspiring conversations with so many people. I have always treasured the global nature of such encounters, because it is only through international dialogue and collaboration that we will be able to shape our world wisely for the future. Any form of nationalism has always been alien to me.
 - Design can promote social togetherness-but it can also damage it. This is why the responsibility carried by designers is so great.
 - Look at all the things we have designed in the last 150 years alone: telephones, cars, radios, televisions, computers and smartphones. Marshall McLuhan was right in saying that the _medium is the message_, in that it both extends and restricts our possibilities.

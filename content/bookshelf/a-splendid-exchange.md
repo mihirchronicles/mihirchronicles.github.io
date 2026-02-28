@@ -1,5 +1,5 @@
 ---
-title: A Splendid Exchange | How Trade Shaped The World by William J. Bernstein
+title: A Splendid Exchange by William J. Bernstein
 date: "2025-04-29"
 path: "/bookshelf/a-splendid-exchange"
 ---
@@ -98,6 +98,7 @@ William Bernstein’s shares a collection of pivotal historical events which ill
     - The United States embraced free trade in the post-war years, but globalization has also created dangerous inequality.
 
 ## III. Quotes
+
 - Our urge to trade has profoundly affected the trajectory of the human species. Simply by allowing nations to concentrate on producing those things that their geographic, climatic, and intellectual endowments best enable them to do, and to exchange those goods for what is best produced elsewhere, trade has directly propelled our global prosperity.
 - What investment banking is to the ambitious and acquisitive today, the pepper trade was to the Romans—the most direct route to great riches.
 - Whoever is lord of Malacca has his hand on the throat of Venice. — Tomé

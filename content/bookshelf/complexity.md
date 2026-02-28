@@ -1,12 +1,15 @@
 ---
-title: Complexity | The Emerging Science At The Edge Of Order And Chaos by M. Mitchell Waldrop
+title: Complexity by M. Mitchell Waldrop
 date: "2023-06-15"
 path: "/bookshelf/complexity.md"
 ---
+
 ## I. Brief Summary
+
 A compelling book about the scientific revolution of a complex adaptive system. The book takes the readers into the hearts and minds of scientific pioneers and their involvement with Santa Fe Institute. The Santa Fe Institute is an influential interdisciplinary research institute. Topics in this book include complexity, self-organization, emergence, order and chaos from the diverse fields such as economics, physics, computer science and biology. Waldrop does an excellent job of explaining non-linear systems. Both linear and non-linear systems co-exist, but non-linearity is fairly an emerging topic. Pick this book up and give it a go. I highly recommend it if you are interested in better models of reality, so that you can make better decisions.
 
 ## II. Big Ideas
+
 - Complexity is the science of emergence where many individual agents interact and the outcomes are difficult to predict. 
 - Complex adaptive system originated at Santa Fe Institute (SFI). Santa Fe Institute was formed in 1984. The SFI is an independent, nonprofit theoretical research institute dedicated to the study of complex adaptive systems.
 - The theory of complexity manifests itself in “complex adaptive systems,” which are made up of many independent agents who interact and adapt to each other and to their environment, producing the phenomenon of emergence—a system behaving as more than the sum of its parts. 
@@ -40,6 +43,7 @@ A compelling book about the scientific revolution of a complex adaptive system. 
     - _But to Kauffman, this autocatalytic set story was far and away the most plausible explanation for the origin of life that he had ever heard. If it were true, it meant the origin of life didn’t have to wait for some ridiculously improbable event to produce a set of enormously complicated molecules; it meant that life could indeed have bootstrapped its way into existence from very simple molecules. And it meant that life had not been just a random accident, but was part of nature’s incessant compulsion for self-organization._
 
 ## III. Quotes
+
 - The royal road to a Nobel Prize has generally been through the reductionist approach.
 - Why is it that simple particles obeying simple rules will sometimes engage in the most astonishing, unpredictable behavior?
 - Like it or not, the marketplace isn’t stable. The world isn’t stable. It’s full of evolution, upheaval, and surprise.

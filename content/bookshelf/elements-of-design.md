@@ -1,12 +1,15 @@
 ---
-title: Elements Of Design | Rowena Reed Kostellow And The Structure Of Visual Relationships by Gail Greet Hannah
+title: Elements Of Design by Gail Greet Hannah
 date: "2022-10-20"
 path: "/bookshelf/elements-of-design"
 ---
+
 ## I. Brief Summary
+
 Rowena Reed Kostellow taught industrial design at Pratt Institute for more than fifty years. She deeply studied and analyzed abstract visual relationships between volumes in 3D space. For her form truly mattered. She calls out learning institutions that don't do enough on dedicating to developing an eye and hand for form, but over-indexing on learning tools. She had a huge influence on her students. This book is a tribute by her students so is filled with reflections on learning memories from her. This book taught me to see shapes and its relationship to its environment (space) more broadly.
 
 ## II. Big Ideas
+
 - With the development of advanced mass production in the early 20th century the need for industrial design education became apparent.
 - Theory: 
     - Miss Reed believed any serious students can be taught how to make good forms.
@@ -45,6 +48,7 @@ Rowena Reed Kostellow taught industrial design at Pratt Institute for more than 
         - Now problems begin to mix in practical conditions with abstract form studies. Students learn to apply expressive skills to real world needs–like ergonomic or production requirements–without having the restraints dominate decisions and the creative process (they do that in other classes). They make models from appropriate materials and colors. Problems can become student’s senior thesis projects. The resulting libraries, music shops, radios, power tools, vehicles, and sanctuaries are always less than practical but very beautiful!
 
 ## III. Quotes
+
 - Pure, unadulterated beauty should be the goal of civilization!
 - Industrial design is about exactly what is there. The forms of industrial design are direct support for experience: they shape the conduct of our days: they structure the experience of being alive now.
 - Our goal is the training of a designer so familiar with the principles of abstraction that he automatically thinks of a visual problem in terms of organized relationships and then feels free to study other aspects of the problem, or to confer with specialists in related fields. He is a designer who can, visually, cross boundaries and suggest new forms for new materials or new techniques.

@@ -1,13 +1,15 @@
 ---
-title: A Man For All Markets | From Las Vegas To Wall Street, How I Beat The Dealer & The Market by Edward O. Thorp
+title: A Man For All Markets by Edward O. Thorp
 date: "2024-01-28"
 path: "/bookshelf/a-man-for-all-markets"
 ---
 
 ## I. Brief Summary
+
 Edward Thorp recalls his life starting from childhood while sharing valuable lessons about gambling and investing. He always had an inclination towards science eventually gravitated towards mathematics. He applied math to a variety of domains with tremendous success including poker and investing. His curiosity led him to key discoveries in how to beat the dealer in blackjack and other games of chance, and eventually led him down the path to make key discoveries to arbitrage the markets in finance. He is one of the greatest quantitative investors.
 
 ## II. Big Ideas
+
 - Thorp argues that markets are not always efficient and there are ways to exploit it.
 - Thorp once focused on arbitrage opportunities. But despite having extraordinary intellectual capabilities, he concludes that investing in an index is safer, and he does not try to beat the market through individual stocks anymore. That is because he values his time and freedom.
 - Those who cannot remember the past are condemned to repeat it.
@@ -23,6 +25,7 @@ Edward Thorp recalls his life starting from childhood while sharing valuable les
 - Markets adapt to trading strategies when copycats enter the market and advantages evaporate. It’s important to keep innovating and making sure that strategies are still relevant.
 
 ## III. Quotes
+
 - Some think in words, some use numbers, and still others work with visual images. I do all of these, but I also think using models....Physics, chemistry, astronomy and biology revealed wonders of the world, and showed me how to build models and theories to describe and predict. This paid off for me in both gambling and investing.
 - Learning is like adding programs, big and small, to this computer.
 - Character is destiny.

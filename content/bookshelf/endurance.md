@@ -5,9 +5,11 @@ path: "/bookshelf/endurance"
 ---
 
 ## I. Brief Summary
+
 An unbelievable, yet true story about the Trans-Atlantic expedition in 1914 led by Earnest Shackleton who lost his ship and spent two years trying to survive in the harshest environment known to mankind—Antarctica. His ship Endurance became locked on an island of ice which crushed the ship due to the pressure of being stuck between two large ice floes. Shackleton decided to command his crew of 27 men and 69 dogs on a journey of 850 miles to reach the closest civilization in South Georgia island. After two years all 28 men were rescued (all dogs were killed). Alfred Lansing has done a brilliant job of narrating this voyage. It felt like I was there witnessing all of this unfold. When an author captures the details at levels that Lansing did, you have to appreciate the research process. This is a magnificent book—a great story about leadership lessons during times.
 
 ## II. Big Ideas
+
 - The intensity of this voyage cannot be underestimated. There were no modern tools or radio signals available back then to seek help. The harsh environment of Antarctica were stacked up against them, yet all men survived. Shackleton recruited competent men with diverse background for his voyage. Their spirits were tested time and time again—fragile psyche, no water, minimum food, dragging 3 boats, killing dogs, frostbites, sleeping in cold and wet sleeping bags, having to leave behind sentimental valuables, deteriorating strength, sea sickness, no visible land for days, high tides, continuing to fight for hope, long winters, and so much more. Stranded for over a year in the most inhospitable climate on the face of the Earth, literally one tiny step away from complete disaster due to starvation, extreme weather or the ice flows being cracked with the freezing depths below. 
 - Timeline:
     - Dec. 5, 1914 Endurance leaves South Georgia Island 
@@ -21,6 +23,7 @@ An unbelievable, yet true story about the Trans-Atlantic expedition in 1914 led 
 - Shackleton was decisive, but also observable of the harsh environment presented to the crew. He constantly had to back track on decisions he made. His decisions were decisive when they were needed, but he was willing to change the path depending on the weather conditions. I wonder if it weren't for Shackleton would the entire crew could've survived. Great leaders lead in tough times and that is exactly what Shackleton did.
 
 ## III. Quotes
+
 - No matter what the odds, a man does not pin his last hope for survival on something and then expect that it will fail.
 - We had seen God in His splendors, heard the text that Nature renders. We had reached the naked soul of man.
 - By endurance we conquer.

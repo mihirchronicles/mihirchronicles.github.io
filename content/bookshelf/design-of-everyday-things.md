@@ -3,10 +3,13 @@ title: Design Of Everyday Things by Donald A. Norman
 date: "2022-10-07"
 path: "/bookshelf/design-of-everyday-things"
 ---
+
 ## I. Brief Summary
+
 This is a must-read for problem solvers and anyone who wants to design products that are both environmental and human friendly. Design is misunderstood for beautifying products, but Donald Norman makes a case for Human Centered Design and describes how designers should operate and think. Design is how humans experience and interact with everyday products. Good design also takes human psychology and habits into consideration. Norman provides lots of everyday examples, such as doors and switches which are difficult to operate. Norman goes through human-centered design and design thinking, going into specific techniques like idea convergence and divergence. I loved this book and plan on coming to this several times.
 
 ## II. Big Ideas
+
 - Principles of design:
     - Use both knowledge in the world and knowledge in the head.
     - Simplify the structure of tasks.
@@ -130,6 +133,7 @@ This is a must-read for problem solvers and anyone who wants to design products 
         - In a similar mode, big data is the recent fad in aggregating data from various information systems to form a picture of the user's buying behavior. It's good observation, but limited in its scope, generally to transactions directly between the user and the firm.
 
 ## III. Quotes
+
 - Design is beyond window dressing products.
 - Design is really an act of communication, which means having a deep understanding of the person with whom the designer is communicating.
 - Good design is actually a lot harder to notice than poor design, in part because good designs fit our needs so well that the design is invisible, serving us without drawing attention to itself. Bad design, on the other hand, screams out its inadequacies, making itself very noticeable.

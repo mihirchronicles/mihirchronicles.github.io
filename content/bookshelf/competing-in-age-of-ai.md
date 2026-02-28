@@ -1,12 +1,15 @@
 ---
-title: Competing In The Age Of AI | Strategy & Leadership When Algorithms And Networks Run The World by Marco Iansiti & Karim R. Lakhani
+title: Competing In The Age Of AI by Marco Iansiti
 date: "2024-07-15"
 path: "/bookshelf/competing-in-age-of-ai.md"
 ---
+
 ## I. Brief Summary
+
 An overview of how industries and organizations are going to be shaped by Machine Learning and Artificial Intelligence. The authors explain AI-enabled transformation through the case studies of companies like Amazon, Microsoft, Netflix, Ant Financial, Walmart, Facebook, Ocado, Peloton, and Uber. The case studies are useful in understanding how AI digital revolution is transforming how firms operate and industries compete.
 
 ## II. Big Ideas
+
 - Decoding AI: There is weak AI and strong AI. The potential of weak AI in task automation and business process simplification. This clarification will help business leaders to understand application of AI beyond its theoretical potential.
 - AI as a transformative force: AI as a transformative force with the potential to reshape market and business dynamics. The book highlights how companies can leverage AI for enhancing efficiency and creating new customer experiences or developing innovative products.
 - AI-centric business mindset: The authors present a compelling case to adopt AI-centric business mindset focusing on revising the business and operational model. They explain this through examples covering AI-driven customer care that enhances user experience and AI-driven logistics that streamline operations. Thus, by digitizing conventional tasks, businesses can achieve scalability and operational agility. There needs to be alignment between a company’s business model and operating model.
@@ -22,6 +25,7 @@ An overview of how industries and organizations are going to be shaped by Machin
     - Rule 5: Concentration and inequality will likely get worse.
 
 ## III. Quotes
+
 - We are moving from an era of core competencies, differing from firm to firm and embedded deep in each organization, to an age shaped by data and analytics, powered by algorithms and hosted in the computing cloud for anyone to use.
 - A company’s approach to value creation requires consciously choosing the precise problem it is solving for the customer and its positioning in the marketplace.
 - Traditionally, the intrinsic scalability, scope amplification, and learning potential of technology was limited by the operating architecture of the organizations that it was deployed in. But over the past decade, we have seen the emergence of firms that are designed and architected to release the full potential of digital networks, data, algorithms, and AI. Indeed, the more a firm is designed to optimize the impact of digitization, the greater its potential for scale, scope, and learning embedded in its operating model — and the more value it can create and capture.

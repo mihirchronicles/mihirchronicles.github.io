@@ -1,12 +1,15 @@
 ---
-title: Fooled By Randomness | The Hidden Role Of Chance In Life And In The Markets by Nassim Nicholas Taleb 
+title: Fooled By Randomness by Nassim Nicholas Taleb 
 date: "2023-05-02"
 path: "/bookshelf/fooled-by-randomness"
 ---
+
 ## I. Brief Summary
+
 An investigation of luck, uncertainty, probability, decision-making, and randomness in a data driven (statistics) and narrative world. Nassim Taleb is a great thinker and shares his personal and philosophical views to help us understand the world we live in which many don't understand. He is a quantitative trader by profession and learned about practical problems with decision-making, human biases and probabilistic thinking from his professional journey of taking bets (risks). Taleb is a true multidisciplinary thinker. I also enjoyed Taleb's writing style. He has a way to explain complex topics in colorful ways. On the downside, I can see why some may see this book as a personal rant. Taleb does not hide his emotions or shy away from being too opinionated. Nonetheless, this book is a must-read.
 
 ## II. Big Ideas
+
 - We look back and see less randomness.
 - History played out the way it did because it was observed with one perspective amongst all possible alternatives. Hence, history proves to be a terrible teacher.
 - Use Monte Carlo simulation to generates thousands, perhaps millions, of random sample paths, and look at the prevalent characteristics of some of their features.
@@ -48,6 +51,7 @@ An investigation of luck, uncertainty, probability, decision-making, and randomn
 - Repetitiveness requires a process.
 
 ## III. Quotes
+
 - Realism is punishing. Probabilistic skepticism is worse.
 - Reality does not have the same closed and symmetric laws and regulations as games.
 - When you look at the past, the past will always be deterministic, since only one single observation took place.

@@ -1,13 +1,15 @@
 ---
-title: Connect | Building Exceptional Relationships With Family, Friends, and Colleagues by Carole Robin Ph.D.
+title: Connect by Carole Robin Ph.D.
 date: "2022-01-31"
 path: "/bookshelf/connect"
 ---
 
 ## I. Brief Summary
+
 A guide to manage conflicts and build fulfilling relationships with colleagues, friends and family based on a course, Interpersonal Dynamics, taught at Stanford's Graduate School of Business.
 
 ## II. Big Ideas
+
 - Deep connections require a great deal of effort. Exceptional is also not an end state, because relationships can always grow deeper. Instead, think of exceptional relationships as living, breathing organisms that are always changing, always in need of tending, and always, always capable of taking your breath away.
 - Exceptional relationships can be developed. They have six hallmarks. The first three center around self-disclosure. Why are we still talking about this, when many would say we’ve become a culture of oversharers? Because there is a difference between a presented image and sharing who you really are.
     - You can be more fully yourself, and so can the other person.
@@ -44,6 +46,7 @@ A guide to manage conflicts and build fulfilling relationships with colleagues, 
 - One emotion that is especially difficult to manage well is anger. Most people don’t realize that anger is a secondary emotion. When someone feels too exposed to express certain emotions, such as hurt, rejection, or envy, it often feels safer to express anger. This is especially true of men, who have been socialized not to express vulnerability. The transfer from a more basic, vulnerable feeling to anger can be so automatic that the person who is upset is unaware of the underlying feelings.
 
 ### III. Quotes
+
 - In these relationships, you feel seen, known, and appreciated for who you really are, not an edited version of yourself.
 - Relationships exist on a continuum.
 - Be yourself, everybody else is taken. — Oscar Wilde

@@ -1,5 +1,5 @@
 ---
-title: Beyond Coffee | A Sustainable Guide To Nootropics, Adaptogens, And Mushrooms by James Beshara
+title: Beyond Coffee by James Beshara
 date: "2021-07-12"
 path: "/bookshelf/beyond-coffee"
 ---
@@ -9,6 +9,7 @@ path: "/bookshelf/beyond-coffee"
 I came across this book while exploring alternatives to coffee. This book is less dense on content, but a great starting point to explore nootropics and nutrients that help with productivity and focus. It's an introductory book on "brain food."
 
 ## II. Big Ideas
+
 There is a lot of stigma around brain health food. People have been consuming natural occurring ingredients for centuries to cure diseases and boost productivity.
 
 Though being less dense, I found this book to be informational because of its structure and ratings on each brain food. There is a lot of conflicting overwhelming information on the internet. This is a great place to start if you want to skip that initial research. Below are some of my takeaways, most are obvious, but worth overstating:
@@ -33,6 +34,7 @@ Though being less dense, I found this book to be informational because of its st
 
 
 ### III. Quotes
+
 - Human beings have evolved in large part due to our advanced nervous system, which takes stimuli from our environment and translates them into sensations. Our bodies in turn react to these sensations by producing chemicals in our brain that help us cope with the environment.
 - We are each designed to express our unique brilliance.
 - The brain is an infinitely complex, ever-evolving matrix of magic.

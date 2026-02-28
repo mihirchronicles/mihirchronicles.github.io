@@ -5,9 +5,11 @@ path: "/bookshelf/elements-of-style"
 ---
 
 ## I. Brief Summary
+
 An essential manual which offers practical advice on improving writing skills and writing style. The Elements of Style is short, precise, and to the point—keeping it with the rules of brevity and clarity it promotes. According to Strunk, students learn better through their own work and tailored instruction, as opposed to wading through large textbooks. 
 
 ## II. Big Ideas
+
 - A sentence should contain no unnecessary words, a paragraph no unnecessary sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary parts.
 - Use the active voice where possible. 
     - Instead of: The cat was chased by the dog. (passive)
@@ -65,6 +67,7 @@ An essential manual which offers practical advice on improving writing skills an
 - Avoid repeating the same sentence structure.
 
 ## III. Quotes
+
 - Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary parts. This requires not that the writer make all his sentences short, or that he avoid all detail and treat his subjects only in outline, but that every word tell.
 - To achieve style, begin by affecting none.
 - The mind travels faster than the pen; consequently, writing becomes a question of learning to make occasional wing shots, bringing down the bird of thought as it flashes by. A writer is a gunner, sometimes waiting in the blind for something to come in, sometimes roaming the countryside hoping to scare something up.

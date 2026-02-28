@@ -3,10 +3,13 @@ title: Becoming Trader Joe by Joe Coulombe & Patty Civalleri
 date: "2021-12-28"
 path: "/bookshelf/becoming-trader-joe"
 ---
+
 ## I. Brief Summary
+
 An exceptional business story and book. Though a bit disorganized making it harder to follow at times, it is however a must read! Joe Coulombe exploited all sorts of market arbitrage (loopholes in regulations or creating bargains through buying in bulk) in grocery and retail business. I was fascinated by Joe's creativity and willingness to be first in setting standards in grocery business. The matrix of grocery business is as complex as it can get, both on supply and demand side. Joe's ability to persevere regulatory concerns and market trends is very inspiring and worth looking into. I am a Trader Joe's fanatic so I thoroughly enjoyed learning about its upbringing.
 
 ## II. Big Ideas
+
 - Trader Joe’s was Coulombe’s third venture (after Pronto Markets and Rexall) and he started in Southern California with a single-minded focus: to provide value to over-educated, under-paid professionals (think teachers, nurses, musicians).
 - When the competitor 7-Eleven extended it’s footprint into California in the 1970’s, Pronto Markets, the precursor to Trader' Joe’s, already enjoyed the highest sales per store of any convenience operator in America by a factor of three. A high wage policy, strong locations, a few liquor licenses, and the beginnings of a differentiated strategy through product knowledge was the core of their success.
 - He started with wines (allowed in California grocery stores). Trader Joe’s was known for stocking the shelves with good wines for far less than shoppers could get elsewhere. It was also committed to healthy, often organic, real foods. They made and sold their own baked goods, and they had their own distribution system.
@@ -42,6 +45,7 @@ An exceptional business story and book. Though a bit disorganized making it hard
         - Crime 
 
 ## III. Quotes
+
 - We found a loophole in the law, and by God we drove a truck through it!
 - Innovation is less an act of an intellect than an act of will. — Michael Schrage
 - When you deliver value, you don't have to worry about in-store convenience.

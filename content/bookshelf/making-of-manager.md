@@ -1,13 +1,15 @@
 ---
-title: The Making Of A Manager | What To Do When Everyone Looks To You by Julie Zhuo
+title: The Making Of A Manager by Julie Zhuo
 date: "2023-05-26"
 path: "/bookshelf/making-of-manager.md"
 ---
 
 ## I. Brief Summary
+
 This is a great book for those who are exploring the path to go from individual contributor (IC) to a manager. Julie shares her own experiences while she was at Facebook (former VP of Design). Julie shares practical advice with a conversational tone. The book includes day-to-day tactics on what it takes to be an effective and action-oriented manager.
 
 ## II. Big Ideas
+
 - A manager's job is to build a team. If you don’t have a good handle on yourself, you won’t have a good handle on how to best support your team.
 - A manager is a specific role. Leadership is the particular skill of being able to guide and influence other people. While the role of a manager can be given to someone (or taken away), leadership is not something that can be bestowed. It must be earned. People must want to follow you. A leader, on the other hand, doesn’t have to be a manager.
 - Great managers are made, not born.
@@ -86,7 +88,9 @@ This is a great book for those who are exploring the path to go from individual 
         - How can I help you? 
         - What can I do to make you more successful? 
         - What was the most useful part of our conversation today?
+
 ## III. Quotes
+
 - The job of a manager...is to turn one person’s particular talent into performance.
 - I learned then one of my first lessons of management—the best outcomes come from inspiring people to action, not telling them what to do.
 - At the end of the day, a resilient organization isn’t one that never makes mistakes but rather one whose mistakes make it stronger over time.

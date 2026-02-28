@@ -1,13 +1,15 @@
 ---
-title: As One Is | To Free The Mind From All Conditioning by Jiddu Krishnamurti
+title: As One Is by Jiddu Krishnamurti
 date: "2022-09-20"
 path: "/bookshelf/as-one-is"
 ---
 
 ## I. Brief Summary
+
 Krishnamurti gave a series of 8 talks in Ojai, California in 1955 on human conditioning. These thoughts are still as fresh today as they were 70 years ago. He confronts the idea of productivity and self-improvement. He goes deep into why there is suffering due to how society is governed. He argues the apparent progress of the self which is not progress toward freedom, but an illusion. Krishnamurti asserts knowing one's mind, through diligent self-observation which is the only way to freedom.
 
 ## II. Big Ideas
+
 - The moment you stop seeking, you'll know the truth.
 - Want freedom from human conditioning? Try 
     - No judgement
@@ -35,6 +37,7 @@ Krishnamurti gave a series of 8 talks in Ojai, California in 1955 on human condi
     - Talk 8: Being free of society implies not being ambitious, not being covetous, not being competitive; it implies being nothing in relation to that society which is striving to be something. But you see, it is very difficult to accept that because you may be trodden on, you may be pushed aside; you will have nothing. In that nothingness there is sanity, not in the other... As long as one wants to be part of this society, one must breed insanity, wars, destruction, and misery; but to free oneself from this society-the society of violence, of wealth, of position, of success-requires patience, inquiry, discovery, not the reading of books, the chasing after teachers, psychologists, and all the rest of it.
 
 ## III. Quotes
+
 - Is it possible to teach your children without conditioning them?
 - An artist who is concerned with his name, with his greatness, with comparison, with fulfilling his ambition, has ceased to be an artist; he is merely a technician like everybody else. Which means, really, that to love something there must be a total cessation of all ambition, of all desire for the recognition of society, which is rotten anyhow.
 - If you are examining, understanding the ways of your own mind without seeking a reward, an end, without the motivation of gain, then there is self-knowledge, and you will see an astonishing thing come out of it.

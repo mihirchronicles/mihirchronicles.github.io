@@ -1,13 +1,15 @@
 ---
-title: Competing Against Luck | The Story Of Innovation And Customer Choice by Clayton M. Christensen, Taddy Hall, Karen Dillon, David S. Duncan   
+title: Competing Against Luck by Clayton M. Christensen
 date: "2024-03-05"
 path: "/bookshelf/competing-against-luck"
 ---
 
 ## I. Brief Summary
+
 A guide on how to create products that customers will choose even in a crowded market. This book is more than innovation. It is about progress based on the Jobs Theory. The theory focuses on what causes consumers to make the choices they do. Each time anyone buys a product Clayton says that we “hire” it to do a job for us. If we understand this innovation can be predictable.
 
 ## II. Big Ideas
+
 - Jobs theory
     - Jobs theory provides a language of integration.
     - A “job” is the progress that a person is trying to make in a particular circumstance. The choice of the word “progress” is deliberate. It represents movement toward a goal or aspiration.
@@ -78,6 +80,7 @@ A guide on how to create products that customers will choose even in a crowded m
     - A genuine insight is a thought which is known as true upon conception; no further analysis is needed.
 
 ## III. Quotes
+
 - Theory has a voice not an agenda.
 - People don’t want to buy a quarter-inch drill. They want a quarter-inch hole. It’s a profound insight—first popularized by legendary Harvard marketing professor Ted Levitt decades ago.
 - Ice cream sales and forest fires are correlated because both occur more often in the summer heat. But there is no causation; you don’t light a patch of the Montana brush on fire when you buy a pint of Häagen-Dazs.

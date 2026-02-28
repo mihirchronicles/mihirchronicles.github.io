@@ -1,13 +1,15 @@
 ---
-title: Build | An Unorthodox Guide To Making Things Worth Making by Tony Fadell
+title: Build by Tony Fadell
 date: "2022-07-16"
 path: "/bookshelf/build"
 ---
 
 ## I. Brief Summary
+
 This book goes into my re-read section. It has pure wisdom on how to deal with product centric organization with actionable tactics. Building a long tenure in product development is both art and science. It is clear Tony Fadell is worth listening to because of his training from Steve Jobs but also post Apple where he built another world-class product called Nest. It is not luck when someone can do it twice. Fadell was responsible for iPod, iPhone and Nest thermostat. The book is a blueprint on how creative thinkers can bring ideas to the world. Not everyone has a luxury to be trained directly from world-class product builders, but this book has a lot to teach who are serious about product development.
 
 ## II. Big Ideas
+
 - Part 1: Build Yourself
     - The rigor that Tony talks about does not have to be around product that has a specific technology. It can be anything, a service or a store. It could be a recycling plant.
     - When you are looking at the array of potential careers before you, the correct place to start is: what do I want to learn?
@@ -159,6 +161,7 @@ This book goes into my re-read section. It has pure wisdom on how to deal with p
     - A CEO is not a king or queen. It's not a lifetime appointment. At some point, you have to step down.
     
 ## III. Quotes
+
 - The world is full of mediocre, middle-of-the-road companies creating mediocre, middle-of-the-road crap, but I've spent my entire life chasing after the products and people that strive for excellence. I've been incredibly lucky to learn from the best—from bold, passionate people who made a dent in the world.
 - A good mentor won't hand you the answers, but they will try to help you see your problem from a new perspective. They'll loan you some of their hard-fought advice, so you can discover your own solution.
 - This book isn't trying to be a biography, I am not dead yet. It's a mentor in a box. It's an advice encyclopedia. 

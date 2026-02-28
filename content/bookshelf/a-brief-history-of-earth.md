@@ -3,10 +3,13 @@ title: A Brief History Of Earth by Andrew H. Knoll
 date: "2021-09-10"
 path: "/bookshelf/a-brief-history-of-earth.md"
 ---
+
 ## I. Brief Summary
+
 This was gifted to me by my wife on my birthday. It was a great tour of everything about our planet Earth. This book is written by an influential geologist and a professor who has dedicated his entire life studying the history of our planet. Understanding the geologic history is critical to understanding where our planet is headed. The book is filled with lessons on transformations—life, sea, atmosphere, mass extinctions, animals and humans. Andrew Knoll pleas on climate crisis led by humans in the beginning and at the end. I learned quite a bit about the transformation of the Earth, but also the importance of really how long it takes for evolution to take place and ruining it in a few decades have dire consequences to sustain our lives.
 
 ## II. Big Ideas
+
 - Rocks offer a grand narrative of Earth's development from youth to maturity.
 
 - **Earth's Greatest Oxygenation Event**
@@ -33,6 +36,7 @@ This was gifted to me by my wife on my birthday. It was a great tour of everythi
     - Humans have been pumping greenhouse gases into the atmosphere increasing the magnitude and frequency of heat waves, drought, and storms. With this in mind, what has been depressing is the human response. Each year we do nothing makes the task of solving the climate crises grow larger.
 
 ## III. Quotes
+
 - Our attachment to the Earth extends well beyond gravity.
 - With every breath you bring oxygen-rich air into your lungs, enabling you to gain energy from your dinner.
 - The steel in your refrigerator door, the aluminum in your “tin” cans, the copper in your pennies, and the rare-earth metals in your smartphone all come from within the Earth.

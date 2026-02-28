@@ -1,5 +1,5 @@
 ---
-title: Living With A SEAL | 31 Days Training With The Toughest Man On The Planet by Jesse Itlzer
+title: Living With A SEAL by Jesse Itlzer
 date: "2020-08-28"
 path: "/bookshelf/living-with-a-seal"
 ---
@@ -9,6 +9,7 @@ path: "/bookshelf/living-with-a-seal"
 This was laugh-out-loud funny, and inspiring. Jesse Itlzer is someone who I idolize. He likes to live his life outside of his comfort zone. I am process driven, but I also understand the limitations of it. My life falls apart when I don't follow the routine. Jesse wanted to break his routine for the similar reason. So, he hired a SEAL to live with him and his wife and train him. SEAL agreed on one condition, Jesse would have to do anything SEAL would ask. Jesse honored that condition. A quick read with bunch of inspiration and humor.
 
 ## II. Big Ideas
+
 Jesse Itlzer writes—
 - Pre-SEAL I sometimes would be on the couch and not want to do whatever needed to be done and I’d be like “Fuck it,” and blow it off. Procrastinate.
 - He was taught that if you have a job to do, you do it with 120 percent effort. I have been operating under the assumption that if someone that works for me does something 80 percent of the way I would do it, that’s enough.
@@ -38,6 +39,7 @@ Jesse Itlzer writes—
 - I eat only fruit until noon. That’s been my thing since I read Fit for Life by Harvey Diamond in 1992. For over twenty-five years, just fruit till noon...He credits it to a philosophy and lifestyle called “natural hygiene,” and he lays out the road map in Fit for Life. I read the book three times, and it completely changed my life...One of the main underlying philosophies in his book is that we use more energy for digestion than all other bodily functions combined. That’s why we are usually tired after a big meal...That said, the average American will eat seventy tons of food in their lifetime. Imagine how hard the body has to work to process and break down all of that food...The more efficiently we can digest all this food and the less stress we put on the digestive process, the more energy we will have for everything else...According to Fit for Life, fruit is the perfect food because on top of being sweet and delicious, it’s super-easy to digest...In fact, it is the only food that bypasses the stomach and is digested in the small intestines...It unleashes all its nutrients and goodness without using much, if any, energy, which frees up your energy for other things. As long as you eat fruit on an empty stomach, you can reap amazing benefits...According to Diamond, you don’t have to look beyond the animal kingdom to see evidence of this. The strongest animals in the world thrive on a fruit-and plant-based diet...Silverback gorillas, for example, are thirty times as strong as man and three times our size. Their DNA is 99 percent similar to that of humans, and they are our closest living relatives next to chimps. How are they so strong? Oh yeah, their diet is made up mostly of fruit and leaves. The silverback gorilla doesn’t eat turkey sandwiches, chips, and McDonald’s.
 
 ## III. Quotes
+
 - I don’t stop when I’m tired. I stop when I’m done. — SEAL
 - I don’t celebrate victories but I learn from failures. — SEAL
 - Fear is one of the best motivators. Anger is the other. — SEAL

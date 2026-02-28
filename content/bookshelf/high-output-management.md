@@ -3,10 +3,13 @@ title: High Output Management by Andrew S Grove
 date: "2023-09-19"
 path: "/bookshelf/high-output-management"
 ---
+
 ## I. Brief Summary
+
 Andrew Grove teaches his readers through his experience as CEO of Intel how to manage and lead an organization. This book is all you need to run and manage a business. He was a legend of his time and Intel thrived because of a great business manager like Grove.
 
 ## II. Big Ideas
+
 - As a general rule, you have to accept that no matter where you work, you are not an employee–you are in a business with one employee: yourself. You are in competition with millions of similar businesses. There are millions of others all over the world, picking up the pace, capable of doing the same work that you can do and perhaps more eager to do it.
 - The output of a manager is the output of the organizational units under his or her supervision or influence.
 - Great work is accomplished by a team of people working together.
@@ -104,6 +107,7 @@ Andrew Grove teaches his readers through his experience as CEO of Intel how to m
     - When someone is dedicated and loyal and feels their work is unappreciated it is the failure of the manager when they decide to leave. Most often employees bring up leaving at an inconvenient, highly busy time. Regardless, it should be high priority for a manager to make sure the employee feels heard and valued, to address their issues and retain them or transfer them to another team within the enterprise that meets their needs.
 
 ## III. Quotes
+
 - You have to accept that no matter where you work, you are not an employee—you are in a business with one employee: yourself. You are in competition with millions of similar businesses. There are millions of others all over the world, picking up the pace, capable of doing the same work that you can do and perhaps more eager to do it. Now, you may be tempted to look around your workplace and point to your fellow workers as rivals, but they are not. They are outnumbered—a thousand to one, one hundred thousand to one, a million to one—by people who work for organizations that compete with your firm. So if you want to work and continue to work, you must continually dedicate yourself to retaining your individual competitive advantage.
 - Remember too that your time is your one finite resource, and when you say “yes” to one thing you are inevitably saying “no” to another.
 - To get acceptable quality at the lowest cost, it is vitally important to reject defective material at a stage where its accumulated value is at the lowest possible level. Thus, as noted, we are better off catching a bad raw egg than a cooked one, and screening out our college applicant before he visits Intel. In short, reject before investing further value.

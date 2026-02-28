@@ -1,5 +1,5 @@
 ---
-title: Antifragile | Things That Gain from Disorder by Nassim Nicholas Taleb
+title: Antifragile by Nassim Nicholas Taleb
 date: "2025-08-30"
 path: "/bookshelf/antifragile"
 ---
@@ -10,6 +10,7 @@ Antifragile by Nassim Nicholas Taleb argues that some systems not only withstand
 
 
 ## II. Big Ideas
+
 - The Triad (Fragile, Robust, Antifragile)
     - Fragile: Things that break or suffer under stress, chaos, or volatility (e.g., a porcelain cup).
     - Robust (Resilient): Things that resist stress and stay the same; they don't break, but they don't improve either (e.g., a rock).

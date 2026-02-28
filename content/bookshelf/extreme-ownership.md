@@ -1,13 +1,15 @@
 ---
-title: Extreme Ownership | How U.S. Navy SEALs Lead & Win by Jocko Willink and Leif Babin
+title: Extreme Ownership by Jocko Willink and Leif Babin
 date: "2023-08-25"
 path: "/bookshelf/extreme-ownership"
 ---
 
 ## I. Brief Summary
+
 A book on how to be a leader with extreme ownership. Navy SEALs Jocko Willink and Leif Babin discuss leadership lessons which includes practicing ownership, killing ego, enforcing standards, simplifying, prioritizing, and executing. Each chapter includes their experience fighting in the Battle of Ramadi, Iraq, with concluding lesson on a leadership principle and business application.
 
 ## II. Big Ideas
+
 - The leader is always responsible.
 - Everyone on a team must believe in the mission.
 - Work with other teams to achieve mutually beneficial outcomes.
@@ -51,6 +53,7 @@ A book on how to be a leader with extreme ownership. Navy SEALs Jocko Willink an
     - If something isn’t going your way, start with what you are going to do differently.
 
 ## III. Quotes
+
 - Waiting for the 100 percent right and certain solution leads to delay, indecision, and an inability to execute.
 - Discipline equals freedom.
 - It’s not what you preach, it’s what you tolerate.

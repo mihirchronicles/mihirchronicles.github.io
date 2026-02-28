@@ -1,12 +1,15 @@
 ---
-title: Boyd | The Fighter Pilot Who Changed the Art of War by Robert Coram
+title: Boyd by Robert Coram
 date: "2022-10-25"
 path: "/bookshelf/boyd"
 ---
+
 ## I. Brief Summary
+
 John Boyd was a pilot fighter who codified the art of aerial attack and created the concept of energy maneuverability. He was a thinking fighter pilot. Boyd had an outsized effect on military tactics and equipment design throughout all branches of the military by challenging old paradigms.
 
 ## I. Big Ideas
+
 - There is some tragedy in in Boyd’s life. He came from a family of 5 children. They were not poor when he was born in 1927, in Erie, Pennsylvania. Sadly, Boyd’s father passed away early and that left them in serious trouble and poverty.
 - What never changed was his late-night or even early-morning (for him, very late night) phone calls. He had an idea, a “breakthrough” and he called his “Acolytes”, his faithful followers—no matter when. Probably he didn’t even realize it was 1 AM or even 4 AM. Or he just didn’t care. These late-night phone calls were often not discussions, but monologues. He shared his thoughts, he listened to himself and then he found the missing points and went on working. Essentially he used the others to brainstorm his ideas and discover shortcomings in his solutions.
 - The OODA loop (Boyd Cycle):
@@ -23,6 +26,7 @@ John Boyd was a pilot fighter who codified the art of aerial attack and created 
 
 
 ## III. Quotes
+
 - If you want to understand something, take it to the extremes or examine its opposites.
 - If our mental processes become focused on our internal dogmas and isolated from the unfolding, constantly dynamic outside world, we experience mismatches between our mental images and reality. Then confusion and disorder and uncertainty not only result but continue to increase. Ultimately, as disorder increases, chaos can result. Boyd showed why this is a natural process and why the only alternative is to do a destructive deduction and rebuild one’s mental image to correspond to the new reality.
 - If a man can reduce his needs to zero, he is truly free: there is nothing that can be taken from him and nothing anyone can do to hurt him.

@@ -1,5 +1,5 @@
 ---
-title: Being Logical | A Guide To Good Thinking by Dennis Q. McInerny
+title: Being Logical by Dennis Q. McInerny
 date: "2020-07-09"
 path: "/bookshelf/being-logical"
 ---

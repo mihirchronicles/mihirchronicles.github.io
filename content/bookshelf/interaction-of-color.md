@@ -3,10 +3,13 @@ title: Interaction Of Color by Josef Albers
 date: "2022-10-05"
 path: "/bookshelf/interaction-of-color"
 ---
+
 ## I. Brief Summary
+
 A great book for thinking deeper about the relationship of color, and how we perceive them. It is a handbook and teaching aid for artists, instructors, and students. Josef Albers heavily indexes on experimental learning versus going into theory. After trial and error and experimenting, he uncovers theory of colors and its relationship to itself and the environment. A novel way to teach anything in my opinion. After reading this, I find colors to be heavy on both technical and psychological level. Everyone must understand colors because it'll either help you reason your own prejudices or rationalize your attraction towards it. This is an essential work on visual literacy.
 
 ## II. Big Ideas
+
 - Color is the most relative medium in art.
 - Experience is the best teacher of color.
 - It is difficult to visualize specific colors. Visual memory is very poor by comparison to auditory memory.
@@ -27,6 +30,7 @@ A great book for thinking deeper about the relationship of color, and how we per
 - Albers’ discussion of progressive education teaching methods and how these can be intertwined with technical and theoretical knowledge that is specific to design. His ability to acknowledge the significance of combining technical skill with creative exploration underscores his pioneering vision for 20th-century design education. 
 
 ## III. Quotes
+
 - Good teaching is more a giving of right questions than a giving of right answers.
 - In visual perception, a thing is never seen as it really is
 - A strong challenge to a class is to work with 3 or 4 given colors selected by a teacher or student. This and a continued use of disliked colors will teach that preference and dislike as in life so with color usually result from prejudices, from lack of experience and insight.

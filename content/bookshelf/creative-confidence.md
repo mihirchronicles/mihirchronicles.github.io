@@ -4,8 +4,11 @@ date: "2022-05-28"
 path: "/bookshelf/creative-confidence"
 ---
 ## I. Brief Summary
+
 IDEO founder and Stanford d.school creator David Kelley and his brother Tom Kelley unleash their experiences and wisdom to be more creative and confidence in the business world. They show us how to effortlessly dance between the creativity of elementary school and the pragmatism of the business world. This book has gone into my re-read list.
+
 ## II. Big Ideas
+
 - What is creative confidence?
     - People's imagination, curiosity, and courage can be renewed quickly with just a small amount of practice and encouragement.
     - We don't have to generate creativity from scratch. We just need to reignite in people that they are capable of imagination and nudge them to brave enough to act on those ideas. That combination of thought and action defines creative confidence: the ability to come up with new ideas and the courage to try them out.
@@ -86,6 +89,7 @@ IDEO founder and Stanford d.school creator David Kelley and his brother Tom Kell
         - This chapter consists of handy tools that will help you move. For example, Mindmaps, Empathy Maps, Like/Wish, Speed Dating, Nickname Warm-up, Customer Journey Map, and more.
 
 ## III. Quotes
+
 - Creative confidence is like a muscle—it can be strengthened and nurtured through effort and experience. Our goal is to help build that confidence in you.
 - Creative confidence is a way of seeing that potential and your place in the world more clearly, unclouded by anxiety and doubt.
 - We think of creativity as using your imagination to create something new in the world.

@@ -1,13 +1,15 @@
 ---
-title: Lean Analytics | Use Data To Build A Better Startup Faster by Alistair Croll & Benjamin Yoskovitz
+title: Lean Analytics by Alistair Croll & Benjamin Yoskovitz
 date: "2024-05-27"
 path: "/bookshelf/lean-analytics"
 ---
 
 ## I. Brief Summary
+
 An overview of key metrics and benchmarks. By measuring and analyzing as you grow, you can validate whether a problem is real. This book shows how to validate an idea in every stage of your business, find the right customers, decide what to build, how to monetize your business. The authors have packed more than thirty case studies and insights from over a hundred business experts.
 
 ## II. Big Ideas
+
 - Ratios are good for comparing factors that are opposed or have some kind of tension. A good metric changes behavior.
 - Types of metrics
     - Qualitative/Quantitative
@@ -71,6 +73,7 @@ An overview of key metrics and benchmarks. By measuring and analyzing as you gro
 - What kind of content do different traffic sources expect? Twitter Time on Site is disproportionately high. Why is this?
 
 ## III. Quotes
+
 - Don’t just ask questions. Know how the answers to the questions will change your behavior. In other words, draw a line in the sand before you run the survey.
 - Don’t sell what you can make; make what you can sell.
 - Your job isn’t to build a product; it’s to de-risk a business model.

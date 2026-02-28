@@ -5,9 +5,11 @@ path: "/bookshelf/how-will-you-measure-your-life"
 ---
 
 ## I. Brief Summary
+
 Clayton M. Christensen was a Harvard Business School's professor. His influential work—Disruptive Innovation is well known within the business world. This was a quick read in simple, clear language with good analogies. The lessons between business and life is not drawn by a hard line, but are universal to both ends. Clayton Christensen offers his wisdom on how to live a meaningful life by drawing upon his business research. He shares case studies and scientific research to back up his claims. People often fall into life traps which leads to unhappiness despite of the world-class education such as Harvard. When business leaders ask their employees to think long-term, what does that really mean? When business leaders ask their employees to think strategically, what does thinking strategically mean? The book breaks down all business jargon into digestible analogies and real-life business case studies. I thoroughly enjoyed the section on parenting children and limitation of marginal thinking. I also enjoyed the last two sections on ethics and living life with purpose. I loved the framing of business lessons into personal life lessons and vice-versa. I knew many business leaders looked up to Clayton Christensen, but never understood why until I read this book. This is my newest favorite business book and I plan on coming back to this book a lot. A full disclosure summary below is a disservice to what the book has to offer.
 
 ## II. Big Ideas
+
 * Falling into tangible trappings such as better salaries, prestigious title, or nicer offices is a flawed thinking. The next pay raise feels like you are finally happy, but that is not the case for so many. Chasing a mirage is a hopeless quest. Getting the opportunity to be recognized, feeling achieved, and owning responsibilities are the things that motivate people.
 * A strategy, both in business and life, is created through hundreds of everyday decisions about how you spend your time, energy, and money.
 * Watch where your resources flow—the resource allocation process.
@@ -33,6 +35,7 @@ Clayton M. Christensen was a Harvard Business School's professor. His influentia
     - Metrics: to measure your progress towards becoming the likeness
 
 ## III. Quotes
+
 * We all are vulnerable to the forces and decisions that have derailed too many.
 * With every moment of your time, every decision about how you spend your energy and your money, you are making a statement about what really matters to you. You can talk all you want about having a clear purpose and strategy for your life, but ultimately this means nothing if you are not investing the resources you have in a way that is consistent with your strategy.
 * Many products fail because companies develop them from the wrong perspective. Companies focus too much on what they want to sell their customers, rather than what those customers really need. What’s missing is empathy: a deep understanding of what problems customers are trying to solve. The same is true in our relationships: we go into them thinking about what we want rather than what is important to the other person. Changing your perspective is a powerful way to deepen your relationships.

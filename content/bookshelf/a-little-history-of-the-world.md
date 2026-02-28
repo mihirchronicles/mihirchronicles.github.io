@@ -3,13 +3,17 @@ title: A Little History Of The World by E.H. Gombrich
 date: "2024-01-05"
 path: "/bookshelf/a-little-history-of-the-world"
 ---
+
 ## I. Brief Summary
+
 Ernst Gombrich authored a book on history of the world for younger readers. He accounts the full span of human history from the Stone Age to the Atomic Bomb. The book is playful due to the audience it is being addressed to. A great place to start on learning about the history of our world.
 
 ## II. Big Ideas
+
 It is a bad idea to try to prevent people from knowing their own history. If you want to do anything new you must first make sure you know what people have tried before.
 
 ### III. Quotes
+
 - The history of the world is, sadly, not a pretty poem. It offers little variety, and it is nearly always the unpleasant things that are repeated, over and over again.
 - It's bad idea to try to prevent people from knowing their own history. If you want to do anything new you must first make sure you know what people have tried before.
 - If we want to avoid suffering, we must start with ourselves, because all suffering comes from our own desires.

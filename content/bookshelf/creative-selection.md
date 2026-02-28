@@ -42,6 +42,7 @@ Ken Kocienda shares his experience of building software products and product dev
 - Chapter 7-9 should be read in its entirety.
 
 ## III. Quotes
+
 - Listen, Steve was at the center of all circles in Apple. He was like the Oracle of Delphi. But the difference between Steve and the Oracle of Delphi was when you asked the Oracle of Delphi a question, you get back some kind of riddle. You have no idea what the hell's going on. When you get feedback from Steve, there is no ambiguity. You know exactly what Steve wants to do and that's it." He's like, "There's no like, 'Oh, I'm confused.'
 - ...I think Edison's large-scale success was built on foundation of tending to small details.
 - '...What it boils down to is one percent inspiration and ninety-nine percent perspiration.'

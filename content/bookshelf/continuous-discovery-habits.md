@@ -1,13 +1,15 @@
 ---
-title: Continuous Discovery Habits | Discover Products That Create Customer Value & Business Value by Teresa Torres
+title: Continuous Discovery Habits by Teresa Torres
 date: "2023-06-27"
 path: "/bookshelf/continuous-discovery-habits"
 ---
 
 ## I. Brief Summary
+
 If you haven’t had the good fortune to be coached by a strong leader or product coach, this book can help fill that gap and set you on the path to success.
 
 ## II. Big Ideas
+
 - Discovery isn’t a one-time activity. A digital product is never done.
 - Product Manager's work: work that you do to decide what to build as _discovery_ and the work that you do to build and ship a product as _delivery_.
 - Most successful digital products today are conceived, designed, built, and delivered by a cross-functional team composed of product managers, designers, and software engineers. Product managers bring the business context—they help teams ensure that the products they are building are viable for the business.
@@ -75,6 +77,7 @@ If you haven’t had the good fortune to be coached by a strong leader or produc
     - Make a habit talking to your customers on daily.
 
 ## III. Quotes
+
 - “Product trio” refers to a product manager, a designer, and a software engineer working together to develop products for their customers.
 - Our goal with continuous discovery is to infuse those daily decisions with as much customer input as possible.
 - Businesses do need to make a profit. That’s required for their survival. However, profit should not come at the cost of serving the customer.

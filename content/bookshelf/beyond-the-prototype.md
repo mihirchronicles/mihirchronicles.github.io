@@ -1,12 +1,15 @@
 ---
-title: Beyond The Prototype | A Roadmap For Navigating The Fuzzy Area Between Ideas And Outcomes by Douglas Ferguson
+title: Beyond The Prototype by Douglas Ferguson
 date: "2023-07-03"
 path: "/bookshelf/beyond-the-prototype"
 ---
+
 ## I. Brief Summary
+
 Another text on product management and design thinking by a human centered design technologist. Ferguson combines years of experience at Google and IBM and shares design sprint frameworks. He helps in getting from problem/idea to tested hypothesis within a short span of a week (design sprint).
 
 ## II. Big Ideas
+
 - The 6 stage roadmap for ideation to outcome: wrap it up, share your story, chart the course, expand the inner circle, cultivate the culture, get guidance.
     - Wrap it up:
         - Your Design Sprint doesn’t end with a hard-stop on day five. One of the key post-Sprint activities is reflecting on how your hypothesis and questions were answered through testing.
@@ -46,6 +49,7 @@ Another text on product management and design thinking by a human centered desig
 - A RACI is a simple matrix that outlines the roles and responsibilities of a complex project. Having a RACI in place ensures that all stakeholders and team members know their part, who is doing what, and who is the ultimate decision-maker. 
 
 ## III. Quotes
+
 - A prototype is just a quick simulation of the real thing that you create to uncover deeper insights and expose the riskiest assumptions about your idea. 
 - A lot of organizations have barriers towards new visions, products, or directions—whether explicitly or unintentionally.
 - No matter where you ended, it’s all good. That’s the point of a sprint—deep and directional insights in five days instead of diving into months of development and then finding out when it’s too late to make a change.
