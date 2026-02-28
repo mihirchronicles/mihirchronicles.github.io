@@ -36,6 +36,7 @@ Pablo Coelho shares the story of a shepherd boy from the Spanish province of And
     - Why do alchemists exist? They exist because they show others when we strive to become better than we are, everything around us becomes better too. Alchemy is about penetrating the truth of the world and discovering the treasure which was meant for you. An alchemist is someone who understands nature.
 
 ## III. Quotes
+
 - Then we warriors of light must be prepared to have patience in difficult times and to know that the Universe is conspiring in our favor, even though me may not understand how.
 - Each day, each hour, is part of the good fight.
 - Each man kills the thing he loves. — Oscar Wilde

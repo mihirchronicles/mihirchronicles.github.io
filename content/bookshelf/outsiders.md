@@ -1,13 +1,15 @@
 ---
-title: The Outsiders | Eight Unconventional CEOs & Their Radically Rational Blueprint For Success by William N. Thorndlike, Jr.
+title: The Outsiders by William N. Thorndlike, Jr.
 date: "2023-01-25"
 path: "/bookshelf/outsiders"
 ---
 
 ## I. Brief Summary
+
 This book is a blueprint of what it takes to be an exceptional CEO who can perform extraordinarily over long periods of time. Jack Welch is one of the most celebrated CEOs who returned 20% over a period while S&P averaged 14% annual returns. However, Jack Welch didn't stand a chance against these 8 unconventional CEOs. They all outperformed Welch by significant margins. Each chapter may sound repetitive, but the redundancy of characteristics in each one of these CEOs highlights the underlying lessons. They all understood capital allocation is perhaps the only job the CEO is responsible for.
 
 ## II. Big Ideas
+
 - The book highlights and features these CEOs:
     - Capital Cities Broadcasting, Tom Murphy
     - Teledyne, Henry Singleton
@@ -75,6 +77,7 @@ This book is a blueprint of what it takes to be an exceptional CEO who can perfo
     - When company prices are high, it is okay to consider selling your business, divisions and/or stock. It is also okay to close-under performing business units when they can no longer generate returns at acceptable levels.
 
 ## III. Quotes
+
 - The business of business is a lot of little decisions every day mixed up with a few big decisions.
 - The lessons of these iconoclastic CEOs suggest a new, more nuanced conception of the chief executive’s job, with less emphasis placed on charismatic leadership and more on careful deployment of firm resources.
 - There is a fundamental humility to decentralization, an admission that headquarters does not have all the answers and that much of the real value is created by local managers in the field.

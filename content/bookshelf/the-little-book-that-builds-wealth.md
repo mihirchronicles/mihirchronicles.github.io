@@ -1,13 +1,15 @@
 ---
-title: The Little Book That Builds Wealth | The Knockout Formula For Finding Great Investments by Pat Dorsey
+title: The Little Book That Builds Wealth by Pat Dorsey
 date: "2023-02-08"
 path: "/bookshelf/the-little-book-that-builds-wealth"
 ---
 
 ##  Brief Summary
+
 Pat Dorsey was the Director for equity research at Morningstar from 2000 to 2011. He now heads Dorsey Asset Management. Dorsey introduces his investment philosophy especially around moats that are durable. A company with a moat adds long-term value because it helps them stay valuable for a longer time. Dorsey categorizes moats into four different types—intangible assets, customer switching cost, network effect and cost advantages. This is an excellent book for anyone interested in value investing around sustainable moats.
 
 ## Big Ideas
+
 - Buying a share of stock means that you own a really tiny piece of the business. 
 - The value of a business is equal to all the cash it will generate in the future.
 - A business that can profitably generate cash for a long time is worth more today than a business that may be profitable only for a short time.
@@ -77,6 +79,7 @@ Pat Dorsey was the Director for equity research at Morningstar from 2000 to 2011
     - Cash return: FCF (cash flow from operations - capex) + net interest expense (interest expense - interest income) / enterprise value (market cap + long-term debt - cash)
 
 ## Quotes
+
 - Unless a company has an economic moat protecting its business, competition will soon arrive on its doorstep and eat away at its profits. Wall Street is littered with the dead husks of companies that went from hero to zero in a heartbeat.
 - Even the best company will hurt your portfolio if you pay too much for it.
 - Thinking about moats can protect your investment capital in a number of ways. For one thing, it enforces investment discipline, making it less likely that you will overpay for a hot company with a shaky competitive advantage. High returns on capital will always be competed away eventually, and for most companies—and their investors—the regression is fast and painful

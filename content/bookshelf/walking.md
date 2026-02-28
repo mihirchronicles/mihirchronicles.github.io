@@ -3,10 +3,13 @@ title: Walking by Henry David Thoreau
 date: "2022-06-22"
 path: "/bookshelf/walking"
 ---
+
 ## I. Brief Summary
+
 Henry David Thoreau was a profound American thinker and a philosopher from 1800s. In this short essay, he stresses the importance of nature and wilderness. Those elemental lessons are as critical today as they were several hundred years ago.
 
 ## II. Big Ideas
+
 - Thoreau considers the nature of freedom beyond civil or political freedom. True freedom for humans lie within nature and wilderness.
 - Civilization has many champions, but nature has a few.
 - Walking in the wild enables humans to embrace nature because it slows a human down. It's not about hurrying but taking time to explore one's surrounding.
@@ -25,6 +28,7 @@ Henry David Thoreau was a profound American thinker and a philosopher from 1800s
 - Thoreau finishes his essay with an account of a November sunset he witnessed recently. The sunset was so moving as to be a transformational experience. The light Thoreau saw was of a quality he had never seen before and would never see again. Thus, he realized that each sunset is unique and represents a journey in itself. 
 
 ## III. Quotes
+
 - I am alarmed when it happens that I have walked a mile into the woods bodily, without getting there in spirit.
 - A truly good book is something as natural, and as unexpectedly and unaccountably fair and perfect, as a wild flower discovered on the prairies of the West or in the jungles of the East. Genius is a light which makes the darkness visible, like the lightning’s flash, which perchance shatters the temple of knowledge itself, and not a taper lighted at the hearth-stone of the race, which pales before the light of common day.
 - We should go forth on the shortest walk, perchance, in the spirit of undying adventure, never to return; prepared to send back our embalmed hearts only, as relics to our desolate kingdoms. If you are ready to leave father and mother, and brother and sister, and wife and child and friends, and never see them again; if you have paid your debts, and made your will, and settled all your affairs, and are a free man; then you are ready for a walk.

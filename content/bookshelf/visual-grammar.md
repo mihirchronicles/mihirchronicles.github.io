@@ -3,10 +3,13 @@ title: Visual Grammar by Christian Leborg
 date: "2022-10-05"
 path: "/bookshelf/visual-grammar"
 ---
+
 ## I. Brief Summary
+
 Visual grammar provides a way to describe and communicate the features of an image. A great handbook on all visual elements. Consider this as a visual dictionary for beginners.
 
 ## II. Big Ideas
+
 - Communication requires language. The visual language of design is no exception. Design elements are like letters and words.
 - The first chapter deals with abstractions such as dimension, format, and volume.
 - The second concerns concrete objects and structures such as form, size, color, and texture.
@@ -74,6 +77,7 @@ Visual grammar provides a way to describe and communicate the features of an ima
         - Variation – When objects are repeated with minor variance or modification the repetition is called variance.
 
 ## III. Quotes
+
 - The reason for writing a grammar of visual language is the same as for any language: to define its basic elements, describe its patterns and processes, and to understand the relationship between the individual elements in the system. Visual language has no formal syntax or semantics, but the visual objects themselves can be classified.
 - Knowledge of visual concepts is often acquired through physical experience and applied without the use of written or spoken language.
 - Reflection about what one is going to create or what one has created alters the creative process: we think differently when we have a language to describe something.

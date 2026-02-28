@@ -1,12 +1,15 @@
 ---
-title: Range | How Generalists Triumph In A Specialized World by David Epstein
+title: Range by David Epstein
 date: "2023-05-15"
 path: "/bookshelf/range"
 ---
+
 ## I. Brief Summary
+
 The underlying argument of the book is that having a broad spectrum of skills and interests is better than specializing in just one area. David Epstein encourages his readers to expand their range before becoming specializers. This allows individuals to be creative problem solvers. The book is filled with examples to support the underlying message. Perhaps too many examples which can distract readers from remembering the key lessons.
 
 ## II. Big Ideas
+
 - An early sampling period is sometimes better than a focused head start.
     - The core thesis of the books is captured neatly by a comparison between Tiger Woods and Roger Federer in the introduction of the book. 
         - Woods started young. His father saw that the young boy was a prodigy at age two, and made it his life mission to mold Tiger into the greatest golf player the world had ever seen. 
@@ -42,6 +45,7 @@ The underlying argument of the book is that having a broad spectrum of skills an
     - Match quality as a counterpoint to grit.
 
 ## III. Quotes
+
 - We learn who we are in practice, not in theory.
 - You have people walking around with all the knowledge of humanity on their phone, but they have no idea how to integrate it. We don’t train people in thinking or reasoning.
 - Modern work demands knowledge transfer: the ability to apply knowledge to new situations and different domains. Our most fundamental thought processes have changed to accommodate increasing complexity and the need to derive new patterns rather than rely only on familiar ones. Our conceptual classification schemes provide a scaffolding for connecting knowledge, making it accessible and flexible.

@@ -1,12 +1,15 @@
 ---
-title: Richer, Wiser, Happier | How The World's Greatest Investors Win In Markets And Life by William Green
+title: Richer, Wiser, Happier by William Green
 date: "2024-12-07"
 path: "/bookshelf/richer-wiser-happier.md"
 ---
+
 ## I. Brief Summary
+
 A book on investment legends. William Green is a well-known financial journalist and has access to many of the world's best investors. He shares lessons learned from his interviews of superinvestors. The book is filled with gems of wisdom and clonable concepts. If emulating these investors to become rich is nice in theory but tough to execute, emulating the way they live to become happy might not work even in theory because of their cold and difficult personalities. Nonetheless, the lessons can be fine tuned to lead a great investing and personal life.
 
 ## II. Big Ideas
+
 - Many of the investors talk about how they have created systems to mitigate risk but every system is doomed to fail because there is so much randomness that it can drive you insane.
 - The lessons shared can also be conflicting because some invest almost all of their money in just a few stocks, but that’s contrary to the advice given by Benjamin Graham (value investor legend), who says diversification is key.
 - Investors covererd in this book:
@@ -247,6 +250,7 @@ A book on investment legends. William Green is a well-known financial journalist
     - **Guy Spier**
 
 ## III. Quotes
+
 - Everything is on a path to fade. — Matthew McLennan
 - Most people make the mistake of adding too much complexity to their lives. They skim the surface, preoccupying themselves with the superficial and the extraneous. As the best investors show, sustained excellence requires us to subtract and go deep.
 - If you’re going to be in this game for the long pull, which is the way to do it, you better be able to handle a fifty percent decline without fussing too much about it. And so my lesson to all of you is, conduct your life so that you can handle the fifty percent decline with aplomb and grace. Don’t try to avoid it. It will come. In fact, I would say if it doesn’t come, you’re not being aggressive enough.

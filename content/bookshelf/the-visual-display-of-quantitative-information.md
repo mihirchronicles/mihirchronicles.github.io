@@ -3,10 +3,13 @@ title: The Visual Display Of Quantitative Information by Edward R. Tufte
 date: "2022-10-03"
 path: "/bookshelf/visual-display-of-quantitative-information"
 ---
+
 ## I. Brief Summary
+
 [Edward Tufte](https://www.edwardtufte.com/tufte/) was a professor of statistics, graphic design, and political economy at Yale University. He has been described by The New York Times as "the Leonardo da Vinci of Data". He is an expert in the presentation of informational graphics such as charts and diagrams, and is a fellow of the American Statistical Association. His idea of data-ink ratio is a great analytical tool in understanding the true information of a graph versus being a novelty visualization. In a world where visualizations are ordinary, graphical integrity is constantly being breached to get the story out at scale with facts being secondary. He provides many examples of both poor and great display of visual evidence, visual reasoning and visual understanding of quantitative information.
 
 ## II. Big Ideas
+
 - Data graphics visually display measured quantities by means of
 1the combined use of points, lines, a coordinate system, numbers, symbols, words, shading, and color. The diversity of skills required to build a graph — the visual-artistic, empirical-statistical, and mathematical. 
 - It was not until 1750-1800 that statistical graphics, length and area to show quantity, time-series, scatter-plots, and multivariate displays were invented. The remarkable William Playfair (1759-1823) developed or improved upon nearly all the fundamental graphical designs, seeking to replace conventional tables of numbers with the systematic visual representations of his linear arithmetic.
@@ -70,6 +73,7 @@ are followed:
 - Epilogue: Design is choice. The theory of the visual display of quantitative information consists of principles that generate design options and that guide choices among options. The principles should not be applied rigidly or in a peevish spirit; they are not logically or mathematically certain; and it is better to violate any principle than to place graceless or inelegant marks on paper. Most principles of design should be greeted with some skepticism, for word authority can dominate our vision, and we may come to see only through the lenses of word authority rather than with our own eyes. What is to be sought in designs for the display of information is the clear portrayal of complexity. Not the complication of the simple; rather the task of the designer is to give visual access to the subtle and the difficult – that is, the revelation of the complex.
 
 ## III. Quotes
+
 - Above all else show the data.
 - Graphics reveal data.
 - Of course, statistical graphics, just like statistical calculations, are only as good as what goes into them.

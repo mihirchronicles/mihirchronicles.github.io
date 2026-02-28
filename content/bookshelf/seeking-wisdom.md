@@ -1,5 +1,5 @@
 ---
-title: Seeking Wisdom | From Darwin To Munger by Peter Bevelin
+title: Seeking Wisdom by Peter Bevelin
 date: "2020-07-02"
 path: "/bookshelf/seeking-wisdom"
 ---

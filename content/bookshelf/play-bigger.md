@@ -1,13 +1,15 @@
 ---
-title: Play Bigger | How Rebels And Innovators Create New Categories And Dominate Markets by Al Ramadan, Dave Peterson & Christopher Lochhead
+title: Play Bigger by Al Ramadan
 date: "2021-10-27"
 path: "/bookshelf/play-bigger"
 ---
 
 ## I. Brief Summary
+
 This was given to me as a company swag by a potential investor. Category kings and category design was highly valued at this organization. I found nothing novel about this text, but category design matters. It pays off to be different versus competing for being the best. Better leads to a faster horse. Different leads to a Model T. Of course, it is not as simple. If considering how to use category design within your organization, it has some useful guides on where to start.
 
 ## II. Big Ideas
+
 - Category kings are all around us. Want a ride to your friend's place? Most likely Uber or Lyft comes to mind. These are category leaders in their areas. Category kings take it upon themselves to design a great product, a great company, and a great category at the same time. IKEA, Netflix, Salesforce, Slack, Atlassian, Alibaba and Amazon are some of the category kings.
 - The most exciting companies create. They don't sell us better. The most exciting companies sell us different...They replace our current point of view on the world with a new point of view.
 - Disruption is a by-product, not a goal. Legendary companies create new companies create new categories than generate a gravitational pull on the market. Customers rush to a new category because it makes sense to them. In some cases, people leave an old category behind, and their departure sucks the life out of it. In that way, sure, new categories disrupt old categories. But for smartest pirates, dreamers, and innovators on the plane, disruption is never the goal. Creation is the goal.
@@ -20,6 +22,7 @@ This was given to me as a company swag by a potential investor. Category kings a
 - Winning companies today market the problem, not just the solution. Uber initially built its new category around a simple, clear problem: taxi service usually sucks. Once the public understands the problem, people latch on to the most popular solution. Given all the product and service choices people must make, it can get too burdensome to research every offering. Se we pick the leader. Some of the biases that lead to making the choices are—Anchoring Effect, Choice Supportive Bias, Groupthink Bias and Conformity.
 
 ## III. Quotes
+
 - If you are a consulting company and your customers get nuked...you don't have anybody to consult to.
 - As Clayton Christensen pointed out in Innovator's Dilemma, listening to customers leads you to constantly build better, but never to be different. And different is what creates new categories. Better leads to a faster horse; different leads to a Model T.
 - The wealth goes to the kings.

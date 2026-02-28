@@ -1,13 +1,14 @@
 ---
-title: The Most Important Thing | Uncommon Sense For The Thoughtful Investing by Howard Marks 
+title: The Most Important Thing by Howard Marks 
 date: "2022-06-17"
 path: "/bookshelf/the-most-important-thing"
 ---
 
-##  Brief Summary
+## I. Brief Summary
+
 Howard Marks, the chairman and cofounder of Oaktree Capital Management, is renowned for his insightful assessments of market opportunity and risk. After four decades spent ascending to the top of the investment management profession, he is today sought out by the world's leading value investors, and his client memos brim with insightful commentary and a time-tested, fundamental philosophy. Marks's wisdom need to be sought out attentively for seasoned and as well as amateur investors. His ability to understand what drives the market while articulating those lessons to others is worth paying attention to. Learning from a practitioner who also understands academia is a worthwhile pursuit. This book in many ways is redundant because it spells out the foundational lessons of investing, specifically active investment management. However, Howard Mark has his own way of spinning those lessons and sharing them with public. I enjoy his writing very much. The main takeaway of this book is markets are psychologically driven, and if, and when an investor understands that, an investor can benefit tremendously. Experience, second-level thinking, fundamentals of human psychology, understanding risk and avoiding herd mentality are hugely beneficial in independent thinking when it comes to investing. This book has gone into my re-read section.
 
-## Big Ideas
+## II. Big Ideas
 - To achieve superior investment results, your insight into value has to be superior. Thus you must learn things others don't, see things differently or do a better job of analyzing them—ideally, all three.
 - Your view of value has to be based on a solid factual and analytical foundation, and it has to be held firmly. Only then will you know when to buy and sell. Only a strong sense of value will give you the discipline needed to take profits on a highly appreciated asset that everyone thinks will rise nonstop, or the guts to hold and average down in a crisis even as prices go lower every day. Of course, for your efforts in these regards to be profitable, your estimate of value has to be on target.
 - The relationship between price and value holds the ultimate key to investment success. Buying below value is the most dependable route to profit. Paying above value rarely works out as well.
@@ -34,7 +35,8 @@ Howard Marks, the chairman and cofounder of Oaktree Capital Management, is renow
 - Neither defensive investors who limit their losses in a decline nor aggressive investors with substantial gains in a rising market have proved they possess skill. For us to conclude that investors truly add value, we have to see how they perform in environments to which their style isn't particularly well suited. Can the aggressive investor keep from giving back gains when the market turns down? Will the defensive investor participate substantially when the market rises? This kind of asymmetry is the expression of real skill. Does an investor have more winners than losers? Are the gains on the winners bigger than the losses on the losers? Are the good years more beneficial than the bad years are painful? And are the long- term results better than the investor's style alone would suggest? These things are the mark of the superior investor. Without them, returns may be the result of little more than market movement and beta.
 - Only investors with unusual insight can regularly divine the probability distribution that governs future events and sense when the potential re. turns compensate for the risks that lurk in the distribution's negative left-hand tail. This simple description of the requirements for successful investing-based on understanding the range of possible gains and the risk of untoward developments—captures the elements that should receive your attention. I commend the task to you. It'll take you on a challenging, exciting and thought-provoking journey.
 
-## Quotes
+## III. Quotes
+
 - I like to say, “Experience is what you got when you didn’t get what you wanted.
 - There are old investors, and there are bold investors, but there are no old bold investors.
 - “Prices are too high” is far from synonymous with “the next move will be downward.” Things can be overpriced and stay that way for a long time...or become far more so.

@@ -1,13 +1,15 @@
 ---
-title: Shape Up | Stop Running In Circles And Ship Work That Matters by Ryan Singer, Jason Fried
+title: Shape Up by Ryan Singer, Jason Fried
 date: "2024-03-10"
 path: "/bookshelf/shape-up"
 ---
 
 ## I. Brief Summary
+
 A book on how Basecamp (one of my favorite organizations with inspirational founders) does software and product development. Ryan Singer introduces great analogies to reshape the mindset—shaping, appetite, bread-boarding, scopes and uphill and downhill phases of work. These are great concepts to understand which can make software and product development process effective in any organization.
 
 ## II. Big Ideas
+
 - Basecamp developed Shape Up methodology.
 - Unlike Scrum, Shape Up doesn’t use backlogs.
 - Wireframes are deemed too concrete, while words are often too abstract. When shaping a solution, the aim is to strike the right balance between too vague and too detailed.
@@ -50,6 +52,7 @@ A book on how Basecamp (one of my favorite organizations with inspirational foun
     - Idea banks: a soft “no” that leaves all options open but it doesn't go in a backlog. It gets the space to learn whether it’s really important and what it might entail.
 
 ## III. Quotes
+
 - We don’t do daily stand-ups, design sprints, development sprints, or anything remotely tied to a metaphor that includes being tired and worn out at the end.
 - Estimates start with a design and end with a number. Appetite starts with a number and ends with a design.
 - Beware the simple question: Is this possible? In software everything is possible, but nothing is free.

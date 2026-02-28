@@ -5,12 +5,15 @@ path: "/bookshelf/the-water-dancer"
 ---
 
 ## I. Brief Summary
+
 Hiram was born into bondage. When his mother was sold, Hiram didn't have any memory of her, but was gifted was a mysterious power called “Conduction.” This super power would enable him to spirit people away from their bondage. He grew up in plantation and found himself in the underground war between slavers and the enslaved. Hiram ultimately was able to rescue the family he left behind. Ta-Nehisi Coates is a great non-fiction writer, but I struggled to stay engaged. I skipped many chapters or skimmed through it fast. I enjoyed his prose.
 
 ## II. Big Ideas
+
 - none
 
 ## III. Quotes
+
 - “The way you hollering liable to wake the dead.”
 - The light of freedom had been reduced to embers, but it was still shining in me, and borne up by the winds of fear, I kept running, bent, loping, locked, but running all the same, with my whole chest aflame.
 - Hunger stole my will.

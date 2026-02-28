@@ -1,13 +1,15 @@
 ---
-title: The Art Of Doing Science And Engineering | Learning To Learn by Richard W Hamming
+title: The Art Of Doing Science And Engineering by Richard W Hamming
 date: "2022-08-07"
 path: "/bookshelf/the-art-of-doing-science-and-engineering"
 ---
 
 ## I. Brief Summary
+
 This is one of the most influential book I have read on—highly effective thinking. This book is a true gift of inspiration to humanity. A mathematician, Hamming worked on the Manhattan Project and early digital computers.  Everything we do in today’s digital world depends on Richard Hamming’s inventions. Hamming saw science and engineering at the highest levels. Hamming stresses that our society no longer values today: “With only one life to live on this earth, you ought to try to make significant contributions to humanity rather than just get along through life comfortable—that the life of trying to achieve excellence in some area is in itself a worthy goal for your life.” It is worth listening to him with wide open years because he has done it himself. Hamming describes while university is good at teaching technical skills, it's not good at teaching the thinking through the lens of multidisciplinary approach. Critical thinking is an art that engineers and scientists can be taught. This book will enhance a person's ability to function as a problem-solver of complex issues. This is an excellent book on style-of-thinking. It definitely belongs in my re-read category. I will come back to this book many times over my life.
 
 ## II. Big Ideas
+
 - This book is concerned more with future and less with the past of science and engineering. Hamming argues future predictions are uncertain and usually based on past; but the past is also much more uncertain or even falsely reported than is usually recognized. Hamming in his own words:
     - I was trying to teach “style” of thinking in science and engineering and “style” is an art, I should therefore copy the methods of teaching used for the other arts—once the fundamentals have been learned.
     - How to be a great painter cannot be taught in words; one learns by trying many different approaches that seem to surround the subject. Art teachers usually let the advanced students paint, and then make suggestions on how they would have done it, or what also be tried, more or less as the points arise in the students head—which is where the learning is supposed to occur.
@@ -186,6 +188,7 @@ This is one of the most influential book I have read on—highly effective think
 
 
 ## III. Quotes
+
 - We live in an age of exponential growth in knowledge, and it is increasingly futile to teach only polished theorems and proofs. We must abandon the guided tour through the art gallery of mathematics, and instead teach how to create the mathematics we need. In my opinions, there is no long-term practical alternative.
 - A life without a struggle on your part to make yourself excellent is hardly a life worth living.
 - Too often we see what we want to see, and therefore you need to consciously adopt a scientific attitude of doubting your own beliefs.

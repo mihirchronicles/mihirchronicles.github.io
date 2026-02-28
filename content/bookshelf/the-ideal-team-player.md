@@ -4,9 +4,8 @@ date: "2025-11-27"
 path: "/bookshelf/the-ideal-team-player"
 ---
 
-## How to Recognize and Cultivate The Three Essential Virtues
-
 ## I. Brief Summary
+
 This book was recommended to me by my boss at Builders Vision. His management style is inspired by the ethos from this book. Using a compelling narrative about a company in crisis, Patrick Lencioni provides practical tips on identifying key traits in job interviews and fostering them on your current team.
 
 ## II. Big Ideas
@@ -30,6 +29,7 @@ This book was recommended to me by my boss at Builders Vision. His management st
 - Insecurity is presented as a core reason why people fail to be ideal team players, as it leads to either arrogance or a lack of self-worth. 
 
 ## III. Quotes
+
 - I believe that teamwork is not a virtue, but rather a choice. It's a strategic decision and an intentional one, which means that it's not for everyone.
 - Leaders who can identify, hire, and cultivate employees who are humble, hungry, and smart will have a serious advantage over those who cannot.
 - Humility isn't thinking less of yourself, but thinking of yourself less. — C.S. Lewis

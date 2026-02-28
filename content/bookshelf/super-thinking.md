@@ -1,10 +1,11 @@
 ---
-title: Super Thinking by Gabriel Weinberg & Lauren McCann
+title: Super Thinking by Gabriel Weinberg
 date: "2020-07-10"
 path: "/bookshelf/super-thinking"
 ---
 
 ## I. Brief Summary
+
 Another mental models/heuristic book. Gabriel & Lauren does a great job of building model thinking via series of real life contextual stories. That is important because mental models are useful when they can all be connected. Gabriel claims super models are shortcuts to higher level of thinking. I loved the multiplication analogy.
 
 When we first learned multiplication, we also learned multiplication is just repeated addition. In fact, all mathematical operations based on arithmetic can be reduced to just addition: subtraction is just adding a negative number, division is just repeated subtraction, and so on. However, using addition for complex operations can be painfully time consuming, which is why we use multiplication in the first place. Multiplication helps us work quickly and efficiently.

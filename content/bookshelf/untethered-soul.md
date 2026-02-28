@@ -1,17 +1,20 @@
 ---
-title: The Untethered Soul | The Journey Beyond Yourself by Michael A. Singer
+title: The Untethered Soul by Michael A. Singer
 date: "2024-06-22"
 path: "/bookshelf/untethered-soul"
 ---
 
 ## I. Brief Summary
+
 A beautiful book about “you are not your thoughts.” This made me more aware of how my inner voice operates and how I can overcome it. Singer simplifies what it means to live a spiritual life. A practical book on spirituality and how to overcome inner voice which is constantly yapping away.
 
-## II. Big Ideas 
+## II. Big Ideas
+
 - The one who watches the voice objectively will solve the great mystery of life. It will unfold to you that you are not your thoughts.
 - View the thoughts in your mind as a roommate on the sofa. You wouldn’t tolerate constant unhealthy chatter from them, why accept it from your mind?
 
 ## III. Quotes
+
 - You see, you can’t fail at this because your “self” is what you are, at all times and in all places. We simply need to sort it out. After all, it can get quite confusing in there.
 - And should you choose to devote yourself to the ongoing journey of self-realization, you will develop a tremendous sense of respect for who you really are. It is only then that you will come to appreciate the full depth of meaning in the advice: “This above all: to thine own self be true.”
 - Notice that the voice takes both sides of the conversation. It doesn’t care which side it takes, just as long as it gets to keep on talking.

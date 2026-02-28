@@ -1,13 +1,15 @@
 ---
-title: The Hidden Life Of Trees | What They Feel, How They Communicate, Discoveries From A Secret World by Peter Wohlleben
+title: The Hidden Life Of Trees by Peter Wohlleben
 date: "2022-07-15"
 path: "/bookshelf/the-hidden-life-of-trees"
 ---
 
 ## I. Brief Summary
+
 After reading this book, I recognize how misunderstood trees and forests are. Humanity has always struggled to understand things that reside in a slow lane or cannot be seen through our own eyes. Modern urbanization and reforestation might seem to be optically working, however, what forests need is—uninterrupted growth time for a very long period of time. To restore what we have ruined on this planet goes beyond an average human lifespan. Peter Wohlleben clearly shares his deep love of woods. He is a student of forestry. He explains the amazing processes of life, death, and regeneration of trees which he has studied deeply that most are unaware of.
 
 ## II. Big Ideas
+
 - Trees are mostly misunderstood because they live on a different timescale than us. One of the oldest trees on Earth, a spruce in Sweden, is more than 9,500 years old. That is 115 times longer than the average human lifetime.
 - The most astonishing thing about trees is how social they are. Trees establish friendships with their surrounding neighbors via their root systems. Assistance is delivered via fungal networks around the root tips which facilitates nutrient exchange between trees. A tree is not a forest. The give and take is vital for working together. This helps in creating consistent local climate that moderates extremes of heat and cold. For this to happen, the community must remain intact no matter what. Every tree is valuable to community and worth keeping around as long as possible. The sick are supported and nourished until they recover. There are loner trees who are incapable of working with one another. 
 - How do trees communicate? They use scent. When trees are in danger from being abused by Giraffes, they start pumping toxins. Other surrounding trees start to get message as well. Chemical signals can also be found through the fungal networks.
@@ -34,6 +36,7 @@ After reading this book, I recognize how misunderstood trees and forests are. Hu
 - Forest air is the epitome of healthy air. People who want to take a deep breath of fresh air or engage in physical activity in a particularly agreeable atmosphere step out into the forest. The air is cleaner under the trees because trees act as huge filters.
 
 ## III. Quotes
+
 - Life in the slow lane is clearly not always dull.
 - A tree's most important means of staying connected to other trees is a “wood wide web” of soil fungi that connect vegetation in an infinite network that allows the sharing of an enormous amount of information and goods.
 - The wolves [in Yellowstone] turned out to be better stewards of the land than people, creating conditions that allowed the trees to grow and exert their influence on the landscape.

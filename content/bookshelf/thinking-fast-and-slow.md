@@ -3,10 +3,13 @@ title: Thinking Fast and Slow by Daniel Kahneman
 date: "2021-12-15"
 path: "/bookshelf/thinking-fast-and-slow"
 ---
+
 ## I. Brief Summary
+
 Daniel Kahneman is one of the greatest thinkers of our time. He has done an excellent job in documenting complex topics about our brain in this text. Let there be a reminder—writing anything complex in intuitive form is pretty difficult, but thankfully Kahneman is also a great writer. He deciphered several topics related to our brain in digestible form. I started reading this book earlier this year and finally finished it. To pay respect for his work and spend time understanding the concepts at its core, I had to slow down. Read this book if you want to understand why humans behave the way they behave. I am well aware of biases and the role that System 1 & System 2 plays in thinking. This book is definitely going in my re-read section.
 
 ## II. Big Ideas
+
 - The book is divided into five parts:
     - Part 1 presents the basic elements of a two-systems approach to judgment and choice. It elaborates the distinction between the automatic operations of System 1 and the controlled operations of System 2, and shows how associative memory, the core of System 1, continually constructs a coherent interpretation of what is going on in our world at any instant. 
     - Part 2 updates the study of judgment heuristics and explores a major puzzle: why is it so difficult for us to think statistically? We easily think associatively, we think metaphorically, we think causally, but statistics requires thinking about many things at once, which is something that System 1 is not designed to do. 
@@ -49,6 +52,7 @@ Daniel Kahneman is one of the greatest thinkers of our time. He has done an exce
     - Losses loom larger than gains. Kahneman points out that organisms treat threats as more urgent than opportunities.
 
 ## III. Quotes
+
 - Systematic errors are known as biases, and they recur predictably in particular circumstances.
 - Even statisticians were not good intuitive statisticians.
 - Scholars in other disciplines found it useful, and the ideas of heuristics and biases have been used productively in many fields, including medical diagnosis, legal judgment, intelligence analysis, philosophy, finance, statistics, and military strategy.

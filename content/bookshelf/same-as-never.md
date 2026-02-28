@@ -1,14 +1,16 @@
 ---
-title: Same as Ever | A Guide To What Never Changes by Morgan Housel
+title: Same as Ever by Morgan Housel
 date: "2024-01-01"
 path: "/bookshelf/same-as-never"
 ---
 
 ## I. Brief Summary
+
 Morgan Housel captures timeless lessons that are same as ever. It is a collection of stories that amplifies human behavior, patterns and psychology that never change. The timeless principles make us better in dealing with success, failure, environment and technological shifts. Focusing on what is permanent is far more rewarding than losing sleep on what is beyond our control.
 
 
 ## II. Big Ideas
+
 - Abig lesson from history is realizing how much of the world hangs by a thread. Some of the biggest and most consequential changes in history happened because of a random, unforeseeable, thoughtless encounter or decision that led to magic or mayhem.
 - The law of life is everything will change around you but human greed and fear.
 - Predicting what the world will look like 50 years from now is impossible. But predicting that people will still respond to greed, fear, opportunity, exploitation, risk, uncertainty, tribal affiliations, and social persuasion in the same way is a bet I’d take.
@@ -58,6 +60,7 @@ Morgan Housel captures timeless lessons that are same as ever. It is a collectio
     - What’s the same as ever?
 
 ## III. Quotes
+
 - This is a short book because most books about writing are filled with bullshit. I figured the shorter the book, the less bullshit.
 - New ways of looking at things create much greater innovation than new ways of doing them. — Dee Hock
 - The first rule of happiness is low expectations.

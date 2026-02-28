@@ -1,13 +1,15 @@
 ---
-title: Surely You're Joking, Mr. Feynman! | Adventures Of A Curious Character by Richard Feynman
+title: Surely You're Joking, Mr. Feynman! by Richard Feynman
 date: "2020-12-24"
 path: "/bookshelf/surely-you-are-joking-mr-feynman"
 ---
 
 ## I. Brief Summary
+
 Richard Feynman, a Nobel Prize laureate was surely a curious character. A mischievous character filled with passion to explore new things. He dabbled into art and music. He sold his art and performed in front of several audiences. He traveled the world. He was deeply philosophical and held integrity of science to its highest standards. He contributed to quantum mechanics as a physicist. He also assisted in the development of atomic bomb during the World War II. He was most importantly an educator. He had this infectious way of solving everything around him. He loved to pull pranks on everyone and the book is filled with those stories. The book is very accessible, with little technical physics. He shares his views on how to deal with the world around you.
 
 ## II. Big Ideas
+
 - Feynman applied first principles to every argument. For example when Feynman was asked whether a brick is an essential object. His response:
     - What I had intended to do was to find out whether they thought theoretical constructs were essential objects? The electron is a theory that we use; it is so useful in understanding the way nature works that we can almost call it real. I wanted to make the idea of a theory clear by analogy. In the case of the brick, my next question was going to be, “What about the inside of the brick?”—and I would then point out that no one has ever seen the inside of the brick. Every time you break the brick, you only see a surface. That the brick has an inside is a simple theory which helps us understand things better. The theory of electrons is analogous. So I began by asking, “Is a brick an essential object?”
 - Feynman on experimenting and playing:
@@ -39,6 +41,7 @@ Richard Feynman, a Nobel Prize laureate was surely a curious character. A mischi
     - It is very dangerous to have such a policy in teaching—to teach students only how to get certain results, rather than how to do an experiment with scientific integrity. So I have just one wish for you—the good luck to be somewhere where you are free to maintain the kind of integrity I have described, and where you do not feel forced by a need to maintain your position in the organization, or financial support, or so on, to lose your integrity. May you have that freedom.
 
 ## III. Quotes
+
 - The problem of having to fake and lie in order to be polite, and does this perpetual game of faking in social situations lead to the destruction of the moral fiber of society.
 - I had thought about scientific techniques for solving problems and how there are certain limitations: moral values cannot be decided by scientific methods, yak, yak, yak, and so on.
 - How does the stream of consciousness end, when you go to sleep?

@@ -1,13 +1,15 @@
 ---
-title: The War of Art | Winning The Inner Creative Battle by Steven Pressfield
+title: The War of Art by Steven Pressfield
 date: "2022-06-19"
 path: "/bookshelf/war-of-art"
 ---
 
 ## I. Brief Summary
+
 Pressfield investigates this inner voice which he calls “resistance” which prevents us from exploring our creative talent. Resistance is our biggest enemy which needs to be deeply respected because resistance will show up everywhere there is a creative battle. Pressfield offers unique ways to understand and overcome resistance. The best way to overcome resistance is to show up every day no matter how you feel or events happening around you. Some ideas from this book can be extreme because Pressfield for example labels family as a distraction (which I disagree with). But let that not be a distraction, the underlying message is still true which may allow one to cope through resistance. I never knew why creative pursuits were challenging until now, but more I read about practices of other influential artists, I understand that it is not unique to a particular person, but we all go through it, and frankly resistance never goes away.
 
 ## II. Big Ideas
+
 - The central thesis of this book is resistance is an enemy of all creatives. And every soul that has a body feels resistance. This by definition makes everyone creative. The ones who are empowered to pursue are the ones who are able to overcome resistance. To overcome resistance, a creative needs to suspend procrastination.
 - Hitler was an artist that started WWII because he was procrastinating, and, as a result of this, nobody has seen his paintings. (Seriously, Google his art. He sucked at being a decent human being but was a pretty good artist!). If we all pursued our creative outlet, so many of us can be set free and prevent Hitler esque events in the world. We can eliminate drugs, jail and misery.
 - Pressfield shows us we need to face our fears and not let those fears overtake us, not give into the resistance. Fear infects our creativity and prevents us from extracting the creative forces we need to create. Most importantly, as artists, we must be open to rejections, judgments and failures. All artists, even those that are best known to us, have experienced rejection. Use these rejections as motivation to improve your talents and skills and inspire you to love and embrace your craft even more.
@@ -52,6 +54,7 @@ Pressfield investigates this inner voice which he calls “resistance” which p
 - Going beyond resistance is the higher realm. That’s where the angels, the Muses come in. This is the opposite force of resistance. Angels who forward the weight of artists. Whether in form of spirit, religion or higher realm, invoking the Muses in favor of you will create equal force against the resistance.
 
 ## III. Quotes
+
 - Creative work is a gift to the world and every being in it. Don’t cheat us of your contribution. Give us what you’ve got.
 - If you find yourself asking yourself (and your friends), "Am I really a writer? Am I really an artist?" chances are you are. The counterfeit innovator is wildly self-confident. The real one is scared to death.
 - Are you paralyzed with fear? That’s a good sign. Fear is good. Like self-doubt, fear is an indicator. Fear tells us what we have to do. Remember one rule of thumb: the more scared we are of a work or calling, the more sure we can be that we have to do it.

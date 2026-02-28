@@ -1,13 +1,15 @@
 ---
-title: The Creative Act | A Way of Being by Rick Rubin
+title: The Creative Act by Rick Rubin
 date: "2024-01-01"
 path: "/bookshelf/the-creative-act"
 ---
 
 ## I. Brief Summary
+
 Rick Rubin provides wisdom on creativity. Rubin is a legendary music producer, and he asserts that we are all inherently creative beings. The reason we are alive is to express ourselves in the world and creating art may be the most effective and beautiful method of doing so. He provides useful ways to contextualize internal or external battles that an artist faces. This is one of the best books I have read on creative process which consists of 78 essays.
 
 ## II. Big Ideas
+
 - View the creative process through four key phases:
     - Seed: where intuition reigns supreme
     - Experimentation: is playfulness where possibilities are explored without judgment
@@ -32,6 +34,7 @@ Rick Rubin provides wisdom on creativity. Rubin is a legendary music producer, a
 - Most variables are completely out of our control. The only ones we can control are doing our best work, sharing it, starting the next, and not looking back.
 
 ## III. Quotes
+
 - All that matters is that you are making something you love, to the best of your ability, here and now.
 - If you have an idea you’re excited about and you don’t bring it to life, it’s not uncommon for the idea to find its voice through another maker. This isn’t because the other artist stole your idea, but because the idea’s time has come.
 - Living life as an artist is a practice. You are either engaging in the practice or you’re not. “Living life as an artist is a practice. You are either engaging in the practice or you’re not.  It makes no sense to say you’re not good at it. It’s like saying, “I’m not good at being a monk.” You are either living as a monk or you’re not.  We tend to think of the artist’s work as the output.  The real work of the artist is a way of being in the world.

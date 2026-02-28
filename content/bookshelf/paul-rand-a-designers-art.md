@@ -3,10 +3,13 @@ title: Paul Rand | A Designer's Art by Paul Rand
 date: "2022-08-25"
 path: "/bookshelf/paul-rand-a-designers-art"
 ---
+
 ## I. Brief Summary
+
 This is a collection of short essays about theories and ideas surrounding not only graphic design, but art and visual role in our society written by legendary Paul Rand. He was one the most influential American art directors and graphic designers. I had a privilege to listen to a story about how Morningstar's logo came about which was designed by Paul Rand. He also worked with Steve Jobs. He took the position of design consultant at companies such as ABC, UPS and IBM. In an era where creative direction and art direction was somewhat unknown, Rand was a pioneer in this area. Rand shared lessons that are timeless and still most relevant today. Driving into Rand's mind is an absolute treat! This is an alchemy of design mastery.
 
 ## II. Big Ideas
+
 - Words such as design, form, beauty, artistic, creative, and graphic are hard to design as it involves subjective interpretation.
 - Design focuses more on conception than it does on execution. The design of an idea might be conceived by a designer but it cannot come to fruition without the skills of a printer or a stone cutter.
 - Graphic design is essentially about visual relationships. It is the designer's job to select and fit the material together and make it interesting.
@@ -34,6 +37,7 @@ This is a collection of short essays about theories and ideas surrounding not on
 - The last two chapters _Politics of Design_ and _Integrity and Invention_ are worth re-reading. Rand worked with large organizations when design was at its infancy, so he knows how design was perceived in the world of commercialization. I have both chapters filled with annotations and notes. There is a lot of wisdom in them.
 
 ## III. Quotes
+
 - Design is the animating principle of all creative processes. — Vasari
 - It is no secret that the real world in which the designer functions is not the world of art, but the world of buying and selling.
 - Design is a problem-solving activity.

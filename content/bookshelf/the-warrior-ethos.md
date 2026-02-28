@@ -5,9 +5,11 @@ path: "/bookshelf/warrior-ethos"
 ---
 
 ## I. Brief Summary
+
 A short and investigate read on warrior mindset. It's a classic Pressfield book. He provides numerous examples from the lives and journeys of Alexander the Great to King Leonidas of Sparta to Arjuna from Bhagavad-Gita that leave you feeling inspired and emboldened to live by such ethos.
 
 ## II. Big Ideas
+
 - There are two types of salary, but psychological salary is the important one.
 - Opposite of fear is love.
 - The warrior's primary enemy is not an external force, but the fear and resistance within oneself.
@@ -21,6 +23,7 @@ A short and investigate read on warrior mindset. It's a classic Pressfield book.
 - Why do young men and women in a free society enlist in the military? One answer may be that the young man or woman is seeking a rite of passage. We want action. We seek to test ourselves. We want friends—real friends, who will put themselves on the line for us—and we want to do the same for them. We want to be part of something greater than ourselves, something we can be proud of.
 
 ## III. Quotes
+
 - Wars change, but warriors don’t. They live by ethos or virtues.
 - A Spartan mother handed her son his shield as he prepared to march off to battle. She said, “Come back with this or on it.”
 - The Spartans do not ask how many are the enemy but where are they.

@@ -1,12 +1,15 @@
 ---
-title: Trillions | How a Band of Wall Street Renegades Invented the Index Fund and Changed Finance Forever by Robin Wigglesworth
+title: Trillions by Robin Wigglesworth
 date: "2023-03-10"
 path: "/bookshelf/trillions"
 ---
+
 ## I. Brief Summary
+
 A great deep dive into how passive and active investing such as index funds & ETFs have changed the wealth management landscape. It is written by Robin Wigglesworth who is a well known journalist at Financial Times (FT). He draws a timeline on the evolution of index funds and ETFs. Towards the end, he warns about the limitation of index investing driven both by index funds and ETFs. The industry has done more good than harm, but with a scale at this level, Wigglesworth makes a few cracks known. The book is also filled with history lessons.
 
 ## II. Big Ideas
+
 - The wager between Warren Buffett and Ted Seides on favoring index funds against hedge funds sets up the plot for the book. Buffett bet that a fund that tracked the US stock market would beat any group of hedge fund managers over the decade ending in 2018. Protégé Partners chose five funds of funds, Buffett, the Vanguard 500 Index Trust. Ten years later, the Vanguard 500 Index Trust had trounced the funds of hedge funds, 125.8% to 36.3%. Not a single one of the funds bested the S&P 500.
 - According to Mr. Wigglesworth himself, the index fund wasn’t invented on Wall Street. It was invented on college campuses, most notably on the campus at the University of Chicago. 
 - From its theoretical underpinnings at University of Chicago to the early attempts at Wells Fargo to the rise of Vanguard (Jack Bogle) and BlackRock (Larry Fink), this book summarizes the history of passive investment industry.
@@ -25,6 +28,7 @@ A great deep dive into how passive and active investing such as index funds & ET
 - Index funds are rewiring modern finance. But so did mutual funds before them, and the investment trusts before that. Despite all the concerns, the industry is highly dynamic and can withstand the downside of these limitations. There are tools available to minimize the dangers.
 
 ## III. Quotes
+
 - Fred Schwed captured the soured view of his industry in a seminal book titled Where Are the Customers’ Yachts?
 - Over the past decade, about 80 cents of every dollar that has gone into the US investment industry has ended up at Vanguard, State Street, and BlackRock.
 - The best long-term results come from buying a big, well-diversified portfolio of financial securities, and trading as little as possible.

@@ -1,13 +1,15 @@
 ---
-title: The Psychology of Money | Timeless lessons On wealth, Greed, And Happiness by Morgan Housel
+title: The Psychology of Money by Morgan Housel
 date: "2021-07-24"
 path: "/bookshelf/psychology-of-money"
 ---
 
 ## I. Brief Summary
+
 This book triggered so many emotions at so many levels every time I flipped a chapter. I have been reading Morgan's blog since 2015 and I consider him as one of the best writers in the field of behavioral science and personal finance. Morgan has a writing power like no other—each chapter is built thread by thread, weaving in and out of each other. If I could pass this down to every single kid in the world and especially in America, this is the book I would recommend! My relationship with money and investing is personal and a lot of the lessons I have learned come from those experiences. If you want a life that is fulfilling and leads to freedom, pick this book and read it every year.
 
 ## Big Ideas
+
 The premise of this book is literally the title of this book—the psychology of money. It is not how smart you are with your money, but how you behave with your money. The book is covered with several anecdotes to drive the lessons home.
 
 I work in investment industry so a lot of the lessons shared in the book were nothing new, but the beauty of the lessons lies within Morgan's ability to write and connect ideas. One thing is clear after reading this book—money means many things to many people. What is enough for me might not be enough for someone else and vice-versa. But everyone should strive to live a peaceful life and if the financial affairs are not in order, it might impact your health and personal relationships. Just like money, habits also compound. It is worth investing in good habits and assessing our behavior around personal finance topics.
@@ -35,6 +37,7 @@ Finance is one of the greatest shows on Earth. It offers lessons in confidence, 
 - American culture stretches itself thin by consuming more than what it needs. How did we get here? What gave rise to consumerism? Morgan does a great job by taking us back to WWII. A must read chapter.
 
 ## Quotes
+
 - “A genius is the man who can do the average thing when everyone else around him is losing his mind.” — Napoleon
 - “The world is full of obvious things which nobody by any chance ever observes.” — Sherlock Holmes
 - A genius who loses control of their emotions can be a financial disaster. The opposite is also true. Ordinary folks with no financial education can be wealthy if they have a handful of behavioral skills that have nothing to do with formal measures of intelligence.

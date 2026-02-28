@@ -1,13 +1,15 @@
 ---
-title: Thinking In Systems | A Primer by Donella H. Meadows, Diana Wright
+title: Thinking In Systems by Donella H. Meadows
 date: "2023-10-31"
 path: "/bookshelf/thinking-in-systems"
 ---
 
 ## I. Brief Summary
+
 An essential primer on systems thinking which can help better understand the biggest problems we are facing in the world. They cannot be solved in isolation. Everything we see, do and experience in this world is made of systems. Why is it important to understand systems? Doing so will enable us to help them function better and identify when a broken system is in need of repair.
 
 ## II. Big Ideas
+
 - What is a system? 
     - A system is a set of things—people, cells, molecules, or whatever—interconnected in such a way that they produce their own pattern of behavior over time.
     - A system is an interconnected set of elements that is coherently organized in a way that achieves something.
@@ -42,6 +44,7 @@ An essential primer on systems thinking which can help better understand the big
 - Most of what goes wrong in systems goes wrong because of biased, late, or missing information.
 
 ## III. Quotes
+
 - We can’t control systems or figure them out. But we can dance with them!
 - If we’re to understand anything, we have to simplify, which means we have to make boundaries.
 - We don’t talk about what we see; we see only what we can talk about.

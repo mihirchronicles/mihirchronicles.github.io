@@ -1,12 +1,15 @@
 ---
-title: The Master Algorithm | How The Quest For The Ultimate Learning Machine Will Remake Our World by Pedro Domingos
+title: The Master Algorithm by Pedro Domingos
 date: "2024-07-24"
 path: "/bookshelf/the-master-algorithm.md"
 ---
+
 ## I. Brief Summary
+
 The book was recommended by Mark Cuban when I had emailed him out of the blue on his book recommendation on the topic of Artificial Intelligence. It took me several years before I picked it up. Domingos argues that the master algorithm is probably going to be a combination of the five schools of thought in the world of machine learning. I found this book really insightful.
 
 ## II. Big Ideas
+
 - The concept of a master algorithm is the unity of all knowledge.
 - Machine learning is sometimes confused with artificial intelligence (or AI for short). Technically, machine learning is a subfield of AI, but it’s grown so large and successful that it now eclipses its proud parent.
 - Every algorithm has an input and an output: the data goes into the computer, the algorithm does what it will with it, and out comes the result. Machine learning turns this around: in goes the data and the desired result and out comes the algorithm that turns one into the other. Learning algorithms—also known as learners—are algorithms that make other algorithms. With machine learning, computers write their own programs, so we don’t have to.
@@ -20,6 +23,7 @@ The book was recommended by Mark Cuban when I had emailed him out of the blue on
 - Machine learning takes many different forms and goes by many different names: pattern recognition, statistical modeling, data mining, knowledge discovery, predictive analytics, data science, adaptive systems, self-organizing systems, and more.
 
 ## III. Quotes
+
 - It’s not man versus machine; it’s man versus man with machine.
 - Just because computers can learn doesn’t mean they magically acquire a will of their own. Learners learn to achieve the goals we set them; they don’t get to change the goals.
 - Society is changing, one learning algorithm at a time.

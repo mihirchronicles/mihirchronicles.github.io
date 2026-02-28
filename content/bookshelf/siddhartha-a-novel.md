@@ -5,9 +5,11 @@ path: /bookshelf/siddhartha-a-novel
 ---
 
 ## I. Brief Summary
+
 Hermann Hesse is a Nobel Prize winner and his great work is reflected in this literature. This is by far the best novel I have read in my life. Nothing about this book is seductive, but is pure. Siddhartha, a young man leaves his family to find the spiritual enlightenment during the time of Buddha. During his pilgrimage, he meets his companion and conceives a son. It comes to a full circle when his son also leaves him. Siddartha comes to listening to a river to find the true meaning of life. The sound of the river leads to all sort of life lessons. In the end, he reconnects with Govinda to whom he shares the lessons of life. Govinda has always been searching but fails to find anything.
 
 ## II. Big Ideas
+
 - Everything is intertwined.
 - Goals are meaningless because every goal is followed by a new one.
 - Wisdom cannot be passed. It has to be experienced. But, knowledge can.
@@ -16,6 +18,7 @@ Hermann Hesse is a Nobel Prize winner and his great work is reflected in this li
 - Time is an illusion.
 
 ### III. Quotes
+
 - Your soul is the whole world.
 - A goal stood before Siddhartha, a single goal: to become empty, empty of thirst, empty of wishing, empty of dreams, empty of joy and sorrow. Dead to himself, not to be a self anymore, to find tranquility with an emptied head, to be open to miracles in unselfish thoughts, that was his goal. Once all of myself was overcome and had died, once every desire and every urge was silent in the heart, then the ultimate part of me had to awake, the innermost of my being, which is no longer myself, the great secret.
 - He went the way of self-denial by means of pain, through voluntarily suffering and overcoming pain, hunger, thirst, tiredness. He went the way of self-denial by means of meditation, through imagining the mind to be void of all conceptions.

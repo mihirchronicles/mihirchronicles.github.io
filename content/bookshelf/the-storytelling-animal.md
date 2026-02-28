@@ -1,13 +1,15 @@
 ---
-title: The Storytelling Animal | How Stories Make Us Human by Jonathan Gottschall
+title: The Storytelling Animal by Jonathan Gottschall
 date: "2022-03-31"
 path: "/bookshelf/the-storytelling-animal"
 ---
 
 ## I. Brief Summary
+
 Spinning fantasies has always been a human thing to do. Why? Because we are a storytelling animal. This is the premise of the book. But what are stories? Are dreams also stories? Why do we daydream and love spinning stories? Do stories have dark side to it? Jonathan Gottschall has done a great job of investigating these hard questions on the topic. Most successful stories are moral—they teach us how to live and bind us together around common values. It's not that we shape stories, but the stories shape us.
 
 ## II. Big Ideas
+
 - Americans spend about nineteen hundred hours per year in the glow of television and movie screens. That’s five hours per day.
 - Why are humans addicted to Neverland? How did we become the storytelling animal. Neverland is a fictional place where we wander abouut stories. Neverland mostly remains an undiscovered and unmapped country. We do not know why we crave story. We don’t know why Neverland exists in the first place.
 - Children are creatures of stories
@@ -75,6 +77,7 @@ Spinning fantasies has always been a human thing to do. Why? Because we are a st
 - Story = Character + Predicament + Attempted Extrication. This is story’s master formula, and it is intensely strange.
 
 ## III. Quotes
+
 - In short, it seems that the great dream of every statistician—of one day reading a copy of Hamlet handed over by an immortal supermonkey—is just a fantasy.
 - We are, as a species, addicted to story. Even when the body goes to sleep, the mind stays up all night, telling itself stories.
 - This book is about the primate Homo fictus (fiction man), the great ape with the storytelling mind. You might not realize it, but you are a creature of an imaginative realm called Neverland.

@@ -5,9 +5,11 @@ path: "/bookshelf/the-lessons-of-history"
 ---
 
 ## I. Brief Summary
+
 It is important to note where the history was from the lens of 60's from Durants point of view. World has evolved quite a bit when this text was written. Will & Ariel Durant can write ably about a multitude of subjects. This book is short but dense in knowledge which is my kind of book with value spread evenly across the book. Durants conclude monarchy is the most stable form of government and that church played an important role to drive moral behavior amongst individuals. They claim we'll all be united when aliens attack us, and strong and breeding society will win. This is a must read book but it paints a bleak picture how Darwinism will drive humanity. First, I don't agree with monarchy is the most stable form of government. Second, what about human ingenuity that can be drawn from hope or optimism? There are countless leaders who have used human inspiration to drive civilization. Nonetheless, this literature is important to read because if the history repeats itself and those who don't learn from history are forced to repeat it.
 
 ## II. Big Ideas
+
 The book is divided into several chapters covering major topics in relation to its history. The Durants quote René Sédillot about history having ”no sense.“ They acknowledge that our knowledge of any past is incomplete and just like science and politics, we have to operate under the condition of probability. They describe the difficulty of acquiring a full understanding of the past because it is always incomplete, probably inaccurate, documented by biased and opinionated historians and distorted by patriotic or religious views. The books is about 100 pages only. The Durants write—
 - Only a fool would try to compress a hundred centuries into a hundred pages of hazardous conclusions. We proceed.
 - Human history is a brief spot in space, and its first lesson in history.
@@ -54,6 +56,7 @@ The book is divided into several chapters covering major topics in relation to i
 - If a man is fortunate he will, before he dies, gather up as much as he can of his civilized heritage and transmit it to his children.
 
 ## III. Quotes
+
 - So the conservative who resists change is as valuable as the radical who proposes it—perhaps as much more valuable as roots are more vital than grafts. It is good that new ideas should be heard, for the sake of the few that can be used; but it is also good that new ideas should be compelled to go through the mill of objection, opposition, and contumely; this is the trial heat which innovations must survive before being allowed to enter the human race. It is good that the old should resist the young, and the young should prod the old; out of this tension, as out of the strife of the sexes and the classes, comes with a creative tensile strength, a stimulated development, a secret and basic unity and movement of the whole.
 - In that process we made note of events and comments that might illuminate present affairs, future probabilities, the nature of man, and the conduct of states.
 - We tried to defer our conclusions until we had completed our survey of the narrative, but doubtless our preformed opinions influenced our selection of illustrative material. The following essay is the result.

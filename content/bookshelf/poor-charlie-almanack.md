@@ -1,13 +1,15 @@
 ---
-title: Poor Charlie's Almanack | The Wit And Wisdom of Charles T. Munger by Peter D Kaufman
+title: Poor Charlie's Almanack by Peter D Kaufman
 date: "2021-12-04"
 path: "/bookshelf/poor-charlie-almanack"
 ---
 
 ## I. Brief Summary
+
 Charlie Munger is a brilliant individual I have come across. He is a Vice Chairman of Berkshire Hathaway and a business partner of Warren Buffett. This text is filled with Munger's wisdom on life, business and psychology. It is not an autobiography and neither an investment guide. There is a lot of cliche advice from Munger about honesty, working hard and being reliable. But there are a lot of core ideas on how to live which also translates into investment management. An accomplished man who is very intelligent and humble who is thriving in his 90s is worth listening to. The book does have its flaws and could be written in a way to synthesize the lessons more easily.
 
 ## II. Big Ideas
+
 - Always be weighing opportunities. Be wise with your spending. Then, when a huge opportunity comes knocking, be ready to bet on it.
 - Be prepared. There will be a few occasions in your lifetime when you can act promptly, and in scale. 
 - Use an analytical mind and multiple variables to find them, and bet on the ones with extremely favorable odds. 
@@ -55,6 +57,7 @@ Charlie Munger is a brilliant individual I have come across. He is a Vice Chairm
 - If you want to persuade—appeal to interest and not to reason ... You can cause enormous offense by being right in way that causes somebody else to lose face in his own discipline or hierarchy.
 
 ### III. Quotes
+
 - In my whole life, I have known no wise people (over a broad subject matter area) who didn't read all the time—none, zero. You'd be amazed at how much Warren reads—and at how much I read. My children laugh at me. They think I'm a book with a couple of legs sticking out.
 - It is a grand mistake to think of being great without goodness, and I pronounce it as certain that there was never a great man that was not at the same time truly virtuous. — Benjamin Franklin
 - Take a simple idea and take it seriously.

@@ -1,13 +1,15 @@
 ---
-title: Skunk Works | A Personal Memoir of My Years at Lockheed by Ben R. Rich and Leo Janos
+title: Skunk Works by Ben R. Rich and Leo Janos
 date: "2024-10-09"
 path: "/bookshelf/skunk-works"
 ---
 
 ## I. Brief Summary
+
  If you are a fan of aviation and aerospace, the cold war, and how the US military and government run secret operations then this book is for you. Sometimes I wonder why I didn't come across these types of book earlier. It would've totally changed my professional trajectory. This book is a brain candy for people who enjoy complex systems and hardware engineering. It is an incredible story of the design process behind some of the most amazing military aircrafts like the U-2, SR-71, and F-117 built by Lockheed making some of the greatest technology breakthroughs in the industry. The last part of book along with Chapter 14 has amazing lessons. Those lessons are still relevant today as they were back then. Ben Rich navigated the technical and political waters with ease. All managers should sit up and take notice of Skunk Works approach.
 
 ## II. Big Ideas
+
 - This book shows how small teams of very smart and very driven people can produce incredible results. Skunk Works should be taken as an example of a modus operandi for technical challenging and highly complex projects.
 - Without the Skunk Works the world most likely would look differently today—we would have seen a nuclear war, Russia “winning” the cold war or the US would never have gotten the power it became.
 - The Blackbird is _still_ one of the most amazing technical achievements in aerospace that there ever was and to this day is one of the crown jewels of American aviation.
@@ -44,6 +46,7 @@ path: "/bookshelf/skunk-works"
     - Because only a few people will be used in engineering and most other areas, ways must be provided to reward good performance by pay, not based on the number of personnel supervise
 
 ## III. Quotes
+
 - My years inside the Skunk Works, for example, convinced me of the tremendous value of building prototypes. I am a true believer. The beauty of a prototype is that it can be evaluated and its uses clarified before costly investments for large numbers are made.
 - First, it’s more important to listen than to talk; second, even a timely wrong decision is better than no decision; and third, don’t halfheartedly wound problems–kill them dead.
 - I enjoyed the goodwill of my colleagues because most of us had worked together intimately under tremendous pressures for more than a quarter century. Working isolated, under rules of tight security, instilled a camaraderie probably unique in the American workplace.

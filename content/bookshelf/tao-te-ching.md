@@ -3,10 +3,13 @@ title: Tao Te Ching by Stephen Mitchell
 date: "2022-07-24"
 path: "/bookshelf/tao-te-ching"
 ---
+
 ## I. Brief Summary
+
 Tao Te Ching (dao-de-jing) is a classic Chinese literature which was written about 2000 years ago by Lao Tzu. This is a translated version in English. To follow the Tao (way of all things) and realize their true nature is to embody humility, spontaneity, and generosity. It is not the rigidity that brings harmony in life but the softness. It's not the action that brings transformation, but the inaction. Master does not teach its students because they will find their own way. The Tao is always nameless. A master does not teach its students the art of living. This is another book on my list that has more depth per page. I will come back to it frequently.
 
 ## II. Big Ideas
+
 - Tao is deep wisdom which is one of the wonders of the world.
     - Doing not-doing which is seen as passivity, but nothing could be further from the truth. Right strokes and right movement happens by itself without any interference of the conscious will. This is the paradigm of non-action: the purest and most effective form of action. The game plays the game. The poem writes the poem.
     - Nothing happens when we trust the superior intelligence of the body and universe.
@@ -44,6 +47,7 @@ Tao Te Ching (dao-de-jing) is a classic Chinese literature which was written abo
 - Master has no possession, the more he does for others, the happier he is. The more he gives to others, the happier he is.
 
 ## III. Quotes
+
 - Where is the way to the Way? What a question!
 - He who knows doesn't talk, but words are no hindrance for him. He uses them as he would use gardening tools.
 - Coming in is life, going out is death.

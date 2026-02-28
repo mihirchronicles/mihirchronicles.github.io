@@ -5,9 +5,11 @@ path: "/bookshelf/open"
 ---
 
 ## I. Brief Summary
+
 A compelling autobiography that takes readers on a journey through the life and career of one of tennis’s most iconic and enigmatic figures — Andre Agassi. Agassi’s honesty and vulnerability shines through the book as he opens up about his conflicting emotions towards tennis. He is candid about his internal battles and the complex relationship with his father and tennis. He chronicled his rise to the top ranks of tennis, but the ride wasn't easy.
 
 ## II. Big Ideas
+
 - Don’t think, feel.
 > In the heat of the match of your life, you have to trust your thoughts and feel your way towards the outcome you so badly desire.
 
@@ -25,6 +27,7 @@ A compelling autobiography that takes readers on a journey through the life and 
 
 
 ## III. Quotes
+
 - Hate brings me to my knees, love gets me on my feet.
 - Then the only remedy is to alter my game—swing differently, run differently, do everything differently. That’s when my muscles spasm. Everyone avoids change; muscles can’t abide it. Told to change, my muscles join the spinal rebellion, and soon my whole body is at war with itself.
 - Pressure is how you know everything’s working, the doctor said. Words to live by, Doc. Soon the pain felt wonderful, almost sweet, because it was the kind that you can tell precedes relief. But maybe all pain is like that.

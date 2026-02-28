@@ -5,10 +5,12 @@ path: "/bookshelf/the-wisdom-of-finance"
 ---
 
 ## I. Brief Summary
+
 This book offers a thoughtful explanation of how money works which also recognizes how abnormal the industry can be. Desai argues that there is great value in finance. The author romanticizing a domain which is inherently rotten should raise eyebrows. Desai is a pure academician. He is a professor at Harvard Business School. Glorifying the financial industry may not sit well with everyone. Nonetheless, there are several great lessons. Desai employs literature as a device to explain the lessons of money in finance.
 
 
 ## II. Big Ideas
+
 - He rejects the idea that finance itself is flawed, but rather it has to do with quick feedback loops on their performance which makes Wall Street greedy. Desai believes through the use of humanities finance can be humanized.
 - On Probability: 
     - Our lives are dictated by chance, but how we deal with chaos, randomness, and disorder has evolved greatly over the years as humanity developed better tools to deal with probability. 
@@ -54,6 +56,7 @@ This book offers a thoughtful explanation of how money works which also recogniz
     - Ultimately, it’s all about culture, “doing the work”, and execution.
 
 ## III. Quotes
+
 - Finance has a negative reputation among the general public for being difficult to understand and full of people motivated by greed. However, understanding finance improves the ability to understand challenging situations as they arise in other areas of life.
 - Perhaps finance is deeply connected to our humanity.
 - Perhaps we can all find our way back to a more noble profession by enlivening the ideas of finance through stories that illuminate our lives and our work.

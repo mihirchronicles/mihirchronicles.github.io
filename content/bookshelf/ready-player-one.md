@@ -5,14 +5,17 @@ path: "/bookshelf/ready-player-one"
 ---
 
 ## I. Brief Summary
+
 I was motivated to read this book because everyone around me in the real world is talking about metaverse. I thought there was no better way to immerse myself in than read _Ready Player One_. It's about a kid on the street with humble beginnings, Wade Watts (avatar name, Parzival) who felt alive in this virtual utopia known as OASIS. The game was created by James Halliday who was a billionaire, but also a game creator. Halliday leaves his entire $250 billion fortune to the player who can find the Easter egg hidden in OASIS. Wade Watts spent years studying Halliday's life and practicing his favorite games and songs. The book was nostalgic with so much playfulness and humor. 
 
 ## II. Big Ideas
+
 - There is no "single player" game in real life. Though everyone played as a solo gunter (people participating on the quest were called gunters) in the beginning, but as the game goes on, Parzival soon realized to achieve a common goal in the fastest way possible to fight the enemy (IOI army), he needed a team. He collaborated with his friends Artemis, Aech, Daito, and Shoto to win the utopia quest.
 - Wade was running and hiding away constantly but he wanted to meet the girl he felt in love with in the virtual world. He couldn't see or touch Artemis until the game was over. In the end, he met all of his friends and the emotions he felt seeing them in person were nothing close to being in the virtual world. Deep connections in reality are real. We should not try to escape them.
 - Ogden Morrow (Halliday's business partner and friend) and James Halliday were introducing OASIS to an assembled crowd. Morrow continued to speak eloquently about their new virtual world. Halliday wanted to get to the meat of it. Halliday told Morrow to stop talking about their invention. Instead, Halliday wanted people to see what they’d created. Show is better than tell.
 
 ## III. Quotes
+
 - I need to tell you one last thing before I go. Something I didn’t figure out for myself until it was already too late...I created the OASIS because I never felt at home in the real world. I didn’t know how to connect with the people there. I was afraid, for all of my life. Right up until I knew it was ending. That was when I realized, as terrifying and painful as reality can be, it’s also the only place where you can find true happiness. Because reality is real. Do you understand?...Don’t make the same mistake I did. Don’t hide in here forever.
 - Going outside is highly overrated...You'd be amazed how much research you can get done when you have no life whatsoever.
 - Whenever I saw the sun, I reminded myself that I was looking at a star. One of over a hundred billion in our galaxy. A galaxy that was just one of billions of other galaxies in the observable universe. This helped me keep things in perspective.
