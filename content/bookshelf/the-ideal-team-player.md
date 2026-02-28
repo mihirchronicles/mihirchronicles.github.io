@@ -1,8 +1,10 @@
 ---
-title: The Ideal Team Player | How to Recognize and Cultivate The Three Essential Virtues by Patrick Lencioni
+title: The Ideal Team Player by Patrick Lencioni
 date: "2025-11-27"
 path: "/bookshelf/the-ideal-team-player"
 ---
+
+## How to Recognize and Cultivate The Three Essential Virtues
 
 ## I. Brief Summary
 This book was recommended to me by my boss at Builders Vision. His management style is inspired by the ethos from this book. Using a compelling narrative about a company in crisis, Patrick Lencioni provides practical tips on identifying key traits in job interviews and fostering them on your current team.
