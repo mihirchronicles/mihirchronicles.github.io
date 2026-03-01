@@ -70,6 +70,15 @@ html {
   --color-secondary-accent: #41434C;
   --color-tertiary-accent: #99cbd7;
   --color-background: #efe8d8;
+  --color-dark-inverted: #efe8d8;
+  --color-background-inverted: #0E1013;
+  --color-secondary-accent-inverted: #C9CAD0;
+}
+
+body.dark {
+  --color-dark: var(--color-dark-inverted);
+  --color-background: var(--color-background-inverted);
+  --color-secondary-accent: var(--color-secondary-accent-inverted);
 }
 
 /* HTML elements */
@@ -105,6 +114,7 @@ body {
   font-weight: var(--fontWeight-semi-normal);
   color: var(--color-dark);
   background-color: var(--color-background);
+  transition: color 0.3s ease-in-out, background-color 0.3s ease-in-out;
 }
 
 footer {
@@ -272,7 +282,7 @@ a {
 a:active,
 a:hover,
 a:focus {
-  color: var(--color-light);
+  color: var(--color-background);
   text-decoration: none;
   background-color: var(--color-dark);
   border-bottom: var(--spacing-1) solid var(--color-primary-accent);
@@ -342,6 +352,7 @@ a:focus {
 
 .nav-link:hover,
 .post-link:hover {
+  color: var(--color-background);
   background-color: var(--color-dark);
   border-bottom: var(--spacing-1) solid var(--color-primary-accent);
 }
@@ -366,8 +377,8 @@ a:focus {
 }
 
 .newsletter-container:hover .newsletter-link {
-  color: var(--color-dark);
-  background: var(--color-light);
+  color: var(--color-background);
+  background: var(--color-dark);
   -webkit-border-radius: var(--spacing-1);
   -moz-border-radius: var(--spacing-1);
   border-radius: var(--spacing-1);

@@ -32,11 +32,11 @@ const NotesIndex = ({ data, location }) => {
                 itemScope
                 itemType="http://schema.org/Article"
               > */}
-                <Link to={post.fields.slug} itemProp="url" className="post-link">
-                  <span itemProp="headline">{title}</span>
-                </Link>
-                <small><span> | </span>{post.frontmatter.date}</small>
-                {/* <section>
+              <Link to={post.fields.slug} itemProp="url" className="post-link">
+                <span itemProp="headline">{title}</span>
+              </Link>
+              <small><span> | </span>{post.frontmatter.date}</small>
+              {/* <section>
                   <p
                     dangerouslySetInnerHTML={{
                       __html: post.frontmatter.description || post.excerpt,

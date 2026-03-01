@@ -152,6 +152,10 @@ Communication requires language. The visual language of design is no exception. 
         - Modification: An object that has been slightly altered has been modified. Modification does not change the basic characteristics of an object. A rectangle whose corners have been slightly rounded still appears to be a rectangle.
         - Variation: When objects are repeated with minor variance or modification the repetition is called variance.
 
+## Color theory
+
+TBD
+
 ## Motion graphics
 
 Motion graphics are an essential part of modern media design. They are used in films, television, and digital media to create dynamic, engaging visual content. Below is a list of some key motion graphics :

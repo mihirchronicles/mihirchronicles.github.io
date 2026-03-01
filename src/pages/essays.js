@@ -15,9 +15,9 @@ const TagList = styled.ul`
 `
 
 const TagButton = styled.button`
-  background-color: ${props => props.active ? 'var(--color-primary, #0E1013)' : 'transparent'};
-  color: ${props => props.active ? 'white' : 'inherit'};
-  border: 2px solid var(--color-primary, #0E1013);
+  background-color: ${props => props.active ? 'var(--color-dark)' : 'transparent'};
+  color: ${props => props.active ? 'var(--color-background)' : 'var(--color-dark)'};
+  border: 2px solid var(--color-dark);
   border-radius: 4px;
   padding: 0.25rem 0.5rem;
   cursor: pointer;
@@ -26,7 +26,9 @@ const TagButton = styled.button`
   transition: all 0.2s ease;
 
   &:hover {
-    background-color: ${props => props.active ? 'var(--color-primary, #0E1013)' : '#ffffff'};
+    background-color: ${props => props.active ? 'var(--color-dark)' : 'var(--color-secondary-accent)'};
+    color: ${props => props.active ? 'var(--color-background)' : 'var(--color-light)'};
+    border-color: ${props => props.active ? 'var(--color-dark)' : 'var(--color-secondary-accent)'};
   }
 `
 
