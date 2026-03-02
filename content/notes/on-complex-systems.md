@@ -1,6 +1,6 @@
 ---
 title: "On Complex Systems"
-tags: ["general"]
+tags: ["on", "product"]
 date: "2023-11-17"
 draft: false
 path: "/notes/on-complex-systems"

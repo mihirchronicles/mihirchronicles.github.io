@@ -1,6 +1,6 @@
 ---
 title: "On Creative Adventures"
-tags: ["general"]
+tags: ["on", "product"]
 date: "2021-08-09"
 draft: false
 path: "/notes/on-creative-adventures"

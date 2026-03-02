@@ -1,7 +1,7 @@
 ---
 title: "On Rigorous Thinking"
 date: "2022-01-01"
-tags: ["general"]
+tags: ["on", "life"]
 draft: false
 path: "/notes/on-rigorous-thinking"
 ---

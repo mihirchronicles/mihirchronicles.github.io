@@ -53,7 +53,7 @@ const WorkIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <h1>Work</h1>
-      <p style={{ marginBottom: "4rem", maxWidth: "800px" }}>Nurturing an idea through an experimentation that blossoms into a product is an unparalleled joy. The journey of building products has broadened my understanding of various subjects and how things work. Below are the products I have had the privilege of working on.</p>
+      <p style={{ marginBottom: "4rem", maxWidth: "800px" }}>These are a few highlights of my work projects.</p>
 
       <h2>DAFgiving360 (Schwab Charitable)</h2>
       <WorkContainer>

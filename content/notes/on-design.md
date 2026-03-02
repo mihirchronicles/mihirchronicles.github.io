@@ -1,6 +1,6 @@
 ---
 title: "On Design"
-tags: ["general"]
+tags: ["on", "product"]
 date: "2022-07-29"
 draft: false
 path: "/notes/on-design"

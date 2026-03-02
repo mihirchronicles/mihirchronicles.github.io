@@ -1,6 +1,6 @@
 ---
 title: "On Examined Life"
-tags: ["general"]
+tags: ["on", "life"]
 date: "2016-01-01"
 draft: false
 path: "/notes/on-examined-life"

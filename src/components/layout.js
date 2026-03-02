@@ -12,7 +12,6 @@ const Layout = ({ location, title, children, isBlogPost = false }) => {
     header = (
       <div>
         <Link className="nav-link" to="/notes">Notes</Link>
-        <Link className="nav-link" to="/essays">Essays</Link>
         <Link className="nav-link" to="/bookshelf">Books</Link>
         <Link className="nav-link" to="/work">Work</Link>
         <Link className="nav-link" to="/art">Art</Link>

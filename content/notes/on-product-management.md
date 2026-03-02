@@ -1,6 +1,6 @@
 ---
 title: "On Product Management"
-tags: ["general"]
+tags: ["on", "product"]
 date: "2020-10-30"
 draft: false
 path: "/notes/on-product-management"

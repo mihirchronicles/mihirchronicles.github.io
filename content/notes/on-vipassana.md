@@ -1,7 +1,7 @@
 ---
 title: "On Vipassana Meditation"
 date: "2021-10-05"
-tags: ["general"]
+tags: ["on", "life"]
 draft: false
 path: "/notes/on-vipassana-meditation"
 ---

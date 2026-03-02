@@ -1,6 +1,6 @@
 ---
 title: "On Practice"
-tags: ["general"]
+tags: ["on", "product"]
 date: "2019-10-03"
 draft: false
 path: "/notes/on-practice"

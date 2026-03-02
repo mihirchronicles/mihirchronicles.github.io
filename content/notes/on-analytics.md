@@ -1,6 +1,6 @@
 ---
 title: "On Analytics"
-tags: ["general"]
+tags: ["on", "product"]
 date: "2024-05-20"
 draft: false
 path: "/notes/on-analytics"

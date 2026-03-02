@@ -1,7 +1,7 @@
 ---
 title: "On Storytelling"
 date: "2022-05-20"
-tags: ["general"]
+tags: ["on", "product"]
 draft: false
 path: "/notes/on-storytelling"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "On Programming"
-tags: ["general"]
+tags: ["on", "product"]
 date: "2017-07-06"
 draft: false
 path: "/notes/on-programming"

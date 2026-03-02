@@ -12,7 +12,7 @@ module.exports = {
     title: `The Mihir Chronicles`,
     author: {
       name: `Me here, here!`,
-      summary: `This is my playground 🕹️. A collection of deepdives 📓, book summaries 📚, essays 📜 & artwork 🎨. I build products for living. A student of human behavior & financial markets.`,
+      summary: `This is my playground 🕹️. A collection of notes 📓, book summaries 📚, artwork 🎨 & work 💼. I build products for living. A student of human behavior & financial markets.`,
     },
     description: `A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.`,
     siteUrl: `https://mihirchronicles.com/`,
@@ -42,8 +42,15 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/content/essays`,
-        name: `essays`,
+        name: `art`,
+        path: `${__dirname}/art`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `work`,
+        path: `${__dirname}/work`,
       },
     },
     {

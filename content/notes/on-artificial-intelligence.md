@@ -1,6 +1,6 @@
 ---
 title: "On Artificial Intelligence"
-tags: ["general"]
+tags: ["on", "product"]
 date: "2025-03-21"
 draft: false
 path: "/notes/on-artificial-intelligence"

@@ -1,7 +1,7 @@
 {
   "name": "mihirchronicles",
   "private": true,
-  "description": "A playground for Mihir Patel. A collection of essays, book summaries, artwork and deepdives.",
+  "description": "A playground for Mihir Patel. A collection of notes, book summaries, artwork and work showcase.",
   "version": "0.1.0",
   "author": "Mihir Patel",
   "dependencies": {

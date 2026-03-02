@@ -134,8 +134,7 @@ const ArtIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <h1>Art</h1>
-      <p>Art has been a powerful tool for me to expand my imagination and foster a sense of curiosity and creativity. Engaging in artistic endeavors provides an excellent way to escape from the mundane realities of life and allowing one to indulge in fun and playful moments.</p>
-
+      <p>Art has always been a powerful tool to expand my sense of creativity. Engaging with shapes and colors feels joyful. It helps me escape from the mundane realities of life and allows me to indulge in fun and playful moments.</p>
       <CarouselWrapper>
         <MainImageContainer>
           <NavButton className="prev" onClick={prevImage} aria-label="Previous Image">❮</NavButton>
