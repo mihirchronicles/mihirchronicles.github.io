@@ -10,7 +10,20 @@ Socrates was right about _an unexamined life is not worth living_.
 
 Life often feels like a battlefield, filled with daily struggles and challenges. However, shifting your focus to what truly matters can bring clarity and purpose. Many life lessons may seem like clichés until they are personally experienced, but without a philosophical foundation, life can feel chaotic and directionless. Pursuing a life of quality and conviction is a worthwhile endeavor, and the key to achieving it lies in understanding your own belief system.
 
-Stoicism, along with other philosophical frameworks, life experiences, and lessons learned from failures, serves as a powerful remedy for many of today’s modern problems. Below are my lessons—from personal experiences, great essays and great talks. These lessons are not rigid rules but rather guiding principles I use to hold myself accountable to a certain standard in life. They are presented in no particular order, but each holds a significance in my way to living a good and meaningful life.
+Stoicism, along with other philosophical frameworks, life experiences, and lessons learned from failures, serves as a powerful remedy for many of today’s modern problems. Below are my lessons—from personal experiences, great essays and great talks. These lessons are not rigid rules but rather guiding principles I use to hold myself accountable to a certain standard in life. 
+
+## Favorite virtues
+
+Not perfect, but below are my favorite virtues I try to live by.
+
+- **Action produces information**. Indecision is the enemy of action. It is better to take action and learn from the results than to stay stuck in indecisiveness.
+- **Cultivate high agency**. Act from internal drive, not social pressure. Lead by example, not instruction. Show, don't tell. Avoid the passive mindset.
+- **Dance with the universe**. You are responsible for your life, so design it as such. You are an author and an actor in your own story. The universe awaits—ignore it or dance with it.
+- **Now are the good old times**. Tomorrow's nostalgia is today's moment.
+- **Reject animosity**. Negative state of mind is toxic. Let love lead.
+- **Humor is the common denominator**. Humor defuses tension, humanizes the room, and strips away misery.
+- **Writing is deep introspection**. It is where you meet your ignorance face-to-face.
+- **Choose your hard**. Every choice has its price. Being fit is hard. Being unhealthy is hard. Entrepreneurship is hard. Working a 9-5 is hard. Everything is hard.
 
 ## Lessons from personal experiences
 
