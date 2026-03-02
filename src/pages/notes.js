@@ -11,6 +11,7 @@ const TagList = styled.ul`
   list-style: none;
   padding: 0;
   margin-bottom: 2rem;
+  margin-left: var(--spacing-0);
   gap: 0.5rem;
 `
 
