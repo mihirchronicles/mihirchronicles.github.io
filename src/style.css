@@ -495,7 +495,15 @@ a:focus {
     list-style: none;
     padding-left: 0;
     margin-left: 0;
-    border-left: 2.5px solid var(--color-secondary-accent);
+  }
+
+  .toc-container>nav>ul,
+  .toc-container>ul {
+    border-left: 3px solid var(--color-secondary-accent);
+  }
+
+  .toc-container ul ul {
+    border-left: none;
   }
 
   .toc-container li {
