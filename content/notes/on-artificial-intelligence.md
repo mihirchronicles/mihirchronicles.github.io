@@ -216,6 +216,43 @@ Below are a few major providers of generational LLM models.
 | [_Meta AI_](https://ai.meta.com/blog/) | FAIR (Fundamental AI Research), now known as Meta AI, is the artificial intelligence research division of Meta Platforms (formerly Facebook). It was originally launched in 2013 as Facebook Artificial Intelligence Research (FAIR) and rebranded following Facebook’s transition to Meta in 2021. FAIR was initially led by Yann LeCun, a Turing Award-winning professor from NYU and a pioneer in deep learning. He continues to serve as Meta’s Chief AI Scientist. What differentiates Meta AI from others is its push for open-source models. FAIR has made groundbreaking advancements which includes PyTorch which is an open-source deep learning framework widely used by researchers and developers globally. |
 | [_Nvidia_](https://developer.nvidia.com/ai-models) | NVIDIA is at the forefront of generative AI research, launching groundbreaking models like Nemotron-4 340B, Megatron-Turing NLG 530B, NVLM 1.0, StyleGAN, GauGAN, eDiff-I, and many more. These generative models are pre-trained for efficient enterprise application development. |
 
+## Prompt engineering
+
+A practical reference for writing effective prompts based on [Anthropic'sClaude API Docs Prompting best practices](https://www.anthropic.com/engineering/building-effective-agents) for customized for research and professional workflows. Below are my notes on effective prompt engineering.
+
+### Anti-patterns to avoid
+
+- Avoid empty calories such as “Be comprehensive” and “be meticulous” during context setting. Shouting in all-caps doesn't make the AI try harder. [Anthropic's prompt engineering guide](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering) warns that anti-laziness prompts like “be thorough” and “think carefully” can cause newer models to overthink and waste time. Replace with specific verbs:
+    - “Compare against [specific standard]”
+    - “Research current best practices for [domain]”
+    - “Flag where your approach deviates from [benchmark]”
+- By default, AI tends toward politeness and agreement. If you want honest feedback, ask your model to flag gaps and problems with your approach.
+- Use explicit threshold numbers to guide the model. For example, instead of asking for “the best possible“ solution, ask for a solution that exceeds a specific threshold of quality.
+- Avoid singular long shot context setting. Use chaining method which is to build context up through a series of exchanges. Chatbots have memory within a conversation.
+
+```markdown
+
+You: Here's my draft introduction. What are the weakest points?
+Claude: [identifies 3 issues]
+You: Rewrite paragraph 2 addressing your first point. Keep my voice.
+Claude: [rewrites]
+You: Good direction, but too formal. More like my blog voice — shorter sentences, occasional humor.
+Claude: [revises]
+You: Perfect. Now do the same for paragraph 4.
+
+```
+
+### Elements of a good prompt
+
+- **Structure** transforms a vague request into a useful output.
+- **Role** provides a role for the AI to play. Example: You are a senior associate at an investment management firm reviewing an SEC filing.
+
+### Experiment log
+
+
+### Templates
+
+
 ## Further reading
 <details>
     <summary><strong>References</strong></summary>
