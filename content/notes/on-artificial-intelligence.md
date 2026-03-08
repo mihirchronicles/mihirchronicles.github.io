@@ -203,7 +203,7 @@ These definitions were generated using Perplexity using Claude and GPT models. I
 
 ## Model factories
 
-Below are a few major providers of generational LLM models.
+Below are a few major providers of frontier models. This isn't a comprehensive list but a good place for getting started.
 
 | Model factories | Details & Reference Guides | 
 | -------------|:-------------:|
@@ -242,8 +242,6 @@ A practical reference for writing effective prompts based on [Anthropic'sClaude 
 ```
 
 ### Elements of a good prompt
-
-
 
 1. **Structure** transforms a vague request into a useful output.
 
@@ -308,11 +306,11 @@ A practical reference for writing effective prompts based on [Anthropic'sClaude 
         - Patterns: What recurring themes do you notice across your most successful outcomes?
         - Clarifications: Is there anything shared so far that seems contradictory or needs detail?
         ```
+4. Constraints
+5. Task
+6. Output Format
 
 ### Experiment log
-
-
-### Templates
 
 
 ## Further reading
