@@ -223,7 +223,7 @@ A practical reference for writing effective prompts based on [Anthropic'sClaude 
 ### Anti-patterns to avoid
 
 - Avoid empty calories such as “Be comprehensive” and “be meticulous” during context setting. 
-- ßShouting in all-caps doesn't make the AI try harder. [Anthropic's prompt engineering guide](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering) warns that anti-laziness prompts like “be thorough” and “think carefully” can cause newer models to overthink and waste time. Replace with specific verbs:
+- Shouting in all-caps doesn't make the AI try harder. [Anthropic's prompt engineering guide](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering) warns that anti-laziness prompts like “be thorough” and “think carefully” can cause newer models to overthink and waste time. Replace with specific verbs:
     - “Compare against [specific standard]”
     - “Research current best practices for [domain]”
     - “Flag where your approach deviates from [benchmark]”
