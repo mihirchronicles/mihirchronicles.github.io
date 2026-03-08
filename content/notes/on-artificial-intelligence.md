@@ -265,21 +265,6 @@ Following are the elements of effective prompt engineering.
         `[Review output, then...]`
         `Prompt 2`: Based on the trends you identified, write a 2 paragprah executive summary for a non-technical audience.
         ```
-    - **Interview questions** for LLM to extract more information and fill gaps. Store this as an `interview.md` file in your `project` folder.
-        ```markdown
-        - **Stakeholders**: Who is involved, and what are their individual preferences?
-        - **Aversions**: What does everyone specifically dislike or want to avoid?
-        - **Hard Constraints**: What are your non-negotiable limits (e.g., budget, deadlines, physical constraints)?
-        - **Thresholds**: What specific metrics or ranges matter most (e.g., time, distance, climate)?
-        - **Successes**: Which past experiences worked best, and what specific conditions made them successful?
-        - **Failures**: What past experiences failed, and exactly what went wrong?
-        - **Logistics**: What is your standard logistical setup (e.g., preferred tools, environment, or pace)?
-        - **Flexibility**: Which trade-offs are you typically willing to make?
-        - **Non-Negotiable**: Where are you completely unwilling to compromise?
-        - **Behavioral Rules**: Are there specific things I should always or never do when assisting you?
-        - **Patterns**: What recurring themes do you notice across your most successful outcomes?
-        - **Clarifications**: Is there anything shared so far that seems contradictory or needs detail?
-        ```
     - **Tagging**: separate instructions from content. When pasting long documents, LLMs can struggle to distinguish your instructions from the provided text. XML-style tags (e.g., <instructions> or <document>) act as clear boundaries to prevent this instruction-data confusion.They eliminate ambiguity, so the model doesn't have to guess where your command ends and the data begins.
         ``` markdown
         <context>
@@ -301,6 +286,23 @@ Following are the elements of effective prompt engineering.
 ### Templates
 
 Following are the templates to getting started with LLMs. 
+
+0. `interview_quesitons.md`: This file helps extract more information out to fill gaps in your context prompts. Store this in your `project` folder and have the model ask these questions before creating any ouput.
+
+```markdown
+- **Stakeholders**: Who is involved, and what are their individual preferences?
+- **Aversions**: What does everyone specifically dislike or want to avoid?
+- **Hard Constraints**: What are your non-negotiable limits (e.g., budget, deadlines, physical constraints)?
+- **Thresholds**: What specific metrics or ranges matter most (e.g., time, distance, climate)?
+- **Successes**: Which past experiences worked best, and what specific conditions made them successful?
+- **Failures**: What past experiences failed, and exactly what went wrong?
+- **Logistics**: What is your standard logistical setup (e.g., preferred tools, environment, or pace)?
+- **Flexibility**: Which trade-offs are you typically willing to make?
+- **Non-Negotiable**: Where are you completely unwilling to compromise?
+- **Behavioral Rules**: Are there specific things I should always or never do when assisting you?
+- **Patterns**: What recurring themes do you notice across your most successful outcomes?
+- **Clarifications**: Is there anything shared so far that seems contradictory or needs detail?
+```
 
 1. `context_file.md`: This gives model the conditions under which this context builds up from.
 
@@ -435,7 +437,7 @@ Be specific. “Uses short sentences” is useless. “Lead sentences average 8 
 
 <vocabulary_preference>
 - Prefer verbs: [your active vocabulary: “deliver”, “target”, “measure”, “verify”, “reduce”, “scale”]
-- Avoid phrases: [your ban list: “leverage”, “synergy”, “robust and comprehensive”, “delve”, “multifaceted”, “foster”, “navigate”, “compelling”, “pivotal”, “transformative"] 
+- Avoid phrases: [your ban list: “leverage”, “synergy”, “robust and comprehensive”, “delve”, “multifaceted”, “foster”, “navigate”, “compelling”, “pivotal”, “transformative”] 
 - Domain-specific avoidances: [instead of “we believe” use “we estimate,” instead of “evidence suggests” use “evidence supports”]
 </vocabulary_preference>
 
