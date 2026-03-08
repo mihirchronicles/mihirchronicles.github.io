@@ -222,7 +222,8 @@ A practical reference for writing effective prompts based on [Anthropic'sClaude 
 
 ### Anti-patterns to avoid
 
-- Avoid empty calories such as “Be comprehensive” and “be meticulous” during context setting. Shouting in all-caps doesn't make the AI try harder. [Anthropic's prompt engineering guide](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering) warns that anti-laziness prompts like “be thorough” and “think carefully” can cause newer models to overthink and waste time. Replace with specific verbs:
+- Avoid empty calories such as “Be comprehensive” and “be meticulous” during context setting. 
+- ßShouting in all-caps doesn't make the AI try harder. [Anthropic's prompt engineering guide](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering) warns that anti-laziness prompts like “be thorough” and “think carefully” can cause newer models to overthink and waste time. Replace with specific verbs:
     - “Compare against [specific standard]”
     - “Research current best practices for [domain]”
     - “Flag where your approach deviates from [benchmark]”
@@ -231,21 +232,82 @@ A practical reference for writing effective prompts based on [Anthropic'sClaude 
 - Avoid singular long shot context setting. Use chaining method which is to build context up through a series of exchanges. Chatbots have memory within a conversation.
 
 ```markdown
-
-You: Here's my draft introduction. What are the weakest points?
-Claude: [identifies 3 issues]
-You: Rewrite paragraph 2 addressing your first point. Keep my voice.
-Claude: [rewrites]
-You: Good direction, but too formal. More like my blog voice — shorter sentences, occasional humor.
-Claude: [revises]
-You: Perfect. Now do the same for paragraph 4.
-
+`You`: Here's my draft introduction. What are the weakest points?
+`LLM`: [identifies 3 issues]
+`You`: Rewrite paragraph 2 addressing your first point. Keep my voice.
+`LLM`: [rewrites]
+`You`: Good direction, but too formal. More like my blog voice — shorter sentences, occasional humor.
+`LLM`: [revises]
+`You`: Perfect. Now do the same for paragraph 4.
 ```
 
 ### Elements of a good prompt
 
-- **Structure** transforms a vague request into a useful output.
-- **Role** provides a role for the AI to play. Example: You are a senior associate at an investment management firm reviewing an SEC filing.
+
+
+1. **Structure** transforms a vague request into a useful output.
+
+```markdown
+`Weak prompt`: Help me write an abstract for my paper.
+
+`Strong prompt`: I’m writing a 1,500-word academic paper on the impact of corporate governance on  local environment. The target audience is urban planning regulators. The tone should be formal and evidence-based. The key findings are: [list 3 key findings]. Please draft a 250-word abstract that highlights these findings and their implications for policy makers [include citations].
+```
+    
+2. **Role** provides a role for the AI to play. 
+
+```markdown
+`Role`: You are a senior associate at an investment management firm reviewing SEC filings.
+```
+
+3. **Context** provides the necessary background information for the AI to understand the request.
+    - **Chaining**: Decompose complex tasks into sequential, focused prompts to allow for intermediate course correction. This prevents errors from compounding and is ideal for iterative research or analysis where direction shifts based on intermediate results.
+
+        ``` markdown
+        **Single prompt**: Analyze this dataset, identify trends, and write an executive summary.
+
+        **Chaining**:
+        `Prompt 1`: Analyze this dataset and identify the 5 most significant trends. For each, explain the evidence. 
+        `[Review output, then...]`
+        `Prompt 2`: Based on the trends you identified, write a 2 paragprah executive summary for a non-technical audience.
+        ```
+    - **Tagging**: separate instructions from content. When pasting long documents, LLMs can struggle to distinguish your instructions from the provided text. XML-style tags (e.g., <instructions> or <document>) act as clear boundaries to prevent this instruction-data confusion.They eliminate ambiguity, so the model doesn't have to guess where your command ends and the data begins.
+
+        ``` markdown
+        <context>
+        This gives model the conditions under which this context builds up from. 
+        </context>
+
+        <notes>
+        This teaches what to notice. The more examples you give, the better the model will understand what it is looking for.
+        </notes>
+
+        <instructions>
+        Summarize the key findings from this paper. Focus on methodology and results. Keep it under 300 words.
+        </instructions>
+
+        <paper>
+        [Full paper text pasted here...]
+        </paper>
+
+        <output_format>
+        Three sections: (1) Method, (2) Key findings, (3) Limitations.
+        </output_format>
+        ```
+    - Interview questions for LLM to extract more information and fill gaps. Store this as an `interview.md` file in your `project` folder.
+        ```markdown
+        - Stakeholders: Who is involved, and what are their individual preferences?
+        - Aversions: What does everyone specifically dislike or want to avoid?
+        - Hard Constraints: What are your non-negotiable limits (e.g., budget, deadlines, physical constraints)?
+        - Thresholds: What specific metrics or ranges matter most (e.g., time, distance, climate)?
+        - Successes: Which past experiences worked best, and what specific conditions made them successful?
+        - Failures: What past experiences failed, and exactly what went wrong?
+        - Logistics: What is your standard logistical setup (e.g., preferred tools, environment, or pace)?
+        - Flexibility: Which trade-offs are you typically willing to make?
+        - Non-Negotiables: Where are you completely unwilling to compromise?
+        - Behavioral Rules: Are there specific things I should always or never do when assisting you?
+        - Patterns: What recurring themes do you notice across your most successful outcomes?
+        - Clarifications: Is there anything shared so far that seems contradictory or needs detail?
+        ```
 
 ### Experiment log
 
