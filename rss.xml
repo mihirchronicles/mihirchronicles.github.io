@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 07 Mar 2026 18:52:21 GMT</lastBuildDate><item><title><![CDATA[Doomer Mentality]]></title><description><![CDATA[The weight of the world feels heavier when you are responsible for small shoulders. As a father to my 3-year-old and one on the way, I feel…]]></description><link>https://mihirchronicles.com/doomer-mentality/</link><guid isPermaLink="false">https://mihirchronicles.com/doomer-mentality/</guid><pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;The weight of the world feels heavier when you are responsible for small shoulders. As a father to my 3-year-old and one on the way, I feel uneasy to pass cynical views on to my children.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mihirchronicles RSS Feed]]></title><description><![CDATA[A personal site of Mihir Patel. Book summaries, deepdive notes, short essays and art.]]></description><link>https://mihirchronicles.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 08 Mar 2026 12:32:56 GMT</lastBuildDate><item><title><![CDATA[Doomer Mentality]]></title><description><![CDATA[The weight of the world feels heavier when you are responsible for small shoulders. As a father to my 3-year-old and one on the way, I feel…]]></description><link>https://mihirchronicles.com/doomer-mentality/</link><guid isPermaLink="false">https://mihirchronicles.com/doomer-mentality/</guid><pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;The weight of the world feels heavier when you are responsible for small shoulders. As a father to my 3-year-old and one on the way, I feel uneasy to pass cynical views on to my children.&lt;/p&gt;
 &lt;p&gt;To address this head on, I conducted an exercise to assess my levels of cynicism, optimism, and pessimism from several days of journaling. Then I rated where I stand with each one of them.&lt;/p&gt;
 &lt;p&gt;The ratings came back stark. Moderately cynical. Low optimism. Very high pessimism. It is evident that my assessment of the world is quite negative. Not the inheritance I&apos;d hope to leave.&lt;/p&gt;
 &lt;p&gt;This wasn&apos;t always my default setting. My experiences played a significant role in shaping those perspectives. Besides that, the perpetual 24/7 information flow now defines modern existence. We carry the world&apos;s suffering in our pockets.&lt;/p&gt;
@@ -727,7 +727,8 @@ Urgency is a force multiplier when your goals are clean because it kills hesitat
 &lt;p&gt;A practical reference for writing effective prompts based on &lt;a href=&quot;https://www.anthropic.com/engineering/building-effective-agents&quot;&gt;Anthropic&apos;sClaude API Docs Prompting best practices&lt;/a&gt; for customized for research and professional workflows. Below are my notes on effective prompt engineering.&lt;/p&gt;
 &lt;h3 id=&quot;anti-patterns-to-avoid&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#anti-patterns-to-avoid&quot; aria-label=&quot;anti patterns to avoid permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Anti-patterns to avoid&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Avoid empty calories such as “Be comprehensive” and “be meticulous” during context setting. Shouting in all-caps doesn&apos;t make the AI try harder. &lt;a href=&quot;https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering&quot;&gt;Anthropic&apos;s prompt engineering guide&lt;/a&gt; warns that anti-laziness prompts like “be thorough” and “think carefully” can cause newer models to overthink and waste time. Replace with specific verbs:
+&lt;li&gt;Avoid empty calories such as “Be comprehensive” and “be meticulous” during context setting.&lt;/li&gt;
+&lt;li&gt;ßShouting in all-caps doesn&apos;t make the AI try harder. &lt;a href=&quot;https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering&quot;&gt;Anthropic&apos;s prompt engineering guide&lt;/a&gt; warns that anti-laziness prompts like “be thorough” and “think carefully” can cause newer models to overthink and waste time. Replace with specific verbs:
 &lt;ul&gt;
 &lt;li&gt;“Compare against [specific standard]”&lt;/li&gt;
 &lt;li&gt;“Research current best practices for [domain]”&lt;/li&gt;
@@ -738,20 +739,76 @@ Urgency is a force multiplier when your goals are clean because it kills hesitat
 &lt;li&gt;Use explicit threshold numbers to guide the model. For example, instead of asking for “the best possible“ solution, ask for a solution that exceeds a specific threshold of quality.&lt;/li&gt;
 &lt;li&gt;Avoid singular long shot context setting. Use chaining method which is to build context up through a series of exchanges. Chatbots have memory within a conversation.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;
-You: Here&apos;s my draft introduction. What are the weakest points?
-Claude: [identifies 3 issues]
-You: Rewrite paragraph 2 addressing your first point. Keep my voice.
-Claude: [rewrites]
-You: Good direction, but too formal. More like my blog voice — shorter sentences, occasional humor.
-Claude: [revises]
-You: Perfect. Now do the same for paragraph 4.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token code-snippet code keyword&quot;&gt;`You`&lt;/span&gt;: Here&apos;s my draft introduction. What are the weakest points?
+&lt;span class=&quot;token code-snippet code keyword&quot;&gt;`LLM`&lt;/span&gt;: [identifies 3 issues]
+&lt;span class=&quot;token code-snippet code keyword&quot;&gt;`You`&lt;/span&gt;: Rewrite paragraph 2 addressing your first point. Keep my voice.
+&lt;span class=&quot;token code-snippet code keyword&quot;&gt;`LLM`&lt;/span&gt;: [rewrites]
+&lt;span class=&quot;token code-snippet code keyword&quot;&gt;`You`&lt;/span&gt;: Good direction, but too formal. More like my blog voice — shorter sentences, occasional humor.
+&lt;span class=&quot;token code-snippet code keyword&quot;&gt;`LLM`&lt;/span&gt;: [revises]
+&lt;span class=&quot;token code-snippet code keyword&quot;&gt;`You`&lt;/span&gt;: Perfect. Now do the same for paragraph 4.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h3 id=&quot;elements-of-a-good-prompt&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#elements-of-a-good-prompt&quot; aria-label=&quot;elements of a good prompt permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Elements of a good prompt&lt;/h3&gt;
-&lt;ul&gt;
+&lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Structure&lt;/strong&gt; transforms a vague request into a useful output.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Role&lt;/strong&gt; provides a role for the AI to play. Example: You are a senior associate at an investment management firm reviewing an SEC filing.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token code-snippet code keyword&quot;&gt;`Weak prompt`&lt;/span&gt;: Help me write an abstract for my paper.
+
+&lt;span class=&quot;token code-snippet code keyword&quot;&gt;`Strong prompt`&lt;/span&gt;: I’m writing a 1,500-word academic paper on the impact of corporate governance on  local environment. The target audience is urban planning regulators. The tone should be formal and evidence-based. The key findings are: [list 3 key findings]. Please draft a 250-word abstract that highlights these findings and their implications for policy makers [include citations].&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Role&lt;/strong&gt; provides a role for the AI to play.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token code-snippet code keyword&quot;&gt;`Role`&lt;/span&gt;: You are a senior associate at an investment management firm reviewing SEC filings.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Context&lt;/strong&gt; provides the necessary background information for the AI to understand the request.
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Chaining&lt;/strong&gt;: Decompose complex tasks into sequential, focused prompts to allow for intermediate course correction. This prevents errors from compounding and is ideal for iterative research or analysis where direction shifts based on intermediate results.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token bold&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Single prompt&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;/span&gt;: Analyze this dataset, identify trends, and write an executive summary.
+
+&lt;span class=&quot;token bold&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Chaining&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;/span&gt;:
+&lt;span class=&quot;token code-snippet code keyword&quot;&gt;`Prompt 1`&lt;/span&gt;: Analyze this dataset and identify the 5 most significant trends. For each, explain the evidence. 
+&lt;span class=&quot;token code-snippet code keyword&quot;&gt;`[Review output, then...]`&lt;/span&gt;
+&lt;span class=&quot;token code-snippet code keyword&quot;&gt;`Prompt 2`&lt;/span&gt;: Based on the trends you identified, write a 2 paragprah executive summary for a non-technical audience.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Tagging&lt;/strong&gt;: separate instructions from content. When pasting long documents, LLMs can struggle to distinguish your instructions from the provided text. XML-style tags (e.g., &lt;instructions&gt; or &lt;document&gt;) act as clear boundaries to prevent this instruction-data confusion.They eliminate ambiguity, so the model doesn&apos;t have to guess where your command ends and the data begins.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;context&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+This gives model the conditions under which this context builds up from. 
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;context&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;notes&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+This teaches what to notice. The more examples you give, the better the model will understand what it is looking for.
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;notes&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;instructions&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+Summarize the key findings from this paper. Focus on methodology and results. Keep it under 300 words.
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;instructions&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;paper&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+[Full paper text pasted here...]
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;paper&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;output_format&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+Three sections: (1) Method, (2) Key findings, (3) Limitations.
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;output_format&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Interview questions for LLM to extract more information and fill gaps. Store this as an &lt;code class=&quot;language-text&quot;&gt;interview.md&lt;/code&gt; file in your &lt;code class=&quot;language-text&quot;&gt;project&lt;/code&gt; folder.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Stakeholders: Who is involved, and what are their individual preferences?
+&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Aversions: What does everyone specifically dislike or want to avoid?
+&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Hard Constraints: What are your non-negotiable limits (e.g., budget, deadlines, physical constraints)?
+&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Thresholds: What specific metrics or ranges matter most (e.g., time, distance, climate)?
+&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Successes: Which past experiences worked best, and what specific conditions made them successful?
+&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Failures: What past experiences failed, and exactly what went wrong?
+&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Logistics: What is your standard logistical setup (e.g., preferred tools, environment, or pace)?
+&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Flexibility: Which trade-offs are you typically willing to make?
+&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Non-Negotiables: Where are you completely unwilling to compromise?
+&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Behavioral Rules: Are there specific things I should always or never do when assisting you?
+&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Patterns: What recurring themes do you notice across your most successful outcomes?
+&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Clarifications: Is there anything shared so far that seems contradictory or needs detail?&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h3 id=&quot;experiment-log&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#experiment-log&quot; aria-label=&quot;experiment log permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Experiment log&lt;/h3&gt;
 &lt;h3 id=&quot;templates&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#templates&quot; aria-label=&quot;templates permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Templates&lt;/h3&gt;
 &lt;h2 id=&quot;further-reading&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#further-reading&quot; aria-label=&quot;further reading permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Further reading&lt;/h2&gt;
