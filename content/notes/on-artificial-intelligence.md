@@ -241,77 +241,210 @@ A practical reference for writing effective prompts based on [Anthropic'sClaude 
 `You`: Perfect. Now do the same for paragraph 4.
 ```
 
-### Elements of a good prompt
+### Effective prompts
+
+Following are the elements of effective prompt engineering.
 
 1. **Structure** transforms a vague request into a useful output.
-
 ```markdown
 `Weak prompt`: Help me write an abstract for my paper.
 
 `Strong prompt`: I’m writing a 1,500-word academic paper on the impact of corporate governance on  local environment. The target audience is urban planning regulators. The tone should be formal and evidence-based. The key findings are: [list 3 key findings]. Please draft a 250-word abstract that highlights these findings and their implications for policy makers [include citations].
 ```
-    
 2. **Role** provides a role for the AI to play. 
-
 ```markdown
 `Role`: You are a senior associate at an investment management firm reviewing SEC filings.
 ```
-
 3. **Context** provides the necessary background information for the AI to understand the request.
     - **Chaining**: Decompose complex tasks into sequential, focused prompts to allow for intermediate course correction. This prevents errors from compounding and is ideal for iterative research or analysis where direction shifts based on intermediate results.
-
         ``` markdown
         **Single prompt**: Analyze this dataset, identify trends, and write an executive summary.
 
-        **Chaining**:
+        **Chaining prompts**:
         `Prompt 1`: Analyze this dataset and identify the 5 most significant trends. For each, explain the evidence. 
         `[Review output, then...]`
         `Prompt 2`: Based on the trends you identified, write a 2 paragprah executive summary for a non-technical audience.
         ```
+    - **Interview questions** for LLM to extract more information and fill gaps. Store this as an `interview.md` file in your `project` folder.
+        ```markdown
+        - **Stakeholders**: Who is involved, and what are their individual preferences?
+        - **Aversions**: What does everyone specifically dislike or want to avoid?
+        - **Hard Constraints**: What are your non-negotiable limits (e.g., budget, deadlines, physical constraints)?
+        - **Thresholds**: What specific metrics or ranges matter most (e.g., time, distance, climate)?
+        - **Successes**: Which past experiences worked best, and what specific conditions made them successful?
+        - **Failures**: What past experiences failed, and exactly what went wrong?
+        - **Logistics**: What is your standard logistical setup (e.g., preferred tools, environment, or pace)?
+        - **Flexibility**: Which trade-offs are you typically willing to make?
+        - **Non-Negotiable**: Where are you completely unwilling to compromise?
+        - **Behavioral Rules**: Are there specific things I should always or never do when assisting you?
+        - **Patterns**: What recurring themes do you notice across your most successful outcomes?
+        - **Clarifications**: Is there anything shared so far that seems contradictory or needs detail?
+        ```
     - **Tagging**: separate instructions from content. When pasting long documents, LLMs can struggle to distinguish your instructions from the provided text. XML-style tags (e.g., <instructions> or <document>) act as clear boundaries to prevent this instruction-data confusion.They eliminate ambiguity, so the model doesn't have to guess where your command ends and the data begins.
-
         ``` markdown
         <context>
-        This gives model the conditions under which this context builds up from. 
+        This gives model the conditions under which this context builds up from.
         </context>
-
-        <notes>
-        This teaches what to notice. The more examples you give, the better the model will understand what it is looking for.
-        </notes>
-
         <instructions>
         Summarize the key findings from this paper. Focus on methodology and results. Keep it under 300 words.
         </instructions>
-
-        <paper>
-        [Full paper text pasted here...]
-        </paper>
-
-        <output_format>
-        Three sections: (1) Method, (2) Key findings, (3) Limitations.
-        </output_format>
         ```
-    - Interview questions for LLM to extract more information and fill gaps. Store this as an `interview.md` file in your `project` folder.
-        ```markdown
-        - Stakeholders: Who is involved, and what are their individual preferences?
-        - Aversions: What does everyone specifically dislike or want to avoid?
-        - Hard Constraints: What are your non-negotiable limits (e.g., budget, deadlines, physical constraints)?
-        - Thresholds: What specific metrics or ranges matter most (e.g., time, distance, climate)?
-        - Successes: Which past experiences worked best, and what specific conditions made them successful?
-        - Failures: What past experiences failed, and exactly what went wrong?
-        - Logistics: What is your standard logistical setup (e.g., preferred tools, environment, or pace)?
-        - Flexibility: Which trade-offs are you typically willing to make?
-        - Non-Negotiables: Where are you completely unwilling to compromise?
-        - Behavioral Rules: Are there specific things I should always or never do when assisting you?
-        - Patterns: What recurring themes do you notice across your most successful outcomes?
-        - Clarifications: Is there anything shared so far that seems contradictory or needs detail?
-        ```
-4. Constraints
-5. Task
-6. Output Format
+4. **Constraints** provide boundaries as opposed to conducting an open ended exploration.
+    - Ask LLMS to keep the response under x amount of words. Shorter prompts produce better adherence. Aim for 300-500 words.
+    - Be explicit on what the research should be focused on. For example, focus on identification strategy and spend less time on implementation details. Or vice versa. 
+    - Focus on using top-5 journal and avoiding forum discussions.
+    - Give the model the pushback permission so it doesn' agree with everything.
 
-### Experiment log
+5. **Research preferences** allows the model to explicity execute based on your preferences. For example, use explicit threshold numbers, not adjectives - “Prefer daytime highs 65-80°F; flag anything over 85°F“ not “we like mild weather.” 
+6. **Voice spec** gives the model an explicit direction on how to set the style and tone of the output.
 
+### Templates
+
+Following are the templates to getting started with LLMs. 
+
+1. `context_file.md`: This gives model the conditions under which this context builds up from.
+
+``` markdown
+<context>
+This gives model the conditions under which this context builds up from.
+1. Audience: Foundation program officer
+2. Purpose: Justify a budget increase for fieldwork
+3. Constraints: 1 paragraph, under 100 words
+</context>
+
+<notes>
+This teaches what to notice. The more examples you give, the better the model will understand what it is looking for.
+1. Opens with the problem, not background
+2. Quantifies everything (40%, $12,000, 6 visits, 30%)
+3. Four sentences, no hedging
+4. Ends with stakes, not a request
+</notes>
+
+<example_text>
+We underestimated travel costs by 40%. Fuel prices in northern Uganda tripled since the proposal. We need an additional $12,000 to complete the remaining 6 site visits. Without them, we lose 30% of our sample.
+</example_text>
+
+<instructions>
+Summarize the key findings from this paper. Focus on methodology and results. Keep it under 300 words.
+</instructions>
+
+<paper>
+[Full paper text pasted here...]
+</paper>
+
+<output_format>
+Three sections: (1) Method, (2) Key findings, (3) Limitations.
+
+Use short paragraphs, no bullet points. This is narrative prose. Remember: the goal is to produce a thesis for the investment committe to approve an investment proposal not to create a journal paper. Keep the tone accessible and emphasize the practical plan to invest in the company to produce market rate level returns while creating a larger impact on food and agriculture sector.
+</output_format>
+
+<deliverables>
+**1.1 [Deliverable type 1 — e.g., 1-page policy note]**
+1. Bottom line (2–3 sentences): problem → proposed action → why it's worth it
+2. What we know (evidence in bullets, with numbers)
+3. Proposed intervention / program (what changes in the world)
+4. Implementation plan (who, where, timeline)
+5. Risks + mitigations (3–5 bullets)
+6. What you need from the reader (the ask)
+
+**1.2 [Deliverable type 2 — e.g., project summary]**
+1. Summary in 5 bullets
+2. Objective + theory of change
+3. Design (what, where, who, when)
+4. Measurement + outputs
+5. Current status + next milestones
+6. Risks / dependencies
+
+**1.3 [Deliverable type 3 — e.g., funding proposal section]**
+1. Problem + stakes (quantify)
+2. Approach (what is new, what is proven)
+3. Evidence (prior results)
+4. Plan + timeline + deliverables
+5. Team + governance + partners
+6. Financial projections + returns
+7. Risks + mitigations
+8. Why to fund, why now
+
+</deliverables>
+```
+
+2. `domain-context.md`: Use the following template to provide domain specific instructions.
+``` markdown
+# [DOMAIN] Context
+
+## Key Instructions
+- [BEHAVIORAL RULE: e.g., “Be analytical, not agreeable. Offer critical opinions.”]
+- [BEHAVIORAL RULE: e.g., “Always flag potential problems before I ask.”]
+- [BEHAVIORAL RULE: e.g., “Provide 1.5-2x more options than needed so I can choose.”]
+
+## People & Preferences
+### [Person 1]
+- Priorities: [what they care about most]
+- Also enjoys: [secondary interests]
+- Avoids: [explicit dislikes — be specific]
+
+### [Person 2]
+- Priorities: [...]
+- Avoids: [...]
+
+## Hard Constraints
+- Budget: [specific ceiling, e.g., “under $300/night accommodation, $150/day activities”]
+- Time windows: [when this typically happens]
+- [Other constraint]: [with threshold number]
+- [Other constraint]: [with threshold number]
+
+## Logistics & Preferences
+- [How you typically handle logistics in this domain]
+- [Pace/style preferences]
+
+## Evidence: What's Worked
+- [Past experience that worked] — conditions: [why it worked]
+- [Past experience that worked] — conditions: [why it worked]
+
+## Evidence: What Hasn't Worked
+- [Past experience that failed] — problem: [what went wrong]
+- [Past experience that failed] — problem: [what went wrong]
+
+## Acceptance criteria
+A short checklist that makes success testable.
+
+## Assumptions
+Only include if you proceeded without asking a clarifying question.
+
+## Key Success Factors
+- [Factor 1]
+- [Factor 2]
+- [Factor 3]
+```
+
+3. `style_guide.md` sets the tone and style od the output. It overrides the default style of the model.
+
+``` markdown
+<voice_analysis>
+Analyze these writing samples and extract my voice profile. For each pattern you identify, cite the specific phrase or sentence that demonstrates it. Cover:
+
+1. How I open paragraphs? What's the first sentence doing?
+2. What are the patterns across these sentences? Average length, range, rhythm?
+3. Moves I repeat - do I enumerate? Use parentheticals? Quantify?
+4. Vocabulary I reach for vs. vocabulary I avoid
+5. How I handle uncertainty and evidence?
+6. What I never do (identify any consistent absences)?
+
+Be specific. “Uses short sentences” is useless. “Lead sentences average 8 words; elaboration sentences average 18” is useful. Quote my text as evidence for every claim.
+</voice_analysis>
+
+<vocabulary_preference>
+- Prefer verbs: [your active vocabulary: “deliver”, “target”, “measure”, “verify”, “reduce”, “scale”]
+- Avoid phrases: [your ban list: “leverage”, “synergy”, “robust and comprehensive”, “delve”, “multifaceted”, “foster”, “navigate”, “compelling”, “pivotal”, “transformative"] 
+- Domain-specific avoidances: [instead of “we believe” use “we estimate,” instead of “evidence suggests” use “evidence supports”]
+</vocabulary_preference>
+
+<voice_spec>
+1. Using the analysis above, write my voice spec. Format it as a style guide that fits on a single page (300–500 words). 
+2. Cover the following: tone and stance, non-negotiable rules (numbered list, stated as constraints not preferences), vocabulary to use vs. avoid, and how I handle evidence and uncertainty.
+3. Every rule must be testable: instead of “write clearly,” say “keep topic sentences under 12 words.” Do not use adjectives or minimize adjectives.
+</voice_spec>
+```
 
 ## Further reading
 <details>
