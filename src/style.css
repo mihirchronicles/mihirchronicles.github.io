@@ -479,18 +479,19 @@ a:focus {
   background: transparent;
   margin: 0;
   padding: var(--spacing-4);
+  text-shadow: none;
   /* Override default pre formatting to enable word wrapping */
   white-space: pre-wrap !important;
   word-wrap: break-word !important;
-  text-shadow: none;
 }
 
 .gatsby-highlight code[class*="language-"] {
   font-size: var(--fontSize-0);
   font-family: monospace;
   text-shadow: none;
+  /* Override default pre formatting to enable word wrapping */
   white-space: pre-wrap !important;
-  word-break: break-word !important;
+  word-wrap: break-word !important;
 }
 
 /* Inline code block styling */
@@ -607,5 +608,15 @@ code {
     height: auto;
     max-width: 100%;
     max-height: 100%;
+  }
+
+  .gatsby-highlight pre[class*="language-"] {
+    white-space: pre-wrap !important;
+    word-wrap: break-word !important;
+  }
+
+  .gatsby-highlight code[class*="language-"] {
+    white-space: pre-wrap !important;
+    word-break: break-word !important;
   }
 }

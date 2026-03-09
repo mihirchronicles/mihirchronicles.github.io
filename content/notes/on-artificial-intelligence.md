@@ -256,29 +256,29 @@ Following are the elements of effective prompt engineering.
 `Role`: You are a senior associate at an investment management firm reviewing SEC filings.
 ```
 3. **Context** provides the necessary background information for the AI to understand the request.
-    - **Chaining**: Decompose complex tasks into sequential, focused prompts to allow for intermediate course correction. This prevents errors from compounding and is ideal for iterative research or analysis where direction shifts based on intermediate results.
-        ``` markdown
-        **Single prompt**: Analyze this dataset, identify trends, and write an executive summary.
+- **Chaining**: Decompose complex tasks into sequential, focused prompts to allow for intermediate course correction. This prevents errors from compounding and is ideal for iterative research or analysis where direction shifts based on intermediate results.
+``` markdown
+**Single prompt**: Analyze this dataset, identify trends, and write an executive summary.
 
-        **Chaining prompts**:
-        `Prompt 1`: Analyze this dataset and identify the 5 most significant trends. For each, explain the evidence. 
-        `[Review output, then...]`
-        `Prompt 2`: Based on the trends you identified, write a 2 paragprah executive summary for a non-technical audience.
-        ```
-    - **Tagging**: separate instructions from content. When pasting long documents, LLMs can struggle to distinguish your instructions from the provided text. XML-style tags (e.g., <instructions> or <document>) act as clear boundaries to prevent this instruction-data confusion.They eliminate ambiguity, so the model doesn't have to guess where your command ends and the data begins.
-        ``` markdown
-        <context>
-        This gives model the conditions under which this context builds up from.
-        </context>
-        <instructions>
-        Summarize the key findings from this paper. Focus on methodology and results. Keep it under 300 words.
-        </instructions>
-        ```
+**Chaining prompts**:
+`Prompt 1`: Analyze this dataset and identify the 5 most significant trends. For each, explain the evidence. 
+`[Review output, then...]`
+`Prompt 2`: Based on the trends you identified, write a 2 paragprah executive summary for a non-technical audience.
+```
+- **Tagging**: separate instructions from content. When pasting long documents, LLMs can struggle to distinguish your instructions from the provided text. XML-style tags (e.g., <instructions> or <document>) act as clear boundaries to prevent this instruction-data confusion.They eliminate ambiguity, so the model doesn't have to guess where your command ends and the data begins.
+``` markdown
+<context>
+This gives model the conditions under which this context builds up from.
+</context>
+<instructions>
+Summarize the key findings from this paper. Focus on methodology and results. Keep it under 300 words.
+</instructions>
+```
 4. **Constraints** provide boundaries as opposed to conducting an open ended exploration.
-    - Ask LLMS to keep the response under x amount of words. Shorter prompts produce better adherence. Aim for 300-500 words.
-    - Be explicit on what the research should be focused on. For example, focus on identification strategy and spend less time on implementation details. Or vice versa. 
-    - Focus on using top-5 journal and avoiding forum discussions.
-    - Give the model the pushback permission so it doesn' agree with everything.
+- Ask LLMS to keep the response under x amount of words. Shorter prompts produce better adherence. Aim for 300-500 words.
+- Be explicit on what the research should be focused on. For example, focus on identification strategy and spend less time on implementation details. Or vice versa. 
+- Focus on using top-5 journal and avoiding forum discussions.
+- Give the model the pushback permission so it doesn' agree with everything.
 
 5. **Research preferences** allows the model to explicity execute based on your preferences. For example, use explicit threshold numbers, not adjectives - “Prefer daytime highs 65-80°F; flag anything over 85°F“ not “we like mild weather.” 
 6. **Voice spec** gives the model an explicit direction on how to set the style and tone of the output.
@@ -287,7 +287,7 @@ Following are the elements of effective prompt engineering.
 
 Following are the templates to getting started with LLMs. 
 
-0. `interview_quesitons.md`: This file helps extract more information out to fill gaps in your context prompts. Store this in your `project` folder and have the model ask these questions before creating any ouput.
+- **Interview file**: `interview_quesitons.md`: This file helps extract more information out to fill gaps in your context prompts. Store this in your `project` folder and have the model ask these questions before creating any ouput.
 
 ```markdown
 - **Stakeholders**: Who is involved, and what are their individual preferences?
@@ -304,7 +304,7 @@ Following are the templates to getting started with LLMs.
 - **Clarifications**: Is there anything shared so far that seems contradictory or needs detail?
 ```
 
-1. `context_file.md`: This gives model the conditions under which this context builds up from.
+- **Context file** `context_file.md`: This gives model the conditions under which this context builds up from.
 
 ``` markdown
 <context>
@@ -370,7 +370,7 @@ Use short paragraphs, no bullet points. This is narrative prose. Remember: the g
 </deliverables>
 ```
 
-2. `domain-context.md`: Use the following template to provide domain specific instructions.
+- **Domain context file**: `domain-context.md`: Use the following template to provide domain specific instructions.
 ``` markdown
 # [DOMAIN] Context
 
@@ -419,7 +419,7 @@ Only include if you proceeded without asking a clarifying question.
 - [Factor 3]
 ```
 
-3. `style_guide.md` sets the tone and style od the output. It overrides the default style of the model.
+- **Style guide file**: `style_guide.md` sets the tone and style od the output. It overrides the default style of the model.
 
 ``` markdown
 <voice_analysis>
@@ -447,6 +447,8 @@ Be specific. “Uses short sentences” is useless. “Lead sentences average 8 
 3. Every rule must be testable: instead of “write clearly,” say “keep topic sentences under 12 words.” Do not use adjectives or minimize adjectives.
 </voice_spec>
 ```
+
+## Evals
 
 ## Further reading
 <details>
