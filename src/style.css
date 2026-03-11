@@ -480,9 +480,6 @@ a:focus {
   margin: 0;
   padding: var(--spacing-4);
   text-shadow: none;
-  /* Override default pre formatting to enable word wrapping */
-  white-space: pre-wrap !important;
-  word-wrap: break-word !important;
 }
 
 .gatsby-highlight code[class*="language-"] {
