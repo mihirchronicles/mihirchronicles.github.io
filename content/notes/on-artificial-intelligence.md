@@ -287,164 +287,183 @@ Summarize the key findings from this paper. Focus on methodology and results. Ke
 
 Following are the templates to getting started with LLMs. 
 
-- **Interview file**: `interview_quesitons.md`: This file helps extract more information out to fill gaps in your context prompts. Store this in your `project` folder and have the model ask these questions before creating any ouput.
+- **Interview file**: `interview_quesitons.md`: This file helps extract more information out to fill gaps in your context prompts. Store this in your `project` folder and have the model ask these questions before creating any output.
 
 ```markdown
-- **Stakeholders**: Who is involved, and what are their individual preferences?
-- **Aversions**: What does everyone specifically dislike or want to avoid?
-- **Hard Constraints**: What are your non-negotiable limits (e.g., budget, deadlines, physical constraints)?
-- **Thresholds**: What specific metrics or ranges matter most (e.g., time, distance, climate)?
-- **Successes**: Which past experiences worked best, and what specific conditions made them successful?
-- **Failures**: What past experiences failed, and exactly what went wrong?
-- **Logistics**: What is your standard logistical setup (e.g., preferred tools, environment, or pace)?
-- **Flexibility**: Which trade-offs are you typically willing to make?
-- **Non-Negotiable**: Where are you completely unwilling to compromise?
-- **Behavioral Rules**: Are there specific things I should always or never do when assisting you?
-- **Patterns**: What recurring themes do you notice across your most successful outcomes?
-- **Clarifications**: Is there anything shared so far that seems contradictory or needs detail?
+- **Stakeholders**: Who are the primary “customers” of this output, and what are their individual priorities?
+- **Aversions**: What specific styles, outcomes, or “anti-patterns” must be avoided?
+- **Hard Constraints**: What are the immovable limits (budget, deadlines, tech stack, or physical boundaries)?
+- **Thresholds**: What specific metrics or ranges define a “pass” (e.g., time, distance, or climate tolerances)?
+- **Successes**: What is the “Gold Standard” from your past? What specific variables made it work?
+- **Failures**: What has crashed before, and what was the specific root cause?
+- **Logistics**: What is the required “operating environment” (preferred tools, pace, or output format)?
+- **Flexibility**: Where is there room for “give” if we hit a bottleneck?
+- **Non-Negotiable**: What is the “Line in the Sand” that cannot be traded off, regardless of the benefit?
+- **Behavioral Rules**: What are the “Rules of Engagement”? (e.g., “Always use X,” “Never mention Y,” “Adopt Z tone.”)
+- **Patterns**: What recurring “DNA” do you see across your most successful outcomes?
+- **Clarifications**: Are there any internal contradictions in the context provided so far that need de-risking?
 ```
 
 - **Context file** `context_file.md`: This gives model the conditions under which this context builds up from.
 
 ``` markdown
 <context>
-This gives model the conditions under which this context builds up from.
-1. Audience: Foundation program officer
-2. Purpose: Justify a budget increase for fieldwork
-3. Constraints: 1 paragraph, under 100 words
+- **Persona:** Foundation Program Officer (Decision Maker).
+- **Objective:** Secure an immediate budget increase for fieldwork.
+- **Constraints:** Max 1 paragraph, strictly under 100 words.
 </context>
 
 <notes>
-This teaches what to notice. The more examples you give, the better the model will understand what it is looking for.
-1. Opens with the problem, not background
-2. Quantifies everything (40%, $12,000, 6 visits, 30%)
-3. Four sentences, no hedging
-4. Ends with stakes, not a request
+- **Lead with Impact:** Open with the crisis/problem; omit introductory background.
+- **Precision:** Quantify all data points (%, $, counts).
+- **Syntax:** Maximum 4 sentences; eliminate all hedging (e.g., “I believe,” “we feel”).
+- **Closure:** Frame the conclusion around “Stakes of Failure” rather than a “Request for Funds.”
 </notes>
 
 <example_text>
-We underestimated travel costs by 40%. Fuel prices in northern Uganda tripled since the proposal. We need an additional $12,000 to complete the remaining 6 site visits. Without them, we lose 30% of our sample.
+Travel costs exceeded estimates by 40% due to Uganda's fuel prices tripling. We require an additional $12,000 to complete the final 6 site visits. Failure to secure these funds results in a 30% loss of total sample data, compromising the entire study's validity.
 </example_text>
 
 <instructions>
-Summarize the key findings from this paper. Focus on methodology and results. Keep it under 300 words.
+Summarize the attached <paper>. 
+- **Focus:** Methodology and Results. 
+- **Limit:** Under 300 words. 
+- **Alignment:** Must bridge scientific findings with the “Investment Thesis” logic defined in <output_format>.
 </instructions>
 
 <paper>
-[Full paper text pasted here...]
+[Insert source to the paper here.]
 </paper>
 
 <output_format>
-Three sections: (1) Method, (2) Key findings, (3) Limitations.
-
-Use short paragraphs, no bullet points. This is narrative prose. Remember: the goal is to produce a thesis for the investment committe to approve an investment proposal not to create a journal paper. Keep the tone accessible and emphasize the practical plan to invest in the company to produce market rate level returns while creating a larger impact on food and agriculture sector.
+**Structure:** (1) Method, (2) Key Findings, (3) Limitations.
+**Style:** Continuous narrative prose; strictly no bullet points.
+**Tone:** Accessible Investment Committee (IC) Thesis. 
+**Strategy:** Pivot from technical research to a practical plan for market-rate returns and food/ag sector impact.
 </output_format>
 
 <deliverables>
-**1.1 [Deliverable type 1 — e.g., 1-page policy note]**
-1. Bottom line (2–3 sentences): problem → proposed action → why it's worth it
-2. What we know (evidence in bullets, with numbers)
-3. Proposed intervention / program (what changes in the world)
-4. Implementation plan (who, where, timeline)
-5. Risks + mitigations (3–5 bullets)
-6. What you need from the reader (the ask)
+### 1.1 Policy Note (1-Page)
+- **Bottom Line:** 2-sentence logic: Problem → Proposed Action → ROI.
+- **Evidence:** Data-backed bullets (prioritize numbers).
+- **Intervention:** Specific real-world changes.
+- **Execution:** Stakeholders, location, and timeline.
+- **Risk Management:** 3–5 bullets on mitigation.
+- **The Ask:** Direct requirement from the reader.
 
-**1.2 [Deliverable type 2 — e.g., project summary]**
-1. Summary in 5 bullets
-2. Objective + theory of change
-3. Design (what, where, who, when)
-4. Measurement + outputs
-5. Current status + next milestones
-6. Risks / dependencies
+### 1.2 Project Summary
+- **Executive Summary:** 5 high-signal bullets.
+- **Logic Model:** Objective + Theory of Change.
+- **Design:** The What, Where, Who, and When.
+- **KPIs:** Measurement metrics and expected outputs.
+- **Roadmap:** Current status + next 3 milestones.
+- **Dependencies:** Critical risks and external requirements.
 
-**1.3 [Deliverable type 3 — e.g., funding proposal section]**
-1. Problem + stakes (quantify)
-2. Approach (what is new, what is proven)
-3. Evidence (prior results)
-4. Plan + timeline + deliverables
-5. Team + governance + partners
-6. Financial projections + returns
-7. Risks + mitigations
-8. Why to fund, why now
-
+### 1.3 Funding Proposal Section
+- **Stakes:** Quantified problem statement.
+- **Innovation:** Contrast “New approach” vs. “Proven methods.”
+- **Track Record:** Summary of prior results.
+- **Execution Plan:** Timeline + high-level deliverables.
+- **Governance:** Team structure and strategic partners.
+- **Financials:** Projections and expected market returns.
+- **Risk Profile:** Mitigation strategies.
+- **Closing:** “Why Us, Why Now” urgency statement.
 </deliverables>
 ```
 
-- **Domain context file**: `domain-context.md`: Use the following template to provide domain specific instructions.
-``` markdown
-# [DOMAIN] Context
+- **Domain context file**: `domain-context.md`: Use the following template to provide domain specific instructions. This is optimized for token efficiency and high-signal logic. By framing these sections as a “system prompt” extension, you force the LLM to treat this data as immutable logic rather than casual suggestions.
 
+``` markdown
 ## Key Instructions
-- [BEHAVIORAL RULE: e.g., “Be analytical, not agreeable. Offer critical opinions.”]
-- [BEHAVIORAL RULE: e.g., “Always flag potential problems before I ask.”]
-- [BEHAVIORAL RULE: e.g., “Provide 1.5-2x more options than needed so I can choose.”]
+- **Rule 1:** [Critical Directive: e.g., “Adopt a high-conviction, contrarian stance. Challenge my assumptions with data-backed counterpoints.”]
+- **Rule 2:** [Pre-emptive Action: e.g., “Identify 2-3 'silent risks' or edge cases before providing the final recommendation.”]
+- **Rule 3:** [Diversity of Thought: e.g., “Present 3 distinct architectural patterns—Low-Latency, High-Scalability, and Cost-Optimized.”]
+
+## Department Goals
+- **North Star:** [Primary Metric or Goal: e.g., “Time-to-Market” or “Absolute Accuracy”]
+- **Preferences:** [Styles: e.g., “Visual frameworks, 2x2 matrices, bulleted summaries”]
+- **Aversions:** [The “No-Go” Zone: e.g., “Generic 'corporate-speak', hedging language, or unsubstantiated projections”]
 
 ## People & Preferences
-### [Person 1]
-- Priorities: [what they care about most]
-- Also enjoys: [secondary interests]
-- Avoids: [explicit dislikes — be specific]
+### [Stakeholder Name/Role]
+- **Priorities**: [What they care about most]
+- **Also enjoys**: [Secondary interests]
+- **Avoids**: [Explicit dislikes — be specific]
 
-### [Person 2]
-- Priorities: [...]
-- Avoids: [...]
+### [Stakeholder Name/Role]
+- **Priorities**: [...]
+- **Also enjoys**: [...]
+- **Avoids**: [...]
 
 ## Hard Constraints
-- Budget: [specific ceiling, e.g., “under $300/night accommodation, $150/day activities”]
-- Time windows: [when this typically happens]
-- [Other constraint]: [with threshold number]
-- [Other constraint]: [with threshold number]
+- **Financial Ceiling:** [e.g., “Hard stop at $20k ARR; preference for open source over proprietary licenses”]
+- **Temporal Windows:** [e.g., “Must be deployable within 2-week sprints; 99.9% uptime requirement”]
+- **Technical/Physical Limits:** [e.g., “Compatible with existing Python 3.12 stack; must fit on 13 inch screen without scrolling”]
+- **Regulatory/Legal:** [e.g., “Strict GDPR compliance; no PII stored in local caches”]
 
 ## Logistics & Preferences
-- [How you typically handle logistics in this domain]
-- [Pace/style preferences]
+- **Operational Cadence:** [e.g., “Fast-paced, iterative feedback loops; preference for Slack-style conciseness”]
+- **Tooling/Environment:** [e.g., “Standardize for VS Code and GitHub Actions; use LaTeX for all technical formulas”]
 
 ## Evidence: What's Worked
-- [Past experience that worked] — conditions: [why it worked]
-- [Past experience that worked] — conditions: [why it worked]
+- **Success A:** [Specific Project] — **Factor:** [The 'X' variable: e.g., “Used a Mental Model approach (Inversion) to identify failures early”]
+- **Success B:** [Specific Project] — **Factor:** [The 'X' variable: e.g., “Strict adherence to Data Normalization prevented 40% of downstream errors"]
 
 ## Evidence: What Hasn't Worked
-- [Past experience that failed] — problem: [what went wrong]
-- [Past experience that failed] — problem: [what went wrong]
+- **Failure A:** [Specific Project] — **Root Cause:** [The 'Y' variable: e.g., “Scope creep occurred due to lack of a defined 'Non-Negotiable' list"]
+- **Failure B:** [Specific Project] — **Root Cause:** [The 'Y' variable: e.g., “Optimization for performance led to unmaintainable 'spaghetti' code"]
 
-## Acceptance criteria
-A short checklist that makes success testable.
+## Acceptance Criteria
+- [ ] **Quantifiable:** Does the output meet the [X] threshold?
+- [ ] **Actionable:** Can I execute on this immediately without further research?
+- [ ] **Structural:** Does it follow the [Deliverable 1.1] format exactly?
 
 ## Assumptions
-Only include if you proceeded without asking a clarifying question.
+- **Assumption 1:** [e.g., “Proceeding with the assumption that the budget is fixed at $X unless otherwise stated.”]
+- **Assumption 2:** [e.g., “Assuming the primary audience has a technical background in Data Engineering.”]
 
 ## Key Success Factors
-- [Factor 1]
-- [Factor 2]
-- [Factor 3]
+- **High-Signal Focus:** Omit all common-knowledge fluff; prioritize “Delta” (new information).
+- **Logical Density:** Ensure every sentence introduces a new constraint, fact, or insight.
+- **Mental Models:** Apply [e.g., First Principles or Charlie Munger's Latticework] to the final output.
 ```
 
 - **Style guide file**: `style_guide.md` sets the tone and style od the output. It overrides the default style of the model.
 
 ``` markdown
 <voice_analysis>
-Analyze these writing samples and extract my voice profile. For each pattern you identify, cite the specific phrase or sentence that demonstrates it. Cover:
+Extract a “Voice DNA” profile from the provided samples. For every pattern identified, provide a “Code Snippet” quote as proof. Address the following:
 
-1. How I open paragraphs? What's the first sentence doing?
-2. What are the patterns across these sentences? Average length, range, rhythm?
-3. Moves I repeat - do I enumerate? Use parentheticals? Quantify?
-4. Vocabulary I reach for vs. vocabulary I avoid
-5. How I handle uncertainty and evidence?
-6. What I never do (identify any consistent absences)?
+1. **The Hook:** Analyze the function of the opening sentence. Is it a claim, a question, or a data point?
+2. **Syntactic Rhythm:** Calculate the average word count for lead sentences vs. explanatory sentences. Identify the cadence (e.g., Short-Short-Long).
+3. **Mechanical Fingerprints:** Quantify the use of parentheticals, colons, em-dashes, and bulleted lists.
+4. **Lexical Density:** Contrast the “High-Signal” verbs used against the “Low-Signal” fluff avoided.
+5. **Epistemology:** How is uncertainty expressed? Identify the specific transition from “Evidence” to “Conclusion.”
+6. **The “Never” List:** Document stylistic absences (e.g., no rhetorical questions, no passive voice, no introductory adverbs).
 
-Be specific. “Uses short sentences” is useless. “Lead sentences average 8 words; elaboration sentences average 18” is useful. Quote my text as evidence for every claim.
+**Constraint:** Do not use qualitative adjectives like “engaging” or “professional.” Use quantitative metrics (e.g., “70% of sentences use active verbs”).
 </voice_analysis>
 
 <vocabulary_preference>
-- Prefer verbs: [your active vocabulary: “deliver”, “target”, “measure”, “verify”, “reduce”, “scale”]
-- Avoid phrases: [your ban list: “leverage”, “synergy”, “robust and comprehensive”, “delve”, “multifaceted”, “foster”, “navigate”, “compelling”, “pivotal”, “transformative”] 
-- Domain-specific avoidances: [instead of “we believe” use “we estimate,” instead of “evidence suggests” use “evidence supports”]
+- **Active Verbs:** [e.g., “execute”, “validate”, “quantify”, “ship”, “audit”, “distill”]
+- **Forbidden Terms (The “Fluff” Filter):** [e.g., “leverage”, “synergy”, “deep dive”, “tapestry”, “cutting-edge”, “foster”, “transformative”]
+- **Nuance Substitutions:**
+    - Swap “I think” for “Data indicates.”
+    - Swap “very” or “extremely” for specific metrics.
+    - Swap “comprehensive” for “end-to-end.”
 </vocabulary_preference>
 
 <voice_spec>
-1. Using the analysis above, write my voice spec. Format it as a style guide that fits on a single page (300–500 words). 
-2. Cover the following: tone and stance, non-negotiable rules (numbered list, stated as constraints not preferences), vocabulary to use vs. avoid, and how I handle evidence and uncertainty.
-3. Every rule must be testable: instead of “write clearly,” say “keep topic sentences under 12 words.” Do not use adjectives or minimize adjectives.
+Construct a one-page “Instructional Blueprint” (300–500 words) for generating future content. 
+
+1. **Stance:** Define the persona's authority level and emotional distance.
+2. **Hard Rules (Testable Constraints):**
+    - Rule 1: Topic sentences must remain under [X] words.
+    - Rule 2: No more than [X] adjectives per 100 words.
+    - Rule 3: Every claim must be followed by a “Reason Why” or “Data Point.”
+    - Rule 4: [e.g., Use Oxford commas; no semicolons; no exclamation points.]
+3. **Logic Flow:** Map the standard progression (e.g., Problem → Metric → Solution → Risk).
+4. **Evidence Handling:** Define the exact format for citations or data integration (e.g., “Always use $(Value) followed by (Context)”).
 </voice_spec>
 ```
 
