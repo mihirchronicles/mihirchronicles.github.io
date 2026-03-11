@@ -352,158 +352,176 @@ Summarize the key findings from this paper. Focus on methodology and results. Ke
 <h3 id="templates" style="position:relative;"><a href="#templates" aria-label="templates permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Templates</h3>
 <p>Following are the templates to getting started with LLMs.</p>
 <ul>
-<li><strong>Interview file</strong>: <code class="language-text">interview_quesitons.md</code>: This file helps extract more information out to fill gaps in your context prompts. Store this in your <code class="language-text">project</code> folder and have the model ask these questions before creating any ouput.</li>
+<li><strong>Interview file</strong>: <code class="language-text">interview_quesitons.md</code>: This file helps extract more information out to fill gaps in your context prompts. Store this in your <code class="language-text">project</code> folder and have the model ask these questions before creating any output.</li>
 </ul>
-<div class="gatsby-highlight" data-language="markdown"><pre class="language-markdown"><code class="language-markdown"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Stakeholders</span><span class="token punctuation">**</span></span>: Who is involved, and what are their individual preferences?
-<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Aversions</span><span class="token punctuation">**</span></span>: What does everyone specifically dislike or want to avoid?
-<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Hard Constraints</span><span class="token punctuation">**</span></span>: What are your non-negotiable limits (e.g., budget, deadlines, physical constraints)?
-<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Thresholds</span><span class="token punctuation">**</span></span>: What specific metrics or ranges matter most (e.g., time, distance, climate)?
-<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Successes</span><span class="token punctuation">**</span></span>: Which past experiences worked best, and what specific conditions made them successful?
-<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Failures</span><span class="token punctuation">**</span></span>: What past experiences failed, and exactly what went wrong?
-<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Logistics</span><span class="token punctuation">**</span></span>: What is your standard logistical setup (e.g., preferred tools, environment, or pace)?
-<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Flexibility</span><span class="token punctuation">**</span></span>: Which trade-offs are you typically willing to make?
-<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Non-Negotiable</span><span class="token punctuation">**</span></span>: Where are you completely unwilling to compromise?
-<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Behavioral Rules</span><span class="token punctuation">**</span></span>: Are there specific things I should always or never do when assisting you?
-<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Patterns</span><span class="token punctuation">**</span></span>: What recurring themes do you notice across your most successful outcomes?
-<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Clarifications</span><span class="token punctuation">**</span></span>: Is there anything shared so far that seems contradictory or needs detail?</code></pre></div>
+<div class="gatsby-highlight" data-language="markdown"><pre class="language-markdown"><code class="language-markdown"><span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Stakeholders</span><span class="token punctuation">**</span></span>: Who are the primary “customers” of this output, and what are their individual priorities?
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Aversions</span><span class="token punctuation">**</span></span>: What specific styles, outcomes, or “anti-patterns” must be avoided?
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Hard Constraints</span><span class="token punctuation">**</span></span>: What are the immovable limits (budget, deadlines, tech stack, or physical boundaries)?
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Thresholds</span><span class="token punctuation">**</span></span>: What specific metrics or ranges define a “pass” (e.g., time, distance, or climate tolerances)?
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Successes</span><span class="token punctuation">**</span></span>: What is the “Gold Standard” from your past? What specific variables made it work?
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Failures</span><span class="token punctuation">**</span></span>: What has crashed before, and what was the specific root cause?
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Logistics</span><span class="token punctuation">**</span></span>: What is the required “operating environment” (preferred tools, pace, or output format)?
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Flexibility</span><span class="token punctuation">**</span></span>: Where is there room for “give” if we hit a bottleneck?
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Non-Negotiable</span><span class="token punctuation">**</span></span>: What is the “Line in the Sand” that cannot be traded off, regardless of the benefit?
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Behavioral Rules</span><span class="token punctuation">**</span></span>: What are the “Rules of Engagement”? (e.g., “Always use X,” “Never mention Y,” “Adopt Z tone.”)
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Patterns</span><span class="token punctuation">**</span></span>: What recurring “DNA” do you see across your most successful outcomes?
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Clarifications</span><span class="token punctuation">**</span></span>: Are there any internal contradictions in the context provided so far that need de-risking?</code></pre></div>
 <ul>
 <li><strong>Context file</strong> <code class="language-text">context_file.md</code>: This gives model the conditions under which this context builds up from.</li>
 </ul>
 <div class="gatsby-highlight" data-language="markdown"><pre class="language-markdown"><code class="language-markdown"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>context</span><span class="token punctuation">></span></span>
-This gives model the conditions under which this context builds up from.
-<span class="token list punctuation">1.</span> Audience: Foundation program officer
-<span class="token list punctuation">2.</span> Purpose: Justify a budget increase for fieldwork
-<span class="token list punctuation">3.</span> Constraints: 1 paragraph, under 100 words
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Persona:</span><span class="token punctuation">**</span></span> Foundation Program Officer (Decision Maker).
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Objective:</span><span class="token punctuation">**</span></span> Secure an immediate budget increase for fieldwork.
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Constraints:</span><span class="token punctuation">**</span></span> Max 1 paragraph, strictly under 100 words.
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>context</span><span class="token punctuation">></span></span>
 
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>notes</span><span class="token punctuation">></span></span>
-This teaches what to notice. The more examples you give, the better the model will understand what it is looking for.
-<span class="token list punctuation">1.</span> Opens with the problem, not background
-<span class="token list punctuation">2.</span> Quantifies everything (40%, $12,000, 6 visits, 30%)
-<span class="token list punctuation">3.</span> Four sentences, no hedging
-<span class="token list punctuation">4.</span> Ends with stakes, not a request
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Lead with Impact:</span><span class="token punctuation">**</span></span> Open with the crisis/problem; omit introductory background.
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Precision:</span><span class="token punctuation">**</span></span> Quantify all data points (%, $, counts).
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Syntax:</span><span class="token punctuation">**</span></span> Maximum 4 sentences; eliminate all hedging (e.g., “I believe,” “we feel”).
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Closure:</span><span class="token punctuation">**</span></span> Frame the conclusion around “Stakes of Failure” rather than a “Request for Funds.”
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>notes</span><span class="token punctuation">></span></span>
 
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>example_text</span><span class="token punctuation">></span></span>
-We underestimated travel costs by 40%. Fuel prices in northern Uganda tripled since the proposal. We need an additional $12,000 to complete the remaining 6 site visits. Without them, we lose 30% of our sample.
+Travel costs exceeded estimates by 40% due to Uganda's fuel prices tripling. We require an additional $12,000 to complete the final 6 site visits. Failure to secure these funds results in a 30% loss of total sample data, compromising the entire study's validity.
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>example_text</span><span class="token punctuation">></span></span>
 
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>instructions</span><span class="token punctuation">></span></span>
-Summarize the key findings from this paper. Focus on methodology and results. Keep it under 300 words.
+Summarize the attached <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>paper</span><span class="token punctuation">></span></span>. 
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Focus:</span><span class="token punctuation">**</span></span> Methodology and Results. 
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Limit:</span><span class="token punctuation">**</span></span> Under 300 words. 
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Alignment:</span><span class="token punctuation">**</span></span> Must bridge scientific findings with the “Investment Thesis” logic defined in <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>output_format</span><span class="token punctuation">></span></span>.
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>instructions</span><span class="token punctuation">></span></span>
 
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>paper</span><span class="token punctuation">></span></span>
-[Full paper text pasted here...]
+[Insert source to the paper here.]
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>paper</span><span class="token punctuation">></span></span>
 
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>output_format</span><span class="token punctuation">></span></span>
-Three sections: (1) Method, (2) Key findings, (3) Limitations.
-
-Use short paragraphs, no bullet points. This is narrative prose. Remember: the goal is to produce a thesis for the investment committe to approve an investment proposal not to create a journal paper. Keep the tone accessible and emphasize the practical plan to invest in the company to produce market rate level returns while creating a larger impact on food and agriculture sector.
+<span class="token bold"><span class="token punctuation">**</span><span class="token content">Structure:</span><span class="token punctuation">**</span></span> (1) Method, (2) Key Findings, (3) Limitations.
+<span class="token bold"><span class="token punctuation">**</span><span class="token content">Style:</span><span class="token punctuation">**</span></span> Continuous narrative prose; strictly no bullet points.
+<span class="token bold"><span class="token punctuation">**</span><span class="token content">Tone:</span><span class="token punctuation">**</span></span> Accessible Investment Committee (IC) Thesis. 
+<span class="token bold"><span class="token punctuation">**</span><span class="token content">Strategy:</span><span class="token punctuation">**</span></span> Pivot from technical research to a practical plan for market-rate returns and food/ag sector impact.
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>output_format</span><span class="token punctuation">></span></span>
 
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>deliverables</span><span class="token punctuation">></span></span>
-<span class="token bold"><span class="token punctuation">**</span><span class="token content">1.1 [Deliverable type 1 — e.g., 1-page policy note]</span><span class="token punctuation">**</span></span>
-<span class="token list punctuation">1.</span> Bottom line (2–3 sentences): problem → proposed action → why it's worth it
-<span class="token list punctuation">2.</span> What we know (evidence in bullets, with numbers)
-<span class="token list punctuation">3.</span> Proposed intervention / program (what changes in the world)
-<span class="token list punctuation">4.</span> Implementation plan (who, where, timeline)
-<span class="token list punctuation">5.</span> Risks + mitigations (3–5 bullets)
-<span class="token list punctuation">6.</span> What you need from the reader (the ask)
+<span class="token title important"><span class="token punctuation">###</span> 1.1 Policy Note (1-Page)</span>
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Bottom Line:</span><span class="token punctuation">**</span></span> 2-sentence logic: Problem → Proposed Action → ROI.
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Evidence:</span><span class="token punctuation">**</span></span> Data-backed bullets (prioritize numbers).
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Intervention:</span><span class="token punctuation">**</span></span> Specific real-world changes.
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Execution:</span><span class="token punctuation">**</span></span> Stakeholders, location, and timeline.
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Risk Management:</span><span class="token punctuation">**</span></span> 3–5 bullets on mitigation.
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">The Ask:</span><span class="token punctuation">**</span></span> Direct requirement from the reader.
 
-<span class="token bold"><span class="token punctuation">**</span><span class="token content">1.2 [Deliverable type 2 — e.g., project summary]</span><span class="token punctuation">**</span></span>
-<span class="token list punctuation">1.</span> Summary in 5 bullets
-<span class="token list punctuation">2.</span> Objective + theory of change
-<span class="token list punctuation">3.</span> Design (what, where, who, when)
-<span class="token list punctuation">4.</span> Measurement + outputs
-<span class="token list punctuation">5.</span> Current status + next milestones
-<span class="token list punctuation">6.</span> Risks / dependencies
+<span class="token title important"><span class="token punctuation">###</span> 1.2 Project Summary</span>
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Executive Summary:</span><span class="token punctuation">**</span></span> 5 high-signal bullets.
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Logic Model:</span><span class="token punctuation">**</span></span> Objective + Theory of Change.
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Design:</span><span class="token punctuation">**</span></span> The What, Where, Who, and When.
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">KPIs:</span><span class="token punctuation">**</span></span> Measurement metrics and expected outputs.
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Roadmap:</span><span class="token punctuation">**</span></span> Current status + next 3 milestones.
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Dependencies:</span><span class="token punctuation">**</span></span> Critical risks and external requirements.
 
-<span class="token bold"><span class="token punctuation">**</span><span class="token content">1.3 [Deliverable type 3 — e.g., funding proposal section]</span><span class="token punctuation">**</span></span>
-<span class="token list punctuation">1.</span> Problem + stakes (quantify)
-<span class="token list punctuation">2.</span> Approach (what is new, what is proven)
-<span class="token list punctuation">3.</span> Evidence (prior results)
-<span class="token list punctuation">4.</span> Plan + timeline + deliverables
-<span class="token list punctuation">5.</span> Team + governance + partners
-<span class="token list punctuation">6.</span> Financial projections + returns
-<span class="token list punctuation">7.</span> Risks + mitigations
-<span class="token list punctuation">8.</span> Why to fund, why now
-
+<span class="token title important"><span class="token punctuation">###</span> 1.3 Funding Proposal Section</span>
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Stakes:</span><span class="token punctuation">**</span></span> Quantified problem statement.
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Innovation:</span><span class="token punctuation">**</span></span> Contrast “New approach” vs. “Proven methods.”
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Track Record:</span><span class="token punctuation">**</span></span> Summary of prior results.
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Execution Plan:</span><span class="token punctuation">**</span></span> Timeline + high-level deliverables.
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Governance:</span><span class="token punctuation">**</span></span> Team structure and strategic partners.
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Financials:</span><span class="token punctuation">**</span></span> Projections and expected market returns.
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Risk Profile:</span><span class="token punctuation">**</span></span> Mitigation strategies.
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Closing:</span><span class="token punctuation">**</span></span> “Why Us, Why Now” urgency statement.
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>deliverables</span><span class="token punctuation">></span></span></code></pre></div>
 <ul>
-<li><strong>Domain context file</strong>: <code class="language-text">domain-context.md</code>: Use the following template to provide domain specific instructions.</li>
+<li><strong>Domain context file</strong>: <code class="language-text">domain-context.md</code>: Use the following template to provide domain specific instructions. This is optimized for token efficiency and high-signal logic. By framing these sections as a “system prompt” extension, you force the LLM to treat this data as immutable logic rather than casual suggestions.</li>
 </ul>
-<div class="gatsby-highlight" data-language="markdown"><pre class="language-markdown"><code class="language-markdown"><span class="token title important"><span class="token punctuation">#</span> [DOMAIN] Context</span>
+<div class="gatsby-highlight" data-language="markdown"><pre class="language-markdown"><code class="language-markdown"><span class="token title important"><span class="token punctuation">##</span> Key Instructions</span>
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Rule 1:</span><span class="token punctuation">**</span></span> [Critical Directive: e.g., “Adopt a high-conviction, contrarian stance. Challenge my assumptions with data-backed counterpoints.”]
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Rule 2:</span><span class="token punctuation">**</span></span> [Pre-emptive Action: e.g., “Identify 2-3 'silent risks' or edge cases before providing the final recommendation.”]
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Rule 3:</span><span class="token punctuation">**</span></span> [Diversity of Thought: e.g., “Present 3 distinct architectural patterns—Low-Latency, High-Scalability, and Cost-Optimized.”]
 
-<span class="token title important"><span class="token punctuation">##</span> Key Instructions</span>
-<span class="token list punctuation">-</span> [BEHAVIORAL RULE: e.g., “Be analytical, not agreeable. Offer critical opinions.”]
-<span class="token list punctuation">-</span> [BEHAVIORAL RULE: e.g., “Always flag potential problems before I ask.”]
-<span class="token list punctuation">-</span> [BEHAVIORAL RULE: e.g., “Provide 1.5-2x more options than needed so I can choose.”]
+<span class="token title important"><span class="token punctuation">##</span> Department Goals</span>
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">North Star:</span><span class="token punctuation">**</span></span> [Primary Metric or Goal: e.g., “Time-to-Market” or “Absolute Accuracy”]
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Preferences:</span><span class="token punctuation">**</span></span> [Styles: e.g., “Visual frameworks, 2x2 matrices, bulleted summaries”]
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Aversions:</span><span class="token punctuation">**</span></span> [The “No-Go” Zone: e.g., “Generic 'corporate-speak', hedging language, or unsubstantiated projections”]
 
 <span class="token title important"><span class="token punctuation">##</span> People &amp; Preferences</span>
-<span class="token title important"><span class="token punctuation">###</span> [Person 1]</span>
-<span class="token list punctuation">-</span> Priorities: [what they care about most]
-<span class="token list punctuation">-</span> Also enjoys: [secondary interests]
-<span class="token list punctuation">-</span> Avoids: [explicit dislikes — be specific]
+<span class="token title important"><span class="token punctuation">###</span> [Stakeholder Name/Role]</span>
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Priorities</span><span class="token punctuation">**</span></span>: [What they care about most]
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Also enjoys</span><span class="token punctuation">**</span></span>: [Secondary interests]
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Avoids</span><span class="token punctuation">**</span></span>: [Explicit dislikes — be specific]
 
-<span class="token title important"><span class="token punctuation">###</span> [Person 2]</span>
-<span class="token list punctuation">-</span> Priorities: [...]
-<span class="token list punctuation">-</span> Avoids: [...]
+<span class="token title important"><span class="token punctuation">###</span> [Stakeholder Name/Role]</span>
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Priorities</span><span class="token punctuation">**</span></span>: [...]
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Also enjoys</span><span class="token punctuation">**</span></span>: [...]
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Avoids</span><span class="token punctuation">**</span></span>: [...]
 
 <span class="token title important"><span class="token punctuation">##</span> Hard Constraints</span>
-<span class="token list punctuation">-</span> Budget: [specific ceiling, e.g., “under $300/night accommodation, $150/day activities”]
-<span class="token list punctuation">-</span> Time windows: [when this typically happens]
-<span class="token list punctuation">-</span> <span class="token url-reference url"><span class="token punctuation">[</span><span class="token variable">Other constraint</span><span class="token punctuation">]</span><span class="token punctuation">:</span> [with</span> threshold number]
-<span class="token list punctuation">-</span> <span class="token url-reference url"><span class="token punctuation">[</span><span class="token variable">Other constraint</span><span class="token punctuation">]</span><span class="token punctuation">:</span> [with</span> threshold number]
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Financial Ceiling:</span><span class="token punctuation">**</span></span> [e.g., “Hard stop at $20k ARR; preference for open source over proprietary licenses”]
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Temporal Windows:</span><span class="token punctuation">**</span></span> [e.g., “Must be deployable within 2-week sprints; 99.9% uptime requirement”]
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Technical/Physical Limits:</span><span class="token punctuation">**</span></span> [e.g., “Compatible with existing Python 3.12 stack; must fit on 13 inch screen without scrolling”]
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Regulatory/Legal:</span><span class="token punctuation">**</span></span> [e.g., “Strict GDPR compliance; no PII stored in local caches”]
 
 <span class="token title important"><span class="token punctuation">##</span> Logistics &amp; Preferences</span>
-<span class="token list punctuation">-</span> [How you typically handle logistics in this domain]
-<span class="token list punctuation">-</span> [Pace/style preferences]
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Operational Cadence:</span><span class="token punctuation">**</span></span> [e.g., “Fast-paced, iterative feedback loops; preference for Slack-style conciseness”]
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Tooling/Environment:</span><span class="token punctuation">**</span></span> [e.g., “Standardize for VS Code and GitHub Actions; use LaTeX for all technical formulas”]
 
 <span class="token title important"><span class="token punctuation">##</span> Evidence: What's Worked</span>
-<span class="token list punctuation">-</span> [Past experience that worked] — conditions: [why it worked]
-<span class="token list punctuation">-</span> [Past experience that worked] — conditions: [why it worked]
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Success A:</span><span class="token punctuation">**</span></span> [Specific Project] — <span class="token bold"><span class="token punctuation">**</span><span class="token content">Factor:</span><span class="token punctuation">**</span></span> [The 'X' variable: e.g., “Used a Mental Model approach (Inversion) to identify failures early”]
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Success B:</span><span class="token punctuation">**</span></span> [Specific Project] — <span class="token bold"><span class="token punctuation">**</span><span class="token content">Factor:</span><span class="token punctuation">**</span></span> [The 'X' variable: e.g., “Strict adherence to Data Normalization prevented 40% of downstream errors"]
 
 <span class="token title important"><span class="token punctuation">##</span> Evidence: What Hasn't Worked</span>
-<span class="token list punctuation">-</span> [Past experience that failed] — problem: [what went wrong]
-<span class="token list punctuation">-</span> [Past experience that failed] — problem: [what went wrong]
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Failure A:</span><span class="token punctuation">**</span></span> [Specific Project] — <span class="token bold"><span class="token punctuation">**</span><span class="token content">Root Cause:</span><span class="token punctuation">**</span></span> [The 'Y' variable: e.g., “Scope creep occurred due to lack of a defined 'Non-Negotiable' list"]
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Failure B:</span><span class="token punctuation">**</span></span> [Specific Project] — <span class="token bold"><span class="token punctuation">**</span><span class="token content">Root Cause:</span><span class="token punctuation">**</span></span> [The 'Y' variable: e.g., “Optimization for performance led to unmaintainable 'spaghetti' code"]
 
-<span class="token title important"><span class="token punctuation">##</span> Acceptance criteria</span>
-A short checklist that makes success testable.
+<span class="token title important"><span class="token punctuation">##</span> Acceptance Criteria</span>
+<span class="token list punctuation">-</span> [ ] <span class="token bold"><span class="token punctuation">**</span><span class="token content">Quantifiable:</span><span class="token punctuation">**</span></span> Does the output meet the [X] threshold?
+<span class="token list punctuation">-</span> [ ] <span class="token bold"><span class="token punctuation">**</span><span class="token content">Actionable:</span><span class="token punctuation">**</span></span> Can I execute on this immediately without further research?
+<span class="token list punctuation">-</span> [ ] <span class="token bold"><span class="token punctuation">**</span><span class="token content">Structural:</span><span class="token punctuation">**</span></span> Does it follow the [Deliverable 1.1] format exactly?
 
 <span class="token title important"><span class="token punctuation">##</span> Assumptions</span>
-Only include if you proceeded without asking a clarifying question.
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Assumption 1:</span><span class="token punctuation">**</span></span> [e.g., “Proceeding with the assumption that the budget is fixed at $X unless otherwise stated.”]
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Assumption 2:</span><span class="token punctuation">**</span></span> [e.g., “Assuming the primary audience has a technical background in Data Engineering.”]
 
 <span class="token title important"><span class="token punctuation">##</span> Key Success Factors</span>
-<span class="token list punctuation">-</span> [Factor 1]
-<span class="token list punctuation">-</span> [Factor 2]
-<span class="token list punctuation">-</span> [Factor 3]</code></pre></div>
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">High-Signal Focus:</span><span class="token punctuation">**</span></span> Omit all common-knowledge fluff; prioritize “Delta” (new information).
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Logical Density:</span><span class="token punctuation">**</span></span> Ensure every sentence introduces a new constraint, fact, or insight.
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Mental Models:</span><span class="token punctuation">**</span></span> Apply [e.g., First Principles or Charlie Munger's Latticework] to the final output.</code></pre></div>
 <ul>
 <li><strong>Style guide file</strong>: <code class="language-text">style_guide.md</code> sets the tone and style od the output. It overrides the default style of the model.</li>
 </ul>
 <div class="gatsby-highlight" data-language="markdown"><pre class="language-markdown"><code class="language-markdown"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>voice_analysis</span><span class="token punctuation">></span></span>
-Analyze these writing samples and extract my voice profile. For each pattern you identify, cite the specific phrase or sentence that demonstrates it. Cover:
+Extract a “Voice DNA” profile from the provided samples. For every pattern identified, provide a “Code Snippet” quote as proof. Address the following:
 
-<span class="token list punctuation">1.</span> How I open paragraphs? What's the first sentence doing?
-<span class="token list punctuation">2.</span> What are the patterns across these sentences? Average length, range, rhythm?
-<span class="token list punctuation">3.</span> Moves I repeat - do I enumerate? Use parentheticals? Quantify?
-<span class="token list punctuation">4.</span> Vocabulary I reach for vs. vocabulary I avoid
-<span class="token list punctuation">5.</span> How I handle uncertainty and evidence?
-<span class="token list punctuation">6.</span> What I never do (identify any consistent absences)?
+<span class="token list punctuation">1.</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">The Hook:</span><span class="token punctuation">**</span></span> Analyze the function of the opening sentence. Is it a claim, a question, or a data point?
+<span class="token list punctuation">2.</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Syntactic Rhythm:</span><span class="token punctuation">**</span></span> Calculate the average word count for lead sentences vs. explanatory sentences. Identify the cadence (e.g., Short-Short-Long).
+<span class="token list punctuation">3.</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Mechanical Fingerprints:</span><span class="token punctuation">**</span></span> Quantify the use of parentheticals, colons, em-dashes, and bulleted lists.
+<span class="token list punctuation">4.</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Lexical Density:</span><span class="token punctuation">**</span></span> Contrast the “High-Signal” verbs used against the “Low-Signal” fluff avoided.
+<span class="token list punctuation">5.</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Epistemology:</span><span class="token punctuation">**</span></span> How is uncertainty expressed? Identify the specific transition from “Evidence” to “Conclusion.”
+<span class="token list punctuation">6.</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">The “Never” List:</span><span class="token punctuation">**</span></span> Document stylistic absences (e.g., no rhetorical questions, no passive voice, no introductory adverbs).
 
-Be specific. “Uses short sentences” is useless. “Lead sentences average 8 words; elaboration sentences average 18” is useful. Quote my text as evidence for every claim.
+<span class="token bold"><span class="token punctuation">**</span><span class="token content">Constraint:</span><span class="token punctuation">**</span></span> Do not use qualitative adjectives like “engaging” or “professional.” Use quantitative metrics (e.g., “70% of sentences use active verbs”).
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>voice_analysis</span><span class="token punctuation">></span></span>
 
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>vocabulary_preference</span><span class="token punctuation">></span></span>
-<span class="token list punctuation">-</span> Prefer verbs: [your active vocabulary: “deliver”, “target”, “measure”, “verify”, “reduce”, “scale”]
-<span class="token list punctuation">-</span> Avoid phrases: [your ban list: “leverage”, “synergy”, “robust and comprehensive”, “delve”, “multifaceted”, “foster”, “navigate”, “compelling”, “pivotal”, “transformative”] 
-<span class="token list punctuation">-</span> Domain-specific avoidances: [instead of “we believe” use “we estimate,” instead of “evidence suggests” use “evidence supports”]
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Active Verbs:</span><span class="token punctuation">**</span></span> [e.g., “execute”, “validate”, “quantify”, “ship”, “audit”, “distill”]
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Forbidden Terms (The “Fluff” Filter):</span><span class="token punctuation">**</span></span> [e.g., “leverage”, “synergy”, “deep dive”, “tapestry”, “cutting-edge”, “foster”, “transformative”]
+<span class="token list punctuation">-</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Nuance Substitutions:</span><span class="token punctuation">**</span></span>
+    <span class="token list punctuation">-</span> Swap “I think” for “Data indicates.”
+    <span class="token list punctuation">-</span> Swap “very” or “extremely” for specific metrics.
+    <span class="token list punctuation">-</span> Swap “comprehensive” for “end-to-end.”
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>vocabulary_preference</span><span class="token punctuation">></span></span>
 
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>voice_spec</span><span class="token punctuation">></span></span>
-<span class="token list punctuation">1.</span> Using the analysis above, write my voice spec. Format it as a style guide that fits on a single page (300–500 words). 
-<span class="token list punctuation">2.</span> Cover the following: tone and stance, non-negotiable rules (numbered list, stated as constraints not preferences), vocabulary to use vs. avoid, and how I handle evidence and uncertainty.
-<span class="token list punctuation">3.</span> Every rule must be testable: instead of “write clearly,” say “keep topic sentences under 12 words.” Do not use adjectives or minimize adjectives.
+Construct a one-page “Instructional Blueprint” (300–500 words) for generating future content. 
+
+<span class="token list punctuation">1.</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Stance:</span><span class="token punctuation">**</span></span> Define the persona's authority level and emotional distance.
+<span class="token list punctuation">2.</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Hard Rules (Testable Constraints):</span><span class="token punctuation">**</span></span>
+    <span class="token list punctuation">-</span> Rule 1: Topic sentences must remain under [X] words.
+    <span class="token list punctuation">-</span> Rule 2: No more than [X] adjectives per 100 words.
+    <span class="token list punctuation">-</span> Rule 3: Every claim must be followed by a “Reason Why” or “Data Point.”
+    <span class="token list punctuation">-</span> Rule 4: [e.g., Use Oxford commas; no semicolons; no exclamation points.]
+<span class="token list punctuation">3.</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Logic Flow:</span><span class="token punctuation">**</span></span> Map the standard progression (e.g., Problem → Metric → Solution → Risk).
+<span class="token list punctuation">4.</span> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Evidence Handling:</span><span class="token punctuation">**</span></span> Define the exact format for citations or data integration (e.g., “Always use $(Value) followed by (Context)”).
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>voice_spec</span><span class="token punctuation">></span></span></code></pre></div>
 <h2 id="evals" style="position:relative;"><a href="#evals" aria-label="evals permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Evals</h2>
 <h2 id="further-reading" style="position:relative;"><a href="#further-reading" aria-label="further reading permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Further reading</h2>
@@ -567,4 +585,4 @@ Be specific. “Uses short sentences” is useless. “Lead sentences average 8 
           >
             window.___chunkMapping="{\"app\":[\"/app-e6175fd1307b25507a2c.js\"],\"component---src-pages-404-js\":[\"/component---src-pages-404-js-7c09a1a29a67f5ea1395.js\"],\"component---src-pages-about-js\":[\"/component---src-pages-about-js-10236fd55c36a8360621.js\"],\"component---src-pages-art-js\":[\"/component---src-pages-art-js-5a95380e6073dceb7b56.js\"],\"component---src-pages-bookshelf-js\":[\"/component---src-pages-bookshelf-js-08e920fa47193a1f0b78.js\"],\"component---src-pages-index-js\":[\"/component---src-pages-index-js-f80178f463277680ae86.js\"],\"component---src-pages-notes-js\":[\"/component---src-pages-notes-js-f2476d3dd6922d48caed.js\"],\"component---src-pages-work-js\":[\"/component---src-pages-work-js-a44ce9595bf14b49a464.js\"],\"component---src-templates-blog-post-js\":[\"/component---src-templates-blog-post-js-5071623ffa4c53c815bd.js\"]}";
           </script>
-        <script>window.___webpackCompilationHash="5810bf541788407056c7";</script><script src="/webpack-runtime-368b8326257b0ef2a400.js" async></script><script src="/framework-6a57ab285ee42b9bb028.js" async></script><script src="/app-e6175fd1307b25507a2c.js" async></script><!-- slice-end id="_gatsby-scripts-1" --></body></html>
+        <script>window.___webpackCompilationHash="cb6f492cc23151c1b22e";</script><script src="/webpack-runtime-368b8326257b0ef2a400.js" async></script><script src="/framework-6a57ab285ee42b9bb028.js" async></script><script src="/app-e6175fd1307b25507a2c.js" async></script><!-- slice-end id="_gatsby-scripts-1" --></body></html>
