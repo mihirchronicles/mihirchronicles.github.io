@@ -53,7 +53,25 @@ const WorkIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <h1>Work</h1>
-      <p style={{ marginBottom: "4rem", maxWidth: "800px" }}>These are a few highlights of my work projects.</p>
+      <p style={{ marginBottom: "4rem", maxWidth: "800px" }}>A hand-selected list of personal and professional projects I have contributed to. The showcase brings attention to my product thinking, design, and engineering work.</p>
+
+      <h2>Interaction of Color</h2>
+      <WorkContainer>
+        <ImageContainer>
+          <Zoom>
+            <StaticImage src="../images/color_theory.png" alt="color theory tool" className="gallery-image" />
+          </Zoom>
+        </ImageContainer>
+        <ContentContainer>
+          <p><strong>[2026]</strong></p>
+          <ul>
+            <li>An interactive tool on color theory. It is inspired by the teachings of Josef Albers which explore how colors behave, interact, and deceive the human eye.
+            </li>
+          </ul>
+          <p><strong>Website</strong>: <a href="/projects/color_theory">Interaction of Color Tool</a></p>
+        </ContentContainer>
+      </WorkContainer>
+
 
       <h2>DAFgiving360 (Schwab Charitable)</h2>
       <WorkContainer>
