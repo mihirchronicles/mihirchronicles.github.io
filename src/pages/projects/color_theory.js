@@ -520,7 +520,6 @@ const ColorTheoryIndex = ({ data, location }) => {
                     color: var(--color-background);
                 }
                 .ct-button:active {
-                    transform: translate(6px, 6px);
                     box-shadow: 0px 0px 0px 0px var(--color-dark);
                 }
                 .ct-pill {
@@ -744,6 +743,7 @@ const ColorTheoryIndex = ({ data, location }) => {
                                 className="ct-button"
                                 style={{
                                     marginRight: 'var(--spacing-4)',
+                                    marginBottom: 'var(--spacing-4)',
                                     backgroundColor: colorModel === 'RGB' ? 'var(--color-dark)' : 'var(--color-background)',
                                     color: colorModel === 'RGB' ? 'var(--color-background)' : 'var(--color-dark)',
                                     boxShadow: colorModel === 'RGB' ? 'none' : '6px 6px 0px 0px var(--color-dark)',
@@ -880,12 +880,14 @@ const ColorTheoryIndex = ({ data, location }) => {
                             <div className="color-track-hue illusion-track" style={{ marginBottom: 0 }}></div>
                         </div>
                         <button onClick={() => setIsIllusionActive(!isIllusionActive)} className="ct-button" style={{
-                            backgroundColor: isIllusionActive ? 'var(--color-background)' : 'var(--color-dark)',
-                            color: isIllusionActive ? 'var(--color-dark)' : 'var(--color-background)',
-                            boxShadow: isIllusionActive ? '6px 6px 0px 0px var(--color-dark)' : 'none',
-                            transform: isIllusionActive ? 'none' : 'translate(6px, 6px)'
+                            backgroundColor: 'var(--color-primary-accent)',
+                            color: 'var(--color-light)',
+                            transition: 'transform 0.1s, box-shadow 0.5s',
+                            border: 'solid var(--color-light) var(--spacing-1)',
+                            boxShadow: '6px 6px 0px 0px var(--color-light)',
+                            transform: 'translate(6px, 6px)',
                         }}>
-                            {isIllusionActive ? 'Remove Backgrounds to Reveal Truth' : 'Restore Background Context'}
+                            {isIllusionActive ? 'Remove Background' : 'Restore Background'}
                         </button>
                     </div>
                 </div>
