@@ -628,11 +628,11 @@ const PaintBrushesIndex = ({ data, location }) => {
 
                         <div style={{ display: 'flex', flexDirection: 'column', gap: 'var(--spacing-6)' }}>
                             <div style={{ padding: 'var(--spacing-4)', backgroundColor: 'var(--color-background)', border: '1px solid var(--color-secondary-accent)', borderRadius: 'var(--spacing-1)' }}>
-                                <p style={{ fontSize: 'var(--fontSize-0)', fontWeight: 'bold', textTransform: 'uppercase', letterSpacing: '0.05em', color: 'var(--color-secondary-accent)', margin: '0 0 var(--spacing-2) 0' }}>Best For</p>
+                                <p style={{ fontSize: 'var(--fontSize-0)', fontWeight: 'bold', textTransform: 'uppercase', letterSpacing: '0.05em', margin: '0 0 var(--spacing-2) 0' }}>Best For</p>
                                 <p style={{ margin: 0, fontSize: 'var(--fontSize-0)' }}>{specialtyBrushes[activeSpecialty].useCase}</p>
                             </div>
                             <div style={{ padding: 'var(--spacing-4)', backgroundColor: 'var(--color-background)', border: '1px solid var(--color-secondary-accent)', borderRadius: 'var(--spacing-1)' }}>
-                                <p style={{ fontSize: 'var(--fontSize-0)', fontWeight: 'bold', textTransform: 'uppercase', letterSpacing: '0.05em', color: 'var(--color-secondary-accent)', margin: '0 0 var(--spacing-2) 0' }}>Medium</p>
+                                <p style={{ fontSize: 'var(--fontSize-0)', fontWeight: 'bold', textTransform: 'uppercase', letterSpacing: '0.05em', margin: '0 0 var(--spacing-2) 0' }}>Medium</p>
                                 <p style={{ margin: 0, fontSize: 'var(--fontSize-0)' }}>{specialtyBrushes[activeSpecialty].medium}</p>
                             </div>
                             <div style={{ padding: 'var(--spacing-4)', backgroundColor: 'var(--color-background)', border: '1px solid var(--color-secondary-accent)', borderRadius: 'var(--spacing-1)' }}>
@@ -650,8 +650,7 @@ const PaintBrushesIndex = ({ data, location }) => {
                     <div className="ct-grid cols-3" style={{ marginBottom: 0, marginTop: 'var(--spacing-8)' }}>
                         {techniques.map(t => (
                             <div key={t.name} className="ct-card" style={{ padding: 'var(--spacing-5)', margin: 0, border: '1px solid var(--color-dark)' }}>
-                                <h4 style={{ margin: '0 0 var(--spacing-3) 0' }}>{t.name}</h4>
-                                <br></br>
+                                <p style={{ margin: '0 0 var(--spacing-3) 0' }}><strong>{t.name}</strong></p>
                                 <div style={{ display: 'flex', flexWrap: 'wrap', gap: 'var(--spacing-2)', alignItems: 'center' }}>
                                     <span style={{
                                         display: 'inline-block',
@@ -665,8 +664,7 @@ const PaintBrushesIndex = ({ data, location }) => {
                                         whiteSpace: 'nowrap'
                                     }}>{t.level}</span>
                                 </div>
-                                <br></br>
-                                <p style={{ fontSize: 'var(--fontSize-0)', color: 'var(--color-secondary-accent)', margin: 'var(--spacing-2) 0 0 0' }}><strong>MEDIUM:</strong> {t.medium}</p>
+                                <p style={{ fontSize: 'var(--fontSize-0)', margin: 'var(--spacing-2) 0 0 0' }}><strong>MEDIUM:</strong> {t.medium}</p>
                                 <br></br>
                                 <p style={{ fontSize: 'var(--fontSize-0)', margin: '0 0 var(--spacing-4) 0' }}>{t.description}</p>
                             </div>

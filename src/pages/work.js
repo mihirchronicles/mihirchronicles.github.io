@@ -55,7 +55,7 @@ const WorkIndex = ({ data, location }) => {
       <h1>Work</h1>
       <p style={{ marginBottom: "4rem", maxWidth: "800px" }}>A hand-selected list of personal and professional projects I have contributed to. The showcase brings attention to my product thinking, design, and engineering work.</p>
 
-      <h2>Painter's Toolbox</h2>
+      <h2>Mihirchronicles Painter's Toolbox</h2>
       <WorkContainer>
         <ImageContainer>
           <Zoom>
@@ -64,13 +64,19 @@ const WorkIndex = ({ data, location }) => {
           <Zoom>
             <StaticImage src="../images/paint_brushes.png" alt="paint brushes" className="gallery-image" />
           </Zoom>
+          <Zoom>
+            <StaticImage src="../images/trees.png" alt="trees" className="gallery-image" />
+          </Zoom>
         </ImageContainer>
         <ContentContainer>
           <p><strong>[Ongoing]</strong></p>
           <ul>
+            <li>A project documenting my journey as a painter. I am just getting started on my journey to paint and I am obsessed with the trees and forests. These are the tools I have built to help me learn the tactical details of color theory, paint brushes, and architecture of trees.</li>
             <li>An interactive tool on color theory. It is inspired by the teachings of Josef Albers which explore how colors behave, interact, and deceive the human eye. <a href="/projects/color_theory">Color Guide</a>
             </li>
             <li>An interactive guide on paint brushes. <a href="/projects/paint_brushes">Paint Brush Guide</a>
+            </li>
+            <li>An interactive guide on how to paint trees. <a href="/projects/trees">Tree Guide</a>
             </li>
           </ul>
         </ContentContainer>
