@@ -170,6 +170,138 @@ data-styled.g4[id="sc-1g5t2xm-3"]{content:"fboDAm,"}/*!sc*/
                     margin-bottom: 2rem;
                     border: 2px solid var(--color-dark);
                 }
+                .illusion-slider::-webkit-slider-thumb {
+                    border-color: var(--color-background);
+                    box-shadow: 2px 2px 0px 0px var(--color-background);
+                    background: var(--color-dark);
+                }
+                .illusion-slider::-moz-range-thumb {
+                    border-color: var(--color-background);
+                    box-shadow: 2px 2px 0px 0px var(--color-background);
+                    background: var(--color-dark);
+                }
+                .illusion-slider:active::-webkit-slider-thumb {
+                    background: var(--color-background);
+                    box-shadow: 0px 0px 0px 0px var(--color-background);
+                }
+                .illusion-slider:active::-moz-range-thumb {
+                    background: var(--color-background);
+                    box-shadow: 0px 0px 0px 0px var(--color-background);
+                }
+                .illusion-slider::-webkit-slider-runnable-track {
+                    background: var(--color-background);
+                    border-color: var(--color-background);
+                }
+                .illusion-slider::-moz-range-track {
+                    background: var(--color-background);
+                    border-color: var(--color-background);
+                }
+                .color-track-hue.illusion-track {
+                    border-color: var(--color-background);
+                }
+                .tooltip-container {
+                    position: relative;
+                    display: inline-block;
+                    margin-left: var(--spacing-2);
+                    outline: none;
+                }
+                .tooltip-icon {
+                    display: inline-flex;
+                    align-items: center;
+                    justify-content: center;
+                    width: 1rem;
+                    height: 1rem;
+                    border-radius: 50%;
+                    background-color: var(--color-secondary-accent);
+                    color: var(--color-background);
+                    font-size: 0.65rem;
+                    font-weight: bold;
+                    cursor: pointer;
+                    font-style: normal;
+                    border: none;
+                    padding: 0;
+                }
+                .tooltip-content {
+                    visibility: hidden;
+                    opacity: 0;
+                    position: absolute;
+                    bottom: 150%;
+                    left: 50%;
+                    transform: translateX(-50%);
+                    background-color: var(--color-dark);
+                    color: var(--color-background);
+                    text-align: left;
+                    padding: var(--spacing-3);
+                    border-radius: var(--spacing-1);
+                    width: 18rem;
+                    z-index: 10;
+                    transition: opacity 0.2s, visibility 0.2s;
+                    font-size: var(--fontSize-0);
+                    font-weight: normal;
+                    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+                    pointer-events: none;
+                }
+                .tooltip-content::after {
+                    content: &quot;&quot;;
+                    position: absolute;
+                    top: 100%;
+                    left: 50%;
+                    margin-left: -5px;
+                    border-width: 5px;
+                    border-style: solid;
+                    border-color: var(--color-dark) transparent transparent transparent;
+                }
+                .tooltip-container:focus-within .tooltip-content,
+                .tooltip-container:hover .tooltip-content {
+                    visibility: visible;
+                    opacity: 1;
+                }
+                @media (max-width: 767px) {
+                    .tooltip-content {
+                        position: fixed;
+                        bottom: 1rem;
+                        left: 50%;
+                        transform: translateX(-50%);
+                        width: 90%;
+                        max-width: none;
+                        z-index: 999;
+                    }
+                    .tooltip-content::after {
+                        display: none;
+                    }
+                }
+                .gamut-container {
+                    position: relative;
+                    width: 300px;
+                    height: 300px;
+                    margin: 0 auto;
+                    border-radius: 50%;
+                    overflow: hidden;
+                    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+                }
+                .gamut-wheel {
+                    background: conic-gradient(
+                        from 90deg,
+                        hsl(0, 100%, 50%),
+                        hsl(60, 100%, 50%),
+                        hsl(120, 100%, 50%),
+                        hsl(180, 100%, 50%),
+                        hsl(240, 100%, 50%),
+                        hsl(300, 100%, 50%),
+                        hsl(360, 100%, 50%)
+                    );
+                    width: 100%;
+                    height: 100%;
+                    border-radius: 50%;
+                }
+                .gamut-overlay {
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    width: 100%;
+                    height: 100%;
+                    pointer-events: none;
+                }
                 .ct-grid {
                     display: grid;
                     grid-template-columns: 1fr;
@@ -226,7 +358,6 @@ data-styled.g4[id="sc-1g5t2xm-3"]{content:"fboDAm,"}/*!sc*/
                 .ct-illusion-center {
                     width: 6rem;
                     height: 6rem;
-                    background-color: #8b7d6b;
                     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
                     transition: transform 0.3s;
                 }
@@ -298,17 +429,14 @@ data-styled.g4[id="sc-1g5t2xm-3"]{content:"fboDAm,"}/*!sc*/
                     text-align: center;
                     padding: var(--spacing-2) var(--spacing-4);
                     border-radius: var(--spacing-1);
-                    width: 9rem;
+                    width: 10rem;
                     outline: none;
                     transition: all 0.3s ease;
-                    box-shadow: 4px 4px 0px 0px var(--color-dark);
                 }
                 .hex-input:focus {
                     background: var(--color-dark);
                     color: var(--color-background);
                     border-color: var(--color-dark);
-                    transform: translate(-2px, -2px);
-                    box-shadow: 6px 6px 0px 0px var(--color-secondary-accent);
                 }
                 .hex-input::selection {
                     background: var(--color-primary-accent);
@@ -323,7 +451,7 @@ data-styled.g4[id="sc-1g5t2xm-3"]{content:"fboDAm,"}/*!sc*/
                         font-size: var(--fontSize-2) !important;
                     }
                 }
-            </style><header style="text-align:left;margin-bottom:var(--spacing-16)"><h1 class="main-heading">Interaction Of Color</h1><p class="ct-responsive-header-text" style="font-size:var(--fontSize-3);color:var(--color-secondary-accent)">A journey from the fundamental physics of light to the psychological illusions of human perception. Inspired by the teachings of Josef Albers, explore how colors behave, interact, and deceive.</p><div style="margin-top:var(--spacing-8)"><a href="#beginner" class="ct-button">Start the Journey ↓</a></div></header><hr style="margin-bottom:var(--spacing-12)"/><section id="beginner" style="margin-bottom:var(--spacing-16)"><div><span class="ct-pill">Phase 01</span><h2>Beginner: The Foundations</h2><p>Before we can manipulate color, we must organize it. The color wheel is the most basic tool for understanding how human vision categorizes the spectrum of light. This section introduces the core vocabulary needed to communicate visual ideas.</p></div><div class="ct-grid cols-2"><div class="ct-card flex-col-center"><canvas width="300" height="300" style="max-width:100%;height:auto;border-radius:50%"></canvas><p style="margin-top:var(--spacing-6);font-size:var(--fontSize-0);font-weight:bold">Continuous HSL Spectrum</p></div><div><h3 style="margin-top:0">Anatomy of the Wheel</h3><p>The standard color wheel maps the visible spectrum into a circle. By arranging colors this way, we can immediately see relationships and categories.</p><ul style="list-style-type:none;margin-left:0"><li style="margin-bottom:var(--spacing-4)"><strong style="display:flex;align-items:center"><span style="display:inline-block;width:12px;height:12px;border-radius:50%;background-color:#ef4444;margin-right:8px"></span>Primary Colors</strong><p style="font-size:var(--fontSize-0);margin-top:4px">Red, Yellow, and Blue. In traditional art theory, these are the base pigments that cannot be created by mixing other colors.</p></li><li style="margin-bottom:var(--spacing-4)"><strong style="display:flex;align-items:center"><span style="display:inline-block;width:12px;height:12px;border-radius:50%;background-color:#22c55e;margin-right:8px"></span>Secondary Colors</strong><p style="font-size:var(--fontSize-0);margin-top:4px">Green, Orange, and Purple. Formed by mixing equal parts of two primary colors.</p></li><li style="margin-bottom:var(--spacing-4)"><strong style="display:flex;align-items:center"><span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:linear-gradient(to right, #ef4444, #3b82f6);margin-right:8px"></span>Temperature</strong><p style="font-size:var(--fontSize-0);margin-top:4px">The wheel can be split in half: Warm colors (Reds, Oranges, Yellows) advance towards the viewer, while Cool colors (Blues, Greens) recede into the background.</p></li></ul></div></div></section><hr style="margin-bottom:var(--spacing-12)"/><section id="intermediate" style="margin-bottom:var(--spacing-16)"><div><span class="ct-pill">Phase 02</span><h2>Intermediate: Dimensions of Color</h2><p>Color is three-dimensional. While the color wheel shows us &#x27;Hue&#x27;, it misses &#x27;Saturation&#x27; and &#x27;Value&#x27;. By adjusting these three parameters (HSV), we can create millions of distinct colors. Use the laboratory below to dissect exactly how a digital color is built.</p></div><div class="ct-card"><div class="ct-grid cols-3" style="margin-bottom:0"><div style="display:flex;flex-direction:column;justify-content:center"><div style="margin-bottom:var(--spacing-6)"><div class="flex-row-between"><label for="hueInput" style="font-weight:bold;font-size:var(--fontSize-0)">Hue (Color Family)</label><span class="mono-text" style="font-size:var(--fontSize-0);color:var(--color-secondary-accent)">180<!-- -->°</span></div><input id="hueInput" type="range" class="color-range" min="0" max="360" value="180"/><div class="color-track-hue"></div></div><div style="margin-bottom:var(--spacing-6)"><div class="flex-row-between"><label for="satInput" style="font-weight:bold;font-size:var(--fontSize-0)">Saturation (Intensity)</label><span class="mono-text" style="font-size:var(--fontSize-0);color:var(--color-secondary-accent)">50<!-- -->%</span></div><input id="satInput" type="range" class="color-range" min="0" max="100" value="50"/><div class="color-track-sat"></div></div><div><div class="flex-row-between"><label for="valInput" style="font-weight:bold;font-size:var(--fontSize-0)">Value (Lightness)</label><span class="mono-text" style="font-size:var(--fontSize-0);color:var(--color-secondary-accent)">80<!-- -->%</span></div><input id="valInput" type="range" class="color-range" min="0" max="100" value="80"/><div class="color-track-val"></div></div></div><div class="flex-col-center" style="margin-top:var(--spacing-4)"><div class="ct-preview-box" style="background-color:rgb(102, 204, 204)"></div><div style="margin-top:var(--spacing-6)"><label for="hexInput" class="sr-only" aria-label="Hex Color Key" style="display:none">Hex Value</label><input id="hexInput" type="text" class="mono-text hex-input" maxLength="7" value="#007F7F"/></div></div><div class="flex-col-center" style="width:100%;margin-top:var(--spacing-4);overflow:hidden"><h4 style="text-transform:uppercase;font-size:var(--fontSize-0);margin-bottom:var(--spacing-4);margin-top:0">RGB Data Output</h4><div class="chart-container-inner"><canvas></canvas></div></div></div></div></section><hr style="margin-bottom:var(--spacing-12)"/><section id="advanced" style="margin-bottom:var(--spacing-16)"><div><span class="ct-pill">Phase 03</span><h2>Advanced: The Relativity of Color</h2><p>Josef Albers famously stated: <em>&quot;In visual perception a color is almost never seen as it really is—as it physically is. This fact makes color the most relative medium in art.&quot;</em> This section demonstrates Simultaneous Contrast, where a single color appears as two completely different colors based on its surroundings.</p></div><div class="ct-card text-center" style="background-color:var(--color-dark);color:var(--color-background);border:none"><div style="margin-bottom:var(--spacing-10)"><h3 style="color:var(--color-background);margin-top:0">The Albers Illusion</h3><p style="color:var(--color-background);max-width:40rem;margin:0 auto">Look at the two small center squares. To the human eye, the left square appears to be a light, warm brown, while the right square appears to be a darker, cooler gray. In reality, they are exactly the same physical color.</p></div><div class="ct-illusion-row"><div class="ct-illusion-col" style="background-color:#1e3a8a"><div class="ct-illusion-center"></div></div><div class="ct-illusion-col" style="background-color:#fef08a"><div class="ct-illusion-center"></div></div></div><div style="margin-top:var(--spacing-10)"><button class="ct-button" style="background-color:var(--color-background);color:var(--color-dark)">Remove Backgrounds to Reveal Truth</button></div></div></section></main><footer><hr/><p><i>Drop me a note if you are curious to chat. Newsletter goes out once a year in December.</i></p><div style="margin-bottom:1rem"><a href="https://twitter.com/mihirchronicles"><strong>Twitter</strong></a> <span> | </span><a href="https://www.linkedin.com/in/mihirchronicles/"><strong>Linkedin</strong></a> <span> | </span><a href="https://eepurl.com/hRGv2D"><strong>Newsletter</strong></a></div></footer></div></div><div id="gatsby-announcer" style="position:absolute;top:0;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0" aria-live="assertive" aria-atomic="true"></div></div><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-HTPE7YS2EL"></script><script>
+            </style><header style="text-align:left;margin-bottom:var(--spacing-16)"><h1 class="main-heading">Interaction Of Color</h1><p class="ct-responsive-header-text">A journey from the fundamental physics of light to the psychological illusions of human perception. Inspired by the teachings of Josef Albers, explore how colors behave, interact, and fool our eyes.</p><div style="margin-top:var(--spacing-8)"><a href="#beginner" class="ct-button">Start the Journey ↓</a></div></header><hr style="margin-bottom:var(--spacing-12)"/><section id="beginner" style="margin-bottom:var(--spacing-16)"><div><span class="ct-pill">Phase 01</span><h2>Beginner: The Foundations</h2><p>Before we can manipulate color, we must organize it. The color wheel is the most basic tool for understanding how human vision categorizes the spectrum of light. This section introduces the core vocabulary needed to communicate visual ideas.</p></div><div class="ct-grid cols-2"><div class="ct-card flex-col-center"><canvas width="300" height="300" style="max-width:100%;height:auto;border-radius:50%"></canvas><p style="margin-top:var(--spacing-6);font-size:var(--fontSize-0);font-weight:bold">Continuous HSL Spectrum</p></div><div><h3 style="margin-top:0">Anatomy of the Wheel</h3><p>The standard color wheel maps the visible spectrum into a circle. By arranging colors this way, we can immediately see relationships and categories.</p><ul style="list-style-type:none;margin-left:0"><li style="margin-bottom:var(--spacing-4)"><strong style="display:flex;align-items:center"><span style="display:inline-block;width:12px;height:12px;border-radius:50%;background-color:#ef4444;margin-right:8px"></span>Primary Colors</strong><p style="font-size:var(--fontSize-0);margin-top:4px">Red, Yellow, and Blue. In traditional art theory, these are the base pigments that cannot be created by mixing other colors.</p></li><li style="margin-bottom:var(--spacing-4)"><strong style="display:flex;align-items:center"><span style="display:inline-block;width:12px;height:12px;border-radius:50%;background-color:#22c55e;margin-right:8px"></span>Secondary Colors</strong><p style="font-size:var(--fontSize-0);margin-top:4px">Green, Orange, and Purple. Formed by mixing equal parts of two primary colors.</p></li><li style="margin-bottom:var(--spacing-4)"><strong style="display:flex;align-items:center"><span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:linear-gradient(to right, #ef4444, #3b82f6);margin-right:8px"></span>Temperature</strong><p style="font-size:var(--fontSize-0);margin-top:4px">The wheel can be split in half: Warm colors (Reds, Oranges, Yellows) advance towards the viewer, while Cool colors (Blues, Greens) recede into the background.</p></li></ul></div></div></section><hr style="margin-bottom:var(--spacing-12)"/><section id="intermediate" style="margin-bottom:var(--spacing-16)"><div><span class="ct-pill">Phase 02</span><h2>Intermediate: Dimensions of Color</h2><p>Color is three-dimensional. While the color wheel shows us &#x27;Hue&#x27;, it misses &#x27;Saturation&#x27; and &#x27;Value&#x27;. By adjusting these three parameters (HSV), we can create millions of distinct colors. Use the laboratory below to dissect exactly how a digital color is built.</p><div class="ct-card"><div class="ct-grid cols-3" style="margin-bottom:0"><div style="display:flex;flex-direction:column;justify-content:center"><div style="margin-bottom:var(--spacing-6)"><div class="flex-row-between"><div style="display:flex;align-items:center"><label for="hueInput" style="font-weight:bold;font-size:var(--fontSize-0)">Hue (Color Family)</label><span class="tooltip-container"><button type="button" class="tooltip-icon" aria-label="More info">?</button><span class="tooltip-content"><strong>Definition:</strong>The spectral wavelength composition identifying the color family (e.g., Red, Blue-Green).<br/><br/><strong>Role:</strong> Establishes the basic color identity and primary emotional valence.</span></span></div><span class="mono-text" style="font-size:var(--fontSize-0);color:var(--color-secondary-accent)">180<!-- -->°</span></div><input id="hueInput" type="range" class="color-range" min="0" max="360" value="180"/><div class="color-track-hue"></div></div><div style="margin-bottom:var(--spacing-6)"><div class="flex-row-between"><div style="display:flex;align-items:center"><label for="satInput" style="font-weight:bold;font-size:var(--fontSize-0)">Saturation (Intensity)</label><span class="tooltip-container"><button type="button" class="tooltip-icon" aria-label="More info">?</button><span class="tooltip-content"><strong>Definition:</strong> The degree of purity, richness, or grayness of a color; its intensity.<br/><br/><strong>Role:</strong> Directs the viewer’s attention and establishes atmospheric perspective.</span></span></div><span class="mono-text" style="font-size:var(--fontSize-0);color:var(--color-secondary-accent)">50<!-- -->%</span></div><input id="satInput" type="range" class="color-range" min="0" max="100" value="50"/><div class="color-track-sat"></div></div><div><div class="flex-row-between"><div style="display:flex;align-items:center"><label for="valInput" style="font-weight:bold;font-size:var(--fontSize-0)">Value (Lightness)</label><span class="tooltip-container"><button type="button" class="tooltip-icon" aria-label="More info">?</button><span class="tooltip-content"><strong>Definition:</strong> The relative lightness or darkness of a color, measuring the amount of light reflected.<br/><br/><strong>Role:</strong> Creates the illusion of form, depth, and three-dimensional space through chiaroscuro.</span></span></div><span class="mono-text" style="font-size:var(--fontSize-0);color:var(--color-secondary-accent)">80<!-- -->%</span></div><input id="valInput" type="range" class="color-range" min="0" max="100" value="80"/><div class="color-track-val"></div></div></div><div class="flex-col-center" style="margin-top:var(--spacing-4)"><div class="ct-preview-box" style="background-color:rgb(102, 204, 204)"></div><div style="margin-top:var(--spacing-6)"><label for="hexInput" class="sr-only" aria-label="Hex Color Key" style="display:none">Hex Value</label><input id="hexInput" type="text" class="mono-text hex-input" maxLength="7" value="#007F7F"/></div></div><div class="flex-col-center" style="width:100%;margin-top:var(--spacing-4);overflow:hidden"><h4 style="text-transform:uppercase;font-size:var(--fontSize-0);margin-bottom:var(--spacing-4);margin-top:0">RGB Data Output</h4><div class="chart-container-inner"><canvas></canvas></div></div></div></div></div><div style="margin-top:var(--spacing-16)"><h3>Computational and Pigment-Based Models</h3><p>The method of creating color differs fundamentally between light-based media (screens) and physical pigments (paint). Artists must bridge the gap between Additive (RGB) and Subtractive (CMYK) worlds. CMYK is used for printing, while RGB is used for digital displays.</p><div class="ct-card text-center" style="margin-top:var(--spacing-8)"><div style="margin-bottom:var(--spacing-6)"><button class="ct-button" style="margin-right:var(--spacing-4);background-color:var(--color-dark);color:var(--color-background);border:2px solid var(--color-dark)">Additive (RGB)</button><button class="ct-button" style="background-color:transparent;color:var(--color-dark);border:2px solid var(--color-dark)">Subtractive (CMY)</button></div><p style="min-height:3rem;margin:0 auto;max-width:35rem;color:var(--color-secondary-accent)">Begins with black (absence of light). Adding red, green, and blue light creates white. Used for monitors and photography.</p><div class="flex-col-center" style="margin:var(--spacing-8) 0"><div style="position:relative;width:260px;height:260px;background-color:#111;border-radius:var(--spacing-2);overflow:hidden;border:1px solid var(--color-secondary-accent);display:flex;align-items:center;justify-content:center"><div style="position:relative;width:200px;height:200px"><div style="position:absolute;width:120px;height:120px;border-radius:50%;background-color:#ff0000;mix-blend-mode:screen;top:calc(40px - 16px);left:40px;transition:top 0.1s, left 0.1s, background-color 0.5s"></div><div style="position:absolute;width:120px;height:120px;border-radius:50%;background-color:#00ff00;mix-blend-mode:screen;top:calc(40px + 8px);left:calc(40px - 13.840000000000002px);transition:top 0.1s, left 0.1s, background-color 0.5s"></div><div style="position:absolute;width:120px;height:120px;border-radius:50%;background-color:#0000ff;mix-blend-mode:screen;top:calc(40px + 8px);left:calc(40px + 13.840000000000002px);transition:top 0.1s, left 0.1s, background-color 0.5s"></div></div></div></div><div style="max-width:20rem;margin:0 auto"><div class="flex-row-between"><label for="overlapInput" style="font-weight:bold;font-size:var(--fontSize-0)">Convergence</label><span class="mono-text" style="font-size:var(--fontSize-0)">60<!-- -->%</span></div><input id="overlapInput" type="range" class="color-range" min="0" max="100" value="60"/></div><div class="ct-grid cols-3" style="text-align:center;margin-top:var(--spacing-6);padding:var(--spacing-4);background-color:var(--color-light);border-radius:var(--spacing-1)"><code>R + G = Yellow</code><code>G + B = Cyan</code><code>R + B = Magenta</code></div></div></div></section><hr style="margin-bottom:var(--spacing-12)"/><section id="advanced" style="margin-bottom:var(--spacing-16)"><div><span class="ct-pill">Phase 03</span><h2>Advanced: The Relativity of Color</h2><p>Josef Albers’ central premise was that color is constantly changing and is always seen in relation to its surroundings. This is the Law of Simultaneous Contrast.</p><p>He famously stated: “In visual perception a color is almost never seen as it really is—as it physically is. This fact makes color the most relative medium in art.” This section demonstrates Simultaneous Contrast, where a single color appears as two completely different colors based on its surroundings.</p></div><div class="ct-card text-center" style="background-color:var(--color-dark);color:var(--color-background);border:none"><div style="margin-bottom:var(--spacing-10)"><h3 style="color:var(--color-background);margin-top:0">The Albers Illusion</h3><p style="color:var(--color-background);max-width:40rem;margin:0 auto">Look at the two small center squares. To the human eye, the left square appears to be a light, warm brown, while the right square appears to be a darker, cooler gray. In reality, they are exactly the same physical color.</p></div><div class="ct-illusion-row"><div class="ct-illusion-col" style="background-color:#1e3a8a"><div class="ct-illusion-center" style="background-color:hsl(34, 13%, 48%)"></div></div><div class="ct-illusion-col" style="background-color:#fef08a"><div class="ct-illusion-center" style="background-color:hsl(34, 13%, 48%)"></div></div></div><div style="margin-top:var(--spacing-10);display:flex;flex-direction:column;align-items:center"><div style="width:100%;max-width:20rem;margin-bottom:var(--spacing-6);text-align:left"><div class="flex-row-between"><label for="illusionHue" style="font-weight:bold;font-size:var(--fontSize-0)">Center Hue</label><span class="mono-text" style="font-size:var(--fontSize-0)">34<!-- -->°</span></div><input id="illusionHue" type="range" class="color-range illusion-slider" min="0" max="360" value="34"/><div class="color-track-hue illusion-track" style="margin-bottom:0"></div></div><button class="ct-button" style="background-color:var(--color-background);color:var(--color-dark)">Remove Backgrounds to Reveal Truth</button></div></div><div style="margin-top:var(--spacing-16)"><h3>Color Order &amp; Systems</h3><p>While the color wheel is useful, professional artists require precision and restraint. This is where systems like Munsell and techniques like <strong>Gamut Masking</strong> become essential tools for creating cohesive palettes.</p><div style="margin-bottom:var(--spacing-12)"><h4>The Munsell Model</h4><p>Developed by Albert H. Munsell, this system specifies colors based on measured human visual responses across three dimensions: <strong>Hue</strong>, <strong>Value</strong>, and <strong>Saturation</strong> (Chroma).</p><div style="background-color:var(--color-background);padding:var(--spacing-4);border-radius:var(--spacing-1);border:1px solid var(--color-secondary-accent);max-width:30rem"><p style="margin:0;font-family:var(--font-heading);font-weight:var(--fontWeight-bold)">Example Notation: 5R 4/12</p><ul style="margin:var(--spacing-2) 0 0 0;padding-left:var(--spacing-4);font-size:var(--fontSize-0)"><li><strong>5R:</strong> Pure Red Hue</li><li><strong>4:</strong> Middle-dark Value</li><li><strong>12:</strong> Very high Chroma</li></ul></div></div><div class="ct-grid cols-2" style="align-items:start"><div><h4>Gamut Masking</h4><p>A technique popularized by James Gurney where you define a geometric shape over the color wheel to physically limit your available palette. The colors falling <em>inside</em> the shape dictate the entire mood of the painting, guaranteeing atmospheric harmony because discordant colors are systematically excluded.</p><div style="display:flex;flex-wrap:wrap;gap:var(--spacing-2);margin-top:var(--spacing-6)"><button class="ct-pill" style="background-color:var(--color-primary-accent);color:var(--color-light);border:none;cursor:pointer;text-transform:capitalize">atmospheric</button><button class="ct-pill" style="background-color:var(--color-secondary-accent);color:var(--color-background);border:none;cursor:pointer;text-transform:capitalize">moody</button><button class="ct-pill" style="background-color:var(--color-secondary-accent);color:var(--color-background);border:none;cursor:pointer;text-transform:capitalize">primary</button><button class="ct-pill" style="background-color:var(--color-secondary-accent);color:var(--color-background);border:none;cursor:pointer;text-transform:capitalize">cinematic</button></div></div><div class="flex-col-center"><div class="gamut-container"><div class="gamut-wheel"></div><div style="position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:30%;height:30%;border-radius:50%;background:radial-gradient(circle, white 0%, transparent 100%);opacity:0.8"></div><svg class="gamut-overlay" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg"><defs><mask id="gamutMask"><rect width="300" height="300" fill="white"></rect><polygon points="150,50 50,220 250,220" fill="black" style="transition:all 0.5s cubic-bezier(0.4, 0, 0.2, 1)"></polygon></mask></defs><rect width="300" height="300" fill="var(--color-background)" opacity="0.85" mask="url(#gamutMask)"></rect><polygon points="150,50 50,220 250,220" fill="none" stroke="var(--color-dark)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" style="transition:all 0.5s cubic-bezier(0.4, 0, 0.2, 1)"></polygon></svg></div><p style="margin-top:var(--spacing-4);font-size:var(--fontSize-0);color:var(--color-secondary-accent);font-style:italic;text-align:center">Only colors visible inside the polygon are allowed in the palette.</p></div></div></div></section></main><footer><hr/><p><i>Drop me a note if you are curious to chat. Newsletter goes out once a year in December.</i></p><div style="margin-bottom:1rem"><a href="https://twitter.com/mihirchronicles"><strong>Twitter</strong></a> <span> | </span><a href="https://www.linkedin.com/in/mihirchronicles/"><strong>Linkedin</strong></a> <span> | </span><a href="https://eepurl.com/hRGv2D"><strong>Newsletter</strong></a></div></footer></div></div><div id="gatsby-announcer" style="position:absolute;top:0;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0" aria-live="assertive" aria-atomic="true"></div></div><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-HTPE7YS2EL"></script><script>
       
       
       if(true) {
@@ -337,6 +465,6 @@ data-styled.g4[id="sc-1g5t2xm-3"]{content:"fboDAm,"}/*!sc*/
           <script
             id="gatsby-chunk-mapping"
           >
-            window.___chunkMapping="{\"app\":[\"/app-cb8a948994ec7dae6ec0.js\"],\"component---src-pages-404-js\":[\"/component---src-pages-404-js-7c09a1a29a67f5ea1395.js\"],\"component---src-pages-about-js\":[\"/component---src-pages-about-js-10236fd55c36a8360621.js\"],\"component---src-pages-art-js\":[\"/component---src-pages-art-js-5a95380e6073dceb7b56.js\"],\"component---src-pages-bookshelf-js\":[\"/component---src-pages-bookshelf-js-08e920fa47193a1f0b78.js\"],\"component---src-pages-index-js\":[\"/component---src-pages-index-js-f80178f463277680ae86.js\"],\"component---src-pages-notes-js\":[\"/component---src-pages-notes-js-f2476d3dd6922d48caed.js\"],\"component---src-pages-projects-color-theory-js\":[\"/component---src-pages-projects-color-theory-js-fb68c1830cfbf7c88c78.js\"],\"component---src-pages-work-js\":[\"/component---src-pages-work-js-1da0995861beb6974a07.js\"],\"component---src-templates-blog-post-js\":[\"/component---src-templates-blog-post-js-5071623ffa4c53c815bd.js\"]}";
+            window.___chunkMapping="{\"app\":[\"/app-cb8a948994ec7dae6ec0.js\"],\"component---src-pages-404-js\":[\"/component---src-pages-404-js-7c09a1a29a67f5ea1395.js\"],\"component---src-pages-about-js\":[\"/component---src-pages-about-js-10236fd55c36a8360621.js\"],\"component---src-pages-art-js\":[\"/component---src-pages-art-js-5a95380e6073dceb7b56.js\"],\"component---src-pages-bookshelf-js\":[\"/component---src-pages-bookshelf-js-08e920fa47193a1f0b78.js\"],\"component---src-pages-index-js\":[\"/component---src-pages-index-js-f80178f463277680ae86.js\"],\"component---src-pages-notes-js\":[\"/component---src-pages-notes-js-f2476d3dd6922d48caed.js\"],\"component---src-pages-projects-color-theory-js\":[\"/component---src-pages-projects-color-theory-js-033072a419d295e7aa8a.js\"],\"component---src-pages-work-js\":[\"/component---src-pages-work-js-1da0995861beb6974a07.js\"],\"component---src-templates-blog-post-js\":[\"/component---src-templates-blog-post-js-5071623ffa4c53c815bd.js\"]}";
           </script>
-        <script>window.___webpackCompilationHash="a1d0c9f1abe50c09c627";</script><script src="/webpack-runtime-43f07b295390f8b08aea.js" async></script><script src="/framework-6a57ab285ee42b9bb028.js" async></script><script src="/app-cb8a948994ec7dae6ec0.js" async></script><!-- slice-end id="_gatsby-scripts-1" --></body></html>
+        <script>window.___webpackCompilationHash="4839f3b80bb905284ffd";</script><script src="/webpack-runtime-4ff7ce26adf9336a2575.js" async></script><script src="/framework-6a57ab285ee42b9bb028.js" async></script><script src="/app-cb8a948994ec7dae6ec0.js" async></script><!-- slice-end id="_gatsby-scripts-1" --></body></html>
