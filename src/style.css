@@ -381,7 +381,6 @@ a:focus {
 .newsletter-container:hover .newsletter-link,
 .newsletter-link:hover {
   color: var(--color-background);
-  background-color: var(--color-dark);
 }
 
 .newsletter-container:active .newsletter-link,

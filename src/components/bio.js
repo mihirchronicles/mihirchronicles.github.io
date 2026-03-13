@@ -37,7 +37,7 @@ const Bio = () => {
       <div className="newsletter-container">
         <a className="newsletter-link" href="https://eepurl.com/hRGv2D">Annual Newsletter Sign-up</a>
       </div>
-      
+
     </div>
   )
 }

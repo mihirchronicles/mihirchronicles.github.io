@@ -562,7 +562,7 @@ const ColorTheoryIndex = ({ data, location }) => {
                 }
                 .hex-input {
                     background: var(--color-background);
-                    border: 2px solid var(--color-dark);
+                    border: .25rem solid var(--color-dark);
                     color: var(--color-dark);
                     font-size: var(--fontSize-3);
                     font-weight: var(--fontWeight-bold);
@@ -880,12 +880,10 @@ const ColorTheoryIndex = ({ data, location }) => {
                             <div className="color-track-hue illusion-track" style={{ marginBottom: 0 }}></div>
                         </div>
                         <button onClick={() => setIsIllusionActive(!isIllusionActive)} className="ct-button" style={{
-                            backgroundColor: 'var(--color-primary-accent)',
-                            color: 'var(--color-light)',
                             transition: 'transform 0.1s, box-shadow 0.5s',
                             border: 'solid var(--color-light) var(--spacing-1)',
-                            boxShadow: '6px 6px 0px 0px var(--color-light)',
                             transform: 'translate(6px, 6px)',
+                            borderRadius: 'var(--spacing-1)'
                         }}>
                             {isIllusionActive ? 'Remove Background' : 'Restore Background'}
                         </button>
