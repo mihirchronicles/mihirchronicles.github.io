@@ -66,7 +66,7 @@ const WorkIndex = ({ data, location }) => {
           </Zoom>
         </ImageContainer>
         <ContentContainer>
-          <p><strong>[2026]</strong></p>
+          <p><strong>[Ongoing]</strong></p>
           <ul>
             <li>An interactive tool on color theory. It is inspired by the teachings of Josef Albers which explore how colors behave, interact, and deceive the human eye. <a href="/projects/color_theory">Color Guide</a>
             </li>

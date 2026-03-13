@@ -14,139 +14,224 @@ const PaintBrushesIndex = ({ data, location }) => {
     const [brushPressure, setBrushPressure] = React.useState(5); // 1-10
     const [paintLoad, setPaintLoad] = React.useState(100); // 0-100%
 
-    // States for Phase 03: Digital Canvas
-    const [brushSize, setBrushSize] = React.useState(20);
-    const [brushType, setBrushType] = React.useState('Oil');
-    const canvasRef = React.useRef(null);
-    const isDrawing = React.useRef(false);
-    const lastPos = React.useRef({ x: 0, y: 0 });
+    // States for Phase 03: Specialty Brushes
+    const [activeSpecialty, setActiveSpecialty] = React.useState('Fan');
 
-    // Canvas drawing logic
-    React.useEffect(() => {
-        const canvas = canvasRef.current;
-        if (!canvas) return;
-        const ctx = canvas.getContext('2d');
-
-        // Setup canvas for high-DPI displays if not already set
-        const rect = canvas.getBoundingClientRect();
-        if (canvas.width !== rect.width * 2) {
-            canvas.width = rect.width * 2;
-            canvas.height = rect.height * 2;
-            ctx.scale(2, 2);
-            // Initial background
-            ctx.fillStyle = '#f8f9fa';
-            ctx.fillRect(0, 0, rect.width, rect.height);
+    const specialtyBrushes = {
+        Fan: {
+            label: 'Fan',
+            useCase: 'Foliage, grass, fur, hair, clouds',
+            medium: 'Oil, Acrylic',
+            technique: 'Lightly drag across the canvas to split the bristles into individual strands. Use with a dry brush for soft blending without hard edges between tones.',
+            svgPath: (
+                <g>
+                    {/* Handle */}
+                    <path d="M45 300 L55 300 L57 200 L43 200 Z" fill="#b45309" stroke="var(--color-dark)" strokeWidth="2" />
+                    {/* Ferrule */}
+                    <rect x="40" y="180" width="20" height="25" fill="#cbd5e1" stroke="var(--color-dark)" strokeWidth="2" />
+                    {/* Fan bristles */}
+                    {[...Array(13)].map((_, i) => {
+                        const angle = -80 + i * 13.3;
+                        const rad = angle * Math.PI / 180;
+                        const x2 = 50 + Math.sin(rad) * 100;
+                        const y2 = 175 - Math.cos(rad) * 100;
+                        return <line key={i} x1="50" y1="175" x2={x2} y2={y2} stroke="#451a03" strokeWidth="2" strokeLinecap="round" />;
+                    })}
+                </g>
+            )
+        },
+        Liner: {
+            label: 'Liner / Rigger',
+            useCase: 'Thin lines, ship rigging, lettering, fine detail',
+            medium: 'Oil, Acrylic, Watercolor',
+            technique: 'Thin your paint to an ink-like consistency. Load the full belly of the brush and pull in a single continuous motion, letting the long hairs maintain a uniform fine line without lifting.',
+            svgPath: (
+                <g>
+                    {/* Handle */}
+                    <path d="M45 300 L55 300 L57 120 L43 120 Z" fill="#b45309" stroke="var(--color-dark)" strokeWidth="2" />
+                    {/* Ferrule */}
+                    <rect x="42" y="100" width="16" height="22" fill="#cbd5e1" stroke="var(--color-dark)" strokeWidth="2" />
+                    {/* Long thin bristle */}
+                    <path d="M47 100 Q50 30 50 10 Q50 30 53 100 Z" fill="#451a03" />
+                </g>
+            )
+        },
+        Mop: {
+            label: 'Mop',
+            useCase: 'Large washes, blending skies, lifting wet paint',
+            medium: 'Watercolor, Gouache',
+            technique: 'Load with a large amount of dilute pigment. Apply in broad, sweeping arcs without pressure. For skies, work wet-on-wet to allow colors to bloom and diffuse naturally at the edges.',
+            svgPath: (
+                <g>
+                    {/* Handle */}
+                    <path d="M45 300 L55 300 L57 180 L43 180 Z" fill="#b45309" stroke="var(--color-dark)" strokeWidth="2" />
+                    {/* Ferrule */}
+                    <rect x="38" y="155" width="24" height="28" fill="#cbd5e1" stroke="var(--color-dark)" strokeWidth="2" />
+                    {/* Large dome bristle */}
+                    <ellipse cx="50" cy="120" rx="30" ry="40" fill="#451a03" />
+                </g>
+            )
+        },
+        Angular: {
+            label: 'Angular / Sword',
+            useCase: 'Curved strokes, petals, flowing calligraphy lines',
+            medium: 'Oil, Acrylic, Watercolor',
+            technique: 'Use the thin edge for fine lines and the flat belly for wide strokes in a single stroke. The angled tip lets you pivot between thick and thin by rotating your wrist mid-stroke.',
+            svgPath: (
+                <g>
+                    {/* Handle */}
+                    <path d="M45 300 L55 300 L57 185 L43 185 Z" fill="#b45309" stroke="var(--color-dark)" strokeWidth="2" />
+                    {/* Ferrule */}
+                    <rect x="40" y="163" width="20" height="25" fill="#cbd5e1" stroke="var(--color-dark)" strokeWidth="2" />
+                    {/* Angled flat bristle */}
+                    <path d="M40 163 L60 163 L70 90 L50 100 Z" fill="#451a03" />
+                </g>
+            )
+        },
+        Hake: {
+            label: 'Hake',
+            useCase: 'Soft blending, varnishing, large dry-brush textures',
+            medium: 'Watercolor, Oil (varnish)',
+            technique: 'Hold lightly near the end of the long handle and use the full width for feathering strokes. Never press hard, the Hake\'s power is in its whisper-light touch across a wet surface.',
+            svgPath: (
+                <g>
+                    {/* Long handle */}
+                    <path d="M45 300 L55 300 L56 160 L44 160 Z" fill="#b45309" stroke="var(--color-dark)" strokeWidth="2" />
+                    {/* Wide ferrule area */}
+                    <rect x="28" y="140" width="44" height="22" fill="#cbd5e1" stroke="var(--color-dark)" strokeWidth="2" />
+                    {/* Wide flat bristles */}
+                    {[...Array(7)].map((_, i) => {
+                        const x = 32 + i * 6;
+                        return <line key={i} x1={x} y1="140" x2={x} y2="60" stroke="#451a03" strokeWidth="3" strokeLinecap="round" />;
+                    })}
+                </g>
+            )
+        },
+        Bright: {
+            label: 'Bright',
+            useCase: 'Short controlled strokes, thick paint, sharp-edged marks',
+            medium: 'Oil, Heavy Acrylic',
+            technique: 'Load heavily with stiff paint and push into the canvas with deliberate, short jabs. The cupped, short bristles hold their shape under pressure, giving you precise control over impasto passages without the bristles fanning out.',
+            svgPath: (
+                <g>
+                    {/* Handle */}
+                    <path d="M45 300 L55 300 L57 185 L43 185 Z" fill="#b45309" stroke="var(--color-dark)" strokeWidth="2" />
+                    {/* Ferrule */}
+                    <rect x="39" y="163" width="22" height="25" fill="#cbd5e1" stroke="var(--color-dark)" strokeWidth="2" />
+                    {/* Short flat bristle block with slight curve */}
+                    <path d="M39 163 L61 163 L62 115 Q50 108 38 115 Z" fill="#451a03" />
+                </g>
+            )
+        },
+        Stippling: {
+            label: 'Stippling',
+            useCase: 'Texture, foliage, stone, stippled backgrounds',
+            medium: 'Oil, Acrylic, Gouache',
+            technique: 'Hold perpendicular to the surface and pounce straight up and down with a dry or lightly loaded brush. Never drag. Each pounce deposits a cluster of individual pigment dots that build up into rich, granular texture.',
+            svgPath: (
+                <g>
+                    {/* Handle */}
+                    <path d="M45 300 L55 300 L57 175 L43 175 Z" fill="#b45309" stroke="var(--color-dark)" strokeWidth="2" />
+                    {/* Ferrule — wide, short */}
+                    <rect x="36" y="153" width="28" height="24" fill="#cbd5e1" stroke="var(--color-dark)" strokeWidth="2" />
+                    {/* Dense cluster of short, stiff bristles */}
+                    {[...Array(5)].map((_, col) =>
+                        [...Array(4)].map((_, row) => {
+                            const bx = 39 + col * 5.5;
+                            const by = 153 - row * 14;
+                            const offsetX = (col + row) % 2 === 0 ? 1 : -1;
+                            return <line key={`${col}-${row}`} x1={bx} y1={by} x2={bx + offsetX} y2={by - 12} stroke="#451a03" strokeWidth="2.5" strokeLinecap="round" />;
+                        })
+                    )}
+                </g>
+            )
+        },
+        PaletteKnife: {
+            label: 'Palette Knife',
+            useCase: 'Impasto, mixing paint on palette, scraping back wet paint',
+            medium: 'Oil, Heavy Acrylic',
+            technique: 'Hold like a spatula and drag the flat blade across the canvas to spread thick paint in one smooth plane. Tilt the blade to its edge for precise ridges. Use the tip to scratch through wet layers to reveal color underneath (sgraffito).',
+            svgPath: (
+                <g>
+                    {/* Handle — rounded wood grip */}
+                    <path d="M45 300 L55 300 L56 210 L44 210 Z" fill="#b45309" stroke="var(--color-dark)" strokeWidth="2" />
+                    <ellipse cx="50" cy="215" rx="8" ry="12" fill="#b45309" stroke="var(--color-dark)" strokeWidth="2" />
+                    {/* Metal shank */}
+                    <rect x="48" y="155" width="4" height="58" fill="#94a3b8" stroke="var(--color-dark)" strokeWidth="1" />
+                    {/* Flat blade — trowel shape */}
+                    <path d="M35 155 L65 155 L60 80 Q50 70 40 80 Z" fill="#cbd5e1" stroke="var(--color-dark)" strokeWidth="2" />
+                    {/* Blade highlight */}
+                    <line x1="45" y1="148" x2="43" y2="88" stroke="#fff" strokeWidth="1.5" opacity="0.6" strokeLinecap="round" />
+                </g>
+            )
+        },
+        Badger: {
+            label: 'Badger Blender',
+            useCase: 'Softening edges, removing brushmarks, blending wet oil glazes',
+            medium: 'Oil',
+            technique: 'Use completely dry, never load with paint. Lightly tap or sweep across the wet surface in a circular motion. The extremely soft hair lifts and diffuses pigment without disturbing the underlying layer, creating seamless tonal gradations.',
+            svgPath: (
+                <g>
+                    {/* Handle */}
+                    <path d="M45 300 L55 300 L56 175 L44 175 Z" fill="#b45309" stroke="var(--color-dark)" strokeWidth="2" />
+                    {/* Wide ferrule */}
+                    <rect x="33" y="153" width="34" height="24" fill="#cbd5e1" stroke="var(--color-dark)" strokeWidth="2" />
+                    {/* Very wide, soft dome of bristles */}
+                    <ellipse cx="50" cy="118" rx="28" ry="38" fill="#78716c" />
+                    {/* Lighter tips to show the two-tone badger hair */}
+                    <ellipse cx="50" cy="88" rx="20" ry="18" fill="#d6d3d1" opacity="0.7" />
+                    {/* Fine hair lines */}
+                    {[...Array(9)].map((_, i) => {
+                        const bx = 36 + i * 3.5;
+                        return <line key={i} x1={bx} y1="153" x2={50 + (bx - 50) * 0.6} y2="70" stroke="#44403c" strokeWidth="1" strokeLinecap="round" opacity="0.5" />;
+                    })}
+                </g>
+            )
         }
+    };
 
-        const getPos = (e) => {
-            const rect = canvas.getBoundingClientRect();
-            let clientX, clientY;
 
-            if (e.touches && e.touches.length > 0) {
-                clientX = e.touches[0].clientX;
-                clientY = e.touches[0].clientY;
-            } else {
-                clientX = e.clientX;
-                clientY = e.clientY;
-            }
+    const techniques = [
+        {
+            name: 'Impasto',
+            description: 'Paint applied so thickly it creates 3D texture on the canvas. The palette knife or stiff hog-hair brush leave physical ridges that catch light. Favored by Van Gogh and Rembrandt.',
+            medium: 'Oil, Heavy Acrylic',
+            level: 'Advanced'
+        },
+        {
+            name: 'Glazing',
+            description: 'Thin, transparent layers of color laid over a completely dry base. Each glaze modifies the color beneath without mixing with it, creating luminous depth impossible with a single opaque layer.',
+            medium: 'Oil, Acrylic',
+            level: 'Intermediate'
+        },
+        {
+            name: 'Scumbling',
+            description: 'A dry, rough brush loaded with opaque paint is dragged lightly across a dry layer below, allowing the lower color to show through the gaps. Creates atmospheric haze, weathered textures, and broken light.',
+            medium: 'Oil, Acrylic, Pastel',
+            level: 'Intermediate'
+        },
+        {
+            name: 'Wet-on-Wet',
+            description: 'Fresh paint is applied directly into wet paint. Colors blend softly on the canvas surface. The technique demands speed and confidence, as there is no rework once the brush touches wet pigment.',
+            medium: 'Oil, Watercolor',
+            level: 'Advanced'
+        },
+        {
+            name: 'Dry Brush',
+            description: 'A brush with very little paint, worked across a textured surface. Only the raised peaks of the canvas catch pigment, leaving a broken, scratchy stroke that is perfect for wood grain, fur, and sparkling water.',
+            medium: 'All',
+            level: 'Beginner'
+        },
+        {
+            name: 'Feathering',
+            description: 'Soft, whisking strokes made with the very tip of the bristles to blend two adjacent color zones together. The brush barely grazes the surface, pulling color across the boundary with each light pass.',
+            medium: 'Oil, Acrylic',
+            level: 'Intermediate'
+        }
+    ];
 
-            return {
-                x: clientX - rect.left,
-                y: clientY - rect.top
-            };
-        };
+    const levelColors = { Beginner: '#43ae6aff', Intermediate: '#4978c3ff', Advanced: '#ef4444' };
 
-        const drawWatercolor = (x, y) => {
-            ctx.globalAlpha = 0.05;
-            ctx.fillStyle = '#3b82f6'; // Blue watercolor
-
-            // Multiple overlapping circles for a wet edge effect
-            for (let i = 0; i < 5; i++) {
-                const offsetX = (Math.random() - 0.5) * brushSize * 0.5;
-                const offsetY = (Math.random() - 0.5) * brushSize * 0.5;
-                const radius = brushSize * 0.5 + Math.random() * brushSize * 0.5;
-
-                ctx.beginPath();
-                ctx.arc(x + offsetX, y + offsetY, radius, 0, Math.PI * 2);
-                ctx.fill();
-            }
-        };
-
-        const drawOil = (x, y, lastX, lastY) => {
-            ctx.globalAlpha = 1.0;
-            ctx.strokeStyle = '#b91c1c'; // Red oil
-            ctx.lineWidth = brushSize;
-            ctx.lineCap = 'round';
-            ctx.lineJoin = 'round';
-
-            ctx.beginPath();
-            ctx.moveTo(lastX, lastY);
-            ctx.lineTo(x, y);
-            ctx.stroke();
-
-            // Simulate bristle texture
-            ctx.globalAlpha = 0.3;
-            ctx.lineWidth = 1;
-            ctx.strokeStyle = '#7f1d1d';
-            for (let i = 0; i < brushSize; i += 4) {
-                const offset = (i - brushSize / 2);
-                ctx.beginPath();
-                ctx.moveTo(lastX + offset, lastY + offset);
-                ctx.lineTo(x + offset, y + offset);
-                ctx.stroke();
-            }
-        };
-
-        const startDrawing = (e) => {
-            isDrawing.current = true;
-            lastPos.current = getPos(e);
-
-            // Draw a single dot
-            const { x, y } = lastPos.current;
-            if (brushType === 'Watercolor') {
-                drawWatercolor(x, y);
-            } else {
-                drawOil(x, y, x, y);
-            }
-        };
-
-        const draw = (e) => {
-            if (!isDrawing.current) return;
-            e.preventDefault(); // Prevent scrolling on touch
-
-            const pos = getPos(e);
-            if (brushType === 'Watercolor') {
-                drawWatercolor(pos.x, pos.y);
-            } else {
-                drawOil(pos.x, pos.y, lastPos.current.x, lastPos.current.y);
-            }
-            lastPos.current = pos;
-        };
-
-        const stopDrawing = () => {
-            isDrawing.current = false;
-        };
-
-        canvas.addEventListener('mousedown', startDrawing);
-        canvas.addEventListener('mousemove', draw);
-        canvas.addEventListener('mouseup', stopDrawing);
-        canvas.addEventListener('mouseout', stopDrawing);
-
-        canvas.addEventListener('touchstart', startDrawing, { passive: false });
-        canvas.addEventListener('touchmove', draw, { passive: false });
-        canvas.addEventListener('touchend', stopDrawing);
-
-        return () => {
-            canvas.removeEventListener('mousedown', startDrawing);
-            canvas.removeEventListener('mousemove', draw);
-            canvas.removeEventListener('mouseup', stopDrawing);
-            canvas.removeEventListener('mouseout', stopDrawing);
-
-            canvas.removeEventListener('touchstart', startDrawing);
-            canvas.removeEventListener('touchmove', draw);
-            canvas.removeEventListener('touchend', stopDrawing);
-        };
-    }, [brushSize, brushType]);
 
     return (
         <Layout location={location} title={siteTitle}>
@@ -155,13 +240,15 @@ const PaintBrushesIndex = ({ data, location }) => {
             <style>{`
                 .ct-pill {
                     display: inline-block;
-                    padding: var(--spacing-1) var(--spacing-3);
-                    border-radius: 9999px;
-                    border: 1px solid var(--color-text);
+                    padding: 2px 8px;
+                    border-radius: 12px;
                     font-size: var(--fontSize-0);
+                    font-weight: var(--fontWeight-bold);
                     text-transform: uppercase;
                     letter-spacing: 0.05em;
-                    margin-bottom: var(--spacing-6);
+                    background-color: var(--color-secondary-accent);
+                    color: var(--color-background);
+                    margin-bottom: var(--spacing-2);
                 }
                 .ct-button {
                     display: inline-block;
@@ -180,15 +267,33 @@ const PaintBrushesIndex = ({ data, location }) => {
                     color: var(--color-background);
                 }
                 .ct-button:active {
-                    transform: translate(6px, 6px);
                     box-shadow: 0px 0px 0px 0px var(--color-dark);
                 }
                 .ct-card {
-                    margin: var(--spacing-10) 0;
-                    padding: var(--spacing-8);
-                    border: 1px solid var(--color-text);
-                    background-color: var(--color-background);
-                    box-shadow: 8px 8px 0px 0px var(--color-text);
+                    padding: var(--spacing-6);
+                    border: 1px solid var(--color-secondary-accent);
+                    border-radius: var(--spacing-2);
+                    background: var(--color-background);
+                }
+                .ct-grid {
+                    display: grid;
+                    grid-template-columns: 1fr;
+                    gap: var(--spacing-8);
+                    margin-bottom: var(--spacing-16);
+                }
+                @media (min-width: 768px) {
+                    .ct-grid.cols-2 {
+                        grid-template-columns: 1fr 1fr;
+                        align-items: center;
+                    }
+                    .ct-grid.cols-3 {
+                        grid-template-columns: 1fr 1fr 1fr;
+                    }
+                }
+                @media (max-width: 767px) {
+                    .ct-grid {
+                        gap: var(--spacing-10);
+                    }
                 }
                 .flex-row-between {
                     display: flex;
@@ -199,23 +304,15 @@ const PaintBrushesIndex = ({ data, location }) => {
                     display: flex;
                     flex-direction: column;
                     align-items: center;
+                    justify-content: center;
                 }
                 .mono-text {
-                    font-family: var(--font-monospace);
+                    font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
                 }
-                .ct-grid {
-                    display: grid;
-                    gap: var(--spacing-8);
+                .text-center {
+                    text-align: center;
                 }
-                @media (min-width: 42rem) {
-                    .ct-grid.cols-2 {
-                        grid-.cttemplate-columns: 1fr 1fr;
-                    }
-                    .ct-grid.cols-3 {
-                        grid-template-columns: 1fr 1fr 1fr;
-                    }
-                }
-                
+
                 /* SVG Brush Preview */
                 .brush-preview-container {
                     width: 100%;
@@ -354,8 +451,8 @@ const PaintBrushesIndex = ({ data, location }) => {
                         >Filbert</button>
                     </div>
 
-                    <div className="ct-grid cols-2" style={{ alignItems: 'center' }}>
-                        <div className="brush-preview-container" style={{ backgroundColor: 'var(--color-light)', border: '1px solid var(--color-secondary-accent)' }}>
+                    <div className="ct-grid cols-2" style={{ marginBottom: 0 }}>
+                        <div className="brush-preview-container" style={{ backgroundColor: 'var(--color-background)', border: '1px solid var(--color-secondary-accent)' }}>
                             <svg viewBox="0 0 100 300" style={{ width: '100%', height: '100%', overflow: 'visible' }}>
                                 {/* Ferrule */}
                                 <rect x="35" y="150" width="30" height="40" fill="#cbd5e1" stroke="var(--color-dark)" strokeWidth="2" />
@@ -380,7 +477,7 @@ const PaintBrushesIndex = ({ data, location }) => {
                             </svg>
                         </div>
 
-                        <div style={{ textAlign: 'left', padding: 'var(--spacing-4)', backgroundColor: 'var(--color-light)', borderRadius: 'var(--spacing-1)', border: '1px solid var(--color-secondary-accent)' }}>
+                        <div style={{ textAlign: 'left', padding: 'var(--spacing-4)', backgroundColor: 'var(--color-background)', borderRadius: 'var(--spacing-1)', border: '1px solid var(--color-secondary-accent)' }}>
                             <h3 style={{ margin: '0 0 var(--spacing-4) 0', color: 'var(--color-primary-accent)' }}>The {activeShape} Brush</h3>
                             <p style={{ margin: '0', fontSize: 'var(--fontSize-0)' }}>
                                 {activeShape === 'Round' && "A versatile classic. The pointed tip allows for fine detail work and sweeping, variable-width wash strokes when pressed down. The belly holds a lot of water."}
@@ -403,7 +500,7 @@ const PaintBrushesIndex = ({ data, location }) => {
                     <p>Unlike a digital pen tool, a physical brush is highly responsive to the artist's kinetic energy. The amount of <strong>Pressure</strong> applied against the canvas alters the stroke's width, while the <strong>Paint Load</strong> (how wet the brush is) dictates the opacity and texture.</p>
                 </div>
 
-                <div className="ct-card text-center" style={{ marginTop: 'var(--spacing-8)' }}>
+                <div className="ct-card" style={{ marginTop: 'var(--spacing-8)' }}>
 
                     <div style={{
                         width: '100%',
@@ -442,7 +539,7 @@ const PaintBrushesIndex = ({ data, location }) => {
                             <path
                                 d="M50 50 Q150 20 250 50 T450 50"
                                 fill="none"
-                                stroke="#b91c1c"
+                                stroke="#F74A1F"
                                 strokeWidth={brushPressure * 4}
                                 strokeLinecap="round"
                                 filter="url(#dryBrushNoise)"
@@ -451,13 +548,12 @@ const PaintBrushesIndex = ({ data, location }) => {
                         </svg>
                     </div>
 
-                    <div className="ct-grid cols-2" style={{ marginTop: 'var(--spacing-8)', textAlign: 'left', gap: 'var(--spacing-12)' }}>
+                    <div className="ct-grid cols-2" style={{ marginTop: 'var(--spacing-8)', marginBottom: 0, alignItems: 'start' }}>
+
                         <div>
                             <div className="flex-row-between">
                                 <label htmlFor="pressureSlider" style={{ fontWeight: 'bold', fontSize: 'var(--fontSize-0)' }}>Hand Pressure</label>
-                                <span className="mono-text" style={{ fontSize: 'var(--fontSize-0)', color: 'var(--color-secondary-accent)' }}>
-                                    {brushPressure * 10}%
-                                </span>
+                                <span className="mono-text" style={{ fontSize: 'var(--fontSize-0)', color: 'var(--color-secondary-accent)' }}>{brushPressure * 10}%</span>
                             </div>
                             <input
                                 id="pressureSlider"
@@ -468,15 +564,13 @@ const PaintBrushesIndex = ({ data, location }) => {
                                 value={brushPressure}
                                 onChange={e => setBrushPressure(parseInt(e.target.value))}
                             />
-                            <p style={{ fontSize: 'var(--fontSize-0)', opacity: 0.8, marginTop: 'var(--spacing-2)' }}>Increased downward pressure forces the bristles to splay outward, yielding a vastly thicker stroke. Light pressure creates delicate, hair-thin lines.</p>
+                            <p style={{ fontSize: 'var(--fontSize-0)', opacity: 0.8, margin: 0 }}>Increased downward pressure forces the bristles to splay outward, yielding a vastly thicker stroke. Light pressure creates delicate, hair-thin lines.</p>
                         </div>
 
                         <div>
                             <div className="flex-row-between">
                                 <label htmlFor="loadSlider" style={{ fontWeight: 'bold', fontSize: 'var(--fontSize-0)' }}>Paint Load (Medium)</label>
-                                <span className="mono-text" style={{ fontSize: 'var(--fontSize-0)', color: 'var(--color-secondary-accent)' }}>
-                                    {paintLoad}%
-                                </span>
+                                <span className="mono-text" style={{ fontSize: 'var(--fontSize-0)', color: 'var(--color-secondary-accent)' }}>{paintLoad}%</span>
                             </div>
                             <input
                                 id="loadSlider"
@@ -487,8 +581,9 @@ const PaintBrushesIndex = ({ data, location }) => {
                                 value={paintLoad}
                                 onChange={e => setPaintLoad(parseInt(e.target.value))}
                             />
-                            <p style={{ fontSize: 'var(--fontSize-0)', opacity: 0.8, marginTop: 'var(--spacing-2)' }}>A fully loaded wet brush creates an opaque, contiguous line (Impasto). A brush with very little paint catches only the high points of the canvas texture, creating a scratchy, broken effect known as "Dry Brush."</p>
+                            <p style={{ fontSize: 'var(--fontSize-0)', opacity: 0.8, margin: 0 }}>A fully loaded wet brush creates an opaque, contiguous line (Impasto). A brush with very little paint catches only the high points of the canvas texture, creating a scratchy, broken effect known as "Dry Brush."</p>
                         </div>
+
                     </div>
 
                 </div>
@@ -499,78 +594,86 @@ const PaintBrushesIndex = ({ data, location }) => {
             <section id="advanced" style={{ marginBottom: 'var(--spacing-16)' }}>
                 <div>
                     <span className="ct-pill">Phase 03</span>
-                    <h2>Advanced: The Digital Canvas</h2>
-                    <p>When physical media moves to the screen, software engineers must write complex mathematical algorithms to simulate real-world physics. A "brush" in Photoshop or Procreate is essentially a repeating graphical stamp applied along an interpolated vector path.</p>
+                    <h2>Advanced: Specialty Brushes & Techniques</h2>
+                    <p>Beyond the foundational three shapes, a painter's toolkit expands into specialized brushes engineered for specific tasks — from laying vast washes to rendering a single strand of hair. Mastery of these, combined with technique, separates a competent painter from a deliberate one.</p>
                 </div>
 
-                <div className="ct-card text-center" style={{ backgroundColor: 'var(--color-dark)', color: 'var(--color-background)', border: 'none', marginTop: 'var(--spacing-8)' }}>
-                    <div className="flex-col-center">
+                {/* Specialty Brush Explorer */}
+                <div className="ct-card" style={{ marginTop: 'var(--spacing-8)' }}>
+                    <h3 style={{ marginTop: 0 }}>Specialty Brush Explorer</h3>
+                    <div style={{ display: 'flex', flexWrap: 'wrap', gap: 'var(--spacing-3)', marginBottom: 'var(--spacing-8)' }}>
+                        {Object.keys(specialtyBrushes).map(key => (
+                            <button
+                                key={key}
+                                onClick={() => setActiveSpecialty(key)}
+                                className="ct-button"
+                                style={{
+                                    backgroundColor: activeSpecialty === key ? 'var(--color-dark)' : 'var(--color-background)',
+                                    color: activeSpecialty === key ? 'var(--color-background)' : 'var(--color-dark)',
+                                    boxShadow: activeSpecialty === key ? 'none' : '6px 6px 0px 0px var(--color-dark)',
+                                    transform: activeSpecialty === key ? 'translate(6px, 6px)' : 'none'
+                                }}
+                            >
+                                {specialtyBrushes[key].label}
+                            </button>
+                        ))}
+                    </div>
 
-                        <div style={{ display: 'flex', flexWrap: 'wrap', gap: 'var(--spacing-4)', justifyContent: 'center', margin: 'var(--spacing-4) 0 var(--spacing-8) 0' }}>
-                            <button
-                                onClick={() => setBrushType('Oil')}
-                                className="ct-button"
-                                style={{
-                                    backgroundColor: brushType === 'Oil' ? 'var(--color-light)' : 'transparent',
-                                    color: brushType === 'Oil' ? 'var(--color-dark)' : 'var(--color-light)',
-                                    boxShadow: brushType === 'Oil' ? 'none' : '6px 6px 0px 0px var(--color-light)',
-                                    transform: brushType === 'Oil' ? 'translate(6px, 6px)' : 'none',
-                                    border: '1px solid var(--color-light)'
-                                }}
-                            >Oil Engine</button>
-                            <button
-                                onClick={() => setBrushType('Watercolor')}
-                                className="ct-button"
-                                style={{
-                                    backgroundColor: brushType === 'Watercolor' ? 'var(--color-light)' : 'transparent',
-                                    color: brushType === 'Watercolor' ? 'var(--color-dark)' : 'var(--color-light)',
-                                    boxShadow: brushType === 'Watercolor' ? 'none' : '6px 6px 0px 0px var(--color-light)',
-                                    transform: brushType === 'Watercolor' ? 'translate(6px, 6px)' : 'none',
-                                    border: '1px solid var(--color-light)'
-                                }}
-                            >Watercolor Engine</button>
-                            <button
-                                onClick={() => {
-                                    const canvas = canvasRef.current;
-                                    if (canvas) {
-                                        const ctx = canvas.getContext('2d');
-                                        ctx.fillStyle = '#f8f9fa';
-                                        ctx.fillRect(0, 0, canvas.width, canvas.height);
-                                    }
-                                }}
-                                className="ct-button"
-                                style={{
-                                    backgroundColor: 'transparent',
-                                    color: 'var(--color-light)',
-                                    boxShadow: '6px 6px 0px 0px var(--color-light)',
-                                    transform: 'none',
-                                    border: '1px solid var(--color-light)',
-                                }}
-                            >Clear Canvas</button>
+                    <div className="ct-grid cols-2" style={{ marginBottom: 0 }}>
+                        <div className="brush-preview-container" style={{ backgroundColor: 'var(--color-background)', border: '1px solid var(--color-secondary-accent)' }}>
+                            <svg viewBox="0 0 100 320" style={{ width: '100%', height: '100%', overflow: 'visible' }}>
+                                {specialtyBrushes[activeSpecialty].svgPath}
+                            </svg>
                         </div>
 
-                        <div style={{ width: '100%', height: '400px', backgroundColor: 'var(--color-light)', borderRadius: 'var(--spacing-2)', cursor: 'crosshair', touchAction: 'none' }}>
-                            <canvas ref={canvasRef} style={{ width: '100%', height: '100%', borderRadius: 'var(--spacing-2)' }}></canvas>
-                        </div>
-
-                        <div style={{ width: '100%', maxWidth: '30rem', marginTop: 'var(--spacing-8)', textAlign: 'left' }}>
-                            <div className="flex-row-between" style={{ color: 'var(--color-background)' }}>
-                                <label htmlFor="sizeSlider" style={{ fontWeight: 'bold', fontSize: 'var(--fontSize-0)' }}>Brush Size (Pixels)</label>
-                                <span className="mono-text" style={{ fontSize: 'var(--fontSize-0)' }}>{brushSize}px</span>
+                        <div style={{ display: 'flex', flexDirection: 'column', gap: 'var(--spacing-6)' }}>
+                            <div style={{ padding: 'var(--spacing-4)', backgroundColor: 'var(--color-background)', border: '1px solid var(--color-secondary-accent)', borderRadius: 'var(--spacing-1)' }}>
+                                <p style={{ fontSize: 'var(--fontSize-0)', fontWeight: 'bold', textTransform: 'uppercase', letterSpacing: '0.05em', color: 'var(--color-secondary-accent)', margin: '0 0 var(--spacing-2) 0' }}>Best For</p>
+                                <p style={{ margin: 0, fontSize: 'var(--fontSize-0)' }}>{specialtyBrushes[activeSpecialty].useCase}</p>
                             </div>
-                            <input
-                                id="sizeSlider" type="range" className="color-range" min="5" max="100" value={brushSize}
-                                onChange={e => setBrushSize(parseInt(e.target.value))}
-                                style={{ width: '100%', cursor: 'pointer', margin: 'var(--spacing-4) 0' }}
-                            />
-                            <p style={{ fontSize: 'var(--fontSize-0)', opacity: 0.8, marginTop: 'var(--spacing-2)' }}>
-                                {brushType === 'Oil' && "The Oil Engine uses a thick, opaque primary line with secondary semi-transparent parallel lines running alongside it to simulate stiff hog-hair bristles dragging through heavy paint."}
-                                {brushType === 'Watercolor' && "The Watercolor Engine relies on extreme translucency and organic scatter algorithms. It rapidly clusters semi-transparent circles of varying radii across a wide diffuse area to simulate pigment blooming in water."}
-                            </p>
+                            <div style={{ padding: 'var(--spacing-4)', backgroundColor: 'var(--color-background)', border: '1px solid var(--color-secondary-accent)', borderRadius: 'var(--spacing-1)' }}>
+                                <p style={{ fontSize: 'var(--fontSize-0)', fontWeight: 'bold', textTransform: 'uppercase', letterSpacing: '0.05em', color: 'var(--color-secondary-accent)', margin: '0 0 var(--spacing-2) 0' }}>Medium</p>
+                                <p style={{ margin: 0, fontSize: 'var(--fontSize-0)' }}>{specialtyBrushes[activeSpecialty].medium}</p>
+                            </div>
+                            <div style={{ padding: 'var(--spacing-4)', backgroundColor: 'var(--color-background)', border: '1px solid var(--color-secondary-accent)', borderRadius: 'var(--spacing-1)' }}>
+                                <p style={{ fontSize: 'var(--fontSize-0)', fontWeight: 'bold', textTransform: 'uppercase', letterSpacing: '0.05em', color: 'var(--color-secondary-accent)', margin: '0 0 var(--spacing-2) 0' }}>How to Use</p>
+                                <p style={{ margin: 0, fontSize: 'var(--fontSize-0)' }}>{specialtyBrushes[activeSpecialty].technique}</p>
+                            </div>
                         </div>
-
                     </div>
                 </div>
+
+                {/* Painting Techniques Reference */}
+                <div style={{ marginTop: 'var(--spacing-16)' }}>
+                    <h3>Painting Technique Reference</h3>
+                    <p>The brush is only the instrument — technique is the language. These are the six foundational mark-making methods every painter builds a vocabulary from.</p>
+                    <div className="ct-grid cols-3" style={{ marginBottom: 0, marginTop: 'var(--spacing-8)' }}>
+                        {techniques.map(t => (
+                            <div key={t.name} className="ct-card" style={{ padding: 'var(--spacing-5)', margin: 0, border: '1px solid var(--color-dark)' }}>
+                                <h4 style={{ margin: '0 0 var(--spacing-3) 0' }}>{t.name}</h4>
+                                <br></br>
+                                <div style={{ display: 'flex', flexWrap: 'wrap', gap: 'var(--spacing-2)', alignItems: 'center' }}>
+                                    <span style={{
+                                        display: 'inline-block',
+                                        padding: '2px 8px',
+                                        borderRadius: '12px',
+                                        fontSize: 'var(--fontSize-0)',
+                                        fontWeight: 'bold',
+                                        letterSpacing: '0.05em',
+                                        backgroundColor: levelColors[t.level],
+                                        color: '#fff',
+                                        whiteSpace: 'nowrap'
+                                    }}>{t.level}</span>
+                                </div>
+                                <br></br>
+                                <p style={{ fontSize: 'var(--fontSize-0)', color: 'var(--color-secondary-accent)', margin: 'var(--spacing-2) 0 0 0' }}><strong>MEDIUM:</strong> {t.medium}</p>
+                                <br></br>
+                                <p style={{ fontSize: 'var(--fontSize-0)', margin: '0 0 var(--spacing-4) 0' }}>{t.description}</p>
+                            </div>
+                        ))}
+                    </div>
+                </div>
+
             </section>
         </Layout>
     )

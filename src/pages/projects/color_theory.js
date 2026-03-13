@@ -766,11 +766,27 @@ const ColorTheoryIndex = ({ data, location }) => {
                             </button>
                         </div>
 
-                        <p style={{ minHeight: '3rem', margin: '0 auto', maxWidth: '35rem', color: 'var(--color-secondary-accent)' }}>
+                        <p style={{ minHeight: '3rem', margin: '0 auto', maxWidth: '35rem' }}>
                             {colorModel === 'RGB'
                                 ? "Begins with black (absence of light). Adding red, green, and blue light creates white. Used for monitors and photography."
                                 : "Begins with white (paper). Adding cyan, magenta, and yellow ink absorbs light, creating black. Used for printing."}
                         </p>
+
+                        <div style={{ display: 'flex', flexWrap: 'wrap', gap: 'var(--spacing-3)', justifyContent: 'center', marginTop: 'var(--spacing-4)' }}>
+                            {colorModel === 'RGB' ? (
+                                <>
+                                    <span style={{ display: 'inline-block', padding: '4px 12px', borderRadius: '12px', fontSize: 'var(--fontSize-0)', fontWeight: 'bold', backgroundColor: '#ffff00', color: '#111' }}>R + G = Yellow</span>
+                                    <span style={{ display: 'inline-block', padding: '4px 12px', borderRadius: '12px', fontSize: 'var(--fontSize-0)', fontWeight: 'bold', backgroundColor: '#00ffff', color: '#111' }}>G + B = Cyan</span>
+                                    <span style={{ display: 'inline-block', padding: '4px 12px', borderRadius: '12px', fontSize: 'var(--fontSize-0)', fontWeight: 'bold', backgroundColor: '#ff00ff', color: '#111' }}>R + B = Magenta</span>
+                                </>
+                            ) : (
+                                <>
+                                    <span style={{ display: 'inline-block', padding: '4px 12px', borderRadius: '12px', fontSize: 'var(--fontSize-0)', fontWeight: 'bold', backgroundColor: '#0000ff', color: '#fff' }}>C + M = Blue</span>
+                                    <span style={{ display: 'inline-block', padding: '4px 12px', borderRadius: '12px', fontSize: 'var(--fontSize-0)', fontWeight: 'bold', backgroundColor: '#ff0000', color: '#fff' }}>M + Y = Red</span>
+                                    <span style={{ display: 'inline-block', padding: '4px 12px', borderRadius: '12px', fontSize: 'var(--fontSize-0)', fontWeight: 'bold', backgroundColor: '#00cc00', color: '#fff' }}>C + Y = Green</span>
+                                </>
+                            )}
+                        </div>
 
                         <div className="flex-col-center" style={{ margin: 'var(--spacing-8) 0' }}>
                             <div style={{
@@ -823,22 +839,6 @@ const ColorTheoryIndex = ({ data, location }) => {
                                 <span className="mono-text" style={{ fontSize: 'var(--fontSize-0)' }}>{modelOverlap}%</span>
                             </div>
                             <input id="overlapInput" type="range" className="color-range" min="0" max="100" value={modelOverlap} onChange={e => setModelOverlap(parseInt(e.target.value))} />
-                        </div>
-
-                        <div className="ct-grid cols-3" style={{ textAlign: 'center', marginTop: 'var(--spacing-6)', padding: 'var(--spacing-4)', backgroundColor: 'var(--color-light)', borderRadius: 'var(--spacing-1)' }}>
-                            {colorModel === 'RGB' ? (
-                                <>
-                                    <code>R + G = Yellow</code>
-                                    <code>G + B = Cyan</code>
-                                    <code>R + B = Magenta</code>
-                                </>
-                            ) : (
-                                <>
-                                    <code>C + M = Blue</code>
-                                    <code>M + Y = Red</code>
-                                    <code>C + Y = Green</code>
-                                </>
-                            )}
                         </div>
                     </div>
                 </div>
