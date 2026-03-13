@@ -20,6 +20,21 @@ const ColorTheoryIndex = ({ data, location }) => {
 
     // Advanced section state
     const [isIllusionActive, setIsIllusionActive] = React.useState(true)
+    const [illusionH, setIllusionH] = React.useState(34)
+
+    // Models section state
+    const [colorModel, setColorModel] = React.useState('RGB')
+    const [modelOverlap, setModelOverlap] = React.useState(60)
+
+    // Gamut Masking state
+    const [activeGamut, setActiveGamut] = React.useState('atmospheric')
+
+    const gamutShapes = {
+        atmospheric: "150,50 50,220 250,220", // Triangle focused on warm bottom
+        moody: "250,150 150,50 100,100",      // Thin slice near cool top right
+        primary: "150,50 63,200 236,200",     // Standard triadic
+        cinematic: "100,80 200,80 250,220 50,220" // Broad warm base, narrow cool top (Teal/Orange)
+    }
 
     // Helper
     const hsvToRgb = (h, s, v) => {
@@ -294,6 +309,138 @@ const ColorTheoryIndex = ({ data, location }) => {
                     margin-bottom: 2rem;
                     border: 2px solid var(--color-dark);
                 }
+                .illusion-slider::-webkit-slider-thumb {
+                    border-color: var(--color-background);
+                    box-shadow: 2px 2px 0px 0px var(--color-background);
+                    background: var(--color-dark);
+                }
+                .illusion-slider::-moz-range-thumb {
+                    border-color: var(--color-background);
+                    box-shadow: 2px 2px 0px 0px var(--color-background);
+                    background: var(--color-dark);
+                }
+                .illusion-slider:active::-webkit-slider-thumb {
+                    background: var(--color-background);
+                    box-shadow: 0px 0px 0px 0px var(--color-background);
+                }
+                .illusion-slider:active::-moz-range-thumb {
+                    background: var(--color-background);
+                    box-shadow: 0px 0px 0px 0px var(--color-background);
+                }
+                .illusion-slider::-webkit-slider-runnable-track {
+                    background: var(--color-background);
+                    border-color: var(--color-background);
+                }
+                .illusion-slider::-moz-range-track {
+                    background: var(--color-background);
+                    border-color: var(--color-background);
+                }
+                .color-track-hue.illusion-track {
+                    border-color: var(--color-background);
+                }
+                .tooltip-container {
+                    position: relative;
+                    display: inline-block;
+                    margin-left: var(--spacing-2);
+                    outline: none;
+                }
+                .tooltip-icon {
+                    display: inline-flex;
+                    align-items: center;
+                    justify-content: center;
+                    width: 1rem;
+                    height: 1rem;
+                    border-radius: 50%;
+                    background-color: var(--color-secondary-accent);
+                    color: var(--color-background);
+                    font-size: 0.65rem;
+                    font-weight: bold;
+                    cursor: pointer;
+                    font-style: normal;
+                    border: none;
+                    padding: 0;
+                }
+                .tooltip-content {
+                    visibility: hidden;
+                    opacity: 0;
+                    position: absolute;
+                    bottom: 150%;
+                    left: 50%;
+                    transform: translateX(-50%);
+                    background-color: var(--color-dark);
+                    color: var(--color-background);
+                    text-align: left;
+                    padding: var(--spacing-3);
+                    border-radius: var(--spacing-1);
+                    width: 18rem;
+                    z-index: 10;
+                    transition: opacity 0.2s, visibility 0.2s;
+                    font-size: var(--fontSize-0);
+                    font-weight: normal;
+                    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+                    pointer-events: none;
+                }
+                .tooltip-content::after {
+                    content: "";
+                    position: absolute;
+                    top: 100%;
+                    left: 50%;
+                    margin-left: -5px;
+                    border-width: 5px;
+                    border-style: solid;
+                    border-color: var(--color-dark) transparent transparent transparent;
+                }
+                .tooltip-container:focus-within .tooltip-content,
+                .tooltip-container:hover .tooltip-content {
+                    visibility: visible;
+                    opacity: 1;
+                }
+                @media (max-width: 767px) {
+                    .tooltip-content {
+                        position: fixed;
+                        bottom: 1rem;
+                        left: 50%;
+                        transform: translateX(-50%);
+                        width: 90%;
+                        max-width: none;
+                        z-index: 999;
+                    }
+                    .tooltip-content::after {
+                        display: none;
+                    }
+                }
+                .gamut-container {
+                    position: relative;
+                    width: 300px;
+                    height: 300px;
+                    margin: 0 auto;
+                    border-radius: 50%;
+                    overflow: hidden;
+                    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+                }
+                .gamut-wheel {
+                    background: conic-gradient(
+                        from 90deg,
+                        hsl(0, 100%, 50%),
+                        hsl(60, 100%, 50%),
+                        hsl(120, 100%, 50%),
+                        hsl(180, 100%, 50%),
+                        hsl(240, 100%, 50%),
+                        hsl(300, 100%, 50%),
+                        hsl(360, 100%, 50%)
+                    );
+                    width: 100%;
+                    height: 100%;
+                    border-radius: 50%;
+                }
+                .gamut-overlay {
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    width: 100%;
+                    height: 100%;
+                    pointer-events: none;
+                }
                 .ct-grid {
                     display: grid;
                     grid-template-columns: 1fr;
@@ -350,7 +497,6 @@ const ColorTheoryIndex = ({ data, location }) => {
                 .ct-illusion-center {
                     width: 6rem;
                     height: 6rem;
-                    background-color: #8b7d6b;
                     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
                     transition: transform 0.3s;
                 }
@@ -422,17 +568,14 @@ const ColorTheoryIndex = ({ data, location }) => {
                     text-align: center;
                     padding: var(--spacing-2) var(--spacing-4);
                     border-radius: var(--spacing-1);
-                    width: 9rem;
+                    width: 10rem;
                     outline: none;
                     transition: all 0.3s ease;
-                    box-shadow: 4px 4px 0px 0px var(--color-dark);
                 }
                 .hex-input:focus {
                     background: var(--color-dark);
                     color: var(--color-background);
                     border-color: var(--color-dark);
-                    transform: translate(-2px, -2px);
-                    box-shadow: 6px 6px 0px 0px var(--color-secondary-accent);
                 }
                 .hex-input::selection {
                     background: var(--color-primary-accent);
@@ -451,8 +594,8 @@ const ColorTheoryIndex = ({ data, location }) => {
 
             <header style={{ textAlign: 'left', marginBottom: 'var(--spacing-16)' }}>
                 <h1 className="main-heading">Interaction Of Color</h1>
-                <p className="ct-responsive-header-text" style={{ fontSize: 'var(--fontSize-3)', color: 'var(--color-secondary-accent)' }}>
-                    A journey from the fundamental physics of light to the psychological illusions of human perception. Inspired by the teachings of Josef Albers, explore how colors behave, interact, and deceive.
+                <p className="ct-responsive-header-text">
+                    A journey from the fundamental physics of light to the psychological illusions of human perception. Inspired by the teachings of Josef Albers, explore how colors behave, interact, and fool our eyes.
                 </p>
                 <div style={{ marginTop: 'var(--spacing-8)' }}>
                     <a href="#beginner" className="ct-button">Start the Journey &darr;</a>
@@ -511,55 +654,187 @@ const ColorTheoryIndex = ({ data, location }) => {
                     <span className="ct-pill">Phase 02</span>
                     <h2>Intermediate: Dimensions of Color</h2>
                     <p>Color is three-dimensional. While the color wheel shows us 'Hue', it misses 'Saturation' and 'Value'. By adjusting these three parameters (HSV), we can create millions of distinct colors. Use the laboratory below to dissect exactly how a digital color is built.</p>
+                    <div className="ct-card">
+                        <div className="ct-grid cols-3" style={{ marginBottom: 0 }}>
+                            <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
+                                <div style={{ marginBottom: 'var(--spacing-6)' }}>
+                                    <div className="flex-row-between">
+                                        <div style={{ display: 'flex', alignItems: 'center' }}>
+                                            <label htmlFor="hueInput" style={{ fontWeight: 'bold', fontSize: 'var(--fontSize-0)' }}>Hue (Color Family)</label>
+                                            <span className="tooltip-container">
+                                                <button type="button" className="tooltip-icon" aria-label="More info">?</button>
+                                                <span className="tooltip-content">
+                                                    <strong>Definition:</strong>The spectral wavelength composition identifying the color family (e.g., Red, Blue-Green).<br /><br />
+                                                    <strong>Role:</strong> Establishes the basic color identity and primary emotional valence.
+                                                </span>
+                                            </span>
+                                        </div>
+                                        <span className="mono-text" style={{ fontSize: 'var(--fontSize-0)', color: 'var(--color-secondary-accent)' }}>{h}&deg;</span>
+                                    </div>
+                                    <input id="hueInput" type="range" className="color-range" min="0" max="360" value={h} onChange={e => setH(parseInt(e.target.value))} />
+                                    <div className="color-track-hue"></div>
+                                </div>
+
+                                <div style={{ marginBottom: 'var(--spacing-6)' }}>
+                                    <div className="flex-row-between">
+                                        <div style={{ display: 'flex', alignItems: 'center' }}>
+                                            <label htmlFor="satInput" style={{ fontWeight: 'bold', fontSize: 'var(--fontSize-0)' }}>Saturation (Intensity)</label>
+                                            <span className="tooltip-container">
+                                                <button type="button" className="tooltip-icon" aria-label="More info">?</button>
+                                                <span className="tooltip-content">
+                                                    <strong>Definition:</strong> The degree of purity, richness, or grayness of a color; its intensity.<br /><br />
+                                                    <strong>Role:</strong> Directs the viewer’s attention and establishes atmospheric perspective.
+                                                </span>
+                                            </span>
+                                        </div>
+                                        <span className="mono-text" style={{ fontSize: 'var(--fontSize-0)', color: 'var(--color-secondary-accent)' }}>{s}%</span>
+                                    </div>
+                                    <input id="satInput" type="range" className="color-range" min="0" max="100" value={s} onChange={e => setS(parseInt(e.target.value))} />
+                                    <div className="color-track-sat"></div>
+                                </div>
+
+                                <div>
+                                    <div className="flex-row-between">
+                                        <div style={{ display: 'flex', alignItems: 'center' }}>
+                                            <label htmlFor="valInput" style={{ fontWeight: 'bold', fontSize: 'var(--fontSize-0)' }}>Value (Lightness)</label>
+                                            <span className="tooltip-container">
+                                                <button type="button" className="tooltip-icon" aria-label="More info">?</button>
+                                                <span className="tooltip-content">
+                                                    <strong>Definition:</strong> The relative lightness or darkness of a color, measuring the amount of light reflected.<br /><br />
+                                                    <strong>Role:</strong> Creates the illusion of form, depth, and three-dimensional space through chiaroscuro.
+                                                </span>
+                                            </span>
+                                        </div>
+                                        <span className="mono-text" style={{ fontSize: 'var(--fontSize-0)', color: 'var(--color-secondary-accent)' }}>{v}%</span>
+                                    </div>
+                                    <input id="valInput" type="range" className="color-range" min="0" max="100" value={v} onChange={e => setV(parseInt(e.target.value))} />
+                                    <div className="color-track-val"></div>
+                                </div>
+                            </div>
+
+                            <div className="flex-col-center" style={{ marginTop: 'var(--spacing-4)' }}>
+                                <div className="ct-preview-box" style={{ backgroundColor: rgbString }}></div>
+                                <div style={{ marginTop: 'var(--spacing-6)' }}>
+                                    <label htmlFor="hexInput" className="sr-only" aria-label="Hex Color Key" style={{ display: 'none' }}>Hex Value</label>
+                                    <input id="hexInput" type="text" className="mono-text hex-input" value={hexInput} onChange={handleHexChange} maxLength="7" />
+                                </div>
+                            </div>
+
+                            <div className="flex-col-center" style={{ width: '100%', marginTop: 'var(--spacing-4)', overflow: 'hidden' }}>
+                                <h4 style={{ textTransform: 'uppercase', fontSize: 'var(--fontSize-0)', marginBottom: 'var(--spacing-4)', marginTop: 0 }}>RGB Data Output</h4>
+                                <div className="chart-container-inner">
+                                    <canvas ref={rgbChartRef}></canvas>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
-                <div className="ct-card">
-                    <div className="ct-grid cols-3" style={{ marginBottom: 0 }}>
+                <div style={{ marginTop: 'var(--spacing-16)' }}>
+                    <h3>Computational and Pigment-Based Models</h3>
+                    <p>The method of creating color differs fundamentally between light-based media (screens) and physical pigments (paint). Artists must bridge the gap between Additive (RGB) and Subtractive (CMYK) worlds. CMYK is used for printing, while RGB is used for digital displays.</p>
 
-                        <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
-                            <div style={{ marginBottom: 'var(--spacing-6)' }}>
-                                <div className="flex-row-between">
-                                    <label htmlFor="hueInput" style={{ fontWeight: 'bold', fontSize: 'var(--fontSize-0)' }}>Hue (Color Family)</label>
-                                    <span className="mono-text" style={{ fontSize: 'var(--fontSize-0)', color: 'var(--color-secondary-accent)' }}>{h}&deg;</span>
-                                </div>
-                                <input id="hueInput" type="range" className="color-range" min="0" max="360" value={h} onChange={e => setH(parseInt(e.target.value))} />
-                                <div className="color-track-hue"></div>
-                            </div>
+                    <div className="ct-card text-center" style={{ marginTop: 'var(--spacing-8)' }}>
+                        <div style={{ marginBottom: 'var(--spacing-6)' }}>
+                            <button
+                                onClick={() => setColorModel('RGB')}
+                                className="ct-button"
+                                style={{
+                                    marginRight: 'var(--spacing-4)',
+                                    backgroundColor: colorModel === 'RGB' ? 'var(--color-dark)' : 'transparent',
+                                    color: colorModel === 'RGB' ? 'var(--color-background)' : 'var(--color-dark)',
+                                    border: '2px solid var(--color-dark)'
+                                }}
+                            >
+                                Additive (RGB)
+                            </button>
+                            <button
+                                onClick={() => setColorModel('CMY')}
+                                className="ct-button"
+                                style={{
+                                    backgroundColor: colorModel === 'CMY' ? 'var(--color-dark)' : 'transparent',
+                                    color: colorModel === 'CMY' ? 'var(--color-background)' : 'var(--color-dark)',
+                                    border: '2px solid var(--color-dark)'
+                                }}
+                            >
+                                Subtractive (CMY)
+                            </button>
+                        </div>
 
-                            <div style={{ marginBottom: 'var(--spacing-6)' }}>
-                                <div className="flex-row-between">
-                                    <label htmlFor="satInput" style={{ fontWeight: 'bold', fontSize: 'var(--fontSize-0)' }}>Saturation (Intensity)</label>
-                                    <span className="mono-text" style={{ fontSize: 'var(--fontSize-0)', color: 'var(--color-secondary-accent)' }}>{s}%</span>
-                                </div>
-                                <input id="satInput" type="range" className="color-range" min="0" max="100" value={s} onChange={e => setS(parseInt(e.target.value))} />
-                                <div className="color-track-sat"></div>
-                            </div>
+                        <p style={{ minHeight: '3rem', margin: '0 auto', maxWidth: '35rem', color: 'var(--color-secondary-accent)' }}>
+                            {colorModel === 'RGB'
+                                ? "Begins with black (absence of light). Adding red, green, and blue light creates white. Used for monitors and photography."
+                                : "Begins with white (paper). Adding cyan, magenta, and yellow ink absorbs light, creating black. Used for printing."}
+                        </p>
 
-                            <div>
-                                <div className="flex-row-between">
-                                    <label htmlFor="valInput" style={{ fontWeight: 'bold', fontSize: 'var(--fontSize-0)' }}>Value (Lightness)</label>
-                                    <span className="mono-text" style={{ fontSize: 'var(--fontSize-0)', color: 'var(--color-secondary-accent)' }}>{v}%</span>
+                        <div className="flex-col-center" style={{ margin: 'var(--spacing-8) 0' }}>
+                            <div style={{
+                                position: 'relative',
+                                width: '260px',
+                                height: '260px',
+                                backgroundColor: colorModel === 'RGB' ? '#111' : '#f8f9fa',
+                                borderRadius: 'var(--spacing-2)',
+                                overflow: 'hidden',
+                                border: '1px solid var(--color-secondary-accent)',
+                                display: 'flex',
+                                alignItems: 'center',
+                                justifyContent: 'center'
+                            }}>
+                                <div style={{ position: 'relative', width: '200px', height: '200px' }}>
+                                    {/* Top Circle */}
+                                    <div style={{
+                                        position: 'absolute', width: '120px', height: '120px', borderRadius: '50%',
+                                        backgroundColor: colorModel === 'RGB' ? '#ff0000' : '#00ffff',
+                                        mixBlendMode: colorModel === 'RGB' ? 'screen' : 'multiply',
+                                        top: `calc(40px - ${40 * (1 - modelOverlap / 100)}px)`,
+                                        left: '40px',
+                                        transition: 'top 0.1s, left 0.1s, background-color 0.5s'
+                                    }}></div>
+                                    {/* Bottom Left Circle */}
+                                    <div style={{
+                                        position: 'absolute', width: '120px', height: '120px', borderRadius: '50%',
+                                        backgroundColor: colorModel === 'RGB' ? '#00ff00' : '#ff00ff',
+                                        mixBlendMode: colorModel === 'RGB' ? 'screen' : 'multiply',
+                                        top: `calc(40px + ${20 * (1 - modelOverlap / 100)}px)`,
+                                        left: `calc(40px - ${34.6 * (1 - modelOverlap / 100)}px)`,
+                                        transition: 'top 0.1s, left 0.1s, background-color 0.5s'
+                                    }}></div>
+                                    {/* Bottom Right Circle */}
+                                    <div style={{
+                                        position: 'absolute', width: '120px', height: '120px', borderRadius: '50%',
+                                        backgroundColor: colorModel === 'RGB' ? '#0000ff' : '#ffff00',
+                                        mixBlendMode: colorModel === 'RGB' ? 'screen' : 'multiply',
+                                        top: `calc(40px + ${20 * (1 - modelOverlap / 100)}px)`,
+                                        left: `calc(40px + ${34.6 * (1 - modelOverlap / 100)}px)`,
+                                        transition: 'top 0.1s, left 0.1s, background-color 0.5s'
+                                    }}></div>
                                 </div>
-                                <input id="valInput" type="range" className="color-range" min="0" max="100" value={v} onChange={e => setV(parseInt(e.target.value))} />
-                                <div className="color-track-val"></div>
                             </div>
                         </div>
 
-                        <div className="flex-col-center" style={{ marginTop: 'var(--spacing-4)' }}>
-                            <div className="ct-preview-box" style={{ backgroundColor: rgbString }}></div>
-                            <div style={{ marginTop: 'var(--spacing-6)' }}>
-                                <label htmlFor="hexInput" className="sr-only" aria-label="Hex Color Key" style={{ display: 'none' }}>Hex Value</label>
-                                <input id="hexInput" type="text" className="mono-text hex-input" value={hexInput} onChange={handleHexChange} maxLength="7" />
+                        <div style={{ maxWidth: '20rem', margin: '0 auto' }}>
+                            <div className="flex-row-between">
+                                <label htmlFor="overlapInput" style={{ fontWeight: 'bold', fontSize: 'var(--fontSize-0)' }}>Convergence</label>
+                                <span className="mono-text" style={{ fontSize: 'var(--fontSize-0)' }}>{modelOverlap}%</span>
                             </div>
+                            <input id="overlapInput" type="range" className="color-range" min="0" max="100" value={modelOverlap} onChange={e => setModelOverlap(parseInt(e.target.value))} />
                         </div>
 
-                        <div className="flex-col-center" style={{ width: '100%', marginTop: 'var(--spacing-4)', overflow: 'hidden' }}>
-                            <h4 style={{ textTransform: 'uppercase', fontSize: 'var(--fontSize-0)', marginBottom: 'var(--spacing-4)', marginTop: 0 }}>RGB Data Output</h4>
-                            <div className="chart-container-inner">
-                                <canvas ref={rgbChartRef}></canvas>
-                            </div>
+                        <div className="ct-grid cols-3" style={{ textAlign: 'center', marginTop: 'var(--spacing-6)', padding: 'var(--spacing-4)', backgroundColor: 'var(--color-light)', borderRadius: 'var(--spacing-1)' }}>
+                            {colorModel === 'RGB' ? (
+                                <>
+                                    <code>R + G = Yellow</code>
+                                    <code>G + B = Cyan</code>
+                                    <code>R + B = Magenta</code>
+                                </>
+                            ) : (
+                                <>
+                                    <code>C + M = Blue</code>
+                                    <code>M + Y = Red</code>
+                                    <code>C + Y = Green</code>
+                                </>
+                            )}
                         </div>
-
                     </div>
                 </div>
             </section>
@@ -570,7 +845,8 @@ const ColorTheoryIndex = ({ data, location }) => {
                 <div>
                     <span className="ct-pill">Phase 03</span>
                     <h2>Advanced: The Relativity of Color</h2>
-                    <p>Josef Albers famously stated: <em>"In visual perception a color is almost never seen as it really is—as it physically is. This fact makes color the most relative medium in art."</em> This section demonstrates Simultaneous Contrast, where a single color appears as two completely different colors based on its surroundings.</p>
+                    <p>Josef Albers’ central premise was that color is constantly changing and is always seen in relation to its surroundings. This is the Law of Simultaneous Contrast.</p>
+                    <p>He famously stated: “In visual perception a color is almost never seen as it really is—as it physically is. This fact makes color the most relative medium in art.” This section demonstrates Simultaneous Contrast, where a single color appears as two completely different colors based on its surroundings.</p>
                 </div>
 
                 <div className="ct-card text-center" style={{ backgroundColor: 'var(--color-dark)', color: 'var(--color-background)', border: 'none' }}>
@@ -581,18 +857,106 @@ const ColorTheoryIndex = ({ data, location }) => {
 
                     <div className="ct-illusion-row">
                         <div className="ct-illusion-col" style={{ backgroundColor: isIllusionActive ? '#1e3a8a' : 'var(--color-light)' }}>
-                            <div className="ct-illusion-center"></div>
+                            <div className="ct-illusion-center" style={{ backgroundColor: `hsl(${illusionH}, 13%, 48%)` }}></div>
                         </div>
 
                         <div className="ct-illusion-col" style={{ backgroundColor: isIllusionActive ? '#fef08a' : 'var(--color-dark-inverted)' }}>
-                            <div className="ct-illusion-center"></div>
+                            <div className="ct-illusion-center" style={{ backgroundColor: `hsl(${illusionH}, 13%, 48%)` }}></div>
                         </div>
                     </div>
 
-                    <div style={{ marginTop: 'var(--spacing-10)' }}>
+                    <div style={{ marginTop: 'var(--spacing-10)', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+                        <div style={{ width: '100%', maxWidth: '20rem', marginBottom: 'var(--spacing-6)', textAlign: 'left' }}>
+                            <div className="flex-row-between">
+                                <label htmlFor="illusionHue" style={{ fontWeight: 'bold', fontSize: 'var(--fontSize-0)' }}>Center Hue</label>
+                                <span className="mono-text" style={{ fontSize: 'var(--fontSize-0)' }}>{illusionH}&deg;</span>
+                            </div>
+                            <input id="illusionHue" type="range" className="color-range illusion-slider" min="0" max="360" value={illusionH} onChange={e => setIllusionH(parseInt(e.target.value))} />
+                            <div className="color-track-hue illusion-track" style={{ marginBottom: 0 }}></div>
+                        </div>
                         <button onClick={() => setIsIllusionActive(!isIllusionActive)} className="ct-button" style={{ backgroundColor: 'var(--color-background)', color: 'var(--color-dark)' }}>
                             {isIllusionActive ? 'Remove Backgrounds to Reveal Truth' : 'Restore Background Context'}
                         </button>
+                    </div>
+                </div>
+
+                <div style={{ marginTop: 'var(--spacing-16)' }}>
+                    <h3>Color Order & Systems</h3>
+                    <p>While the color wheel is useful, professional artists require precision and restraint. This is where systems like Munsell and techniques like <strong>Gamut Masking</strong> become essential tools for creating cohesive palettes.</p>
+
+                    <div style={{ marginBottom: 'var(--spacing-12)' }}>
+                        <h4>The Munsell Model</h4>
+                        <p>Developed by Albert H. Munsell, this system specifies colors based on measured human visual responses across three dimensions: <strong>Hue</strong>, <strong>Value</strong>, and <strong>Saturation</strong> (Chroma).</p>
+                        <div style={{ backgroundColor: 'var(--color-background)', padding: 'var(--spacing-4)', borderRadius: 'var(--spacing-1)', border: '1px solid var(--color-secondary-accent)', maxWidth: '30rem' }}>
+                            <p style={{ margin: 0, fontFamily: 'var(--font-heading)', fontWeight: 'var(--fontWeight-bold)' }}>Example Notation: 5R 4/12</p>
+                            <ul style={{ margin: 'var(--spacing-2) 0 0 0', paddingLeft: 'var(--spacing-4)', fontSize: 'var(--fontSize-0)' }}>
+                                <li><strong>5R:</strong> Pure Red Hue</li>
+                                <li><strong>4:</strong> Middle-dark Value</li>
+                                <li><strong>12:</strong> Very high Chroma</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div className="ct-grid cols-2" style={{ alignItems: 'start' }}>
+                        <div>
+                            <h4>Gamut Masking</h4>
+                            <p>A technique popularized by James Gurney where you define a geometric shape over the color wheel to physically limit your available palette. The colors falling <em>inside</em> the shape dictate the entire mood of the painting, guaranteeing atmospheric harmony because discordant colors are systematically excluded.</p>
+
+                            <div style={{ display: 'flex', flexWrap: 'wrap', gap: 'var(--spacing-2)', marginTop: 'var(--spacing-6)' }}>
+                                {Object.keys(gamutShapes).map((gamut) => (
+                                    <button
+                                        key={gamut}
+                                        onClick={() => setActiveGamut(gamut)}
+                                        className="ct-pill"
+                                        style={{
+                                            backgroundColor: activeGamut === gamut ? 'var(--color-primary-accent)' : 'var(--color-secondary-accent)',
+                                            color: activeGamut === gamut ? 'var(--color-light)' : 'var(--color-background)',
+                                            border: 'none',
+                                            cursor: 'pointer',
+                                            textTransform: 'capitalize'
+                                        }}
+                                    >
+                                        {gamut}
+                                    </button>
+                                ))}
+                            </div>
+                        </div>
+
+                        <div className="flex-col-center">
+                            <div className="gamut-container">
+                                <div className="gamut-wheel"></div>
+                                {/* White center to simulate saturation dropping towards middle */}
+                                <div style={{ position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)', width: '30%', height: '30%', borderRadius: '50%', background: 'radial-gradient(circle, white 0%, transparent 100%)', opacity: 0.8 }}></div>
+
+                                <svg className="gamut-overlay" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+                                    <defs>
+                                        <mask id="gamutMask">
+                                            <rect width="300" height="300" fill="white" />
+                                            <polygon
+                                                points={gamutShapes[activeGamut]}
+                                                fill="black"
+                                                style={{ transition: 'all 0.5s cubic-bezier(0.4, 0, 0.2, 1)' }}
+                                            />
+                                        </mask>
+                                    </defs>
+                                    {/* The semi-transparent overlay that hides colors OUTSIDE the gamut */}
+                                    <rect width="300" height="300" fill="var(--color-background)" opacity="0.85" mask="url(#gamutMask)" />
+                                    {/* The border drawing the shape itself */}
+                                    <polygon
+                                        points={gamutShapes[activeGamut]}
+                                        fill="none"
+                                        stroke="var(--color-dark)"
+                                        strokeWidth="3"
+                                        strokeLinecap="round"
+                                        strokeLinejoin="round"
+                                        style={{ transition: 'all 0.5s cubic-bezier(0.4, 0, 0.2, 1)' }}
+                                    />
+                                </svg>
+                            </div>
+                            <p style={{ marginTop: 'var(--spacing-4)', fontSize: 'var(--fontSize-0)', color: 'var(--color-secondary-accent)', fontStyle: 'italic', textAlign: 'center' }}>
+                                Only colors visible inside the polygon are allowed in the palette.
+                            </p>
+                        </div>
                     </div>
                 </div>
             </section>
