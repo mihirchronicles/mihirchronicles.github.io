@@ -506,19 +506,22 @@ const ColorTheoryIndex = ({ data, location }) => {
                 .ct-button {
                     display: inline-block;
                     padding: var(--spacing-3) var(--spacing-6);
-                    background-color: var(--color-dark);
-                    color: var(--color-background);
-                    border: none;
-                    border-radius: var(--spacing-1);
-                    cursor: pointer;
-                    font-weight: var(--fontWeight-bold);
-                    font-family: var(--font-heading);
-                    text-decoration: none;
-                    transition: all 0.3s ease;
-                }
-                .ct-button:hover {
                     background-color: var(--color-primary-accent);
                     color: var(--color-light);
+                    border: solid var(--color-dark) var(--spacing-1);
+                    border-radius: var(--spacing-1);
+                    cursor: pointer;
+                    font-weight: var(--fontWeight-black);
+                    font-family: var(--font-heading);
+                    text-decoration: none;
+                }
+                .ct-button:hover {
+                    background-color: var(--color-dark);
+                    color: var(--color-background);
+                }
+                .ct-button:active {
+                    transform: translate(6px, 6px);
+                    box-shadow: 0px 0px 0px 0px var(--color-dark);
                 }
                 .ct-pill {
                     display: inline-block;
@@ -617,7 +620,7 @@ const ColorTheoryIndex = ({ data, location }) => {
                         <p style={{ marginTop: 'var(--spacing-6)', fontSize: 'var(--fontSize-0)', fontWeight: 'bold' }}>Continuous HSL Spectrum</p>
                     </div>
                     <div>
-                        <h3 style={{ marginTop: 0 }}>Anatomy of the Wheel</h3>
+                        <h3>Anatomy of the Wheel</h3>
                         <p>The standard color wheel maps the visible spectrum into a circle. By arranging colors this way, we can immediately see relationships and categories.</p>
 
                         <ul style={{ listStyleType: 'none', marginLeft: 0 }}>
@@ -741,9 +744,10 @@ const ColorTheoryIndex = ({ data, location }) => {
                                 className="ct-button"
                                 style={{
                                     marginRight: 'var(--spacing-4)',
-                                    backgroundColor: colorModel === 'RGB' ? 'var(--color-dark)' : 'transparent',
+                                    backgroundColor: colorModel === 'RGB' ? 'var(--color-dark)' : 'var(--color-background)',
                                     color: colorModel === 'RGB' ? 'var(--color-background)' : 'var(--color-dark)',
-                                    border: '2px solid var(--color-dark)'
+                                    boxShadow: colorModel === 'RGB' ? 'none' : '6px 6px 0px 0px var(--color-dark)',
+                                    transform: colorModel === 'RGB' ? 'translate(6px, 6px)' : 'none'
                                 }}
                             >
                                 Additive (RGB)
@@ -752,9 +756,10 @@ const ColorTheoryIndex = ({ data, location }) => {
                                 onClick={() => setColorModel('CMY')}
                                 className="ct-button"
                                 style={{
-                                    backgroundColor: colorModel === 'CMY' ? 'var(--color-dark)' : 'transparent',
+                                    backgroundColor: colorModel === 'CMY' ? 'var(--color-dark)' : 'var(--color-background)',
                                     color: colorModel === 'CMY' ? 'var(--color-background)' : 'var(--color-dark)',
-                                    border: '2px solid var(--color-dark)'
+                                    boxShadow: colorModel === 'CMY' ? 'none' : '6px 6px 0px 0px var(--color-dark)',
+                                    transform: colorModel === 'CMY' ? 'translate(6px, 6px)' : 'none'
                                 }}
                             >
                                 Subtractive (CMY)
@@ -874,7 +879,12 @@ const ColorTheoryIndex = ({ data, location }) => {
                             <input id="illusionHue" type="range" className="color-range illusion-slider" min="0" max="360" value={illusionH} onChange={e => setIllusionH(parseInt(e.target.value))} />
                             <div className="color-track-hue illusion-track" style={{ marginBottom: 0 }}></div>
                         </div>
-                        <button onClick={() => setIsIllusionActive(!isIllusionActive)} className="ct-button" style={{ backgroundColor: 'var(--color-background)', color: 'var(--color-dark)' }}>
+                        <button onClick={() => setIsIllusionActive(!isIllusionActive)} className="ct-button" style={{
+                            backgroundColor: isIllusionActive ? 'var(--color-background)' : 'var(--color-dark)',
+                            color: isIllusionActive ? 'var(--color-dark)' : 'var(--color-background)',
+                            boxShadow: isIllusionActive ? '6px 6px 0px 0px var(--color-dark)' : 'none',
+                            transform: isIllusionActive ? 'none' : 'translate(6px, 6px)'
+                        }}>
                             {isIllusionActive ? 'Remove Backgrounds to Reveal Truth' : 'Restore Background Context'}
                         </button>
                     </div>
