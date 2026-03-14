@@ -6,7 +6,7 @@ path: "/bookshelf/elements-of-style"
 
 ## I. Brief Summary
 
-An essential manual which offers practical advice on improving writing skills and writing style. The Elements of Style is short, precise, and to the point—keeping it with the rules of brevity and clarity it promotes. According to Strunk, students learn better through their own work and tailored instruction, as opposed to wading through large textbooks. 
+An essential manual which offers practical advice on improving writing skills and writing style. The Elements of Style is short, precise, and to the point-keeping it with the rules of brevity and clarity it promotes. According to Strunk, students learn better through their own work and tailored instruction, as opposed to wading through large textbooks. 
 
 ## II. Big Ideas
 
@@ -55,7 +55,7 @@ An essential manual which offers practical advice on improving writing skills an
     - Write: Richard’s favorite food was pizza, and he liked to drink soda, while Karen’s favorite food was stir-fry, and she liked to drink lemonade.
 - Omit unnecessary text.
 - Avoid repetition.
-- Avoid the use of qualifiers—very, really, etc.
+- Avoid the use of qualifiers-very, really, etc.
 - Use the active voice and positive form.
 - Revise and rewrite.
 - Conciseness must not come at the cost of clarity.

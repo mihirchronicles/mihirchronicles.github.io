@@ -10,7 +10,7 @@ William Bernstein’s shares a collection of pivotal historical events which ill
 
 ## II. Big Ideas
 
-- What is more important—free trade or protectionism? 
+- What is more important-free trade or protectionism? 
 	- Free trade (low tariffs) offers cheaper goods but displaces workers due to foreign competition. The government can provide welfare and job training, but this is rarely implemented. Whereas protectionism (high tariffs) shields domestic industries from foreign competition, allowing them to grow and compete effectively. However, it preserves inefficient companies with legacy technologies putting a nation at long-term disadvantages.
 	- History shows us that free trade has offered more rewards than isolationism and protectionism have, but it has also led to widespread inequality, and for this reason must be refined and improved.
 	- Bernstein found a positive correlation between high tariffs and economic growth in the 19th century. Despite this, he favored free trade, not for its economic miracle benefits (which he deemed overstated), but to foster bonds between potential enemies.
@@ -26,7 +26,7 @@ William Bernstein’s shares a collection of pivotal historical events which ill
     - Obsidian, a black volcanic rock, was one of the earliest traded goods due to its ease of turning into razor-sharp weapons or tools in prehistoric times.
     - The Mesopotamian nations of Sumeria, Assyria, and Babylonia quickly recognized trade’s benefits and traded surplus goods for metals from Oman, marble from Persia, and lumber from Lebanon. By 3000 BC, the Persian Gulf became a prominent trade center.
 - As civilization spread westward to Egypt and Greece, new trade routes emerged in the Red Sea and Mediterranean. Greece traded wine and oils for grains, like wheat from Egypt.
-- The first traders faced the most fundamental problem—how to get stuff from one location to another.
+- The first traders faced the most fundamental problem-how to get stuff from one location to another.
     - Bernstein describes evidence of early “boats”: large floating barges made from animal skins wrapped around a wood or antler frame, guided downriver. 
     - These barges carried goods and donkeys for the return journey, carrying home “imports” and valuable animal skins.
 - The Pleistocene, also known as the Ice Age, was a period of millions of years when massive glaciers formed. It ended around 10,000 years ago, allowing humans to migrate across the ice connecting east Siberia to the American continent.
@@ -35,7 +35,7 @@ William Bernstein’s shares a collection of pivotal historical events which ill
     - Shallow waters, pirates and adverse winds made the Red Sea a poor option for transporting incense from modern day Yemen to Egypt and the Mediterranean. So traders turned to the land and used camels.
 - Islam provided the glue that held together an advanced system of great commercial ports.
     - Islam was great at uniting far-flung peoples in one system with efficient trade policies but limited in its interest in considering and borrowing from others.
-        - “Islam’s backbone is a system of law covering all areas of conduct, including commerce … especially attractive to those engaged in any organized economic activity that flourished wherever rules were plainly visible and vigorously enforced by disinterested parties—again, as in more secular English common law.”
+        - “Islam’s backbone is a system of law covering all areas of conduct, including commerce … especially attractive to those engaged in any organized economic activity that flourished wherever rules were plainly visible and vigorously enforced by disinterested parties-again, as in more secular English common law.”
     - The Prophet Muhammad, born in 571 AD, was raised by his prosperous uncle Abu Talib. As he grew, Muhammad helped manage his uncle’s leather, raisin, textile, and frankincense trade.
     - As trade progressed into the medieval era, China and the Muslim world began to increase their business with one another. Chinese sources suggest that Muslim traders arrived in China around 620 AD, carrying goods like copper, ivory, incense, and turtle shells. Upon their return to Arabia, they brought gold, pearls, silk, and brocade.
     - Romans believed silk from overland caravans and sea arrived from different places, though it all came from China.
@@ -60,7 +60,7 @@ William Bernstein’s shares a collection of pivotal historical events which ill
         - Ferdinand Magellan’s successful circumnavigation of the globe, discovering the Magellan Straits
     - While these explorers achieved fame, many ships vanished without a trace.
 - The 17th century marked the start of worldwide trade, with Holland as the center of commerce.
-- Cotton became a major British export mainly from India, including Indian textile centers—textiles were the major manufactured product. Like sugar, it was easy to grow but took considerable labor to process. 
+- Cotton became a major British export mainly from India, including Indian textile centers-textiles were the major manufactured product. Like sugar, it was easy to grow but took considerable labor to process. 
 - The Suez Canal decreased the sailing distance from Bombay to London from 11,500 to 6,200 miles. Sailing ships were still useful on many long voyages.
 - Within a few decades of Columbus’s second voyage in 1493, the exchange of crop species such as corn, wheat, coffee, tea, and sugar between continents had revolutionized the world’s agricultural and labor markets.
     - The sugar plantation explosion began in the Caribbean and beyond.
@@ -100,11 +100,11 @@ William Bernstein’s shares a collection of pivotal historical events which ill
 ## III. Quotes
 
 - Our urge to trade has profoundly affected the trajectory of the human species. Simply by allowing nations to concentrate on producing those things that their geographic, climatic, and intellectual endowments best enable them to do, and to exchange those goods for what is best produced elsewhere, trade has directly propelled our global prosperity.
-- What investment banking is to the ambitious and acquisitive today, the pepper trade was to the Romans—the most direct route to great riches.
-- Whoever is lord of Malacca has his hand on the throat of Venice. — Tomé
-- The Stoic philosopher and playwright Seneca is said to have owned five hundred tripod tables with ivory legs—no small irony, since he was a vocal critic of the empire's extravagances.
+- What investment banking is to the ambitious and acquisitive today, the pepper trade was to the Romans-the most direct route to great riches.
+- Whoever is lord of Malacca has his hand on the throat of Venice. - Tomé
+- The Stoic philosopher and playwright Seneca is said to have owned five hundred tripod tables with ivory legs-no small irony, since he was a vocal critic of the empire's extravagances.
 - In one of history's most bizarre chains of causation, the brutal, efficient newcomers were driven by a hunger for, of all things, culinary ingredients that today lie largely unused in most Western kitchens.
-- Whereas theology is the primary driving force behind Christianity and the great Eastern religions, Islam's backbone is a system of law covering all areas of conduct, including commerce. Thus, the new monotheism from Arabia was especially attractive to those engaged in any organized economic activity that flourished wherever rules were plainly visible and vigorously enforced by disinterested parties—again, as in the more secular English common law.
+- Whereas theology is the primary driving force behind Christianity and the great Eastern religions, Islam's backbone is a system of law covering all areas of conduct, including commerce. Thus, the new monotheism from Arabia was especially attractive to those engaged in any organized economic activity that flourished wherever rules were plainly visible and vigorously enforced by disinterested parties-again, as in the more secular English common law.
 - Although the Muslim commercial web possessed many advanced features, including bills of exchange, sophisticated lending institutions, and futures markets, no Islamic state ever established the bedrock financial institution of the modern world: a national or central bank
 - The highly decentralized nature of the medieval world of Indian Ocean trade produced a bubbling stew of Darwinian economic competition, in which those states whose political "mutations" were best suited to trade and commerce thrived, and those whose institutions were not withered.
 - Venice earned its wealth not only from rare Oriental goods, but also from the pilgrim and crusader traffic to and from the Holy Land.

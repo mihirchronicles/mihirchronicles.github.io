@@ -10,12 +10,12 @@ This was laugh-out-loud funny, and inspiring. Jesse Itlzer is someone who I idol
 
 ## II. Big Ideas
 
-Jesse Itlzer writes—
+Jesse Itlzer writes-
 - Pre-SEAL I sometimes would be on the couch and not want to do whatever needed to be done and I’d be like “Fuck it,” and blow it off. Procrastinate.
 - He was taught that if you have a job to do, you do it with 120 percent effort. I have been operating under the assumption that if someone that works for me does something 80 percent of the way I would do it, that’s enough.
 - One of the best things about having SEAL as your “Spirit Animal” is that you can take him everywhere you go.
-- The persistence and perseverance to achieve a long-term goal is a key driver to success. I’ve always had that blueprint, but SEAL helped me redefine success—Never Quit.
-- I learned that by constantly doing things that are hard and making myself uncomfortable, I improve my ability to handle obstacles. I get comfortable being uncomfortable—and that’s real mental toughness.
+- The persistence and perseverance to achieve a long-term goal is a key driver to success. I’ve always had that blueprint, but SEAL helped me redefine success-Never Quit.
+- I learned that by constantly doing things that are hard and making myself uncomfortable, I improve my ability to handle obstacles. I get comfortable being uncomfortable-and that’s real mental toughness.
 - But maybe the most important thing I learned from SEAL was the level of appreciation he has for difficulty. The harder the training, the more courage it took to do and the more satisfaction was derived from it. SEAL taught me that you only get one shot at life and you should find out what’s in your reserve tank. Coasting is for “pussies” as SEAL would say and it’s when you dig deep that you feel the most alive. He lives his life that way.
 - Now that SEAL is gone, I realize I don’t need a lot of the crazy stuff in my life. These challenges I keep putting in front of myself to fulfill me. I’m not going to do any more of that. I’m staying put and focusing on the little things. I don’t need manufactured adventures in my life to change me.
 - But he runs because he raises a lot of money for charity when he does to help the families of SEALs who died on the battlefield.
@@ -40,16 +40,16 @@ Jesse Itlzer writes—
 
 ## III. Quotes
 
-- I don’t stop when I’m tired. I stop when I’m done. — SEAL
-- I don’t celebrate victories but I learn from failures. — SEAL
-- Fear is one of the best motivators. Anger is the other. — SEAL
-- Don’t get too comfortable. Ever. — SEAL
-- If you can’t do the basics, you can’t do shit. — SEAL
-- Every day is a challenge, otherwise it’s not a regular day. — SEAL
-- I don’t need new friends. I like to keep my shit lean and tight. — SEAL
-- It doesn’t have to be fun. It has to be effective. — SEAL
-- I don’t do shit for applauses. I don’t do shit for fanfare. I do shit for me. — SEAL
-- I like to sit back and enjoy the pain. I earned it. — SEAL
-- Every day do something that makes you uncomfortable. — SEAL
-- Money is fun to make, fun to spend, and fun to give away. That sums it all up. — Sara Blakely
-- Failure is just life’s way of nudging you and letting you know you’re off course. — Sara Blakely
+- I don’t stop when I’m tired. I stop when I’m done. - SEAL
+- I don’t celebrate victories but I learn from failures. - SEAL
+- Fear is one of the best motivators. Anger is the other. - SEAL
+- Don’t get too comfortable. Ever. - SEAL
+- If you can’t do the basics, you can’t do shit. - SEAL
+- Every day is a challenge, otherwise it’s not a regular day. - SEAL
+- I don’t need new friends. I like to keep my shit lean and tight. - SEAL
+- It doesn’t have to be fun. It has to be effective. - SEAL
+- I don’t do shit for applauses. I don’t do shit for fanfare. I do shit for me. - SEAL
+- I like to sit back and enjoy the pain. I earned it. - SEAL
+- Every day do something that makes you uncomfortable. - SEAL
+- Money is fun to make, fun to spend, and fun to give away. That sums it all up. - Sara Blakely
+- Failure is just life’s way of nudging you and letting you know you’re off course. - Sara Blakely

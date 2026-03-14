@@ -40,7 +40,7 @@ Hiram was born into bondage. When his mother was sold, Hiram didn't have any mem
 - Fallen leaves clung to the bottom of my brogans.
 - My father was Virginian, and like the relics of his Revolutionary fathers, a certain godlessness testified to the old days when everything seemed in question.
 - Work was the only escape.
-- But lying there, all I found were questions and paranoias that rattled around in my head—the deceptions of Hawkins, my dancing mother on the bridge.
+- But lying there, all I found were questions and paranoias that rattled around in my head-the deceptions of Hawkins, my dancing mother on the bridge.
 - “Ain’t about ‘favor,’ Hi, it’s about doing. Best thing about the dance is it really didn’t matter who had it and who did not. Only crime you could commit was to spend that whole night all lonesome against that old smokehouse wall.”
 - After Sophia left, I sat on the edge of my bed contemplating the shape of events.
 - I generally returned this good feeling with my own muted affection.
@@ -70,17 +70,17 @@ Hiram was born into bondage. When his mother was sold, Hiram didn't have any mem
 - ...the crushing weight of seeing how the Quality truly lived, in all their luxury, and how much they really took from us.
 - ...until my father announced his retirement for the evening.
 - I have made it known how high you sit in my esteem.
-- There is so much in the eyes—the flash of rage, the warmth of joy, the pooling of sadness—and
+- There is so much in the eyes-the flash of rage, the warmth of joy, the pooling of sadness-and
 - To him, books were fashion, signatures of pedigree and status...
 - ...he was between two notions and could not decide which to give voice to.
 - But she needed a husband because Virginia still operated on the code of gentlemen...
 - Virginia was where the earth was dying and the tobacco diminishing.
-- He lost fortunes in the arms of fancies, because the labor of the Tasked—and sometimes their sale—would cover all his losses.
+- He lost fortunes in the arms of fancies, because the labor of the Tasked-and sometimes their sale-would cover all his losses.
 - He fought in the street, because no matter how throttled, he could never be throttled from his throne.
 - Social instinct and grace had not found him in manhood.
 - And in that way my lessons came to an end just as their purpose was revealed. I was tasked with Maynard, his personal servant for the next seven years of my life.
 - With this broad knowledge I would make the fields bloom again, and in that way save us all from the auctions and separation, from a descent into the darkness of Natchez, which was the coffin, which was all that awaited, I knew, under the rule of Maynard.
-- The masters could not bring water to boil, harness a horse, nor strap their own drawers without us. We were better than them—we had to be. Sloth was literal death for us, while for them it was the whole ambition of their lives.
+- The masters could not bring water to boil, harness a horse, nor strap their own drawers without us. We were better than them-we had to be. Sloth was literal death for us, while for them it was the whole ambition of their lives.
 - As I learned the house, and began to read, and began to see more of the Quality, I saw that just as the fields and its workers were the engine of everything, the house itself would have been lost without those who tasked within it. My father, like all the masters, built an entire apparatus to disguise this weakness, to hide how prostrate they truly were.
 - ...speaking whatever thought then possessed him.
 - I felt the tension in the room slack a bit.

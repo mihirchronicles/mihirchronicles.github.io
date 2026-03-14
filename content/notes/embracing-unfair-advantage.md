@@ -6,7 +6,7 @@ draft: false
 path: "/notes/embracing-unfair-advantage"
 ---
 
-Life isn't fair—this is one thing I am absolutely sure about because every stage of life has presented me with this fact. As the saying goes, “You are always going to meet someone in life who's smarter, richer, or better looking.”
+Life isn't fair-this is one thing I am absolutely sure about because every stage of life has presented me with this fact. As the saying goes, “You are always going to meet someone in life who's smarter, richer, or better looking.”
 
 We are born with different capacities. This reminds me of a famous quote by Aleksandr Solzhenitsyn, a Russian writer, who did not agree with Soviet ideology who once said, “Human beings are born with different capacities. If they are free, they are not equal. And if they are equal, they are not free.”
 

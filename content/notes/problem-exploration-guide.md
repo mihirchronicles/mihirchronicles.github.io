@@ -40,8 +40,8 @@ Let's put this framework in action.
 - True Impact: Average handle time is 8 mins (vs. 5 min benchmark). Revenue impact estimated at $180K/year in lost productivity. CSR turnover up 25%.  
 - Success Definition: CSRs access customer context within 10 seconds. Handle time reduced to 5 minutes. CSAT (satisfaction) scores improve to 4.0+.
 
-Start with the problem first, solution last. Your product is flexible—you can build anything. But problems, channels, and business models are rigid constraints. Start there.
+Start with the problem first, solution last. Your product is flexible-you can build anything. But problems, channels, and business models are rigid constraints. Start there.
 
 Great problem statements come from curiosity. The best problem statements have both depth and complexity.
 
-As Seth Godin says—*It doesn't make any sense to make a key and then run around looking for a lock to open. The only productive solution is to find a lock and then fashion a key.*
+As Seth Godin says-*It doesn't make any sense to make a key and then run around looking for a lock to open. The only productive solution is to find a lock and then fashion a key.*

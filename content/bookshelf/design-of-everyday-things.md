@@ -98,7 +98,7 @@ This is a must-read for problem solvers and anyone who wants to design products 
 - Errors shouldn’t ever be blamed on the user. Rather, errors are the result of bad designs. Norman provides some tips on how to design for error, which include:
     - Understand the causes of error and design to minimize those causes.
     - Do sensibility checks. Does the action pass the “common sense” test?
-    - Make it possible to reverse actions — to “undo” them — or make it harder to do what cannot be reversed.
+    - Make it possible to reverse actions - to “undo” them - or make it harder to do what cannot be reversed.
     - Make it easier for people to discover the errors that do occur, and make them easier to correct.
     - Don’t treat the action as an error; rather, try to help the person complete the action properly. Think of the action as an approximation to what is desired.
 - There are two components of design:
@@ -162,7 +162,7 @@ This is a must-read for problem solvers and anyone who wants to design products 
 - When people fail to follow these bizarre, secret rules, and the machine does the wrong thing, its operators are blamed for not understanding the machine, for not following its rigid specifications. With everyday objects, the result is frustration. With complex devices and commercial and industrial processes, the resulting difficulties can lead to accidents, injuries, and even deaths. It is time to reverse the situation: to cast the blame upon the machines and their design. It is the machine and its design that are at fault. It is the duty of machines and those who design them to understand people. It is not our duty to understand the arbitrary, meaningless dictates of machines.
 - If the system lets you make the error, it is badly designed.
 - With the passage of time, the psychology of people stays the same, but the tools and objects in the world change.
-- Design is successful only if the final product is successful—if people buy it, use it, and enjoy it, thus spreading the word. A design that people do not purchase is a failed design, no matter how great the design team might consider it.
+- Design is successful only if the final product is successful-if people buy it, use it, and enjoy it, thus spreading the word. A design that people do not purchase is a failed design, no matter how great the design team might consider it.
 - Procedural knowledge is difficult or impossible to write down and difficult to teach. It is best taught by demonstration and best learned through practice.
 - A device is easy to use when the set of possible actions is visible, when the controls and displays exploit natural mappings.
 - Alas, sometimes clever people are too clever for our good. Some well-meaning plumbing designers have decided that consistency should be ignored in favor of their own, private brand of psychology.
@@ -194,7 +194,7 @@ This is a must-read for problem solvers and anyone who wants to design products 
 - Product development involves an incredible mix of disciplines, from designers to engineers and programmers, manufacturing, packaging, sales, marketing, and service.
 - Producing a good product requires a lot more than good technical skills: it requires a harmonious, smoothly functioning, cooperative and respectful organization.
 - When a new way of doing things is vastly superior to another, then the merits of change outweigh the difficulty of change. Just because something is different does not mean it is bad. If we only kept to the old, we could never improve.
-- Most of human behavior is a result of subconscious processes. We are unaware of them. As a result, many of our beliefs about how people behave—including beliefs about ourselves—are wrong. That is why we have the multiple social and behavioral sciences, with a good dash of mathematics, economics, computer science, information science, and neuroscience.
+- Most of human behavior is a result of subconscious processes. We are unaware of them. As a result, many of our beliefs about how people behave-including beliefs about ourselves-are wrong. That is why we have the multiple social and behavioral sciences, with a good dash of mathematics, economics, computer science, information science, and neuroscience.
 - We need to remove the word failure from our vocabulary, replacing it instead with learning experience. To fail is to learn: we learn more from our failures than from our successes. With success, sure, we are pleased, but we often have no idea why we succeeded. With failure, it is often possible to figure out why, to ensure that it will never happen again.
 - Two of the most important characteristics of good design are discoverability and understanding.
 - Most radical ideas fail: large companies are not tolerant of failure. Small companies can jump in with new, exciting ideas because if they fail, well, the cost is relatively low.

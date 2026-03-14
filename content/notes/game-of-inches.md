@@ -8,7 +8,7 @@ path: "/notes/game-of-inches"
 
 Are incremental decisions more valuable than audacious decisions?
 
-A heuristic—_the game of inches_—stood out to me while I was invested in General Electric (GE) stock.
+A heuristic-_the game of inches_-stood out to me while I was invested in General Electric (GE) stock.
 
 I started purchasing General Electric stock in 2018. At this time, General Electric had incompetent management and board members. Bad acquisitions, lack of strategic initiatives, mounting debt, and fraudulent activities were all common. The organization was so complicated that reading its annual letters was a nightmare. Eventually, shareholders threw in the towel and the stock tanked.
 

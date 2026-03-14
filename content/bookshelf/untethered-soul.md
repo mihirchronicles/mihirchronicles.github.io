@@ -24,7 +24,7 @@ A beautiful book about “you are not your thoughts.” This made me more aware 
 - It’s actually a shocking realization when you first notice that your mind is constantly talking.
 - The best way to free yourself from this incessant chatter is to step back and view it objectively.
 - No matter what the voice is saying, it’s all the same. It doesn’t matter if it’s saying nice things or mean things, worldly things or spiritual things. It doesn’t matter because it’s still just a voice talking inside your head.
-- There is nothing more important to true growth than realizing that you are not the voice of the mind—you are the one who hears it.
+- There is nothing more important to true growth than realizing that you are not the voice of the mind-you are the one who hears it.
 - People go through so many changes in the name of “trying to find myself.” They want to discover which of these voices, which of these aspects of their personality, is who they really are. The answer is simple: none of them.
 - If you watch it objectively, you will come to see that much of what the voice says is meaningless.
 - The truth is that most of life will unfold in accordance with forces far outside your control, regardless of what your mind says about it.
@@ -57,4 +57,4 @@ A beautiful book about “you are not your thoughts.” This made me more aware 
 - Yoga is not really about getting your body healthy, although it does that too. Yoga is about the knowledge that will help you out of your predicament, the knowledge that can free you. Once you’ve made this freedom the meaning of your life, there are spiritual practices that can help you. These practices are what you do with your time in order to free yourself from yourself.
 - Your will is stronger than the habit of listening to that voice. There is nothing you can’t do. Your will is supreme over all of this.
 - If you want to free yourself, you must first become conscious enough to understand your predicament. Then you must commit yourself to the inner work of freedom. You do this as though your life depended on it, because it does.
-- This is your life—reclaim it.
+- This is your life-reclaim it.

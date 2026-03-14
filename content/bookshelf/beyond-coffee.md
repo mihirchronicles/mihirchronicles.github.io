@@ -39,7 +39,7 @@ Though being less dense, I found this book to be informational because of its st
 - We are each designed to express our unique brilliance.
 - The brain is an infinitely complex, ever-evolving matrix of magic.
 - The most interesting things about nootropics: they don’t have to be chemical compounds, at least not in the modern medical sense.
-- Two additional misconceptions about nootropics are that “they are unsafe” or “they don’t work.” However, that is the equivalent of believing something as vague and uninformed as “supplements are not safe” or “supplements don’t work”—some supplements are not safe and some are, some supplements work and others don’t.
+- Two additional misconceptions about nootropics are that “they are unsafe” or “they don’t work.” However, that is the equivalent of believing something as vague and uninformed as “supplements are not safe” or “supplements don’t work”-some supplements are not safe and some are, some supplements work and others don’t.
 - Misconceptions are common with new trends, and they generally come about because something is still early in scientific and cultural discovery. Many of these misconceptions are similar to those two hundred years ago at the beginning of our cultural introduction to coffee, one of the original nootropics, with the concept of coffee houses.
 - Generally speaking, the research on adaptogens is growing but very scarce, and therefore, many compounds in this chapter do not have sufficient research for us to give them a sustainability score.
 - A big reason we put this book together for you is that we were craving this kind of lens when it came to cognition-enhancing supplements ourselves.

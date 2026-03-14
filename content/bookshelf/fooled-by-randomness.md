@@ -39,12 +39,12 @@ An investigation of luck, uncertainty, probability, decision-making, and randomn
 - Avoid intellectual pollution and trap of falling prey to the nice-sounding words.
 - The pain of losing $100 is greater than the satisfaction of earning $100. Psychologists estimate the negative effect for an average loss to be up to 2.5 the magnitude of a positive one.
 - Whenever there is asymmetry in outcomes, the average survival (expected outcome) has nothing to do with the median survival (50%).
-- We do not need to be rational and scientific when it comes to the details of our daily life—only in those that can harm us and threaten our survival.
+- We do not need to be rational and scientific when it comes to the details of our daily life-only in those that can harm us and threaten our survival.
 - Induction is going from plenty of particulars to the general. It is very handy, as the general takes much less room in one’s memory than a collection of particulars. The effect of such compression is the reduction in the degree of detected randomness.
 - Heuristics:
     - The availability heuristic corresponds to the practice of estimating the frequency of an event according to the ease with which instances of the event can be recalled.
     - The representativeness heuristic is when we gauge the probability that a person belongs to a particular social group by assessing how similar the person’s characteristics are to the “typical” group member’s.
-    - The simulation heuristic: The ease of mentally undoing an event—playing the alternative scenario.
+    - The simulation heuristic: The ease of mentally undoing an event-playing the alternative scenario.
     - The affect heuristic: What emotions are elicited by events determine their probability in your mind.
 - The higher up the corporate ladder, the higher the compensation to the individual. This might be justified, as it makes plenty of sense to pay individuals according to their contributions. However, and in general, the higher up the corporate ladder, the lower the evidence of such contribution.
 - Repetitiveness is key for the revelation of skills.
@@ -69,17 +69,17 @@ An investigation of luck, uncertainty, probability, decision-making, and randomn
 - Mild success can be explainable by skills and labor. Wild success is attributable to variance.
 - My lesson from Soros is to start every meeting at my boutique by convincing everyone that we are a bunch of idiots who know nothing and are mistake-prone, but happen to be endowed with the rare privilege of knowing it.
 - When things go our way we reject the lack of certainty.
-- The epiphany I had in my career in randomness came when I understood that I was not intelligent enough, nor strong enough, to even try to fight my emotions. Besides, I believe that I need my emotions to formulate my ideas and get the energy to execute them. I am just intelligent enough to understand that I have a predisposition to be fooled by randomness—and to accept the fact that I am rather emotional. I am dominated by my emotions—but as an aesthete, I am happy about that fact.
+- The epiphany I had in my career in randomness came when I understood that I was not intelligent enough, nor strong enough, to even try to fight my emotions. Besides, I believe that I need my emotions to formulate my ideas and get the energy to execute them. I am just intelligent enough to understand that I have a predisposition to be fooled by randomness-and to accept the fact that I am rather emotional. I am dominated by my emotions-but as an aesthete, I am happy about that fact.
 - The problem with information is not that it is diverting and generally useless, but that it is toxic.
 - It certainly takes bravery to remain skeptical; it takes inordinate courage to introspect, to confront oneself, to accept one's limitations. Scientists are seeing more and more evidence that we are specifically designed by mother nature to fool ourselves.
 - Bullish or bearish are terms used by people who do not engage in practicing uncertainty, like the television commentators, or those who have no experience in handling risk. Alas, investors and businesses are not paid in probabilities; they are paid in dollars.
 - People do not realize that the media is paid to get your attention. For a journalist, silence rarely surpasses any word.
 - People often confuse complex ideas that cannot be simplified into a media-friendly statement as symptomatic of a confused mind.
-- This is one of the many reasons that journalism may be the greatest plague we face today—as the world becomes more and more complicated and our minds are trained for more and more simplification.
+- This is one of the many reasons that journalism may be the greatest plague we face today-as the world becomes more and more complicated and our minds are trained for more and more simplification.
 - There is asymmetry. Those who die do so very early in the game, while those who live go on living very long. Whenever there is asymmetry in outcomes, the average survival has nothing to do with the median survival.
 - People overvalue their knowledge and underestimate the probability of their being wrong.
 - Clearly, an open mind is a necessity when dealing with randomness. Popper believed that any idea of Utopia is necessarily closed owing to the fact that it chokes its own refutations. The simple notion of a good model for society that cannot be left open for falsification is totalitarian. I learned from Popper, in addition to the difference between an open and a closed society, that between an open and a closed mind.
-- We do not need to be rational and scientific when it comes to the details of our daily life—only in those that can harm us and threaten our survival.
+- We do not need to be rational and scientific when it comes to the details of our daily life-only in those that can harm us and threaten our survival.
 - Too much success is the enemy, too much failure is demoralizing.
 - Common sense is nothing but a collection of misconceptions acquired by age eighteen. Furthermore, What sounds intelligent in a conversation or a meeting, or, particularly, in the media, is suspicious.
 - The quality of a decision cannot be solely judged based on its outcome.
@@ -95,8 +95,8 @@ An investigation of luck, uncertainty, probability, decision-making, and randomn
 - I have no large desire to sacrifice much of my personal habits, intellectual pleasures, and personal standards in order to become a billionaire like Warren Buffett, and I certainly do not see point of becoming one if I were to adopt Spartan (even miserly) habits and live in my starter house.
 - One of the most irritating conversations I’ve had is with people who lecture me on how I should behave. Most of us know pretty much how we should behave. It is the execution that is the problem, not the absence of knowledge. I am tired of the moralizing slow-thinkers who pound me with platitudes like I should floss daily, eat my regular apple, and visit the gym outside of the New Year’s resolution. In the markets the recommendation would be to ignore the noise component in the performance. We need tricks to get us there but before that we need to accept the fact that we are mere animals in need of lower forms of tricks, not lectures.
 - Probability is principally a branch of applied skepticism.
-- Beware the confusion between correctness and intelligibility. Part of conventional wisdom favors things that can be explained rather instantly and “in a nutshell”—in many circles it is considered law.
-- Of course chance favors the prepared! Hard work, showing up on time, wearing a clean (preferably white) shirt, using deodorant, and some such conventional things contribute to success—they are certainly necessary but may be insufficient as they do not cause success.
+- Beware the confusion between correctness and intelligibility. Part of conventional wisdom favors things that can be explained rather instantly and “in a nutshell”-in many circles it is considered law.
+- Of course chance favors the prepared! Hard work, showing up on time, wearing a clean (preferably white) shirt, using deodorant, and some such conventional things contribute to success-they are certainly necessary but may be insufficient as they do not cause success.
 - We are faulty and there is no need to bother trying to correct our flaws. We are so defective and so mismatched to our environment that we can just work around these flaws.
 - Life would be unbearably bland if we had no enemies on whom to waste efforts and energy.
 - If my brain can tell the difference between noise and signal, my heart cannot.

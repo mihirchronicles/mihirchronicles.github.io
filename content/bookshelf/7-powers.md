@@ -73,5 +73,5 @@ I thoroughly enjoyed this book and realized how misunderstood the discipline of 
 - My many years of advising companies and making value-driven equity bets has made it crystal clear to me that the ascent of great companies is not linear but more a step function.
 - Internally, corporate antibodies were in full force.
 - Semiconductors are a component, not an end product.
-- “The one-sentence story of Intel is a single design win, then a decade and a half of very high Switching Costs, then Scale Economies.”  — Bill Mitchell
+- “The one-sentence story of Intel is a single design win, then a decade and a half of very high Switching Costs, then Scale Economies.”  - Bill Mitchell
 - With these ideas as your toolkit, you are now fully prepared to blaze your own path to satisfying The Mantra: A route to continuing Power in significant markets.

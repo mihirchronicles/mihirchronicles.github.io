@@ -6,7 +6,7 @@ path: "/bookshelf/the-hidden-life-of-trees"
 
 ## I. Brief Summary
 
-After reading this book, I recognize how misunderstood trees and forests are. Humanity has always struggled to understand things that reside in a slow lane or cannot be seen through our own eyes. Modern urbanization and reforestation might seem to be optically working, however, what forests need is—uninterrupted growth time for a very long period of time. To restore what we have ruined on this planet goes beyond an average human lifespan. Peter Wohlleben clearly shares his deep love of woods. He is a student of forestry. He explains the amazing processes of life, death, and regeneration of trees which he has studied deeply that most are unaware of.
+After reading this book, I recognize how misunderstood trees and forests are. Humanity has always struggled to understand things that reside in a slow lane or cannot be seen through our own eyes. Modern urbanization and reforestation might seem to be optically working, however, what forests need is-uninterrupted growth time for a very long period of time. To restore what we have ruined on this planet goes beyond an average human lifespan. Peter Wohlleben clearly shares his deep love of woods. He is a student of forestry. He explains the amazing processes of life, death, and regeneration of trees which he has studied deeply that most are unaware of.
 
 ## II. Big Ideas
 
@@ -65,7 +65,7 @@ After reading this book, I recognize how misunderstood trees and forests are. Hu
 - What good are extra provisions if you can't shed your leaves and have to spend the whole winter in mortal danger?
 - Growth speeds up, and instead of adding a few fractions of an inch each year, the tree is adding about 20 inches. This takes energy, which is then not available for fending off illness and pests. The trunk, which appears to be in the very best of health, finds itself increasingly under attack because it doesn't have the energy to mobilize a defense.
 - We like to apply our own situations to others, we overlook the fact that an intact forest has completely different priorities. 
-- It takes not 1 but 150 years to grow such a mighty structure, but once it's up there, hardly any other plants—except for other trees can reach it, and the rest of its life is worry free.
+- It takes not 1 but 150 years to grow such a mighty structure, but once it's up there, hardly any other plants-except for other trees can reach it, and the rest of its life is worry free.
 - In short, this is what we call evolution. It helps organisms to adapt to changing environmental conditions and, therefore, guarantees the survival of species. The shorter the interval before the next generation, the more quickly animals and plants can adapt. Trees seem completely uninterested in this scientifically established imperative. They simply live to be ancient on average many hundreds, but sometimes even thousands, of years old.
 - But just as people spark fires, they also rush to put them out.
 - Chlorophyll, however, has one disadvantage. It has a so-called green gap, and because it cannot use this part of the color spectrum, it has to reflect it back unused. This weak spot means that we can see this photosynthetic leftover, and that's why almost all plants look deep green to us. What we are really seeing is waste light, the rejected part that trees cannot use. Beautiful for us; useless for trees. Nature that we find pleasing because it reflects trash?

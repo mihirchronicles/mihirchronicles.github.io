@@ -62,14 +62,14 @@ A book about maximizing human cognition and decision-making using computer scien
 - The best minds of my generation are making people click on ads.
 - Tossing things on the top of the pile is the most efficient thing you can do, shy of knowing the future.
 - The optimist thinks we are living in the best of all worlds, and the pessimist fears this is true.
-- When we talk about decision-making, we usually focus just on the immediate payoff of a single decision—and if you treat every decision as if it were your last, then indeed only exploitation makes sense. But over a lifetime, you’re going to make a lot of decisions. And it’s actually rational to emphasize exploration—the new rather than the best, the exciting rather than the safe, the random rather than the considered—for many of those choices, particularly earlier in life.
+- When we talk about decision-making, we usually focus just on the immediate payoff of a single decision-and if you treat every decision as if it were your last, then indeed only exploitation makes sense. But over a lifetime, you’re going to make a lot of decisions. And it’s actually rational to emphasize exploration-the new rather than the best, the exciting rather than the safe, the random rather than the considered-for many of those choices, particularly earlier in life.
 - Don’t always consider all your options. Don’t necessarily go for the outcome that seems best every time. Make a mess on occasion. Travel light. Let things wait. Trust your instincts and don’t think too long. Relax. Toss a coin. Forgive, but don’t forget. To thine own self be true.
-- Even the best strategy sometimes yields bad results—which is why computer scientists take care to distinguish between “process” and “outcome.” If you followed the best possible process, then you’ve done all you can, and you shouldn’t blame yourself if things didn’t go your way.
-- Our judgments betray our expectations, and our expectations betray our experience. What we project about the future reveals a lot—about the world we live in, and about our own past.
-- If you want to be a good intuitive Bayesian—if you want to naturally make good predictions, without having to think about what kind of prediction rule is appropriate—you need to protect your priors. Counterintuitively, that might mean turning off the news.
+- Even the best strategy sometimes yields bad results-which is why computer scientists take care to distinguish between “process” and “outcome.” If you followed the best possible process, then you’ve done all you can, and you shouldn’t blame yourself if things didn’t go your way.
+- Our judgments betray our expectations, and our expectations betray our experience. What we project about the future reveals a lot-about the world we live in, and about our own past.
+- If you want to be a good intuitive Bayesian-if you want to naturally make good predictions, without having to think about what kind of prediction rule is appropriate-you need to protect your priors. Counterintuitively, that might mean turning off the news.
 - If changing strategies doesn’t help, you can try to change the game. And if that’s not possible, you can at least exercise some control about which games you choose to play. The road to hell is paved with intractable recursions, bad equilibria, and information cascades. Seek out games where honesty is the dominant strategy. Then just be yourself.
 - Sorting something you will never search is a complete waste. Searching something you never sorted is merely inefficient.
-- No choice recurs. We may get similar choices again, but never that exact one. Hesitation—inaction—is just as irrevocable as action. What the motorist, locked on the one-way road, is to space, we are to the fourth dimension: we truly pass this way but once.
+- No choice recurs. We may get similar choices again, but never that exact one. Hesitation-inaction-is just as irrevocable as action. What the motorist, locked on the one-way road, is to space, we are to the fourth dimension: we truly pass this way but once.
 - To try and fail is at least to learn; to fail to try is to suffer the inestimable loss of what might have been.
 - It’s fairly intuitive that never exploring is no way to live. But it’s also worth mentioning that never exploiting can be every bit as bad. In the computer science definition, exploitation actually comes to characterize many of what we consider to be life’s best moments. A family gathering together on the holidays is exploitation. So is a bookworm settling into a reading chair with a hot cup of coffee and a beloved favorite, or a band playing their greatest hits to a crowd of adoring fans, or a couple that has stood the test of time dancing to “their song.”
 - The greater the uncertainty, the bigger the gap between what you can measure and what matters, the more you should watch out for overfitting - that is, the more you should prefer simplicity.
@@ -96,8 +96,8 @@ A book about maximizing human cognition and decision-making using computer scien
 - Love is like organized crime.
 - Communication is one of those delightful things that work only in practice; in theory it’s impossible.
 - When our expectations are uncertain and the data are noisy, the best bet is to paint with a broad brush.
-- Unless we have good reason to think otherwise, it seems that our best guide to the future is a mirror image of the past. The nearest thing to clairvoyance is to assume that history repeats itself — backward.
-- When the future is foggy, it turns out you don’t need a calendar—just a to-do list.
+- Unless we have good reason to think otherwise, it seems that our best guide to the future is a mirror image of the past. The nearest thing to clairvoyance is to assume that history repeats itself - backward.
+- When the future is foggy, it turns out you don’t need a calendar-just a to-do list.
 - Learning the structure of the world around us and forming lasting social relationships are both lifelong tasks.
 - Living by the wisdom of computer science doesn’t sound so bad after all. And unlike most advice, it’s backed up by proofs.
-- Do the difficult things while they are easy and do the great things while they are small. — Lao Tzu
+- Do the difficult things while they are easy and do the great things while they are small. - Lao Tzu

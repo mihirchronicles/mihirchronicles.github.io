@@ -15,7 +15,7 @@ IDEO founder and Stanford d.school creator David Kelley and his brother Tom Kell
     - It turns our creativity isn't some rare gift to be enjoyed by the lucky few. It just needs to be unblocked.
     - Creative confidence is a way of experiencing the world that generates new approaches and solutions.
 - Self-efficacy does not mean arrogance or over-confidence (let this sink in, important lesson to take away).
-    - People with creative confidence have a greater impact on the world around them—whether that means getting involved with their child's school, turning a storage room into a vibrant innovation space, or harnessing social media to recruit more bone marrow donors. 
+    - People with creative confidence have a greater impact on the world around them-whether that means getting involved with their child's school, turning a storage room into a vibrant innovation space, or harnessing social media to recruit more bone marrow donors. 
     - As legendary psychologist and Stanford professor Albert Bandura has shown, our belief systems affect our actions, goals, and perception. Individuals who come to believe that they can effect change our most likely to accomplish what they set out to do. 
     - Bandura calls that conviction “self-efficacy.” People with self-efficacy set their sights higher, try harder, preserve longer, and show more resilience in the face of failure. 
 - Chapter breakdowns:
@@ -28,13 +28,13 @@ IDEO founder and Stanford d.school creator David Kelley and his brother Tom Kell
         - People with strong analytical skills tend to snap instantly into problem-solving mode. They leap for the finish line and start defending their answers. Whereas creative thinkers, are careful not to rush to judgement. They recognize that there are many possible solutions and willing to go wide first, identifying a number of possible approaches before converging on the ideas most worth implementing. 
     - Dare | From Fear to Courage
         - One of the scariest snakes in the room is the fear of failure, which manifests itself in such ways as fear of being misjudged, fear of getting started, fear of the unknown.
-        - Experiment ending in failure is not a failed experiment—as long as constructive learning is gained. In fact, every failure can be crucial to success in innovation. Because the faster you find weakness during an innovation cycle, the faster you can improve what needs fixing. 
+        - Experiment ending in failure is not a failed experiment-as long as constructive learning is gained. In fact, every failure can be crucial to success in innovation. Because the faster you find weakness during an innovation cycle, the faster you can improve what needs fixing. 
             - The Wright brothers launched a first successful flight. But that overlooks the hundreds of experiments and failed flight trials in the years that led up to that first successful flight.
         - Creative people simply do more experiments. They take more shots at the goal. That is the surprising compelling mathematics of innovation: if you want more success, you have to be prepared to shrug off more failure.
         - Number of product cycles you go through (mileage) trumps the number of years of experiences. This rapid innovation cycles will give you familiarity with process and confidence in your ability to assess new ideas. And that confidence results in reduced anxiety in the face of ambiguity when you are bringing new ideas into the world.
         - Acknowledging mistakes is also a part of learning and moving on.
         - Letting go of comparison prevents questioning our self-worth and embracing creativity. Once insecurity takes hold, it can create a vicious cycle. Give other people credit when it's due. Pay attention to signs that someone around you is feeling undervalued or has lost his or her self-confidence. Because when you don't address insecurity, it's like the family secret that everyone knows about no one talks about. The conversation may be uncomfortable and painful but worth it in the long-term.
-        - Resilience is often thought of as a solo effort—the lone hero who falls and rises up again to do battle. In reality, however, reaching out to others is usually a strategy of success. It doesn't have to be an admission of weakness. We need others to help us bounce back from adversity and hardship.
+        - Resilience is often thought of as a solo effort-the lone hero who falls and rises up again to do battle. In reality, however, reaching out to others is usually a strategy of success. It doesn't have to be an admission of weakness. We need others to help us bounce back from adversity and hardship.
     - Spark | From Blank Page to Insight
         - To keep thinking fresh, constantly seek out new sources of information.
         - Conduct cross-pollination by sourcing inspiration from different cultures and organizations.
@@ -90,11 +90,11 @@ IDEO founder and Stanford d.school creator David Kelley and his brother Tom Kell
 
 ## III. Quotes
 
-- Creative confidence is like a muscle—it can be strengthened and nurtured through effort and experience. Our goal is to help build that confidence in you.
+- Creative confidence is like a muscle-it can be strengthened and nurtured through effort and experience. Our goal is to help build that confidence in you.
 - Creative confidence is a way of seeing that potential and your place in the world more clearly, unclouded by anxiety and doubt.
 - We think of creativity as using your imagination to create something new in the world.
 - In the business world, creativity manifests itself as innovation.
-- For the people we've worked with, opening up the flow of creativity is like discovering that you've been driving a car with the emergency brake on—and suddenly experiencing what it feels like when you release the brake and can drive freely.
+- For the people we've worked with, opening up the flow of creativity is like discovering that you've been driving a car with the emergency brake on-and suddenly experiencing what it feels like when you release the brake and can drive freely.
 - In our experience, _everybody_ is the creative type.
 - Creative energy is one of our most precious resources.
 - A growth mindset is a passport to new adventures.
@@ -102,7 +102,7 @@ IDEO founder and Stanford d.school creator David Kelley and his brother Tom Kell
 - Designers always act with intention.
 - Everything in modern society is the result of a collection of decisions made by someone. 
 - Failure sucks, but instructs.
-- We believe the lessons learned from failures may make us smarter—even stronger.
+- We believe the lessons learned from failures may make us smarter-even stronger.
 - Relentless practice creates a database of experience that you can draw upon to make more enlightened choices.
 - Success has many fathers, but failure is an orphan.
 - When our self-worth isn't on the line, we are more willing to courageous and risk sharing our raw talents and gifts.
@@ -117,4 +117,4 @@ IDEO founder and Stanford d.school creator David Kelley and his brother Tom Kell
 - Don't turn talk a substitute for action.
 - Show, don't tell.
 - The most innovative companies in the 21st century have transitioned from command-and-control organizations to a participatory approach that involves collaboration and teamwork.
-- Few people think about it or are aware of it. But there is nothing made by human beings that does not involve a design decision somewhere. — Bill Moggridge
+- Few people think about it or are aware of it. But there is nothing made by human beings that does not involve a design decision somewhere. - Bill Moggridge

@@ -73,7 +73,7 @@ Rick Rubin provides wisdom on creativity. Rubin is a legendary music producer, a
 - If you know what you want to do and you do it, that’s the work of a craftsman. If you begin with a question and use it to guide an adventure of discovery, that’s the work of the artist.
 - To create is to bring something into existence that wasn’t there before. It could be a conversation, the solution to a problem, a note to a friend, the rearrangement of furniture in a room, a new route home to avoid a traffic jam.
 - Expressing oneself in the world and creativity are the same. It may not be possible to know who you are without somehow expressing it.
-- Pay particular attention to the moments that take your breath away—a beautiful sunset, an unusual eye color, a moving piece of music, the elegant design of a complex machine.
+- Pay particular attention to the moments that take your breath away-a beautiful sunset, an unusual eye color, a moving piece of music, the elegant design of a complex machine.
 - Rules direct us to average behaviors. If we’re aiming to create works that are exceptional, most rules don’t apply. Average is nothing to aspire to. The goal is not to fit in. If anything, it’s to amplify the differences, what doesn’t fit, the special characteristics unique to how you see the world.
 - Sometimes the most valuable touch a collaborator can have is no touch at all.
 - The making of art is not a competitive act. Our work is representative of the self.
@@ -91,16 +91,16 @@ Rick Rubin provides wisdom on creativity. Rubin is a legendary music producer, a
 - Flaws are human, and the attraction of art is the humanity held in it. If we were machinelike, the art wouldn’t resonate. It would be soulless. With life comes pain, insecurity, and fear.
 - Being part of an artistic community can be one of the great joys of life.
 - Talent is the ability to let ideas manifest themselves through you.
-- The word inspire comes from the Latin—inspirare, meaning to breathe in or blow into. For the lungs to draw in air, they must first be emptied. For the mind to draw inspiration, it wants space to welcome the new. The universe seeks balance. Through this absence, you are inviting energy in.
+- The word inspire comes from the Latin-inspirare, meaning to breathe in or blow into. For the lungs to draw in air, they must first be emptied. For the mind to draw inspiration, it wants space to welcome the new. The universe seeks balance. Through this absence, you are inviting energy in.
 - Receive wisdom skillfully. Try it on for size and see how it fits. Incorporate what’s useful. Let go of the rest. And no matter how credible the source, test and tune in to yourself to discover what works for you.
 - The only practice that matters is the one you consistently do, not the practice of any other artist.
 - Something will be gained through the process, whatever the result. Give yourself permission to be wrong and experience the joy of being surprised.
-- The synergy of a group is as important— if not more important— than the talent of the individuals.
+- The synergy of a group is as important- if not more important- than the talent of the individuals.
 - Efforts to portray point of view on purpose often lead to a false representation.
 - Art is above and beyond judgment. It either speaks to you or it doesn’t. The artist’s only responsibility is to the work itself. There are no other requirements. You’re free to create what you will.
 - Art doesn’t get made on the clock. But it can get finished on the clock.
 - When something doesn’t go according to plan, we have a choice to either resist it or incorporate it.
-- What we say, what we sing, what we paint— we get to choose. We have no responsibility to anything other than the art itself. The art is the final word.
+- What we say, what we sing, what we paint- we get to choose. We have no responsibility to anything other than the art itself. The art is the final word.
 - Avoid thinking in impossibilities. If there’s a skill or piece of knowledge you need for a particular project, you can do the homework and work toward it over time. You can train for anything.
 - Failure is the information you need to get where you’re going.
 - Sometimes the mistakes are what makes a work great. Humanity breathes in mistakes.

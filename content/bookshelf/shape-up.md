@@ -6,7 +6,7 @@ path: "/bookshelf/shape-up"
 
 ## I. Brief Summary
 
-A book on how Basecamp (one of my favorite organizations with inspirational founders) does software and product development. Ryan Singer introduces great analogies to reshape the mindset—shaping, appetite, bread-boarding, scopes and uphill and downhill phases of work. These are great concepts to understand which can make software and product development process effective in any organization.
+A book on how Basecamp (one of my favorite organizations with inspirational founders) does software and product development. Ryan Singer introduces great analogies to reshape the mindset-shaping, appetite, bread-boarding, scopes and uphill and downhill phases of work. These are great concepts to understand which can make software and product development process effective in any organization.
 
 ## II. Big Ideas
 
@@ -19,7 +19,7 @@ A book on how Basecamp (one of my favorite organizations with inspirational foun
     - Designer + PM + Tech lead: sketch out the elements of the solution. A higher level of abstraction than wireframes in order to move fast and explore a wide enough range of possibilities. The solution should be desirable but without too many details.
     - Designer + PM + Tech lead: define risks, edge cases and extreme nuances. Take a hard look at it to find holes or unanswered questions that could trip up the execution team. Cut things out, specify details or amend the solution if getting stuck or not able to get momentum.
     - PM: once you have shaped it enough, write a pitch. The pitch summarizes the problem, constraints, solution, rabbit holes, and limitations. The pitch goes to the betting table for a leadership go/no-go.
-- Designers, Engineers & Product Strategists—shaping is primarily design work and get continuous feedback from engineering. A PM brings the strategic perspective.
+- Designers, Engineers & Product Strategists-shaping is primarily design work and get continuous feedback from engineering. A PM brings the strategic perspective.
     - Designers
         - Designers and programmers always want to do their best work. It doesn’t matter if the button is on the center of the landing page or two pages down a settings screen, the designer will give it their best attention.
     - Engineers
@@ -35,12 +35,12 @@ A book on how Basecamp (one of my favorite organizations with inspirational foun
     - Declare out of bounds. Call out any cases you specifically aren’t supporting to keep the project well within the appetite. Cutting scope isn’t lowering quality.
     - Work vertically to deliver something concrete and actionable. Build the core and then refine it.
     - Give status update a few days after the cycle began and do it asynchronous.
-- Betting table—it is a form of prioritization and gain traction/appetite from stakeholders and decision-makers.
+- Betting table-it is a form of prioritization and gain traction/appetite from stakeholders and decision-makers.
     - The betting table at Basecamp consists of the CEO, the CTO, a senior developer and product strategist.
     - Bets have a payout.
     - Bets are commitments.
     - Bets have a cap on the downside.
-- Bread-boarding—a concept borrowed from electrical engineering.
+- Bread-boarding-a concept borrowed from electrical engineering.
     - Places: these are things you can navigate to, like screens, dialogs, or menus that pop up.
     - Affordances: these are things the user can act on, like buttons and fields. Interface copy is considered to be an affordance too, as reading it is an act that gives the user information for subsequent actions.
     - Connection lines: these show how the affordances take the user from place to place.

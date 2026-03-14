@@ -16,7 +16,7 @@ Easwaran translates and frames the Upanishads not as religious dogma but as “s
 - Below are the central themes: 
     - Atman and Brahman (The Supreme Equation): The core discovery of the Upanishads is that the core of the individual personality (Atman) is identical to the ultimate reality of the universe (Brahman). Realizing this unity is the highest goal of life.
     - “Thou Art That” (Tat Tvam Asi): A recurring mantra (mahavakya) found in the Chandogya Upanishad, teaching that the divine essence you seek outside is actually your own true nature.
-    - The Illusion of Separateness (Maya): The world of multiplicity—where we see ourselves as separate individuals—is an illusion. This separateness causes fear and desire. Wisdom lies in seeing the “One” underlying the “Many.”
+    - The Illusion of Separateness (Maya): The world of multiplicity-where we see ourselves as separate individuals-is an illusion. This separateness causes fear and desire. Wisdom lies in seeing the “One” underlying the “Many.”
     - The Law of Karma and Rebirth: Our actions, driven by our deep desires, determine our destiny. We are trapped in a cycle of birth and death (samsara) until we realize our true Self and break the cycle.
 - The path to self-realization
     - Meditation is Key: Intellectual study and external rituals are insufficient for knowing the Self. Real knowledge comes from direct experiential realization through deep meditation (dhyana) and turning the senses inward.
@@ -31,7 +31,7 @@ Easwaran translates and frames the Upanishads not as religious dogma but as “s
 - Memorable metaphors from the book:
     - The Chariot: Found in the Katha Upanishad, the body is likened to a chariot, the senses to horses, the mind to the reins, and the intellect to the charioteer. The Atman is the passenger. One must train the “horses” (senses) to reach the destination.
     - Nachiketa and Death: The story of a teenage boy (Nachiketa) who goes to the abode of the King of Death (Yama) to learn the secret of immortality. Yama teaches him that the Self never dies and is immortal.
-    - Shvetaketu: A student who returns from years of study proud of his book learning, only to be humbled by his father who teaches him that he still lacks the knowledge of the Self (using the famous example of salt dissolved in water—unseen but pervasive).
+    - Shvetaketu: A student who returns from years of study proud of his book learning, only to be humbled by his father who teaches him that he still lacks the knowledge of the Self (using the famous example of salt dissolved in water-unseen but pervasive).
 
 ## III. Quotes
 

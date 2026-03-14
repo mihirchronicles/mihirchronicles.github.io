@@ -8,23 +8,23 @@ path: "/notes/on-creative-adventures"
 
 *Creativity* is the most used word around us. But I have struggled to define it. What comes to mind when I think about *creativity* is *constraint*. I find them to be synonymous. A constraint can be due to a lack of resources or imaginations. To get past this hurdle, creativity is required.
 
-I have never really thought of myself as a creative, but I tend to gravitate more towards creatives. I remember as a kid—sitting in my bedroom, flipping pages of a children's book, I was drawn towards words, colors and characters. I admired the visual and literary attributes of characters mentioned in those books. Once I was bored with my old books, I would force my mom to buy new books by crying as loud as I could. Throwing tantrums is what we do as kids, right?
+I have never really thought of myself as a creative, but I tend to gravitate more towards creatives. I remember as a kid-sitting in my bedroom, flipping pages of a children's book, I was drawn towards words, colors and characters. I admired the visual and literary attributes of characters mentioned in those books. Once I was bored with my old books, I would force my mom to buy new books by crying as loud as I could. Throwing tantrums is what we do as kids, right?
 
-> Creativity is a combination of discipline and a childlike spirit. — Robert Greene
+> Creativity is a combination of discipline and a childlike spirit. - Robert Greene
 
 As time passed, I started painting these characters on the wall next to my bed. My room was super organized; toys laid out symmetrically. I don't know where my creativity came from, but it played a large role during my childhood, and it still continues to play a role in my life today.
 
 Creativity is commonly associated with drawing, singing and writing. But it could be any craft. If the foundation of creativity arises from constraint resources then imagination is pushed wider due to limited resources.
 
-The world you and I live in seems to narrow things down to two polar choices—yes/no, democrats/republic, east/west, and so on. But, creativity has no right or wrong answers. You do not need approval or outside validation. Yes, you need feedback on your work, but your opinion is as important as others. You are the ultimate test of whether what you are saying has strength and validity.
+The world you and I live in seems to narrow things down to two polar choices-yes/no, democrats/republic, east/west, and so on. But, creativity has no right or wrong answers. You do not need approval or outside validation. Yes, you need feedback on your work, but your opinion is as important as others. You are the ultimate test of whether what you are saying has strength and validity.
 
 1. Creativity gives you space to escape the past and the future. It brings you to the present. 
 2. Creativity allows you to come up with solutions to problems.
 3. Creativity involves making and building things. And when you make something with your own hands, it will boost your confidence. Creating is playing. Playing is living.
-4. Creativity allows you to enter the flow state[0]—a deep meditation. When you are in flow state, it helps you relax. Creative endeavors give you a sense of peace and calm.
+4. Creativity allows you to enter the flow state[0]-a deep meditation. When you are in flow state, it helps you relax. Creative endeavors give you a sense of peace and calm.
 5. Creativity allows you to share your work with others. It is easy to feel lost or invincible. Creativity helps you be seen.
 
-> Creativity is not a talent. It is a way of operating. — John Cleese
+> Creativity is not a talent. It is a way of operating. - John Cleese
 
 ## Benefits of creative process
 
@@ -36,11 +36,11 @@ Imitation is the process of learning and educational years are mostly imitative.
 
 Imitate before you shoot for originality. Your uniqueness will start emerging over time once you find your voice.
 
-> Nobody tells this to people who are beginners, I wish someone told me. All of us who do creative work, we get into it because we have good taste. But there is this gap. For the first couple years you make stuff, it’s just not that good. It’s trying to be good, it has potential, but it’s not. But your taste, the thing that got you into the game, is still killer. And your taste is why your work disappoints you. A lot of people never get past this phase, they quit. Most people I know who do interesting, creative work went through years of this. We know our work doesn’t have this special thing that we want it to have. We all go through this. And if you are just starting out or you are still in this phase, you got to know its normal and the most important thing you can do is do a lot of work. Put yourself on a deadline so that every week you will finish one story. It is only by going through a volume of work that you will close that gap, and your work will be as good as your ambitions. And I took longer to figure out how to do this than anyone I’ve ever met. It’s going to take a while. It’s normal to take a while. You’ve just gotta fight your way through. — Ira Glass
+> Nobody tells this to people who are beginners, I wish someone told me. All of us who do creative work, we get into it because we have good taste. But there is this gap. For the first couple years you make stuff, it’s just not that good. It’s trying to be good, it has potential, but it’s not. But your taste, the thing that got you into the game, is still killer. And your taste is why your work disappoints you. A lot of people never get past this phase, they quit. Most people I know who do interesting, creative work went through years of this. We know our work doesn’t have this special thing that we want it to have. We all go through this. And if you are just starting out or you are still in this phase, you got to know its normal and the most important thing you can do is do a lot of work. Put yourself on a deadline so that every week you will finish one story. It is only by going through a volume of work that you will close that gap, and your work will be as good as your ambitions. And I took longer to figure out how to do this than anyone I’ve ever met. It’s going to take a while. It’s normal to take a while. You’ve just gotta fight your way through. - Ira Glass
 
 Martin Scorsese wrote about Philip Glass’ influence on him:
 
-> In the practice of meditating, the most important thing is the practice. It doesn't matter how you feel, it doesn't matter how much you succeed or fail—what matters is doing it. And I think that's also true of making films, or composing and playing music. We keep practicing our art forms so that we can keep coming closer and closer to what beckons us and energizes us, which we can't name—we can only go to it, and only our practice will get us there. — Martin Scorsese
+> In the practice of meditating, the most important thing is the practice. It doesn't matter how you feel, it doesn't matter how much you succeed or fail-what matters is doing it. And I think that's also true of making films, or composing and playing music. We keep practicing our art forms so that we can keep coming closer and closer to what beckons us and energizes us, which we can't name-we can only go to it, and only our practice will get us there. - Martin Scorsese
 
 ## Imposter syndrome
 
@@ -54,9 +54,9 @@ Imposter is more common amongst creatives. It is a psychological occurrence in w
 
 > The greatest creators train not only in their chosen fields, but in the alchemy of fear. – Jonathan Fields
 
-> Schedule daily “white space” in your calendar, where your only task is to think or take a walk and daydream. When you try to generate ideas, shoot for 100 instead of 10. Defer your own judgment and you’ll be surprised at how many ideas you have—and like—by the end of the week. — Reclaim Your Creative Confidence, by Tom Kelley and David Kelley
+> Schedule daily “white space” in your calendar, where your only task is to think or take a walk and daydream. When you try to generate ideas, shoot for 100 instead of 10. Defer your own judgment and you’ll be surprised at how many ideas you have-and like-by the end of the week. - Reclaim Your Creative Confidence, by Tom Kelley and David Kelley
 
-> When we remove ego, we’re left with what is real. What replaces ego is humility, yes—but rock-hard humility and confidence. Whereas ego is artificial, this type of confidence can hold weight. Ego is stolen. Confidence is earned. – Ryan Holiday
+> When we remove ego, we’re left with what is real. What replaces ego is humility, yes-but rock-hard humility and confidence. Whereas ego is artificial, this type of confidence can hold weight. Ego is stolen. Confidence is earned. – Ryan Holiday
 
 ## Originality
 
@@ -68,15 +68,15 @@ In the digital age, creativity can be misunderstood since consuming and distribu
 2. Creativity happens when you go against the face of reason, authority and common sense.
 3. Creativity happens when stitching ideas together from different fields.
 
-> Making unusual connections is the basis of creativity. — Ellen Galinsky
+> Making unusual connections is the basis of creativity. - Ellen Galinsky
 
-> Creativity isn’t magic: it happens by applying ordinary tools of thought to existing materials. And the soil from which we grow our creations is something we scorn and misunderstand even though it gives us so much — and that’s… copying. — Kirby Ferguson
+> Creativity isn’t magic: it happens by applying ordinary tools of thought to existing materials. And the soil from which we grow our creations is something we scorn and misunderstand even though it gives us so much - and that’s… copying. - Kirby Ferguson
 
-> The most dramatic results can happen when ideas are combined. By connecting ideas together, creative leaps can be made, producing some of history’s biggest breakthroughs. — Kirby Ferguson
+> The most dramatic results can happen when ideas are combined. By connecting ideas together, creative leaps can be made, producing some of history’s biggest breakthroughs. - Kirby Ferguson
 
-> The aim of art is to ask the big questions. — George Saunders.
+> The aim of art is to ask the big questions. - George Saunders.
 
-> How are we supposed to be living down here? What were we put here to accomplish? What should we value? What is truth, anyway, and how might we recognize it? — George Saunders.
+> How are we supposed to be living down here? What were we put here to accomplish? What should we value? What is truth, anyway, and how might we recognize it? - George Saunders.
 
 Through practice, your voice should start to emerge. But to be original, the process of creativity requires to ask courageous questions and challenge the status quo by standing up for your own ideas.
 
@@ -90,7 +90,7 @@ Daily routine prevents cognitive load. If you are on an autopilot, you don't hav
 
 Also turn off all the noise. You can’t experience the state of “flow” if you’re constantly being interrupted.
 
-> To be able to concentrate for a considerable time is essential to difficult achievement. — Bertrand Russell
+> To be able to concentrate for a considerable time is essential to difficult achievement. - Bertrand Russell
 
 ## Breaking the loops
 
@@ -106,7 +106,7 @@ To understand the importance of breaks, we need to understand common loops that 
 
 These infinite loops prevent creativity. Understanding these loops is vital. To break these loops, take frequent breaks.
 
-> The only thing that’s going to get you back to work on day two is if you forgive yourself for how bad your work was on day one. — Elizabeth Gilbert
+> The only thing that’s going to get you back to work on day two is if you forgive yourself for how bad your work was on day one. - Elizabeth Gilbert
 
 ## Generating options
 1. Quality comes from quantity. 
@@ -119,39 +119,39 @@ These infinite loops prevent creativity. Understanding these loops is vital. To 
 
 ## Quotes
 
-> Creativity is a different way of looking at things, a different way of looking at ourselves. When we are creative, when we are at play, when we really believe in ourselves, we open ourselves to our own experiences. — George Sheehan
+> Creativity is a different way of looking at things, a different way of looking at ourselves. When we are creative, when we are at play, when we really believe in ourselves, we open ourselves to our own experiences. - George Sheehan
 
-> Thoughts are “designed” just like everything else around us. — Andrea Zittel
+> Thoughts are “designed” just like everything else around us. - Andrea Zittel
 
-> Demands are more oppressive than restrictions. A to-do list is an example of a demand – you become so caught up in the list that you lose the ability to actively prioritize what is most important at any given moment. Restrictions, however, create parameters that limit certain activities in order to allow room for other things that are often hard to find time for (reading, listening to oneself think, crocheting sweaters). In other words, it is better to restrict yourself from doing certain activities than it is to add more things to your to-do list. — Andrea Zittel
+> Demands are more oppressive than restrictions. A to-do list is an example of a demand – you become so caught up in the list that you lose the ability to actively prioritize what is most important at any given moment. Restrictions, however, create parameters that limit certain activities in order to allow room for other things that are often hard to find time for (reading, listening to oneself think, crocheting sweaters). In other words, it is better to restrict yourself from doing certain activities than it is to add more things to your to-do list. - Andrea Zittel
 
-> Space can’t be “made”, instead it is denoted by boundaries, divisions, walls, compartments, etc. In essence, space is created by the physical boundaries that we build to contain it. — Andrea Zittel
+> Space can’t be “made”, instead it is denoted by boundaries, divisions, walls, compartments, etc. In essence, space is created by the physical boundaries that we build to contain it. - Andrea Zittel
 
-> I can’t give my students more time in their lives; but what I try to do is change the way they think about and value it in the first place. My class typically includes students who aren’t art majors, some of whom may never have made art before. I give them the same advice every quarter: Leave yourself twice as much time as you think you need for a project, knowing that half of that may not look like “making” anything at all. There is no Soylent version of thought and reflection — creativity is unpredictable, and it simply takes time. — Jenny Odell
+> I can’t give my students more time in their lives; but what I try to do is change the way they think about and value it in the first place. My class typically includes students who aren’t art majors, some of whom may never have made art before. I give them the same advice every quarter: Leave yourself twice as much time as you think you need for a project, knowing that half of that may not look like “making” anything at all. There is no Soylent version of thought and reflection - creativity is unpredictable, and it simply takes time. - Jenny Odell
 
-> Creativity is contagious. Pass it on. — Albert Einstein
+> Creativity is contagious. Pass it on. - Albert Einstein
 
-> Creativity is paying attention and putting a light on things we might otherwise overlook. — Wendy MacNaughton
+> Creativity is paying attention and putting a light on things we might otherwise overlook. - Wendy MacNaughton
 
-> You can’t use up creativity. The more you use, the more you have. — Maya Angelou
+> You can’t use up creativity. The more you use, the more you have. - Maya Angelou
 
 > There is no healthier drug than creativity. ― Nayyirah Waheed
 
 > Creativity keeps the world alive, yet, everyday we are asked to be ashamed of honoring it, wanting to live our lives as artists. i’ve carried the shame of being a ‘creative’ since i came to the planet; have been asked to be something different, more, less my whole life. thank spirit, my wisdom is deeper than my shame, and i listened to who i was. i want to say to all the creatives who have been taught to believe who you are is not enough for this world, taught that a life of art will amount to nothing, know that who we are, and what we do is life. when we create, we are creating the world. remember this, and commit. ― Nayyirah Waheed
 
-> This is the extraordinary thing about creativity: If just you keep your mind resting against the subject in a friendly but persistent way, sooner or later you will get a reward from your unconscious. — John Cleese
+> This is the extraordinary thing about creativity: If just you keep your mind resting against the subject in a friendly but persistent way, sooner or later you will get a reward from your unconscious. - John Cleese
 
-> Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while. That’s because they were able to connect experiences they’ve had and synthesize new things. And the reason they were able to do that was that they’ve had more experiences or they have thought more about their experiences than other people. Unfortunately, that’s too rare a commodity. A lot of people in our industry haven’t had very diverse experiences. So they don’t have enough dots to connect, and they end up with very linear solutions without a broad perspective on the problem. The broader one’s understanding of the human experience, the better design we will have. — Steve Jobs
+> Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while. That’s because they were able to connect experiences they’ve had and synthesize new things. And the reason they were able to do that was that they’ve had more experiences or they have thought more about their experiences than other people. Unfortunately, that’s too rare a commodity. A lot of people in our industry haven’t had very diverse experiences. So they don’t have enough dots to connect, and they end up with very linear solutions without a broad perspective on the problem. The broader one’s understanding of the human experience, the better design we will have. - Steve Jobs
 
-> Get off your computer and connect with real life and culture. Life is visceral….Travel as much as you can. It is a humbling and inspiring experience to learn to just how much you don’t know. — John C. Jay.
+> Get off your computer and connect with real life and culture. Life is visceral….Travel as much as you can. It is a humbling and inspiring experience to learn to just how much you don’t know. - John C. Jay.
 
-> Ignore everybody. The more original your idea is, the less good advice other people will be able to give you….You don’t know if your idea is any good the moment it’s created. Neither does anybody else. The most you can hope for is a strong gut feeling that it is….And asking close friends never works quite as well as you hope, either. It’s not that they deliberately want to be unhelpful. It’s just that they don’t know your world one millionth as well as you know your world, no matter how hard they try, no matter how hard you try to explain. — Hugh MacLeod
+> Ignore everybody. The more original your idea is, the less good advice other people will be able to give you….You don’t know if your idea is any good the moment it’s created. Neither does anybody else. The most you can hope for is a strong gut feeling that it is….And asking close friends never works quite as well as you hope, either. It’s not that they deliberately want to be unhelpful. It’s just that they don’t know your world one millionth as well as you know your world, no matter how hard they try, no matter how hard you try to explain. - Hugh MacLeod
 
-> Inherently, to live means being creative. Your life is your biggest design project. — Tina Roth Eisenberg
+> Inherently, to live means being creative. Your life is your biggest design project. - Tina Roth Eisenberg
 
 ## Art
 
-As far as I can remember, I enjoyed everything about art and the people who make it—artists. In elementary school, I enjoyed crayons and a sketchbook. I was never good. Yet, making something with pen and paper made me forget real-world problems. An underlying reason which I found art very therapeutic at an early age.
+As far as I can remember, I enjoyed everything about art and the people who make it-artists. In elementary school, I enjoyed crayons and a sketchbook. I was never good. Yet, making something with pen and paper made me forget real-world problems. An underlying reason which I found art very therapeutic at an early age.
 
 Things got in the way so I abandoned my crayons and sketchpad.
 
@@ -166,9 +166,9 @@ Art is contextual. It depends on conditions such as emotions, interests, perspec
 
 I have emulated my sketches from contemporary artists such as Oliver Jeffers and Jean Julian. Though, I am obsessed with Oliver Jeffers. His work takes me back to childhood which I can't explain why. His work is poetic in some sense which addresses ongoing issues of the world. His illustrations and stories are fundamental that both a kid or an adult can understand. Curiosity and humor are underlying themes of his work which I am drawn to in real life.
 
-> If art is to nourish the roots of our culture, society must set the artist free to follow his vision wherever it takes him. We must never forget that art is not a form of propaganda; it is a form of truth. — JFK
+> If art is to nourish the roots of our culture, society must set the artist free to follow his vision wherever it takes him. We must never forget that art is not a form of propaganda; it is a form of truth. - JFK
 
-> If you hear a voice within you say 'you cannot paint,' then by all means paint, and that voice will be silenced. — Vincent Van Gogh
+> If you hear a voice within you say 'you cannot paint,' then by all means paint, and that voice will be silenced. - Vincent Van Gogh
 
 ## On indie hacking
 
@@ -178,7 +178,7 @@ In 2018, I came across an idea of starting a fun project called Wise Charlie. By
 
 However, I was determined to build something for the sake of creating something useful and learn something new.
 
-I decided to be an indie hacker. It means many things to many people, but to me it meant only one thing—being independent. I would not be held by anyone on making project decisions. It was all about freedom-seeking project and I'd be in charge of making money however I want. There is no revenue or user acquisition target. There was only one goal—continuity over a long period of time.
+I decided to be an indie hacker. It means many things to many people, but to me it meant only one thing-being independent. I would not be held by anyone on making project decisions. It was all about freedom-seeking project and I'd be in charge of making money however I want. There is no revenue or user acquisition target. There was only one goal-continuity over a long period of time.
 
 If something didn't work, I would iterate, and find an alternative solution until someone is willing to pay me for something valuable I have created. Four years later, I have ~500 customers. You must be wondering, what is wrong with him? It took him 4 years to acquire 500 customers in hyper growth environment.  But you don't understand what I just said, the objective is not growth, but continuity over long period of time. 
 
@@ -193,14 +193,14 @@ Wise Charlie project was a derivative of *Poor Charlie's Almanack: The Wit and W
 
 Ideas are everywhere. Cast your net wide enough for ideas and pick one that you feel strongly about. The enemy of greatness is not getting started. Perfection is an asymptote that you don’t want to chase. I could've done more market research, more user-testing, and more on and on, but it would've led me to overthink. Pick a problem and run with it. Your ability to innovate is correlated with your ability to pick an idea and iterate over it a thousand times.
 
-> I must CREATE a system or be ENSLAVED by another means; I will not reason and compare; my business is to CREATE. — William Blake
+> I must CREATE a system or be ENSLAVED by another means; I will not reason and compare; my business is to CREATE. - William Blake
 
 2. **Build your true fans**
 In my previous startup experience, I didn't treat my customers as fans. I treated them like just another data point. A decade ago, Wired editor Kevin Kelly wrote an essay called *1,000 True Fans*. I highly recommend reading this piece. Kevin Kelly was absolutely on the right side of the coin in his prediction of creators leveraging on online platforms. I have come across so many creators who have adopted 1000 true fans mentality. Kevin Kelly argues that embracing true fans can help creators earn $100,000 ($100/user * 1000 users). I am nowhere near those earnings, but I have acquired meaningful relationships with my 1000 true fans. Treating customers like fans forces you to engage with them.
 
 I made a strategic goal of acquiring 1000 true fans through newsletter, social media and/or sales. My thesis was my early adopters would go bat for me if I supported and took care of my fans. They sure did. Zak T, my good friend learned about mental models was the first customer. We are still in touch and talk occasionally about the project. Reciprocity works only when you give others. Be kind to others and offer an extra mile of help. Your fans will remember that. I have several customers who I frequently talk to. Being an indie hacker has re-kindled old relationships and built new friendships. Focus on finding your true fans. They are everywhere on the Internet.
 
-> No one has ever become poor by giving. — Anne Fran
+> No one has ever become poor by giving. - Anne Fran
 
 3. **It takes time**
 It takes a very long time to find something that works. My sales were flat for two years. And then it took off! Progress happens slowly then all at once. I was responsible for that flat line because after building the product and website, I abandoned the project. I picked up on Wise Charlie in 2020 back again. I redesigned the landing page, made it much precise and called out call-to-action items. Making things simpler made a huge difference because visitors have a very short attention span. Tell them in 10 seconds otherwise you have lost them.

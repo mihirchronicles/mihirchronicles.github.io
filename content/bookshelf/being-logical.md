@@ -12,16 +12,16 @@ This book was recommended by Robert Ultimo, professor at Feltre School. Being Lo
 
 The book is divided into 5 sections.
 
-### Part One—Preparing the Mind for Logic
+### Part One-Preparing the Mind for Logic
 This section talks about the preparations we need to make in order to think and reason well.
-* Facts—objective facts of the external world.
-* Ideas—are the "representations" of the objective facts.
-* Mind—ours and those of others.
-* Words—are the linguistic expression of ideas and the building blocks of language.
-* Statements—are propositions which are the building blocks of logic.
-* Knowledge—consists of objective facts, ideas and words.
+* Facts-objective facts of the external world.
+* Ideas-are the "representations" of the objective facts.
+* Mind-ours and those of others.
+* Words-are the linguistic expression of ideas and the building blocks of language.
+* Statements-are propositions which are the building blocks of logic.
+* Knowledge-consists of objective facts, ideas and words.
 
-### Part Two—The Basic Principles of Logic
+### Part Two-The Basic Principles of Logic
 This section talks about the principles of logic that governs logical thinking. First principles are self-evident and cannot be proven like an an axiom that cannot be deduced from any other within a system.
 
 * The principle of identity.
@@ -29,15 +29,15 @@ This section talks about the principles of logic that governs logical thinking. 
 * The principle of sufficient reason.
 * The principle of contradiction or non-contradiction.
 
-### Part Three—Argument: The Language of Logic
+### Part Three-Argument: The Language of Logic
 An argument is basically the linguistic expression of logical thinking. It is a claim that is justified by reasons and/or evidences. It has two elements:
 * Premises (major and/or minor)
 * And a conclusion
 
 An argument is composed of statements or propositions which has a conclusion supported by premises. There are two kinds of arguments:
 
-* Deductive arguments—if successful, yield necessarily true conclusions.
-* Inductive arguments—if successful, only yield conclusions that are probably true.
+* Deductive arguments-if successful, yield necessarily true conclusions.
+* Inductive arguments-if successful, only yield conclusions that are probably true.
 
 A good argument has to fulfill these requirements:
 * Its premises (or contents) are true and relevant.
@@ -48,10 +48,10 @@ Logic is both science and art. Arguments have two purposes:
 * To produce true conclusions (science).
 * To persuade people using story-telling (art).
 
-### Part Four—The Sources of Illogical Thinking
+### Part Four-The Sources of Illogical Thinking
 This section talks about attitude that must be avoided for any irrational thinking. Emotions or perception can influence reasoning or negatively affect reasoning when an objective goal is to search for truth.
 
-### Part Five—The Principal Forms of Illogical Thinking
+### Part Five-The Principal Forms of Illogical Thinking
 This section lists logical fallacies. There are two categories of logical fallacies, the formal and the informal logical fallacy.
 
 * Formal logical fallacies are mistakes that involve the “form” or “structure” of the argument.
@@ -59,11 +59,11 @@ This section lists logical fallacies. There are two categories of logical fallac
 
 ## III. Quotes
 - Logic is about clear and effective thinking. It is a science and an art.
-- We all know people who are very bright but who do not always shine when it comes to being logical. They have the ability to think logically—that is, clearly and effectively—but that ability does not habitually manifest itself. The likelihood is that it has never been properly developed, pointing to a deficiency in their education. Indeed, logic is the very backbone of a true education, and yet it is seldom taught as such in American schools. To my mind, logic is the missing piece of the American educational system, the subject that informs every other subject from English to history to science and math.
+- We all know people who are very bright but who do not always shine when it comes to being logical. They have the ability to think logically-that is, clearly and effectively-but that ability does not habitually manifest itself. The likelihood is that it has never been properly developed, pointing to a deficiency in their education. Indeed, logic is the very backbone of a true education, and yet it is seldom taught as such in American schools. To my mind, logic is the missing piece of the American educational system, the subject that informs every other subject from English to history to science and math.
 - In logic, as in life, it is the obvious that most often bears emphasizing, because it so easily escapes our notice.
 - A knack for its effective use, for logic and language are inseparable.
 - For the firm factualism of the world in which we live, for logic is about reality.
-- Being Logical seeks to produce practitioners, not theoreticians—people for whom knowing the principles of logic is in the service of being logical.
+- Being Logical seeks to produce practitioners, not theoreticians-people for whom knowing the principles of logic is in the service of being logical.
 - Many mistakes in reasoning are explained by the fact that we are not paying sufficient attention to the situation in which we find ourselves. That very familiarity causes us to make careless judgments about facts right before our eyes. We misread a situation because we are skimming it.
 - The phrase “to pay attention” is telling. It reminds us that attention costs something. Attention demands an active, energetic response to every situation, to the persons, places, and things that make up the situation. It is impossible to be truly attentive and passive at the same time. Don’t just look, see. Don’t just hear, listen. Train yourself to focus on details. The little things are not to be ignored, for it is just the little things that lead us to the big things.
 - Don’t just hear, listen. Train yourself to focus on details. The little things are not to be ignored, for it is just the little things that lead us to the big things.

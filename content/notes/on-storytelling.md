@@ -10,13 +10,13 @@ A realization that occurred to me recently that so much of the stuff is just mad
 
 Apple’s employee shared a story when he encountered Steve Jobs in a break room. Jobs shared the importance of storytelling.
 
-> I worked at NeXT the summer of 94. I was in the break room with 2 colleagues when Jobs walked in and started making a bagel. We were sitting at a table eating ours when he out of the blue asked us "Who is the most powerful person in the world?" I said Mandela since I had just been there as an international observer for the elections. In his confident fashion he stated "NO!...you are all wrong...the most powerful person in the world is the story teller." At this point I was thinking to myself "Steve, I love you but there is a fine line between genius and loco..and I think I am witnessing this right now". Steve continued, "The storyteller sets the vision, values and agenda of an entire generation that is to come and Disney has a monopoly on the storyteller business. You know what? I am tired of that bullshit, I am going to be the next storyteller" and he walked out with his bagel. — Tomas Higbey
+> I worked at NeXT the summer of 94. I was in the break room with 2 colleagues when Jobs walked in and started making a bagel. We were sitting at a table eating ours when he out of the blue asked us "Who is the most powerful person in the world?" I said Mandela since I had just been there as an international observer for the elections. In his confident fashion he stated "NO!...you are all wrong...the most powerful person in the world is the story teller." At this point I was thinking to myself "Steve, I love you but there is a fine line between genius and loco..and I think I am witnessing this right now". Steve continued, "The storyteller sets the vision, values and agenda of an entire generation that is to come and Disney has a monopoly on the storyteller business. You know what? I am tired of that bullshit, I am going to be the next storyteller" and he walked out with his bagel. - Tomas Higbey
 
 Steve Jobs famously said that we live in a world where things are made up. I did not understand that until recently because I was not equipped enough to process what Jobs meant. But now everywhere I look, more stories are to be found. “Making up” has negative connotation, but my interpretation is that stories allow us to stretch our imaginations. And if people can stretch their imaginations, they can conquer a lot of things in life despite the task being challenging.
 
 Crafting inspirational stories enable good behavior, communities to be change makers and enable decision makers. Storytelling has been critical in our evolutionary process.
 
-> If you're going to have a story, have a big story, or none at all. — Joseph Campbell
+> If you're going to have a story, have a big story, or none at all. - Joseph Campbell
 
 ## Sapiens
 
@@ -40,7 +40,7 @@ Yet these narratives are just tools, and Harari is clear that they should not be
 
 **Trust is the byproduct of stories**: Belief creates community. And a community needs trust to hold on to a story that unites them.  Look at US Constitution. We fight over it, defend it and protect it. It is nothing but a piece of paper that has been foundational to American values. The foundation of religion, patriotism or human rights is based upon storytelling. So is commerce and business.  And if one story erodes, another one arises. The cycle of spinning narratives continues.
 
-Harari illustrate his point he talks about what he calls the most successful fictional story told— money. “Not everyone believes in God, or accepts the ideals of human rights or concepts like nationalism, but almost everybody believes in money. Osama bin Laden hated America, its politics, area and culture. But he was quite fond of American dollars. In fact, he had no objection to that story.”
+Harari illustrate his point he talks about what he calls the most successful fictional story told- money. “Not everyone believes in God, or accepts the ideals of human rights or concepts like nationalism, but almost everybody believes in money. Osama bin Laden hated America, its politics, area and culture. But he was quite fond of American dollars. In fact, he had no objection to that story.”
 
 Money is an ultimate entity that requires trust. If that trust is broken, the entire system collapses.
 
@@ -56,7 +56,7 @@ Jonathan Gottschall has written a wonderful book on this topic as well. The auth
 
 > Human minds yield helplessly to the suction of story. No matter how hard we concentrate, no matter how deep we dig in our heels, we just can’t resist the gravity of alternate worlds.
 
-> If you are a doubter, try to be more tolerant of the myths—national and religious—that help tie culture together.
+> If you are a doubter, try to be more tolerant of the myths-national and religious-that help tie culture together.
 
 > Don’t let moralists tell you that fiction degrades society’s moral fabric.
 
@@ -86,15 +86,15 @@ Gottschall's sums up the entire book with a master formula towards the end:
 
 ## The best story wins
 
-> When a topic is complex, stories are like leverage. — Morgan Housel
+> When a topic is complex, stories are like leverage. - Morgan Housel
 
-> Every investment is valued by taking a number from today and multiplying it by a story about tomorrow. — Morgan Housel
+> Every investment is valued by taking a number from today and multiplying it by a story about tomorrow. - Morgan Housel
 
 Morgan Housel is one of the greatest storyteller of our times. He explains that the person who tells the most compelling story wins, not who has the best idea, or the right answer. The best story captures people’s attention. To illustrate this point, Housel asks to take a look at Tesla which is worth many folds more than Ford or GM, not because of its innovation or a good business, but because Elon Musk is good at getting people’s attention. The best story wins.
 
 This might drive someone crazy if they think the world operates on facts and objectivity. Great ideas explained poorly can go nowhere while old or wrong ideas told compellingly can ignite a revolution. Morgan Freeman or Neil deGrasse Tyson can narrate a grocery list and bring the audience to tears while an inarticulate scientist might cure disease and go unnoticed.
 
-> The best arguments in the world won’t change a single person’s mind. The only thing that can do that is a good story. — Richard Powers
+> The best arguments in the world won’t change a single person’s mind. The only thing that can do that is a good story. - Richard Powers
 
 Richard Feynman was one of the greatest physicists, but an astounding storyteller. So was Albert Einstein. Facts and objectivity cannot alone win, but they knew how to leverage on great stories. Ken Burns, an American filmmaker once said:
 
@@ -151,7 +151,7 @@ Pixar storyboard artist Emma Coats has compiled a list of storytelling rules she
 
 **Minto pyramid**
 
-Barbara Minto invented the Pyramid Principle. Her framework — Situation, Complication, Question, and Answer — became the foundation of modern executive communication. It might change your life how you conduct business and tell stories.
+Barbara Minto invented the Pyramid Principle. Her framework - Situation, Complication, Question, and Answer - became the foundation of modern executive communication. It might change your life how you conduct business and tell stories.
 
 The Minto Pyramid Principle came out of a frustration Barbara had while working at McKinsey (where she spent ten years, as the very first female management consultant). While at McKinsey, she noticed that people were awful at crafting persuasive arguments. They didn’t know how to structure their arguments, and they spent too much time upfront building up their case with data and facts. By the time they got to their final recommendation, the audience had already tuned out or been distracted by the details.
 
@@ -167,15 +167,15 @@ Your colleagues aren’t looking to be entertained. They are busy. They want to 
 
 A is B, A is like B, A is as B or comparing A with B. Head hurts. I know. But, rhetorical devices are powerful weapons in your writing and storytelling arsenal.
 
-> The greatest thing by far is to be a master of metaphor; it is the one thing that cannot be learnt from others; and it is also a sign of genius, since a good metaphor implies an intuitive perception of the similarity in the dissimilar. — Aristotle
+> The greatest thing by far is to be a master of metaphor; it is the one thing that cannot be learnt from others; and it is also a sign of genius, since a good metaphor implies an intuitive perception of the similarity in the dissimilar. - Aristotle
 
-Aristotle got it right! Metaphors can make words come to life and ignite our understanding about the world. Metaphors are so powerful because of a simple fact of human psychology—we react more willingly to the emotional than the rational. Truth is at the heart of metaphor. Metaphors make our writing more concise because we don't have to spend time explaining something. They can help us enhance our writing with vivid images. Metaphors create a shortcut to instant and memorable understanding.
+Aristotle got it right! Metaphors can make words come to life and ignite our understanding about the world. Metaphors are so powerful because of a simple fact of human psychology-we react more willingly to the emotional than the rational. Truth is at the heart of metaphor. Metaphors make our writing more concise because we don't have to spend time explaining something. They can help us enhance our writing with vivid images. Metaphors create a shortcut to instant and memorable understanding.
 
 Readers and listeners are naturally delighted when we use metaphors because something new is discovered. Metaphors can surprise the brain because we can interrupt our reader's expected train of thought and make them sit up and pay attention. They deepen the reading experience. It has the potential to engage the imagination so intensely that readers experience a story, rather than consuming it passively. Metaphors can invoke sensory detail and amplify reader's attention.
 
 Metaphor challenges our creativity and let our imagination loose. They are the fundamental language of poetry. We should read more poetry. Poetry is rich in imagery and metaphorical language. By reading it, we can train our brain into thinking metaphorically. The more we read, the better we'll be able to conjure up elegant metaphors. A metaphor is a concise, memorable, and often colorful way to express emotions.
 
-> A favorite metaphor that I enjoy a lot, “Books are the mirrors of soul.” — Virginia Wolf
+> A favorite metaphor that I enjoy a lot, “Books are the mirrors of soul.” - Virginia Wolf
 
 This comparison game we play with analogy, simile and metaphor to enliven our ordinary communication. The rhetorical devices are paired up with logic to make sense of complex issues of the world. Both simile and metaphor are figures of speech, and both operate by comparing the thing with something else in a figurative way (not literal). This is why simile and metaphor can be confusing. Whereas, an analogy is a logical device for an argumentative purpose. An analogy is a comparison between two similar things. Metaphors and similes are just one way to express that comparison.
 
@@ -183,9 +183,9 @@ A metaphor is almost always more forceful than an analogy, but we have to rely o
 
 Logic alone, though, cannot persuade an audience to believe what we are saying. Logic must work together with another discipline called rhetoric, or style, to communicate our ideas in a convincing way. Logic and rhetoric, moreover, are usually at odds with each other because the one appeals to our reason and the other to our emotions. How to orchestrate the creative forces of communication is the job before us.
 
-> Logic is an invention of man and may be ignored by the universe. — Will Durant
+> Logic is an invention of man and may be ignored by the universe. - Will Durant
 
-Let's explore some of the rhetorical devices—metaphor, simile and analogy which we use in our day-to-day communication. The meaning of three things are inconsistent from place to place. Using the first principles, we will compare the three rhetorical devices and then end with the importance of metaphors.
+Let's explore some of the rhetorical devices-metaphor, simile and analogy which we use in our day-to-day communication. The meaning of three things are inconsistent from place to place. Using the first principles, we will compare the three rhetorical devices and then end with the importance of metaphors.
 
 **Metaphors**
 
@@ -215,13 +215,13 @@ Analogy, an argumentative technique, which originated from classical Latin analo
 
 Analogy is comparable to metaphor and simile that it shows how two different things are similar. Analogy most often involves reference to something familiar or readily understood, in order to illustrate and explain something more complex and less readily understood. Rather than a figure of speech, analogy is a logical argument. One will use analogy to demonstrate how two things are alike by pointing out shared characteristics, with the goal of showing that if two things are similar in some ways, they are similar in other ways as well. The introduction of the analogy invites the brain to reuse existing knowledge about the second thing in order to better understand the first thing.
 
-For example, if you live in the US and you've never heard of canton before, a helpful analogy to explain canton—“Cantons in Switzerland are like states in the USA.” Here, cantons are analogous to states, and the comparison can help us understand an unfamiliar term.
+For example, if you live in the US and you've never heard of canton before, a helpful analogy to explain canton-“Cantons in Switzerland are like states in the USA.” Here, cantons are analogous to states, and the comparison can help us understand an unfamiliar term.
 
 ## Elements of good communication
 
 Communication is an attitude of openness towards the other. It is an art that drives winning teams. It must be continuously practiced. Mutual understanding is hard but the difference between great and excellence might come down to how effectively everyone communicates. Poor communication is toxic and leads to more work.
 
-- Communication implies responsibility—on the part of the listener and on the part of the speaker. This is effective communication.
+- Communication implies responsibility-on the part of the listener and on the part of the speaker. This is effective communication.
 - Listening is key for both the listener and speaker. Listen without interrupting. Leverage both ears.
 - We communicate to share ideas or influence others.
 - Repetition is a key while influencing others around you. 
@@ -239,7 +239,7 @@ Communication is an attitude of openness towards the other. It is an art that dr
     - Filler language is a product of speed.
     - The people who are supremely confident are the ones that feel like they have the license to take things deliberately and thoughtfully.
     - Slowing down your speaking cadence starts with slowing down your breathing. The faster you breathe, the faster you speak. Your voice is a wind instrument.
-    - Make broad gestures when you speak—big hand motions, slowly walking across the floor and align your speech to those movements.
+    - Make broad gestures when you speak-big hand motions, slowly walking across the floor and align your speech to those movements.
 - Communication is logical and so is emotional. 
 - Be direct, succinct and kind in your message. People don’t have the energy, time, or desire to try to read smoke signals to figure out what you want them to say or do.
 - Good communication requires empathy.
@@ -262,7 +262,7 @@ Communication is an attitude of openness towards the other. It is an art that dr
 
 The last point brings me to next topic on how to run effective meetings if you are going to use them. Meetings aren't work. This social aspect of work is required for complex decision-making where no single person holds the entire context regarding a topic being discussed. Disciplined meetings are run by responsible players on the team to ensure no one's time is wasted. Tips on how you run meetings:
 
-- If you are in a managerial role—your job is to gather information, relay information or make a decision as a team. And everyone on the team is being paid to attend the meeting to make progress on items that need decisions. Regard attendance as showing up for work.
+- If you are in a managerial role-your job is to gather information, relay information or make a decision as a team. And everyone on the team is being paid to attend the meeting to make progress on items that need decisions. Regard attendance as showing up for work.
 - Consider yourself a *chairperson* of a meeting. You are responsible for the effectiveness of every meeting. If they are not running smoothly, the *chairperson* is to be blamed, not the attendees or the subordinates.
 - Call meeting if you know what you want to accomplish and whether it requires a meeting. If you know what you want to accomplish, but if it can be done via email or a chat, then a meeting is not justified. Asynchronous communication is justified.
 - As a chairperson, you must identify who should attend and convince people on why they should come. You need to follow up with everyone on importance of their attendance.

@@ -21,33 +21,33 @@ Everything is a system. The ability to design a complex system and how it intera
 
 Learning to be a system thinker is highly advantageous. 
 
-> A system is better than a single element and that good design is the overall configuration of a product. — Dieter Rams
+> A system is better than a single element and that good design is the overall configuration of a product. - Dieter Rams
 
-> The source of all our problems today comes from the gap between how we think and now nature works. — Dee Hock
+> The source of all our problems today comes from the gap between how we think and now nature works. - Dee Hock
 
-> Life is not about control. It’s not about getting. It’s not about having. It’s not about knowing. It’s not even about being. Life is eternal, perpetual becoming, or it is nothing. Becoming is not a thing to be known, commanded, or controlled. It is a magnificent, mysterious odyssey to be experienced. — Dee Hock
+> Life is not about control. It’s not about getting. It’s not about having. It’s not about knowing. It’s not even about being. Life is eternal, perpetual becoming, or it is nothing. Becoming is not a thing to be known, commanded, or controlled. It is a magnificent, mysterious odyssey to be experienced. - Dee Hock
 
-> We can’t control systems or figure them out. But we can dance with them! — Donella H. Meadows
+> We can’t control systems or figure them out. But we can dance with them! - Donella H. Meadows
 
-> If we’re to understand anything, we have to simplify, which means we have to make boundaries. — Donella H. Meadows
+> If we’re to understand anything, we have to simplify, which means we have to make boundaries. - Donella H. Meadows
 
-> You think that because you understand “one” that you must therefore understand “two” because one and one make two. But you forget that you must also understand “and.” — Donella H. Meadows
+> You think that because you understand “one” that you must therefore understand “two” because one and one make two. But you forget that you must also understand “and.” - Donella H. Meadows
 
-> Remember, always, that everything you know, and everything everyone knows, is only a model. Get your model out there where it can be viewed. Invite others to challenge your assumptions and add their own. — Donella H. Meadows
+> Remember, always, that everything you know, and everything everyone knows, is only a model. Get your model out there where it can be viewed. Invite others to challenge your assumptions and add their own. - Donella H. Meadows
 
-> There are no separate systems. The world is a continuum. Where to draw a boundary around a system depends on the purpose of the discussion. — Donella H. Meadows
+> There are no separate systems. The world is a continuum. Where to draw a boundary around a system depends on the purpose of the discussion. - Donella H. Meadows
 
-> We can't impose our will on a system. We can listen to what the system tells us, and discover how its properties and our values can work together to bring forth something much better than could ever be produced by our will alone. — Donella H. Meadows
+> We can't impose our will on a system. We can listen to what the system tells us, and discover how its properties and our values can work together to bring forth something much better than could ever be produced by our will alone. - Donella H. Meadows
 
-> Let's face it, the universe is messy. It is nonlinear, turbulent, and chaotic. It is dynamic. It spends its time in transient behavior on its way to somewhere else, not in mathematically neat equilibria. It self-organizes and evolves. It creates diversity, not uniformity. That's what makes the world interesting, that's what makes it beautiful, and that's what makes it work. — Donella H. Meadows
+> Let's face it, the universe is messy. It is nonlinear, turbulent, and chaotic. It is dynamic. It spends its time in transient behavior on its way to somewhere else, not in mathematically neat equilibria. It self-organizes and evolves. It creates diversity, not uniformity. That's what makes the world interesting, that's what makes it beautiful, and that's what makes it work. - Donella H. Meadows
 
-> An adaptive agent is constantly playing a game with its environment. What exactly does that mean? Distilled to the essence, what actually has to happen for game-playing agents to survive and prosper? Two things, Holland decided: prediction and feedback. — M. Mitchell Waldrop
+> An adaptive agent is constantly playing a game with its environment. What exactly does that mean? Distilled to the essence, what actually has to happen for game-playing agents to survive and prosper? Two things, Holland decided: prediction and feedback. - M. Mitchell Waldrop
 
-> All these complex systems have somehow acquired the ability to bring order and chaos into a special kind of balance. This balance point—often called the edge of chaos—is were the components of a system never quite lock into place, and yet never quite dissolve into turbulence, either. — M. Mitchell Waldrop
+> All these complex systems have somehow acquired the ability to bring order and chaos into a special kind of balance. This balance point-often called the edge of chaos-is were the components of a system never quite lock into place, and yet never quite dissolve into turbulence, either. - M. Mitchell Waldrop
 
 ## System overview
 
-A system is a set of things—people, cells, molecules, or whatever—interconnected in such a way that they produce their own pattern of behavior over time.
+A system is a set of things-people, cells, molecules, or whatever-interconnected in such a way that they produce their own pattern of behavior over time.
 
 A system is an interconnected set of elements that is coherently organized in a way that achieves something.
 
@@ -98,7 +98,7 @@ All systems share common features, but some of them can produce extremely unnatu
 
 Stop looking for who’s to blame; instead you’ll start asking, “What’s the system?” The concept of feedback opens up the idea that a system can cause its own behavior.
 
-Hunger, poverty, environmental degradation, economic instability, unemployment, chronic disease, drug addiction, and war, for example, persist in spite of the analytical ability and technical brilliance that have been directed toward eradicating them. No one deliberately creates those problems, no one wants them to persist, but they persist nonetheless. That is because they are intrinsically systems problems—undesirable behaviors characteristic of the system structures that produce them. They will yield only as we reclaim our intuition, stop casting blame, see the system as the source of its own problems, and find the courage and wisdom to restructure it.
+Hunger, poverty, environmental degradation, economic instability, unemployment, chronic disease, drug addiction, and war, for example, persist in spite of the analytical ability and technical brilliance that have been directed toward eradicating them. No one deliberately creates those problems, no one wants them to persist, but they persist nonetheless. That is because they are intrinsically systems problems-undesirable behaviors characteristic of the system structures that produce them. They will yield only as we reclaim our intuition, stop casting blame, see the system as the source of its own problems, and find the courage and wisdom to restructure it.
 
 Before you disturb the system in any way, watch how it behaves.
 
@@ -127,7 +127,7 @@ Complex adaptive system originated at Santa Fe Institute (SFI). Santa Fe Institu
 
 Complexity is the science of emergence where many individual agents interact and the outcomes are difficult to predict. A complex adaptive system is a system in which a large network of components with no central control exhibit complex behavior, sophisticated information processing, and adaptive learning.
 
-The theory of complexity manifests itself in “complex adaptive systems,” which are made up of many independent agents who interact and adapt to each other and to their environment, producing the phenomenon of emergence—a system behaving as more than the sum of its parts.
+The theory of complexity manifests itself in “complex adaptive systems,” which are made up of many independent agents who interact and adapt to each other and to their environment, producing the phenomenon of emergence-a system behaving as more than the sum of its parts.
 
 Adaptive agents play game with its environment for fitness. It is feedback driven. Hence, competition is much more essential than consistency. Competition and cooperation may seem antithetical but at some very deep level, they are two sides of the same coin.
 
@@ -145,14 +145,14 @@ Structured thinking is required to solve complex problems and to conduct deep an
 
 | Framework | Description |
 | -------------|:-------------:|
-| S.M.A.R.T | The SMART framework is a popular method for setting effective goals where SMART stands for—Specific, Measurable, Achievable, Relevant, and Time-Bound. |
+| S.M.A.R.T | The SMART framework is a popular method for setting effective goals where SMART stands for-Specific, Measurable, Achievable, Relevant, and Time-Bound. |
 | _Rocks, Pebbles & Sand_ | The “rocks in a jar” analogy is used to explain task prioritization. A jar is a finite place with a collection of rocks, pebbles and sand. |
 | _S.P.A.D.E_ | A decision-making framework to help synchronize and speed up collaboration to make difficult choices. An acronym for Setting, People, Alternatives, Decide and Explain. |
 | _Eisenhower Matrix_ | The Eisenhower box includes one axis that is important, the other axis is urgent. It is a two by two matrix to help with prioritization. |
 | _Objective Key Results (OKR)_ | OKR is a goal setting framework that was popularized in Silicon Valley. It stands for Objective and Key Results. Objective answers the WHAT is to be achieved. Key Results answers the HOW is it going to be achieved. |
 | _Now Next Later_ | The Now-Next-Later roadmap is a product management tool that organizes work into three-time horizons, from immediate to long term, starting with the most urgent problems to solve. |
 | _One-way & Two-way Decisions_ | One-way door decisions have lasting effects and are often hard to reverse. Conversely, two-way door decisions are reversible and less impactful. They provide opportunities to experiment, learn, and iterate. |
-| _3Ds_ | A tactical decision-making framework by Annie Duke who is a decision-making expert. The 3 Ds are—discover, discuss and decide. |
+| _3Ds_ | A tactical decision-making framework by Annie Duke who is a decision-making expert. The 3 Ds are-discover, discuss and decide. |
 
 <details>
     <summary><strong>S.M.A.R.T</strong></summary>
@@ -160,19 +160,19 @@ Structured thinking is required to solve complex problems and to conduct deep an
 
 The SMART framework is a popular method for setting effective goals, where SMART stands for Specific, Measurable, Achievable (or Attainable), Relevant, and Time-bound, helping individuals and organizations create clear, focused, and realistic objectives that are easier to track and achieve by adding detail, metrics, feasibility, purpose, and deadlines.
 
-- **S—Specific**:	
+- **S-Specific**:	
     - Key question: What exactly do I want to accomplish?	
     - Why it matters: Vague goals produce vague results. You need to define the “Who, What, Where, and Why.”
-- **M—Measurable**:	
+- **M-Measurable**:	
     - Key question: How will I know when it is accomplished?
     - Why it matters: You need concrete evidence (numbers, metrics, binary yes/no) to track progress.
-- **A—Achievable**:	
+- **A-Achievable**:	
     - Key question: Is this realistic with my current resources?	
     - Why it matters: The goal should stretch you, but remain possible given your time, money, and talent constraints.
-- **R—Relevant**:	
+- **R-Relevant**:	
     - Key question: Does this align with broader efforts?	
     - Why it matters: Ensure this goal matters to your long-term strategy (your "Rocks"). If it doesn't, it’s a distraction.
-- **T—Time-bound**:
+- **T-Time-bound**:
     - Key question: When is the deadline?
     - Why it matters: A goal without a deadline is just a dream. Deadlines create urgency and prevent procrastination.
 
@@ -204,9 +204,9 @@ Common Pitfalls to Avoid:
     - SMART: “Secure 5 new qualified leads per week via email outreach.” (This is an outcome).
 2. The “Achievable” Trap:
     - Setting the bar too low just to check a box is “sandbagging.”
-    - Setting the bar impossibly high leads to burnout. Aim for the “sweet spot”—difficult but doable.
+    - Setting the bar impossibly high leads to burnout. Aim for the “sweet spot”-difficult but doable.
 3. Ignoring the “Relevant”:
-    - You can set a SMART goal to “Count every paperclip in the office by 5 PM.” It is specific, measurable, achievable, and time-bound—but it is completely irrelevant to business success.
+    - You can set a SMART goal to “Count every paperclip in the office by 5 PM.” It is specific, measurable, achievable, and time-bound-but it is completely irrelevant to business success.
 
 </details>
 <br>
@@ -215,13 +215,13 @@ Common Pitfalls to Avoid:
     <summary><strong>Rocks, Pebbles & Sand</strong></summary>
     <br>
 
-The classic “Rocks, Pebbles, Sand” analogy—popularized by Stephen Covey—teaches us that if you schedule the big things first, the small things will fit around them. Rocks are boulders which represent the most important priority like your family. Pebbles are least important but are critical to keep the lights on. Sand is insignificant which represents space filler with distraction. If you do the inverse, you run out of time for what matters.
+The classic “Rocks, Pebbles, Sand” analogy-popularized by Stephen Covey-teaches us that if you schedule the big things first, the small things will fit around them. Rocks are boulders which represent the most important priority like your family. Pebbles are least important but are critical to keep the lights on. Sand is insignificant which represents space filler with distraction. If you do the inverse, you run out of time for what matters.
 
 However, most teams misinterpret this lesson as purely a matter of size (e.g., Rocks = 3 months, Pebbles = 1 month). This misses the point. In the real world, these three categories require fundamentally different mindsets, metrics, and management styles.
 
 If you treat a “Rock” like a big “Pebble,” or manage “Sand” with the rigor of a “Rock,” you create a team that looks productive (high code output) but feels stuck (low strategic progress).
 
-**I. ROCKS—Maximizing Strategic Impact**: Rocks are not just “long projects.” They are strategic initiatives intended to materially advance the company down a unique path, build durable advantages, or solve the most critical challenges.
+**I. ROCKS-Maximizing Strategic Impact**: Rocks are not just “long projects.” They are strategic initiatives intended to materially advance the company down a unique path, build durable advantages, or solve the most critical challenges.
 - Duration: 3–12 Months
 - Core philosophy:
     - Maximize Impact, Not ROI: Do not choose Rocks based on efficiency. You are looking for dramatic results. If an idea is quick to build but offers only incremental improvement, it is not a Rock.
@@ -231,7 +231,7 @@ If you treat a “Rock” like a big “Pebble,” or manage “Sand” with the
     - Deliberate Decisions: Unlike Agile development, Rock selection should be slow and deliberate. Once committed, treat it as a one-way door.
     - Executive Ownership: While Product Managers (PMs) drive the definition, Executives must own the final decision to align it with the broader company strategy.
 
-**III. PEBBLES—Maximizing ROI**: Pebbles are the “Goldilocks” of work. They are tactical wins—features that delight customers or counter competitors in the short term.
+**III. PEBBLES-Maximizing ROI**: Pebbles are the “Goldilocks” of work. They are tactical wins-features that delight customers or counter competitors in the short term.
 - Duration: 1–4 Sprints
 - Core philosophy:
     - Maximize ROI: Here, efficiency rules. We calculate ROI using the standard formula: ROI = Value/Effort
@@ -240,7 +240,7 @@ If you treat a “Rock” like a big “Pebble,” or manage “Sand” with the
 - How to execute:
     - PM Sovereignty: The Product Manager is the ultimate decider for Pebbles. They sit at the intersection of customer needs, market pressure, and engineering reality.
 
-**III. SAND—Maximizing Throughput**: Sand consists of the thousand small tweaks—bug fixes, UI polish, text changes, library upgrades—that cumulatively create quality.
+**III. SAND-Maximizing Throughput**: Sand consists of the thousand small tweaks-bug fixes, UI polish, text changes, library upgrades-that cumulatively create quality.
 - Duration: less than 1 Sprint (often hours)
 - Core philosophy:
     - Maximize Throughput: Individual grains of sand are rarely measurable in isolation. Do not waste time trying to quantify the impact of fixing one bug. The goal is volume: how many small improvements can we ship?
@@ -267,12 +267,12 @@ If you treat a “Rock” like a big “Pebble,” or manage “Sand” with the
     <summary><strong>S.P.A.D.E</strong></summary>
     <br>
 
-Consensus doesn't work and when time comes to make hard decisions, there should be a person in-charge of it. So how do you do that? S.P.A.D.E—a technique for making difficult decisions—formed by Gokul Rajaram at Google and Facebook, and widely deployed at Square.
+Consensus doesn't work and when time comes to make hard decisions, there should be a person in-charge of it. So how do you do that? S.P.A.D.E-a technique for making difficult decisions-formed by Gokul Rajaram at Google and Facebook, and widely deployed at Square.
 
 - S is for Setting: Precisely define the “what.” Show the why of the “when.” Clarify the “why.”
 - P is for People: People come first. The first thing you do for every S.P.A.D.E. is identify the people who should consult (give input), approve, and most importantly, a single person who is responsible. Responsible means accountable. Consult maximally.
-- A is for Alternatives: It’s the job of the responsible person—the decision maker—to come up with a set of alternatives that are feasible and realistic; diverse—they should not all be micro-variants of the same situation; and comprehensive—they should maximally cover the problem space. Brainstorm publicly.
-- D is for Decide: Once you've laid out all the alternatives—complete with their respective pros and cons and quantitative modelーit is time to get your consultants to vote. Get feedback privately.
+- A is for Alternatives: It’s the job of the responsible person-the decision maker-to come up with a set of alternatives that are feasible and realistic; diverse-they should not all be micro-variants of the same situation; and comprehensive-they should maximally cover the problem space. Brainstorm publicly.
+- D is for Decide: Once you've laid out all the alternatives-complete with their respective pros and cons and quantitative modelーit is time to get your consultants to vote. Get feedback privately.
 - E is for Explain: Once you've decided, now the real work begins. Go to the approver and lay out the alternatives and your argument.  If you created a high-quality decision framework, they're unlikely to veto it. Call a commitment meeting. Broadcast your decision. Add it to the S.P.A.D.E. log. Keep a log that links to your S.P.A.D.E. and marks the date of the decision. It will be much easier than relying on Gmail search or Slack when you want to reference or amend a past decision.
 
 **Further reading**
@@ -286,7 +286,7 @@ Consensus doesn't work and when time comes to make hard decisions, there should 
     <summary><strong>Eisenhower Matrix</strong></summary>
     <br>
 
-A decision-making framework designed and named after the 34th President of the United States of America—Dwight Eisenhower. He launched one of the most successful programs that are critical to our society today—highways, space exploration, internet (DARPA) and energy alternatives. He accomplished a ton! How did he do it?
+A decision-making framework designed and named after the 34th President of the United States of America-Dwight Eisenhower. He launched one of the most successful programs that are critical to our society today-highways, space exploration, internet (DARPA) and energy alternatives. He accomplished a ton! How did he do it?
 
 The Eisenhower box includes one axis that is important, the other axis is urgent. You put each task in one of the four quadrants:
 
@@ -299,7 +299,7 @@ The most important quadrant is the last one because it challenges me to question
 
 It isn't perfect because urgent can mean different things to different people. But it is intuitive and adaptive framework to help with prioritization.
 
-> What is important is seldom urgent and what is urgent is seldom important. — Dwight Eisenhower
+> What is important is seldom urgent and what is urgent is seldom important. - Dwight Eisenhower
 
 **Further reading**
 
@@ -312,13 +312,13 @@ It isn't perfect because urgent can mean different things to different people. B
     <summary><strong>Objective Key Results (OKR)</strong></summary>
     <br>
 
-Objective Key Results (OKR)—a goal setting framework that was popularized in Silicon Valley has been widely adopted beyond the West Coast. OKR has been a better part of my professional journey, but the implementation of the methodology has always been messy because they do not cascade through the entire organization as they are intended to.
+Objective Key Results (OKR)-a goal setting framework that was popularized in Silicon Valley has been widely adopted beyond the West Coast. OKR has been a better part of my professional journey, but the implementation of the methodology has always been messy because they do not cascade through the entire organization as they are intended to.
 
-This led me to study the topic from the father of OKR who came up with the methodology—John Doer.
+This led me to study the topic from the father of OKR who came up with the methodology-John Doer.
 
-> A lot of companies create organization-wide objectives, but they don’t translate them down into personal OKRs. That’s right — and creating that cascade is one of the powerful parts of the system. The book says that there are four superpowers. On reflection, I think there are really five benefits that you get out of this. Focus is the first, because these are limited in number. Alignment is the one you’re talking about — you get everybody aligned. Commitment is third. When you’ve transparently set these goals, and all your colleagues see them, commitment clears that up quickly. And then the fourth superpower is tracking the progress. This is why Bill Gates uses the system at the Gates Foundation. Then the fifth superpower is stretching. Larry Page of Google is the high priest of 10x-ing everything, stretching further. He’ll say, I’d rather have the objective be to go to Mars, and if we fall short, we’ll get to the moon. This is how you make moonshots. Focus, alignment, commitment, tracking and stretching, I love that because it spells FACTS. And I can remember it. How do OKRs differ from, or complement, an Agile system? Agile guides your day-to-day work. OKRs don’t govern your day-to-day behavior. I’d say this is more of a weekly check-in. But it’s not set the goals and then stuff them away in a drawer and ignore them. People really care whether or not the CEO is watching their goals or cheering them on. If a leader wants a way to reach down into an organization, this is a great tool for doing it. You even use OKRs in your personal life? Yes, it can work against any agenda. I have had a set of personal objectives and key results. Most of mine have been around family. Now both daughters are off to school, but years ago I read and believed that having family dinners together was a key to having a happy family. So my key result was to get home for dinner by 6PM at least 20 nights a month, and be present, with our phones in another room. And that’s pretty hard to do. I was living in the 70% threshold is a good result — that would mean 14 or 15 nights a month. That’s an example of how OKRs can span any range of human activity. They’re transparent vessels that describe the “what” and the “how.” The values we pour into those vessels are the answers for the question, “Why?” — John Doer
+> A lot of companies create organization-wide objectives, but they don’t translate them down into personal OKRs. That’s right - and creating that cascade is one of the powerful parts of the system. The book says that there are four superpowers. On reflection, I think there are really five benefits that you get out of this. Focus is the first, because these are limited in number. Alignment is the one you’re talking about - you get everybody aligned. Commitment is third. When you’ve transparently set these goals, and all your colleagues see them, commitment clears that up quickly. And then the fourth superpower is tracking the progress. This is why Bill Gates uses the system at the Gates Foundation. Then the fifth superpower is stretching. Larry Page of Google is the high priest of 10x-ing everything, stretching further. He’ll say, I’d rather have the objective be to go to Mars, and if we fall short, we’ll get to the moon. This is how you make moonshots. Focus, alignment, commitment, tracking and stretching, I love that because it spells FACTS. And I can remember it. How do OKRs differ from, or complement, an Agile system? Agile guides your day-to-day work. OKRs don’t govern your day-to-day behavior. I’d say this is more of a weekly check-in. But it’s not set the goals and then stuff them away in a drawer and ignore them. People really care whether or not the CEO is watching their goals or cheering them on. If a leader wants a way to reach down into an organization, this is a great tool for doing it. You even use OKRs in your personal life? Yes, it can work against any agenda. I have had a set of personal objectives and key results. Most of mine have been around family. Now both daughters are off to school, but years ago I read and believed that having family dinners together was a key to having a happy family. So my key result was to get home for dinner by 6PM at least 20 nights a month, and be present, with our phones in another room. And that’s pretty hard to do. I was living in the 70% threshold is a good result - that would mean 14 or 15 nights a month. That’s an example of how OKRs can span any range of human activity. They’re transparent vessels that describe the “what” and the “how.” The values we pour into those vessels are the answers for the question, “Why?” - John Doer
 
-If implemented right, OKRs can drive 5 things—focus, alignment, commitment, tracking progress and stretching (FACTS).
+If implemented right, OKRs can drive 5 things-focus, alignment, commitment, tracking progress and stretching (FACTS).
 
 OKRs are not perfect. In the absence of strong leadership or the absence of a visionary leader, the entire organization could be working on wrong things if objectives are not bold enough for the business. OKRs also do not allow for what isn't under your control. Self-worth is tied into objective and key results, but the individual does not have full control over its environment. Though Doerr argues against tying performance into key results, but hardly seen this in practical world. A system is equally responsible for failure to meet its objective.
 
@@ -329,12 +329,12 @@ Nonetheless, OKRs are valuable in driving focus for the entire organization and 
 John Doerr is the father of OKR who is responsible for bringing OKRs to Google and the world. He transformed Andy Grove's managerial system from Intel and made the process formal through OKR. Andy Grove was best known for driving operational excellence at Intel during its peak. Following were Grove's managerial philosophy:
 
 - Less is more–each objective should be tied to no more than five key results.
-- Set goals from the bottom up—team members are motivated when individuals set their own OKRs.
-- No dictating—OKRs are “a cooperative social contract,” so there should always be space for debating and negotiations.
+- Set goals from the bottom up-team members are motivated when individuals set their own OKRs.
+- No dictating-OKRs are “a cooperative social contract,” so there should always be space for debating and negotiations.
 - Stay flexible–in a fast changing environment, objectives can stop being relevant, so it should always be easy to modify them, together with the key results.
-- Dare to fail—some OKRs should be uncomfortable, even unattainable, which means you’d need to be ready to fail.
-- A tool, not a weapon—OKRs are not legal documents according to which you’re expected to measure your performance.
-- Be patient—it’s next to impossible to fully understand the mechanism of the system in one cycle (1 quarter); five quarterly cycles should be enough to see how the goals actually perform.
+- Dare to fail-some OKRs should be uncomfortable, even unattainable, which means you’d need to be ready to fail.
+- A tool, not a weapon-OKRs are not legal documents according to which you’re expected to measure your performance.
+- Be patient-it’s next to impossible to fully understand the mechanism of the system in one cycle (1 quarter); five quarterly cycles should be enough to see how the goals actually perform.
 
 **Definition**
 
@@ -366,48 +366,48 @@ The secret sauce of OKRs is in the Key Results.
 
 Performance should be measured by results (note, not tied to employee compensation). Each key result is measurable and verifiable. This is the best way to align incentives. Results should be regularly updated every quarter. If results are not achieved within a defined timeframe, it is time to reassess.
 
-A key point to remember—progress should be measured by outcome not an output otherwise goals are up for gamification. For example, Wells Fargo's organizational goals led personal bankers to open fake customer accounts to meet the quota. The goals backfired and took Wells Fargo into compliance trouble. Key results should be set intentional to ensure they cannot be tricked.
+A key point to remember-progress should be measured by outcome not an output otherwise goals are up for gamification. For example, Wells Fargo's organizational goals led personal bankers to open fake customer accounts to meet the quota. The goals backfired and took Wells Fargo into compliance trouble. Key results should be set intentional to ensure they cannot be tricked.
 
 Lastly, the goal is not to create a feature factory machine, but to solve a business problem and create organizational value. If organization is structured and aligned correctly, OKRs can be extremely effective by ensuring all members of the organization are working toward the same goals.
 
 **OKR superpowers**
 
-The 5 superpowers of OKRs—focus, alignment, commitment, tracking progress and stretching.
+The 5 superpowers of OKRs-focus, alignment, commitment, tracking progress and stretching.
 
-- Focus—the organization on what matters for the company to survive and function.
-- Align—OKRs to individual goals and the company’s game plan. Identify cross-team dependencies that require collaboration. For sound decision-making, and superior performance, top-line goals must be clearly understood throughout the organization and shared throughout the entire organization.
-- Commit—to goals 100% which are supposed to be achieved within a specific time limit.
-- Track for accountability—OKRs are driven by data and require periodic check-ins for objective grading, done in a spirit of no-judgment accountability. Google scores on 0 to 1.0 system: 
+- Focus-the organization on what matters for the company to survive and function.
+- Align-OKRs to individual goals and the company’s game plan. Identify cross-team dependencies that require collaboration. For sound decision-making, and superior performance, top-line goals must be clearly understood throughout the organization and shared throughout the entire organization.
+- Commit-to goals 100% which are supposed to be achieved within a specific time limit.
+- Track for accountability-OKRs are driven by data and require periodic check-ins for objective grading, done in a spirit of no-judgment accountability. Google scores on 0 to 1.0 system: 
 	- 0.7 to 1.0 is green
 	- 0.4 to 0.6 is yellow
 	- 0.0 to 0.3 is red
-- Stretch your goals—aspirational objectives are those that go beyond your everyday routine and are more about your vision of the company’s future. They are not always attainable, but necessary for management and contributors to challenge themselves. 
+- Stretch your goals-aspirational objectives are those that go beyond your everyday routine and are more about your vision of the company’s future. They are not always attainable, but necessary for management and contributors to challenge themselves. 
 
-> If companies don’t continue to innovate, they’re going to die—and I didn’t say iterate, I said innovate. — Bill Campbell
+> If companies don’t continue to innovate, they’re going to die-and I didn’t say iterate, I said innovate. - Bill Campbell
 
 **Continuous performance management**
 
-> Feedback is an opinion, grounded in observations and experiences, which allows us to know what impression we make on others. — Sheryl Sandberg
+> Feedback is an opinion, grounded in observations and experiences, which allows us to know what impression we make on others. - Sheryl Sandberg
 
 OKRs set the context for Continuous Performance Management (CFR). CFRs help promote transparency, accountability, empowerment, and teamwork. 
 
-- Conversations—an authentic, richly textured exchange between manager and individual contributor aimed at driving performance.
-- Feedback—bidirectional or networked communication among peers to evaluate progress and guide future improvement. For example, “We are constantly surrounded by positive reinforcement and feedback, but many of us haven’t been trained to seek it out. Say you give a presentation to your team. After the fact, somebody comes up to you and says, ‘Hey, nice job.’ Most of us would say, ‘Oh great, thanks,’ and move on. But we want to probe a little deeper: ‘Thank you. What one thing did you like about it?’ The idea is to capture more specific feedback in real time.”
-- Recognition—expressions of appreciation to deserving individuals for contributions of all sizes.
+- Conversations-an authentic, richly textured exchange between manager and individual contributor aimed at driving performance.
+- Feedback-bidirectional or networked communication among peers to evaluate progress and guide future improvement. For example, “We are constantly surrounded by positive reinforcement and feedback, but many of us haven’t been trained to seek it out. Say you give a presentation to your team. After the fact, somebody comes up to you and says, ‘Hey, nice job.’ Most of us would say, ‘Oh great, thanks,’ and move on. But we want to probe a little deeper: ‘Thank you. What one thing did you like about it?’ The idea is to capture more specific feedback in real time.”
+- Recognition-expressions of appreciation to deserving individuals for contributions of all sizes.
 
 **Relationship between OKRs and culture**
 
 Culture eats strategy for breakfast. OKRs are the raw ingredients to make that breakfast.
 
-> Culture is a set of values and beliefs, as well as familiarity with the way things are done and should be done in a company. The point is that a strong and positive corporate culture is absolutely essential. — Andy Grove
+> Culture is a set of values and beliefs, as well as familiarity with the way things are done and should be done in a company. The point is that a strong and positive corporate culture is absolutely essential. - Andy Grove
 
 A culture that drives focus, alignment and meaning will always win. If an organization believes the work they are doing, members of the organization will feel empowered and motivated to show up. OKRs should be set in a way that answer the following:
 
-- Structure and clarity—are goals, roles, and execution plans on our team clear? 
-- Psychological safety—can we take risks on this team without feeling insecure or embarrassed? 
-- Meaning of work—are we working on something that is personally important for each of us? 
-- Dependability—can we count on each other to do high-quality work on time? 
-- Impact of work—do we fundamentally believe that the work we are doing matters?
+- Structure and clarity-are goals, roles, and execution plans on our team clear? 
+- Psychological safety-can we take risks on this team without feeling insecure or embarrassed? 
+- Meaning of work-are we working on something that is personally important for each of us? 
+- Dependability-can we count on each other to do high-quality work on time? 
+- Impact of work-do we fundamentally believe that the work we are doing matters?
 
 **Further reading**
 
@@ -445,11 +445,11 @@ This is one of the best frameworks for roadmapping and planning. It accounts for
 
 With a one-way door decision, the idea is that, when we make the decision, we walk through the door. Upon entering the space on the other side of the door, we are able to see the consequences of our decisions. Unfortunately, because it’s a one-way door, if we don’t like what we see, we can’t turn around and walk out through the door again. This is what Bezos calls a “Level 1 decision.” For these types of decisions, we want to be cautious, data-driven, and deliberate in our decision-making.
 
-With a two-way door decision, on the other hand, when we walk through the door, if we don’t like what we see, we get to turn around and undo our decision. This is what Bezos calls a “Level 2 decision.” He suggests that, with a two-way door decision, we’ll learn more by acting—walking through the door and seeing what’s on the other side—than we would by trying to imagine what’s on the other side of the door.
+With a two-way door decision, on the other hand, when we walk through the door, if we don’t like what we see, we get to turn around and undo our decision. This is what Bezos calls a “Level 2 decision.” He suggests that, with a two-way door decision, we’ll learn more by acting-walking through the door and seeing what’s on the other side-than we would by trying to imagine what’s on the other side of the door.
 
 Jeff Bezos, founder and CEO of Amazon, made this exact argument in his 2015 letter to shareholders,33 where he introduced the idea of Level 1 and Level 2 decisions. He describes a Level 1 decision as one that is hard to reverse, whereas a Level 2 decision is one that is easy to reverse. Bezos argues that we should be slow and cautious when making Level 1 decisions, but that we should move fast and not wait for perfect data when making Level 2 decisions.
 
->  You need people to be ambitious, technically ambitious, “If there are five ways to do something, we’ll study them, but let’s study them very quickly and make a decision.” We can always change our mind. Changing your mind, I talk about one-way doors and two-way doors, most decisions are two-way doors. If you make the wrong decision, if it’s a two-way door decision, you pick a door, you walk out and you spend a little time there. It turns out to be the wrong decision, you can come back in and pick another door. Some decisions are so consequential and so important and so hard to reverse that they really are one-way door decisions. You go in that door, you’re not coming back. And those decisions have to be made very deliberately, very carefully. If you can think of yet another way to analyze the decision, you should slow down and do that. So when I was CEO of Amazon, I often found myself in the position of being the chief slow down officer because somebody would be bringing me a one-way door decision and I would say, “Okay, I can think of three more ways to analyze that. So let’s go do that because we are not going to be able to reverse this one easily. Maybe you can reverse it if it’s going to be very costly and very time-consuming. We really have to get this one right from the beginning.” And what happens, unfortunately, in companies, what can happen, is that you have a one-size-fits-all decision-making process where you end up using the heavyweight process on all decisions. Two-way door decisions should mostly be made by single individuals or by very small teams deep in the organization. And one-way door decisions are the irreversible ones. Those are the ones that should be elevated up to the senior-most executives who should slow them down and make sure that the right thing is being done. Changing the decision is going to be very, very complicated. Some of them are technical decisions too because some technical decisions are like quick-drying cement. Once you make them, it gets really hard. Choosing which propellants to use in a vehicle, selecting LNG for the booster stage and selecting hydrogen for the upper stage, that has turned out to be a very good decision. But if you changed your mind, that would be a very big setback. So that’s the kind of decision you scrutinize very, very carefully. Other things just aren’t like that. Most decisions are not that way. Most decisions should be made by single individuals and done quickly in the full understanding that you can always change your mind. I’m here and I could say, “Lex, how tall do you think this ceiling is?” And you’d be like, “I don’t know, Jeff, maybe 12 feet tall.” And I would say, “I think it’s 11 feet tall.” And then we’d say, “You know what? Let’s just call it 11 and a half feet.” That’s compromise, instead of. The right thing to do is to get a tape measure or figure out some way of actually measuring, but think getting that tape measure and figure out how to get it to the top of the ceiling and all these things, that requires energy. Compromise, the advantage of compromise as a resolution mechanism is that it’s low energy, but it doesn’t lead to truth. And so in things like the height of the ceiling where truth is a noble thing, you shouldn’t allow compromise to be used when you can know the truth. — Jeff Bezos/Lex Fridman
+>  You need people to be ambitious, technically ambitious, “If there are five ways to do something, we’ll study them, but let’s study them very quickly and make a decision.” We can always change our mind. Changing your mind, I talk about one-way doors and two-way doors, most decisions are two-way doors. If you make the wrong decision, if it’s a two-way door decision, you pick a door, you walk out and you spend a little time there. It turns out to be the wrong decision, you can come back in and pick another door. Some decisions are so consequential and so important and so hard to reverse that they really are one-way door decisions. You go in that door, you’re not coming back. And those decisions have to be made very deliberately, very carefully. If you can think of yet another way to analyze the decision, you should slow down and do that. So when I was CEO of Amazon, I often found myself in the position of being the chief slow down officer because somebody would be bringing me a one-way door decision and I would say, “Okay, I can think of three more ways to analyze that. So let’s go do that because we are not going to be able to reverse this one easily. Maybe you can reverse it if it’s going to be very costly and very time-consuming. We really have to get this one right from the beginning.” And what happens, unfortunately, in companies, what can happen, is that you have a one-size-fits-all decision-making process where you end up using the heavyweight process on all decisions. Two-way door decisions should mostly be made by single individuals or by very small teams deep in the organization. And one-way door decisions are the irreversible ones. Those are the ones that should be elevated up to the senior-most executives who should slow them down and make sure that the right thing is being done. Changing the decision is going to be very, very complicated. Some of them are technical decisions too because some technical decisions are like quick-drying cement. Once you make them, it gets really hard. Choosing which propellants to use in a vehicle, selecting LNG for the booster stage and selecting hydrogen for the upper stage, that has turned out to be a very good decision. But if you changed your mind, that would be a very big setback. So that’s the kind of decision you scrutinize very, very carefully. Other things just aren’t like that. Most decisions are not that way. Most decisions should be made by single individuals and done quickly in the full understanding that you can always change your mind. I’m here and I could say, “Lex, how tall do you think this ceiling is?” And you’d be like, “I don’t know, Jeff, maybe 12 feet tall.” And I would say, “I think it’s 11 feet tall.” And then we’d say, “You know what? Let’s just call it 11 and a half feet.” That’s compromise, instead of. The right thing to do is to get a tape measure or figure out some way of actually measuring, but think getting that tape measure and figure out how to get it to the top of the ceiling and all these things, that requires energy. Compromise, the advantage of compromise as a resolution mechanism is that it’s low energy, but it doesn’t lead to truth. And so in things like the height of the ceiling where truth is a noble thing, you shouldn’t allow compromise to be used when you can know the truth. - Jeff Bezos/Lex Fridman
 
 </details>
 <br>
@@ -485,12 +485,12 @@ A theory of innovation that is based on the economic principle that people buy p
 - The whole premise of JTBD is that people hire products, they don't buy them, they hire them to make progress in their life.
 - The primary cause of failed products and services is a misalignment with customer needs. Using the JTBD framework product teams can deeply understand the jobs its customers are trying to get done and the metrics they use to measure success. It can help determine which needs are unmet or discover segments of customers with unique sets of unmet needs.
 - Context makes the irrational rational. For example, think of Snickers and Milky Way.
-    - “They're both candy bars, they're both bought in the checkout aisle, they're both made almost with the same ingredients, one has peanuts, one doesn't. And if you start to compare the products and do a competitive benchmark, you start to get to one's a little softer, one's a little harder, one's got a few more calories, one's got less calories. But when you talk to people about when's the last time they ate a Snickers, when time's the last time they ate a Milky Way, you start to realize that Snickers typically is a case where they missed the last meal, they've got a lot of work to do, they're running out of energy and they want to basically get back to the tasks as fast as possible. And so you start to realize that Snickers is about almost like a meal replacement and it's about the stomach is growling and things like that. And you start to realize that if they didn't have a Snickers, it competes with a protein drink, it competes with a Red Bull, a coffee. But a Milky Way typically is eaten after an emotional experience, could be positive, could be negative. It's usually eaten alone, and it's taking time to regroup after this emotional thing. And you start to realize that it competes with things like a glass of wine, a brownie, and to be honest, a run. And so when you start to realize that, jobs helps you see the true competitive set from what we call the demand side of the world as opposed to the competitive set from the supply side of the world, which is the technology or the underlying business model by how which we're making it. And so it allows you to actually see what customers really want as opposed to trying to figure out, how do we sell things to people?” — Bob Moesta
-    - “One of the lies I was told growing up was build it and they will come.” — Bob Moesta
-    - “Stop trying to sell people and just help them make progress, help them buy.” — Bob Moesta
-    - “There's the difference between what they say they want and what they want.” — Bob Moesta
-    - “I use the framework of pushes, pulls, anxieties and habits and say, "What caused them to do this?"” — Bob Moesta
-    - “I never trust anybody telling me things they're going to do because they can't assure it, and it usually never happens.  Just because people bitch about something doesn't mean they're going to do anything about it....So for example, in the first five minutes of an interview, they're going to tell you, "I bought a new car because I got a deal on it and it was a car I've been dreaming about forever," and it's like they have all these things and then when you start to get to, it's like, no, the old car had 280,000 miles on it....The fact is it's making a sound and you've got a long trip coming up, that's why you're getting a car. You're not getting the car because of the deal. And so there's these, I call it the layers of language.” — Bob Moesta
+    - “They're both candy bars, they're both bought in the checkout aisle, they're both made almost with the same ingredients, one has peanuts, one doesn't. And if you start to compare the products and do a competitive benchmark, you start to get to one's a little softer, one's a little harder, one's got a few more calories, one's got less calories. But when you talk to people about when's the last time they ate a Snickers, when time's the last time they ate a Milky Way, you start to realize that Snickers typically is a case where they missed the last meal, they've got a lot of work to do, they're running out of energy and they want to basically get back to the tasks as fast as possible. And so you start to realize that Snickers is about almost like a meal replacement and it's about the stomach is growling and things like that. And you start to realize that if they didn't have a Snickers, it competes with a protein drink, it competes with a Red Bull, a coffee. But a Milky Way typically is eaten after an emotional experience, could be positive, could be negative. It's usually eaten alone, and it's taking time to regroup after this emotional thing. And you start to realize that it competes with things like a glass of wine, a brownie, and to be honest, a run. And so when you start to realize that, jobs helps you see the true competitive set from what we call the demand side of the world as opposed to the competitive set from the supply side of the world, which is the technology or the underlying business model by how which we're making it. And so it allows you to actually see what customers really want as opposed to trying to figure out, how do we sell things to people?” - Bob Moesta
+    - “One of the lies I was told growing up was build it and they will come.” - Bob Moesta
+    - “Stop trying to sell people and just help them make progress, help them buy.” - Bob Moesta
+    - “There's the difference between what they say they want and what they want.” - Bob Moesta
+    - “I use the framework of pushes, pulls, anxieties and habits and say, "What caused them to do this?"” - Bob Moesta
+    - “I never trust anybody telling me things they're going to do because they can't assure it, and it usually never happens.  Just because people bitch about something doesn't mean they're going to do anything about it....So for example, in the first five minutes of an interview, they're going to tell you, "I bought a new car because I got a deal on it and it was a car I've been dreaming about forever," and it's like they have all these things and then when you start to get to, it's like, no, the old car had 280,000 miles on it....The fact is it's making a sound and you've got a long trip coming up, that's why you're getting a car. You're not getting the car because of the deal. And so there's these, I call it the layers of language.” - Bob Moesta
 - The value of value depends on where a client starting from and where they want to go. The value of an outcome is much more if you are starting all the way at the bottom as opposed to closer to the top.
 - There are 3 levels of dimension of information/energy that needs to be retrieved from a job executor (customer/client/user):
     - Functional Energy: The core part of their jobs that requires time, space, effort or knowledge. 
@@ -498,9 +498,9 @@ A theory of innovation that is based on the economic principle that people buy p
     - Social Energy: The social aspect of how I want others to perceive me or how others perceive me.
 - Understand the causation behind the client's job and then use design thinking to craft client enablement for people to make progress.
 - Most people say, "If I just add more features, create more pull, people will buy." It's not true. More features create anxiety. Reduce friction and create make it easier for people to make progress.
-- “People don’t want to buy a quarter-inch drill. They want a quarter-inch hole!” — Theodore Levitt 
-- “People buy products and services to get a job done”. — Clayton Christensen
-- “One of the biggest misconceptions around Jobs to Be Done is this notion that it's pain and gain as opposed to context and outcome.” — Bob Moesta, Co-creator of the Jobs To Be Done (JTBD)
+- “People don’t want to buy a quarter-inch drill. They want a quarter-inch hole!” - Theodore Levitt 
+- “People buy products and services to get a job done”. - Clayton Christensen
+- “One of the biggest misconceptions around Jobs to Be Done is this notion that it's pain and gain as opposed to context and outcome.” - Bob Moesta, Co-creator of the Jobs To Be Done (JTBD)
 
 **Further reading**
 
@@ -535,7 +535,7 @@ The biggest barrier to testing assumptions is becoming aware of the assumptions 
 
 Here are a few other concepts from Teresa Torres.
 
-Opportunity solution tree (OST): Opportunity solution trees are a simple way of visually representing the paths you might take to reach a desired outcome. The root of the tree is your desired outcome—the business need that reflects how your team can create business value. Opportunity solution trees help you resolve the tension between business needs and customer needs. As you embark on the wandering paths of discovery, your tree will act as your roadmap, helping you find the best path to your desired outcome.
+Opportunity solution tree (OST): Opportunity solution trees are a simple way of visually representing the paths you might take to reach a desired outcome. The root of the tree is your desired outcome-the business need that reflects how your team can create business value. Opportunity solution trees help you resolve the tension between business needs and customer needs. As you embark on the wandering paths of discovery, your tree will act as your roadmap, helping you find the best path to your desired outcome.
 
 Skipping “whether or not” decision is when we frame a problem as “Should we do this or not?” Instead of framing our decisions as “whether or not” decisions, develop a “compare and contrast” mindset. Instead of asking, “Should we solve this customer need?” we’ll ask, “Which of these customer needs is most important for us to address right now?” We’ll compare and contrast our options.
 
@@ -630,9 +630,9 @@ Overview of Porter’s Five Forces:
 - Bargaining power of suppliers: how easily can suppliers drive their prices up? How well can they negotiate? 
 - Rivalry amongst existing competitors: How many competitors are in an industry? How strong are they?
 
-> The essence of strategy is choosing what not to do. — Michael Porter
+> The essence of strategy is choosing what not to do. - Michael Porter
 
-> Strategy is about making choices, trade-offs; it's about deliberately choosing to be different. — Michael Porter
+> Strategy is about making choices, trade-offs; it's about deliberately choosing to be different. - Michael Porter
 
 </details>
 <br>
@@ -659,9 +659,9 @@ The Lean Canvas is a one-page visual business plan that's ongoing and actionable
 
 | Framework | Description |
 | -------------|:-------------:|
-| _Analytics Maturity Model_ | AMM—analytics maturity model is a sequence of steps or stages that represent the organization's evolution in leveraging data to inform business decisions. |
-| _Google HEART_ | It offers five metrics to monitor the user experience—happiness, engagement, adoption, retention and task success. |
-| _AARRR Pirate Metrics_ | A venture capitalist Dave McClure coined Pirate Metrics which categorizes the user metrics into AARRR—acquisition, activation, retention, revenue and referral. |
+| _Analytics Maturity Model_ | AMM-analytics maturity model is a sequence of steps or stages that represent the organization's evolution in leveraging data to inform business decisions. |
+| _Google HEART_ | It offers five metrics to monitor the user experience-happiness, engagement, adoption, retention and task success. |
+| _AARRR Pirate Metrics_ | A venture capitalist Dave McClure coined Pirate Metrics which categorizes the user metrics into AARRR-acquisition, activation, retention, revenue and referral. |
 | _The Three Engines of SaaS Growth_ | In The Lean Startup Eric Ries identified the three drivers of business growth: viral, sticky and paid. |
 | _Lean Canvas Metrics_ | Lean Canvas is an adaptation of Business Model Canvas by Alexander Osterwalder which Ash Maurya created in the Lean Startup spirit (Fast, Concise and Effective startup). For each lean canvas box, there are relevant metrics associated to it. |
 | _The Lean Gates of Analytics_ | The analytics framework presented in Lean Analytics based on empathy, stickiness, virality, revenue and scale. |
@@ -670,9 +670,9 @@ The Lean Canvas is a one-page visual business plan that's ongoing and actionable
     <summary><strong>Analytics Maturity Model</strong></summary>
     <br>
 
-AMM—analytics maturity model is a sequence of steps or stages that represent the organization's evolution in leveraging data to inform business decisions. The maturity model gives context to where you are in the process and the stages ahead. There are 6 stages of the analytics maturity model and the beginning two stages are part of a starting point foundation. The stages of the analytics maturity model should build on each other, not replace each other. 
+AMM-analytics maturity model is a sequence of steps or stages that represent the organization's evolution in leveraging data to inform business decisions. The maturity model gives context to where you are in the process and the stages ahead. There are 6 stages of the analytics maturity model and the beginning two stages are part of a starting point foundation. The stages of the analytics maturity model should build on each other, not replace each other. 
 
-**Backward-looking stages**—focusing on what the historical data shows already happened. 
+**Backward-looking stages**-focusing on what the historical data shows already happened. 
 
 1. _Foundational_
     - Companies that are in this stage are transitioning from no analytics to prioritize and understand what data they have and where it resides.
@@ -693,7 +693,7 @@ AMM—analytics maturity model is a sequence of steps or stages that represent t
         - How have our prices changed this year compared to last year?  
     - These diagnostic questions build upon the descriptive questions. They go one level deeper, focusing not on the outcome, but instead on understanding if that outcome should have been expected, or if not, why not. This stage looks for the factors that can explain why a certain outcome happened.
 
-**Forward-looking stages**—focusing on predictive business mindset transitioning from reactive approach to proactive approach. 
+**Forward-looking stages**-focusing on predictive business mindset transitioning from reactive approach to proactive approach. 
 
 4.  _Predictive_ 
     - Questions in this stage are proactive. They focus on what is likely to happen next. Based on the information companies gather in stages two and three, here are some examples questions that can start to emerge: 
@@ -759,7 +759,7 @@ AARRR Pirate Metrics framework is an acronym for a set of five user-behavior met
     - Function: Convince users to come back repeatedly, exhibiting sticky behavior
     - Relevant Metrics: Engagement, time since last visit, daily and monthly active use, churns
 4. Revenue: Are your personas willing to pay for this product? 
-    - Function: Business outcomes which vary based on business model— purchases, ad clicks, content creation, subscription, etc
+    - Function: Business outcomes which vary based on business model- purchases, ad clicks, content creation, subscription, etc
     - Relevant Metrics: Customer lifetime value, conversion rate, shopping cart size, click-through revenue
 5. Referral: Do users like the product enough to tell others about it?
     - Function: Viral and word-of-mouth invitations to other potential users
@@ -819,13 +819,13 @@ Following are relevant metrics for each one of the lean canvas box:
     <summary><strong>The Lean Gates of Analytics</strong></summary>
     <br>
 
-The analytics framework presented in Lean Analytics takes many of the stages in the four frameworks—Dave McClure’s AARRR Pirate Metrics, Ash Marya’s Lean Canvas, Sean Ellis’s, Startup Growth Pyramid and The Long Funnel— combines them into a single framework with five stages:
+The analytics framework presented in Lean Analytics takes many of the stages in the four frameworks-Dave McClure’s AARRR Pirate Metrics, Ash Marya’s Lean Canvas, Sean Ellis’s, Startup Growth Pyramid and The Long Funnel- combines them into a single framework with five stages:
 
-1. Empathy — You’re looking for a real, poorly-met need that can be found in a reachable market. Once you do so, you’re figuring out how to solve their problem in a way customers will accept and pay for.
-2. Stickiness — You’re looking for the right mix of products/features/functionality that will keep users around.
-3. Virality — You’re looking for ways to fuel growth organically and artificially.
-4. Revenue — You’re looking for a scalable and sustainable business with the right margins in a healthy ecosystem.
-5. Scale — You’re looking to scale up the business on all fronts.
+1. Empathy - You’re looking for a real, poorly-met need that can be found in a reachable market. Once you do so, you’re figuring out how to solve their problem in a way customers will accept and pay for.
+2. Stickiness - You’re looking for the right mix of products/features/functionality that will keep users around.
+3. Virality - You’re looking for ways to fuel growth organically and artificially.
+4. Revenue - You’re looking for a scalable and sustainable business with the right margins in a healthy ecosystem.
+5. Scale - You’re looking to scale up the business on all fronts.
 
 <img src="../../src/images/lean_analytics.png" alt="lean_analytics"/>
 

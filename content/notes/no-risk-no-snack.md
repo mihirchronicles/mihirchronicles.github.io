@@ -10,7 +10,7 @@ What is my risk tolerance?
 
 I was recently told that I am low on risk tolerance. I was confused with the feedback. The intention of the feedback wasn't negative, but to scale me on the risk spectrum. I personally appreciated the conversation, but nonetheless, investigation was warranted.
 
-I have learned about risk taking from two worlds—investing and entrepreneurship. I have invested in common stocks to grow my personal portfolio since I was a teenager. It's been a decade and a half. In addition, I have started multiple businesses in that same amount of time. One flopped, and the other had a decent outcome.
+I have learned about risk taking from two worlds-investing and entrepreneurship. I have invested in common stocks to grow my personal portfolio since I was a teenager. It's been a decade and a half. In addition, I have started multiple businesses in that same amount of time. One flopped, and the other had a decent outcome.
 
 They both inherently required making bets, but they were both different types of bets.
 
@@ -20,7 +20,7 @@ These lessons had a huge impact on me. I decided to never make those same mistak
 
 I became a risk mitigator. The impact of that was I became too skeptical about everything and missed out on the large returns before the COVID-19 pandemic. I had no interest in get-rich-quickly conversations.
 
-While everyone in the industry spent time debating about the biggest risk to the economy, I was watching the show from the sidelines. Everyone was busy making predictions about Tesla, Bitcoin, NFTs, interest rates, tax cuts, China, and money printing. But the industry missed out on the most important event of our lifetime—COVID-19 pandemic.
+While everyone in the industry spent time debating about the biggest risk to the economy, I was watching the show from the sidelines. Everyone was busy making predictions about Tesla, Bitcoin, NFTs, interest rates, tax cuts, China, and money printing. But the industry missed out on the most important event of our lifetime-COVID-19 pandemic.
 
 Carl Richards, the author of The Behavior Gap said, “Risk is what’s left when you think you’ve thought of everything.” There is no better definition of risk than this.
 
@@ -58,6 +58,6 @@ My experience tells me it is hard to quantify risks on this side of the coin, bu
 
 There are paths that are less traveled and there are paths that have never been traveled before. Risk tolerance varies when you are building a rocket ship versus a pen.
 
-After all my friend was right—I am low on risk tolerance because I would be resistant to extreme paths, and I am too calculated in my risk taking approach. You cannot convince me to live on Mars. But at least I know the varying degree of risks that exist both in investing and entrepreneurship.
+After all my friend was right-I am low on risk tolerance because I would be resistant to extreme paths, and I am too calculated in my risk taking approach. You cannot convince me to live on Mars. But at least I know the varying degree of risks that exist both in investing and entrepreneurship.
 
 The takeaway lesson is the size of your snack depends on the type of risk you take. If you don’t take risk you don’t get a snack.

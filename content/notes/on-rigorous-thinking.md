@@ -32,7 +32,7 @@ Charlie Munger’s tip on improving the ability to hold opposing views:
 
 George Orwell on lies from his 1984 book:
 
-> And if all others accepted the lie which the Party imposed—if all records told the same tale—then the lie passed into history and became truth. ‘Who controls the past’ ran the Party slogan, ‘controls the future: who controls the present controls the past.'
+> And if all others accepted the lie which the Party imposed-if all records told the same tale-then the lie passed into history and became truth. ‘Who controls the past’ ran the Party slogan, ‘controls the future: who controls the present controls the past.'
 
 Emerson, Munger and Orwell are pushing for independent thinking and challenging conventional wisdom. Unfortunately, in our society thinking from the fundamentals or the source material is rare. We instead form conclusions after taking in layers and layers of overlapping information and opinions, without basing our reasoning on those essential fundamentals. Also rare is a deep, multi-faceted education, which contains a breadth of learning.
 
@@ -101,7 +101,7 @@ There are 3 components of independent mindedness: fastidiousness about truth, re
 
 2. Resistance to being told what to think.
 > The big mistake people make about it is to think of it as a merely negative quality. The language we use reinforces that idea. You're unconventional. You don't care what other people think. But it's not just a kind of immunity. In the most independent-minded people, the desire not to be told what to think is a positive force. It's not mere skepticism, but an active delight in ideas that subvert the conventional wisdom, the more counterintuitive the better.
-> Think how often your reaction to a novel idea is to laugh. I don't think it's because novel ideas are funny per se, but because novelty and humor share a certain kind of surprisingness. But while not identical, the two are close enough that there is a definite correlation between having a sense of humor and being independent-minded — just as there is between being humorless and being conventional-minded.
+> Think how often your reaction to a novel idea is to laugh. I don't think it's because novel ideas are funny per se, but because novelty and humor share a certain kind of surprisingness. But while not identical, the two are close enough that there is a definite correlation between having a sense of humor and being independent-minded - just as there is between being humorless and being conventional-minded.
 
 3. Curiosity.
 > To the extent that we can give a brief answer to the question of where novel ideas come from, it's curiosity. That's what people are usually feeling before having them.
@@ -126,11 +126,11 @@ A sound reasoning can eliminate all prejudices by deploying selective skepticism
 
 Selective skepticism and sound reasoning can eliminate all prejudices in necessary situations.
 
-> There are in fact two things: science and opinion; the former begets knowledge, the latter ignorance. — Hippocrates
+> There are in fact two things: science and opinion; the former begets knowledge, the latter ignorance. - Hippocrates
 
-> It does not make any difference how beautiful your guess is. It does not make any difference how smart you are, who made the guess, or what his name is—if it disagrees with experiment it is wrong. — Richard Feynman
+> It does not make any difference how beautiful your guess is. It does not make any difference how smart you are, who made the guess, or what his name is-if it disagrees with experiment it is wrong. - Richard Feynman
 
-> Sit down before facts like a child, and be prepared to give up every preconceived Notion, follow humbly wherever and to whatever abysses Nature leads, or shall learn nothing. — Thomas Henry Huxley
+> Sit down before facts like a child, and be prepared to give up every preconceived Notion, follow humbly wherever and to whatever abysses Nature leads, or shall learn nothing. - Thomas Henry Huxley
 
 ## Avoid tribes
 
@@ -144,7 +144,7 @@ The solution to prevent intense ideologies is to get involved in more of tribal 
 
 Examples of tribes include scientology, crossfit, blockchain, church, religion, etc. The way to free yourself from the control of an entity is to keep researching from the source of truth. At the core of tribes are usually patterns to be found around.
 
-There are two things that are distilled in our society to prevent us from getting involved—institutions and ego (confirmation bias). Institutions like school, work or religion prevent us from thinking broadly. Second, ego gets in the way because we are so married to our own ideologies. If you really want to learn, join these tribes and exit.
+There are two things that are distilled in our society to prevent us from getting involved-institutions and ego (confirmation bias). Institutions like school, work or religion prevent us from thinking broadly. Second, ego gets in the way because we are so married to our own ideologies. If you really want to learn, join these tribes and exit.
 
 Progressive enrichment of tribe membership should be everyone's goal. This allows us to think and learn incrementally.
 
@@ -208,13 +208,13 @@ The essential component of the Socratic method uses questions to examine the val
 
 - Few grasp this. One of the biggest misconceptions about new ideas is about the ratio of question to answer in their composition. People think big ideas are answers, but often the real insight was in the question.
 - Part of the reason we underrate questions is the way they're used in schools. In schools they tend to exist only briefly before being answered, like unstable particles. But a really good question can be much more than that. A really good question is a partial discovery. How do new species arise?
-- Unanswered questions can be uncomfortable things to carry around with you. But the more you're carrying, the greater the chance of noticing a solution — or perhaps even more excitingly, noticing that two unanswered questions are the same.
-- Sometimes you carry a question for a long time. Great work often comes from returning to a question you first noticed years before — in your childhood, even — and couldn't stop thinking about. People talk a lot about the importance of keeping your youthful dreams alive, but it's just as important to keep your youthful questions alive.
+- Unanswered questions can be uncomfortable things to carry around with you. But the more you're carrying, the greater the chance of noticing a solution - or perhaps even more excitingly, noticing that two unanswered questions are the same.
+- Sometimes you carry a question for a long time. Great work often comes from returning to a question you first noticed years before - in your childhood, even - and couldn't stop thinking about. People talk a lot about the importance of keeping your youthful dreams alive, but it's just as important to keep your youthful questions alive.
 - This is one of the places where actual expertise differs most from the popular picture of it. In the popular picture, experts are certain. But actually the more puzzled you are, the better, so long as (a) the things you're puzzled about matter, and (b) no one else understands them either.
 - You have to be comfortable enough with the world being full of puzzles that you're willing to see them, but not so comfortable that you don't want to solve them.
 - It's a great thing to be rich in unanswered questions. And this is one of those situations where the rich get richer, because the best way to acquire new questions is to try answering existing ones. Questions don't just lead to answers, but also to more questions.
 - The best questions grow in the answering. You notice a thread protruding from the current paradigm and try pulling on it, and it just gets longer and longer. So don't require a question to be obviously big before you try answering it. You can rarely predict that. It's hard enough even to notice the thread, let alone to predict how much will unravel if you pull on it.
-- It's better to be promiscuously curious — to pull a little bit on a lot of threads, and see what happens. Big things start small. The initial versions of big things were often just experiments, or side projects, or talks, which then grew into something bigger. So start lots of small things.
+- It's better to be promiscuously curious - to pull a little bit on a lot of threads, and see what happens. Big things start small. The initial versions of big things were often just experiments, or side projects, or talks, which then grew into something bigger. So start lots of small things.
 - Being prolific is underrated. The more different things you try, the greater the chance of discovering something new. Understand, though, that trying lots of things will mean trying lots of things that don't work. You can't have a lot of good ideas without also having a lot of bad ones.
 
 ### Warren Berger on questions
@@ -604,7 +604,7 @@ Here is my ridiculously long list of good questions accumulated over the years f
 | *Interview* | Which functions in the business could you outsource if you really had to? And the purpose of that is to understand where the value is *really* being generated in the business, versus the ancillary activities that support that. That question is trying to understand what capability drives their competitive advantage. |
 | *Interview* | How much time or money would be needed to copy your products or services? |
 | *Interview* | What are the three most important financial and non-financial KPIs (key performance indicators) on your dashboard? What does management think is critical to the business that drives value? |
-| *Interview* | When do you choose to build versus buy? How do they make that decision of going to buy an asset versus go green field? What are common mistakes you've seen others make in the industry? This would be to get a sense of not just *how* the industry works, but also what management *sees* as a fatal flaw that they try to avoid—and whether they have a good understanding of what can break the business side; the risk management side of it. |
+| *Interview* | When do you choose to build versus buy? How do they make that decision of going to buy an asset versus go green field? What are common mistakes you've seen others make in the industry? This would be to get a sense of not just *how* the industry works, but also what management *sees* as a fatal flaw that they try to avoid-and whether they have a good understanding of what can break the business side; the risk management side of it. |
 | *Interview* | What happens when a company stops believing in secrets? |
 | *Interview* | How much of what you know about business is shaped by mistaken reactions to past mistakes? 
 | *Interview* | What would the ideal company culture look like? |

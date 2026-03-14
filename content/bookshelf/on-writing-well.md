@@ -26,7 +26,7 @@ William Zinsser was an American writer, editor, literary critic, and teacher. It
 - Prune out the small words that qualify how you feel and how you think and what you saw: “a bit”, “a little”, “sort of”, “kind of”, “rather”, “quite”, “very”, “too”, “pretty much”, “in a sense” and dozens more. They dilute your style and your persuasiveness.
 - Learn to alert the reader as soon as possible to any change in mood from the previous sentence.
 - Your style will be warmer and truer to your personality if you use contractions like “I’ll” and “won’t” and “can’t” when they fit comfortably into what you’re writing.
-- I only suggest avoiding one form—“I’d”, “he’d”, “we’d”, etc.—because “I’d” can mean both “I had” and “I would”, and readers can get well into a sentence before learning which meaning it is.
+- I only suggest avoiding one form-“I’d”, “he’d”, “we’d”, etc.-because “I’d” can mean both “I had” and “I would”, and readers can get well into a sentence before learning which meaning it is.
 - Always use “that” unless it makes your meaning ambiguous.
 - Surprisingly often a difficult problem in a sentence can be solved by simply getting rid of it.
 - Rewriting is the essence of writing well: it’s where the game is won or lost.
@@ -35,11 +35,11 @@ William Zinsser was an American writer, editor, literary critic, and teacher. It
 ## III. Quotes
 
 - Decide what you want to do. Then decide to do it. Then do it.
-- Don’t try to visualize the great mass audience. There is no such audience—every reader is a different person.
+- Don’t try to visualize the great mass audience. There is no such audience-every reader is a different person.
 - Writing is hard work. A clear sentence is no accident. Very few sentences come out right the first time, or even the third time. Remember this in moments of despair. If you find that writing is hard, it’s because it is hard.
 - Writing is an act of ego, and you might as well admit it.
 - Examine every word you put on paper. You'll find a surprising number that don't serve any purpose.
-- There are many good reasons for writing that have nothing to do with being published. Writing is a powerful search mechanism, and one of its satisfactions is to come to terms with your life narrative. Another is to work through some of life’s hardest knocks—loss, grief, illness, addiction, disappointment, failure—and to find understanding and solace.
+- There are many good reasons for writing that have nothing to do with being published. Writing is a powerful search mechanism, and one of its satisfactions is to come to terms with your life narrative. Another is to work through some of life’s hardest knocks-loss, grief, illness, addiction, disappointment, failure-and to find understanding and solace.
 - Clutter is the disease of American writing. We are a society strangling in unnecessary words, circular constructions, pompous frills and meaningless jargon.
 - The only way to learn to write is to force yourself to produce a certain number of words on a regular basis.
 - The secret of good writing is to strip every sentence to its cleanest components.
@@ -52,7 +52,7 @@ William Zinsser was an American writer, editor, literary critic, and teacher. It
 - Learn to enjoy this tidying process. I don't like to write; I like to have written. But I love to rewrite. I especially like to cut: to press the DELETE key and see an unnecessary word or phrase or sentence vanish into the electricity. I like to replace a humdrum word with one that has more precision or color. I like to strengthen the transition between one sentence and another. I like to rephrase a drab sentence to give it a more pleasing rhythm or a more graceful musical line. With every small refinement I feel that I'm coming nearer to where I would like to arrive, and when I finally get there I know it was the rewriting, not the writing, that won't the game.
 - Don’t say you were a bit confused and sort of tired and a little depressed and somewhat annoyed. Be confused. Be tired. Be depressed. Be annoyed. Don’t hedge your prose with little timidities. Good writing is lean and confident.
 - Beware, then, of the long word that's no better than the short word: "assistance" (help), "numerous" (many), "facilitate" (ease), "Individual" (man or woman), "remainder" (rest), "initial" (first), "implement" (do), "sufficient" (enough), "attempt" (try), "referred to as" (called), and hundreds more. Beware of all the slippery new fad words: paradigm and parameter, prioritize and potentialize. They are all weeds that will smother what you write. Don't dialogue with someone you can talk to. Don't interface with anybody.
-- As a writer you must keep a tight rein on your subjective self—the traveler touched by new sights and sounds and smells—and keep an objective eye on the reader.
+- As a writer you must keep a tight rein on your subjective self-the traveler touched by new sights and sounds and smells-and keep an objective eye on the reader.
 - The reader is someone with an attention span of about 30 seconds.
 - The most important sentence in any article is the first one. If it doesn’t induce the reader to proceed to the second sentence, your article is dead.
 - Thinking clearly is a conscious act that writers must force on themselves.
@@ -72,17 +72,17 @@ William Zinsser was an American writer, editor, literary critic, and teacher. It
 - Most first drafts can be cut by 50 percent without losing any information or losing the author’s voice.
 - A clear sentence is no accident. Very few sentences come out right the first time, or even the third time... If you find that writing is hard, it's because it is hard.
 - Every writing project must be reduced before you start to write.
-- Most nonfiction writers have a definitiveness complex. They feel that they are under some obligation—to the subject, to their honor, to the gods of writing—to make their article the last word. It’s a commendable impulse, but there is no last word.
+- Most nonfiction writers have a definitiveness complex. They feel that they are under some obligation-to the subject, to their honor, to the gods of writing-to make their article the last word. It’s a commendable impulse, but there is no last word.
 - There are some writers who sweep us along so strongly in their current of energy--Normal mailer, Tom Wolfe, Toni Morrison, William F. Buckley, Jr., Hunter Thompson, David Foster Wallace, Dave Eggers--that we assume that when they go to work the words just flow. Nobody thinks of the effort they made every morning to turn on the switch. You also have to turn on the switch. Nobody is going to do it for you.
 - Today the outlandish becomes routine overnight. The humorist is trying to say that it's still outlandish.
 - Good writing has an aliveness that keeps the reader reading from one paragraph to the next, and it's not a question of gimmicks to "personalize" the author. It's a question of using the English language in a way that will achieve the greatest clarity and strength.
 - Good writing is lean and confident.
-- Nobody turns so quickly into a bore as a traveler home from his travels. He enjoyed his trip so much that he wants to tell us all about it—and “all” is what we don’t want to hear. We only want to hear some.
+- Nobody turns so quickly into a bore as a traveler home from his travels. He enjoyed his trip so much that he wants to tell us all about it-and “all” is what we don’t want to hear. We only want to hear some.
 - Truth needs no adornment.
 - Some people write by day, others by night. Some people need silence, others turn on the radio. Some write by hand, some by typewriter or word processor, some by talking into a tape recorder. Some people write their first draft in one long burst and the revise; others can't write the second paragraph until they have fiddled endlessly with the first. But all of them are vulnerable and all of them are tense.
 - A writer will do anything to avoid the act of writing.
 - Writing is an intimate transaction between two people, conducted on paper.
-- When I tell aspiring writers that they should think of themselves as part entertainer, they don’t like to hear it—the word smacks of carnivals and jugglers and clowns. But to succeed you must make your piece jump out of a newspaper or a magazine by being more diverting than everyone else’s piece. You must find some way to elevate your act of writing into an entertainment. Usually this means giving the reader an enjoyable surprise. Any number of devices will do the job: humor, anecdote, paradox, an unexpected quotation, a powerful fact, an outlandish detail, a circuitous approach, an elegant arrangement of words. These seeming amusements in fact become your “style.”
+- When I tell aspiring writers that they should think of themselves as part entertainer, they don’t like to hear it-the word smacks of carnivals and jugglers and clowns. But to succeed you must make your piece jump out of a newspaper or a magazine by being more diverting than everyone else’s piece. You must find some way to elevate your act of writing into an entertainment. Usually this means giving the reader an enjoyable surprise. Any number of devices will do the job: humor, anecdote, paradox, an unexpected quotation, a powerful fact, an outlandish detail, a circuitous approach, an elegant arrangement of words. These seeming amusements in fact become your “style.”
 - It requires writers to do two things that by their metabolism are impossible. They must relax, and they must have confidence.
 - There is no minimum length for a sentence that’s acceptable in the eyes of God.
 - Don’t fight such a current if it feels right. Trust your material if it’s taking you into terrain you didn’t intend to enter but where the vibrations are good. Adjust your style accordingly and proceed to whatever destination you reach. Don’t become the prisoner of a preconceived plan. Writing is no respecter of blueprints.
@@ -90,7 +90,7 @@ William Zinsser was an American writer, editor, literary critic, and teacher. It
 - Writing is such a lonely work that I try to keep myself cheered up.
 - Writing is thinking on paper. Anyone who thinks clearly can write clearly, about anything at all.
 - But on the question of who you're writing for, don't be eager to please.
-- Don’t annoy your readers by over-explaining—by telling them something they already know or can figure out.
+- Don’t annoy your readers by over-explaining-by telling them something they already know or can figure out.
 - Clichés are the enemy of taste.
 - ‘Myself’ is the refuge of idiots taught early that ‘me’ is a dirty word.
 - Every writer is starting from a different point and is bound for a different destination. Yet many writers are paralyzed by the thought that they are competing with everybody else who is trying to write and presumably doing it better. Forget the competition and go at your own pace. Your only contest is with yourself.
@@ -103,6 +103,6 @@ William Zinsser was an American writer, editor, literary critic, and teacher. It
 - A generation ago our leaders told us where they stood and what they believed. Today they perform strenuous verbal feats to escape that fate.
 - Can (...) principles be taught? Maybe not. But most of them can be learned.
 - The writer, his eye on the finish line, never gave enough thought to how to run the race.
-- Don't start a sentence with “however”—it hangs there like a wet dishrag. And don't end with “however”—by that time it has lost its howeverness.
+- Don't start a sentence with “however”-it hangs there like a wet dishrag. And don't end with “however”-by that time it has lost its howeverness.
 - Ultimately the product that any writer has to sell is not the subject being written about, but who he or she is.
 - I urge people to write in the first person: to use "I" and “me" and “we" and “us." They put up a fight.

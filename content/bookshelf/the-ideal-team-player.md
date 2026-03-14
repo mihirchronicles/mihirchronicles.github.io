@@ -32,7 +32,7 @@ This book was recommended to me by my boss at Builders Vision. His management st
 
 - I believe that teamwork is not a virtue, but rather a choice. It's a strategic decision and an intentional one, which means that it's not for everyone.
 - Leaders who can identify, hire, and cultivate employees who are humble, hungry, and smart will have a serious advantage over those who cannot.
-- Humility isn't thinking less of yourself, but thinking of yourself less. — C.S. Lewis
+- Humility isn't thinking less of yourself, but thinking of yourself less. - C.S. Lewis
 - It is no great surprise, then, that humility is the single greatest and most indispensable attribute of being a team player.
 - Humble is pretty obvious. We can't abide big egos. Hungry is all about working hard and being passionate about our work. And smart has to do with being aware of the people around you and dealing with them in a positive, functional way.
 - Look for the candidate to demonstrate a genuine appreciation for others who have more skill or talent. Humble people are comfortable with this. Ego-driven people often are not.

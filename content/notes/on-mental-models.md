@@ -44,45 +44,45 @@ Here is an algorithm for driving to your grandma's house. Take Highway 290 West 
 
 Here is a mental model for getting to your grandma's house. Find the last letter we mailed you. Drive to the town in the return address. When you get to town, ask someone where our house is. Everyone knows us-someone will be glad to help you. If you can’t find anyone, call us from a public phone, and we’ll give you the instructions directly. A mental model tells you how to discover the instructions for yourself, or at least where to look for help.
 
-**Map is not the territory**: Alfred Korzybski, a famous mathematician in 1931 made a simple observation—*the map is not the territory.* This allows you to assess the usefulness of models. Maps (mental models) are thought of as a representation of reality. They distill complex ideas into simple concepts that can be processed by our brains which enable us for faster decision-making. But maps do not represent reality. A map indeed can be flawed when entering uncharted territories. Ask early European sailors who went on voyages to explore deep seas and new lands.
+**Map is not the territory**: Alfred Korzybski, a famous mathematician in 1931 made a simple observation-*the map is not the territory.* This allows you to assess the usefulness of models. Maps (mental models) are thought of as a representation of reality. They distill complex ideas into simple concepts that can be processed by our brains which enable us for faster decision-making. But maps do not represent reality. A map indeed can be flawed when entering uncharted territories. Ask early European sailors who went on voyages to explore deep seas and new lands.
 
-> (History) offers a ridiculous spectacle of a fragment expounding the whole. — Will Durant
+> (History) offers a ridiculous spectacle of a fragment expounding the whole. - Will Durant
 
 This brings me to the next point. *All models are wrong, but some are useful*. Those words came from a British statistician, George Box. He revealed the fallacy of our desire to organize the world in patterns. We at times confuse models with reality because we prefer simplification. But that is not how reality works. Models never reflect complete truth.
 
-> Remember that all models are wrong; the practical question is how wrong do they have to be to not be useful. — George Box
+> Remember that all models are wrong; the practical question is how wrong do they have to be to not be useful. - George Box
 
 Some mental models work better than others in some situations and knowing which models to use and when is a key of good judgment. Focusing on timeless models that have been around for a long time and consistently testing them against reality will help you use them right.
 
-> No idea is true just because someone says so. Test ideas by the evidence gained from observation and experiment! If a favorite idea fails a well-designed test, it’s wrong! — Richard Feynman
+> No idea is true just because someone says so. Test ideas by the evidence gained from observation and experiment! If a favorite idea fails a well-designed test, it’s wrong! - Richard Feynman
 
 To overcome the challenge of model thinking, always have bias for action. Keep in mind that when in doubt, it'll be action that produces information. So when map and terrain differ, follow the terrain.
 
-> The world doesn’t have the luxury of waiting for complete answers before it takes action. — Daniel Gilbert
+> The world doesn’t have the luxury of waiting for complete answers before it takes action. - Daniel Gilbert
 
 **Mungerism**: Munger gave a famous speech, “*A Lesson on Elementary Wisdom*” in 1995 speech at USC Business School about worldly wisdom and latticework of mental models. Below are some references from his speech.
 
-> What is elementary, worldly wisdom? Well, the first rule is that you can’t really know anything if you just remember isolated facts and try and bang ‘em back. If the facts don’t hang together on a latticework of theory, you don’t have them in a usable form. You’ve got to have models in your head. And you’ve got to array your experience — both vicarious and direct — on this latticework of models. — Charlie Munger
+> What is elementary, worldly wisdom? Well, the first rule is that you can’t really know anything if you just remember isolated facts and try and bang ‘em back. If the facts don’t hang together on a latticework of theory, you don’t have them in a usable form. You’ve got to have models in your head. And you’ve got to array your experience - both vicarious and direct - on this latticework of models. - Charlie Munger
 
-> You may have noticed students who just try to remember and pound back what is remembered. Well, they fail in school and in life. You’ve got to hang experience on a latticework of models in your head. — Charlie Munger
+> You may have noticed students who just try to remember and pound back what is remembered. Well, they fail in school and in life. You’ve got to hang experience on a latticework of models in your head. - Charlie Munger
 
-> What are the models? Well, the first rule is that you’ve got to have multiple models — because if you just have one or two that you’re using, the nature of human psychology is such that you’ll torture reality so that it fits your models, or at least you’ll think it does. You become the equivalent of a chiropractor who, of course, is the great boob in medicine. — Charlie Munger
+> What are the models? Well, the first rule is that you’ve got to have multiple models - because if you just have one or two that you’re using, the nature of human psychology is such that you’ll torture reality so that it fits your models, or at least you’ll think it does. You become the equivalent of a chiropractor who, of course, is the great boob in medicine. - Charlie Munger
 
-> It’s like the old saying, “To the man with only a hammer, every problem looks like a nail.” And of course, that’s the way the chiropractor goes about practicing medicine. But that’s a perfectly disastrous way to think and a perfectly disastrous way to operate in the world. — Charlie Munger
+> It’s like the old saying, “To the man with only a hammer, every problem looks like a nail.” And of course, that’s the way the chiropractor goes about practicing medicine. But that’s a perfectly disastrous way to think and a perfectly disastrous way to operate in the world. - Charlie Munger
 
-> So you’ve got to have multiple models. And the models have to come from multiple disciplines—because all the wisdom of the world is not to be found in one little academic department. That’s why poetry professors, by and large, are so unwise in a worldly sense. They don’t have enough models in their heads. — Charlie Munger
+> So you’ve got to have multiple models. And the models have to come from multiple disciplines-because all the wisdom of the world is not to be found in one little academic department. That’s why poetry professors, by and large, are so unwise in a worldly sense. They don’t have enough models in their heads. - Charlie Munger
 
-> So you’ve got to have models across a fair array of disciplines. — Charlie Munger
+> So you’ve got to have models across a fair array of disciplines. - Charlie Munger
 
-> You may say, “My God, this is already getting way too tough.” But, fortunately, it isn’t that tough—because 80 or 90 important models will carry about 90% of the freight in making you a worldly-wise person. And, of those, only a mere handful really carry very heavy freight. — Charlie Munger
+> You may say, “My God, this is already getting way too tough.” But, fortunately, it isn’t that tough-because 80 or 90 important models will carry about 90% of the freight in making you a worldly-wise person. And, of those, only a mere handful really carry very heavy freight. - Charlie Munger
 
-> You have to learn all the big ideas in the key disciplines in a way that they’re in a mental latticework in your head and you automatically use them for the rest of your life. If you do that, I solemnly promise you that one day you’ll be walking down the street and you’ll look to your right and left and you’ll think “my heavenly days, I’m now one of the few competent people in my whole age cohort.” If you don’t do it, many of the brightest of you will live in the middle ranks or in the shallows. — Charlie Munger
+> You have to learn all the big ideas in the key disciplines in a way that they’re in a mental latticework in your head and you automatically use them for the rest of your life. If you do that, I solemnly promise you that one day you’ll be walking down the street and you’ll look to your right and left and you’ll think “my heavenly days, I’m now one of the few competent people in my whole age cohort.” If you don’t do it, many of the brightest of you will live in the middle ranks or in the shallows. - Charlie Munger
 
 > I went through life constantly practicing (because if you don’t practice it, you lose it) the multi-disciplinary approach and I can’t tell you what that’s done for me. It’s made life more fun, it’s made me more constructive, its made me more helpful to others, its made me enormously rich. – Charlie Munger
 
 He also gave another famous speech, “*The Psychology of Human Misjudgement*” in 1995 at Harvard Law School about human psychology and biases.
 
-> I was aware that man was a “social animal,” greatly and automatically influenced by behavior he observed in men around him. I also knew that man lived, like barnyard animals and monkeys, in limited size dominance hierarchies, wherein he tended to respect authority and to like and cooperate with his own hierarchy members while displaying considerable distrust and dislike for competing men not in his own hierarchy. — Charlie Munger
+> I was aware that man was a “social animal,” greatly and automatically influenced by behavior he observed in men around him. I also knew that man lived, like barnyard animals and monkeys, in limited size dominance hierarchies, wherein he tended to respect authority and to like and cooperate with his own hierarchy members while displaying considerable distrust and dislike for competing men not in his own hierarchy. - Charlie Munger
 
 Below are the collection of mental models accumulated from his various resources and talks. The checklist is grouped based on their source of discipline. These mental models should equip everyone make better decisions, so they can live a better life.
 
@@ -148,9 +148,9 @@ This idea was formulated by Stuart Kauffman a physician by trade who focused exc
 
 Autocatalysis can be extended in the business world. According to Munger Disney is an amazing example of autocatalysis.
 
-Disney had ownership of many of the classic movies and animations that had graced American cinema for decades. Yet at a point, Disney was at a plateau. Maybe people had seen a few of their movies before but that was in a theater or maybe screened on TV every now and then. Then the world changed with the VCR and video cassette tape. Once the video cassette tape was invented, Disney and their extensive catalog of classic content had been positioned perfectly to take over the home media industry—and that is exactly what happened! They exploded onto the screens in homes of people worldwide with a library of Disney content that was absolutely unmatched by anything out there. Every home in North America had a dozen Disney video Cassette tapes in their home library if not more!
+Disney had ownership of many of the classic movies and animations that had graced American cinema for decades. Yet at a point, Disney was at a plateau. Maybe people had seen a few of their movies before but that was in a theater or maybe screened on TV every now and then. Then the world changed with the VCR and video cassette tape. Once the video cassette tape was invented, Disney and their extensive catalog of classic content had been positioned perfectly to take over the home media industry-and that is exactly what happened! They exploded onto the screens in homes of people worldwide with a library of Disney content that was absolutely unmatched by anything out there. Every home in North America had a dozen Disney video Cassette tapes in their home library if not more!
 
-“In the autocatalysis process, properties, events or products serve as their own catalysts and are “self-breeding. For example the self-stimulated increase in the demand for air conditioning, hence the self-stimulated increase in the demand for air conditioners.” — Charlie Munger
+“In the autocatalysis process, properties, events or products serve as their own catalysts and are “self-breeding. For example the self-stimulated increase in the demand for air conditioning, hence the self-stimulated increase in the demand for air conditioners.” - Charlie Munger
 
  <br>
 </details>
@@ -164,25 +164,25 @@ Survival in a competitive environment usually requires adaptation and velocity, 
 
 The Red Queen Effect means that staying in the same place is falling behind. Surviving another day means we have to co-evolve with the systems we interact with. If all animals evolved at the same rate, there would be no change in the relative interactions between species. However, not all animals evolve at the same rate. As Darwin observed, some are more “responsive to change” than others.
 
-> It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change. — Charles Darwin
+> It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change. - Charles Darwin
 
 Where does the phrase Red Queen come from? The Red Queen is from Lewis Carroll’s novel “Through the Looking Glass.” The Red Queen notes to Alice that in the Red Queen’s world, Alice will have to run as fast as she can to stay in place and twice as quickly to move forward.
 
-> Now, here, you see, it takes all the running you can do, to keep in the same place. If you want to get somewhere else, you must run at least twice as fast as that! — Lewis Carroll
+> Now, here, you see, it takes all the running you can do, to keep in the same place. If you want to get somewhere else, you must run at least twice as fast as that! - Lewis Carroll
 
 The evolve-or-die is the fact of nature. The effect is an evolutionary hypothesis that organisms must constantly evolve to survive, reproduce, and hopefully gain an advantage. One must work smarter and not faster to succeed.
 
 Of course, in the modern-day, we have to plan our moves strategically to be successful in this digitized world.
 
-> The great lesson in microeconomics is to discriminate between when technology is going to help you and when it’s going to kill you. — Charlie Munger
+> The great lesson in microeconomics is to discriminate between when technology is going to help you and when it’s going to kill you. - Charlie Munger
 
-> The promised benefits from these textile investments were illusory. Many of our competitors, both domestic and foreign, were stepping up to the same kind of expenditures and, once enough companies did so, their reduced costs became the baseline for reduced prices industry wide. Viewed individually, each company’s capital investment decision appeared cost-effective and rational; viewed collectively, the decisions neutralized each other and were irrational. — Warren Buffett
+> The promised benefits from these textile investments were illusory. Many of our competitors, both domestic and foreign, were stepping up to the same kind of expenditures and, once enough companies did so, their reduced costs became the baseline for reduced prices industry wide. Viewed individually, each company’s capital investment decision appeared cost-effective and rational; viewed collectively, the decisions neutralized each other and were irrational. - Warren Buffett
 
 People who sacrifice their present for the future are the ones who see the best results, and the Red Queen Effect is a great principle backing this idea. Although current generations may die to the process of natural selection, future generations stand to benefit greatly from their sacrifice. This evolutionary process persists in all areas of the world, from business transactions to biological reactions.
 
 Siddhartha Mukherjee, Pulitzer-prize-winner for the book The Emperor of All Maladies, describes the red queen in the context of drugs and cancer.
 
-> In August 2000, Jerry Mayfield, a forty-one-year-old Louisiana policeman diagnosed with CML, began treatment with Gleevec. Mayfield’s cancer responded briskly at first. The fraction of leukemic cells in his bone marrow dropped over six months. His blood count normalized and his symptoms improved; he felt rejuvenated—“like a new man [on] a wonderful drug.” But the response was short-lived. In the winter of 2003, Mayfield’s CML stopped responding. Moshe Talpaz, the oncologist treating Mayfield in Houston, increased the dose of Gleevec, then increased it again, hoping to outpace the leukemia. But by October of that year, there was no response. Leukemia cells had fully recolonized his bone marrow and blood and invaded his spleen. Mayfield’s cancer had become resistant to targeted therapy…
+> In August 2000, Jerry Mayfield, a forty-one-year-old Louisiana policeman diagnosed with CML, began treatment with Gleevec. Mayfield’s cancer responded briskly at first. The fraction of leukemic cells in his bone marrow dropped over six months. His blood count normalized and his symptoms improved; he felt rejuvenated-“like a new man [on] a wonderful drug.” But the response was short-lived. In the winter of 2003, Mayfield’s CML stopped responding. Moshe Talpaz, the oncologist treating Mayfield in Houston, increased the dose of Gleevec, then increased it again, hoping to outpace the leukemia. But by October of that year, there was no response. Leukemia cells had fully recolonized his bone marrow and blood and invaded his spleen. Mayfield’s cancer had become resistant to targeted therapy…
 
 > … Even targeted therapy, then, was a cat-and-mouse game. One could direct endless arrows at the Achilles’ heel of cancer, but the disease might simply shift its foot, switching one vulnerability for another. We were locked in a perpetual battle with a volatile combatant. When CML cells kicked Gleevec away, only a different molecular variant would drive them down, and when they outgrew that drug, then we would need the next-generation drug. If the vigilance was dropped, even for a moment, then the weight of the battle would shift. In Lewis Carroll’s Through the Looking-Glass, the Red Queen tells Alice that the world keeps shifting so quickly under her feet that she has to keep running just to keep her position. This is our predicament with cancer: we are forced to keep running merely to keep still.
 
@@ -247,15 +247,15 @@ Essentially, in complex engineering systems an intentional small pause is perfor
 
 A feedback loop occurs when the output of a system feeds back into itself as an input, thereby further affecting the output.
 
-Part of a control system in which the outputs are fed back in as inputs. Take the heating in your home—your furnace will push out heat, the thermostat will check the temperature and use this information to turn the furnace on and off. The system is a loop. The concept is also known as homeostasis in biological field. Feedback occurs when outputs of a system are routed back as inputs as of a chain of cause-and-effect that forms a circuit or loop. The system can then be said to feed back into itself. Feedback loops are important if we want to alter a state or fill in a gap in systems. Feedback often refer to as information about the state or a gap but can be useless unless translated into an action. The notion of cause-and-effect has to be handled carefully when applied to feedback systems:
+Part of a control system in which the outputs are fed back in as inputs. Take the heating in your home-your furnace will push out heat, the thermostat will check the temperature and use this information to turn the furnace on and off. The system is a loop. The concept is also known as homeostasis in biological field. Feedback occurs when outputs of a system are routed back as inputs as of a chain of cause-and-effect that forms a circuit or loop. The system can then be said to feed back into itself. Feedback loops are important if we want to alter a state or fill in a gap in systems. Feedback often refer to as information about the state or a gap but can be useless unless translated into an action. The notion of cause-and-effect has to be handled carefully when applied to feedback systems:
 
-> Simple causal reasoning about a feedback system is difficult because the first system influences the second and second system influences the first, leading to a circular argument. This makes reasoning based upon cause and effect tricky, and it is necessary to analyze the system as a whole. *—  Karl Johan Åström and Richard M.Murray, Feedback Systems: An Introduction for Scientists and Engineers*
+> Simple causal reasoning about a feedback system is difficult because the first system influences the second and second system influences the first, leading to a circular argument. This makes reasoning based upon cause and effect tricky, and it is necessary to analyze the system as a whole. *-  Karl Johan Åström and Richard M.Murray, Feedback Systems: An Introduction for Scientists and Engineers*
 
 The concept first started to appear in Britain but it didn't have a name. One of the first artificial feedback device was a mercury thermostat to regulate temperature of a chicken incubator in 1620 in England. It was built upon a similar device called thermoscope invented by Galileo in 1593. Feedback loops were applied to windmills, steam-engines, electronic amplifiers, circuits and many other well known inventions. [*On Governors*](https://www.maths.ed.ac.uk/~v1ranick/papers/maxwell1.pdf) written by James Clerk Maxwell in 1868 is widely considered a classic in feedback control theory. This was a landmark paper for more theories to evolve in the discipline of mathematics of feedback and control theory.
 
-**Homeostasis**: We might think if the output becomes the input, then the next output should be of higher intensity than the previous one. But that is not the case because there are two types of feedback loops—positive (reinforcing) and negative (balancing or goal-based) feedback loops. The key difference between positive and negative feedback is their response to change. Biological systems operate on a mechanism of inputs and outputs, each caused by and causing a certain event. Feedback loops are important because they allow living organisms to maintain homeostasis. Homeostasis is the mechanism that enables us to keep our internal environment relatively constant—not too hot, or too cold, not too hungry or tired.
+**Homeostasis**: We might think if the output becomes the input, then the next output should be of higher intensity than the previous one. But that is not the case because there are two types of feedback loops-positive (reinforcing) and negative (balancing or goal-based) feedback loops. The key difference between positive and negative feedback is their response to change. Biological systems operate on a mechanism of inputs and outputs, each caused by and causing a certain event. Feedback loops are important because they allow living organisms to maintain homeostasis. Homeostasis is the mechanism that enables us to keep our internal environment relatively constant-not too hot, or too cold, not too hungry or tired.
 
-**Positive feedback loop**: In *positive feedback loops*, the output gets amplified (either increasing or decreasing intensity). In other words, if the input leads to an increase in output, then the loop will lead to continuously increasing output. If the input decreases the output, then the loop will lead to continuously decreasing output. The curve of positive feedback loop is exponential—either exponential growth, or exponential decline. Positive feedback loops are effective for creating change, but generally result in negative consequences if not moderated by negative feedback loops. Many internet companies are the beneficiaries of positive feedback loops which help create the “network effect.” The more people that use a particular search engine or social network, the more honed the search results become, or the more useful the network becomes to the user. That’s one of the reasons why search networks are a “winner take all,” type of business model. These feedback loops will continue to reinforce themselves until regulators or anti-trust officials take action.
+**Positive feedback loop**: In *positive feedback loops*, the output gets amplified (either increasing or decreasing intensity). In other words, if the input leads to an increase in output, then the loop will lead to continuously increasing output. If the input decreases the output, then the loop will lead to continuously decreasing output. The curve of positive feedback loop is exponential-either exponential growth, or exponential decline. Positive feedback loops are effective for creating change, but generally result in negative consequences if not moderated by negative feedback loops. Many internet companies are the beneficiaries of positive feedback loops which help create the “network effect.” The more people that use a particular search engine or social network, the more honed the search results become, or the more useful the network becomes to the user. That’s one of the reasons why search networks are a “winner take all,” type of business model. These feedback loops will continue to reinforce themselves until regulators or anti-trust officials take action.
 
 **Negative feedback loop**: In *negative feedback loops* the system stays in equilibrium state whereas an uncontrolled positive feedback loop can cause a system to reach a critical state, a tipping point and then fundamentally change it. Negative feedback loops are also called balancing or goal-seeking loops. In such systems, there is a set limit (or goal), and the aim of the feedback mechanism is to stick to the set limits, thereby maintaining a balance. Negative feedback dampers output, stabilizes the system around an equilibrium point. Consider a thermostat regulating room temperature. This is an example of a negative feedback loop. As the temperature rises, the thermostat turns off the furnace allowing the room to rest at a predetermined temperature. When the temperature falls below that predetermined temperature the furnace reignites to return the room to its equilibrium state. Other examples include body temperature and financial markets.
 
@@ -282,11 +282,11 @@ The above calculation is generalized to explain the concept. However, between va
 
 **Factor of safety**: The economics use of steel depends upon quality and its working stress. Structures have two main problems, buckling and bending, and theories in calculating these two properties in steel were established in 1759 and 1826. To arrive at a reasonable working stress, a Factor of Safety against failure was assessed and this was generally taken as a quarter of the average ultimate strength of material. London City Council determined the working stress of steel and introduced a higher Factor of Safety to allow for imperfections in the material. Factor of Safety has evolved and even introduced in other industries mandated by the Federal Airworthiness Regulation.
 
-> Unless otherwise specified, a factor of 1.5 must be applied to the prescribed limit loads which are considered external loads on the structure. This is enforced by civilian and military transport authorities and has the force of law within the United States. — NASA
+> Unless otherwise specified, a factor of 1.5 must be applied to the prescribed limit loads which are considered external loads on the structure. This is enforced by civilian and military transport authorities and has the force of law within the United States. - NASA
 
 Margin of safety originated from engineering. Many structural projects within government and private sector apply *Factor of Safety (FoS)* to ensure the structural safety.
 
-> In engineering, a factor of safety (FoS), also known as (and used interchangeably with) safety factor (SF), expresses how much stronger a system is than it needs to be for an intended load. Safety factors are often calculated using detailed analysis because comprehensive testing is impractical on many projects, such as bridges and buildings, but the structure's ability to carry a load must be determined to a reasonable accuracy. Many systems are intentionally built much stronger than needed for normal usage to allow for emergency situations, unexpected loads, misuse, or degradation (reliability). — Wikipedia
+> In engineering, a factor of safety (FoS), also known as (and used interchangeably with) safety factor (SF), expresses how much stronger a system is than it needs to be for an intended load. Safety factors are often calculated using detailed analysis because comprehensive testing is impractical on many projects, such as bridges and buildings, but the structure's ability to carry a load must be determined to a reasonable accuracy. Many systems are intentionally built much stronger than needed for normal usage to allow for emergency situations, unexpected loads, misuse, or degradation (reliability). - Wikipedia
 
 **Limitations of margin of safety**: Clearly, the margin of safety model is very powerful, and we’re wise to use it whenever possible to avoid failure. But it has limitations. If time and money are the most important resources, does it make sense to utilize those resources to fail-proof a material to such an extent that any extra unit spent on making it safe does not make it safer? For example, how do you account for weather conditions? Or, how do you account for future government policies when you are investing in a stock market? In both instances, while doing analysis, you have to realize we do not have control over external factors which makes it hard to fail-proof a structure or a system. While also conducting detailed analysis, you have to ensure the biases baked into data or old set of data that is no longer relevant. Judgment is another one. When it comes to things like terrorist attacks, people are not concerned about false alarms. However, using probability of an event can suggest a likelihood of an event such as terroristic attack is very low. The margin-of-safety calculation can be exaggerated without careful judgment.
 
@@ -370,7 +370,7 @@ Mental models are an example of leverage.  They can be leveraged to apply to the
 
 Archimedes is credited for the principles of leverage. While Archimedes did not invent the lever, he explained the concept of leverage in his literature work, *On the Equilibrium of Planes.* Archimedes designed pulley systems, allowing sailors to use the principle of leverage to lift objects that would otherwise have been too heavy to move.
 
-> Give me a place to stand on, and I will move the Earth. — Archimedes
+> Give me a place to stand on, and I will move the Earth. - Archimedes
 
 Leverage refers to the ability to gain an advantage through the use of a tool, and is measured as the ratio of the change in output to the change in input. Focusing on high leverage activities then becomes important. For small amount of additional input, a large increase in output leads to maximizing our scarcest resource which is time. Though leverage is a scientific concept, it has many other applications. In complex systems, leverage plays an important role.
 
@@ -380,13 +380,13 @@ Whether in system analysis or decision-making, you should always think of applyi
 
 **Negotiations**: Why do we always pay more for food at the airport, theaters or theme parks? These businesses don't have alternative offerings giving them the ultimate leverage on prices.
 
-> Money is not equal for all people. A strong personal brand adds more lift and leverage. One dollar from me may buy a soda from a car dealership, but one dollar from Justin Bieber may get him a Ferrari. And they'd pay him to drive away. — Jarod Kintz
+> Money is not equal for all people. A strong personal brand adds more lift and leverage. One dollar from me may buy a soda from a car dealership, but one dollar from Justin Bieber may get him a Ferrari. And they'd pay him to drive away. - Jarod Kintz
 
 **Wealth**: Use leverage to build wealth. How can you maximize beyond the hourly input-output? Leverage! If you can only earn with your time on hourly basis, the only way to build wealth is with deep specializations in medicine (doctor), law (lawyer), software (engineering), etc. Using leverage you can go beyond hourly input-output boundaries. When using leverage tools such as money, employees, or products, you can create more value for more people in the same amount of time.
 
-> Humans evolved in societies where there was no leverage. If I was chopping wood or carrying water for you, you knew eight hours put in would be equal to about eight hours of output. Now we’ve invented leverage — through capital, cooperation, technology, productivity, all these means. We live in an age of leverage. As a worker, you want to be as leveraged as possible, so you have a huge impact without as much time or physical effort. — Naval
+> Humans evolved in societies where there was no leverage. If I was chopping wood or carrying water for you, you knew eight hours put in would be equal to about eight hours of output. Now we’ve invented leverage - through capital, cooperation, technology, productivity, all these means. We live in an age of leverage. As a worker, you want to be as leveraged as possible, so you have a huge impact without as much time or physical effort. - Naval
 
-> A leveraged worker can out-produce a non-leveraged worker by a factor of 1,000 or 10,000. With a leveraged worker, judgment is far more important than how much time they put in or how hard they work. — Naval
+> A leveraged worker can out-produce a non-leveraged worker by a factor of 1,000 or 10,000. With a leveraged worker, judgment is far more important than how much time they put in or how hard they work. - Naval
 
  <br>
 </details>
@@ -398,17 +398,17 @@ Whether in system analysis or decision-making, you should always think of applyi
 
 The amount of reactant necessary for something to happen and to keep happening.
 
-A tipping point when the change is slow at first, but then suddenly leads to an explosive change. The concept is critical in understanding the phenomenon of virality. When a nuclear reaction happens, neutrons are released and can cause another reaction. The smallest amount of a material needed to self-sustain a nuclear chain reaction is said to be the critical mass. In social dynamics, critical mass is a sufficient number of adopters of a new idea, technology or innovation in a social system so that the rate of adoption becomes self-sustaining and creates further growth. The point at which critical mass is achieved is sometimes referred to as a threshold within the threshold model of statistical modeling. The notion of a critical mass—that comes out of physics—is a very powerful model.
+A tipping point when the change is slow at first, but then suddenly leads to an explosive change. The concept is critical in understanding the phenomenon of virality. When a nuclear reaction happens, neutrons are released and can cause another reaction. The smallest amount of a material needed to self-sustain a nuclear chain reaction is said to be the critical mass. In social dynamics, critical mass is a sufficient number of adopters of a new idea, technology or innovation in a social system so that the rate of adoption becomes self-sustaining and creates further growth. The point at which critical mass is achieved is sometimes referred to as a threshold within the threshold model of statistical modeling. The notion of a critical mass-that comes out of physics-is a very powerful model.
 
-**Nuclear physics**: Critical mass is defined as the minimum amount of a fissile material required to self-sustaining fission reaction. Critical mass might vary on several factors such as—material, density or its shape. In some nuclear reactions, a reflector made of beryllium is used to speed up the process of reaching critical mass.
+**Nuclear physics**: Critical mass is defined as the minimum amount of a fissile material required to self-sustaining fission reaction. Critical mass might vary on several factors such as-material, density or its shape. In some nuclear reactions, a reflector made of beryllium is used to speed up the process of reaching critical mass.
 
 **Tipping point**: Both *Critical Mass* and *Tipping Point* have become interchangeable. Mark Granovetter has done research on a model of how fads are created. Consider a hypothetical mob assuming that each person's decision whether to riot or not is dependent on what everyone else is doing. Instigators will begin rioting even if no one else is, while others need to see a critical number of trouble makers before they riot, too. This threshold is assumed to be distributed to some probability distribution. The outcomes may diverge largely although the initial condition of threshold may only differ very slightly. This threshold model of social behavior was proposed previously by Thomas Schelling and later popularized by Malcolm Gladwell's book *The Tipping Point*. Malcolm Gladwell describes tipping point as “the moment of critical mass, the threshold, the boiling point.” He describes ideas, products, messages and behaviors spread just like viruses do.
 
-> Look at the world around you. It may seem like an immovable, implacable place. It is not, with the slightest push in just the right place it can be tipped. — Malcolm Gladwell
+> Look at the world around you. It may seem like an immovable, implacable place. It is not, with the slightest push in just the right place it can be tipped. - Malcolm Gladwell
 
 **Sociology**: A critical mass can form from a group of people who make a drastic change by altering their behavior, opinions or actions. When enough people follow new ideas, it can become a reality.
 
-**Geology**: A critical mass can occur from tiny natural evolution. Andrew H Knoll, a famous geologist, in his book *A Brief History of Earth* explains that the early Earth was swaddled by a thick atmosphere, but it was air without oxygen. But that changed when Cyanobacteria came along causing the Earth's Greatest Oxygenation Event. Earth's Greatest Oxygenation Event (GOE) was revolutionary, and Cyanobacteria—the only bacteria capable of oxygenic photosynthesis—were the heroes of the revolution. Cyanobacteria gained the upper hand in a world that long favored different photosynthetic microbes. They dominated the planet by producing more oxygen than carbon. Enough Cyanobacteria tipped the oxygen level to sustain a modern life.
+**Geology**: A critical mass can occur from tiny natural evolution. Andrew H Knoll, a famous geologist, in his book *A Brief History of Earth* explains that the early Earth was swaddled by a thick atmosphere, but it was air without oxygen. But that changed when Cyanobacteria came along causing the Earth's Greatest Oxygenation Event. Earth's Greatest Oxygenation Event (GOE) was revolutionary, and Cyanobacteria-the only bacteria capable of oxygenic photosynthesis-were the heroes of the revolution. Cyanobacteria gained the upper hand in a world that long favored different photosynthetic microbes. They dominated the planet by producing more oxygen than carbon. Enough Cyanobacteria tipped the oxygen level to sustain a modern life.
 
 **Peter Bevelin on critical mass**: Peter Bevelin is an author of an excellent book *Seeking Wisdom* in which he explains critical mass.
 
@@ -433,7 +433,7 @@ A tipping point when the change is slow at first, but then suddenly leads to an 
 | _Multiply by zero_ | Anything multiplied by zero becomes zero no matter how big the preceding numbers are. |
 | _Combinations and permutations_ | Combinations and permutations are very important in calculating probabilities. |
 | _Power laws_ | Power law is one form of Pareto's principle where the proportion of 80/20 shifts to extreme proportion. |
-| _Inversion_ | The thinking in which you want opposite—both forward and backward. |
+| _Inversion_ | The thinking in which you want opposite-both forward and backward. |
 | _Compound interest_ | Compound interest is the interest you earn on the sum of your initial principal amount and the interest accumulated. |
 
 <details>
@@ -446,9 +446,9 @@ If you are in a system which multiplies numbers, and one of the numbers is zero,
 
 This is true in human systems as well as mathematical ones. 
 
-You can have everything working for you in your career—a great education, an excellent resume, and an impressive background—but none of that matters if you can’t deal with other people.
+You can have everything working for you in your career-a great education, an excellent resume, and an impressive background-but none of that matters if you can’t deal with other people.
 
-You can have plenty of healthy habits—get regular exercise, eat healthy, and meditate every morning—but if you’re not sleeping sufficiently, you’ll still have an increased risk of cancer, heart attack, and Alzheimer’s disease.
+You can have plenty of healthy habits-get regular exercise, eat healthy, and meditate every morning-but if you’re not sleeping sufficiently, you’ll still have an increased risk of cancer, heart attack, and Alzheimer’s disease.
 
 Warren Buffett:
 
@@ -495,7 +495,7 @@ Power law is a well known concept in seismology, the study of earthquakes. A lar
 
 ***Y=MX^N***
 
-*Y* is a function, *X* is the variable you can change, *N* is the exponent that you can scale and *M* is a constant that does not change. We'll explore two types of relationships— linear and non-linear relationships.
+*Y* is a function, *X* is the variable you can change, *N* is the exponent that you can scale and *M* is a constant that does not change. We'll explore two types of relationships- linear and non-linear relationships.
 
 **Linear relationships**: To double a chocolate recipe, you would need twice as much as cocoa. This is simply a linear relationship. Let's assume *M* (constant) is equal to 1 and *N* (exponent) is equal to 2. Ignore *M* here because anything you multiply with 1 will yield the original number. So let's plug some numbers in the equation (*Y= X^N*) and the *Y* will yield the following:
 
@@ -514,7 +514,7 @@ Michael Phelps has a low and a constant *M* because of some combination of his
 - Y yields to 2 when N is 0.5, X is 4 and M is 1
 - Y yields to 4 when N is 0.5, X is 16 and M is 1
 
-Let's compare the two scenarios from above and see how it translates into his performance and training. In the first scenario above, Michael Phelps swims 4 extra miles (*X* variable for which he has control over) during his training which leads to an endurance of 2 (*Y*). In the second scenario, he has to swim 4 times more (16 miles) to double his endurance from 2 to 4. As you increase *X*, you are likely to see an exponent of *N* decline. So increasing *X* of 16 to 64 is unlikely to double the endurance again. Eventually, the ratio of swimming extra lanes to an endurance will become nearly infinite. This is called diminishing returns— no matter how much more training time you put in, it will yield to a negligible or less positive result.
+Let's compare the two scenarios from above and see how it translates into his performance and training. In the first scenario above, Michael Phelps swims 4 extra miles (*X* variable for which he has control over) during his training which leads to an endurance of 2 (*Y*). In the second scenario, he has to swim 4 times more (16 miles) to double his endurance from 2 to 4. As you increase *X*, you are likely to see an exponent of *N* decline. So increasing *X* of 16 to 64 is unlikely to double the endurance again. Eventually, the ratio of swimming extra lanes to an endurance will become nearly infinite. This is called diminishing returns- no matter how much more training time you put in, it will yield to a negligible or less positive result.
 
 What happens when an exponent of *N* is negative? Le't take a scenario where Michael Phelps is injured.
 
@@ -523,13 +523,13 @@ What happens when an exponent of *N* is negative? Le't take a scenario where M
 
 In the first scenario, swimming 4 extra miles leads to only 0.5 a mile of endurance. In the second scenario that progress shrinks by half again. This wouldn't be smart way to train for Michael Phelps because more training leads to less endurance. This is an inverse relationship between the exponent *X* and *Y*. Power law is complex to understand, but once you understand it becomes easy to see the world as is.
 
-> The greatest shortcoming of the human race is our inability to understand the exponential function. — Albert Allen Bartlett
+> The greatest shortcoming of the human race is our inability to understand the exponential function. - Albert Allen Bartlett
 
 **Higher order power laws**:
 
 We already know, when *N* is 1, it is called a linear relationship, also called a first-order power law. When *N* is 2, it is called a second-order power law. Commonly found in physics concepts such as kinetic energy. When *N* is 3, it is called a third-order power law. This law is applicable in wind turbines. When N is *4*, it is called a fourth-order power law. This law is applicable in heat radiation.
 
-> We don’t live in a normal world; we live under a power law. — Peter Thiel
+> We don’t live in a normal world; we live under a power law. - Peter Thiel
 
 **Diminishing returns**: As per everything else, power law should not be a singular lens to see the world. Like everything else, it requires a detailed analysis. As explained earlier, Michael Phelps cannot just rely on putting in more time to get a small percentage of endurance. Power laws have limitations such as law of diminishing return. The exponent starts declining in some applications, no matter how much extra time you put in. There is a perfect example of diminishing return to happiness when you make more money. Most people assume making more money will bring more happiness. But that is not the case. Being able to enjoy basic needs will certainly bring happiness. So, earning from $20k to $60k will bring in joy, but earning from $100k to $115k leads to little change in well-being.
 
@@ -546,23 +546,23 @@ We already know, when *N* is 1, it is called a linear relationship, also calle
     <summary><strong>Inversion</strong></summary>
     <br>
 
-The thinking in which you want opposite—both forward and backward.
+The thinking in which you want opposite-both forward and backward.
 
-Regardless of age, everyone is thinking about success. A common question amongst many—what does *success* mean? But what if we went even one step further about this curiosity? What does *failure* look like? Thinking through inversion broadens your risk analysis in every aspect of life. The thinking in which you want opposite — not only thinking forward but also thinking backward. This trick is a powerful idea because it de-biases us from having blinders. The goal of this exercise is to envision the negativity in any event so that it can be avoided. Inversion allows us to look at things in the opposite way. This can be particularly useful in solving complex problems, helping to see them in a different way. For example, the inverse of a simple addition would be subtraction from the total. The power of inverse thinking is a rare and crucial skill that all great thinkers use to their own advantage. Becoming successful—is the mantra of human ideology that dominates reality. Complimenting opposite of imagining success with imaging failure can give you a full picture before you make any decisions. Being positive and negative is complimentary. Avoiding failure is equally important in being successful.
+Regardless of age, everyone is thinking about success. A common question amongst many-what does *success* mean? But what if we went even one step further about this curiosity? What does *failure* look like? Thinking through inversion broadens your risk analysis in every aspect of life. The thinking in which you want opposite - not only thinking forward but also thinking backward. This trick is a powerful idea because it de-biases us from having blinders. The goal of this exercise is to envision the negativity in any event so that it can be avoided. Inversion allows us to look at things in the opposite way. This can be particularly useful in solving complex problems, helping to see them in a different way. For example, the inverse of a simple addition would be subtraction from the total. The power of inverse thinking is a rare and crucial skill that all great thinkers use to their own advantage. Becoming successful-is the mantra of human ideology that dominates reality. Complimenting opposite of imagining success with imaging failure can give you a full picture before you make any decisions. Being positive and negative is complimentary. Avoiding failure is equally important in being successful.
 
-**Stoics**: Stoics (early 3rd century BC)—followed the inversion process to eliminate the worst case scenario by thinking backwards and avoiding any failures. The ancient Stoic philosophers like Marcus Aurelius, Seneca, and Epictetus regularly conducted an exercise known as a *premeditatio malorum*, which translates to *premeditation of evils*. The goal of this exercise was to envision the negative things that could happen in life. For example, the Stoics would imagine what it would be like to lose their job and become homeless. Or to suffer an injury and become paralyzed. Or to have their reputation ruined and lose their status in society.
+**Stoics**: Stoics (early 3rd century BC)-followed the inversion process to eliminate the worst case scenario by thinking backwards and avoiding any failures. The ancient Stoic philosophers like Marcus Aurelius, Seneca, and Epictetus regularly conducted an exercise known as a *premeditatio malorum*, which translates to *premeditation of evils*. The goal of this exercise was to envision the negative things that could happen in life. For example, the Stoics would imagine what it would be like to lose their job and become homeless. Or to suffer an injury and become paralyzed. Or to have their reputation ruined and lose their status in society.
 
-**Carl Jacaboi**: Carl Jacaboi (1804–1851) was a German mathematician, who made contributions to elliptic functions, dynamics, differential equations and number theory. These theories are still applicable in our modern age. How was Jacobi able to contribute so much to the scientific field during his career? He was known for his ability to solve complex problems by following a simple strategy—*Invert, always invert (man muss immer umkehren)*, conveying his belief that the solution of many hard problems can be clarified by re-stating them in an inverse form (reverse-engineer). He would write down the opposite of the problem he was trying to solve. By conducting this exercise he was able to resolve many theoretical problems.
+**Carl Jacaboi**: Carl Jacaboi (1804–1851) was a German mathematician, who made contributions to elliptic functions, dynamics, differential equations and number theory. These theories are still applicable in our modern age. How was Jacobi able to contribute so much to the scientific field during his career? He was known for his ability to solve complex problems by following a simple strategy-*Invert, always invert (man muss immer umkehren)*, conveying his belief that the solution of many hard problems can be clarified by re-stating them in an inverse form (reverse-engineer). He would write down the opposite of the problem he was trying to solve. By conducting this exercise he was able to resolve many theoretical problems.
 
 **Subtractive knowledge**: Subtractive knowledge is when you envision negative things and then subtracting what is not important or what is wrong from the total. Additive measures manifest in form of an urge to do something about a problem which may not need any intervention. Subtractive measures adhere to the philosophy of *don’t try to fix something which ain’t broken.* Nassim Taleb also employs *subtractive epistemology*. He argues that the greatest and most robust contribution to learning and knowledge consists of removing what we think is wrong. What does not work, that is negative knowledge, is more robust than positive knowledge.
 
-**Avoid stupidity**: Avoiding stupidity is another way to apply inversion in your life. It’s a choice between avoiding stupidity and seeking brilliance. You can avoid a bad marriage by being loyal to your significant other. Or in life, you can avoid death by staying away from alcohol and drugs. Another way to apply inversion is to not only find role models but also find anti-role models — people you don’t want to resemble when you grow up. You want to avoid the path they took. Ambitious young people can find a lot of success in this type of thinking.
+**Avoid stupidity**: Avoiding stupidity is another way to apply inversion in your life. It’s a choice between avoiding stupidity and seeking brilliance. You can avoid a bad marriage by being loyal to your significant other. Or in life, you can avoid death by staying away from alcohol and drugs. Another way to apply inversion is to not only find role models but also find anti-role models - people you don’t want to resemble when you grow up. You want to avoid the path they took. Ambitious young people can find a lot of success in this type of thinking.
 
-**90 days**: Another great implementation of inversion was by the CTO of Pandora. Pandora faced immense competition from Spotify, Apple Music, Google, and Amazon. However, it still managed to stay alive despite the heavy competition. 90 days is the length of one quarter. That’s how far you can reasonably think and plan ahead when you’re in hyper-growth. He asks—“*And there’s a question you have to ask yourself at the start of every quarter: What would be stupid for us not to do in the next 90 days?*”
+**90 days**: Another great implementation of inversion was by the CTO of Pandora. Pandora faced immense competition from Spotify, Apple Music, Google, and Amazon. However, it still managed to stay alive despite the heavy competition. 90 days is the length of one quarter. That’s how far you can reasonably think and plan ahead when you’re in hyper-growth. He asks-“*And there’s a question you have to ask yourself at the start of every quarter: What would be stupid for us not to do in the next 90 days?*”
 
 **Munger on inversion**: Charlie Munger is one of the greatest thinkers of the 21st century. Charlie Munger has adopted an approach to solving problems that is the reverse of the approach many people use in life. He avoids misery. Munger once gave a speech where he spoke about a famous Johnny Carson talk in which the comedian described all the ways one can be miserable. Munger is also commonly famous for saying “*Invert always invert.*”
 
-> Think forwards and backwards — invert, always invert. Many hard problems are best solved when they are addressed backward. The way complex adaptive systems work and the way mental constructs work is that problems frequently get easier, I’d even say usually are easier to solve, if you turn them around in reverse. In other words, if you want to help India, the question you should ask is not “how can I help India,” it’s “what is doing the worst damage in India? What will automatically do the worst damage and how do I avoid it?” Figure out what you don’t want and avoid it and you’ll get what you do want. How can you best get what you want? The answer: Deserve what you want! How can it be any other way? The great Algebra pioneer Jacobi knew that it is in the nature of things that many hard problems are best solved when they are addressed backward. In life, unless you’re more gifted than Einstein, inversion will help you solve problems.
+> Think forwards and backwards - invert, always invert. Many hard problems are best solved when they are addressed backward. The way complex adaptive systems work and the way mental constructs work is that problems frequently get easier, I’d even say usually are easier to solve, if you turn them around in reverse. In other words, if you want to help India, the question you should ask is not “how can I help India,” it’s “what is doing the worst damage in India? What will automatically do the worst damage and how do I avoid it?” Figure out what you don’t want and avoid it and you’ll get what you do want. How can you best get what you want? The answer: Deserve what you want! How can it be any other way? The great Algebra pioneer Jacobi knew that it is in the nature of things that many hard problems are best solved when they are addressed backward. In life, unless you’re more gifted than Einstein, inversion will help you solve problems.
 
 > Let me use a little inversion now. What will really fail in life? What do you want to avoid? Having a certain kind of temperament is more important than brains. You need to keep raw irrational emotion under control. When you have a huge convulsion, like a fire in this auditorium right now, you do get a lot of weird behavior. If you can be wise [during such times, you’ll profit]. It is remarkable how much long-term advantage [we] have gotten by trying to be consistently not stupid, instead of trying to be very intelligent.
 
@@ -650,7 +650,7 @@ Once a social agent gains a small advantage over other agents, that advantage wi
 
 A common example of Cumulative Advantage is that a prize will almost always be awarded to the most senior researcher involved in a project, even if all the work was done by a graduate student. The senior researched has accumulated that advantage. 
 
-Matthew effect in knowledge acquisition—a person with more expertise has a larger knowledge base, and the large knowledge base allows that person to acquire even greater expertise at a faster rate. As you learn to read more, your capacity to read even more and absorb more increases rapidly.
+Matthew effect in knowledge acquisition-a person with more expertise has a larger knowledge base, and the large knowledge base allows that person to acquire even greater expertise at a faster rate. As you learn to read more, your capacity to read even more and absorb more increases rapidly.
 
 While luck plays a role in success, an early advantage, no matter how small, can change the future course of events.
 
@@ -698,7 +698,7 @@ Concepts to apply probabilistic thinking:
 - Stochastic (Random) Processes: Statistical processes used to probabilistically describe systems which evolve over time due to random changes of independent variables.
 - Normal Distribution (a.k.a., Bell Curve): The visualization of a continuous probability distribution for a random variable often ends up shaped like a bell, with a protruding middle that symmetrically shortens to tails at both ends.
 - Subadditivity effect: The tendency to judge probability of the whole to be less than the probabilities of the parts.
-- The Conjunctive Events Bias: We often overestimate the likelihood of conjunctive events—occurrences that must happen in conjunction with one another. The probability of a series of conjunctive events happening is lower than the probability of any individual event.
+- The Conjunctive Events Bias: We often overestimate the likelihood of conjunctive events-occurrences that must happen in conjunction with one another. The probability of a series of conjunctive events happening is lower than the probability of any individual event.
 
 Charlie Munger:
 
@@ -805,7 +805,7 @@ A phenomenon by which each incremental user of a product or service adds value t
 
 A great example is social media: the more people who sign up for a social network, the more valuable and attractive that social network is to the average person.
 
-The idea originated with Theodore Vail, the president of American Telephone and Telegraph (AT&T). In the company's 1908 annual report, Vail wrote, "[The telephone's] value depends on the connection with the other telephones — and increases with the number of connections."
+The idea originated with Theodore Vail, the president of American Telephone and Telegraph (AT&T). In the company's 1908 annual report, Vail wrote, "[The telephone's] value depends on the connection with the other telephones - and increases with the number of connections."
 
 Network effects exist when the “value” of a format or system depends on the number of users. These effects can be positive (for example, a telephone network) or negative (for example, congestion). They can also be direct (increases in usage lead to direct increases in value to users, as with the telephone) or indirect (usage increases the production of complementary goods, as with cases for mobile phones). Network effects can protect valuable markets, or not much of a market at all in terms of financial value.
 
@@ -906,27 +906,27 @@ Mean is just another word for average. Regression to the mean explains why extre
 
 **Business & investing**: Regression to the mean is powerful in business and investing. Periods of above averages are followed by below averages and vice-versa. As Charlie Munger said in Poor Charlie’s Almanack:
 
-> Mimicking the herd invites regression to the mean. — Charlie Munger
+> Mimicking the herd invites regression to the mean. - Charlie Munger
 
 His investing partner Warren Buffett puts it in another way:
 
-> Most people get interested in stocks when everyone else is. The time to get interested is when no one else is. You can’t buy what is popular and do well. — Warren Buffett
+> Most people get interested in stocks when everyone else is. The time to get interested is when no one else is. You can’t buy what is popular and do well. - Warren Buffett
 
 Jason Zweig who is a successful financial journalist at Wall Street Journal writes:
 
-> My role, therefore, is to bet on regression to the mean even as most investors, and financial journalists, are betting against it. I try to talk readers out of chasing whatever is hot and, instead, to think about investing in what is not hot. Instead of pandering to investors’ own worst tendencies, I try to push back. My role is also to remind them constantly that knowing what not to do is much more important than what to do. Approximately 99% of the time, the single most important thing investors should do is absolutely nothing. — Jason Zweig
+> My role, therefore, is to bet on regression to the mean even as most investors, and financial journalists, are betting against it. I try to talk readers out of chasing whatever is hot and, instead, to think about investing in what is not hot. Instead of pandering to investors’ own worst tendencies, I try to push back. My role is also to remind them constantly that knowing what not to do is much more important than what to do. Approximately 99% of the time, the single most important thing investors should do is absolutely nothing. - Jason Zweig
 
 Peter Bevelin who is another notable and well respected investor shares his thoughts.
 
-> Regression to the mean is not a natural law. Merely a statistical tendency. And it may take a long time before it happens. — Peter Bevelin
+> Regression to the mean is not a natural law. Merely a statistical tendency. And it may take a long time before it happens. - Peter Bevelin
 
 Michael Mauboussin is a researcher in the investing world.
 
-> Understanding and using the phenomenon of reversion to the mean is essential in making sound predictions [decisions]… Reversion to the mean is most pronounced at the extremes, so the first lesson is to recognize that when you see extremely good or bad results, they are unlikely to continue that way. This doesn’t mean that good results will necessarily be followed by bad results, or vice versa, but rather that the next thing that happens will probably be closer to the average of all things that happen. — Michael Mauboussin
+> Understanding and using the phenomenon of reversion to the mean is essential in making sound predictions [decisions]… Reversion to the mean is most pronounced at the extremes, so the first lesson is to recognize that when you see extremely good or bad results, they are unlikely to continue that way. This doesn’t mean that good results will necessarily be followed by bad results, or vice versa, but rather that the next thing that happens will probably be closer to the average of all things that happen. - Michael Mauboussin
 
 **Sports**: Regression to the mean can frequently be observed in sports. Let's take Michael Jordan for example, one of the best basketball players who has two talented sons, but nowhere near to Jordan's level. They were both talented, but didn't make it to the NBA. The same phenomenon is justified for individual performances via speculation. We ought to remember chance plays a big role. A pro-runner sprinting at a record mileage against heavy wind will lead to mediocre results. And an average athlete running in favor of heavy wind will lead to spectacular results. But when there is no wind, things will even out over time. Nassim Taleb observes in his book Fooled by Randomness:
 
-> The ‘hot hand in basketball’ is another example of misperception of random sequences: It is very likely in a large sample of players for one of them to have an inordinately lengthy lucky streak. As a matter of fact it is very unlikely that an unspecified player somewhere doesn’t have an inordinately lengthy lucky streak. This is a manifestation of the mechanism called regression to the mean….in real life, the larger the deviation from the norm, the larger the probability of it coming from luck rather than skills…This can be easily verified in stories of very prominent people in trading rapidly reverting to obscurity, like the heroes I used to watch in trading rooms. — Nassim Taleb
+> The ‘hot hand in basketball’ is another example of misperception of random sequences: It is very likely in a large sample of players for one of them to have an inordinately lengthy lucky streak. As a matter of fact it is very unlikely that an unspecified player somewhere doesn’t have an inordinately lengthy lucky streak. This is a manifestation of the mechanism called regression to the mean….in real life, the larger the deviation from the norm, the larger the probability of it coming from luck rather than skills…This can be easily verified in stories of very prominent people in trading rapidly reverting to obscurity, like the heroes I used to watch in trading rooms. - Nassim Taleb
 
 **Correlation & regression**: Regression to the mean occurs whenever a nonrandom sample is selected from a population and two imperfectly correlated variables are measured. The less correlated the two variables, the larger the effect of regression to the mean. The more extreme the value from the population mean, the more room there is to regress to the mean. Galton figured out that correlation and regression are not two concepts and they are different perspectives of the same concept. The general rule is whenever the correlation between two scores is imperfect, there will be regression to the mean. More explanation from [Wikipedia](https://simple.wikipedia.org/wiki/Regression_toward_the_mean):
 
@@ -950,7 +950,7 @@ The temperature of the earth has been warming over the years. The number of pira
 
 **Correlation does not cause causation**: *Correlation does not imply causation* is a common phrase in the field of statistics. This phrase refers to the inability to reach a cause-and-effect relationship between two variables on the basis of an observed correlation between the variables. In technical terms of logic, *implies* means there is a *sufficient condition for*. Statisticians often refer to this as *causation is not certain*. Where there is causation, there is correlation. Correlation is often used in concluding causation because it is a necessary condition, it is not a sufficient condition.
 
-> We do not have knowledge of a thing until we have grasped its why, that is to say, its cause. — Aristotle
+> We do not have knowledge of a thing until we have grasped its why, that is to say, its cause. - Aristotle
 
 **Causal analysis**: Causal analysis is the field of experimental design and statistics pertaining to establishing cause and effect. For any two correlated events, A and B, their possible relationships include:
 
@@ -965,14 +965,14 @@ Thus there can be no conclusion made regarding the *existence* or the *direct
 **Illogical conclusions**: Following are examples of illogical conclusions:
 
 - _Reverse causation_: B causes A where cause and effect are reversed**‍**
-    - ‍Example 1: The faster that windmills are observed to rotate, the more wind is observed. Wind velocity does not imply that wind is caused by windmills. It is the other way around — wind doesn't need windmills, while windmills need to wind to rotate. Wind can be observed where there are no windmills.**‍**
-    - Example 2: Children that watch a lot of TV are the most violent. Clearly, TV makes children more violent. This could easily be the other way round — violent children like watching more TV than less violent ones.
+    - ‍Example 1: The faster that windmills are observed to rotate, the more wind is observed. Wind velocity does not imply that wind is caused by windmills. It is the other way around - wind doesn't need windmills, while windmills need to wind to rotate. Wind can be observed where there are no windmills.**‍**
+    - Example 2: Children that watch a lot of TV are the most violent. Clearly, TV makes children more violent. This could easily be the other way round - violent children like watching more TV than less violent ones.
 
 - _Third causation_: C causes both A and B where it asserts that A causes B when, in reality, A and B are both caused by C
     - Example 1: Sleeping with shoes on is strongly correlated with waking up with a headache. This prematurely concludes that sleeping with shoes on causes headache. A more logical explanation could be that both are caused by a third factor which is going to bed drunk which gives rise to a correlation.
     - Example 2: As ice cream sales increase, the rate of drowning deaths increases sharply. Therefore, ice cream consumption causes drowning. This example fails to consider that people tend to engage in water activities such as swimming during hot weather than winter weather. Ice cream happens to be consumed more during the summer months. The increased drowning deaths are not due to ice cream.
 
-> One of the first things taught in introductory statistics textbooks is that correlation is not causation. It is also one of the first things forgotten. — Thomas Sowell
+> One of the first things taught in introductory statistics textbooks is that correlation is not causation. It is also one of the first things forgotten. - Thomas Sowell
 
  <br>
 </details>
@@ -988,15 +988,15 @@ It helps answer the question of what to change. You cannot change something if y
 
 **History**: The theory of Constraints (TOC) is a body of knowledge and a manufacturing and management methodology that was developed from the late 1970s by Israeli physicist Dr. Eliyahu Goldratt. He describes in his book, [The Goal](https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884270610), is that the performance of any system is fundamentally limited by the output of the bottleneck. Thus, no change to the system will result in overall improvement unless that change addresses the bottleneck. 
 
-> Any improvements made anywhere besides the bottleneck are an illusion. — Dr. Eliyahu Goldratt
+> Any improvements made anywhere besides the bottleneck are an illusion. - Dr. Eliyahu Goldratt
 
-> A Thinking Process that enables people to invent simple solutions to complex problems. — Dr. Eliyahu Goldratt
+> A Thinking Process that enables people to invent simple solutions to complex problems. - Dr. Eliyahu Goldratt
 
-> An expert is not someone who gives you an answer, an expert is someone who asks you the right question. — Dr. Eliyahu Goldratt
+> An expert is not someone who gives you an answer, an expert is someone who asks you the right question. - Dr. Eliyahu Goldratt
 
 **Constraint & bottleneck are not the same**: A constraint and bottleneck are not the same. It is critical to differentiate the two. Finding a constraint is a strategic initiative. It is a leverage point for a leadership team to identify. This is where value is created for customers, stakeholders and employees. A constraint is the bottleneck with the least capacity in the entire system, and it can be reasoned about as the “constraint” only once you decide to manage it. Whereas a bottleneck prevents a company to operate at its maximum capacity due to many reasons. A bottleneck is simply a resource that has more demand placed on it than capacity to delivery. 
 
-**Five focusing steps**: Theory of constraints is based on the premise that the rate of goal achievement by a goal-oriented system (i.e., the system's throughput) is limited by at least one constraint. The argument is if there was nothing preventing a system from achieving higher throughput (i.e., more goal units in a unit of time), its throughput would be infinite—which is impossible in a real-life system. Only by increasing flow through the constraint can overall throughput be increased. Goldratt proposed five Theory of Constraints steps, known as the five focusing steps. Assuming the goal of a system has been articulated and its measurements defined, the steps are:
+**Five focusing steps**: Theory of constraints is based on the premise that the rate of goal achievement by a goal-oriented system (i.e., the system's throughput) is limited by at least one constraint. The argument is if there was nothing preventing a system from achieving higher throughput (i.e., more goal units in a unit of time), its throughput would be infinite-which is impossible in a real-life system. Only by increasing flow through the constraint can overall throughput be increased. Goldratt proposed five Theory of Constraints steps, known as the five focusing steps. Assuming the goal of a system has been articulated and its measurements defined, the steps are:
 1. _Identify_ the system's constraint(s).
 2. _Decide_ how to _exploit_ the system's constraint(s).
 3. _Subordinate_ everything else to the above decision.
@@ -1097,9 +1097,9 @@ A game in which two separate prisoners are given two choices: confess or don't c
 
 **Business**: The dilemma in business.
 
-> Over the years, we had the option of making large capital expenditures in the textile operation that would have allowed us to somewhat reduce variable costs. Each proposal to do so looked like an immediate winner. Measured by standard return-on-investment tests, in fact, these proposals usually promised greater economic benefits than would have resulted from comparable expenditures in our highly-profitable candy and newspaper businesses. But the promised benefits from these textile investments were illusory. Many of our competitors, both domestic and foreign, were stepping up to the same kind of expenditures and, once enough companies did so, their reduced costs became the baseline for reduced prices industry-wide. Viewed individually, each company’s capital investment decision appeared cost-effective and rational; viewed collectively, the decisions neutralized each other and were irrational (just as happens when each person watching a parade decides he can see a little better if he stands on tiptoes). After each round of investment, all the players had more money in the game and returns remained anemic. — Warren Buffett
+> Over the years, we had the option of making large capital expenditures in the textile operation that would have allowed us to somewhat reduce variable costs. Each proposal to do so looked like an immediate winner. Measured by standard return-on-investment tests, in fact, these proposals usually promised greater economic benefits than would have resulted from comparable expenditures in our highly-profitable candy and newspaper businesses. But the promised benefits from these textile investments were illusory. Many of our competitors, both domestic and foreign, were stepping up to the same kind of expenditures and, once enough companies did so, their reduced costs became the baseline for reduced prices industry-wide. Viewed individually, each company’s capital investment decision appeared cost-effective and rational; viewed collectively, the decisions neutralized each other and were irrational (just as happens when each person watching a parade decides he can see a little better if he stands on tiptoes). After each round of investment, all the players had more money in the game and returns remained anemic. - Warren Buffett
 
-> How a firm interacts with other firms plays an important role in shaping sustainable value creation. Here we not only consider how many companies interact with their competitors, but how companies can co-evolve. Game Theory is one of the best tools to understand interaction. Game Theory forces managers to put themselves in the shoes of other players rather than viewing games solely from their own perspective.The classic two-player example of game theory is the prisoners’ dilemma. — Michael J. Mauboussin
+> How a firm interacts with other firms plays an important role in shaping sustainable value creation. Here we not only consider how many companies interact with their competitors, but how companies can co-evolve. Game Theory is one of the best tools to understand interaction. Game Theory forces managers to put themselves in the shoes of other players rather than viewing games solely from their own perspective.The classic two-player example of game theory is the prisoners’ dilemma. - Michael J. Mauboussin
 
  <br>
 </details>
@@ -1121,7 +1121,7 @@ Marginal does not mean average. The additional benefit per unit can have huge im
 
 Munger once described airlines industry as “marginal cost with wings”.
 
-> Over the years, we’ve tried to figure out why the competition in some markets gets sort of rational from the investor’s point of view so that the shareholders do well, and in other markets, there’s destructive competition that destroys shareholder wealth. If it’s a pure commodity like airline seats, you can understand why no one makes any money. As we sit here, just think of what airlines have given to the world—safe travel, greater experience, time with your loved ones, you name it. Yet, the net amount of money that’s been made by the shareholders of airlines since Kitty Hawk, is now a negative figure—a substantial negative figure. Competition was so intense that, once it was unleashed by deregulation, it ravaged shareholder wealth in the airline business.
+> Over the years, we’ve tried to figure out why the competition in some markets gets sort of rational from the investor’s point of view so that the shareholders do well, and in other markets, there’s destructive competition that destroys shareholder wealth. If it’s a pure commodity like airline seats, you can understand why no one makes any money. As we sit here, just think of what airlines have given to the world-safe travel, greater experience, time with your loved ones, you name it. Yet, the net amount of money that’s been made by the shareholders of airlines since Kitty Hawk, is now a negative figure-a substantial negative figure. Competition was so intense that, once it was unleashed by deregulation, it ravaged shareholder wealth in the airline business.
 
 Marginal analysis can be used to analyze information consumption. Some might call it knowledge. There is a marginal return to information, and it often reaches zero, or even negative. The marginal return of information is the relationship between a “unit” increase in information and the value created by that new knowledge. A student who has never read a book on Computer Science, but picks it up for the first time, the marginal value of information is high. However with every additional textbook on Computer Science, there are diminishing returns to be seen. The marginal value of each additional textbook gets smaller and smaller. Understanding this ensures there are downside to consuming more.
 
@@ -1201,7 +1201,7 @@ The point at which the supply and the demand curves meet is called as the equili
 
 Technological improvement increases supply. Is this good for you as a business owner? It depends on the type of business that you are doing. If you are in the commodity business and there is already an excess supply situation then technology is not going to help you as a business owner. In Elementary worldly wisdom Munger writes:
 
-“The great lesson in microeconomics is to discriminate between when technology is going to help you and when it’s going to kill you. And most people do not get this straight in their heads. But a fellow like Buffett does. For example, when we were in the textile business, which is a terrible commodity business, we were making low-end textiles—which are a real commodity product. And one day, the people came to Warren and said, “They’ve invented a new loom that we think will do twice as much work as our old ones. And Warren said, “Gee, I hope this doesn’t work because if it does, I’m going to close the mill.” And he meant it. What was he thinking? He was thinking, “It’s a lousy business. We’re earning substandard returns and keeping it open just to be nice to the elderly workers. But we’re not going to put huge amounts of new capital into a lousy business. And he knew that the huge productivity increases that would come from a better machine introduced into the production of a commodity product would all go to the benefit of the buyers of the textiles. Nothing was going to stick to our ribs as owners. That’s such an obvious concept—that there are all kinds of wonderful new inventions that give you nothing as owners except the opportunity to spend a lot more money in a business that’s still going to be lousy. The money still won’t come to you. All of the advantages from great improvements are going to flow through to the customers.”
+“The great lesson in microeconomics is to discriminate between when technology is going to help you and when it’s going to kill you. And most people do not get this straight in their heads. But a fellow like Buffett does. For example, when we were in the textile business, which is a terrible commodity business, we were making low-end textiles-which are a real commodity product. And one day, the people came to Warren and said, “They’ve invented a new loom that we think will do twice as much work as our old ones. And Warren said, “Gee, I hope this doesn’t work because if it does, I’m going to close the mill.” And he meant it. What was he thinking? He was thinking, “It’s a lousy business. We’re earning substandard returns and keeping it open just to be nice to the elderly workers. But we’re not going to put huge amounts of new capital into a lousy business. And he knew that the huge productivity increases that would come from a better machine introduced into the production of a commodity product would all go to the benefit of the buyers of the textiles. Nothing was going to stick to our ribs as owners. That’s such an obvious concept-that there are all kinds of wonderful new inventions that give you nothing as owners except the opportunity to spend a lot more money in a business that’s still going to be lousy. The money still won’t come to you. All of the advantages from great improvements are going to flow through to the customers.”
 
 Charlie Munger on supply and demand:
 
@@ -1251,7 +1251,7 @@ In 1935, English economist Lionel Robbins described economics as the science of 
 
 The principle of scarcity states that people assign more value to opportunities when they are less available. In other words, things seem more valuable to us when their availability is limited. This bias stems from the basic human tendency to shun losses.
 
-“Limited Time, Going Fast”—is the most common punchline at a shopping store that artificially or naturally drives scarcity.
+“Limited Time, Going Fast”-is the most common punchline at a shopping store that artificially or naturally drives scarcity.
 
 In the environment of artificial scarcity, certain resources may not be limited. It is manipulating the perception of people about certain resources which may not really be scarce. That’s where psychology of scarcity bias comes into picture.
 
@@ -1285,7 +1285,7 @@ Benefits of scale include reducing costs, raising prices and testing new markets
 
 The Law of Scale can also allow for charging higher prices. One of Charlie’s favorite examples of higher prices is this Wrigley gum example in which I paraphrase Charlie: If you’re given a choice of paying $.30 for a pack of Wrigley Chewing Gum versus $.20 for “Schlotz’s Gum,” you’re likely going to choose to pay $.10 more for Wrigley because you’ve heard of it before.
 
-The law of scale also allows a business to test new customer acquisition. Charlie, in his USC speech, gives the example of how scale allowed Proctor and Gamble to enter the TV advertising market in the 1950′s and ’60s: “…in the early days, we had three networks that had whatever it was—say 90% of the audience. Well, if you were Procter & Gamble, you could afford to use this new method of advertising. You could afford the very expensive cost of network television because you were selling so many cans and bottles. Some little guy couldn’t. And there was no way of buying it in part. Therefore, he couldn’t use it. In effect, if you didn’t have a big volume, you couldn’t use network TV advertising which was the most effective technique. So when TV came in, the branded companies that were already big got a huge tail-wind.” 
+The law of scale also allows a business to test new customer acquisition. Charlie, in his USC speech, gives the example of how scale allowed Proctor and Gamble to enter the TV advertising market in the 1950′s and ’60s: “…in the early days, we had three networks that had whatever it was-say 90% of the audience. Well, if you were Procter & Gamble, you could afford to use this new method of advertising. You could afford the very expensive cost of network television because you were selling so many cans and bottles. Some little guy couldn’t. And there was no way of buying it in part. Therefore, he couldn’t use it. In effect, if you didn’t have a big volume, you couldn’t use network TV advertising which was the most effective technique. So when TV came in, the branded companies that were already big got a huge tail-wind.” 
 
 The law of scale can also have a “network effect” (think Google), providing the business who wields it with an ever-growing advantage to other parts of its business.
 
@@ -1323,11 +1323,11 @@ Marginal costs are any costs associated with increasing production to create one
 
 80% of the outcomes come from 20% of the action.
 
-Everyone has that favorite shirt in their closest which they wear 80% of the time. This is the essence of Pareto Principle. The smart thing to identify is what 20% of things in life drive 80% of the results. For many events, it can be shown that 80% of the effects come from 20% of the causes. Inputs are not directly relative to outputs. In business, 80% of revenue generally comes from 20% of the clients. This principle can help to show where to focus time and energy. The Pareto Principle also known as the *80/20* is an incredible helpful mental model to add it to your thinking toolbox. In a world where you are constantly bombarded with information, the Pareto Principle can help you make the right choices by shifting your focus and energy on tasks that would produce the most results. It is important to remember that there are only so many minutes in an hour, hours in a day, and days in a week. Pareto Principle can help you see that this is a good thing; otherwise, you’d have a never-ending list of things to do. So, you must always ask — what 20% of your work can drive 80% of the outcomes?
+Everyone has that favorite shirt in their closest which they wear 80% of the time. This is the essence of Pareto Principle. The smart thing to identify is what 20% of things in life drive 80% of the results. For many events, it can be shown that 80% of the effects come from 20% of the causes. Inputs are not directly relative to outputs. In business, 80% of revenue generally comes from 20% of the clients. This principle can help to show where to focus time and energy. The Pareto Principle also known as the *80/20* is an incredible helpful mental model to add it to your thinking toolbox. In a world where you are constantly bombarded with information, the Pareto Principle can help you make the right choices by shifting your focus and energy on tasks that would produce the most results. It is important to remember that there are only so many minutes in an hour, hours in a day, and days in a week. Pareto Principle can help you see that this is a good thing; otherwise, you’d have a never-ending list of things to do. So, you must always ask - what 20% of your work can drive 80% of the outcomes?
 
 **Vilfredo Damaso Pareto**: The Pareto Principle was founded by Vilfredo Damaso Pareto, an Italian economist in 1896. Pareto, an amateur gardener, noticed one day that 20% of the pea plants generated 80% of the healthy pea pods. This observation led him to think about uneven distribution. He observed this same principle elsewhere. For example, he also realized in Italy where he lived, 80% of the land was owned by 20% of the people. He further investigated different industries and found that 80% of production typically came from 20% of the companies. This generalization became the Pareto Principle.
 
-**Not a law**: Let’s also clarify the limitations of the Pareto Principle. While the 80/20 split is true for Pareto’s observation, that doesn’t necessarily mean that it always has to equal 100. For instance, 30 percent of employees can complete 60 percent of the total tasks. The remaining employees may not be as productive or may be slacking off on the job. This further reiterates that the Pareto Principle is merely an observation and not necessarily a law. With any mental model, it is important not to over apply it. The biggest takeaway the Pareto principle provides is the idea that most things in life are not distributed evenly. While you should be seeking to invest your time in the highest output activities, the fact remains that for many things, you canʼt just do 20% of the work for 80% of the result. Sometimes you need to grind out the last 20% — even if you are suffering diminishing returns — to get the job done. Building 80% of a car isnʼt the best strategy, nor is completing 80% of your research paper. Paretoʼs principle is a useful construct when analyzing efforts and outcomes. It can provide a useful framework for addressing many problems. It should be used liberally, but you should not forget that 20 percent is a general observation.
+**Not a law**: Let’s also clarify the limitations of the Pareto Principle. While the 80/20 split is true for Pareto’s observation, that doesn’t necessarily mean that it always has to equal 100. For instance, 30 percent of employees can complete 60 percent of the total tasks. The remaining employees may not be as productive or may be slacking off on the job. This further reiterates that the Pareto Principle is merely an observation and not necessarily a law. With any mental model, it is important not to over apply it. The biggest takeaway the Pareto principle provides is the idea that most things in life are not distributed evenly. While you should be seeking to invest your time in the highest output activities, the fact remains that for many things, you canʼt just do 20% of the work for 80% of the result. Sometimes you need to grind out the last 20% - even if you are suffering diminishing returns - to get the job done. Building 80% of a car isnʼt the best strategy, nor is completing 80% of your research paper. Paretoʼs principle is a useful construct when analyzing efforts and outcomes. It can provide a useful framework for addressing many problems. It should be used liberally, but you should not forget that 20 percent is a general observation.
 
  <br>
 </details>
@@ -1341,11 +1341,11 @@ A giving up of one thing in return for another to produce the most desirable out
 
 Teaching the tradeoff between short- and long-term gains often comes to play during parenting. Try this experiment: put a marshmallow in front of a child, tell her that she can have a second one if she can go 15 minutes without eating the first one, and then leave the room. Every decision has tradeoffs: when you choose to do one thing it means you choose not do other thing. Certain situations have two or more desirable outcomes. There are times when all outcomes cannot be achieved together: there will be losses and gains with each. You need to find the trade-off which will produce the most desirable outcome.
 
-> There are no solutions. There are only trade-offs. — Thomas Sowell
+> There are no solutions. There are only trade-offs. - Thomas Sowell
 
-> Economics teaches you that making a choice means giving up something. — Russ Roberts
+> Economics teaches you that making a choice means giving up something. - Russ Roberts
 
-> Strategy is about making choices, trade-offs; it's about deliberately choosing to be different. — Michael Porter
+> Strategy is about making choices, trade-offs; it's about deliberately choosing to be different. - Michael Porter
 
 The value of what we have to give up in order to choose something else. As with any other cost, the goal is to minimize it. Opportunity costs are very real. A central component of economics is the time value of money which means that money today is worth more than money in the future. Economically, this relationship is entirely based on opportunity costs. In situational decisions, something has to give. In other words, a trade-off is when one thing increases, the other must decrease. For example, a full room of objects can fit only a certain volume of things. In order to fit more in, something has to be removed. Limitation like this are known in many disciplines such as physics, economics and biology. This comes handy in making strategic decisions. It's a tactic that many leaders use. For instance, should an energy company continue to produce more oil to support world's demand while damaging the environment? Or, should it introduce greener technology? But will have to bear more risk because it might not lose money because a reliable green technology does not exist yet at a larger scale. These type of examples are commonly asked when leaders make decisions. Each decision has an advantage and disadvantage. The one which has the least disadvantage and the most advantage is the one a leader should make.
 
@@ -1359,7 +1359,7 @@ The value of what we have to give up in order to choose something else. As with 
 
 We often wrestle with these types of trade-offs. These aren't easy decisions to make, and therefore we avoid them.  We can only pick one side so focusing on which one rewards the most is where we should spend our energy. Making sacrifices is normal during trade-offs.
 
-> Winners embrace hard work. They love the discipline of it, the trade-off they're making to win. Losers, on the other hand, see it as punishment. And that's the difference. — Lou Holtz
+> Winners embrace hard work. They love the discipline of it, the trade-off they're making to win. Losers, on the other hand, see it as punishment. And that's the difference. - Lou Holtz
 
 When we choose to optimize a choice, it means we are sub-optimizing another choice.
 
@@ -1377,7 +1377,7 @@ Fisheries provide the classic example of the tragedy of the commons. Fishing too
 
 **Garrett Hardin**: Hardin wrote *The Tragedy of the Commons* in 1968, at the height of the Cold War and U.S. arms race with the Union of Soviet Socialist Republics (USSR) for domination through lethal weapons. Technology got the countries into the situation, and Hardin believes relying on more technology will only make the situation deadlier. He opens the essay with an appeal to look for alternate kinds of solutions to other problems as well.
 
-> The oceans of the world continue to suffer from ... the philosophy of the commons. — Garrett Hardin
+> The oceans of the world continue to suffer from ... the philosophy of the commons. - Garrett Hardin
 
 Hardin is opposed to shared resources being available for every member to use without limit. He believes a resource can only be shared when the user population is small and use is low. The Declaration of Human Rights was adopted in the aftermath of the atrocities of World War II. It states a person is entitled to an adequate standard of living, including food, clothing, housing and medical care and necessary social services, and the right to security in the event of unemployment, sickness, disability, widowhood, old age or other lack of livelihood in circumstances beyond his control. It also states each individual has the right to decide how many children to have. Hardin objects to the declaration because it sanctifies the rights of families to make their own decisions outside state control and supports the creation of a welfare state.
 
@@ -1392,7 +1392,7 @@ In *The Wealth of Nations* (1776), economist Adam Smith developed the idea indiv
 1. Reduce the usage of common resource through regulation or taxes.
 2. Turn the common resource into a private good.
 
-> What is common to many is taken least care of, for all men have greater regard for what is their own than for what they possess in common with others. — Aristotle
+> What is common to many is taken least care of, for all men have greater regard for what is their own than for what they possess in common with others. - Aristotle
 
 Singapore is the 3rd most densely populated country in the world. Roads are limited. If everyone uses the car, traffic becomes the problem. So, government made driving license very expensive. Second, if cars are driven during peak traffic, the toll would cost more. Singapore's government discouraged driving and aligned incentives for people to behave accordingly. People started using public transportation for their commute and this in turn helped to resolve the tragedy of the commons.
 
@@ -1506,7 +1506,7 @@ To remain great you have to be willing to give up what you have and need for wha
 
 **Beginner’s mindset**: In Buddhism, the act of openness to trying new things and not carrying the burden of past assumptions is called beginner’s mind. It allows for new ideas and innovation to flourish. To avoid creative destruction, understand competition constantly dismantle the old guards. Having a beginner’s mindset is wise for corporate executives to embrace.
 
-> Knowing you have a competitive advantage is often the enemy of beginner’s mind, because doing well reduces the incentive to explore other ideas, especially when those ideas conflict with your proven strategy. — Morgan Housel
+> Knowing you have a competitive advantage is often the enemy of beginner’s mind, because doing well reduces the incentive to explore other ideas, especially when those ideas conflict with your proven strategy. - Morgan Housel
 
 Morgan Housel has a great piece worth reading, [why competitive advantages die](https://www.collaborativefund.com/blog/why-competitive-advantages-die/).
 
@@ -1633,11 +1633,11 @@ It pays to be in the right place at the right time. New ideas come and go. The t
 
 Charlie Munger:
 
-“When technology moves as fast as it does in a civilization like ours, you get a phenomenon which I call competitive destruction. You know, you have the finest buggy whip factory and all of a sudden in comes this little horseless carriage. And before too many years go by, your buggy whip business is dead. You either get into a different business or you’re dead—you’re destroyed. It happens again and again and again. And when these new businesses come in, there are huge advantages for the early birds. And when you’re an early bird, there’s a model that I call “surfing” – when a surfer gets up and catches the wave and just stays there, he can go a long, long time. But if he gets off the wave, he becomes mired in shallows...But people get long runs when they’re right on the edge of the wave – whether it’s Microsoft or Intel or all kinds of people.”
+“When technology moves as fast as it does in a civilization like ours, you get a phenomenon which I call competitive destruction. You know, you have the finest buggy whip factory and all of a sudden in comes this little horseless carriage. And before too many years go by, your buggy whip business is dead. You either get into a different business or you’re dead-you’re destroyed. It happens again and again and again. And when these new businesses come in, there are huge advantages for the early birds. And when you’re an early bird, there’s a model that I call “surfing” – when a surfer gets up and catches the wave and just stays there, he can go a long, long time. But if he gets off the wave, he becomes mired in shallows...But people get long runs when they’re right on the edge of the wave – whether it’s Microsoft or Intel or all kinds of people.”
 
 “A surfer not only is carried by the wave, but it gives an exceptional forward speed to its rider, provided the surfer can get on to the wave at the right time and not get thrown off in between. The second most important thing required to ride a wave is to recognize that the a wave is approaching. Which means 90 percent of the times you would find a surfer lying on his surfing board and paddling slowly, waiting for the right wave.”
 
-“Berkshire Hathaway, by and large, does not invest in these people that are “surfing” on complicated technology. After all, we’re cranky and idiosyncratic—as you may have noticed. And Warren and I don’t feel like we have any great advantage in the high-tech sector. In fact, we feel like we’re at a big disadvantage in trying to understand the nature of technical developments in software, computer chips or what have you. So we tend to avoid that stuff, based on our personal inadequacies. Again, that is a very, very powerful idea. Every person is going to have a circle of competence. And it’s going to be very hard to advance that circle…So you have to figure out what your own aptitudes are. If you play games where other people have the aptitudes and you don’t, you’re going to lose. And that’s as close to certain as any prediction that you can make. You have to figure out where you’ve got an edge. And you’ve got to play within your own circle of competence. Some of you may find opportunities “surfing” along in the new high-tech fields—the Intels, the Microsofts and so on. The fact that we don’t think we’re very good at it and have pretty well stayed out of it doesn’t mean that it’s irrational for you to do it.”
+“Berkshire Hathaway, by and large, does not invest in these people that are “surfing” on complicated technology. After all, we’re cranky and idiosyncratic-as you may have noticed. And Warren and I don’t feel like we have any great advantage in the high-tech sector. In fact, we feel like we’re at a big disadvantage in trying to understand the nature of technical developments in software, computer chips or what have you. So we tend to avoid that stuff, based on our personal inadequacies. Again, that is a very, very powerful idea. Every person is going to have a circle of competence. And it’s going to be very hard to advance that circle…So you have to figure out what your own aptitudes are. If you play games where other people have the aptitudes and you don’t, you’re going to lose. And that’s as close to certain as any prediction that you can make. You have to figure out where you’ve got an edge. And you’ve got to play within your own circle of competence. Some of you may find opportunities “surfing” along in the new high-tech fields-the Intels, the Microsofts and so on. The fact that we don’t think we’re very good at it and have pretty well stayed out of it doesn’t mean that it’s irrational for you to do it.”
 
 John H. Patterson was a small retail merchant who did not make any money. One day, somebody sold him a crude cash register which he put into his retail operation. And it instantly changed from losing money to earning a profit because it made it so much harder for the employees to steal.
 
@@ -1698,7 +1698,7 @@ Double entry refers to an accounting concept whereby assets = liabilities + owne
 
 For example, if a business takes out a bank loan for $10,000, recording the transaction would require a debit of $10,000 to an asset account called “Cash,” as well as a credit of $10,000 to a liability account called “Loan Payable.”
 
-How is it different from single-entry? Single-entry doesn’t track assets or liabilities, is prone to mistakes, doesn’t tell you much about the state or health of your business, and is the accounting equivalent of carrying around a velcro wallet—fine when you’re a kid, but not very secure, or reputable, when you’re older. If you’re a freelancer or sole proprietor, you might already be using this single-entry. It’s quick and easy—and that’s pretty much where the benefits of single-entry end.
+How is it different from single-entry? Single-entry doesn’t track assets or liabilities, is prone to mistakes, doesn’t tell you much about the state or health of your business, and is the accounting equivalent of carrying around a velcro wallet-fine when you’re a kid, but not very secure, or reputable, when you’re older. If you’re a freelancer or sole proprietor, you might already be using this single-entry. It’s quick and easy-and that’s pretty much where the benefits of single-entry end.
 
  <br>
 </details>
@@ -1753,9 +1753,9 @@ A system of betting where the bets are pooled and the winners share the money af
 
 The parimutuel system is used in gambling on horse racing, greyhound racing, and other sporting events of relatively short duration in which participants finish in a ranked order. A modified parimutuel system is also used in some lottery games. The odds are discovered at the end of the event, rather than being set at the beginning. In Pari-mutuel betting the gambler bets against other gamblers, not the house.
 
-> …you don’t win by predicting the future; you win by getting the odds right. You can be right about the future and still not make any money. At the racetrack, for example, the favorite horse may be the one most likely to win, but since everyone wants to bet on the favorite, how likely is it that betting on the favorite will make you money? The horse to bet on is the one more likely to win than most people expect. That’s the one that gives you the best odds. That’s the bet that pays off over time. — Will Bonner
+> …you don’t win by predicting the future; you win by getting the odds right. You can be right about the future and still not make any money. At the racetrack, for example, the favorite horse may be the one most likely to win, but since everyone wants to bet on the favorite, how likely is it that betting on the favorite will make you money? The horse to bet on is the one more likely to win than most people expect. That’s the one that gives you the best odds. That’s the bet that pays off over time. - Will Bonner
 
-> The model I like to sort of simplify the notion of what goes o­n in a market for common stocks is the pari-mutuel system at the racetrack. If you stop to think about it, a pari-mutuel system is a market. Everybody goes there and bets and the odds change based o­n what’s bet. That’s what happens in the stock market. Any damn fool can see that a horse carrying a light weight with a wonderful win rate and a good post position etc., etc. is way more likely to win than a horse with a terrible record and extra weight and so o­n and so on. But if you look at the odds, the bad horse pays 100 to 1, whereas the good horse pays 3 to 2. Then it’s not clear which is statistically the best bet using the mathematics of Fermat and Pascal. The prices have changed in such a way that it’s very hard to beat the system.And then the track is taking 17% off the top. So not only do you have to outwit all the other betters, but you’ve got to outwit them by such a big margin that on average, you can afford to take 17% of your gross bets off the top and give it to the house before the rest of your money can be put to work. — Charlie Munger
+> The model I like to sort of simplify the notion of what goes o­n in a market for common stocks is the pari-mutuel system at the racetrack. If you stop to think about it, a pari-mutuel system is a market. Everybody goes there and bets and the odds change based o­n what’s bet. That’s what happens in the stock market. Any damn fool can see that a horse carrying a light weight with a wonderful win rate and a good post position etc., etc. is way more likely to win than a horse with a terrible record and extra weight and so o­n and so on. But if you look at the odds, the bad horse pays 100 to 1, whereas the good horse pays 3 to 2. Then it’s not clear which is statistically the best bet using the mathematics of Fermat and Pascal. The prices have changed in such a way that it’s very hard to beat the system.And then the track is taking 17% off the top. So not only do you have to outwit all the other betters, but you’ve got to outwit them by such a big margin that on average, you can afford to take 17% of your gross bets off the top and give it to the house before the rest of your money can be put to work. - Charlie Munger
 
  <br>
 </details>
@@ -1780,31 +1780,31 @@ Uncertainties are open-ended with many possibilities. Risks and volatility have 
 
 The 2020 coronavirus pandemic is an example of making decisions under uncertainty. When the pandemic first hit, you didn’t know the probabilities of getting sick, and if you fell ill, you didn’t know the odds of dying. You also didn’t know who was infected or even how we could get infected. The situation was highly uncertain. In those circumstances, the minimax regret decision was to shelter in place as much as possible until you had more information on fatality statistics. Minimizing our regret is not an optimization problem. It is a behavioral coping mechanism for dealing with uncertainty.
 
-> Risk is what’s left when you think you’ve thought of everything. — Carl Richards
+> Risk is what’s left when you think you’ve thought of everything. - Carl Richards
 
-> What is risk? It is a probability of negative event in the future. What does past tell us about that? The past has relevance but it is not absolute. Risk cannot be quantified that is why I don’t believe in models. And what is quantification, it is a measurement. And future events cannot be measured. — Howard Marks
+> What is risk? It is a probability of negative event in the future. What does past tell us about that? The past has relevance but it is not absolute. Risk cannot be quantified that is why I don’t believe in models. And what is quantification, it is a measurement. And future events cannot be measured. - Howard Marks
 
-> There’s a big difference between probability and outcome. Probable things fail to happen—and improbable things happen—all the time. That’s one of the most important things you can know about investment risk. — Howard Marks
+> There’s a big difference between probability and outcome. Probable things fail to happen-and improbable things happen-all the time. That’s one of the most important things you can know about investment risk. - Howard Marks
 
-> Risk means uncertainty about which outcome will occur and about the possibility of loss when the unfavorable ones do. — Howard Marks
+> Risk means uncertainty about which outcome will occur and about the possibility of loss when the unfavorable ones do. - Howard Marks
 
-> Experience is what you get when you get something you don’t want. The best way to learn lessons is inexpensively. — Howard Marks
+> Experience is what you get when you get something you don’t want. The best way to learn lessons is inexpensively. - Howard Marks
 
-> You should obsess over risks that do permanent damage and care little about risks that do temporary harm, but the opposite is more common. The only way to build wealth is to have a gap between your ego and your income. It’s important to know the difference between rosy optimism and periods of chaos that trend upward. If your expectations grow faster than your income you’ll never be happy with your money no matter how much you accumulate. — Morgan Housel
+> You should obsess over risks that do permanent damage and care little about risks that do temporary harm, but the opposite is more common. The only way to build wealth is to have a gap between your ego and your income. It’s important to know the difference between rosy optimism and periods of chaos that trend upward. If your expectations grow faster than your income you’ll never be happy with your money no matter how much you accumulate. - Morgan Housel
 
-> There are known knowns. These are things we know that we know. There are known unknowns. That is to say, there are things that we know we don’t know. But there are also unknown unknowns. These are things we don’t know we don’t know. — Former U.S. secretary of defense Donald Rumsfeld
+> There are known knowns. These are things we know that we know. There are known unknowns. That is to say, there are things that we know we don’t know. But there are also unknown unknowns. These are things we don’t know we don’t know. - Former U.S. secretary of defense Donald Rumsfeld
 
-> Risk has an unknown outcome, but we know what the underlying outcome distribution looks like. Uncertainty also implies an unknown outcome, but we don’t know what the underlying distribution looks like. So games of chance like roulette or blackjack are risky, while the outcome of a war is uncertain. Knight said that objective probability is the basis for risk, while subjective probability underlies uncertainty. — Michael Mauboussin 
+> Risk has an unknown outcome, but we know what the underlying outcome distribution looks like. Uncertainty also implies an unknown outcome, but we don’t know what the underlying distribution looks like. So games of chance like roulette or blackjack are risky, while the outcome of a war is uncertain. Knight said that objective probability is the basis for risk, while subjective probability underlies uncertainty. - Michael Mauboussin 
 
-> Risk, as first articulated by the economist Frank H. Knight in 1921, is something that you can put a price on. Say that you’ll win a poker hand unless your opponent draws to an inside straight: the chances of that happening are exactly 1 chance in 11. This is risk. It is not pleasant when you take a “bad beat” in poker, but at least you know the odds of it and can account for it ahead of time. In the long run, you’ll make a profit from your opponents making desperate draws with insufficient odds. Uncertainty, on the other hand, is risk that is hard to measure. You might have some vague awareness of the demons lurking out there. You might even be acutely concerned about them. But you have no real idea how many of them there are or when they might strike. Your back-of-the-envelope estimate might be off by a factor of 100 or by a factor of 1,000; there is no good way to know. This is uncertainty. Risk greases the wheels of a free-market economy; uncertainty grinds them to a halt. — Nate Silver
+> Risk, as first articulated by the economist Frank H. Knight in 1921, is something that you can put a price on. Say that you’ll win a poker hand unless your opponent draws to an inside straight: the chances of that happening are exactly 1 chance in 11. This is risk. It is not pleasant when you take a “bad beat” in poker, but at least you know the odds of it and can account for it ahead of time. In the long run, you’ll make a profit from your opponents making desperate draws with insufficient odds. Uncertainty, on the other hand, is risk that is hard to measure. You might have some vague awareness of the demons lurking out there. You might even be acutely concerned about them. But you have no real idea how many of them there are or when they might strike. Your back-of-the-envelope estimate might be off by a factor of 100 or by a factor of 1,000; there is no good way to know. This is uncertainty. Risk greases the wheels of a free-market economy; uncertainty grinds them to a halt. - Nate Silver
 
-> The meaning of “uncertainty” and “risk” and the distinction between them seems ambiguous even for some experts in the field and there are multiple definitions of each in use… Indeed, the decision sciences routinely write about “decisions under uncertainty” where uncertainty is defined with quantified probabilities. Physicists routinely talk about measuring uncertainty—again with probabilities. — Douglas Hubbard 
+> The meaning of “uncertainty” and “risk” and the distinction between them seems ambiguous even for some experts in the field and there are multiple definitions of each in use… Indeed, the decision sciences routinely write about “decisions under uncertainty” where uncertainty is defined with quantified probabilities. Physicists routinely talk about measuring uncertainty-again with probabilities. - Douglas Hubbard 
 
-> With uncertainties, you don’t know the probabilities, so you do your best to avoid situations where you could be ruined and experience tremendous regret. “The concept of regret is a much more powerful and flexible concept than mere loss because it is entirely subjective. But that’s exactly what makes the strategy human. That’s exactly what makes the strategy real. — Ben Hunt
+> With uncertainties, you don’t know the probabilities, so you do your best to avoid situations where you could be ruined and experience tremendous regret. “The concept of regret is a much more powerful and flexible concept than mere loss because it is entirely subjective. But that’s exactly what makes the strategy human. That’s exactly what makes the strategy real. - Ben Hunt
 
-> In the face of uncertainty we cope as humans, we don’t optimize. — Mervyn King, former Bank of England Chair
+> In the face of uncertainty we cope as humans, we don’t optimize. - Mervyn King, former Bank of England Chair
 
-> Volatility in the up direction is not a problem-it's only downward volatility that offers discourse. — Coreen T. Sol
+> Volatility in the up direction is not a problem-it's only downward volatility that offers discourse. - Coreen T. Sol
 
  <br>
 </details>
@@ -1820,11 +1820,11 @@ The mood fluctuates depending on what mood the Mr. Market is in. If the general 
 
 Mr. Market is a fictional character created by investor and professor Benjamin Graham to describe irrational behavior of stock market. He explained Mr. Market as a daily visitor knocking on your door offering stock prices that you can buy or sell at. You can either transact with Mr. Market or ignore him.  Graham introduced Mr. Market in Chapter 8 of his classic book *The Intelligent Investor*. Graham explained the unstable character of Mr. Market who wakes up happy one day, and sad the other day. He further explains the job of an investor is to take advantage of him on the days when he is in bad mood offering depressed prices.
 
-> In the short run, the market is a voting machine but in the long run, it is a weighing machine. — Benjamin Graham
+> In the short run, the market is a voting machine but in the long run, it is a weighing machine. - Benjamin Graham
 
 Benjamin Graham was also Warren Buffett's intellectual father.
 
-> If you understand chapters 8 and 20 of The Intelligent Investor (Benjamin Graham, 1949) and chapter 12 of the General Theory (John Maynard Keynes, 1936), you don’t need to read anything else and you can turn off your TV. — Warren Buffett
+> If you understand chapters 8 and 20 of The Intelligent Investor (Benjamin Graham, 1949) and chapter 12 of the General Theory (John Maynard Keynes, 1936), you don’t need to read anything else and you can turn off your TV. - Warren Buffett
 
 Imagine if you own a local grocery store and if Mr. Market showed up everyday with different prices on what your business is worth. You would most likely ignore him and focus on serving your customers. You will have a better idea on how your business is performing based on your financial reports. But Mr. Market does not care about your insights! Mr. Market is that annoying neighbor who does not care if you are interested. He will show up everyday whether you like him or not. The wisdom to ignore Mr. Market is hard to put in practice because it requires a lot of patience. Benjamin Graham wrote the following passage in Chapter 7 of The Intelligent Investor:
 
@@ -1862,17 +1862,17 @@ A company has a moat when it has a valuable network effect. Twitter has a networ
 
 Or...
 
-Imagine the process of switching banks and updating all of your billing accounts. It is inconvenient for customers because they have to bear the switching costs. Higher switching costs provide banks an economic moat. The ability of a business to protect itself and create long-term competitive advantages. Companies such as Walmart can undercut competitors and negotiate supplier discounts due to a high volume of sales. There are several factors that define an economic moat — pricing power (Apple), intangible assets (Disney — branding, customer loyalty and patents), cost advantages (Walmart), switching costs (Chase bank), network effects (Facebook), and efficient scale (Amazon) are all advantages a business can leverage on to build or protect its moat.
+Imagine the process of switching banks and updating all of your billing accounts. It is inconvenient for customers because they have to bear the switching costs. Higher switching costs provide banks an economic moat. The ability of a business to protect itself and create long-term competitive advantages. Companies such as Walmart can undercut competitors and negotiate supplier discounts due to a high volume of sales. There are several factors that define an economic moat - pricing power (Apple), intangible assets (Disney - branding, customer loyalty and patents), cost advantages (Walmart), switching costs (Chase bank), network effects (Facebook), and efficient scale (Amazon) are all advantages a business can leverage on to build or protect its moat.
 
-> How do you compete against a true fanatic? You can only try to build the best possible moat and continuously attempt to widen it. — Charlie Munger
+> How do you compete against a true fanatic? You can only try to build the best possible moat and continuously attempt to widen it. - Charlie Munger
 
-> Unless a company has an economic moat protecting its business, competition will soon arrive on its doorstep and eat away at its profits. Wall Street is littered with the dead husks of companies that went from hero to zero in a heartbeat. — Pat Dorsey
+> Unless a company has an economic moat protecting its business, competition will soon arrive on its doorstep and eat away at its profits. Wall Street is littered with the dead husks of companies that went from hero to zero in a heartbeat. - Pat Dorsey
 
-> Our criterion of “enduring” causes us to rule out companies in industries prone to rapid and continuous change. Though capitalism’s “creative destruction” is highly beneficial for society, it precludes investment certainty. A moat that must be continuously rebuilt will eventually be no moat at all. — Warren Buffett
+> Our criterion of “enduring” causes us to rule out companies in industries prone to rapid and continuous change. Though capitalism’s “creative destruction” is highly beneficial for society, it precludes investment certainty. A moat that must be continuously rebuilt will eventually be no moat at all. - Warren Buffett
 
-> In business, I look for economic castles protected by unbreachable 'moats'. — Warren Buffett
+> In business, I look for economic castles protected by unbreachable 'moats'. - Warren Buffett
 
-> No formula in finance tells you that the moat is 28 feet wide and 16 feet deep. That's what drives the academics crazy. They can compute standard deviations and betas, but they can't understand moats. — Warren Buffett
+> No formula in finance tells you that the moat is 28 feet wide and 16 feet deep. That's what drives the academics crazy. They can compute standard deviations and betas, but they can't understand moats. - Warren Buffett
 
 Warren Buffett, one of the greatest investors of our time conceptualized the term. The illustration of moats is derived from water-filled moats that surrounded medieval castles. Water acted as a moat to protect kingdoms and castles from invaders. The wider the moat, the more difficult it would be for an invader to reach the castle. The narrower or no moat, allowed the invader to reach the castle. Water alone didn't play a key role in protecting moats. Army, weapons and strategic ruler also played a role in defining and protecting kingdom's moat.
 
@@ -1886,7 +1886,7 @@ Wide moat businesses require competent management with excellent capital allocat
 - _Intangible assets_: Patents, brands, regulatory licenses can prevent competitors from duplicating a company's product. This in turn allows a company to charge premium for its products. A strong brand breeds trust. Apple is a classic example for all of its intangible assets.
 - _Switching costs_: If a customer has a high switching cost, it is very unlikely customers will take their business somewhere else. Switching costs can be due to cost or time intensive. Bank customers have high switching costs.
 
-Technology has made switching costs easy for customers due to better product integration. It is easy for customers to download their old data and import it on a new software. Be careful how these factors are evolving with rapid technology innovation. Old economic moats are still sound but are evolving with time. Walmart is a wide moat business but Amazon was able to eat its lunch by bringing unlimited shelf space using web technologies. Strong moats survive major platform or trend shifts, but surviving should not be confused with thriving. IBM has survived major technological shifts, but is struggling to thrive. It is a victim of its own success because it failed to recognize industry-wide transformations. The major key takeaway of economic moat — is the end state defensible? If not, why go there?
+Technology has made switching costs easy for customers due to better product integration. It is easy for customers to download their old data and import it on a new software. Be careful how these factors are evolving with rapid technology innovation. Old economic moats are still sound but are evolving with time. Walmart is a wide moat business but Amazon was able to eat its lunch by bringing unlimited shelf space using web technologies. Strong moats survive major platform or trend shifts, but surviving should not be confused with thriving. IBM has survived major technological shifts, but is struggling to thrive. It is a victim of its own success because it failed to recognize industry-wide transformations. The major key takeaway of economic moat - is the end state defensible? If not, why go there?
 
  <br>
 </details>
@@ -1904,7 +1904,7 @@ Law of diminishing returns, also referred to as the law of diminishing marginal 
 
 A common example of diminishing returns is choosing to hire more to increase productivity. A farmer who owns a 25 acres hires 5 workers to harvest the field. Farmer will benefit tremendously per hire. But hiring 5 more will not yield the same level of productivity. This is because not every unit of input will lead to a proportional increase of output. The marginal productivity of the workforce decreases as output increases. Therefore, the total output per hire would be less. The law of diminishing returns states that simply increasing one input while keeping others the same will at some point yield diminishing returns. Basically, the extra output obtained by increasing one input, while the other inputs are constant, decreases over time.
 
-> Assuming you are effectively iterating the product based on customer feedback and research, you will eventually hit a point where there’s just not that much you can do to make it better. It’s time for your team to move on and invest in something new. — Brandon Chu
+> Assuming you are effectively iterating the product based on customer feedback and research, you will eventually hit a point where there’s just not that much you can do to make it better. It’s time for your team to move on and invest in something new. - Brandon Chu
 
 **Income and happiness**: Diminishing returns refers to any situation where your marginal benefits (income, happiness) is decreasing as the number of resources (time, inputs) increases. The extra boost of happiness you get from eating out 15th time should be less than the happiness you got from the 10th time.
 
@@ -1924,7 +1924,7 @@ Once upon a time Michael Jordan tried playing baseball, but he couldn't perform 
 
 Ted Williams was famously known to wait for the “fat pitch.” He would only swing at pitches in of the strike zone where he knew he had a higher probability of getting a hit. There were parts of his strike zone where he batted .230 and there were other parts of the strike zone where he batted .400. He patiently waited to swing at pitches that would improve his odds of getting a hit and increase his overall batting average. Ted Williams operated within his circle of competency. So did Andrew Carnegie. Carnegie was a business icon during his era. In the *Autobiography of Andrew Carnegie*, Carnegie gives the following advice:
 
-> I believe the true road to preeminent success in any line is to make yourself master in that line. I have no faith in the policy of scattering one’s resources, and in my experience I have rarely if ever met a man who achieved preeminence in money-making—certainly never one in manufacturing—who was interested in many concerns. The men who have succeeded are men who have chosen one line and stuck to it.
+> I believe the true road to preeminent success in any line is to make yourself master in that line. I have no faith in the policy of scattering one’s resources, and in my experience I have rarely if ever met a man who achieved preeminence in money-making-certainly never one in manufacturing-who was interested in many concerns. The men who have succeeded are men who have chosen one line and stuck to it.
 
 Warren Buffett wrote a letter to Berkshire Hathaway shareholders in 1996 that shows what it means to operate within a circle of competency:
 
@@ -1934,11 +1934,11 @@ So let's imagine a few circles! The imaginary circle of competence lies as a sma
 
 Stick to what you know and know your limitations. Even the most famous icons were self-aware of that.
 
-> I’m no genius. I’m smart in spots—but I stay around those spots. — Tom Watson Sr., Founder of IBM
+> I’m no genius. I’m smart in spots-but I stay around those spots. - Tom Watson Sr., Founder of IBM
 
-> I consider that a man’s brain originally is like a little empty attic, and you have to stock it with such furniture as you choose. — Sherlock Holmes
+> I consider that a man’s brain originally is like a little empty attic, and you have to stock it with such furniture as you choose. - Sherlock Holmes
 
-> The first thing to notice about specific knowledge is that you can’t be trained for it… [it’s] found much more by pursuing your innate talents, your genuine curiosity, and your passion… [it’s’] the knowledge that you care about. Especially if you’re later in life, let’s say your post 20, 21, 22, you almost don’t get to choose which specific knowledge you have. Rather, you get to look at what you have already built by that point in time, and then you can build on top of it. — Naval Ravikant
+> The first thing to notice about specific knowledge is that you can’t be trained for it… [it’s] found much more by pursuing your innate talents, your genuine curiosity, and your passion… [it’s’] the knowledge that you care about. Especially if you’re later in life, let’s say your post 20, 21, 22, you almost don’t get to choose which specific knowledge you have. Rather, you get to look at what you have already built by that point in time, and then you can build on top of it. - Naval Ravikant
 
 Your circle of competence is the subject area that matches your skills and expertise. But, many of us feel that our circle of competency is bigger than it actually is. Overconfidence starts leading us in a wrong direction. Reading a few set of books does not make someone a doctor or a lawyer. Those expertise come from decade of studies and practical experiences. It cannot be developed overnight by quickly jumping from one circle to another.
 
@@ -1948,13 +1948,13 @@ To improve the odds of success in life and business, the perimeter of your circl
 
 **How wide is a circle of competency?**: Knowing where the boundaries of a circle of competency are and where you stand within those boundaries is really important. Understanding your own circle of competency helps you concentrate on the areas where you have the greatest familiarity.
 
-> Everybody’s got a different circle of competence. The important thing is not how big the circle is. The important thing is staying inside the circle. — Warren Buffett
+> Everybody’s got a different circle of competence. The important thing is not how big the circle is. The important thing is staying inside the circle. - Warren Buffett
 
 Being truthful about your competencies can eliminate any illusions. There are times when subjective assessment of your own competence with your actual competence are misaligned. This is how people get in trouble. They stray from the circle of "what you know" into the circle of "what you don't know." Charlie Munger took the concept one step further by playing the strengths to have a competitive advantage. If a person not playing to their strengths comes up against a person who is, they will most likely lose. Charlie Munger on the boundaries of circle of competency:
 
 > If you have competence, you pretty much know its boundaries already. To ask the question (of whether you are past the boundary) is to answer it.
 
-> You have to figure out what your own aptitudes are. If you play games where other people have the aptitudes and you don’t, you’re going to lose. And that’s as close to certain as any prediction that you can make. You have to figure out where you’ve got an edge. And you’ve got to play within your own circle of competence. If you want to be the best tennis player in the world, you may start out trying and soon find out that it’s hopeless—that other people blow right by you. However, if you want to become the best plumbing contractor in Bemidji, that is probably doable by two-thirds of you. It takes a will. It takes the intelligence. But after a while, you’d gradually know all about the plumbing business in Bemidji and master the art. That is an attainable objective, given enough discipline. And people who could never win a chess tournament or stand in center court in a respectable tennis tournament can rise quite high in life by slowly developing a circle of competence—which results partly from what they were born with and partly from what they slowly develop through work.
+> You have to figure out what your own aptitudes are. If you play games where other people have the aptitudes and you don’t, you’re going to lose. And that’s as close to certain as any prediction that you can make. You have to figure out where you’ve got an edge. And you’ve got to play within your own circle of competence. If you want to be the best tennis player in the world, you may start out trying and soon find out that it’s hopeless-that other people blow right by you. However, if you want to become the best plumbing contractor in Bemidji, that is probably doable by two-thirds of you. It takes a will. It takes the intelligence. But after a while, you’d gradually know all about the plumbing business in Bemidji and master the art. That is an attainable objective, given enough discipline. And people who could never win a chess tournament or stand in center court in a respectable tennis tournament can rise quite high in life by slowly developing a circle of competence-which results partly from what they were born with and partly from what they slowly develop through work.
 
 **How to widen a circle of competency?**: Widening your circle of competencies can be done in many ways. Ask questions. Learn. Read. Work for someone who you can accumulate experiences from. Learn by doing. If something falls outside of your competency, delegate or outsource.
 
@@ -2032,7 +2032,7 @@ Make fewer decisions to make better decisions.
 
 **Use caution**: While Occam’s razor is a popular mental model, bear in mind that Occam’s Razor doesn’t prove anything. It does not mean the world is simpler. Einstein proves the point: 
 
-> For every complex problem there is an answer that is clear, simple, and wrong. — H. L. Mencken
+> For every complex problem there is an answer that is clear, simple, and wrong. - H. L. Mencken
 
 > In my opinion the theory here is the logically simplest relativistic field theory that is at all possible. But this does not mean that Nature might not obey a more complex theory.
 
@@ -2103,23 +2103,23 @@ Incentives influence the way people act. Change the incentive, and you’ll chan
 
 Finding the correct incentive can cause people to change the way they think and change their behavior. A commission may incentivize employees to close more sales at any cost, but the employee will not be concerned with the profitability of the sale in the long term.
 
-“Perhaps the most important rule in management is to get the incentives right.” — Charlie Munger
+“Perhaps the most important rule in management is to get the incentives right.” - Charlie Munger
 
-“Never, ever, think about something else when you should be thinking about the power of incentives.” — Charlie Munger
+“Never, ever, think about something else when you should be thinking about the power of incentives.” - Charlie Munger
 
 Charlie argues that people respond most strongly to what they view as their incentive or disincentive. In business, there is almost always someone else involved in whatever you are trying to do. 
 
-Charlie gives an example of FedEx—he said that they couldn’t get the planes to shift packages from plane to plane in a timely manner. The problem was that the workers were being paid per hour. When FedEx changed to paying the workers per shift, the workers were able to to shift packages faster. 
+Charlie gives an example of FedEx-he said that they couldn’t get the planes to shift packages from plane to plane in a timely manner. The problem was that the workers were being paid per hour. When FedEx changed to paying the workers per shift, the workers were able to to shift packages faster. 
 
-“The heart and soul of the integrity of the system is that all the packages have to be shifted rapidly in one central location each night. And the system has no integrity if the whole shift can’t be done fast. And Federal Express had one hell of a time getting the thing to work. And they tried moral suasion, they tried everything in the world, and finally somebody got the happy thought that they were paying the night shift by the hour, and that maybe if they paid them by the shift, the system would work better. And lo and behold, that solution worked.” — Charlie Munger
+“The heart and soul of the integrity of the system is that all the packages have to be shifted rapidly in one central location each night. And the system has no integrity if the whole shift can’t be done fast. And Federal Express had one hell of a time getting the thing to work. And they tried moral suasion, they tried everything in the world, and finally somebody got the happy thought that they were paying the night shift by the hour, and that maybe if they paid them by the shift, the system would work better. And lo and behold, that solution worked.” - Charlie Munger
 
 Or Charlie talks about the incentives at Xerox: 
 
-“Early in the history of Xerox, Joe Wilson, who was then in the government, had to go back to Xerox because he couldn’t understand how their better, new machine was selling so poorly in relation to their older and inferior machine. Of course when he got there, he found out that the commission arrangement with the salesmen gave a tremendous incentive to the inferior machine.” — Charlie Munger
+“Early in the history of Xerox, Joe Wilson, who was then in the government, had to go back to Xerox because he couldn’t understand how their better, new machine was selling so poorly in relation to their older and inferior machine. Of course when he got there, he found out that the commission arrangement with the salesmen gave a tremendous incentive to the inferior machine.” - Charlie Munger
 
 Or Munger gives an example of procurement on Defense Department:
 
-“The power of incentives to cause rationalized, terrible behavior is also demonstrated by Defense Department procurement history. After the Defense Department had much truly awful experience with misbehaving contractors motivated under contracts paying on a cost-plus-a-percentage-of cost basis, the reaction of our republic was to make it a crime for a contracting office in the Defense Department to sign such a contract, and not only a crime, but a felony.” — Charlie Munger
+“The power of incentives to cause rationalized, terrible behavior is also demonstrated by Defense Department procurement history. After the Defense Department had much truly awful experience with misbehaving contractors motivated under contracts paying on a cost-plus-a-percentage-of cost basis, the reaction of our republic was to make it a crime for a contracting office in the Defense Department to sign such a contract, and not only a crime, but a felony.” - Charlie Munger
 
 <br>
 </details>
@@ -2159,7 +2159,7 @@ This also applies to possessions.
 
 The overappraisal-of-your-own-possessions is also known as the “endowment effect.” The endowment effect describes a circumstance in which an individual places a higher value on an object that they already own than the value they would place on that same object if they did not own it.
 
-“Foolish gambling decisions. Excessive self-regard leads to more addictive sports betting than race track betting, or to cases of stupid bets against superior players in poker or golf.” — Charlie Munger
+“Foolish gambling decisions. Excessive self-regard leads to more addictive sports betting than race track betting, or to cases of stupid bets against superior players in poker or golf.” - Charlie Munger
 
 Munger says the greatest type of pride should be taking pride in being trustworthy to avoid developing an ego.
 
@@ -2223,9 +2223,9 @@ Constant stress can affect our health. Light stress, on the other hand, can impr
 
 In Psychology of Human Misjudgment – Charlie Munger tells that light stress can slightly improve performance. We study very hard before the exams. During this time our body and mind will be under stress. But this is good as we learn a lot in a very short period of time. Once the exams are over our body and mind is back to normal.
 
-“Stress is often very helpful. The classic stress response mobilizes energy to your muscles by increasing your heart rate, blood pressure, and breathing. High stress also helps your sensory system. For example, policemen report that during shootouts their visual acuity and focus improves, they sense a slowdown in time, and they fail to hear sounds. For a short burst, the mind can focus intently on the task at handle. This reaction is valuable in extraordinary circumstances.” — Michael Mauboussin
+“Stress is often very helpful. The classic stress response mobilizes energy to your muscles by increasing your heart rate, blood pressure, and breathing. High stress also helps your sensory system. For example, policemen report that during shootouts their visual acuity and focus improves, they sense a slowdown in time, and they fail to hear sounds. For a short burst, the mind can focus intently on the task at handle. This reaction is valuable in extraordinary circumstances.” - Michael Mauboussin
 
-“Long-term stress exposure upsets the brain’s chemical balance. Stress may cause high blood pressure, heart disease, diabetes, back and stomach problems, headache, and depression. Studies show that when we feel stress the concentration of cortisol rises in the bloodstream. One effect of cortisol is to suppress the working of immune system. This makes us more vulnerable to diseases. Stress also counteracts the production of insulin (the hormone that processes blood sugar), causing the process of repair to slow down. Studies show that emotional stress creates longer recovery times in our bodies and may be more harmful to our health than non-emotional stress events like physical exercise.” — Peter Bevelin
+“Long-term stress exposure upsets the brain’s chemical balance. Stress may cause high blood pressure, heart disease, diabetes, back and stomach problems, headache, and depression. Studies show that when we feel stress the concentration of cortisol rises in the bloodstream. One effect of cortisol is to suppress the working of immune system. This makes us more vulnerable to diseases. Stress also counteracts the production of insulin (the hormone that processes blood sugar), causing the process of repair to slow down. Studies show that emotional stress creates longer recovery times in our bodies and may be more harmful to our health than non-emotional stress events like physical exercise.” - Peter Bevelin
 
 <br>
 </details>
@@ -2277,11 +2277,11 @@ As a society we have hierarchies, a few people lead and lots of people follow. T
 
 We trust and respect leaders too much, even when they make mistakes. We also trust leaders in areas where they are not experts. This is also known as the Halo Effect.
 
-“Living in dominance hierarchies as he does, like all his ancestors before him, man was born mostly to follow leaders, with only a few people doing the leading. And so, human society is formally organized into dominance hierarchies, with their culture augmenting the natural follow-the-leader tendency of man. But automatic as most human reactions are, with the tendency to follow leaders being no exception, man is often destined to suffer greatly when the leader is wrong or when his leader’s ideas don’t get through properly in the bustle of life and are misunderstood. And so, we find much miscognition from man’s Authority-Misinfluence Tendency.” — Charlie Munger
+“Living in dominance hierarchies as he does, like all his ancestors before him, man was born mostly to follow leaders, with only a few people doing the leading. And so, human society is formally organized into dominance hierarchies, with their culture augmenting the natural follow-the-leader tendency of man. But automatic as most human reactions are, with the tendency to follow leaders being no exception, man is often destined to suffer greatly when the leader is wrong or when his leader’s ideas don’t get through properly in the bustle of life and are misunderstood. And so, we find much miscognition from man’s Authority-Misinfluence Tendency.” - Charlie Munger
 
-“Bias from over-influence by authority. Well, here the Milgram experiment is it’s cause...I think there have been 1600 psychological papers written about Milgram. He had a person posing as an authority figure trick ordinary people into giving what they had every reason to expect was heavy torture by an electric shock to perfectly innocent fellow citizens. And the experiment has been...he was trying to show why Hitler succeeded and a few other things. So it has really caught the fancy of the world. Partly it’s so politically correct and...Over-influence by authority has another very… you’ll like this one. You got a pilot and a co-pilot. The pilot is the authority figure. They don’t do this in airplanes, but they’ve done it in simulators. They have the pilot do something where the co-pilot who’s been trained in simulators a long time. He knows he’s not to allow the plane to crash. They have the pilot to do something where an idiot co-pilot would know the plane was gonna crash, but the pilot’s doing it, and the co-pilot is sitting there, and the pilot is the authority figure. 25% of the time, the plane crashes. This is a very powerful psychological tendency.” — Charlie Munger
+“Bias from over-influence by authority. Well, here the Milgram experiment is it’s cause...I think there have been 1600 psychological papers written about Milgram. He had a person posing as an authority figure trick ordinary people into giving what they had every reason to expect was heavy torture by an electric shock to perfectly innocent fellow citizens. And the experiment has been...he was trying to show why Hitler succeeded and a few other things. So it has really caught the fancy of the world. Partly it’s so politically correct and...Over-influence by authority has another very… you’ll like this one. You got a pilot and a co-pilot. The pilot is the authority figure. They don’t do this in airplanes, but they’ve done it in simulators. They have the pilot do something where the co-pilot who’s been trained in simulators a long time. He knows he’s not to allow the plane to crash. They have the pilot to do something where an idiot co-pilot would know the plane was gonna crash, but the pilot’s doing it, and the co-pilot is sitting there, and the pilot is the authority figure. 25% of the time, the plane crashes. This is a very powerful psychological tendency.” - Charlie Munger
 
-“The obvious implication: be careful whom you appoint to power because a dominant authority figure will often be hard to remove.” — Charlie Munger
+“The obvious implication: be careful whom you appoint to power because a dominant authority figure will often be hard to remove.” - Charlie Munger
 
 <br>
 </details>
@@ -2299,9 +2299,9 @@ The availability heuristic, also known as availability bias, is a mental shortcu
 
 The mental availability of an action's consequences is positively related to those consequences' perceived magnitude. In other words, the easier it is to recall the consequences of something, the greater those consequences are often perceived to be.
 
-“This mental tendency echoes the words of the song: ‘When I’m not near the girl I love, I love the girl I’m near.’ Man’s imperfect, limited-capacity brain easily drifts into working with what’s easily available to it. And the brain can’t use what it can’t remember or what it is blocked from recognizing because it is heavily influenced by one or more psychological tendencies bearing strongly on it, as the fellow is influenced by the nearby girl in the song. And so the mind overweighs what is easily available and thus displays Availability-Misweighing Tendency.” — Charlie Munger
+“This mental tendency echoes the words of the song: ‘When I’m not near the girl I love, I love the girl I’m near.’ Man’s imperfect, limited-capacity brain easily drifts into working with what’s easily available to it. And the brain can’t use what it can’t remember or what it is blocked from recognizing because it is heavily influenced by one or more psychological tendencies bearing strongly on it, as the fellow is influenced by the nearby girl in the song. And so the mind overweighs what is easily available and thus displays Availability-Misweighing Tendency.” - Charlie Munger
 
-“The availability heuristic, like other heuristics of judgment, substitutes one question for another: you wish to estimate the size of a category or the frequency of an event, but you report an impression of the ease with which instances come to mind. Substitution of questions inevitably produces systematic errors.” — Daniel Kahneman
+“The availability heuristic, like other heuristics of judgment, substitutes one question for another: you wish to estimate the size of a category or the frequency of an event, but you report an impression of the ease with which instances come to mind. Substitution of questions inevitably produces systematic errors.” - Daniel Kahneman
 
 <br>
 </details>
@@ -2319,11 +2319,11 @@ Consistency is usually viewed as a desirable social trait and shows that we’re
 
 That why you should state a goal publicly if you want to make a change in your life. For example lose weight. Once you’ve committed something out loud you will have an incentive to keep up with the goal.
 
-“I remember quite well feeling my stomach tighten as I stammered my agreement. It was a clear call to my brain, “Hey, you’re being taken here!” But I couldn’t see a way out. I had been cornered by my own words. To decline her offer at that point would have meant facing a pair of distasteful alternatives: If I tried to back out by protesting that I was not actually the man-about-town I had claimed to be during the interview, I would come off a liar; trying to refuse without that protest would make me come off a fool for not wanting to save $1,200. I bought the entertainment package, even though I knew I had been set up. The need to be consistent with what I had already said snared me.” — Robert Cialdini 
+“I remember quite well feeling my stomach tighten as I stammered my agreement. It was a clear call to my brain, “Hey, you’re being taken here!” But I couldn’t see a way out. I had been cornered by my own words. To decline her offer at that point would have meant facing a pair of distasteful alternatives: If I tried to back out by protesting that I was not actually the man-about-town I had claimed to be during the interview, I would come off a liar; trying to refuse without that protest would make me come off a fool for not wanting to save $1,200. I bought the entertainment package, even though I knew I had been set up. The need to be consistent with what I had already said snared me.” - Robert Cialdini 
 
-“Whenever my stomach tells me I would be a sucker to comply with a request merely because doing so would be consistent with some prior commitment I was tricked into, I relay that message to the requester. I don’t try to deny the importance of consistency; I just point out the absurdity of foolish consistency. Whether, in response, the requester shrinks away guiltily or retreats in bewilderment, I am content. I have won; an exploiter has lost.” — Robert Cialdini 
+“Whenever my stomach tells me I would be a sucker to comply with a request merely because doing so would be consistent with some prior commitment I was tricked into, I relay that message to the requester. I don’t try to deny the importance of consistency; I just point out the absurdity of foolish consistency. Whether, in response, the requester shrinks away guiltily or retreats in bewilderment, I am content. I have won; an exploiter has lost.” - Robert Cialdini 
 
-“Having heard that he had in his library a certain very scarce and curious book, I wrote a note to him, expressing my desire of perusing that book, and requesting he would do me the favour of lending it to me for a few days. He sent it immediately, and I return’d it in about a week with another note, expressing strongly my sense of the favour. When we next met in the House, he spoke to me (which he had never done before), and with great civility; and he ever after manifested a readiness to serve me on all occasions, so that we became great friends, and our friendship continued to his death. This is another instance of the truth of an old maxim I had learned, which says, “He that has once done you a kindness will be more ready to do you another, than he whom you yourself have obliged.” — Ben Franklin
+“Having heard that he had in his library a certain very scarce and curious book, I wrote a note to him, expressing my desire of perusing that book, and requesting he would do me the favour of lending it to me for a few days. He sent it immediately, and I return’d it in about a week with another note, expressing strongly my sense of the favour. When we next met in the House, he spoke to me (which he had never done before), and with great civility; and he ever after manifested a readiness to serve me on all occasions, so that we became great friends, and our friendship continued to his death. This is another instance of the truth of an old maxim I had learned, which says, “He that has once done you a kindness will be more ready to do you another, than he whom you yourself have obliged.” - Ben Franklin
 
 
 <br>
@@ -2342,11 +2342,11 @@ Ivan Pavlov is known for his famous experiment with conditioning the salivation 
 
 In summary, it is used to manipulate behavior which can have a positive or negative outcome.
 
-“Experiments have shown that we can learn to fear a harmless stimulus if it is paired with an unpleasant one. If for example rats consistently receive mild electrical shock after hearing a tone, the rats learn to develop a fear of the tone alone.” — Peter Bevelin
+“Experiments have shown that we can learn to fear a harmless stimulus if it is paired with an unpleasant one. If for example rats consistently receive mild electrical shock after hearing a tone, the rats learn to develop a fear of the tone alone.” - Peter Bevelin
 
-“The neural system of Pavlov’s dog causes it to salivate at the bell it can’t eat. And the brain of man yearns for the type of beverage held by the pretty woman he can’t have....we must use every sort of decent, honorable Pavlovian conditioning we can think of. For as long as we are in business, our beverage and its promotion must be associated in consumer minds with all other things consumers like or admire.” — Charlie Munger
+“The neural system of Pavlov’s dog causes it to salivate at the bell it can’t eat. And the brain of man yearns for the type of beverage held by the pretty woman he can’t have....we must use every sort of decent, honorable Pavlovian conditioning we can think of. For as long as we are in business, our beverage and its promotion must be associated in consumer minds with all other things consumers like or admire.” - Charlie Munger
 
-“Paley of CBS was a business example of this: he didn’t want to hear what he didn’t like to hear. Those around him learned that and soon told him only what he wanted to hear. Eventually that led to a decline in market share for CBS (which was once the only major tv network).” — Charlie Munger
+“Paley of CBS was a business example of this: he didn’t want to hear what he didn’t like to hear. Those around him learned that and soon told him only what he wanted to hear. Eventually that led to a decline in market share for CBS (which was once the only major tv network).” - Charlie Munger
 
 <br>
 </details>
@@ -2408,7 +2408,7 @@ Charlie Munger on denial:
 
 “This first really hit me between the eyes when a friend of our family had a super-athlete, super-student son who flew off a carrier in the North Atlantic and never came back, and his mother, who was a very sane woman, just never believed that he was dead.”
 
-“The first principle is that you must not fool yourself–and you are the easiest person to fool.” — Richard Feynman
+“The first principle is that you must not fool yourself–and you are the easiest person to fool.” - Richard Feynman
 
 <br>
 </details>
@@ -2440,7 +2440,7 @@ This quote isn't complicated or difficult to understand. It is a simple reminder
 
 “Envy is a really stupid sin because it’s the only one you could never possibly have any fun at. There’s a lot of pain and no fun. Why would you want to get on that trolley?”
 
-“I am envious because I want to be as beautiful as you are; I want to have the fine clothes, the elegant house, the high position that you have. Being dissatisfied with what I am, I want to be like you; but, if I understood my dissatisfaction and its cause, then I would not want to be like you or long for the things that you have. In other words, if once I begin to understand what I am, then I shall never compare myself with another or be envious of anyone. Envy arises because I want to change myself and become like somebody else. But if I say, “Whatever I am, that I want to understand,” then envy is gone; then there is no need of discipline, and out of the understanding of what I am comes integration.” — Krishamurti
+“I am envious because I want to be as beautiful as you are; I want to have the fine clothes, the elegant house, the high position that you have. Being dissatisfied with what I am, I want to be like you; but, if I understood my dissatisfaction and its cause, then I would not want to be like you or long for the things that you have. In other words, if once I begin to understand what I am, then I shall never compare myself with another or be envious of anyone. Envy arises because I want to change myself and become like somebody else. But if I say, “Whatever I am, that I want to understand,” then envy is gone; then there is no need of discipline, and out of the understanding of what I am comes integration.” - Krishamurti
 
 While envy and jealously are powerful drivers of behavior on their own, they become more powerful when mixed with ego, greed, and fear.
 
@@ -2506,7 +2506,7 @@ If the only tool you have is a hammer, then every problem looks like a nail. If 
 
 Munger on man with a hammer syndrome:
 
-> I think I've got eight, no nine objections, some being logical subdivisions of a big general objection. The big general objection to economics was the one early described by Alfred North Whitehead when he spoke of the fatal unconnectedness of academic disciplines, wherein each professor didn't even know the models of the other disciplines, much less try to synthesize those disciplines with his own. I think there's a modern name for this approach that Whitehead didn't like, and that name is bonkers. This is a perfectly crazy way to behave. Yet economics, like much else in academia, is too insular....The nature of this failure is that it creates what I always call, 'man with a hammer syndrome.' And that's taken from the folk saying: To the man with only a hammer, every problem looks pretty much like a nail. And that works marvelously to gum up all professions, and all departments of academia, and indeed most practical life. The only antidote for being an absolute -5- klutz due to the presence of a man with a hammer syndrome is to have a full kit of tools. You don't have just a hammer. You've got all the tools. And you've got to have one more trick. You've got to use those tools checklist-style, because you'll miss a lot if you just hope that the right tool is going to pop up unaided whenever you need it. But if you've got a full list of tools, and go through them in your mind, checklist-style, you will find a lot of answers that you won't find any other way. So limiting this big general objection that so disturbed Alfred North Whitehead is very important, and there are mental tricks that help do the job. — Munger
+> I think I've got eight, no nine objections, some being logical subdivisions of a big general objection. The big general objection to economics was the one early described by Alfred North Whitehead when he spoke of the fatal unconnectedness of academic disciplines, wherein each professor didn't even know the models of the other disciplines, much less try to synthesize those disciplines with his own. I think there's a modern name for this approach that Whitehead didn't like, and that name is bonkers. This is a perfectly crazy way to behave. Yet economics, like much else in academia, is too insular....The nature of this failure is that it creates what I always call, 'man with a hammer syndrome.' And that's taken from the folk saying: To the man with only a hammer, every problem looks pretty much like a nail. And that works marvelously to gum up all professions, and all departments of academia, and indeed most practical life. The only antidote for being an absolute -5- klutz due to the presence of a man with a hammer syndrome is to have a full kit of tools. You don't have just a hammer. You've got all the tools. And you've got to have one more trick. You've got to use those tools checklist-style, because you'll miss a lot if you just hope that the right tool is going to pop up unaided whenever you need it. But if you've got a full list of tools, and go through them in your mind, checklist-style, you will find a lot of answers that you won't find any other way. So limiting this big general objection that so disturbed Alfred North Whitehead is very important, and there are mental tricks that help do the job. - Munger
 
 <br>
 </details>
@@ -2524,7 +2524,7 @@ Many people try to hide their inadequacies by saying something when they have no
 
 Be very careful of people who show false expertise.
 
-> The principal job of an academic administration is to keep the people who don’t matter from interfering with the work of the people that do. — Munger
+> The principal job of an academic administration is to keep the people who don’t matter from interfering with the work of the people that do. - Munger
 
 <br>
 </details>
@@ -2574,11 +2574,11 @@ A bias which is rooted in religious, political, or philosophical ideas. These id
 
 In psychology, cognitive dissonance is the discomfort experienced when simultaneously holding two or more conflicting cognitions: ideas, beliefs, values or emotional reactions.
 
-> Another thing to avoid is extremely intense ideology because it cabbages up one’s mind. You see a lot of it in the worst of the TV preachers. They have different, intense, inconsistent ideas about technical theology, and a lot of them have minds reduced to cabbage. And that can happen with political ideology. And if you’re young, it’s particularly easy to drift into intense and foolish political ideology and never get out. When you announce that you’re a loyal member of some cult-like group and you start shouting out the orthodox ideology, what you’re doing is pounding it in, pounding it in. You’re ruining your mind, sometimes with starling speed. So you want to be careful with intense ideology. It presents a big danger for the only mind you’re ever going to have. — Munger
+> Another thing to avoid is extremely intense ideology because it cabbages up one’s mind. You see a lot of it in the worst of the TV preachers. They have different, intense, inconsistent ideas about technical theology, and a lot of them have minds reduced to cabbage. And that can happen with political ideology. And if you’re young, it’s particularly easy to drift into intense and foolish political ideology and never get out. When you announce that you’re a loyal member of some cult-like group and you start shouting out the orthodox ideology, what you’re doing is pounding it in, pounding it in. You’re ruining your mind, sometimes with starling speed. So you want to be careful with intense ideology. It presents a big danger for the only mind you’re ever going to have. - Munger
 
-> I have what I call in “iron prescription” that helps me keep sane when I drift toward preferring one intense ideology over another. I feel that I’m not entitled to have an opinion unless I can state the arguments against my position better than the people who are in opposition. I think that I am qualified to speak only when I’ve reached that state. — Munger
+> I have what I call in “iron prescription” that helps me keep sane when I drift toward preferring one intense ideology over another. I feel that I’m not entitled to have an opinion unless I can state the arguments against my position better than the people who are in opposition. I think that I am qualified to speak only when I’ve reached that state. - Munger
 
-> The business of not drifting into extreme ideology is very, very important in life. If you want to end up wise, heavy ideology is very likely to prevent that outcome. — Munger
+> The business of not drifting into extreme ideology is very, very important in life. If you want to end up wise, heavy ideology is very likely to prevent that outcome. - Munger
 
  <br>
 </details>
@@ -2590,7 +2590,7 @@ In psychology, cognitive dissonance is the discomfort experienced when simultane
 
 People are more affected by loss than by gains, or by what they have to lose.
 
-Charlie Munger on a common psychological misjudgment that causes terrible problems—bias from deprival super-reaction syndrome. It is caused by present or threatened scarcity, including threatened removal of something almost possessed but never possessed.
+Charlie Munger on a common psychological misjudgment that causes terrible problems-bias from deprival super-reaction syndrome. It is caused by present or threatened scarcity, including threatened removal of something almost possessed but never possessed.
 
 It is a loss aversion. Loss aversion refers to people’s tendency to strongly prefer avoiding losses to acquiring gains. Most studies suggest that losses are twice as powerful, psychologically, as gains.
 
@@ -2618,7 +2618,7 @@ The lollapalooza effect can cause huge negative effects but it can also cause ma
 
 Munger stated that while psychologists have been good at identifying individual biases, they are less good at figuring out how they interact and manifest in the real world, because it is difficult to run controlled experiments in that environment.
 
-> The psychology people couldn't do experiments that were four or five things happening at once because it got too complicated for them and they couldn't publish. So they were ignoring the most important thing in their own profession. And of course the other thing that was important was to synthesize psychology with all else. And the trouble with the psychology profession is that they don't know anything about all else. — Charlie Munger
+> The psychology people couldn't do experiments that were four or five things happening at once because it got too complicated for them and they couldn't publish. So they were ignoring the most important thing in their own profession. And of course the other thing that was important was to synthesize psychology with all else. And the trouble with the psychology profession is that they don't know anything about all else. - Charlie Munger
 
  <br>
 </details>
@@ -2660,11 +2660,11 @@ This is also known as Halo effect. We all like engaging in activities with beaut
 
 The next one on the list is similarity. We like people who resemble us. Whether it’s appearance, opinions, lifestyle or background, we tend to favor people who are similar to ourselves. A great example of similarity bias is the case of dress. Numerous studies suggest that we are more likely to do favors, such as giving a dime or signing a petition, to someone who looks like us.
 
-> Hating and disliking also cause miscalculation triggered by mere association. In business, I commonly see people under-appraise both the competency and morals of competitors the dislike. This is a dangerous practice, usually disguised because it occurs on a subconscious basis. — Charlie Munger
+> Hating and disliking also cause miscalculation triggered by mere association. In business, I commonly see people under-appraise both the competency and morals of competitors the dislike. This is a dangerous practice, usually disguised because it occurs on a subconscious basis. - Charlie Munger
 
-> Love your enemies, for they tell your faults. Focus on the point discussed and not the person who is making it. — Benjamin Franklin
+> Love your enemies, for they tell your faults. Focus on the point discussed and not the person who is making it. - Benjamin Franklin
 
-> Because of liking tendency we tend to like who are physically attractive, popular, cooperative, or people we have positive associations with. Also, those who are similar to us in background, opinion, lifestyle, interest, attitude, looks, values, and belief. We also like and trust anything familiar. Most people prefer to say yes to the requests of someone they know and like. It’s a natural tendency to ignore the faults of those we find likeable while doing just the opposite to the people we don’t like. — Robert Cialdini
+> Because of liking tendency we tend to like who are physically attractive, popular, cooperative, or people we have positive associations with. Also, those who are similar to us in background, opinion, lifestyle, interest, attitude, looks, values, and belief. We also like and trust anything familiar. Most people prefer to say yes to the requests of someone they know and like. It’s a natural tendency to ignore the faults of those we find likeable while doing just the opposite to the people we don’t like. - Robert Cialdini
 
  <br>
 </details>
@@ -2682,15 +2682,15 @@ Confirmation bias clouds our judgment. It gives us a skewed view of information,
 
 But failing to interpret information in an unbiased way can lead to serious misjudgments. It can create bad habit patterns. Research has shown that when you recall episodic memory, you will fill in information using confirmation bias, thus enforcing your memory to recall only what you believe in and refute the ones that you don't believe in. Wikipedia has a great take on confirmation bias:
 
-> It is an important type of cognitive bias that has a significant effect on the proper functioning of society by distorting evidence-based decision-making. People display this bias when they gather or remember information selectively, or when they interpret it in a biased way. The effect is strongest for desired outcomes, for emotionally charged issues, and for deeply entrenched beliefs. People also tend to interpret ambiguous evidence as supporting their existing position. — Wikipedia
+> It is an important type of cognitive bias that has a significant effect on the proper functioning of society by distorting evidence-based decision-making. People display this bias when they gather or remember information selectively, or when they interpret it in a biased way. The effect is strongest for desired outcomes, for emotionally charged issues, and for deeply entrenched beliefs. People also tend to interpret ambiguous evidence as supporting their existing position. - Wikipedia
 
 **Darwin on prejudice**: In any good scientific experiments, researchers should seek to falsify their hypotheses, not to confirm them. Darwin knew this really well and was determined to avoid prejudice. Darwin goes through remarkable lengths to prevent what psychologists call “confirmation bias” and other forms of psychological misjudgment that would deteriorate his work. He undoubtedly realized that he can fool himself subconsciously, and put in place various habits to keep prejudice in check.
 
-> I have steadily endeavoured to keep my mind free so as to give up any hypothesis, however much beloved (and I cannot resist forming one on every subject), as soon as facts are shown to be opposed to it. Indeed, I have had no choice but to act in this manner, for with the exception of the Coral Reefs, I cannot remember a single ﬁrst-formed hypothesis which had not after a time to be given up or greatly modiﬁed. — Charles Darwin
+> I have steadily endeavoured to keep my mind free so as to give up any hypothesis, however much beloved (and I cannot resist forming one on every subject), as soon as facts are shown to be opposed to it. Indeed, I have had no choice but to act in this manner, for with the exception of the Coral Reefs, I cannot remember a single ﬁrst-formed hypothesis which had not after a time to be given up or greatly modiﬁed. - Charles Darwin
 
 Even when Darwin began to appreciate the formation of new species, a theory that had been a mystery to him for years, he was anxious to work on it so as to avoid any prejudice.
 
-> The result of this would be the formation of new species. Here then I had at last got a theory by which to work; but I was so anxious to avoid prejudice, that I determined not for some time to write even the briefest sketch of it. — Charles Darwin
+> The result of this would be the formation of new species. Here then I had at last got a theory by which to work; but I was so anxious to avoid prejudice, that I determined not for some time to write even the briefest sketch of it. - Charles Darwin
 
 Our natural inclination is to cling to our beliefs, particularly if we are reinforced by recent experiences–a flaw within our makeup. Darwin was good at realizing this flaw. If all scientists do a better job of addressing their confirmation bias, we could save a huge amount of time and money. Not everyone is Darwin, so we must remember not to take science at face value because the reporting could be biased due to confirmation bias.
 
@@ -2704,29 +2704,29 @@ Even if you were right all along, it is worth conducting this exercise to stress
 
 **Confirmation bias & self-confidence**: Many people deny that they are affected by confirmation bias. After all, most of us see ourselves as intelligent and rational people. But we don't give enough credit to our emotional state. Not understanding this can create cognitive dissonance which we mistake it for self-confidence. We are bombarded by information. It comes from other people, the media, our experience, and various other sources. Our minds must find means of encoding, storing, and retrieving the data we are exposed to. One way we do this is by developing cognitive shortcuts and models. These can be either useful or unhelpful. Constantly evaluating our worldview is exhausting, so we prefer to strengthen it instead. Plus holding different ideas in our head is hard work. It’s much easier to just focus on one and create wrong models in our head leading to over-confidence. A very difficult journey to embark on, but we must at least strive to fight for our confirmation biases.
 
-> Man is not a rational animal, he is a rationalizing animal. — Robert Heinlein
+> Man is not a rational animal, he is a rationalizing animal. - Robert Heinlein
 
-> As a man wants, so shall he believe. — Greek Philosopher
+> As a man wants, so shall he believe. - Greek Philosopher
 
-> The eye sees only what the mind is prepared to comprehend. — Robertson Davies
+> The eye sees only what the mind is prepared to comprehend. - Robertson Davies
 
-> One of the biggest problems with the world today is that we have large groups of people who will accept whatever they hear on the grapevine, just because it suits their worldview—not because it is actually true or because they have evidence to support it. — Neil deGrasse Tyson
+> One of the biggest problems with the world today is that we have large groups of people who will accept whatever they hear on the grapevine, just because it suits their worldview-not because it is actually true or because they have evidence to support it. - Neil deGrasse Tyson
 
-> The most difficult subjects can be explained to the most slow-witted man if he has not formed any idea of them already; but the simplest thing cannot be made clear to the most intelligent man if he is firmly persuaded that he knows already, without a shadow of doubt, what is laid before him. — Leo Tolstoy
+> The most difficult subjects can be explained to the most slow-witted man if he has not formed any idea of them already; but the simplest thing cannot be made clear to the most intelligent man if he is firmly persuaded that he knows already, without a shadow of doubt, what is laid before him. - Leo Tolstoy
 
-> Beliefs can survive potent logical or empirical challenges. They can survive and even be bolstered by evidence that most uncommitted observers would agree logically demands some weakening of such beliefs. They can even survive the destruction of their original evidential bases. — Lee Ross and Craig Anderson
+> Beliefs can survive potent logical or empirical challenges. They can survive and even be bolstered by evidence that most uncommitted observers would agree logically demands some weakening of such beliefs. They can even survive the destruction of their original evidential bases. - Lee Ross and Craig Anderson
 
-> The confirmation bias is so fundamental to your development and your reality that you might not even realize it is happening. We look for evidence that supports our beliefs and opinions about the world but excludes those that run contrary to our own… In an attempt to simplify the world and make it conform to our expectations, we have been blessed with the gift of cognitive biases. — Sia Mohajer
+> The confirmation bias is so fundamental to your development and your reality that you might not even realize it is happening. We look for evidence that supports our beliefs and opinions about the world but excludes those that run contrary to our own… In an attempt to simplify the world and make it conform to our expectations, we have been blessed with the gift of cognitive biases. - Sia Mohajer
 
-> The human understanding when it has once adopted an opinion, draws all things else to support and agree with it. And though there be a greater number and weight of instances to be found on the other side, yet these it either neglects and despises, or else by some distinction sets aside and rejects. — Francis Bacon
+> The human understanding when it has once adopted an opinion, draws all things else to support and agree with it. And though there be a greater number and weight of instances to be found on the other side, yet these it either neglects and despises, or else by some distinction sets aside and rejects. - Francis Bacon
 
-> The desire to be right and the desire to have been right are two desires, and the sooner we separate them the better off we are. The desire to be right is the thirst for truth. On all counts, both practical and theoretical, there is nothing but good to be said for it. The desire to have been right, on the other hand, is the pride that goeth before a fall. It stands in the way of our seeing we were wrong, and thus blocks the progress of our knowledge. — Willard V. Quine and J.S. Ullian
+> The desire to be right and the desire to have been right are two desires, and the sooner we separate them the better off we are. The desire to be right is the thirst for truth. On all counts, both practical and theoretical, there is nothing but good to be said for it. The desire to have been right, on the other hand, is the pride that goeth before a fall. It stands in the way of our seeing we were wrong, and thus blocks the progress of our knowledge. - Willard V. Quine and J.S. Ullian
 
-> When you forget that people and ideas are separate, your entire thinking process is laden with a crippling burden: to protect your beliefs like you protect your body. — Tim Urban
+> When you forget that people and ideas are separate, your entire thinking process is laden with a crippling burden: to protect your beliefs like you protect your body. - Tim Urban
 
-> The number one thing that clouds us from being able to see reality is that we have preconceived notions of the way it should be. — Naval Ravikant
+> The number one thing that clouds us from being able to see reality is that we have preconceived notions of the way it should be. - Naval Ravikant
 
-> What the human being is best at doing is interpreting all new information so that their prior conclusions remain intact. — Warren Buffett
+> What the human being is best at doing is interpreting all new information so that their prior conclusions remain intact. - Warren Buffett
 
  <br>
 </details>
@@ -2778,7 +2778,7 @@ In every systematic inquiry (methodos) where there are first principles, or caus
 
 Langer showed that when asking for a favor from a stranger, simply giving a reason for the request (because), even if it’s artificial (because I have to make copies), greatly increases the odds of the person complying. Reasoning from first principles, rather than by analogy (previous experiences) can open up the door to learning, better work results, or prevent manipulation. First principles thinking can be easy to describe, but can be quite difficult to practice.
 
-**Why is reasoning necessary?** We love to have reasons as Langer's experiment proves people to comply. Therefore, make sure to share the reasons why the task is important before delegating. Charlie Munger shares the story of Carl Braun, the creator of CF Braun Engineering Company —
+**Why is reasoning necessary?** We love to have reasons as Langer's experiment proves people to comply. Therefore, make sure to share the reasons why the task is important before delegating. Charlie Munger shares the story of Carl Braun, the creator of CF Braun Engineering Company -
 
 > His rule for all the Braun Company’s communications was called the five W’s – you had to tell who was going to do what, where, when and why. And if you wrote a letter or directive in the Braun Company telling somebody to do something, and you didn’t tell him why, you could get fired. In fact, you would get fired if you did it twice. You might ask why that is so important? Well, again that’s a rule of psychology. Just as you think better if you array knowledge on a bunch of models that are basically answers to the question, why, why, why, if you always tell people why, they’ll understand it better, they’ll consider it more important, and they’ll be more likely to comply. Even if they don’t understand your reason, they’ll be more likely to comply. So there’s an iron rule that just as you want to start getting worldly wisdom by asking why, why, why in communicating with other people about everything, you want to include why, why, why.
 
@@ -2792,11 +2792,11 @@ So what do you do to not get mis-influenced by intentional reasonings?
 
 > You look at the fundamentals and construct your reasoning from that and then see if you have a conclusion that works or doesn’t work. And it may or may not be different from what people have done in the past. It’s harder to think that way, though.
 
-> I think people’s thinking process is too bound by convention or analogy to prior experiences. It’s rare that people try to think of something on a first principles basis. They’ll say, “We’ll do that because it’s always been done that way.” Or they’ll not do it because “Well, nobody’s ever done that, so it must not be good. But that’s just a ridiculous way to think. You have to build up the reasoning from the ground up—“from the first principles” is the phrase that’s used in physics. You look at the fundamentals and construct your reasoning from that, and then you see if you have a conclusion that works or doesn’t work, and it may or may not be different from what people have done in the past.
+> I think people’s thinking process is too bound by convention or analogy to prior experiences. It’s rare that people try to think of something on a first principles basis. They’ll say, “We’ll do that because it’s always been done that way.” Or they’ll not do it because “Well, nobody’s ever done that, so it must not be good. But that’s just a ridiculous way to think. You have to build up the reasoning from the ground up-“from the first principles” is the phrase that’s used in physics. You look at the fundamentals and construct your reasoning from that, and then you see if you have a conclusion that works or doesn’t work, and it may or may not be different from what people have done in the past.
 
-Richard Feynman was also known for using first principles to understand the basics —
+Richard Feynman was also known for using first principles to understand the basics -
 
-> I don’t know what’s the matter with people: they don’t learn by understanding; they learn by some other way—by rote or something. Their knowledge is so fragile!
+> I don’t know what’s the matter with people: they don’t learn by understanding; they learn by some other way-by rote or something. Their knowledge is so fragile!
 
 How to implement first-principles?
 
@@ -2825,13 +2825,13 @@ The last W is important because you can uncover a lot of details by asking *Why*
 
 Kids consistently push their parents with questions but the adults think it is stunning how quickly they learn. However, it is natural for kids to be curious and creative during their formative years because they are trying to understand the world around them. Adults choose not to be creative because they fail to reason. Busy is the enemy of adults and as we grow older, we rely on general convention but this puts blinders on perspectives and thoughts because we outsource our thinking to someone else. To defy conventional wisdom, we must think for ourselves and reason from first principles. Analogies are great to understand a topic further, but they cannot replace the understanding of basic knowledge. Thinking in first principles won't imprison us with someone else's thoughts. Doing this will unleash creative and original thinking.
 
-> I think most people can learn a lot more than they think they can. They sell themselves short without trying. One bit of advice: it is important to view knowledge as sort of a semantic tree — make sure you understand the fundamental principles, i.e., the trunk and big branches, before you get into the leaves/details or there is nothing for them to hang on to. — Elon Musk
+> I think most people can learn a lot more than they think they can. They sell themselves short without trying. One bit of advice: it is important to view knowledge as sort of a semantic tree - make sure you understand the fundamental principles, i.e., the trunk and big branches, before you get into the leaves/details or there is nothing for them to hang on to. - Elon Musk
 
-> As to methods, there may be a million and then some, but principles are few. The man who grasps principles can successfully select his own methods. The man who tries methods, ignoring principles, is sure to have trouble. — Harrington Emerson
+> As to methods, there may be a million and then some, but principles are few. The man who grasps principles can successfully select his own methods. The man who tries methods, ignoring principles, is sure to have trouble. - Harrington Emerson
 
-> The idea is that reasoning from first principles is reasoning like a scientist. You take core facts and observations and use them to puzzle together a conclusion, kind of like a chef playing around with raw ingredients to try to make them into something good. By doing this puzzling, a chef eventually writes a new recipe. The other kind of reasoning—reasoning by analogy—happens when you look at the way things are already done and you essentially copy it, with maybe a little personal tweak here and there—kind of like a cook following an already written recipe. A pure verbatim recipe-copying cook and a pure independently inventive chef are the two extreme ends of what is, of course, a spectrum. But for any particular of your life that involves reasoning and decision making, wherever you happen to be on the spectrum, your reasoning process can usually be boiled down to fundamentally chef-like or fundamentally cook-like. Creating vs. copying. Originality vs. conformity. — Wait but why
+> The idea is that reasoning from first principles is reasoning like a scientist. You take core facts and observations and use them to puzzle together a conclusion, kind of like a chef playing around with raw ingredients to try to make them into something good. By doing this puzzling, a chef eventually writes a new recipe. The other kind of reasoning-reasoning by analogy-happens when you look at the way things are already done and you essentially copy it, with maybe a little personal tweak here and there-kind of like a cook following an already written recipe. A pure verbatim recipe-copying cook and a pure independently inventive chef are the two extreme ends of what is, of course, a spectrum. But for any particular of your life that involves reasoning and decision making, wherever you happen to be on the spectrum, your reasoning process can usually be boiled down to fundamentally chef-like or fundamentally cook-like. Creating vs. copying. Originality vs. conformity. - Wait but why
 
-> To understand is to know what to do. — Wittgenstein
+> To understand is to know what to do. - Wittgenstein
 
  <br>
 </details>

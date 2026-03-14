@@ -38,14 +38,14 @@ This is a collection of short essays about theories and ideas surrounding not on
 
 ## III. Quotes
 
-- Design is the animating principle of all creative processes. — Vasari
+- Design is the animating principle of all creative processes. - Vasari
 - It is no secret that the real world in which the designer functions is not the world of art, but the world of buying and selling.
 - Design is a problem-solving activity.
 - Dignity, like understanding, is a general term, a principal of action.
 - The problems of optical illusion and visual distortion are but a few considerations about which the designer must be aware.
 - Functionalism does not preclude beauty, but it certainly does not guarantee it either.
-- A mind so disciplined should be both more abstract and more concrete. It has been trained in the comprehension of abstract thought and in the analysis of facts. — Alfred North Whitehead
-- It is impossible to define cold without contrasting it with heat. It is impossible to comprehend life if death is ignored. Black is the color of death, but by virtue of the same psychological fact it is also the color of life—it defines, contrasts, and enhances life, light, and color.
+- A mind so disciplined should be both more abstract and more concrete. It has been trained in the comprehension of abstract thought and in the analysis of facts. - Alfred North Whitehead
+- It is impossible to define cold without contrasting it with heat. It is impossible to comprehend life if death is ignored. Black is the color of death, but by virtue of the same psychological fact it is also the color of life-it defines, contrasts, and enhances life, light, and color.
 - The source of the creative impulse is a mystery. Where do ideas come from?
 - Curiosity is the common denominator and the pleasure of discovery an important by-product.
 - Don't try to be original; just try to be good.
@@ -65,6 +65,6 @@ the beautiful and useful. Copy, art, and typography should be seen as a living e
 - Design is a way of life, a point of view. It involves the whole complex of visual communications: talent, creative ability, manual skill, and technical knowledge. Aesthetics and economics, technology and psychology are intrinsically related to the process.
 - The artist is a collector of things imaginary or real. He accumulates things with the same enthusiasm that a little boy stuffs his pockets. The scrap heap and the museum are embraced with equal curiosity. He takes snapshots, makes notes and records impressions on tablecloths or newspapers, on backs of envelopes or matchbooks. Why one thing and not another is part of the mystery, but he is omnivorous.
 - The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring.
-- The hardest thing to see is what is in front of your eyes. — Goethe
-- Stubbornness may be one of the designer's admirable or notorious qualities (depending on one's point of view)—a principled refusal to compromise, or a means of camouflaging inadequacy. Design clichés, meaningless patterns, stylish illustrations, and predetermined solutions are signs of such weakness. An understanding of the significance of modernism and familiarity with the history of design, painting, architecture, and other disciplines, which distinguish the educated designer and make his role more meaningful, are not every designer's strong points.
+- The hardest thing to see is what is in front of your eyes. - Goethe
+- Stubbornness may be one of the designer's admirable or notorious qualities (depending on one's point of view)-a principled refusal to compromise, or a means of camouflaging inadequacy. Design clichés, meaningless patterns, stylish illustrations, and predetermined solutions are signs of such weakness. An understanding of the significance of modernism and familiarity with the history of design, painting, architecture, and other disciplines, which distinguish the educated designer and make his role more meaningful, are not every designer's strong points.
 - Technologically, scientifically, and hygienically packages of today are practical, but are they beautiful? Functionalism does not preclude beauty, but it certainly does not guarantee it either. The obsession with functional shapes and new materials is a questionable limitation even for the conscientious designer blessed with a sensitive client. It tends to promote a misconception of simplicity, translating this admirable quality into bareness or rendering it self-conscious to the point of vapidity.

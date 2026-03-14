@@ -18,28 +18,28 @@ The breaking news, latest headlines, and news feed refresh like Luisa Madrigal s
 
 Two cultural forces conspire to drain our reserves.
 
-First, the engineered content ecosystem that surrounds us—feeds designed not to inform but to agitate, bots amplifying outrage, platforms that promised expression but delivered identity construction instead. Urgency becomes impossible to distinguish from performance. Everyone orbits their own universe, incentivized to pull you into their gravity well. The dopamine hits arrive right on schedule, and so does the depletion.
+First, the engineered content ecosystem that surrounds us-feeds designed not to inform but to agitate, bots amplifying outrage, platforms that promised expression but delivered identity construction instead. Urgency becomes impossible to distinguish from performance. Everyone orbits their own universe, incentivized to pull you into their gravity well. The dopamine hits arrive right on schedule, and so does the depletion.
 
 Then there's achievement culture, which transforms celebration into projection. You scroll past someone's highlight reel and feel envy corrode your self-respect. Before long, you are playing status games you never agreed to, forgetting why you showed up in the first place.
 
-Both dynamics feed the same beast—rage. And rage is the enemy of authorship. Trapped in manufactured fury, you stop listening to your inner voice. You become a character in someone else's narrative instead of writing your own.
+Both dynamics feed the same beast-rage. And rage is the enemy of authorship. Trapped in manufactured fury, you stop listening to your inner voice. You become a character in someone else's narrative instead of writing your own.
 
-The result is doomer mentality—insecurity metastasizing into despair. We crush the caterpillars and complain there are so few butterflies.
+The result is doomer mentality-insecurity metastasizing into despair. We crush the caterpillars and complain there are so few butterflies.
 
 What is the way through? Is there anything left that is under your control when you feel so cynical?
 
 Despair is not destiny. There are ways to navigate between cynicism, optimism, and pessimism:
 
-1. Humility as foundation. Not false modesty, but genuine openness—approaching situations with curiosity rather than judgment. Modest views create space for healthy engagement. They allow us to be wrong, to learn, to grow.
+1. Humility as foundation. Not false modesty, but genuine openness-approaching situations with curiosity rather than judgment. Modest views create space for healthy engagement. They allow us to be wrong, to learn, to grow.
 2. Choosing hope over cynicism. Hope isn't naive. It is hard-earned, deliberately chosen. When the world cries out, hopefulness is what makes someone show up. It's what we reach for when we are lonely and defenseless. It's the hand that pulls us from darkness.
-3. The redemptive power of small acts. Social workers understand this—they volunteer time, sacrifice dreams, fight daily for what is worth defending. Kindness isn't grand gestures; it is showing up consistently with your time and attention.
+3. The redemptive power of small acts. Social workers understand this-they volunteer time, sacrifice dreams, fight daily for what is worth defending. Kindness isn't grand gestures; it is showing up consistently with your time and attention.
 4. Pessimism as tool, not identity. Yes, critical thinking has its place. Exposing nonsense matters. But reflexive caution can prevent necessary progress. In pivotal moments, ask whether caution is actually serving you.
 5. Skepticism, not cynicism. Cynicism often mistaken for intelligence leads to depression and isolation. It's a lack of faith in people. Skepticism, conversely, is lack of faith in our assumptions. Cynics imagine humanity is awful; skeptics gather information about who to trust. Skeptics hold beliefs lightly and learn quickly.
 6. Building resilience deliberately. An entire generation has never experienced real downturn. The false security they have cultivated won't protect them when storms arrive. Nobody complains about surplus resilience.
 
-What I'd tell my children—it is worth putting a wager on an optimist.
+What I'd tell my children-it is worth putting a wager on an optimist.
 
-Here's the hardest truth: optimism is a choice that must be constantly reaffirmed. Pessimism costs nothing—it is the default setting, requiring no effort. Optimism demands work in a hostile, cynical world. It means consistently demonstrating that positivity has merit.
+Here's the hardest truth: optimism is a choice that must be constantly reaffirmed. Pessimism costs nothing-it is the default setting, requiring no effort. Optimism demands work in a hostile, cynical world. It means consistently demonstrating that positivity has merit.
 
 To be an optimist, you must adopt three core assumptions: 
 
@@ -47,15 +47,15 @@ To be an optimist, you must adopt three core assumptions:
 2. People's intentions are mostly good. 
 3. Ideas are fragile and need nurturing.
 
-Every new idea is an unrealized dream, delicate and easily destroyed. When an idea presents itself, the optimist's task is to imagine its best version—what would make this great?
+Every new idea is an unrealized dream, delicate and easily destroyed. When an idea presents itself, the optimist's task is to imagine its best version-what would make this great?
 
-Both pessimism and optimism are self-fulfilling prophecies. Your intention shapes the outcome. Call it karma or simply effort—I'd rather inhabit a future with the possibility of greatness.
+Both pessimism and optimism are self-fulfilling prophecies. Your intention shapes the outcome. Call it karma or simply effort-I'd rather inhabit a future with the possibility of greatness.
 
 Only optimists create great futures. Only optimists can imagine them. Only optimists will do the work to build them.
 
-Besides optimism, we should invest in our communities. Lightness is what is missing from people's lives. We retreat into silos when we should be gathering—artists, photographers, writers, all praising the same creative force. Cynicism hurts the heart. It breeds judgment, closes minds, creates fear. Connectivity is our birthright.
+Besides optimism, we should invest in our communities. Lightness is what is missing from people's lives. We retreat into silos when we should be gathering-artists, photographers, writers, all praising the same creative force. Cynicism hurts the heart. It breeds judgment, closes minds, creates fear. Connectivity is our birthright.
 
-There are only two modes—fear or love. When cynicism creeps in, return to your heart. Be gentle. We feel trapped in this cynical world because we've forgotten our connectivity. You are not a random collection of DNA. You are a member of the human community. You have a role. You belong. 
+There are only two modes-fear or love. When cynicism creeps in, return to your heart. Be gentle. We feel trapped in this cynical world because we've forgotten our connectivity. You are not a random collection of DNA. You are a member of the human community. You have a role. You belong. 
 
 Trust breeds magic. When someone trusts you, you grow into that person. World peace becomes possible when communities focus on goodness.
 

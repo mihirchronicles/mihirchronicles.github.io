@@ -26,7 +26,7 @@ This book goes into my re-read section. It has pure wisdom on how to deal with p
         - These consulting companies are led by tentative and risk averse CEOs
         - They do massive audit, find the flaws, and present leadership with a new plan that will magically “fix” everything. This is a fairy tale.
         - Too many new grads start here because of pay and luxury to travel around the world with powerful executives to learn how to make a business successful. But there is only one problem. You don't learn how to build or run a company.
-        - Steve Jobs on consultants: You do get a broad cut at companies but it's very thin. It's like a picture of a banana: you might get a very accurate picture but it's only two dimensions, and without the experience of actually doing it you never get three dimensional. So you might have a lot of pictures on your walls, you can show it off to your friends—I've worked in bananas, I've worked in peaches, I've worked in grapes—but you never really taste it.
+        - Steve Jobs on consultants: You do get a broad cut at companies but it's very thin. It's like a picture of a banana: you might get a very accurate picture but it's only two dimensions, and without the experience of actually doing it you never get three dimensional. So you might have a lot of pictures on your walls, you can show it off to your friends-I've worked in bananas, I've worked in peaches, I've worked in grapes-but you never really taste it.
         - To do great things, to really learn, you can't shout suggestions from the rooftop then move on while someone else does the work. You have to get your hands dirty. You have to care about every step, lovingly craft every detail. You have to be there when it falls apart so you can put it back together.
     - As an individual contributor you need to occasionally do two things: look up and look around.
         - Look up: look beyond the next deadline or project and forward. Make sure the mission still makes sense.
@@ -39,7 +39,7 @@ This book goes into my re-read section. It has pure wisdom on how to deal with p
         - Remember that once you become a manager, you'll stop doing the thing that made you successful in the first place. Your job is now communication, and more communication, recruiting, people management, budgets, reviews and conflict management.
         - Becoming a manager is a discipline. Management is a learned skilled, not a talent.
         - Being exacting and expecting great work is not a micromanagement. Your job is to make sure the team produces high-quality work.
-        - Honesty is more important than style. Everyone has a style—loud, quiet, emotional, analytical, excited, reserved. You can succeed in any of these styles as long as you never shy away from respectfully telling the team the uncomfortable hard truth.
+        - Honesty is more important than style. Everyone has a style-loud, quiet, emotional, analytical, excited, reserved. You can succeed in any of these styles as long as you never shy away from respectfully telling the team the uncomfortable hard truth.
         - Don't worry that your team will outshine you. That should be your goal.
     - When you are a manager, you are no longer responsible for the work, but responsible for human beings. That is why management is a job and hard.
     - A superpower of a good manager is to be able to talk to different teams.
@@ -84,7 +84,7 @@ This book goes into my re-read section. It has pure wisdom on how to deal with p
     - A good story has 3 elements:
         - It appeals to people's rational and emotional sides. 
         - It takes complicated ideas and makes them simple. 
-        - It reminds people of the problem that's being solved—it focuses on the why.
+        - It reminds people of the problem that's being solved-it focuses on the why.
     - Jobs used analogies which gives customers superpowers. For example, Nest's rewarded customers who signed up for energy saving program by calling it a Rush Hour Rewards. It was easy to understand.
     - Your version (V1) product should be disruptive, not evolutionary. But disruption alone will not guarantee success, you can't ignore the fundamentals of execution because you think all you need is a brilliant disruption. Assuming V1 was at least a critical success, the second version of your product is an evolution of first. Refine what you've made. 
         - Evolution: a small, incremental step make something better.
@@ -131,7 +131,7 @@ This book goes into my re-read section. It has pure wisdom on how to deal with p
         - How do you use it graphically?
     - Marketing cannot be just figured out at the very end. Use marketing to prototype your product narrative. The best marketing is just telling the truth. While good marketing is anchored in human connection and empathy, creating and implementing your marketing programs can and should be a rigorous and analytical process. Templates can be used mentioned in this chapter.
     - What is product management? Why do different companies treat this role differently? It is because of the stupid abbreviation. Is it project management? Is it program management? Is it product marketing? Or is it product management?
-        - Product management or product marketing manager should be one role and have same responsibility. They work with almost every part of the business to get the product spec'd built and brought to market. But more importantly product managers are the voice to the customer. They keep every team in check to make sure they don't lose sight of the ultimate goal—happy, satisfied customers. Product managers gives customer a voice on all teams.
+        - Product management or product marketing manager should be one role and have same responsibility. They work with almost every part of the business to get the product spec'd built and brought to market. But more importantly product managers are the voice to the customer. They keep every team in check to make sure they don't lose sight of the ultimate goal-happy, satisfied customers. Product managers gives customer a voice on all teams.
         - Project managers coordinate tasks, meetings, calendars and assets to enable individual projects to get it done on time. Project managers are more than just glorified note takers. If the product manager is the voice of the product, the project manager is the voice of the project.
         - Program manager supervises group of projects and project managers focusing on long-term business objectives and short-term deliverables.
         - Responsibilities of product managers:
@@ -162,34 +162,34 @@ This book goes into my re-read section. It has pure wisdom on how to deal with p
     
 ## III. Quotes
 
-- The world is full of mediocre, middle-of-the-road companies creating mediocre, middle-of-the-road crap, but I've spent my entire life chasing after the products and people that strive for excellence. I've been incredibly lucky to learn from the best—from bold, passionate people who made a dent in the world.
+- The world is full of mediocre, middle-of-the-road companies creating mediocre, middle-of-the-road crap, but I've spent my entire life chasing after the products and people that strive for excellence. I've been incredibly lucky to learn from the best-from bold, passionate people who made a dent in the world.
 - A good mentor won't hand you the answers, but they will try to help you see your problem from a new perspective. They'll loan you some of their hard-fought advice, so you can discover your own solution.
 - This book isn't trying to be a biography, I am not dead yet. It's a mentor in a box. It's an advice encyclopedia. 
 - Your first job out of college connects in a straight line to your second and your third, that at each stage of your career you'll use your inevitable wins to propel yourself forward.
 - Adulthood is commonly thought of as the time when learning is over and living begins. Yes! I've graduated I am done! But learning never ends.
 - Traditional schooling trains people to think incorrectly about failure. You are taught a subject, you take a test, and if you fail, that's it. You are done. But once you are out of school, there is no book, no test, no grade. And if you fail, you learn.
-- The only failure in your twenties is inaction. The rest is trial and error. — Anonymous 
+- The only failure in your twenties is inaction. The rest is trial and error. - Anonymous 
 - The million of hidden decisions you'll discover when you leave home.
 - Joyful workplace could make a joyful product.
 - So even if the experience kicks your ass, the force of that kick will propel you into a new stage of your life. And you'll figure out what to do next.
 - Cool technology isn't enough. A great team isn't enough. Plenty of funding isn't enough. Too many people throw themselves at hot trends, anticipating a gold rush, and end up falling off a cliff. 
 - If you are not solving a real problem, you can't start a revolution.
 - If there are gods of software design and coding, they are Bill Atkinson and Andy Hertzfeld.
-- I can't make you the smartest or the brightest, but it's doable to be the most knowledgeable. It's possible to gather more information than somebody else. — Bill Gurley
+- I can't make you the smartest or the brightest, but it's doable to be the most knowledgeable. It's possible to gather more information than somebody else. - Bill Gurley
 - Don't get stuck between the elephant's toes so you can never see the whole beast. It's easy to mistake navigating process, red tape, job leveling, and politics for real personal growth.
 - Startups that blow all their funding on Ping-Pong instructors and free beer aren't focused on the right things.
 - The rush of imposter syndrome was almost overwhelming.
 - Even if your hands aren't on the product, they should still be on the wheel.
 - I did therapy and yoga to find balance, to change the way I reacted to the world, to better understand myself and my emotions and how others perceived them.
 - Even if every business book on Earth told me to be quiet, calming voice on the team, I couldn't do it all the time.
-- Most managers are afraid that the people who work for them are going to be better than them. But you need to think of being a manager more like being a parent or a mentor. What loving parents wants their child NOT to succeed? You want your kids to be more successful than you, right? — Kwon Oh-hyun, former CEO of Samsung Semiconductor
-- If you are a manager—congratulations, you are now a parent. Not because you should treat your employees like children, but because it's now your responsibility to help them work through failure and find success. And to be thrilled when they do.
+- Most managers are afraid that the people who work for them are going to be better than them. But you need to think of being a manager more like being a parent or a mentor. What loving parents wants their child NOT to succeed? You want your kids to be more successful than you, right? - Kwon Oh-hyun, former CEO of Samsung Semiconductor
+- If you are a manager-congratulations, you are now a parent. Not because you should treat your employees like children, but because it's now your responsibility to help them work through failure and find success. And to be thrilled when they do.
 - The data wasn't guide. At best, it was a crutch. At worst, cement shoes. It was analysis paralysis.
 - A/B testing and user testing is not product design. It's a tool. A test. At best, a diagnosis. It can tell you that something is not working, but it won't tell you how to fix it. Or it can show you an option that solves one hyperlocal issue but breaks something else downstream.
 - You can A/B test where the “Buy” button should go on a Web page, whether it should be blue or orange, but you shouldn't be testing whether or not a customer should buy online.
 - In the case of every first-generation product, we could have been shoveling forever. There was never going to be enough data to make an assured choice.
 - We made decisions. I made decisions. This is in. This is out. This is how it's going to work.
-- Storytelling is at the heart of sales. And right now you are selling—your vision, your gut, your opinion.
+- Storytelling is at the heart of sales. And right now you are selling-your vision, your gut, your opinion.
 - Most decisions we make are data-informed, but they are not data-made.
 - Pushing greatness doesn't make you an asshole. Challenging assumptions doesn't make you an asshole.
 - There's a world difference between being emphatic and passionate to benefit the customer versus bullying someone to appease your own ego.

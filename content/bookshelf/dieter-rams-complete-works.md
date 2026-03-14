@@ -6,12 +6,12 @@ path: "/bookshelf/dieter-rams-complete-works"
 
 ## I. Brief Summary
 
-This book presents the product designs of an industrial designer Dieter Rams, organized in chronological order from 1947 to 2020. Dieter Rams is an industrial designer whose collaborations with Braun and Vitsoe have produced some of the most iconic consumer products of the 20th century. Rams is known for consumer products that has defined the most recent of our society—an electric razor, blow-drier, electric tooth brush, or a lighter. Rams is credited as the lead inventor of the patented F1 mactron pocket lighter design from 1971. His greatest economic success was for the American company—the Sensor razor which went on to sell 100 million units in 1989. His design philosophy is simple, yet hard—less, but better. 
+This book presents the product designs of an industrial designer Dieter Rams, organized in chronological order from 1947 to 2020. Dieter Rams is an industrial designer whose collaborations with Braun and Vitsoe have produced some of the most iconic consumer products of the 20th century. Rams is known for consumer products that has defined the most recent of our society-an electric razor, blow-drier, electric tooth brush, or a lighter. Rams is credited as the lead inventor of the patented F1 mactron pocket lighter design from 1971. His greatest economic success was for the American company-the Sensor razor which went on to sell 100 million units in 1989. His design philosophy is simple, yet hard-less, but better. 
 
 ## II. Big Ideas
 
 - Rams describes his thoughts on what design should be:
-    - Rams has always based his design on functionality, intensive cooperation with engineers was an integral part of his practice and he was often involved in the technical development of products. He practiced what he preached—design is a process, and industrial design is teamwork with many people involved. 
+    - Rams has always based his design on functionality, intensive cooperation with engineers was an integral part of his practice and he was often involved in the technical development of products. He practiced what he preached-design is a process, and industrial design is teamwork with many people involved. 
     - Design is not just about the formal design of things, it determines the life of every individual and how we all live with one another. 
     - Design can promote social togetherness but it can also damage it.
     - Designers should not just accept the job of designing a product, but ask hard questions. 
@@ -72,6 +72,6 @@ This book presents the product designs of an industrial designer Dieter Rams, or
 - I am counting on the younger generation, who are hopefully well aware of all these problems and not just concerned with individual advantage and maximum profit. Changing the future was never easy and it has become a lot harder today.
 - I am convinced that there is an ethics of design-that there has to be one. It is time to realize that we have once again reached the end of a phase of disorientation and arbitrariness. Everything seemed possible-and we could do anything we wanted-and the _me_ came before the _we_. But we have to change our course now-before catastrophe forces us to do so.
 - I believe that one of the most important responsibilities of design-perhaps the most important, in respect of society - is to help lighten the chaos that we are forced to live in today.
-- Since we can never know anything for sure, it is simply not worth searching for certainty: but it is well worth searching for truth: and we do this chiefly by searching for mistakes, so that we can correct them! — Austrian-British philosopher Karl Popper
+- Since we can never know anything for sure, it is simply not worth searching for certainty: but it is well worth searching for truth: and we do this chiefly by searching for mistakes, so that we can correct them! - Austrian-British philosopher Karl Popper
 - If Rams shows technology, it is technology that has been civilized by design.
 - But what is the use of all the work if it is not published?

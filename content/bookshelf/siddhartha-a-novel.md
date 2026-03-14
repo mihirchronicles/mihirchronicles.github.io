@@ -24,7 +24,7 @@ Hermann Hesse is a Nobel Prize winner and his great work is reflected in this li
 - He went the way of self-denial by means of pain, through voluntarily suffering and overcoming pain, hunger, thirst, tiredness. He went the way of self-denial by means of meditation, through imagining the mind to be void of all conceptions.
 - Suffering was life, full of suffering was the world, but salvation from suffering had been found: salvation was obtained by him who would walk the path of the Buddha.
 - But be warned, oh seeker of knowledge, of the thicket of opinions and of arguing about words. There is nothing to opinions, they may be beautiful or ugly, smart or foolish, everyone can support them or discard them. But the teachings, you’ve heard from me, are no opinion, and their goal is not to explain the world to those who seek knowledge. They have a different goal; their goal is salvation from suffering. This is what Gotama teaches, nothing else.
-- This is why I am continuing my travels—not to seek other, better teachings, for I know there are none, but to depart from all teachings and all teachers and to reach my goal by myself or to die.
+- This is why I am continuing my travels-not to seek other, better teachings, for I know there are none, but to depart from all teachings and all teachers and to reach my goal by myself or to die.
 - It is not my place to judge another person’s life. Only for myself, for myself alone, I must decide, I must choose, I must refuse. Salvation from the self is what we Samanas search for.
 - “You know how to talk wisely, my friend. Be aware of too much wisdom!”
 - No teachings will entice me anymore, since this man’s teachings have not enticed me.

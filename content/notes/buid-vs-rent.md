@@ -6,7 +6,7 @@ draft: false
 path: "/notes/build-vs-rent"
 ---
 
-The trade-off between *rent* vs *own* is a dilemma in every corner of our lives. Whether it is regarding homeownership or a software platform—it is not an easy choice to make. For this essay, I will be focusing on the software platform.
+The trade-off between *rent* vs *own* is a dilemma in every corner of our lives. Whether it is regarding homeownership or a software platform-it is not an easy choice to make. For this essay, I will be focusing on the software platform.
 
 A company with critical departments such as HR, finance operations or compliance rely on ERPs, CRMs or other SaaS providers such as Workday, Atlassian, SAP or Salesforce to serve their business functions. Companies cannot ignore these functions as they scale and reach maturity.
 

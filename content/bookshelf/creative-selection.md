@@ -48,7 +48,7 @@ Ken Kocienda shares his experience of building software products and product dev
 - '...What it boils down to is one percent inspiration and ninety-nine percent perspiration.'
 - I agree with Edison. Ideas are nothing without the hard work to make them real.
 - Hard work is hard. Inspiration does not pay off without diligence.
-- ...premature optimization is the root of all evil. — Donald Knuth
+- ...premature optimization is the root of all evil. - Donald Knuth
 - People matter more than programming.
 - Empathy is a crucial part of making great products.
 - Taste is developing a refined sense of judgement and finding the balance that produces a pleasing and integrated whole.

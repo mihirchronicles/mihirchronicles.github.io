@@ -22,7 +22,7 @@ The fundamental principles of analytics remain consistent, regardless of new too
 
 Effective analysts recognize their expertise and focus on developing it. While mastery of all skills isn’t necessary, identifying strengths and leveraging them is crucial in giving rise to superpower. But one's superpower is as good as their organizational strength on analytics.
 
-All organizations want to be data driven. Everyone has “data” but they get the second part wrong—“driven.” Measuring is the job that holds the organization accountable, but is the hardest job. You are forced to face inconvenient truths, should not serve personal agenda and requires changing paths in the light of new insights. Another part of “driven” it requires an investment in data infrastructure. If an organization does not have the right tools or the right process to cleanse, structure and surface data, measuring anything will be an obstacle.
+All organizations want to be data driven. Everyone has “data” but they get the second part wrong-“driven.” Measuring is the job that holds the organization accountable, but is the hardest job. You are forced to face inconvenient truths, should not serve personal agenda and requires changing paths in the light of new insights. Another part of “driven” it requires an investment in data infrastructure. If an organization does not have the right tools or the right process to cleanse, structure and surface data, measuring anything will be an obstacle.
 
 The flip side of data is analysis paralysis.
 
@@ -38,7 +38,7 @@ Data-driven and optimization should co-exist, but too much optimization without 
 
 In mathematics, a local maximum is the largest value of a function within given parameters. That does not mean it is the largest possible value, the largest in a particular range. Consider a lake on a mountainside. The water isn't at its lowest level. It would be sea level, but it is at the lowest possible level in the area.
 
-> Data can't tell you about the future. It can only tell you about the past...You have to trust yourself and your team to go for it. — Doug McMillon​
+> Data can't tell you about the future. It can only tell you about the past...You have to trust yourself and your team to go for it. - Doug McMillon​
 
 Optimization is all about finding the lowest or highest values, but within constrained range. If you tell a machine to build a bike with 3 tires, with the most stable layout, it will come up with a tricycle-like configuration. It is the most optimal solution. However, there is another option. Four wheels would be better to provide the most stability. Math is good at optimizing a known system. Human judgement is good at finding a new one. 
 
@@ -46,15 +46,15 @@ Optimizing without a soul misses the bigger picture. Quantitative data is great 
 
 It is all about developing healthy skepticism and curiosity to get closer to the truth. You need to be opportunistic and data analytics will help you get faster to making your vision into a reality.
 
-> There are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns — the ones we don’t know we don’t know. — Donald Rumsfeld, Former US Secretary of Defense
+> There are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns - the ones we don’t know we don’t know. - Donald Rumsfeld, Former US Secretary of Defense
 
 Both insights and context are equally important. Measuring for the sake of measuring isn't enough.
 
-> Insight tells you what's happening. Context tells you why it's happening. Insight come from customers and competitors, from markets and industries, but most important, from our data.  Context comes from knowledge and experience. It applies perspective to the data. Combining insights and context gives you the full-screen picture of what is happening, why it's happening and what needs to be done. — Transformed by Marty Cagan
+> Insight tells you what's happening. Context tells you why it's happening. Insight come from customers and competitors, from markets and industries, but most important, from our data.  Context comes from knowledge and experience. It applies perspective to the data. Combining insights and context gives you the full-screen picture of what is happening, why it's happening and what needs to be done. - Transformed by Marty Cagan
 
-> Data can only improve decisions insofar as it enables us to learn about the potential outcomes associated with the alternatives under consideration. Instead of being naively data driven, we should seek to be causal information driven. Causal inference provides a set of powerful tools for understanding the extent to which causal relationships can be learned from the data we have. — Stitch Fix
+> Data can only improve decisions insofar as it enables us to learn about the potential outcomes associated with the alternatives under consideration. Instead of being naively data driven, we should seek to be causal information driven. Causal inference provides a set of powerful tools for understanding the extent to which causal relationships can be learned from the data we have. - Stitch Fix
 
-> Nike invested a material amount of dollars (billions) into something that was less effective but easier to be measured vs something that was more effective but less easy to be measured. In conclusion: an impressive waste of money. — Massimo Giunco, Nike
+> Nike invested a material amount of dollars (billions) into something that was less effective but easier to be measured vs something that was more effective but less easy to be measured. In conclusion: an impressive waste of money. - Massimo Giunco, Nike
 
 If there is one takeaway in this entire post, it is the following:
 
@@ -62,9 +62,9 @@ If there is one takeaway in this entire post, it is the following:
 
 ## Organization maturity model
 
-AMM—analytics maturity model is a sequence of steps or stages that represent the organization's evolution in leveraging data to inform business decisions. The maturity model gives context to where you are in the process and the stages ahead. There are 6 stages of the analytics maturity model and the beginning two stages are part of a starting point foundation. The stages of the analytics maturity model should build on each other, not replace each other. 
+AMM-analytics maturity model is a sequence of steps or stages that represent the organization's evolution in leveraging data to inform business decisions. The maturity model gives context to where you are in the process and the stages ahead. There are 6 stages of the analytics maturity model and the beginning two stages are part of a starting point foundation. The stages of the analytics maturity model should build on each other, not replace each other. 
 
-**Backward looking stages**—focusing on what the historical data shows already happened. 
+**Backward looking stages**-focusing on what the historical data shows already happened. 
 
 1. _Foundational_
     - Companies that are in this stage are transitioning from no analytics to prioritize and understand what data they have and where it resides.
@@ -85,7 +85,7 @@ AMM—analytics maturity model is a sequence of steps or stages that represent t
         - How have our prices changed this year compared to last year?  
     - These diagnostic questions build upon the descriptive questions. They go one level deeper, focusing not on the outcome, but instead on understanding if that outcome should have been expected, or if not, why not. This stage looks for the factors that can explain why a certain outcome happened.
 
-**Forward-looking stages**—focusing on predictive business mindset transitioning from reactive approach to proactive approach. 
+**Forward-looking stages**-focusing on predictive business mindset transitioning from reactive approach to proactive approach. 
 
 4.  _Predictive_ 
     - Questions in this stage are proactive. They focus on what is likely to happen next. Based on the information companies gather in stages two and three, here are some examples questions that can start to emerge: 
@@ -107,7 +107,7 @@ AMM—analytics maturity model is a sequence of steps or stages that represent t
 
 ## Flavors of analytics
 
-There are 3 flavors of analytics—user analytics, customer analytics and business analytics. Having this context is critical to understand how metrics interact between these various stages.
+There are 3 flavors of analytics-user analytics, customer analytics and business analytics. Having this context is critical to understand how metrics interact between these various stages.
 
 1. User analytics: 
 	- Aggregated and segmented data from all your apps
@@ -119,7 +119,7 @@ There are 3 flavors of analytics—user analytics, customer analytics and busine
 3. Business analytics:
 	- Most analytics are snapshots in time, such as what happened yesterday
 	- This stage shows product usage across time such as lifetime value of a customer (LTV), customer churn rate or customer acquisition costs across all sources
-	- This stage is a combination of all several data sources from—data warehouse, user analytics, customer analysis, CRM, and financial data
+	- This stage is a combination of all several data sources from-data warehouse, user analytics, customer analysis, CRM, and financial data
 	- Data scientists spend majority of their time here
 	- Your organization's key to success lie in your data warehouse
 
@@ -161,7 +161,7 @@ You need to keep five things in mind when picking metrics to measure.
 	- Things we know, we don't know. Are *questions* we can answer by reporting, which we should baseline and automate.
 	- Things we don't know, we know. Are *intuition* which we should quantify and teach to improve effectiveness and efficiency.
 	- Things we don't know, we don't know. Are *exploration*, which is where unfair advantage and interesting epiphanies live.
-4. *Leading vs lagging metrics.* Leading metrics give you a predictive understanding of the future; lagging metrics explain the past. Leading metrics are better because you still have time to act on them—the horse hasn't left the barn yet. Leading metric sometimes called a leading indicator. For example, a number of prospects in your sales funnel give you a sense of how many customers you'll acquire in the future. On the other hand, lagging metric such as churn gives you an indication that there's a problem. By the time you find lagging metrics and try to figure out next steps, it might be too late because they measure after the fact. Indicators are everywhere. It requires proactiveness. You need to be able to do cohort analysis and compare groups over time.
+4. *Leading vs lagging metrics.* Leading metrics give you a predictive understanding of the future; lagging metrics explain the past. Leading metrics are better because you still have time to act on them-the horse hasn't left the barn yet. Leading metric sometimes called a leading indicator. For example, a number of prospects in your sales funnel give you a sense of how many customers you'll acquire in the future. On the other hand, lagging metric such as churn gives you an indication that there's a problem. By the time you find lagging metrics and try to figure out next steps, it might be too late because they measure after the fact. Indicators are everywhere. It requires proactiveness. You need to be able to do cohort analysis and compare groups over time.
 5. *Correlated versus casual metrics.*  If two metrics change together, they are correlated, but if one metric causes another metric to change, they are causal. If you find a causal relationship between something you want (revenue) and something you can control (marketing/which ad you show), then change the future. For example, ice cream and drowning rates both happen because of summer weather, but looking at a simple correlation without demanding causality leads to bad decisions. Correlations can help you predict but finding the cause of something means you can change it. You prove causality by finding a correlation, then running an experiment in which you control the other variables and measure the difference. This is hard to do because no two users are identical; it's often impossible to subject a statistically significant number of people to a properly controlled experiment in the real world. Correlation is good. Causality is great.
 
 ### Vanity metrics
@@ -221,7 +221,7 @@ Ask the following questions:
 - What sample size is needed for a Bayesian A/B test?
 - Can a test be terminated early if results look clear?
 
-> Defining guardrail metrics for experiments is important for identifying what the organization is not willing to change. — Ron Kohavi
+> Defining guardrail metrics for experiments is important for identifying what the organization is not willing to change. - Ron Kohavi
 
 ### Cohort retention analysis
 
@@ -229,13 +229,13 @@ Retention measures the ability of your product to keep users active over time. R
 
 Cohort retention analysis allows for comparison of a same group over time. For example, user who signed up during alpha release (small group) will have a different experience than the user who signed up during beta release (larger group). 
 
-Each group of users is a cohort—participants in an experiment across their lifecycle. You can compare cohort with one another to see if key metrics are getting better. Overtime you would be releasing key features satisfying your latest cohort from initial cohort. For example, cohort analysis might show you the revenue generated from January is a lot higher than the month in December. Overtime, the revenue is declining from January cohort. But as you launch more feature, the same cohort decides to stick making the drop-off better.
+Each group of users is a cohort-participants in an experiment across their lifecycle. You can compare cohort with one another to see if key metrics are getting better. Overtime you would be releasing key features satisfying your latest cohort from initial cohort. For example, cohort analysis might show you the revenue generated from January is a lot higher than the month in December. Overtime, the revenue is declining from January cohort. But as you launch more feature, the same cohort decides to stick making the drop-off better.
 
 Be specific when defining what “active” means. Don't be too broad or too narrow. Most companies use logins or app opens as main events for the “active users” definition. But at Instacart, that doesn't mean anything unless it is tied to completing an order or at Uber taking a ride. Active needs to be defined. 
 
 Differentiate users from customers.
 
-> A customer is defined as the person/group who is paying you. A user is a person using the product. In subscription products, oftentimes there are multiple users associated with a single customer. Or people are users before they are customers. You need to separate the definition and language between these two things for teams to clearly act on them. — Brian Balfour
+> A customer is defined as the person/group who is paying you. A user is a person using the product. In subscription products, oftentimes there are multiple users associated with a single customer. Or people are users before they are customers. You need to separate the definition and language between these two things for teams to clearly act on them. - Brian Balfour
 
  Calculate retention by setting your timeline. As a team, you have to agree on what retention reporting type you should adopt. 
  
@@ -255,7 +255,7 @@ Product metrics can be split into five categories:
 
 1. Acquisition: like the number of new signups and qualified leads, measure when someone first starts using your product or service. They’re great for understanding what marketing channels are working best for your company.
 2. Activation: like activation rate and time to activate, show you how well you are moving users from acquisition through that critical “aha” moment where they discover why your product is valuable to them and, in turn, provide value to your business.
-3. Engagement: like monthly active users and feature usage, measure how (and how often) users interact with your product. Those interactions might include sharing a song or editing their profile. Users who engage with your product are considered active users. Increasing the number of daily, weekly, and monthly active users is important for company growth—but only if you measure them right.
+3. Engagement: like monthly active users and feature usage, measure how (and how often) users interact with your product. Those interactions might include sharing a song or editing their profile. Users who engage with your product are considered active users. Increasing the number of daily, weekly, and monthly active users is important for company growth-but only if you measure them right.
 4. Retention: like retention rate, free-to-paid conversions, and churn rate, gauge how many of your users return to your product over a certain period of time. These are critical metrics for your company’s growth. It doesn’t matter how fast you fill the top of your funnel if users are leaking out the bottom just as fast.
 5. Monetization: like net revenue retention, monthly recurring revenue, and average revenue per user, capture how well your business is turning engagement into revenue.
 
@@ -289,12 +289,12 @@ Product metrics can be split into five categories:
         - What sticks out?
         - Why is it sticking out?
         - How much does it stick out vs everything else?
-    - Nuances: It is powerful to see nuances when other people just see a binary yes or no. You want to be able to say— “This works for x situations, but not for y situations.”
+    - Nuances: It is powerful to see nuances when other people just see a binary yes or no. You want to be able to say- “This works for x situations, but not for y situations.”
     - Absolute numbers & percentages: If you only look at absolute numbers, big numbers will seem good and small numbers will seem bad. If you look at percentages, you’ll see the relationship between the parts and the whole.
     - Variance: Variance is about change. Change from the baseline & changes over time. 
         - How much did this change month over month? 
         - How much did it change this month vs this month last year? 
-        - Was the variance in line with industry growth—or did it outpace or lag comparatively?
+        - Was the variance in line with industry growth-or did it outpace or lag comparatively?
     - Expected vs actual: “Wow, we drove 19% growth!” might seem like good news, unless you forecasted 30% growth. This is where looking at expected vs actual number is useful. If you compare the two, you can better understand how good performance really is.
     - Percent contribution to whole: 
         - Money: “This accounts for 70% of total $.”
@@ -389,7 +389,7 @@ Product metrics can be split into five categories:
     - [Netflix Research Lab](https://research.netflix.com/research-area/analytics)
     - [Netflix Tech Blog](https://netflixtechblog.com/tagged/analytics)
 - DoorDash
-    - [Starting an Analytics Org From Scratch — Lessons From a Decade at DoorDash](https://review.firstround.com/starting-an-analytics-org-from-scratch-lessons-from-a-decade-at-doordash/)
+    - [Starting an Analytics Org From Scratch - Lessons From a Decade at DoorDash](https://review.firstround.com/starting-an-analytics-org-from-scratch-lessons-from-a-decade-at-doordash/)
 - Notion
     - [A brief history of Notion’s data catalog](https://www.notion.so/blog/a-brief-history-of-notions-data-catalog)
     - [Building and scaling Notion’s data lake](https://www.notion.so/blog/building-and-scaling-notions-data-lake)

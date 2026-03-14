@@ -6,7 +6,7 @@ path: "/bookshelf/finite-infinite-games.md"
 
 ## I. Brief Summary
 
-The core idea of the book is to understand the two games we are used to playing in our daily lives—a game with a boundary (finite play) and a game without a boundary (infinite play). A dramatic book which I struggled to finish in one sitting because it was so heavy on metaphysics and moral philosophy. But this is a great gift to the world by James Carse. He has a way to make complex topics black and white and though the world necessarily doesn't operate that way, you can visualize these two buckets while reading. For every idea he presents in the book, he proposes an opposite side of it. For example, the opposite of a boundary is a horizon; the opposite of power is strength. Power is the ability to control the way others play; strength is the ability to allow others to play as they wish. Some may dislike his book due to his presentation of moral philosophy, but irrespective of that, it has some powerful ideas. The distinction between finite games and an infinite game is heuristically very powerful to understand the world around us.
+The core idea of the book is to understand the two games we are used to playing in our daily lives-a game with a boundary (finite play) and a game without a boundary (infinite play). A dramatic book which I struggled to finish in one sitting because it was so heavy on metaphysics and moral philosophy. But this is a great gift to the world by James Carse. He has a way to make complex topics black and white and though the world necessarily doesn't operate that way, you can visualize these two buckets while reading. For every idea he presents in the book, he proposes an opposite side of it. For example, the opposite of a boundary is a horizon; the opposite of power is strength. Power is the ability to control the way others play; strength is the ability to allow others to play as they wish. Some may dislike his book due to his presentation of moral philosophy, but irrespective of that, it has some powerful ideas. The distinction between finite games and an infinite game is heuristically very powerful to understand the world around us.
 
 ## II. Big Ideas
 
@@ -52,9 +52,9 @@ The core idea of the book is to understand the two games we are used to playing 
 - **Society & Culture**
     - Society they understand as the sum of those relations that are under some form of public constraint, culture as whatever we do with each other by undirected choice. If society is all that a people feels it must do, culture is the realm of the variable, free, not necessarily universal, of all that cannot lay claim to compulsive authority.
     - Society and culture are therefore not true opponents of each other. Rather society is a species of culture that persists in contradicting itself, a freely organized attempt to conceal the freedom of the organizers and the organized, an attempt to forget that we have willfully forgotten our decision to enter this or that contest and to continue in it.
-    - Schools are a species of finite play to the degree that they bestow ranked awards on those who win degrees from them. Those awards in turn qualify graduates for competition in still higher games—certain prestigious colleges, for example, and then certain professional schools beyond that, with a continuing sequence of higher games in each of the professions, and so forth. It is not uncommon for families to think of themselves as a competitive unit in a broader finite game for which they are training their members in the struggle for societally visible titles.
+    - Schools are a species of finite play to the degree that they bestow ranked awards on those who win degrees from them. Those awards in turn qualify graduates for competition in still higher games-certain prestigious colleges, for example, and then certain professional schools beyond that, with a continuing sequence of higher games in each of the professions, and so forth. It is not uncommon for families to think of themselves as a competitive unit in a broader finite game for which they are training their members in the struggle for societally visible titles.
     - The power of citizens in a society is determined by their ranking in games that have been played. A society preserves its memory of past winners. Its record-keeping functions are crucial to societal order.
-    - Culture is an infinite game. Culture has no boundaries. Anyone can be a participant in a culture—anywhere and at any time.
+    - Culture is an infinite game. Culture has no boundaries. Anyone can be a participant in a culture-anywhere and at any time.
     - Because culture as such can have no temporal limits, a culture understands its past not as destiny, but as history, that is, as a narrative that has begun but points always toward the endlessly open.
     - For example, it is one thing for persons to choose to be Americans, quite another for persons to choose to be America. Societal thinking easily permits the former, never the latter.
 - **Art**
@@ -74,7 +74,7 @@ The core idea of the book is to understand the two games we are used to playing 
 
 - There are no rules that require us to obey rules. If there were, there would have to be a rule for those rules, and so on.
 - The rules of an infinite game have a different status from those of a finite game. They are like the grammar of a living language, where those of a finite game are like the rules of debate.
-- To believe is to know you believe, and to know you believe is not to believe. — Sartre
+- To believe is to know you believe, and to know you believe is not to believe. - Sartre
 - To be serious is to press for a specified conclusion. To be playful is to allow for possibility whatever the cost to oneself.
 - To be prepared against surprise is to be trained. To be prepared for surprise is to be educated.
 - Education leads toward a continuing self-discovery; training leads toward a final self-definition.
@@ -96,7 +96,7 @@ The core idea of the book is to understand the two games we are used to playing 
 - If a state has no enemies it has no boundaries.
 - Poets cannot kill; they die. Metaphysics cannot die; it kills.
 - To look at is to look for. It is to bring the limitations with us. 
-- Nature has no outline. Imagination has. — Blake
+- Nature has no outline. Imagination has. - Blake
 - To look is a territorial activity.
 - An audience consists of persons observing a contest without participating in it.
 - There is an irony in our silencing of the gods.

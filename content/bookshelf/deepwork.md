@@ -42,7 +42,7 @@ Cal Newport’s Deep Work is about the benefits of deep work and practical steps
 - Deep work is not some nostalgic affectation of writers and early-twentieth-century philosophers. It’s instead a skill that has great value today.
 - The superpower of the 21st century.
 - I build my days around a core of carefully chosen deep work, with the shallow activities I absolutely cannot avoid batched into smaller bursts at the peripheries of my schedule. Three to four hours a day, five days a week, of uninterrupted and carefully directed concentration, it turns out, can produce a lot of valuable output.
-- When you switch from some Task A to another Task B, your attention doesn’t immediately follow—a residue of your attention remains stuck thinking about the original task. This residue gets especially thick if your work on Task A was unbounded and of low intensity before you switched, but even if you finish Task A before moving on, your attention remains divided for a while.
+- When you switch from some Task A to another Task B, your attention doesn’t immediately follow-a residue of your attention remains stuck thinking about the original task. This residue gets especially thick if your work on Task A was unbounded and of low intensity before you switched, but even if you finish Task A before moving on, your attention remains divided for a while.
 - To produce at your peak level you need to work for extended periods with full concentration on a single task free from distraction.
 - You have a finite amount of willpower that becomes depleted as you use it.
 - Busyness as a proxy for productivity.

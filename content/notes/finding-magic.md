@@ -6,7 +6,7 @@ draft: false
 path: "/notes/finding-magic"
 ---
 
-A question worth exploring—where do you find your magic? Here is my list:
+A question worth exploring-where do you find your magic? Here is my list:
 
 1. Hiking in the mountains
 2. Walking and biking on trails surrounded by trees and water

@@ -20,7 +20,7 @@ This book is a blueprint of what it takes to be an exceptional CEO who can perfo
     - General Cinema, Dick Smith
     - Berkshire Hathaway, Warren Buffet
 - Capital allocation is “the process of deciding how to deploy the firm’s resources to earn the best possible return for shareholders.”
-- Outsiders are foxes, not hedgehogs. Isaiah Berlin, in a famous essay about Leo Tolstoy, introduced the instructive contrast between the “fox,” who knows many things, and the “hedgehog,” who knows one thing but knows it very well. Most CEOs are hedgehogsß—they grow up in an industry and by the time they are tapped for the top role, have come to know it thoroughly. There are many positive attributes associated with hedgehogness, including expertise, specialization, and focus. Foxes, however, also have many attractive qualities, including an ability to make connections across fields and to innovate, and the CEOs in this book were definite foxes. They had familiarity with other companies and industries and disciplines, and this ranginess translated into new perspectives, which in turn helped them to develop new approaches that eventually translated into exceptional results.
+- Outsiders are foxes, not hedgehogs. Isaiah Berlin, in a famous essay about Leo Tolstoy, introduced the instructive contrast between the “fox,” who knows many things, and the “hedgehog,” who knows one thing but knows it very well. Most CEOs are hedgehogsß-they grow up in an industry and by the time they are tapped for the top role, have come to know it thoroughly. There are many positive attributes associated with hedgehogness, including expertise, specialization, and focus. Foxes, however, also have many attractive qualities, including an ability to make connections across fields and to innovate, and the CEOs in this book were definite foxes. They had familiarity with other companies and industries and disciplines, and this ranginess translated into new perspectives, which in turn helped them to develop new approaches that eventually translated into exceptional results.
 - All 8 CEOs mentioned in the book were unconventional in their own rights. Why?
     - Capital allocation is a CEO’s most important job.
     - What counts in the long run is the increase in per share value, not overall growth or size.
@@ -81,25 +81,25 @@ This book is a blueprint of what it takes to be an exceptional CEO who can perfo
 - The business of business is a lot of little decisions every day mixed up with a few big decisions.
 - The lessons of these iconoclastic CEOs suggest a new, more nuanced conception of the chief executive’s job, with less emphasis placed on charismatic leadership and more on careful deployment of firm resources.
 - There is a fundamental humility to decentralization, an admission that headquarters does not have all the answers and that much of the real value is created by local managers in the field.
-- Should you find yourself in a chronically leaking boat, energy devoted to changing vessels is likely to be more productive than energy devoted to patching leaks. — Warren Buffett
-- Success leaves traces. — John Templeton
-- You are right not because others agree with you, but because your facts and reasoning are sound. — Benjamin Graham
+- Should you find yourself in a chronically leaking boat, energy devoted to changing vessels is likely to be more productive than energy devoted to patching leaks. - Warren Buffett
+- Success leaves traces. - John Templeton
+- You are right not because others agree with you, but because your facts and reasoning are sound. - Benjamin Graham
 - If you think of capital allocation more broadly as resource allocation and include the deployment of human resources, you find again that Singleton had a highly differentiated approach. Specifically, he believed in an extreme form of organizational decentralization with a wafer-thin corporate staff at headquarters and operational responsibility and authority concentrated in the general managers of the business units. This was very different from the approach of his peers, who typically had elaborate headquarters staffs replete with vice presidents and MBAs.
 - After orbiting the moon, mundane business problems did not faze him.
 - There are two basic types of resources that any CEO needs to allocate: financial and human.
 - The system in place corrupts you with so much autonomy and authority that you can’t imagine leaving.
-- What makes him a leader is precisely that he is able to think things through for himself. — William Deresiewicz
+- What makes him a leader is precisely that he is able to think things through for himself. - William Deresiewicz
 - In contrast, Murphy’s goal was to make his company more valuable. As he said to me, “The goal is not to have the longest train, but to arrive at the station first using the least fuel.”
 - Better to pay interest than taxes.
-- One of the most important decisions any CEO makes is how he spends his time—specifically, how much time he spends in three essential areas: management of operations, capital allocation, and investor relations.
+- One of the most important decisions any CEO makes is how he spends his time-specifically, how much time he spends in three essential areas: management of operations, capital allocation, and investor relations.
 - Independent thinking is essential to long-term success, and interactions with outside advisers (Wall Street, the press, etc.) can be distracting and time-consuming.
-- The heads of many companies are not skilled in capital allocation. Their inadequacy is not surprising. Most bosses rise to the top because they have excelled in an area such as marketing, production, engineering, administration, or sometimes, institutional politics. Once they become CEOs, they now must make capital allocation decisions, a critical job that they may have never tackled and that is not easily mastered. To stretch the point, it’s as if the final step for a highly talented musician was not to perform at Carnegie Hall, but instead, to be named Chairman of the Federal Reserve. — Warren Buffett
+- The heads of many companies are not skilled in capital allocation. Their inadequacy is not surprising. Most bosses rise to the top because they have excelled in an area such as marketing, production, engineering, administration, or sometimes, institutional politics. Once they become CEOs, they now must make capital allocation decisions, a critical job that they may have never tackled and that is not easily mastered. To stretch the point, it’s as if the final step for a highly talented musician was not to perform at Carnegie Hall, but instead, to be named Chairman of the Federal Reserve. - Warren Buffett
 - If everyone’s doing them, there must be something wrong with them.
-- Leadership is analysis. — Stiritz
-- Without it (analysis), chief executives are at the mercy of their bankers and CFOs. — Stiritz
-- You shape your houses and then your houses shape you. — Winston Churchill
-- What makes him a leader is precisely that he is able to think through things himself. — William Deresiewicz
-- Hire well, manage little. — Warren Buffett
+- Leadership is analysis. - Stiritz
+- Without it (analysis), chief executives are at the mercy of their bankers and CFOs. - Stiritz
+- You shape your houses and then your houses shape you. - Winston Churchill
+- What makes him a leader is precisely that he is able to think through things himself. - William Deresiewicz
+- Hire well, manage little. - Warren Buffett
 - Conglomerates were the Internet stocks of 1960s.
-- Luck is the residue of design. — Branch Rickey
+- Luck is the residue of design. - Branch Rickey
 - Tax minimization was a central component of Malone's strategy at TCI.

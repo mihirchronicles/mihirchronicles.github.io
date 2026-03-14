@@ -22,7 +22,7 @@ Product managers are forever haunted by these dynamics. You don't have to play t
 
 When there is a complexity of this nature, product management is faced with trade-offs. For example, we want to reduce the number of steps in a form but legal might want to add more to ensure all areas are covered. Or operation team might want a specific input on the form because they are getting a lot of calls but analytics finds out it is asked by 1 in every 500 customers. We have to make a decision when facing these trade-offs. But how do you make a *decision*? 
 
-*Principles* will help you fall back on a default option when there are multiple choices to pick from. For example, a principle can be—*move fast and drive impact*.
+*Principles* will help you fall back on a default option when there are multiple choices to pick from. For example, a principle can be-*move fast and drive impact*.
 
 *We deliver fast so we can learn quickly on an optimal solution by shipping and iterating fast. So anytime there are endless debates and conversations, the default behavior should be to ship fast, learn from it, and build the next iteration on the previous foundation.*
 

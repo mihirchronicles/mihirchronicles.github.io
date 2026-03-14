@@ -8,13 +8,13 @@ path: "/notes/unpacking-prioritization"
 
 Prioritization is the single most challenging responsibility of an organization. Sustaining a competitive advantage requires a continuous series of intentional choices; a lack of intentionality in these moments inevitably weakens an organization's long-term durable advantage.
 
-In complex organizations, we try to make the path of prioritization look clean, predictable, and symmetrical. We treat “prioritization” as a suitcase word. We pack everything into it—strategy, resource allocation, politics, and scheduling—and then wonder why the zipper bursts. When an organization tries to optimize for everything, it fails to prioritize anything.
+In complex organizations, we try to make the path of prioritization look clean, predictable, and symmetrical. We treat “prioritization” as a suitcase word. We pack everything into it-strategy, resource allocation, politics, and scheduling-and then wonder why the zipper bursts. When an organization tries to optimize for everything, it fails to prioritize anything.
 
 As Michael Porter argued in *Competitive Strategy*, true strategy is not about doing more; it is about choosing what *not* to do. It is about divergence.
 
-The fundamental truth is—prioritization is hard. Determining priorities is challenging, as the optimal approach is typically contingent upon the specific nature of the organizational complexity encountered.
+The fundamental truth is-prioritization is hard. Determining priorities is challenging, as the optimal approach is typically contingent upon the specific nature of the organizational complexity encountered.
 
-However, the fundamental truth remains: prioritization is hard. It is a constant negotiation between competing tensions—autonomy vs efficiency, high-leverage work vs constant optimization, and stakeholder buy-in vs execution speed. To navigate this complexity, we must look at the architecture of our decisions.
+However, the fundamental truth remains: prioritization is hard. It is a constant negotiation between competing tensions-autonomy vs efficiency, high-leverage work vs constant optimization, and stakeholder buy-in vs execution speed. To navigate this complexity, we must look at the architecture of our decisions.
 
 Organizations typically navigate decisions using two variables: the amount of friction allowed (*Discord*) and the constraints on time (*Deadline*). The combination of these variables creates three distinct environments:
 

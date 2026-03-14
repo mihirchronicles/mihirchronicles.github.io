@@ -29,13 +29,13 @@ The author writes and share their ideas on how to kick the tires on building a r
 
 ## III. Quotes
 
-- Fires can't be made with dead embers, nor can enthusiasm be stirred by spiritless men. — Balwin
+- Fires can't be made with dead embers, nor can enthusiasm be stirred by spiritless men. - Balwin
 - If you want to show that your community is alive and vibrant, you'll need to maintain a steady pulse.
 - Pride is a captivating energy.
 - Authentic, shared ownership of the group's identity only fuels a community's fire.
-- A community is a living organism. It's either declining or improving; there's no steady-state in a community. —Jennifer Sampson
-- Attention is the rarest and purest form of generosity. — Simone Weil
+- A community is a living organism. It's either declining or improving; there's no steady-state in a community. -Jennifer Sampson
+- Attention is the rarest and purest form of generosity. - Simone Weil
 - Catalyst are as rare as they are potent.
 - New leaders breathe life into a community. Embrace process to figure out how to give them the support that they need, every step of the way.
 - Celebrations are festive moments that revitalize a group.
-- The dream of a peaceful society to me is still the dream of the potluck supper. The society in which all can contribute, and all can find friendship. — Ursula Franklin
+- The dream of a peaceful society to me is still the dream of the potluck supper. The society in which all can contribute, and all can find friendship. - Ursula Franklin

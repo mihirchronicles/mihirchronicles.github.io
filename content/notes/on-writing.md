@@ -22,15 +22,15 @@ The most complex hierarchies such as law, medicine, business, politics or academ
 
 Lastly, exposing writing to others will question your intent and thought process. There is no better way to get feedback. The more you write and share, the more feedback you'll receive creating a positive feedback loop.
 
-> Some of the things I think, I find don’t make any sense when I start trying to write them down. You ought to be able to explain why you’re taking the job you’re taking, why you’re making the investment you’re making, or whatever it may be. And if it can’t stand applying pencil to paper, you’d better think it through some more. — Warren Buffett
+> Some of the things I think, I find don’t make any sense when I start trying to write them down. You ought to be able to explain why you’re taking the job you’re taking, why you’re making the investment you’re making, or whatever it may be. And if it can’t stand applying pencil to paper, you’d better think it through some more. - Warren Buffett
 
-> Writing is thinking. To write well is to think clearly. That's why it's so hard. — David McCullough
+> Writing is thinking. To write well is to think clearly. That's why it's so hard. - David McCullough
 
-> If you can't explain it simply, you don't understand it well enough. — Einstein
+> If you can't explain it simply, you don't understand it well enough. - Einstein
 
-> As a writer you should not judge. You should understand. — Ernest Hemingway
+> As a writer you should not judge. You should understand. - Ernest Hemingway
 
-> The pen is mightier than the sword. — Edward Bulwer-Lytton
+> The pen is mightier than the sword. - Edward Bulwer-Lytton
 
 ## Trivium
 
@@ -140,7 +140,7 @@ Do not worry about polishing or editing your material just yet. Keep going! Do n
 
 ## First draft
 
-> When you write a first draft, you write it for yourself. When you re-write it, you write it for everyone else. — Stephen King.
+> When you write a first draft, you write it for yourself. When you re-write it, you write it for everyone else. - Stephen King.
 
 Once you feel confident about your well-thought-out outline, write sentences per outline heading to complete your paragraph. Do not follow any prescribed length for the number of sentences here. Use your notes that you gathered during the information gathering. Don’t worry too much about how well you are writing at this point including grammar, form or voice. With regard to grammar, spoken language and common sense are generally better guides for a first draft than rule books. It’s more important to be understood than it is to form a grammatically perfect sentence during your first draft.
 
@@ -162,7 +162,7 @@ Once you feel comfortable with your first draft, it is time to revise by cutting
 
 ### Cutting
 
-> Anything that can be said can be said clearly. — Ludwig Wittgenstein
+> Anything that can be said can be said clearly. - Ludwig Wittgenstein
 
 Slice every paragraph by each sentence and place it on its own line. The purpose of this step is to analyze each sentence in its isolation to explore an opportunity to cut words out. The point of cutting your writing isn’t to make it shorter. The point of cutting it is to make it better. 
 
@@ -191,7 +191,7 @@ Check out Mark Twain's destroying his [work](http://www.gutenberg.org/files/2895
 
 Check out the revised [manuscript](https://www.themorgan.org/literary-historical/289875)(from the manuscript collection of the Morgan Library) of the novel _Eugénie Grandet_, by the great French novelist Honoré de Balzac. Blazac stood in the print shop while the printing of his novel was in progress. He yanked each page off to accommodate revision of his existing work. Notice how he glued sections of torn paper onto the revised manuscript. He is self-examining his work brutally till the last minute. This is the work of craftsmanship.
 
-> When you buy a novel, you're not paying for the words the author put on the page. You're paying for the heavy lifting the author did to remove the unnecessary ones. — Dan Brown
+> When you buy a novel, you're not paying for the words the author put on the page. You're paying for the heavy lifting the author did to remove the unnecessary ones. - Dan Brown
 
 To examine each sentence, ask yourself the following questions:
 
@@ -216,7 +216,7 @@ Third draft is mostly centered around following hard rules and grammar.
 
 “Going south” or “taking a nosedive” or “the only game in town” or “I wouldn't touch it with a ten-foot pole” or “shoot first” or “ask questions later” are all examples of clichés. Clichés grow like viruses and spread like wildfire. This is not called writing but your fingers aimlessly moving and typing.
 
-> A cliché is any wording that springs automatically to mind and types itself, as if it has kidnapped your hands. — Jason Zweig
+> A cliché is any wording that springs automatically to mind and types itself, as if it has kidnapped your hands. - Jason Zweig
 
 Some clichés get so overused that people have to introduce the enhanced version of those. Consider how often people use “unchartered waters“ in place of “uncharted waters,” or “the 800-pound elephant in the room” instead of “the 800-pound gorilla.” Reinventing these cliches with another animal is not thinking but aimlessly walking in the park. 
 
@@ -377,7 +377,7 @@ In the *correct* example, you’re dedicating a book to your parents, *and* 
 
 Takeaway: At the end of a list of items, always use a comma before the final “and.”
 
-Use a comma before introducing a question. Place a comma before introducing a question — regardless of whether the question is wrapped in quotation marks:
+Use a comma before introducing a question. Place a comma before introducing a question - regardless of whether the question is wrapped in quotation marks:
 
 - Correct: I’ve been wondering, Why is that turtle so nasty?
 - Incorrect: I’ve been wondering why is that turtle is so nasty?
@@ -400,7 +400,7 @@ The easiest way to avoid misusing commas in this manner is to ask yourself if us
 
 This leads into the next rule.
 
-**Ellipses**: An ellipsis is a trio of periods (…). Don’t use it—unless you're quoting someone. You rarely see it used in textbooks, because it’s the sign of a lazy writer failing to structure their thoughts so that they fall within the lines of more common punctuation. In essence, the writer is falling back on free-form speech patterns. Speaking of which, that's the one place it’s okay to use an ellipsis: inside a quote.
+**Ellipses**: An ellipsis is a trio of periods (…). Don’t use it-unless you're quoting someone. You rarely see it used in textbooks, because it’s the sign of a lazy writer failing to structure their thoughts so that they fall within the lines of more common punctuation. In essence, the writer is falling back on free-form speech patterns. Speaking of which, that's the one place it’s okay to use an ellipsis: inside a quote.
 
 For example, she said to me, “Linda… You need to get rid of that damn cat.”
 
@@ -465,7 +465,7 @@ In contrast, if you’re wrapping merely a *portion* of a sentence in parenthe
 - Correct: I’m going back home (Japan).
 - Incorrect: I’m going back home (Japan.)
 
-**Dashes**: Dashes should emphasize the clauses you consider most important—without using bold or italics—and not only for defining terms. (Parentheses can present clauses more quietly and gently than commas.) Don’t lean on semicolons as a crutch to join loosely linked ideas. This only encourages bad writing. You can occasionally use contractions such as isn’t, don’t, it’s and shouldn’t. Don’t be overly formal. And don’t use exclamation marks to call attention to the significance of a point. You could say ‘surprisingly’ or ‘intriguingly’ instead, but don’t overdo it. Use these words only once or twice per paper.
+**Dashes**: Dashes should emphasize the clauses you consider most important-without using bold or italics-and not only for defining terms. (Parentheses can present clauses more quietly and gently than commas.) Don’t lean on semicolons as a crutch to join loosely linked ideas. This only encourages bad writing. You can occasionally use contractions such as isn’t, don’t, it’s and shouldn’t. Don’t be overly formal. And don’t use exclamation marks to call attention to the significance of a point. You could say ‘surprisingly’ or ‘intriguingly’ instead, but don’t overdo it. Use these words only once or twice per paper.
 
 ## Final draft
 
@@ -483,11 +483,11 @@ Your goal is to make your writing so concise that it can’t be summarized furth
 
 Find **rhythm and style** to build connection with your readers.
 
-> The essence of a sound style is that it cannot be reduced to rules—that it is a living and breathing thing, with something of the demoniacal in it—that it fits its proprietor tightly and yet ever so loosely, as his skin fits him. It is, in fact, quite as securely an integral part of him as that skin is…. In brief, a style is always the outward and visible symbol of a [writer], and it cannot be anything else.  To attempt to teach it is as silly as to set up courses in making love. — H.L. Mencken
+> The essence of a sound style is that it cannot be reduced to rules-that it is a living and breathing thing, with something of the demoniacal in it-that it fits its proprietor tightly and yet ever so loosely, as his skin fits him. It is, in fact, quite as securely an integral part of him as that skin is…. In brief, a style is always the outward and visible symbol of a [writer], and it cannot be anything else.  To attempt to teach it is as silly as to set up courses in making love. - H.L. Mencken
 
 > This sentence has five words. Here are five more words. Five-word sentences are fine. But several together become monotonous. Listen to what is happening. The writing is getting boring. The sound of it drones. It's like a stuck record. The ear demands some variety. <br><br>
 > Now listen. I vary the sentence length, and I create music. Music. The writing sings. It has a pleasant rhythm, a lilt, a harmony. I use short sentences. And I use sentences of medium length. And sometimes when I am certain the reader is rested, I will engage him with a sentence of considerable length, a sentence that burns with energy and builds with all the impetus of a crescendo, the roll of the drums, the crash of the cymbals-sounds that say listen to this, it is important. <br><br>
-> So write with a combination of short, medium, and long sentences Create a sound that pleases the reader's ear. Don't just write words. Write music. — Gary Provost
+> So write with a combination of short, medium, and long sentences Create a sound that pleases the reader's ear. Don't just write words. Write music. - Gary Provost
 
 Inject questions and less-formal language to break up tone and maintain a friendly feeling. Informal expressions can be good for this, but they shouldn’t be too narrowly tied to a region. Similarly, use a personal tone because it can help to engage a reader.
 
@@ -501,7 +501,7 @@ Seward wrote: _I close. We are not, we must not be, aliens or enemies, but fell
 
 Lincoln transformed that to: _I am loath to close. We are not enemies, but friends. We must not be enemies. Though passion may have strained, it must not break our bonds of affection. The mystic chords of memory, stretching from every battlefield and patriot grave to every living heart and hearthstone all over this broad land, will yet swell the chorus of the Union when again touched, as surely they will be, by the better angels of our nature._
 
-Notice how Lincoln makes the abstract personal. Steward's draft has the chilly commanding tone given by a preacher who struggles to keep his ego in check. “I close” (you in the back row, wake up now!) and “I am sure” (Trust me, I know I’m right!). Lincoln infuses the passage with emotion and empathy—“I am loath to close” (You are my friends, and I hate to leave you) and “We are not enemies, but friends. We must not be enemies” (Please, I beg you, let’s live together in respect and friendship). Seward offered only a rhetorical implication that divine justice would redeem the nation. Lincoln offers the tangible hope that who we can be is who we are, that we all have angels within us.
+Notice how Lincoln makes the abstract personal. Steward's draft has the chilly commanding tone given by a preacher who struggles to keep his ego in check. “I close” (you in the back row, wake up now!) and “I am sure” (Trust me, I know I’m right!). Lincoln infuses the passage with emotion and empathy-“I am loath to close” (You are my friends, and I hate to leave you) and “We are not enemies, but friends. We must not be enemies” (Please, I beg you, let’s live together in respect and friendship). Seward offered only a rhetorical implication that divine justice would redeem the nation. Lincoln offers the tangible hope that who we can be is who we are, that we all have angels within us.
 
 At its best, writing becomes almost indistinguishable from music. Someone reading great writing, just like someone listening to great music, takes an intense, tactile pleasure in the rhythm and flow of the work, sensing instinctively what is about to come next and nevertheless being surprised and thrilled by it at the same time. 
 
@@ -534,7 +534,7 @@ Peterson (2014, p. 19) claims that “the conventions of the American Psychologi
 | _Henry Miller_ | Miller was an American writer and painter infamous for breaking with existing literary forms and developing a new sort of “novel” that is a mixture of novel, autobiography, social criticism, philosophical reflection, surrealist free association, and mysticism. |
 | _David Ogilvy_ | David Mackenzie Ogilvy was a British advertising tycoon, founder of Ogilvy & Mather, and known as the “Father of Advertising.” |
 | _Kurt Vonnegut_ | Vonnegut Jr. was an American writer known for his satirical and darkly humorous novels. In a career spanning over 50 years, he published fourteen novels, three short-story collections, five plays, and five nonfiction works. |
-| _Ernest Miller Hemingway_ | Hemingway was an American novelist, short-story writer, and journalist. His economical and understated style—which he termed the iceberg theory—had a strong influence on 20th-century fiction, while his adventurous lifestyle and public image brought him admiration from later generations. |
+| _Ernest Miller Hemingway_ | Hemingway was an American novelist, short-story writer, and journalist. His economical and understated style-which he termed the iceberg theory-had a strong influence on 20th-century fiction, while his adventurous lifestyle and public image brought him admiration from later generations. |
 | _Jerry Seinfeld_ | A legendary writer and stand-up comedian. He is best known for playing a semi-fictionalized version of himself in the sitcom Seinfeld. |
 | _William Strunk Jr._| William Strunk Jr. was an American professor of English at Cornell University and author of The Elements of Style. | 
 
@@ -542,8 +542,8 @@ Peterson (2014, p. 19) claims that “the conventions of the American Psychologi
     <summary><strong>Anne Lamott</strong></summary>
     <br>
 
-- Thirty years ago my older brother, who was ten years old at the time, was trying to get a report on birds written that he'd had three months to write. It was due the next day. We were out at our family cabin in Bolinas, and he was at the kitchen table close to tears, surrounded by binder paper and pencils and unopened books on birds, immobilized by the hugeness of the task ahead. Then my father sat down beside him, put his arm around my brother's shoulder, and said—“Bird by bird, buddy. Just take it bird by bird”.
-- One writer I know tells me that he sits down every morning and says to himself nicely, “It’s not like you don’t have a choice, because you do—you can either type or kill yourself.”
+- Thirty years ago my older brother, who was ten years old at the time, was trying to get a report on birds written that he'd had three months to write. It was due the next day. We were out at our family cabin in Bolinas, and he was at the kitchen table close to tears, surrounded by binder paper and pencils and unopened books on birds, immobilized by the hugeness of the task ahead. Then my father sat down beside him, put his arm around my brother's shoulder, and said-“Bird by bird, buddy. Just take it bird by bird”.
+- One writer I know tells me that he sits down every morning and says to himself nicely, “It’s not like you don’t have a choice, because you do-you can either type or kill yourself.”
 - Writing has so much to give, so much to teach, so many surprises. That thing you had to force yourself to do – the actual act of writing – turns out to be the best part. It’s like discovering that while you thought you needed the tea ceremony for the caffeine, what you really needed was the tea ceremony. The act of writing turns out to be its own reward.
 - For some of us, books are as important as almost anything else on earth. What a miracle it is that out of these small, flat, rigid squares of paper unfolds world after world after world, worlds that sing to you, comfort and quiet or excite you. Books help us understand who we are and how we are to behave. They show us what community and friendship mean; they show us how to live and die.
 - Perfectionism is the voice of the oppressor, the enemy of the people. It will keep you cramped and insane your whole life, and it is the main obstacle between you and a shitty first draft. I think perfectionism is based on the obsessive belief that if you run carefully enough, hitting each stepping-stone just right, you won't have to die. The truth is that you will die anyway and that a lot of people who aren't even looking at their feet are going to do a whole lot better than you, and have a lot more fun while they're doing it.
@@ -554,7 +554,7 @@ Peterson (2014, p. 19) claims that “the conventions of the American Psychologi
 - E.L. Doctorow said once said that 'Writing a novel is like driving a car at night. You can see only as far as your headlights, but you can make the whole trip that way.' You don't have to see where you're going, you don't have to see your destination or everything you will pass along the way. You just have to see two or three feet ahead of you. This is right up there with the best advice on writing, or life, I have ever heard.
 - You are lucky to be one of those people who wishes to build sand castles with words, who is willing to create a place where your imagination can wander. We build this place with the sand of memories; these castles are our memories and inventiveness made tangible. So part of us believes that when the tide starts coming in, we won't really have lost anything, because actually only a symbol of it was there in the sand. Another part of us thinks we'll figure out a way to divert the ocean. This is what separates artists from ordinary people: the belief, deep in our hearts, that if we build our castles well enough, somehow the ocean won't wash them away. I think this is a wonderful kind of person to be.
 - Clutter and mess show us that life is being lived...Tidiness makes me think of held breath, of suspended animation... Perfectionism is a mean, frozen form of idealism, while messes are the artist's true friend. What people somehow forgot to mention when we were children was that we need to make messes in order to find out who we are and why we are here.
-- If something inside of you is real, we will probably find it interesting, and it will probably be universal. So you must risk placing real emotion at the center of your work. Write straight into the emotional center of things. Write toward vulnerability. Risk being unliked. Tell the truth as you understand it. If you’re a writer you have a moral obligation to do this. And it is a revolutionary act—truth is always subversive.
+- If something inside of you is real, we will probably find it interesting, and it will probably be universal. So you must risk placing real emotion at the center of your work. Write straight into the emotional center of things. Write toward vulnerability. Risk being unliked. Tell the truth as you understand it. If you’re a writer you have a moral obligation to do this. And it is a revolutionary act-truth is always subversive.
 - Almost all good writing begins with terrible first efforts. You need to start somewhere.
 - I heard a preacher say recently that hope is a revolutionary patience; let me add that so is being a writer. Hope begins in the dark, the stubborn hope that if you just show up and try to do the right thing, the dawn will come. You wait and watch and work: you don't give up.
 - Because this business of becoming conscious, of being a writer, is ultimately about asking yourself, How alive am I willing to be?
@@ -617,13 +617,13 @@ You sit down, I say. You try to sit down at approximately the same time every da
 - It doesn’t matter that something you’ve done before worked out well. Your last piece is never going to write your next one for you.
 - I’d much rather watch people do what they do than talk to them across a desk.
 - Another mantra, which I still write in chalk on the blackboard, is “A Thousand Details Add Up to One Impression.” It’s actually a quote from Cary Grant.
-- Sometimes in a nervous frenzy I just fling words as if I were flinging mud at a wall. Blurt out, heave out, babble out something—anything—as a first draft.
+- Sometimes in a nervous frenzy I just fling words as if I were flinging mud at a wall. Blurt out, heave out, babble out something-anything-as a first draft.
 - Writers come in two principal categories -- those who are overtly insecure and those who are covertly insecure.
 - A lead is good not because it dances, fires cannons, or whistles like a train but because it is absolute to what follows.
 - Writing is selection. Just to start a piece of writing you have to choose one word and only one from more than a million in the language. Now keep going. What is your next word?
 - For nonfiction projects, ideas are everywhere. They just go by in a ceaseless stream.
 - The dictionary definitions of words you are trying to replace are far more likely to help you out than a scattershot wad from a thesaurus.
-- If you lack confidence in setting one word after another and sense that you are stuck in a place from which you will never be set free, if you feel sure that you will never make it and were not cut out to do this, if your prose seems stillborn and you completely lack confidence, you must be a writer. If you say you see things differently and describe your efforts positively, if you tell people that you “just love to write,” you may be delusional. How could anyone ever know that something is good before it exists?” And unless you can identify what is not succeeding—unless you can see those dark clunky spots that are giving you such a low opinion of your prose as it develops—how are you going to be able to tone it up and make it work?
+- If you lack confidence in setting one word after another and sense that you are stuck in a place from which you will never be set free, if you feel sure that you will never make it and were not cut out to do this, if your prose seems stillborn and you completely lack confidence, you must be a writer. If you say you see things differently and describe your efforts positively, if you tell people that you “just love to write,” you may be delusional. How could anyone ever know that something is good before it exists?” And unless you can identify what is not succeeding-unless you can see those dark clunky spots that are giving you such a low opinion of your prose as it develops-how are you going to be able to tone it up and make it work?
 - “Norman Maclean called A River Runs Through It fiction, and the word “fiction” appeared in the book’s front matter. A River Runs Through It was autobiographical fact in nearly all aspects but one. For private reasons, the author had shifted the site of his brother’s murder and, being Norman Maclean, considered that change and others quite enough fabrication to disqualify the text as nonfiction.” 
 - It is possible in managing a quote--not to say manipulating a quote--to present something that is both verbatim and false.
 - When you have writer’s block. You write, ‘Dear Mother.’ And then you tell your mother about the block, the frustration, the ineptitude, the despair.
@@ -633,14 +633,14 @@ You sit down, I say. You try to sit down at approximately the same time every da
 - In complex situations, quotations, fairly handled, can help keep judgement in the eye of the beholder.
 - Another way to prime the pump is to write by hand.
 - As a nonfiction writer, you could not change the facts of the chronology, but with verb tenses and other forms of clear guidance to the reader you were free to do a flashback if you thought one made sense in presenting the story.
-- The lead—like the title—should be a flashlight that shines down into the story. A lead is a promise. It promises that the piece of writing is going to be like this.
+- The lead-like the title-should be a flashlight that shines down into the story. A lead is a promise. It promises that the piece of writing is going to be like this.
 - The title is an integral part of a piece of writing, and one of the most important parts, and ought not to be written by anyone but the writer of what follows the title.
 - I have no technique for asking questions. I just stay there and fade away as I watch people do what they do.
 - If you look for allusions and images that have some durability, your choices will stabilize your piece of writing. Don’t assume that everyone on earth has seen every movie you have seen.
 - In the making of a long piece of factual writing, errors will occur, and in ways invisible to the writer.
-- Blurt out, heave out, babble out something—anything—as a first draft. With that, you have achieved a sort of nucleus. Then, as you work it over and alter it, you begin to shape sentences that score higher with the ear and eye. Edit it again—top to bottom. The chances are that about now you’ll be seeing something that you are sort of eager for others to see. And all that takes time.
+- Blurt out, heave out, babble out something-anything-as a first draft. With that, you have achieved a sort of nucleus. Then, as you work it over and alter it, you begin to shape sentences that score higher with the ear and eye. Edit it again-top to bottom. The chances are that about now you’ll be seeing something that you are sort of eager for others to see. And all that takes time.
 - What is creative about nonfiction? It takes a whole semester to try to answer that, but here are a few points: The creativity lies in what you choose to write about, how you go about doing it, the arrangement through which you present things, the skill and the touch with which you describe people and succeed in developing them as characters, the rhythms of your prose, the integrity of the composition, the anatomy of the piece (does it get up and walk around on its own?), the extent to which you see and tell the story that exists in your material, and so forth. Creative nonfiction is not making something up but making the most of what you have.
-- Ideally, a piece of writing should grow to whatever length is sustained by its selected material—that much and no more.
+- Ideally, a piece of writing should grow to whatever length is sustained by its selected material-that much and no more.
 
 </details>
 <br>
@@ -665,17 +665,17 @@ You sit down, I say. You try to sit down at approximately the same time every da
 - Prune out the small words that qualify how you feel and how you think and what you saw: “a bit”, “a little”, “sort of”, “kind of”, “rather”, “quite”, “very”, “too”, “pretty much”, “in a sense” and dozens more. They dilute your style and your persuasiveness.
 - Learn to alert the reader as soon as possible to any change in mood from the previous sentence.
 - Your style will be warmer and truer to your personality if you use contractions like “I’ll” and “won’t” and “can’t” when they fit comfortably into what you’re writing.
-- I only suggest avoiding one form—“I’d”, “he’d”, “we’d”, etc.—because “I’d” can mean both “I had” and “I would”, and readers can get well into a sentence before learning which meaning it is.
+- I only suggest avoiding one form-“I’d”, “he’d”, “we’d”, etc.-because “I’d” can mean both “I had” and “I would”, and readers can get well into a sentence before learning which meaning it is.
 - Always use “that” unless it makes your meaning ambiguous.
 - Surprisingly often a difficult problem in a sentence can be solved by simply getting rid of it.
 - Rewriting is the essence of writing well: it’s where the game is won or lost.
 - Go with your interests. No area of life is stupid to someone who takes it seriously. If you follow your affections you will write well and will engage your readers.
 - Decide what you want to do. Then decide to do it. Then do it.
-- Don’t try to visualize the great mass audience. There is no such audience—every reader is a different person.
+- Don’t try to visualize the great mass audience. There is no such audience-every reader is a different person.
 - Writing is hard work. A clear sentence is no accident. Very few sentences come out right the first time, or even the third time. Remember this in moments of despair. If you find that writing is hard, it’s because it is hard.
 - Writing is an act of ego, and you might as well admit it.
 - Examine every word you put on paper. You'll find a surprising number that don't serve any purpose.
-- There are many good reasons for writing that have nothing to do with being published. Writing is a powerful search mechanism, and one of its satisfactions is to come to terms with your life narrative. Another is to work through some of life’s hardest knocks—loss, grief, illness, addiction, disappointment, failure—and to find understanding and solace.
+- There are many good reasons for writing that have nothing to do with being published. Writing is a powerful search mechanism, and one of its satisfactions is to come to terms with your life narrative. Another is to work through some of life’s hardest knocks-loss, grief, illness, addiction, disappointment, failure-and to find understanding and solace.
 - Clutter is the disease of American writing. We are a society strangling in unnecessary words, circular constructions, pompous frills and meaningless jargon.
 - The only way to learn to write is to force yourself to produce a certain number of words on a regular basis.
 - The secret of good writing is to strip every sentence to its cleanest components.
@@ -688,7 +688,7 @@ You sit down, I say. You try to sit down at approximately the same time every da
 - Learn to enjoy this tidying process. I don't like to write; I like to have written. But I love to rewrite. I especially like to cut: to press the DELETE key and see an unnecessary word or phrase or sentence vanish into the electricity. I like to replace a humdrum word with one that has more precision or color. I like to strengthen the transition between one sentence and another. I like to rephrase a drab sentence to give it a more pleasing rhythm or a more graceful musical line. With every small refinement I feel that I'm coming nearer to where I would like to arrive, and when I finally get there I know it was the rewriting, not the writing, that won't the game.
 - Don’t say you were a bit confused and sort of tired and a little depressed and somewhat annoyed. Be confused. Be tired. Be depressed. Be annoyed. Don’t hedge your prose with little timidities. Good writing is lean and confident.
 - Beware, then, of the long word that's no better than the short word: assistance" (help), "numerous" (many), "facilitate" (ease), "Individual" (man or woman), "remainder" (rest), "initial" (first), "implement" (do), "sufficient" (enough), "attempt" (try), "referred to as" (called), and hundreds more. Beware of all the slippery new fad words: paradigm and parameter, prioritize and potentialize. They are all weeds that will smother what you write. Don't dialogue with someone you can talk to. Don't interface with anybody.
-- As a writer you must keep a tight rein on your subjective self—the traveler touched by new sights and sounds and smells—and keep an objective eye on the reader.
+- As a writer you must keep a tight rein on your subjective self-the traveler touched by new sights and sounds and smells-and keep an objective eye on the reader.
 - The reader is someone with an attention span of about 30 seconds.
 - The most important sentence in any article is the first one. If it doesn’t induce the reader to proceed to the second sentence, your article is dead.
 - Thinking clearly is a conscious act that writers must force on themselves.
@@ -708,17 +708,17 @@ You sit down, I say. You try to sit down at approximately the same time every da
 - Most first drafts can be cut by 50 percent without losing any information or losing the author’s voice.
 - A clear sentence is no accident. Very few sentences come out right the first time, or even the third time... If you find that writing is hard, it's because it is hard.
 - Every writing project must be reduced before you start to write.
-- Most nonfiction writers have a definitiveness complex. They feel that they are under some obligation—to the subject, to their honor, to the gods of writing—to make their article the last word. It’s a commendable impulse, but there is no last word.
+- Most nonfiction writers have a definitiveness complex. They feel that they are under some obligation-to the subject, to their honor, to the gods of writing-to make their article the last word. It’s a commendable impulse, but there is no last word.
 - There are some writers who sweep us along so strongly in their current of energy--Normal mailer, Tom Wolfe, Toni Morrison, William F. Buckley, Jr., Hunter Thompson, David Foster Wallace, Dave Eggers--that we assume that when they go to work the words just flow. Nobody thinks of the effort they made every morning to turn on the switch. You also have to turn on the switch. Nobody is going to do it for you.
 - Today the outlandish becomes routine overnight. The humorist is trying to say that it's still outlandish.
 - Good writing has an aliveness that keeps the reader reading from one paragraph to the next, and it's not a question of gimmicks to "personalize" the author. It's a question of using the English language in a way that will achieve the greatest clarity and strength.
 - Good writing is lean and confident.
-- Nobody turns so quickly into a bore as a traveler home from his travels. He enjoyed his trip so much that he wants to tell us all about it—and “all” is what we don’t want to hear. We only want to hear some.
+- Nobody turns so quickly into a bore as a traveler home from his travels. He enjoyed his trip so much that he wants to tell us all about it-and “all” is what we don’t want to hear. We only want to hear some.
 - Truth needs no adornment.
 - Some people write by day, others by night. Some people need silence, others turn on the radio. Some write by hand, some by typewriter or word processor, some by talking into a tape recorder. Some people write their first draft in one long burst and the revise; others can't write the second paragraph until they have fiddled endlessly with the first. But all of them are vulnerable and all of them are tense.
 - A writer will do anything to avoid the act of writing.
 - Writing is an intimate transaction between two people, conducted on paper.
-- When I tell aspiring writers that they should think of themselves as part entertainer, they don’t like to hear it—the word smacks of carnivals and jugglers and clowns. But to succeed you must make your piece jump out of a newspaper or a magazine by being more diverting than everyone else’s piece. You must find some way to elevate your act of writing into an entertainment. Usually this means giving the reader an enjoyable surprise. Any number of devices will do the job: humor, anecdote, paradox, an unexpected quotation, a powerful fact, an outlandish detail, a circuitous approach, an elegant arrangement of words. These seeming amusements in fact become your “style.”
+- When I tell aspiring writers that they should think of themselves as part entertainer, they don’t like to hear it-the word smacks of carnivals and jugglers and clowns. But to succeed you must make your piece jump out of a newspaper or a magazine by being more diverting than everyone else’s piece. You must find some way to elevate your act of writing into an entertainment. Usually this means giving the reader an enjoyable surprise. Any number of devices will do the job: humor, anecdote, paradox, an unexpected quotation, a powerful fact, an outlandish detail, a circuitous approach, an elegant arrangement of words. These seeming amusements in fact become your “style.”
 - It requires writers to do two things that by their metabolism are impossible. They must relax, and they must have confidence.
 - There is no minimum length for a sentence that’s acceptable in the eyes of God.
 - Don’t fight such a current if it feels right. Trust your material if it’s taking you into terrain you didn’t intend to enter but where the vibrations are good. Adjust your style accordingly and proceed to whatever destination you reach. Don’t become the prisoner of a preconceived plan. Writing is no respecter of blueprints.
@@ -726,7 +726,7 @@ You sit down, I say. You try to sit down at approximately the same time every da
 - Writing is such a lonely work that I try to keep myself cheered up.
 - Writing is thinking on paper. Anyone who thinks clearly can write clearly, about anything at all.
 - But on the question of who you're writing for, don't be eager to please.
-- Don’t annoy your readers by over-explaining—by telling them something they already know or can figure out.
+- Don’t annoy your readers by over-explaining-by telling them something they already know or can figure out.
 - Clichés are the enemy of taste.
 - ‘Myself’ is the refuge of idiots taught early that ‘me’ is a dirty word.
 - Every writer is starting from a different point and is bound for a different destination. Yet many writers are paralyzed by the thought that they are competing with everybody else who is trying to write and presumably doing it better. Forget the competition and go at your own pace. Your only contest is with yourself.
@@ -739,7 +739,7 @@ You sit down, I say. You try to sit down at approximately the same time every da
 - A generation ago our leaders told us where they stood and what they believed. Today they perform strenuous verbal feats to escape that fate.
 - Can (...) principles be taught? Maybe not. But most of them can be learned.
 - The writer, his eye on the finish line, never gave enough thought to how to run the race.
-- Don't start a sentence with “however”—it hangs there like a wet dishrag. And don't end with “however”—by that time it has lost its howeverness.
+- Don't start a sentence with “however”-it hangs there like a wet dishrag. And don't end with “however”-by that time it has lost its howeverness.
 - Ultimately the product that any writer has to sell is not the subject being written about, but who he or she is.
 - I urge people to write in the first person: to use "I" and “me" and “we" and “us." They put up a fight.
 
@@ -758,8 +758,8 @@ You sit down, I say. You try to sit down at approximately the same time every da
 - Adverbs, you will remember from your own version of Business English, are words that modify verbs, adjectives, or other adverbs.
 - Reading at meal is considered rude in polite society, but if you expect to succeed as a writer, rudeness should be the second-to-least of your concerns. The least of all should be polite society and what it expects. If you uintend to write as truthfully as you can, your days as a member of polite society are numbered, anyway.
 - It was bad, but what in high school is not? At the time we're stuck in it, like hostages locked in a Turkish bath, high school seems like the most serious business in the world to just about all of us. It's not until the second or third class reunion that we start realizing how absurd the whole thing was.
-- Once you know what the story is and get it right—as right as you can, anyway—it belongs to anyone who wants to read it.
-- Your job during or just after the first draft is to decide what something or something yours is about. Your job in the second draft— one of them, anyway—is to make that something even more clear. This may necessitate some big changes and revisions. The benefits to you and your reader will be clearer focus and a more unified story. It hardly ever fails.
+- Once you know what the story is and get it right-as right as you can, anyway-it belongs to anyone who wants to read it.
+- Your job during or just after the first draft is to decide what something or something yours is about. Your job in the second draft- one of them, anyway-is to make that something even more clear. This may necessitate some big changes and revisions. The benefits to you and your reader will be clearer focus and a more unified story. It hardly ever fails.
 - It’s always easier to kill someone else’s darlings than it is to kill your own.
 - The truth is that most writers are needy. Especially between the first draft and the second, when the study door swings open and the light of the world shines in.
 - Description begins with visualization of what it is you want the reader to experience. It ends with you translating what you see in your mind into words on the page.
@@ -772,7 +772,7 @@ You sit down, I say. You try to sit down at approximately the same time every da
 - Must you write complete sentences each time, every time? Perish the thought. If your work consists only of fragments and floating clauses, the Grammar Police aren’t going to come and take you away. Even William Strunk, that Mussolini of rhetoric, recognized the delicious pliability of language. “It is an old observation,” he writes, “that the best writers sometimes disregard the rules of rhetoric.” Yet he goes on to add this thought, which I urge you to consider: “Unless he is certain of doing well, [the writer] will probably do best to follow the rules.
 - Plot is, I think, the good writer’s last resort and the dullard’s first choice. The story which results from it is apt to feel artificial and labored. I lean more heavily on intuition, and have been able to do that because my books tend to be based on situation rather than story.
 - Strunk and White don’t speculate as to why so many writers are attracted to passive verbs, but I’m willing to; I think timid writers like them for the same reason timid lovers like passive partners. The passive voice is safe.
-- I'm convinced that fear is at the root of most bad writing. If one is writing for one's own pleasure, that fear may be mild — timidity is the word I've used here. If, however, one is working under deadline — a school paper, a newspaper article, the SAT writing sample — that fear may be intense.
+- I'm convinced that fear is at the root of most bad writing. If one is writing for one's own pleasure, that fear may be mild - timidity is the word I've used here. If, however, one is working under deadline - a school paper, a newspaper article, the SAT writing sample - that fear may be intense.
 - The object of fiction isn't grammatical correctness but to make the reader welcome and then tell a story. Writing is seduction. Good talk is part of seduction.
 - If you disapprove, I can only shrug my shoulders. It's what I have.
 - The rest of it - and perhaps the best of it - is a permission slip: you can, you should, and if you're brave enough to start, you will.
@@ -801,7 +801,7 @@ You sit down, I say. You try to sit down at approximately the same time every da
 - The scariest moment is always just before you start. After that, things can only get better.
 - I think the best stories always end up being about the people rather than the event, which is to say character-driven.
 - When you write a book, you spend day after day scanning and identifying the trees. When you’re done, you have to step back and look at the forest.
-- I like to get ten pages a day, which amounts to 2,000 words. That’s 180,000 words over a three-month span, a goodish length for a book — something in which the reader can get happily lost, if the tale is done well and stays fresh.
+- I like to get ten pages a day, which amounts to 2,000 words. That’s 180,000 words over a three-month span, a goodish length for a book - something in which the reader can get happily lost, if the tale is done well and stays fresh.
 - Bad writing is more than a matter of shit syntax and faulty observation; bad writing usually arises from a stubborn refusal to tell stories about what people actually do―to face the fact, let us say, that murderers sometimes help old ladies cross the street.
 - Reading in bed can be heaven, assuming you can get just the right amount of light on the page and aren't prone to spilling your coffee or cognac on the sheets.
 - Writing is a lonely job. Having someone who believes in you makes a lot of difference. They don't have to make speeches. Just believing is usually enough.
@@ -880,7 +880,7 @@ It's far more important to write well than most people realize. Writing doesn't 
 - Cement a little every day, rather than add new fertilizers.
 - Keep human! See people, go places, drink if you feel like it.
 - Don’t be a draught-horse! Work with pleasure only.
-- Discard the Program when you feel like it—but go back to it next day. Concentrate. Narrow down. Exclude.
+- Discard the Program when you feel like it-but go back to it next day. Concentrate. Narrow down. Exclude.
 - Forget the books you want to write. Think only of the book you are writing.
 - Write first and always. Painting, music, friends, cinema, all these come afterwards.
 
@@ -899,7 +899,7 @@ The better you write, the higher you go in Ogilvy & Mather. People who think wel
 - Never use jargon words like reconceptualize, demassification, attitudinally, judgmentally. They are hallmarks of a pretentious ass.
 - Never write more than two pages on any subject.
 - Check your quotations.
-- Never send a letter or a memo on the day you write it. Read it aloud the next morning — and then edit it.
+- Never send a letter or a memo on the day you write it. Read it aloud the next morning - and then edit it.
 - If it is something important, get a colleague to improve it.
 - Before you send your letter or your memo, make sure it is crystal clear what you want the recipient to do.
 - If you want ACTION, don’t write. Go and tell the guy what you want.
@@ -914,7 +914,7 @@ The better you write, the higher you go in Ogilvy & Mather. People who think wel
 - Use the time of a total stranger in such a way that he or she will not feel the time was wasted. 
 - Give the reader at least one character he or she can root for.
 - Every character should want something, even if it is only a glass of water.
-- Every sentence must do one of two things—reveal character or advance the action.
+- Every sentence must do one of two things-reveal character or advance the action.
 - Start as close to the end as possible.
 - Be a sadist. No matter how sweet and innocent your leading characters, make awful things happen to them, in order that the reader may see what they are made of.
 - Write to please just one person. If you open a window and make love to the world, so to speak, your story will get pneumonia.
@@ -944,13 +944,13 @@ The better you write, the higher you go in Ogilvy & Mather. People who think wel
 
 - Systemize: You've got to treat your brain like a new dog. The mind is infinite in wisdom. The brain is a stupid dog that is easily trained. The puppy brain is easy to master. You just have to confine it...through repetition and systematization.
 - Confront: If you break the human struggle down to one word, it is CONFRONT. And so, I approach everything that way. Confront the hardest task on your to-do list. Confront the problem you're putting off. Confront the workout. Confront the blank page.
-- Distractions: When there are no distractions, it enables the brain to feel free and flow. And that's the goal with creativity—to get your brain in a place where it feels free and can flow. Seinfeld writes with Bic pens on yellow legal pads.
+- Distractions: When there are no distractions, it enables the brain to feel free and flow. And that's the goal with creativity-to get your brain in a place where it feels free and can flow. Seinfeld writes with Bic pens on yellow legal pads.
 - Minimizing options: I have a writing session every day. My writing technique is just: You can't do anything else. You don't have to write, but you can't do anything else.
 - Stopping point: When sitting down to write, he knows exactly when he is going to stop writing. Most people sit down to work with an open-ended block of time. That’s a ridiculous torture to put on a human being’s head. It’s like if you hire a trainer to get in shape, and you ask, ‘How long is the session?’ And he says, ‘It’s open-ended.’ Forget it. I’m not doing it. The brain needs rewards. And the reward is: the alarm goes off, and you’re done.
 - Exercise to de-stress mind: If you don't stress the body, he says, the mind is easily stressed. To build mental resilience, you got to put that ox in the plow, make it do stuff that it doesn’t want to do.
 - Medicority: I would teach you to learn to accept your mediocrity. You know, no one’s really that great. You know who’s great? The people that just put in a tremendous amount of hours. It’s a game of tonnage.
 - Humor: Being funny is one of the ultimate weapons a person can have in human society. It might even compete with being really good-looking.
-- Encouraging yourself: You have to know how to encourage yourself to be confident and courageous when you’re creating new material and also how to be harshly critical and go, “That’s good, but it’s not good enough—take it out.
+- Encouraging yourself: You have to know how to encourage yourself to be confident and courageous when you’re creating new material and also how to be harshly critical and go, “That’s good, but it’s not good enough-take it out.
 - Writing routine: Full focus. Do it daily. My writing technique is just, you can’t do anything else. You don’t have to write, but you can’t do anything else. The writing is such an ordeal. That sustains me.
 - No expectations: This attitude is the exact right way to start out in the world of comedy. Expect nothing. Accept anything.
 - Just work. There is no secret. There is nothing you have to know. You just have to work and grind it out.
@@ -1007,7 +1007,7 @@ The better you write, the higher you go in Ogilvy & Mather. People who think wel
     - Write: Richard’s favorite food was pizza, and he liked to drink soda, while Karen’s favorite food was stir-fry, and she liked to drink lemonade.
 - Omit unnecessary text.
 - Avoid repetition.
-- Avoid the use of qualifiers—very, really, etc.
+- Avoid the use of qualifiers-very, really, etc.
 - Use the active voice and positive form.
 - Revise and rewrite.
 - Conciseness must not come at the cost of clarity.
@@ -1034,11 +1034,11 @@ The better you write, the higher you go in Ogilvy & Mather. People who think wel
 
 ## Practice
 
-By “writing more,” I mean always writing mindfully—developing good mental hygiene by never being sloppy or lazy, whether you’re tossing off an email, putting together an office memo, or writing a note inside a birthday card. If you want to become a better writer, there’s no such thing as being off-duty. Treat every opportunity to write anything as a chance to improve. Challenge yourself to avoid lazy language and phrases that feel effortless. Every blank screen or empty piece of paper, no matter what its purpose, offers a new possibility to try being fresh and original.
+By “writing more,” I mean always writing mindfully-developing good mental hygiene by never being sloppy or lazy, whether you’re tossing off an email, putting together an office memo, or writing a note inside a birthday card. If you want to become a better writer, there’s no such thing as being off-duty. Treat every opportunity to write anything as a chance to improve. Challenge yourself to avoid lazy language and phrases that feel effortless. Every blank screen or empty piece of paper, no matter what its purpose, offers a new possibility to try being fresh and original.
 
-By “reading more,” I mean reading as closely and deeply as you can. It doesn’t matter what you read, so long as it is good—and your definition of good doesn’t have to match mine. It only has to match yours. When you find writers you love, read everything they’ve written. Only by reading and rereading your favorite writers can you internalize what makes them great.
+By “reading more,” I mean reading as closely and deeply as you can. It doesn’t matter what you read, so long as it is good-and your definition of good doesn’t have to match mine. It only has to match yours. When you find writers you love, read everything they’ve written. Only by reading and rereading your favorite writers can you internalize what makes them great.
 
-> I lived in books more than I lived anywhere else. — Neil Gaiman
+> I lived in books more than I lived anywhere else. - Neil Gaiman
 
 Your goal is not to parrot their style, but to learn from their craft. Every great writer is great in a different way, and you can learn from all of them. I’ve read dozens of my favorite books (and articles) dozens of times apiece; I’ve read hundreds of books and articles several times each. You don’t have to be as obsessed as I am, but if you want to become a much better writer you will have to become a much more diligent reader.
 
@@ -1058,9 +1058,9 @@ How can you develop the inner ear it takes to hear, and make the music of langua
 
 > Reverse-engineer what you read. If it feels like good writing, what makes it good? If it’s awful, why? Prose is a window onto the world. Let your readers see what you are seeing by using visual, concrete language. Don’t go meta. Minimize concepts about concepts, like “approach, assumption, concept, condition, context, framework, issue, level, model, perspective, process, range, role, strategy, tendency,” and “variable.” Let verbs be verbs. “Appear,” not “make an appearance.” Beware of the Curse of Knowledge: when you know something, it’s hard to imagine what it’s like not to know it. Minimize acronyms & technical terms. Use “for example” liberally. Show a draft around, & prepare to learn that what’s obvious to you may not be obvious to anyone else. Omit needless words (Will Strunk was right about this). Avoid clichés like the plague (thanks, William Safire). Old information at the beginning of the sentence, new information at the end. Prose must cohere: readers must know how each sentence is related to the preceding one. If it’s not obvious, use “that is, for example, in general, on the other hand, nevertheless, as a result, because, nonetheless,” or “despite.” Revise several times with the single goal of improving the prose. Read it aloud. Find the best word, which is not always the fanciest word. Consult a dictionary with usage notes, and a thesaurus. - Steven Pinker
 
-> Tomorrow may be hell, but today was a good writing day, and on the good writing days nothing else matters. — Neil Gaiman
+> Tomorrow may be hell, but today was a good writing day, and on the good writing days nothing else matters. - Neil Gaiman
 
-> Have killer voice. How do you develop killer voice? Be confident. How do you develop confidence? Read oodles and write oodles more. If you’re sending a “list newsletter” you better have one hell of a point of view because, well, there are oodles-upon-oodles of list newsletters out there. Generally, like with much good writing, the magic for readers is in feeling like they’re traveling along with someone who truly cares and is exceedingly curious about their chosen topic. Be that person / guide / spirit animal! — Craig Mod
+> Have killer voice. How do you develop killer voice? Be confident. How do you develop confidence? Read oodles and write oodles more. If you’re sending a “list newsletter” you better have one hell of a point of view because, well, there are oodles-upon-oodles of list newsletters out there. Generally, like with much good writing, the magic for readers is in feeling like they’re traveling along with someone who truly cares and is exceedingly curious about their chosen topic. Be that person / guide / spirit animal! - Craig Mod
 
 ## Books
 
@@ -1108,11 +1108,11 @@ Simple rules to building your own reading habits:
 - Eliminate passive reading. Some of the misconception which I still run into today is highlighting every passage in the book. Or pretending to read, but not understanding what I am reading. Or stuck on a book for a long period of time.
 - An active reader does not read passively, but uses the arguments made by an author for critical thinking and deeper understanding. An active reader asks questions by considering motivation of writer's arguments and assumptions. An active reader avoids passive reading like a plague. The goal is not to read as much as possible and soak up all the information to satisfy instant gratification. The goal is to gain as much as wisdom as possible because knowledge compounds.
 - What constitutes good reading to you?
-- Ask questions and interrogate the text. What's wrong with this assertion, if anything? Does the text go on to address any problems I can see? If it does, is that satisfying? Do others see this problem? If not, what did I miss? Is this confidently-stated premise or postulate reasonable? If not, can the argument stand without it? Why is this character in this story? What's the structural reason this scene exists? If it seems pointless, but this work is very well-regarded, I'm probably missing something—what might that be? Does it have thematic or textural import that I'm failing to spot, and so, perhaps, missing much of the message of the work?
+- Ask questions and interrogate the text. What's wrong with this assertion, if anything? Does the text go on to address any problems I can see? If it does, is that satisfying? Do others see this problem? If not, what did I miss? Is this confidently-stated premise or postulate reasonable? If not, can the argument stand without it? Why is this character in this story? What's the structural reason this scene exists? If it seems pointless, but this work is very well-regarded, I'm probably missing something-what might that be? Does it have thematic or textural import that I'm failing to spot, and so, perhaps, missing much of the message of the work?
 - Some might argue reading long-form books is virtuous. Why not podcasts or audio? The effort put into a book is infinitely more significant than a long-form conversation. The depth of processing and synthesis is more in reading than listening. Both listening and reading are tools in an arsenal of learning, but it is critical to know why one is superior over the other.
 - Systematic education is not an equalizer. This is because it made me run away. But reading is. Reading equalizes every mind by fixing every hole in every person's broken sky. Reading is a journey to find great books. You start with not so great books and then slowly start climbing the intellectual ladder. I started out with self-help or academically acclaimed books. Over time, I started noticing all the advice shared in those books are the same...told differently. Then, I moved on to physics, biology, business, engineering, etc. I didn't care for these disciplines in school, but now I do. In school, you are supposed to finish something you are disengaged in. While reading freely, you can move on to something else if you are no longer interested. You are taught to finish a book. Schools ingrain this type of ideology. Society values higher education from prestige universities. But it costs $1 in late fees at a local library than accumulating thousands in tuition debt. Reading is inexpensive so go to your local library and check out some books. Abraham Lincoln didn't have any formal education from Harvard or Yale. He walked several miles to borrow books. He grew up reading Shakespeare and Milton soaking up the simple majesty of their words, stories and wisdom. 
 - Becoming a better reader is going to help you become a better writer and vice-versa. That is the real payoff. Reading decrease our sense of isolation.
-- Take caution against media articles attributing success or wealth to reading. For example, Warren Buffett's famous saying—“I just sit in my office and read all day.” Media gets the causality wrong. It's not like successful people became so rich by reading. They were doers which is most likely the cause to wealth creation. Reading is good, but doing is better. 
+- Take caution against media articles attributing success or wealth to reading. For example, Warren Buffett's famous saying-“I just sit in my office and read all day.” Media gets the causality wrong. It's not like successful people became so rich by reading. They were doers which is most likely the cause to wealth creation. Reading is good, but doing is better. 
 - An author goes out and talks to people, and finds the information that hasn't made its way onto paper.
 - Find good books. Read it deliberately, with an active mind. Act on that material. Develop relationships with peers. Let it change your life.
 - Another analogy is professional sports “watching film.” As a professional athlete, you need to be constantly watch film, so you know how other players are playing and what they're doing. However, at some point you also need to be on the court practicing and playing games so you can use that knowledge for something productive. Being too obsessed with reading would be like a pro athlete who only watches film and never plays the game. At some point, you have to be play the game. Otherwise, you're no different than just an obsessive sports fan.
@@ -1128,69 +1128,69 @@ Simple rules to building your own reading habits:
 
 > I read more than other kids; I luxuriated in books. Books were my refuge. – Anne Lamott
 
-> To read without reflecting is like eating without digesting. — Edmund Burke
+> To read without reflecting is like eating without digesting. - Edmund Burke
 
-> Reading science, math, and philosophy one hour per day will likely put you at the upper echelon of human success within seven years. — Naval
+> Reading science, math, and philosophy one hour per day will likely put you at the upper echelon of human success within seven years. - Naval
 
-> Reading, after a certain age, diverts the mind too much from its creative pursuits. Any man who reads too much and uses his own brain too little falls into lazy habits of thinking. — Albert Einstein
+> Reading, after a certain age, diverts the mind too much from its creative pursuits. Any man who reads too much and uses his own brain too little falls into lazy habits of thinking. - Albert Einstein
 
-> Conversation enriches the understanding, but solitude is the school of genius. — Edward Gibbon
+> Conversation enriches the understanding, but solitude is the school of genius. - Edward Gibbon
 
 > To my mind there are no advantages and many disadvantages in lectures compared with reading. – Charles Darwin
 
-> Libraries are bastions of democracy and oxygen for the mind. — Maria Popova
+> Libraries are bastions of democracy and oxygen for the mind. - Maria Popova
 
-> For some of us, books are as important as almost anything else on earth. What a miracle it is that out of these small, flat, rigid squares of paper unfolds world after world after world, worlds that sing to you, comfort and quiet or excite you. Books help us understand who we are and how we are to behave. They show us what community and friendship mean; they show us how to live and die. — Anne Lamott
+> For some of us, books are as important as almost anything else on earth. What a miracle it is that out of these small, flat, rigid squares of paper unfolds world after world after world, worlds that sing to you, comfort and quiet or excite you. Books help us understand who we are and how we are to behave. They show us what community and friendship mean; they show us how to live and die. - Anne Lamott
 
-> Your ability to speak clearly is enhanced by reading (not listening) to books and by writing and journaling in complete sentences. Texting, voice dictation and audio books are wonderful but degrade articulation. Conversely, structured writing aids structured speech. — Andrew D. Huberman
+> Your ability to speak clearly is enhanced by reading (not listening) to books and by writing and journaling in complete sentences. Texting, voice dictation and audio books are wonderful but degrade articulation. Conversely, structured writing aids structured speech. - Andrew D. Huberman
 
-> Reading about x doesn't just teach you about x; it also teaches you how to write. Would that matter? If we replaced reading, would anyone need to be good at writing? The reason it would matter is that writing is not just a way to convey ideas, but also a way to have them. A good writer doesn't just think, and then write down what he thought, as a sort of transcript. A good writer will almost always discover new things in the process of writing. And there is, as far as I know, no substitute for this kind of discovery. Talking about your ideas with other people is a good way to develop them. But even after doing this, you'll find you still discover new things when you sit down to write. There is a kind of thinking that can only be done by writing. There are of course kinds of thinking that can be done without writing. If you don't need to go too deeply into a problem, you can solve it without writing. If you're thinking about how two pieces of machinery should fit together, writing about it probably won't help much. And when a problem can be described formally, you can sometimes solve it in your head. But if you need to solve a complicated, ill-defined problem, it will almost always help to write about it. Which in turn means that someone who's not good at writing will almost always be at a disadvantage in solving such problems. You can't think well without writing well, and you can't write well without reading well. And I mean that last "well" in both senses. You have to be good at reading, and read good things. People who just want information may find other ways to get it. But people who want to have ideas can't afford to. — Paul Graham
+> Reading about x doesn't just teach you about x; it also teaches you how to write. Would that matter? If we replaced reading, would anyone need to be good at writing? The reason it would matter is that writing is not just a way to convey ideas, but also a way to have them. A good writer doesn't just think, and then write down what he thought, as a sort of transcript. A good writer will almost always discover new things in the process of writing. And there is, as far as I know, no substitute for this kind of discovery. Talking about your ideas with other people is a good way to develop them. But even after doing this, you'll find you still discover new things when you sit down to write. There is a kind of thinking that can only be done by writing. There are of course kinds of thinking that can be done without writing. If you don't need to go too deeply into a problem, you can solve it without writing. If you're thinking about how two pieces of machinery should fit together, writing about it probably won't help much. And when a problem can be described formally, you can sometimes solve it in your head. But if you need to solve a complicated, ill-defined problem, it will almost always help to write about it. Which in turn means that someone who's not good at writing will almost always be at a disadvantage in solving such problems. You can't think well without writing well, and you can't write well without reading well. And I mean that last "well" in both senses. You have to be good at reading, and read good things. People who just want information may find other ways to get it. But people who want to have ideas can't afford to. - Paul Graham
 
-> It’s hard for me to believe that people who read very little (or not at all in some cases) should presume to write and expect people to like what they have written. — Stephen King
+> It’s hard for me to believe that people who read very little (or not at all in some cases) should presume to write and expect people to like what they have written. - Stephen King
 
-> You have to read widely, constantly refining (and redefining) your own work as you do so. It’s hard for me to believe that people who read very little (or not at all in some cases) should presume to write and expect people to like what they have written, but I know it’s true. If I had a nickel for every person who ever told me he/she wanted to become a writer but “didn’t have time to read,” I could buy myself a pretty good steak dinner. Can I be blunt on this subject? If you don’t have the time to read, you don’t have the time (or the tools) to write. Simple as that. — Stephen King
+> You have to read widely, constantly refining (and redefining) your own work as you do so. It’s hard for me to believe that people who read very little (or not at all in some cases) should presume to write and expect people to like what they have written, but I know it’s true. If I had a nickel for every person who ever told me he/she wanted to become a writer but “didn’t have time to read,” I could buy myself a pretty good steak dinner. Can I be blunt on this subject? If you don’t have the time to read, you don’t have the time (or the tools) to write. Simple as that. - Stephen King
 
-> If you don't have the time to read, you don't have the tools to write. — Stephen King
+> If you don't have the time to read, you don't have the tools to write. - Stephen King
 
-> Reading is the creative center of a writer's life. — Stephen King
+> Reading is the creative center of a writer's life. - Stephen King
 
-> I'm a slow reader, but I usually get through seventy or eighty books a year, most fiction. I don't read in order to study the craft; I read because I like to read. — Stephen King
+> I'm a slow reader, but I usually get through seventy or eighty books a year, most fiction. I don't read in order to study the craft; I read because I like to read. - Stephen King
 
-> Books are a uniquely portable magic. — Stephen King
+> Books are a uniquely portable magic. - Stephen King
 
-> I lived in books more than I lived anywhere else. — Neil Gaiman
+> I lived in books more than I lived anywhere else. - Neil Gaiman
 
 > Books that can be summarized are not worth reading. – N. N. Taleb
 
-> Whether you’re looking for a distraction or just spending a lot more time at home, you can’t beat reading a book. — Bill Gates
+> Whether you’re looking for a distraction or just spending a lot more time at home, you can’t beat reading a book. - Bill Gates
 
-> Every book teaches me something new or helps me see things differently. I was lucky to have parents who encouraged me to read. Reading fuels a sense of curiosity about the world, which I think helped drive me forward in my career and in the work that I do now with my foundation. — Bill Gates
+> Every book teaches me something new or helps me see things differently. I was lucky to have parents who encouraged me to read. Reading fuels a sense of curiosity about the world, which I think helped drive me forward in my career and in the work that I do now with my foundation. - Bill Gates
 
-> Your ability to comprehend and retain what you read drops off dramatically after an hour or so. Therefore, you should read a book in several short sessions of one to two hours apiece, rather than one long marathon. In between, your unconscious mind will process some of what you've read. — Paul N Edwards
+> Your ability to comprehend and retain what you read drops off dramatically after an hour or so. Therefore, you should read a book in several short sessions of one to two hours apiece, rather than one long marathon. In between, your unconscious mind will process some of what you've read. - Paul N Edwards
 
-> Never stop reading. History doesn’t repeat but it does rhyme. — Seth Klarman
+> Never stop reading. History doesn’t repeat but it does rhyme. - Seth Klarman
 
-> I have learned more from reading than from formal education. — Roy Neuberger
+> I have learned more from reading than from formal education. - Roy Neuberger
 
-> I don’t think you can get to be a really good investor over a broad range without doing a massive amount of reading. — Charlie Munger
+> I don’t think you can get to be a really good investor over a broad range without doing a massive amount of reading. - Charlie Munger
 
-> Investing is one of the few things you can learn on your own. You can learn investing by reading books. I went to business school to learn how to be a good investor. When I got to Harvard, I discovered there wasn't a course on investing. I decided to open my first self-study program. — Bill Ackman
+> Investing is one of the few things you can learn on your own. You can learn investing by reading books. I went to business school to learn how to be a good investor. When I got to Harvard, I discovered there wasn't a course on investing. I decided to open my first self-study program. - Bill Ackman
 
 > Frank Betz, who was Carret’s personal assistant in the Eighties, recalled that he read voraciously – not just corporate reports and newspapers but also books on philosophy, history, economics and biographies.
 
-> I have always found it much better just to sit and do your own reading. When I talked to people it would muddy my thinking. I was much more successful just sitting back, reading, and figuring things out. — Jim Rogers
+> I have always found it much better just to sit and do your own reading. When I talked to people it would muddy my thinking. I was much more successful just sitting back, reading, and figuring things out. - Jim Rogers
 
-> Ideas come to me from all sources, principally from reading and talking. I don’t discriminate how they come, as long as they are good ideas. You can recognize good ideas by reading a great deal and also by studying a lot of companies and constantly learning from intelligent people – hopefully more intelligent than you are, especially in their field. I try to read as much as I can. — Li Lu
+> Ideas come to me from all sources, principally from reading and talking. I don’t discriminate how they come, as long as they are good ideas. You can recognize good ideas by reading a great deal and also by studying a lot of companies and constantly learning from intelligent people – hopefully more intelligent than you are, especially in their field. I try to read as much as I can. - Li Lu
 
-> I think its helps to read broadly, what good does it do to know everything about one little thing if you don't know how it fits into the world, and how the world is going to effect it. — Howard Marks
+> I think its helps to read broadly, what good does it do to know everything about one little thing if you don't know how it fits into the world, and how the world is going to effect it. - Howard Marks
 
-> If you read widely, you can learn from people whose ideas merit publishing. Some of the most important for me were Charley Ellis's great article "The Losers Game", A Short History of Financial Euphoria, by John Kenneth Galbraith and Nassim Nicholas Taleb's Fooled by Randomness. Each did a great deal to shape my thinking. — Howard Marks
+> If you read widely, you can learn from people whose ideas merit publishing. Some of the most important for me were Charley Ellis's great article "The Losers Game", A Short History of Financial Euphoria, by John Kenneth Galbraith and Nassim Nicholas Taleb's Fooled by Randomness. Each did a great deal to shape my thinking. - Howard Marks
 
-> I’ve mainly learned by reading myself. So I don’t think I have any original ideas. Certainly, I talk about reading [Benjamin] Graham. I’ve read Phil Fisher. So I’ve gotten a lot of ideas myself from reading. — Warren Buffett
+> I’ve mainly learned by reading myself. So I don’t think I have any original ideas. Certainly, I talk about reading [Benjamin] Graham. I’ve read Phil Fisher. So I’ve gotten a lot of ideas myself from reading. - Warren Buffett
 
-> Curiosity is the engine of civilization. If I were to elaborate it would be to say read, read, read and don't forget to talk to people, really talk, listening with attention and have conversations, on whatever topic, that are an exchange of thoughts. Keep the reading broad, beyond just the professional. This helps to develop one's sense of perspective in all matters. — Peter Cundill
+> Curiosity is the engine of civilization. If I were to elaborate it would be to say read, read, read and don't forget to talk to people, really talk, listening with attention and have conversations, on whatever topic, that are an exchange of thoughts. Keep the reading broad, beyond just the professional. This helps to develop one's sense of perspective in all matters. - Peter Cundill
 
-> Being a successful investor you need to be hungry, intellectually curious, interested, read all the time. Read a lot of newspapers. You need a certain level of randomness in order to connect things that might give you an insight into where a business is going in five years that somebody else might not see. — Ted Weschler
+> Being a successful investor you need to be hungry, intellectually curious, interested, read all the time. Read a lot of newspapers. You need a certain level of randomness in order to connect things that might give you an insight into where a business is going in five years that somebody else might not see. - Ted Weschler
 
 ## Further reading
 <details>
@@ -1227,7 +1227,7 @@ Simple rules to building your own reading habits:
 - [Ernest Hemingway, The Art of Fiction No. 21](https://www.theparisreview.org/interviews/4825/the-art-of-fiction-no-21-ernest-hemingway)
 - [Life’s Work: An Interview with Jerry Seinfeld](https://hbr.org/2017/01/lifes-work-jerry-seinfeld)
 - [Jerry Seinfeld | The Complete "Pioneers of Television" Interview | Steven J Boettcher](https://youtu.be/9p1ey7_Ekq0)
-- [Jerry Seinfeld — A Comedy Legend’s Systems, Routines, and Methods for Success on Tim Ferris Podcast](https://tim.blog/2020/12/08/jerry-seinfeld/amp/)
+- [Jerry Seinfeld - A Comedy Legend’s Systems, Routines, and Methods for Success on Tim Ferris Podcast](https://tim.blog/2020/12/08/jerry-seinfeld/amp/)
 - [On Being a Good Newsletterer](https://craigmod.com/essays/on_writing_good_newsletters/)
 - On Books
     - [How to Read by Paul N. Edwards, School of Information, University of Michigan](https://pne.people.si.umich.edu/PDF/howtoread.pdf): Edwards is an academic historian of science who write incredibly long and dense books drawing on hundreds of sources. His reading advice is super useful.

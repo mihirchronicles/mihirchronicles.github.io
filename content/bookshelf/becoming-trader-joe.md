@@ -20,11 +20,11 @@ An exceptional business story and book. Though a bit disorganized making it hard
     - It had to be easily handled
     - Outstanding product
 - Joe wrote the Fearless Flyer (marketing newsletter) for over-educated, under-paid people. It not only helped customers, but also employees. It became a central way to spread product knowledge. He would add silly cartoons from early 1900s as there were not tied to copyright laws. Benefits of Fearless Flyer:
-    - _There are no such things as consumers—dolts who are driven by drivel to buy stuff they don’t need or even want. There are only customers, people who are reasonably well informed, and very well focused in their buying habits._
+    - _There are no such things as consumers-dolts who are driven by drivel to buy stuff they don’t need or even want. There are only customers, people who are reasonably well informed, and very well focused in their buying habits._
     - _We always looked up to the customers in the text of the Fearless Flyer. We assumed they knew more than they did, we never talked down to them._
     - _Given the first two assumptions, we assumed that our readers had a thirst for knowledge, 180 degrees opposite from supermarket ads. We emphasized ‘informative advertising.’_
 - Double Entry Retailing 
-    - Joe’s concept of Double Entry Retailing was my huge takeaway which was inspired from Double Entry Accounting (both sides should always balance equal). This is a form of second level thinking. Joe recognized that making changes to Demand Side factors had an influence on Supply Side factors which aren’t always obvious. A striking example was the introduction of orange juice freshly squeezed on the premises. While a great Demand Side success—customers embraced the product—it was a total nightmare to administer because of the Supply Side issues; the great variation in sweetness of oranges over the course of a year, difficulty in ensuring machines squeezed the right amount and disposal of the leftover rinds. As a result it was eventually phased out.
+    - Joe’s concept of Double Entry Retailing was my huge takeaway which was inspired from Double Entry Accounting (both sides should always balance equal). This is a form of second level thinking. Joe recognized that making changes to Demand Side factors had an influence on Supply Side factors which aren’t always obvious. A striking example was the introduction of orange juice freshly squeezed on the premises. While a great Demand Side success-customers embraced the product-it was a total nightmare to administer because of the Supply Side issues; the great variation in sweetness of oranges over the course of a year, difficulty in ensuring machines squeezed the right amount and disposal of the leftover rinds. As a result it was eventually phased out.
     - _As in double entry accounting, the change in any factor must be matched by a corresponding change in another factor. For example, a decision to increase geographical convenience (Demand Side) obviously involves some change of policy with landlords (Supply Side) including the amount of rent you're willing to pay. Consider how Barney's paid through the nose because they thought they had to offer the geographical convenience of being in Beverly Hills. How big a factor was this in Barney's subsequent bankruptcy? Was it Demand Side success at the price of Supply Side failure?_
     - Factors of the Demand Side:
         - The assortment of merchandise offered for sale.
@@ -47,11 +47,11 @@ An exceptional business story and book. Though a bit disorganized making it hard
 ## III. Quotes
 
 - We found a loophole in the law, and by God we drove a truck through it!
-- Innovation is less an act of an intellect than an act of will. — Michael Schrage
+- Innovation is less an act of an intellect than an act of will. - Michael Schrage
 - When you deliver value, you don't have to worry about in-store convenience.
-- Advertising moves the people to the product; merchandising is what moves the product to the people. — Charles Luckman
-- The world does not have an economic problem, but a design problem. — Buckminster Fuller
-- Perhaps the mission of those who love mankind is to make people laugh at the truth, to make truth laugh, because the only truth lies in learning to free ourselves from insane passion for the truth. — Umberto Eco
+- Advertising moves the people to the product; merchandising is what moves the product to the people. - Charles Luckman
+- The world does not have an economic problem, but a design problem. - Buckminster Fuller
+- Perhaps the mission of those who love mankind is to make people laugh at the truth, to make truth laugh, because the only truth lies in learning to free ourselves from insane passion for the truth. - Umberto Eco
 - The most basic conclusion I drew from her book [The Guns of August] was that , if you adopt a reasonable strategy, as opposed to waiting for an optimum strategy, and stick with it, you'll probably succeed. Tenacity as important as brilliance. The Germans and French both had brilliant general staffs, but neither side had the tenacity to stick with their prewar plans.
 - I concluded that I didn't have to find an optimum solution to Pronto's difficulties, just a reasonable one. Trying to find an optimum solution in business is a waste of time: the factors in the equation are changing all the time.
 - I was never a fan of franchising. We saw terrible abuses in the field.
@@ -103,5 +103,5 @@ An exceptional business story and book. Though a bit disorganized making it hard
 - This is one of the most important things I can impart; in any troubled company the people at lower levels know what ought to be done in terms of day-to-day operations. If you just ask them, you can find answers.
 - This lopsided butterfly may cause a retailer to act as if the only people they have to ‘sell’ to are customers: the Demand Side. That’s a major mistake. All the people on the supply side have to be sold, too.”
 - From the beginning of Pronto Markets, one of my basic principles, one of my basic goals, was employee ownership of the business. Getting there, however, was complicated.
-- I tried to explain about marketing, but they wanted to hear about miracles. — Roger Fitzgerald
+- I tried to explain about marketing, but they wanted to hear about miracles. - Roger Fitzgerald
 - If all facts could be known, idiots could make the decisions.

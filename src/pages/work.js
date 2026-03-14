@@ -53,7 +53,7 @@ const WorkIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <h1>Work</h1>
-      <p className="ct-responsive-header-text">A hand-selected list of personal and professional projects I have contributed to. The showcase brings attention to my product thinking, design, and engineering work.</p>
+      <p className="ct-responsive-header-text">A curated selection of personal and professional projects focused on tools and customer-facing products I've built.</p>
 
       <h2>Painter's Toolbox</h2>
       <WorkContainer>

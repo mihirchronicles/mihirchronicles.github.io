@@ -42,8 +42,8 @@ I have now changed my perspective on how I want to live in Chicago. I am not see
 
 All I needed was clarity and realization to convince my mind that any base can be beautiful as long as I wanted it to be. My gratitude for Chicago illuminates brighter than it ever has.
 
-Marcus Aurelius in his text _Meditations_, “People seek retreats for themselves in the country, by the sea, or in the mountains. You are very much in the habit of yearnings for those same things. But this is entirely the trait of a base person, when you can, at any moment, finding such a retreat in yourself. For nowhere can you find a more peaceful and less busy retreat than in your own soul—especially if on close inspection it is filled with ease, which I say is nothing more than being well-ordered. Treat yourself often to this retreat and be renewed.” 
+Marcus Aurelius in his text _Meditations_, “People seek retreats for themselves in the country, by the sea, or in the mountains. You are very much in the habit of yearnings for those same things. But this is entirely the trait of a base person, when you can, at any moment, finding such a retreat in yourself. For nowhere can you find a more peaceful and less busy retreat than in your own soul-especially if on close inspection it is filled with ease, which I say is nothing more than being well-ordered. Treat yourself often to this retreat and be renewed.” 
 
 I will continue to seek retreats, but not to escape, but to learn while loving my base. Next time I plan my retreat, it will be much more intentional.
 
-To summarize all this—your soul is where the retreat is. 
+To summarize all this-your soul is where the retreat is. 

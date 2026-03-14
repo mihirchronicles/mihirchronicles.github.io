@@ -26,7 +26,7 @@ Another text on product management and design thinking by a human centered desig
         - After you’ve reflected on the outcomes of your sprint, your next big task is to make a concrete plan for the next phase of work.
         - Depending on your specific organization, you might be making a plan for any number of next steps, from designing and developing new features to additional prototyping or research.
         - Often, organizations find themselves in the space between Design Sprint and development. You may need to bridge this gap by having a team go into more in-depth prototyping and design before development.
-        - If you need more exploratory work to get you closer to execution, there are many ways to deconstruct the Design Sprint—from parallel sprints to sprinting on important features from your development backlog.
+        - If you need more exploratory work to get you closer to execution, there are many ways to deconstruct the Design Sprint-from parallel sprints to sprinting on important features from your development backlog.
         - Decide how you are going to track and measure the progress of your effort.
         - Determine your communication cadence for sharing project status reports with your stakeholders and leadership team.
     - Expand the inner circle:
@@ -51,10 +51,10 @@ Another text on product management and design thinking by a human centered desig
 ## III. Quotes
 
 - A prototype is just a quick simulation of the real thing that you create to uncover deeper insights and expose the riskiest assumptions about your idea. 
-- A lot of organizations have barriers towards new visions, products, or directions—whether explicitly or unintentionally.
-- No matter where you ended, it’s all good. That’s the point of a sprint—deep and directional insights in five days instead of diving into months of development and then finding out when it’s too late to make a change.
+- A lot of organizations have barriers towards new visions, products, or directions-whether explicitly or unintentionally.
+- No matter where you ended, it’s all good. That’s the point of a sprint-deep and directional insights in five days instead of diving into months of development and then finding out when it’s too late to make a change.
 - I think if you start well, you finish well, and if you start poorly, you finish poorly.
-- There are innovators whose success is the learning, not the dollars. Those innovators will come up with the thing that works because eventually there will be that intersection—the learning will lead to something that works in the market, and then it’ll take off.
+- There are innovators whose success is the learning, not the dollars. Those innovators will come up with the thing that works because eventually there will be that intersection-the learning will lead to something that works in the market, and then it’ll take off.
 - It’s not so important to have the right degree, to have the right set of experiences. It’s more important to have the right mindset and to have the willingness to go and do stuff that is uncomfortable or may seem like it might be beneath your station.
 - Vulnerability is another attitude to cultivate in your corporate culture.
 - One way to make sure you build a culture that leans into failure (aka “learning”) is to communicate your stumbles, as well as your successes.

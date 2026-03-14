@@ -20,7 +20,7 @@ For me, reading helped beat it.
 
 I started seeing life as an opportunity to learn instead of beating myself up for not knowing enough and feeling like a fraud. I reconciled my personal issues by spending days reading books because I saw myself as a student. Reading turned out to be richer, nobler, and larger than I thought. Reading built my self-esteem and helped me avoid self-doubt.
 
-Being a reader allows you to see yourself as a student. This is the most important step. When you are a student, acknowledge that you don’t know everything and that you’re here to learn. If you take on this mindset, imposter syndrome can’t survive in your head because it has nothing to grab onto. You’re not trying to fake a persona or maintain a certain image—instead, you’re motivated by curiosity. Treat your work as one big experiment—an opportunity to learn. Because in the end, that is what it is—life being one big experiment and curiosity being the key ingredient.
+Being a reader allows you to see yourself as a student. This is the most important step. When you are a student, acknowledge that you don’t know everything and that you’re here to learn. If you take on this mindset, imposter syndrome can’t survive in your head because it has nothing to grab onto. You’re not trying to fake a persona or maintain a certain image-instead, you’re motivated by curiosity. Treat your work as one big experiment-an opportunity to learn. Because in the end, that is what it is-life being one big experiment and curiosity being the key ingredient.
 
 You can substitute reading with anything.
 

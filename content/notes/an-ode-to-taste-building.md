@@ -22,7 +22,7 @@ Let's take trees for an example. Trees are beautiful. It's uncommon to come acro
 
 The most astonishing thing about trees is how social they are. Trees establish friendships with their surrounding neighbors via their root systems. The give and take is vital for working together. This practice helps create a consistent climate that moderates extreme heat and cold. To achieve this, the community must remain intact, regardless of any challenges. Every tree in the forest is valuable to the community. This is just one of their useful features. Supporting the planet with food, oxygen, shelter and medicine are just a few other examples of how critical they are in sustaining the guests on our planet. These trees stand together for decades, centuries and millennia.
 
-The usefulness and long-lasting features is what make trees attractive. The functionality of an object gives rise to the beauty. A leaf on a tree has a certain function. The leaf’s beauty lies not in its stylish design, but in its natural form—a testament that beauty rises from its essential function.
+The usefulness and long-lasting features is what make trees attractive. The functionality of an object gives rise to the beauty. A leaf on a tree has a certain function. The leaf’s beauty lies not in its stylish design, but in its natural form-a testament that beauty rises from its essential function.
 
 The taste is not so much about style then, but the work that feels as natural as a leaf on a tree. 
 
@@ -30,7 +30,7 @@ In design, taste is a currency. Hence, we think great creators come with taste. 
 
 In addition to discovery, taste requires creators to be sensitive to their environment to capture details. We are all different, but we all have the same fears. Understanding what is universal versus what is unique can be advantageous to a creator. Taste requires emotional tolerance and self-conscious.
 
-Having a beautifully decorated wall doesn’t necessarily indicate your taste. What truly matters is how you express your taste in your surroundings—the way you welcome your guests at home, treat your colleagues, and strangers. Your overall ambiance and demeanor reflect your taste. Your vibe is taste.
+Having a beautifully decorated wall doesn’t necessarily indicate your taste. What truly matters is how you express your taste in your surroundings-the way you welcome your guests at home, treat your colleagues, and strangers. Your overall ambiance and demeanor reflect your taste. Your vibe is taste.
 
 Taste in ideas isn't enough. Taste goes beyond virtuous designers. You don't have to be a creator to be tasteful. Taste comes in emotions, moral values and judgement.
 

@@ -22,7 +22,7 @@ Dale Carnegie's writes and shares his big ideas broken down into 4 sections with
 -  Mark Twain used similar tricks like Abraham Lincoln. He would lose his temper occasionally and write letters to blow off steam, and the letters didn't do real harm. The letters were never mailed because his wife secretly lifted them out of the mail.
 - When dealing with people, let us remember we are not dealing with creatures of logic. We are dealing with creatures of emotion, creatures bristling with prejudices and motivated by pride and vanity.
 - Benjamin Franklin in his own words at an early age, “I will speak ill of no man and speak all good I know of everybody.”
-- Any fool can criticize, condemn and complain—and most fools do. But it takes character and self-control to be understanding and forgiving.
+- Any fool can criticize, condemn and complain-and most fools do. But it takes character and self-control to be understanding and forgiving.
 - Often parents are tempted to criticize their children. Before you criticize them, read one of the classics of American journalism, “Father Forgets.” It's about a father who realizes that he had only criticized his boy when the little boy was just doing his thing.
 - Instead of condemning people, try to understand them.
 
@@ -90,9 +90,9 @@ Dale Carnegie's writes and shares his big ideas broken down into 4 sections with
 - Roosevelt knew that all leaders royal road to people's heart is to talk about the things he or she treasures most.
 - Whenever Roosevelt expected a visitor, he sat up late the night before, reading up on the subject in which he knew his guest was particularly interested.
 
-**Principle 6: Make other person feel important—and do it sincerely.**
+**Principle 6: Make other person feel important-and do it sincerely.**
 - One should never make someone important so they can something back in return.
-- By being selfish we will never radiate a little happiness and pass on a bit honest appreciation without trying to get something out of the other person in return—if our souls are no bigger than sour crab apples, we shall meet with the failure we so richly deserve.
+- By being selfish we will never radiate a little happiness and pass on a bit honest appreciation without trying to get something out of the other person in return-if our souls are no bigger than sour crab apples, we shall meet with the failure we so richly deserve.
 - Carry out an act of kindness and sincere heartful appreciation because of wanting something priceless.
 - An important law of human conduct: always make the other person feel important.
 - Ancient philosophers have been speculating on the rules of human relationships for thousands of years, and out of all the speculation, there has evolved only one important concept. It is not new. It is as old as history. Zoroaster, Confucius, Lao-tse, Buddha, Hinduism and Jesus have all been preaching this concept: “Do unto others as you would have others do unto you.”
@@ -135,7 +135,7 @@ Dale Carnegie's writes and shares his big ideas broken down into 4 sections with
 - Galielo once said: “You cannot teach a man anything; you can only help him to find it within himself.”
 
 **Principle 3: If you are wrong, admit it quickly and emphatically.**
-- “If you are wrong, admit it quickly and emphatically.” — Dale Carnegie
+- “If you are wrong, admit it quickly and emphatically.” - Dale Carnegie
 - “By fighting you never get enough, but by yielding you get more than you expected.”
 
 **Principle 4: Begin a friendly way.**
@@ -191,22 +191,22 @@ Dale Carnegie's writes and shares his big ideas broken down into 4 sections with
 
 ## III. Quotes
 
-- For the great aim of education, is not knowledge but action. — Herbert Sepencer
+- For the great aim of education, is not knowledge but action. - Herbert Sepencer
 - Let's realize criticisms are like homing pigeons. They always return home.
 - Judge not, that ye be not judged.
-- Don't complain about the snow on your neighbor's roof when your own doorstep is unclean. — Confucius
-- A great man shows his greatness by the way he treats little men. — Carlyle
+- Don't complain about the snow on your neighbor's roof when your own doorstep is unclean. - Confucius
+- A great man shows his greatness by the way he treats little men. - Carlyle
 - To know all is to forgive all.
-- God himself, sir, does not propose to judge man until the end of his days? Why should you and I? — Dr. Johnson
-- Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you. — General Alvaro Obregon
-- Teach me neither to proffer nor receive cheap praise. That's all flattery is—cheap praise. — General Alvaro Obregon
+- God himself, sir, does not propose to judge man until the end of his days? Why should you and I? - Dr. Johnson
+- Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you. - General Alvaro Obregon
+- Teach me neither to proffer nor receive cheap praise. That's all flattery is-cheap praise. - General Alvaro Obregon
 - One of the most neglected virtues of our daily existence is appreciation.
 - In our interpersonal relations we should never forget that all our associates are human beings and hunger for appreciation. It is the legal tender that all souls enjoy.
 - Try leaving a friendly trail of little sparks of gratitude on your daily trips. You will be surprised how they will set small flames of friendship that will be rose beacons on your next visit.
 - Honest appreciation got results where criticism and ridicule failed.
-- Every man I meet is my superior in some way. In that, I learn of him. — Ralph Waldo Emerson
-- First, arouse in the other person an eager want. He who can do this has the whole world with him. He who cannot walks a lonely way. — Professor Overstreet
-- It is the individual who is not interested in his fellow men who has the greatest difficulties in life and provides the greatest injury to others. It is from among such individuals that all human failures spring. — Alfred Adler
+- Every man I meet is my superior in some way. In that, I learn of him. - Ralph Waldo Emerson
+- First, arouse in the other person an eager want. He who can do this has the whole world with him. He who cannot walks a lonely way. - Professor Overstreet
+- It is the individual who is not interested in his fellow men who has the greatest difficulties in life and provides the greatest injury to others. It is from among such individuals that all human failures spring. - Alfred Adler
 - Happiness doesn't depend on outward conditions. It depends on inner conditions.
 - People who talk only of themselves think only of themselves.
 - To be interesting, be interested.

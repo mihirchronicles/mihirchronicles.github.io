@@ -27,7 +27,7 @@ This is a great book for those who are exploring the path to go from individual 
     - Can I provide stability for an emotionally challenging situation? Your direct reports will bring their own experiences, motivations, hopes, fears, etc to the table. As a manager, you are going to have a lot of hard conversations: giving tough performance review feedback; letting someone go; and so on.
 - How to get people to do great work? A great way to think about this question is to flip it around. What gets in the way of doing good work? It really comes down to two possibilities:
     - They don't know how to do good work. This is usually because the person lacks the training they need. A big part of being a manager is hiring people with the right skills; another big part is providing the environment and training where people can improve their skills.
-    - They know how to good work, but they aren't motivated. On possibility is that people don't know what good work looks like: defining standards of performance and providing lots of examples helps here. Another possibility is that they know exactly what good work looks like, but they aren't on board with what they are being asked to do. A huge part of management is inspiring people: if they aren't bought into the purpose, people will trudge along, and you won't get the best work from them. Note that you can't inspire people by just telling them to do something; the word "inspire" is not an accident—as a manager, you have to learn how to be inspirational.
+    - They know how to good work, but they aren't motivated. On possibility is that people don't know what good work looks like: defining standards of performance and providing lots of examples helps here. Another possibility is that they know exactly what good work looks like, but they aren't on board with what they are being asked to do. A huge part of management is inspiring people: if they aren't bought into the purpose, people will trudge along, and you won't get the best work from them. Note that you can't inspire people by just telling them to do something; the word "inspire" is not an accident-as a manager, you have to learn how to be inspirational.
 - All relationships are based on trust. If your employees don't trust you, or you don't trust them, you cannot work together effectively. Therefore, it's critical that employees know that you care about them, that you will always be honest with them, and they can always be honest with you. You know you've achieved this when the following three items are true:
     - Your reports regularly bring their biggest challenges to your attention. "A hallmark of a trusting relationship is that people feel like they can share their mistakes, challenges, and fears with you." 
     - You and your reports regularly give each other critical feedback and it isn't taken personally. The only way you and your direct reports can get better is if you can tell each other what isn't working. This can feel a little bit awkward; that's normal.
@@ -51,21 +51,21 @@ This is a great book for those who are exploring the path to go from individual 
 - Hiring well: look for advocates, not consensus
     - When interviewing a candidate, don't use consensus to make the hiring decision; everyone saying "hire," but no one being enthusiastic, often leads to weak hires who don't perform all that well. Instead, look for one or more passionate advocates who feel strongly about hiring the candidate and are willing to go to bat for them. That's usually a stronger signal of a strong hire.
     - Hiring is super critical and should be done very well. “As a manager, one of the smartest ways to multiply your team’s impact is to hire the best people and empower them to do more and more until you stretch the limits of their capabilities”
-    - Plan intentionally and ahead of time—think about your future org chart ahead of time.
+    - Plan intentionally and ahead of time-think about your future org chart ahead of time.
     - Hiring is a manager’s responsibility. Work closely with the recruiting team and build an awesome relationship with them. Be super clear about what you’re looking for and make sure your recruiting team knows specifically what you’re looking for.
     - Be aware that interview performance is not correlated with job performance. Try to understand candidates experience especially on similar projects in a similar environment. 
 - How to make things happen:
-    - Process is critical. It is not about light bulb moments — it is about trying quickly, being curious and doubling down on what is working.
+    - Process is critical. It is not about light bulb moments - it is about trying quickly, being curious and doubling down on what is working.
     - You need an ambitious, concrete, and specific vision for your team. If you ask 5 random people who have heard your vision to repeat it, would they be able to?
     - Your strategy should acknowledge your team’s strengths and weaknesses.
     - Prioritization is absolutely critical.
     - Effort does not count; results are what matter.
     - Ownership needs to be clear.
-    - People are biased to underestimate how long things will take—so buffer accordingly.
-    - Speed matters—move fast.
+    - People are biased to underestimate how long things will take-so buffer accordingly.
+    - Speed matters-move fast.
     - Establish a culture where collective learning and resilience are critical. At the end of the day, a resilient organization is not one that never makes mistakes but rather one whose mistakes make it stronger over time.
     - Describe over and over again the world you’d like to see. Try to connect every task, project, description or goal with the organization’s higher purpose.
-    - Codify processes into playbooks to save time — this will also ensure that you’re not a bottleneck when you are on vacation or if/when you leave.
+    - Codify processes into playbooks to save time - this will also ensure that you’re not a bottleneck when you are on vacation or if/when you leave.
 - One-On-One tips:
     - I recommend no less than a weekly 1:1 with every report for thirty minutes, and more time if needed.
     - One-on-ones should be focused on your report and what would help him be more successful, not on you and what you need.
@@ -92,7 +92,7 @@ This is a great book for those who are exploring the path to go from individual 
 ## III. Quotes
 
 - The job of a manager...is to turn one person’s particular talent into performance.
-- I learned then one of my first lessons of management—the best outcomes come from inspiring people to action, not telling them what to do.
+- I learned then one of my first lessons of management-the best outcomes come from inspiring people to action, not telling them what to do.
 - At the end of the day, a resilient organization isn’t one that never makes mistakes but rather one whose mistakes make it stronger over time.
 - Your role as a manager is not to do the work yourself, even if you are the best at it, because that will only take you so far. Your role is to improve the purpose, people, and process of your team to get as high a multiplier effect on your collective outcome as you can.
 - This is the crux of management: It is the belief that a team of people can achieve more than a single person going it alone. It is the realization that you don’t have to do everything yourself, be the best at everything yourself, or even know how to do everything yourself. Your job, as a manager, is to get better outcomes from a group of people working together.
@@ -114,4 +114,4 @@ This is a great book for those who are exploring the path to go from individual 
 - Imposter syndrome is what makes you feel as though you’re the only one with nothing worthwhile to say when you walk into a room full of people you admire.
 - My friend Mark Rabkin shared a tip with me that I love: strive for all your one-on-one meetings to feel a little awkward. Why? Because the most important and meaningful conversations have that characteristic. It isn’t easy to discuss mistakes, confront tensions, or talk about deep fears or secret hopes, but no strong relationship can be built on superficial pleasantries alone.
 - The most precious resource you have is your own time and energy, and when you spend it on your team, it goes a long way toward building healthy relationships. This is why one-on-one meetings (“1:1s” for short) are such an important part of management. I recommend no less than a weekly 1:1 with every report for thirty minutes, and more time if needed.
-- Plans are worthless, but planning is everything — Dwight D. Eisenhower
+- Plans are worthless, but planning is everything - Dwight D. Eisenhower

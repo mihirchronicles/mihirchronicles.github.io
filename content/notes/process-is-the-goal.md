@@ -8,7 +8,7 @@ path: "/notes/process-is-the-goal"
 
 How do you drive consistent outcomes over a long period of time?
 
-There are two ways of implementing a system to drive outcomes—goal-driven or process-driven. In my experience, the best kind of outcomes were driven by continuous efforts every day, not occasionally.
+There are two ways of implementing a system to drive outcomes-goal-driven or process-driven. In my experience, the best kind of outcomes were driven by continuous efforts every day, not occasionally.
 
 Why lean on process-driven? A well-defined process can unload cognitive overhead by nurturing creativity. And as you know, creativity never stops. A well-defined process also never stops. But goals do!
 

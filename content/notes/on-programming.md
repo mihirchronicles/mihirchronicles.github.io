@@ -206,8 +206,8 @@ Check out [Chrome Devtools](https://developers.google.com/web/tools/chrome-devto
     console.table(animals);
 
     // Tracing function calls
-    // The console.trace method lets you dump a stack trace in the console — 
-    // in other words, the path the runtime took to call that function — 
+    // The console.trace method lets you dump a stack trace in the console - 
+    // in other words, the path the runtime took to call that function - 
     // which is useful in tracking down the function responsible for passing bad data.
     function foo() {
         bar();
@@ -286,14 +286,14 @@ The pseudo elements (e.g. `::after`, `::before`, and `::first-letter` - plus 3 o
    - **OOCSS**: a methodology organized around two main principles. The first principle is separate structure and skin. This means the CSS to define the structure (like layout) shouldn’t be mixed together with the CSS to define the skin (like colors, fonts, etc.). This makes it easier to “re-skin” an application. The second principle is separate container and content. This means think of elements as re-usable objects, with the key idea being that an object should look the same regardless of where it is on the page. [https://github.com/stubbornella/oocss/wiki](https://github.com/stubbornella/oocss/wiki)
     - **SMACSS**: base rules, layout rules, modules, state rules, and theme rules. The SMACSS methodology also recommends some naming conventions.
     - **BEM**: a methodology organized around the idea of dividing the user interface into independent blocks. A block is a re-usable component (an example would be a search form, defined as `<form class="search-form"></form>`). An element is a smaller part of a block that can’t be re-used on its own (an example would be a button within the search form, defined as `<button class="search-form__button">Search</button>`). A modifier is an entity that defines the appearance, state, or behavior of a block or element (an example would be a disabled search form button, defined as `<button class="search-form__button search-form__button--disabled">Search</button>`). The BEM methodology is simple to understand, with a specific naming convention that allows newcomers to apply it without having to make complex decisions. The downside for some is that the class names can be quite verbose, and don’t follow traditional rules for writing semantic class names. Later approaches like Atomic CSS would take this untraditional approach to a whole other level!
-    - **Atomic CSS (aka Functional CSS)**: a methodology organized around the idea of creating small, single-purpose classes with names based on visual function. This approach is in complete opposition with OOCSS, SMACSS, and BEM — instead of treating elements on the page as re-usable objects, Atomic CSS ignores these objects altogether and uses re-usable single purpose utility classes to style each element. So instead of something like `<button class="search-form__button">Search</button>`, you would have something like `<button class="f6 br3 ph3 pv2 white bg-purple hover-bg-light-purple">Search</button>`. Many people saw this methodology as a complete violation of established CSS best practices. Further read: [https://adamwathan.me/css-utility-classes-and-separation-of-concerns/](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/).
+    - **Atomic CSS (aka Functional CSS)**: a methodology organized around the idea of creating small, single-purpose classes with names based on visual function. This approach is in complete opposition with OOCSS, SMACSS, and BEM - instead of treating elements on the page as re-usable objects, Atomic CSS ignores these objects altogether and uses re-usable single purpose utility classes to style each element. So instead of something like `<button class="search-form__button">Search</button>`, you would have something like `<button class="f6 br3 ph3 pv2 white bg-purple hover-bg-light-purple">Search</button>`. Many people saw this methodology as a complete violation of established CSS best practices. Further read: [https://adamwathan.me/css-utility-classes-and-separation-of-concerns/](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/).
     - **CSS in JS**: a methodology organized around defining CSS styles not in a separate style sheet, but directly in each component itself. It was introduced as an approach for the React JavaScript framework (which already took the controversial approach of defining the HTML for a component directly in JavaScript instead of a separate HTML file). Originally the methodology used inline styles, but later implementations used JavaScript to generate CSS (with unique class names based on the component) and insert it into the document with a style tag. The CSS in JS methodology once again goes completely against established CSS best practices of separation of concerns.
 </details>
 
 <details>
   <summary>Float</summary>
   
-  The three columns are not equal in height, and the page doesn’t fill the height of the screen. These issues are inherent with a float-based approach. All a float can do is place content to the left or right of a section — the CSS has no way to infer the heights of the content in the other sections. This problem had no straightforward solution until many years later, with a flexbox-based layout.
+  The three columns are not equal in height, and the page doesn’t fill the height of the screen. These issues are inherent with a float-based approach. All a float can do is place content to the left or right of a section - the CSS has no way to infer the heights of the content in the other sections. This problem had no straightforward solution until many years later, with a flexbox-based layout.
 </details>
 
 <details>
@@ -324,7 +324,7 @@ The pseudo elements (e.g. `::after`, `::before`, and `::first-letter` - plus 3 o
 <details>
   <summary>CSS postprocessors</summary>
   
-   - A CSS postprocessor uses JavaScript to analyze and transform your CSS into valid CSS. In this sense it’s pretty similar to a CSS preprocessor — you can think of it as a different approach to solving the same problem. The key difference is that while a CSS preprocessor uses special syntax to identify what needs to be transformed, a CSS postprocessor can parse regular CSS and transform it without any special syntax required.
+   - A CSS postprocessor uses JavaScript to analyze and transform your CSS into valid CSS. In this sense it’s pretty similar to a CSS preprocessor - you can think of it as a different approach to solving the same problem. The key difference is that while a CSS preprocessor uses special syntax to identify what needs to be transformed, a CSS postprocessor can parse regular CSS and transform it without any special syntax required.
 </details>
 
 ## Javascript
@@ -441,7 +441,7 @@ if (typeof myPrimitive !== 'number')
 - We can do things concurrently in browser because a browser is more than a run-time. It has APIs. You call Web APIs. In node, you have C++ multi-thread.
 - API does not live in V8 engine. It is part of XHR().
 - [How Does Javascript actually work?](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
-- The Engine consists of two main components:* Memory Heap — this is where the memory allocation happens* Call Stack — this is where your stack frames are as your code executes
+- The Engine consists of two main components:* Memory Heap - this is where the memory allocation happens* Call Stack - this is where your stack frames are as your code executes
 - JavaScript is a single-threaded programming language, which means it has a single Call Stack. Therefore it can do one thing at a time.
 - The Call Stack is a data structure which records basically where in the program we are. If we step into a function, we put it on the top of the stack. If we return from a function, we pop off the top of the stack. That’s all the stack can do.
 </details>
@@ -815,27 +815,27 @@ The core idea of functional programming in JS - that we can plug our pure functi
 <details>
   <summary>Package Manager</summary>
   
-   - **Package Manager**: This is useful later when sharing a project with others — instead of sharing the node_modules folder (which can get very large), you only need to share the package.json file and other developers can install the required packages automatically with the command npm install. So now we no longer have to manually download moment.js from the website, we can automatically download and update it using npm.
+   - **Package Manager**: This is useful later when sharing a project with others - instead of sharing the node_modules folder (which can get very large), you only need to share the package.json file and other developers can install the required packages automatically with the command npm install. So now we no longer have to manually download moment.js from the website, we can automatically download and update it using npm.
 </details>
 <details>
   <summary>Module Bundling</summary>
   
-   - **Module Bundling**: Most programming languages provide a way to import code from one file into another. JavaScript wasn’t originally designed with this feature, because JavaScript was designed to only run in the browser, with no access to the file system of the client’s computer (for security reasons). So for the longest time, organizing JavaScript code in multiple files required you to load each file with variables shared globally. This is actually what we’re doing with the above moment.js example — the entire **`moment.min.js`** file is loaded in the HTML, which defines a global variable `moment`, which is then available to any file loaded after **`moment.min.js`** (regardless of whether it needs access to it). node.js solved this problem. It is a JavaScript runtime designed to run on the server. Here’s what the earlier example would look like using node.js modules. Instead of loading all of moment.min.js with an HTML script tag, you can load it directly in the JavaScript file as follows:
+   - **Module Bundling**: Most programming languages provide a way to import code from one file into another. JavaScript wasn’t originally designed with this feature, because JavaScript was designed to only run in the browser, with no access to the file system of the client’s computer (for security reasons). So for the longest time, organizing JavaScript code in multiple files required you to load each file with variables shared globally. This is actually what we’re doing with the above moment.js example - the entire **`moment.min.js`** file is loaded in the HTML, which defines a global variable `moment`, which is then available to any file loaded after **`moment.min.js`** (regardless of whether it needs access to it). node.js solved this problem. It is a JavaScript runtime designed to run on the server. Here’s what the earlier example would look like using node.js modules. Instead of loading all of moment.min.js with an HTML script tag, you can load it directly in the JavaScript file as follows:
 
         // index.jsvar moment = require('moment');
         console.log("Hello from JavaScript!");
         console.log(moment().startOf('day').fromNow());
 
-  - Again, this is how module loading works in node.js, which works great since node.js is a server side language with access to the computer’s file system. Node.js also knows the location of each npm module path, so instead of having to write require('./node_modules/moment/min/moment.min.js), you can simply write require('moment') — pretty sweet. This is all great for node.js, but if you tried to use the above code in the browser, you’d get an error saying require is not defined. The browser doesn’t have access to the file system, which means loading modules in this way is very tricky — loading files has to be done dynamically, either synchronously (which slows down execution) or asynchronously (which can have timing issues). 
+  - Again, this is how module loading works in node.js, which works great since node.js is a server side language with access to the computer’s file system. Node.js also knows the location of each npm module path, so instead of having to write require('./node_modules/moment/min/moment.min.js), you can simply write require('moment') - pretty sweet. This is all great for node.js, but if you tried to use the above code in the browser, you’d get an error saying require is not defined. The browser doesn’t have access to the file system, which means loading modules in this way is very tricky - loading files has to be done dynamically, either synchronously (which slows down execution) or asynchronously (which can have timing issues). 
 
   - This is where a module bundler comes in. A JavaScript module bundler is a tool that gets around the problem with a build step (which has access to the file system) to create a final output that is browser compatible (which doesn’t need access to the file system). In this case, we need a module bundler to find all require statements (which is invalid browser JavaScript syntax) and replace them with the actual contents of each required file. The final result is a single bundled JavaScript file (with no require statements)! The most popular module bundler was Browserify, which was released in 2011 and pioneered the usage of node.js style require statements on the frontend (which is essentially what enabled npm to become the frontend package manager of choice). Around 2015, webpack eventually became the more widely used module bundler (fueled by the popularity of the React frontend framework, which took full advantage of webpack’s various features).
 </details>
 <details>
   <summary>Transpiling</summary>
   
-  - **Transpiling**: Transpiling code means converting the code in one language to code in another similar language. This is an important part of frontend development — since browsers are slow to add new features, new languages were created with experimental features that transpile to browser compatible languages. For CSS, there’s Sass, Less, and Stylus, to name a few. For JavaScript, the most popular transpiler for a while was CoffeeScript (released around 2010), whereas nowadays most people use babel or TypeScript. 
+  - **Transpiling**: Transpiling code means converting the code in one language to code in another similar language. This is an important part of frontend development - since browsers are slow to add new features, new languages were created with experimental features that transpile to browser compatible languages. For CSS, there’s Sass, Less, and Stylus, to name a few. For JavaScript, the most popular transpiler for a while was CoffeeScript (released around 2010), whereas nowadays most people use babel or TypeScript. 
 
-  - Babel is not a new language but a transpiler that transpiles next generation JavaScript with features not yet available to all browsers (ES2015 and beyond) to older more compatible JavaScript (ES5). Note that we’re installing 3 separate packages as dev dependencies — @babel/core is the main part of babel, @babel/preset-env is a preset defining which new JavaScript features to transpile, and babel-loader is a package to enable babel to work with webpack. We can configure webpack to use babel-loader.
+  - Babel is not a new language but a transpiler that transpiles next generation JavaScript with features not yet available to all browsers (ES2015 and beyond) to older more compatible JavaScript (ES5). Note that we’re installing 3 separate packages as dev dependencies - @babel/core is the main part of babel, @babel/preset-env is a preset defining which new JavaScript features to transpile, and babel-loader is a package to enable babel to work with webpack. We can configure webpack to use babel-loader.
 
   - But there’s still some unpolished edges in our workflow. If we’re concerned about performance, we should be minifying the bundle file, which should be easy enough since we’re already incorporating a build step. We also need to re-run the webpack command each time we change the JavaScript, which gets old real fast. So the next thing we’ll look at are some convenience tools to solve these issues.
 </details>
@@ -848,7 +848,7 @@ The core idea of functional programming in JS - that we can plug our pure functi
 
   - Any time you change your JavaScript in index.js, webpack-dev-server will rebuild its own bundled JavaScript and refresh the browser automatically. This is a surprisingly useful time saver, as it allows you to keep your focus on the code instead of having to continually switch contexts between the code and the browser to see new changes.
 
-  - This is only scratching the surface, there are plenty more options with both webpack and webpack-dev-server (which you can read about here). You can of course make npm scripts for running other tasks as well, such as converting Sass to CSS, compressing images, running tests — anything that has a command line tool is fair game. There are also some great advanced options and tricks with npm scripts themselves — this talk by Kate Hudson is a great place to start: 
+  - This is only scratching the surface, there are plenty more options with both webpack and webpack-dev-server (which you can read about here). You can of course make npm scripts for running other tasks as well, such as converting Sass to CSS, compressing images, running tests - anything that has a command line tool is fair game. There are also some great advanced options and tricks with npm scripts themselves - this talk by Kate Hudson is a great place to start: 
 
   - [Kate Hudson talk on Webpack](https://www.youtube.com/watch?v=0RYETb9YVrk)
   - [Webpack](https://webpack.js.org/guides/development/)
@@ -961,65 +961,65 @@ Useful shortcuts and commands I use or have used to optimize my productivity.
   <summary>Search Matching files by combining find and grep with xargs:</summary>
 
    - **pipe find into grep**: `find examples -name “*Spec.js” | barges grep “module”`
-   - **same as above but just grep**: `grep -r —include=“Spec.js” “should” examples/`
+   - **same as above but just grep**: `grep -r -include=“Spec.js” “should” examples/`
 </details> 
 <details>
   <summary>Search the contents of a git repository with git grep:</summary>
 
    - **find in git that is being tracked in version control**: `git grep bind (query string); results are highlighted in red`
-   - **color keyword query**: `grep -r —color bind ./`
+   - **color keyword query**: `grep -r -color bind ./`
 </details> 
 <details>
   <summary>Show context around matches using grep:</summary>
 
    - **line number**: `grep -n “#” *.md`
-   - **after**: `grep -A 2 —color “#” *.md`
-   - **before**: `grep -A 2 —color “#” *.md`
-   - **context (before + after)**: `grep -C 2 —color “#” *.md`
+   - **after**: `grep -A 2 -color “#” *.md`
+   - **before**: `grep -A 2 -color “#” *.md`
+   - **context (before + after)**: `grep -C 2 -color “#” *.md`
 </details> 
 <details>
   <summary>Search for basic patterns using grep:</summary>
 
-   - **everything that matches after the string like http**: `grep —color “http.” readme.md`
-   - **special Character like dot, use backslash**: `grep —color “\.com” readme.md`
-   - **all characters b/w special characters like ()**: `grep —color ”(.*)” readme.md`
+   - **everything that matches after the string like http**: `grep -color “http.” readme.md`
+   - **special Character like dot, use backslash**: `grep -color “\.com” readme.md`
+   - **all characters b/w special characters like ()**: `grep -color ”(.*)” readme.md`
 </details>
 <details>
   <summary>Using grep’s extended regular expressions to find complex patterns:</summary>
 
-   - **conditional Search for character 0 or 1 time (?)**: `grep —color “https\?” readme.md`
-   - **at least 1 or more occurrences (+)**: `grep —color “https\+” readme.md`
+   - **conditional Search for character 0 or 1 time (?)**: `grep -color “https\?” readme.md`
+   - **at least 1 or more occurrences (+)**: `grep -color “https\+” readme.md`
    - **atlas 0 or more occurrences (*)**: `grep -color “https*” readme.md`
    - **escape for special characters**: `grep -E or backslash (\)`
 </details> 
 <details>
   <summary>Search for optional patterns with grep OR:</summary>
 
-   - **color check**: `echo “is it grey or gray?” | grep —color “grey\|gray” or echo “is it grey or gray?” | grep —color -E “grey|gray”`
-   - **spell check in your codebase (-rE recursive & escape)**: `grep —color -rE “grey|gray” examples/`
+   - **color check**: `echo “is it grey or gray?” | grep -color “grey\|gray” or echo “is it grey or gray?” | grep -color -E “grey|gray”`
+   - **spell check in your codebase (-rE recursive & escape)**: `grep -color -rE “grey|gray” examples/`
 </details>  
 <details>
   <summary>Specify line beginning and end in patterns using grep:</summary>
 
-   - **anchor for beginning of the line**: `grep —color “^#” app-spec.md`
-   - **anchor for ending of the line**: `grep —color “,$” app-spec.md`
-   - **complex anchor with wildcard phrase**: `grep —color -r “^import .* from” examples/`
+   - **anchor for beginning of the line**: `grep -color “^#” app-spec.md`
+   - **anchor for ending of the line**: `grep -color “,$” app-spec.md`
+   - **complex anchor with wildcard phrase**: `grep -color -r “^import .* from” examples/`
 </details> 
 <details>
   <summary>Match classes of characters using bracket expressions with grep:</summary>
 
-   - **match a or b**: `echo abc123 | grep —color “[ab]”`
-   - **range**: `echo abc123 | grep —color “[a-z]”`
-   - **range**: `echo abc123 | grep —color “[1-9]”`
-   - **match word with some pattern (matches designer and developer)**: `grep —color “de[a-z]*er” readme.md`
-   - **same as above but don’t have to explicit define the character range (matches developer & designer)**: `grep —color “de[[:alpha:]]*er” readme.md`
-   - **case insesitive match on only 1 character**: `find . -name “*js” | grep —color “[sS]pec”`
+   - **match a or b**: `echo abc123 | grep -color “[ab]”`
+   - **range**: `echo abc123 | grep -color “[a-z]”`
+   - **range**: `echo abc123 | grep -color “[1-9]”`
+   - **match word with some pattern (matches designer and developer)**: `grep -color “de[a-z]*er” readme.md`
+   - **same as above but don’t have to explicit define the character range (matches developer & designer)**: `grep -color “de[[:alpha:]]*er” readme.md`
+   - **case insesitive match on only 1 character**: `find . -name “*js” | grep -color “[sS]pec”`
 </details> 
 <details>
   <summary>Search with groups using grep:</summary>
     
-   - **single quote after the grey or gray**: `grep -rE —color “(grey|gray)\’” .`
-   - **single or double quote**: `grep -rE —color “(grey|gray)(\’|\”)” .`
+   - **single quote after the grey or gray**: `grep -rE -color “(grey|gray)\’” .`
+   - **single or double quote**: `grep -rE -color “(grey|gray)(\’|\”)” .`
 </details> 
 <details>
   <summary>Find matches excluding a pattern with grep:</summary>
@@ -1036,8 +1036,8 @@ Useful shortcuts and commands I use or have used to optimize my productivity.
 ### Npm scripts
 
 - **omit npm config**: `npm init -y`
-- **alias shortcut**: `npm install —save alias: npm i -S`
-- **dev shortcut**: `npm —save-dev: npm i -D`
+- **alias shortcut**: `npm install -save alias: npm i -S`
+- **dev shortcut**: `npm -save-dev: npm i -D`
 
 ### Mac keyboard shortcuts
 <details>

@@ -8,7 +8,7 @@ path: "/notes/worshiping-agency"
 
 My taste for work was unusual as a teenager and young adult.
 
-I blindly signed up for a pyramid scheme which I didn't know about. I liked the idea of being my own boss and having an office space. To earn that, I would need to sell juice boxes that were high in nutrition and recruit people to sell those densely nutrition juice boxes who were densely energized to hustle. Hence, pyramid! I rallied up my friend to help me stick flyers on people's car parked at a mall. I sold 24 boxes—one to a stranger and the rest to my uncle because he always supported my endeavors.
+I blindly signed up for a pyramid scheme which I didn't know about. I liked the idea of being my own boss and having an office space. To earn that, I would need to sell juice boxes that were high in nutrition and recruit people to sell those densely nutrition juice boxes who were densely energized to hustle. Hence, pyramid! I rallied up my friend to help me stick flyers on people's car parked at a mall. I sold 24 boxes-one to a stranger and the rest to my uncle because he always supported my endeavors.
 
 Then I went on to purchase a stock of a company I was working at trading for pennies. I purchased several thousand stocks thinking I would turn those into several hundred thousands. And I was pretty damn sure because I was an “insider.” I knew how much inventory we were selling on a daily basis. Hallelujah! I would retire and would make my mom's job easier as she was a single parent supporting her family. But I didn't know the financial statements. It was heavily leveraged. Next came the bankruptcy and I lost it all.
 
@@ -30,7 +30,7 @@ High agency individuals foster their full potential. Many creatives come short b
 
 High agency individuals regularly reassess their priorities without fear of changing them. It is normal to fall into day-to-day and losing agency over time, but high agency individuals never fall for this inertia. They are constantly adjusting and re-adjusting their path to actualize their vision. Abandoning items or goals might seem counterproductive against commitment, but it is not. They are highly committed but not married to a particular path. Shedding unproductive items wake high agency individuals up, so they can stay focused on the mission.
 
-High agency individuals do not fall prey to institutional thinking. This is important for critical thinking. They recognize the delusional thinking—just because higher ranking institution said so, it must happen that way. There is no “safe path.” They are not concerned with image management. The only management they do is preserving values and principles to guide their operating model to achieve their mission.
+High agency individuals do not fall prey to institutional thinking. This is important for critical thinking. They recognize the delusional thinking-just because higher ranking institution said so, it must happen that way. There is no “safe path.” They are not concerned with image management. The only management they do is preserving values and principles to guide their operating model to achieve their mission.
 
 High agency individuals refuse to play victim mentality. Victimhood suppresses agency. One thing I am not sure about how one individual can have more agency over another. But I have a theory–these individuals have solved an extraordinary challenge of navigating difficult times early on in their lives. They chose to respect themselves and constantly beat their circumstances by being more resilient and mentally strong. This is why we shouldn't tell young adults their future is doomed. We should enable them to try harder and build confidence not throw bricks at them.
 
@@ -40,11 +40,11 @@ How did these high agency individuals come about? In my opinion, high agency ind
 
 They find tall orders of doing homework at school useless because what they learn is not relevant, and they have difficulty in connecting the dots on how lessons from school is going to be useful to them in real life. 
 
-They feel the inertia, but they are constantly trying to go off-script. They are in their playground experimenting. They are asking all the hard questions. And those who are not fortunate enough are working. Both have something in common. Doing something useful is appreciated at a young age. The case in point—at 13 Steve Jobs had a summer job at Hewlett Packard.
+They feel the inertia, but they are constantly trying to go off-script. They are in their playground experimenting. They are asking all the hard questions. And those who are not fortunate enough are working. Both have something in common. Doing something useful is appreciated at a young age. The case in point-at 13 Steve Jobs had a summer job at Hewlett Packard.
 
 People around these high agents including parents and teachers are enablers. The support system conceive the idea that they can contribute back in society as early as they want and permission isn't required from a responsible adult. Their contributions to society are validated by these people, so naturally their spirit of work ethic is elevated.  
 
-This propels their innate curiosity of how the world operates. They start finding meaning in their work. The future is not so abstract anymore. And this is why school becomes meaningless. They downplay the reality portrayed by schools—4 years of high school, 4 years of college and off you go in the real-world for a job. Theorizing the world for 8+ years as a young adult is painful. 
+This propels their innate curiosity of how the world operates. They start finding meaning in their work. The future is not so abstract anymore. And this is why school becomes meaningless. They downplay the reality portrayed by schools-4 years of high school, 4 years of college and off you go in the real-world for a job. Theorizing the world for 8+ years as a young adult is painful. 
 
 You learn from doing not the other way around. Learning is the consequence of doing. Those who realize this early bear the fruits early.
 

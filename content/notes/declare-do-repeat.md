@@ -30,7 +30,7 @@ These are the mechanics of showing up. They have a reliable presence.
 
 The rest of it is getting it done because execution is your moat. Be a participant, not a spectator.
 
-Former US President Barack Obama once shared his most important career advice for young people—“Just learn how to get stuff done.”
+Former US President Barack Obama once shared his most important career advice for young people-“Just learn how to get stuff done.”
 
 These words again are simple, but the impact is astronomical. You can argue that ideas matter, but you cannot argue against ideas without action is worth nothing.
 
