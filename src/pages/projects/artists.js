@@ -221,53 +221,6 @@ const ArtistsIndex = ({ data, location }) => {
             <Seo title="Famous Artists: Masters of the Craft" />
 
             <style>{`
-                .ct-pill {
-                    display: inline-block;
-                    padding: 2px 8px;
-                    border-radius: 12px;
-                    font-size: var(--fontSize-0);
-                    font-weight: var(--fontWeight-bold);
-                    text-transform: uppercase;
-                    letter-spacing: 0.05em;
-                    background-color: var(--color-secondary-accent);
-                    color: var(--color-background);
-                    margin-bottom: var(--spacing-2);
-                }
-                .ct-button {
-                    display: inline-block;
-                    padding: var(--spacing-3) var(--spacing-6);
-                    background-color: var(--color-primary-accent);
-                    color: var(--color-light);
-                    border: solid var(--color-dark) var(--spacing-1);
-                    border-radius: var(--spacing-1);
-                    cursor: pointer;
-                    font-weight: var(--fontWeight-black);
-                    font-family: var(--font-heading);
-                    text-decoration: none;
-                }
-                .ct-button:hover { background-color: var(--color-dark); color: var(--color-background); }
-                .ct-button:active { box-shadow: 0px 0px 0px 0px var(--color-dark); }
-                .ct-card {
-                    padding: var(--spacing-6);
-                    border: 1px solid var(--color-secondary-accent);
-                    border-radius: var(--spacing-2);
-                    background: var(--color-background);
-                }
-                .ct-grid {
-                    display: grid;
-                    grid-template-columns: 1fr;
-                    gap: var(--spacing-8);
-                    margin-bottom: var(--spacing-16);
-                }
-                @media (min-width: 768px) {
-                    .ct-grid.cols-2 { grid-template-columns: 1fr 1fr; align-items: start; }
-                    .ct-grid.cols-3 { grid-template-columns: 1fr 1fr 1fr; }
-                }
-                @media (max-width: 767px) {
-                    .ct-grid { gap: var(--spacing-6); }
-                    .main-heading { font-size: var(--fontSize-6); line-height: var(--lineHeight-tight); }
-                    .ct-responsive-header-text { font-size: var(--fontSize-2) !important; }
-                }
                 /* Card stack - desktop: absolute stacking; mobile: single card in flow */
                 .artist-card-item {
                     position: absolute;
@@ -352,20 +305,23 @@ const ArtistsIndex = ({ data, location }) => {
                 }
                 .reference-table th {
                     text-align: left;
-                    padding: var(--spacing-3) var(--spacing-4);
+                    padding: var(--spacing-2) var(--spacing-3);
                     border-bottom: 2px solid var(--color-dark);
-                    font-weight: var(--fontWeight-bold);
+                    font-family: var(--font-heading);
+                    font-weight: var(--fontWeight-black);
                     text-transform: uppercase;
                     letter-spacing: 0.05em;
                     font-size: var(--fontSize-0);
+                    background: var(--color-background);
                     white-space: nowrap;
                 }
                 .reference-table td {
-                    padding: var(--spacing-3) var(--spacing-4);
+                    padding: var(--spacing-3);
                     border-bottom: 1px solid var(--color-secondary-accent);
                     vertical-align: top;
+                    font-size: var(--fontSize-0);
                 }
-                .reference-table tr:hover td { background: var(--color-background); }
+                .reference-table tr:hover td { background: rgba(0,0,0,0.03); }
                 .era-dot {
                     display: inline-block;
                     width: 8px;
@@ -374,20 +330,7 @@ const ArtistsIndex = ({ data, location }) => {
                     margin-right: 6px;
                     flex-shrink: 0;
                 }
-                .nav-dot {
-                    width: 8px;
-                    height: 8px;
-                    border-radius: 50%;
-                    border: 2px solid var(--color-dark);
-                    cursor: pointer;
-                    transition: background 0.2s;
-                    padding: 0;
-                    background: transparent;
-                }
-                .nav-dot.active { background: var(--color-dark); }
-                .mono-text {
-                    font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-                }
+
             `}</style>
 
             <header style={{ textAlign: 'left', marginBottom: 'var(--spacing-16)' }}>

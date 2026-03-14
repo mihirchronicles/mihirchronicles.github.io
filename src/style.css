@@ -309,6 +309,10 @@ a:focus {
   margin-bottom: var(--spacing-12);
 }
 
+.ct-responsive-header-text {
+  font-size: var(--fontSize-2) !important;
+}
+
 .post-list-item {
   margin-bottom: var(--spacing-8);
   margin-top: var(--spacing-8);
@@ -596,7 +600,6 @@ code {
     float: none;
     margin-left: auto;
     margin-right: auto;
-    display: block;
     height: auto;
   }
 
@@ -615,5 +618,174 @@ code {
   .gatsby-highlight code[class*="language-"] {
     white-space: pre-wrap !important;
     word-break: break-word !important;
+  }
+}
+
+/* ─── Shared Project Utility Classes ─────────────────────────────────────── */
+
+/* Pill badge */
+.ct-pill {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: var(--fontSize-0);
+  font-weight: var(--fontWeight-bold);
+  font-family: var(--font-heading);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  background-color: var(--color-secondary-accent);
+  color: var(--color-background);
+  margin-bottom: var(--spacing-2);
+}
+
+/* CTA / navigation button */
+.ct-button {
+  display: inline-block;
+  padding: var(--spacing-3) var(--spacing-6);
+  background-color: var(--color-primary-accent);
+  color: var(--color-light);
+  border: solid var(--color-dark) var(--spacing-1);
+  border-radius: var(--spacing-1);
+  cursor: pointer;
+  font-weight: var(--fontWeight-black);
+  font-family: var(--font-heading);
+  font-size: var(--fontSize-1);
+  text-decoration: none;
+  transition: background-color 0.15s ease, color 0.15s ease;
+  white-space: nowrap;
+}
+
+.ct-button:hover {
+  background-color: var(--color-dark);
+  color: var(--color-background);
+  border-bottom: none;
+}
+
+.ct-button:active {
+  box-shadow: 0px 0px 0px 0px var(--color-dark);
+}
+
+/* Content card */
+.ct-card {
+  padding: var(--spacing-6);
+  border: 1px solid var(--color-secondary-accent);
+  border-radius: var(--spacing-2);
+  background: var(--color-background);
+}
+
+/* Responsive grid */
+.ct-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--spacing-8);
+  margin-bottom: var(--spacing-16);
+}
+
+@media (min-width: 768px) {
+  .ct-grid.cols-2 {
+    grid-template-columns: 1fr 1fr;
+    align-items: start;
+  }
+
+  .ct-grid.cols-3 {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+@media (max-width: 767px) {
+  .ct-grid {
+    gap: var(--spacing-6);
+  }
+
+  .ct-button {
+    padding: var(--spacing-2) var(--spacing-4);
+    font-size: var(--fontSize-0);
+  }
+}
+
+/* Monospace text */
+.mono-text {
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+/* Layout helpers */
+.flex-row-between {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.flex-col-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.text-center {
+  text-align: center;
+}
+
+/* Dot navigation (card stacks) */
+.nav-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  border: 2px solid var(--color-dark);
+  background: transparent;
+  padding: 0;
+  cursor: pointer;
+  transition: background 0.2s;
+  position: relative;
+}
+
+.nav-dot.active {
+  background: var(--color-dark);
+}
+
+/* Reference / data table */
+.reference-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: var(--fontSize-0);
+}
+
+.reference-table th {
+  text-align: left;
+  padding: var(--spacing-2) var(--spacing-3);
+  border-bottom: 2px solid var(--color-dark);
+  font-family: var(--font-heading);
+  font-weight: var(--fontWeight-black);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: var(--fontSize-0);
+  background: var(--color-background);
+  white-space: nowrap;
+}
+
+.reference-table td {
+  padding: var(--spacing-3);
+  border-bottom: 1px solid var(--color-secondary-accent);
+  vertical-align: top;
+  font-size: var(--fontSize-0);
+}
+
+.reference-table tr:hover td {
+  background: rgba(0, 0, 0, 0.03);
+}
+
+.reference-table .era-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  display: inline-block;
+  flex-shrink: 0;
+}
+
+/* Main heading responsive */
+@media (max-width: 767px) {
+  .main-heading {
+    font-size: var(--fontSize-6);
+    line-height: var(--lineHeight-tight);
   }
 }

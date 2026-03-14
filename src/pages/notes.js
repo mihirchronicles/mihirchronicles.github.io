@@ -59,7 +59,7 @@ const NotesIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <h1>Notes</h1>
-      <p> A collection of deep dives, personal notes and essays. They are a reflection of my thoughts and observations. I explore topics that I cannot stop thinking about or pulls me deeply. Each topic digs deeper into my own ignorance which helps me clarify my thoughts. This is a continuous journey, and I often revisit them as my knowledge expands.</p>
+      <p className="ct-responsive-header-text"> A collection of deep dives, personal notes and essays. They are a reflection of my thoughts and observations. I explore topics that I cannot stop thinking about or pulls me deeply. Each topic digs deeper into my own ignorance which helps me clarify my thoughts. This is a continuous journey, and I often revisit them as my knowledge expands.</p>
       <TagList>
         {allTags.map(tag => (
           <li key={tag}>

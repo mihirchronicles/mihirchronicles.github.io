@@ -238,80 +238,6 @@ const PaintBrushesIndex = ({ data, location }) => {
             <Seo title="Paint Brushes: Tools of Expression" />
 
             <style>{`
-                .ct-pill {
-                    display: inline-block;
-                    padding: 2px 8px;
-                    border-radius: 12px;
-                    font-size: var(--fontSize-0);
-                    font-weight: var(--fontWeight-bold);
-                    text-transform: uppercase;
-                    letter-spacing: 0.05em;
-                    background-color: var(--color-secondary-accent);
-                    color: var(--color-background);
-                    margin-bottom: var(--spacing-2);
-                }
-                .ct-button {
-                    display: inline-block;
-                    padding: var(--spacing-3) var(--spacing-6);
-                    background-color: var(--color-primary-accent);
-                    color: var(--color-light);
-                    border: solid var(--color-dark) var(--spacing-1);
-                    border-radius: var(--spacing-1);
-                    cursor: pointer;
-                    font-weight: var(--fontWeight-black);
-                    font-family: var(--font-heading);
-                    text-decoration: none;
-                }
-                .ct-button:hover {
-                    background-color: var(--color-dark);
-                    color: var(--color-background);
-                }
-                .ct-button:active {
-                    box-shadow: 0px 0px 0px 0px var(--color-dark);
-                }
-                .ct-card {
-                    padding: var(--spacing-6);
-                    border: 1px solid var(--color-secondary-accent);
-                    border-radius: var(--spacing-2);
-                    background: var(--color-background);
-                }
-                .ct-grid {
-                    display: grid;
-                    grid-template-columns: 1fr;
-                    gap: var(--spacing-8);
-                    margin-bottom: var(--spacing-16);
-                }
-                @media (min-width: 768px) {
-                    .ct-grid.cols-2 {
-                        grid-template-columns: 1fr 1fr;
-                        align-items: center;
-                    }
-                    .ct-grid.cols-3 {
-                        grid-template-columns: 1fr 1fr 1fr;
-                    }
-                }
-                @media (max-width: 767px) {
-                    .ct-grid {
-                        gap: var(--spacing-10);
-                    }
-                }
-                .flex-row-between {
-                    display: flex;
-                    justify-content: space-between;
-                    align-items: center;
-                }
-                .flex-col-center {
-                    display: flex;
-                    flex-direction: column;
-                    align-items: center;
-                    justify-content: center;
-                }
-                .mono-text {
-                    font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-                }
-                .text-center {
-                    text-align: center;
-                }
 
                 /* SVG Brush Preview */
                 .brush-preview-container {
@@ -386,15 +312,7 @@ const PaintBrushesIndex = ({ data, location }) => {
                     border: 1px solid var(--color-dark);
                     border-radius: 4px;
                 }
-                @media (max-width: 767px) {
-                    .main-heading {
-                        font-size: var(--fontSize-6);
-                        line-height: var(--lineHeight-tight);
-                    }
-                    .ct-responsive-header-text {
-                        font-size: var(--fontSize-2) !important;
-                    }
-                }
+
             `}</style>
 
             <header style={{ textAlign: 'left', marginBottom: 'var(--spacing-16)' }}>

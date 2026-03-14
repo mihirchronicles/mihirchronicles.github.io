@@ -53,7 +53,7 @@ const WorkIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <h1>Work</h1>
-      <p style={{ marginBottom: "4rem", maxWidth: "800px" }}>A hand-selected list of personal and professional projects I have contributed to. The showcase brings attention to my product thinking, design, and engineering work.</p>
+      <p className="ct-responsive-header-text">A hand-selected list of personal and professional projects I have contributed to. The showcase brings attention to my product thinking, design, and engineering work.</p>
 
       <h2>Painter's Toolbox</h2>
       <WorkContainer>
