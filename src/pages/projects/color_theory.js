@@ -806,7 +806,7 @@ const ColorTheoryIndex = ({ data, location }) => {
                             transform: 'translate(6px, 6px)',
                             borderRadius: 'var(--spacing-1)'
                         }}>
-                            {isIllusionActive ? 'Remove Background' : 'Restore Background'}
+                            {isIllusionActive ? 'Background Off' : 'Background On'}
                         </button>
                     </div>
                 </div>

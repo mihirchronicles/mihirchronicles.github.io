@@ -647,18 +647,17 @@ code {
   border: solid var(--color-dark) var(--spacing-1);
   border-radius: var(--spacing-1);
   cursor: pointer;
+  transition: background-color 0.15s ease, color 0.15s ease;
   font-weight: var(--fontWeight-black);
   font-family: var(--font-heading);
   font-size: var(--fontSize-1);
   text-decoration: none;
-  transition: background-color 0.15s ease, color 0.15s ease;
   white-space: nowrap;
 }
 
 .ct-button:hover {
   background-color: var(--color-dark);
   color: var(--color-background);
-  border-bottom: none;
 }
 
 .ct-button:active {
