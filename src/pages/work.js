@@ -65,16 +65,21 @@ const WorkIndex = ({ data, location }) => {
             <StaticImage src="../images/paint_brushes.png" alt="paint brushes" className="gallery-image" />
           </Zoom>
           <Zoom>
+            <StaticImage src="../images/artists.png" alt="famous artists" className="gallery-image" />
+          </Zoom>
+          <Zoom>
             <StaticImage src="../images/trees.png" alt="trees" className="gallery-image" />
           </Zoom>
         </ImageContainer>
         <ContentContainer>
           <p><strong>[Ongoing]</strong></p>
           <ul>
-            <li>A project documenting my journey as a painter. I am just getting started on my journey to paint and I am obsessed with the trees and forests. These are the tools I have built to help me learn the tactical details of color theory, paint brushes, and architecture of trees.</li>
+            <li>A collection of tools used in my journey as a painter. These are the tools I have built to help me learn the tactical details of color theory, paint brushes, and techniques from great masters. The primary subject in my painting are the trees.</li>
             <li>An interactive tool on color theory. It is inspired by the teachings of Josef Albers which explore how colors behave, interact, and deceive the human eye. <a href="/projects/color_theory">Color Guide</a>
             </li>
             <li>An interactive guide on paint brushes. <a href="/projects/paint_brushes">Paint Brush Guide</a>
+            </li>
+            <li>An interactive guide on famous artists and their work. <a href="/projects/artists">Artists Guide</a>
             </li>
             <li>An interactive guide on how to paint trees. <a href="/projects/trees">Tree Guide</a>
             </li>
