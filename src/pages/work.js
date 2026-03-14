@@ -74,7 +74,7 @@ const WorkIndex = ({ data, location }) => {
         <ContentContainer>
           <p><strong>[Ongoing]</strong></p>
           <ul>
-            <li>A collection of tools used in my journey as a painter. These are the tools I have built to help me learn the tactical details of color theory, paint brushes, and techniques from great masters. The primary subject in my painting are the trees.</li>
+            <li>A collection of tools used in my journey as a painter. These are the tools I use to learn the tactical details of color theory, paint brushes, and techniques from great masters.</li>
             <li>An interactive tool on color theory. It is inspired by the teachings of Josef Albers which explore how colors behave, interact, and deceive the human eye. <a href="/projects/color_theory">Color Guide</a>
             </li>
             <li>An interactive guide on paint brushes. <a href="/projects/paint_brushes">Paint Brush Guide</a>
