@@ -6,7 +6,7 @@ import Seo from "../../../components/seo"
 
 import initialQuestions from "./questions_data.json";
 
-const tagsList = ["all", "life", "product", "investing", "conversational"];
+const tagsList = ["all", "growth", "conversational", "life", "product", "investing"];
 
 const QuestionsIndex = ({ data, location }) => {
     const siteTitle = data.site.siteMetadata?.title || `Title`
@@ -125,7 +125,7 @@ const QuestionsIndex = ({ data, location }) => {
             <header className="questions-header">
                 <h1 className="main-heading">Question Bank</h1>
                 <p className="ct-responsive-header-text">
-                    A curated collection of interesting prompts for journaling, deep thinking, or sparking meaningful conversations. Filter by category or pick a random one to explore.
+                    A curated collection of interesting prompts for journaling, deep thinking, interviewing, and sparking meaningful conversations. I have been collecting interesting quesitons in my notes app for a while now and thought it would be cool to share them. The questions are filterable by category or you can pick a random one to explore.
                 </p>
                 <div style={{ marginTop: 'var(--spacing-8)' }}>
                     <a href="#directory" className="ct-button">
@@ -143,9 +143,17 @@ const QuestionsIndex = ({ data, location }) => {
                             {randomQuestion.tags.map(t => (
                                 <span
                                     key={t}
+                                    role="button"
+                                    tabIndex={0}
                                     className="q-tag"
                                     style={{ backgroundColor: tagColors[t] || '#333' }}
                                     onClick={() => setActiveTag(t)}
+                                    onKeyDown={(e) => {
+                                        if (e.key === 'Enter' || e.key === ' ') {
+                                            e.preventDefault();
+                                            setActiveTag(t);
+                                        }
+                                    }}
                                     title={`Filter by ${t}`}
                                 >
                                     {t}
@@ -189,7 +197,7 @@ const QuestionsIndex = ({ data, location }) => {
                         <thead>
                             <tr>
                                 <th style={{ width: '60px' }}>#</th>
-                                <th>Question</th>
+                                <th style={{ minWidth: '400px' }}>Question</th>
                                 <th style={{ width: '200px' }}>Tags</th>
                             </tr>
                         </thead>
@@ -205,9 +213,17 @@ const QuestionsIndex = ({ data, location }) => {
                                             {q.tags.map(t => (
                                                 <span
                                                     key={t}
+                                                    role="button"
+                                                    tabIndex={0}
                                                     className="q-tag"
                                                     style={{ backgroundColor: tagColors[t] || '#333', marginBottom: 0 }}
                                                     onClick={() => setActiveTag(t)}
+                                                    onKeyDown={(e) => {
+                                                        if (e.key === 'Enter' || e.key === ' ') {
+                                                            e.preventDefault();
+                                                            setActiveTag(t);
+                                                        }
+                                                    }}
                                                     title={`Filter by ${t}`}
                                                 >
                                                     {t}

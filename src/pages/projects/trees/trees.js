@@ -342,7 +342,7 @@ const TreesIndex = ({ data, location }) => {
             <header style={{ textAlign: 'left', marginBottom: 'var(--spacing-16)' }}>
                 <h1 className="main-heading">Trees</h1>
                 <p className="ct-responsive-header-text">
-                    An interactive guide on the architecture of trees for painters. This guide covers the basic element of trees from beginner to advanced level.
+                    Trees have captivated me for as long as I can remember: their form, their structure, the way light moves through them. This interactive guide explores tree anatomy through an artist's eye, breaking down each element from foundational basics to more nuanced detail, so you can observe, understand, and paint them with greater confidence.
                 </p>
                 <div style={{ marginTop: 'var(--spacing-8)' }}>
                     <a href="#beginner" className="ct-button">Start the Journey &darr;</a>

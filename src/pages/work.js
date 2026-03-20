@@ -72,17 +72,17 @@ const WorkIndex = ({ data, location }) => {
           <p><strong>[2026]</strong></p>
           <ul>
             <li>A collection of tools used in my journey as a painter. These are the tools I use to learn the tactical details of color theory, paint brushes, and techniques from great masters.</li>
-            <li>An interactive tool on color theory. It is inspired by the teachings of Josef Albers which explore how colors behave, interact, and deceive the human eye. <a href="/projects/painters_toolbox/color_theory">Color Guide</a>
+            <li>An interactive tool on color theory. It is inspired by the teachings of Josef Albers which explore how colors behave, interact, and deceive the human eye. <strong>Link</strong>: <a href="/projects/painters_toolbox/color_theory">Color Guide</a>
             </li>
-            <li>An interactive guide on paint brushes. <a href="/projects/painters_toolbox/paint_brushes">Paint Brush Guide</a>
+            <li>An interactive guide on paint brushes. <strong>Link</strong>: <a href="/projects/painters_toolbox/paint_brushes">Paint Brush Guide</a>
             </li>
-            <li>An interactive guide on famous artists and their work. <a href="/projects/painters_toolbox/artists">Artists Guide</a>
+            <li>An interactive guide on famous artists and their work. <strong>Link</strong>: <a href="/projects/painters_toolbox/artists">Artists Guide</a>
             </li>
           </ul>
         </ContentContainer>
       </WorkContainer>
 
-      <h2>Tree Architecture</h2>
+      <h2>Trees</h2>
       <WorkContainer>
         <ImageContainer>
           <Zoom>
@@ -92,9 +92,9 @@ const WorkIndex = ({ data, location }) => {
         <ContentContainer>
           <p><strong>[2025]</strong></p>
           <ul>
-            <li>An interactive guide on the architecture of trees for painters.</li>
+            <li>Trees fascinate me. This is an interactive guide on the architecture of trees.</li>
           </ul>
-          <p><strong>Link</strong>: <a href="/projects/trees/trees">Trees</a></p>
+          <p><strong>Link</strong>: <a href="/projects/trees/trees">Tree Guide</a></p>
         </ContentContainer>
       </WorkContainer>
 
