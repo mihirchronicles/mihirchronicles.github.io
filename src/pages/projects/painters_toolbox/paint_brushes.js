@@ -325,7 +325,7 @@ const PaintBrushesIndex = ({ data, location }) => {
                 </div>
             </header>
 
-            <hr style={{ marginBottom: 'var(--spacing-12)' }} />
+            <hr className="project-hr" />
 
             <section id="beginner" style={{ marginBottom: 'var(--spacing-16)' }}>
                 <div>
@@ -409,7 +409,7 @@ const PaintBrushesIndex = ({ data, location }) => {
 
             </section>
 
-            <hr style={{ marginBottom: 'var(--spacing-12)' }} />
+            <hr className="project-hr" />
 
             <section id="intermediate" style={{ marginBottom: 'var(--spacing-16)' }}>
                 <div>
@@ -507,7 +507,7 @@ const PaintBrushesIndex = ({ data, location }) => {
                 </div>
             </section>
 
-            <hr style={{ marginBottom: 'var(--spacing-12)' }} />
+            <hr className="project-hr" />
 
             <section id="advanced" style={{ marginBottom: 'var(--spacing-16)' }}>
                 <div>

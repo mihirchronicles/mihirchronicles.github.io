@@ -349,7 +349,7 @@ const TreesIndex = ({ data, location }) => {
                 </div>
             </header>
 
-            <hr style={{ marginBottom: 'var(--spacing-12)' }} />
+            <hr className="project-hr" />
 
             {/* ─── PHASE 01 ──────────────────────────────────────────────── */}
             <section id="beginner" style={{ marginBottom: 'var(--spacing-16)' }}>
@@ -406,7 +406,7 @@ const TreesIndex = ({ data, location }) => {
                 </div>
             </section>
 
-            <hr style={{ marginBottom: 'var(--spacing-12)' }} />
+            <hr className="project-hr" />
 
             {/* ─── PHASE 02 ──────────────────────────────────────────────── */}
             <section id="intermediate" style={{ marginBottom: 'var(--spacing-16)' }}>
@@ -486,7 +486,7 @@ const TreesIndex = ({ data, location }) => {
                 </div>
             </section>
 
-            <hr style={{ marginBottom: 'var(--spacing-12)' }} />
+            <hr className="project-hr" />
 
             {/* ─── PHASE 03 ──────────────────────────────────────────────── */}
             <section id="advanced" style={{ marginBottom: 'var(--spacing-16)' }}>

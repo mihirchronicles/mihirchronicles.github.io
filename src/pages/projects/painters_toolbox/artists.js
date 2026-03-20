@@ -343,7 +343,7 @@ const ArtistsIndex = ({ data, location }) => {
                 </div>
             </header>
 
-            <hr style={{ marginBottom: 'var(--spacing-12)' }} />
+            <hr className="project-hr" />
 
             {/* ─── CARD STACK ──────────────────────────────────────────── */}
             <section id="explore" style={{ marginBottom: 'var(--spacing-16)' }}>
@@ -452,7 +452,7 @@ const ArtistsIndex = ({ data, location }) => {
                 </p>
             </section>
 
-            <hr style={{ marginBottom: 'var(--spacing-12)' }} />
+            <hr className="project-hr" />
 
             {/* ─── REFERENCE TABLE ─────────────────────────────────────── */}
             <section id="reference" style={{ marginBottom: 'var(--spacing-16)' }}>
@@ -507,7 +507,7 @@ const ArtistsIndex = ({ data, location }) => {
 
             {/* ─── SOURCES ─────────────────────────────────────────────── */}
             <section style={{ marginBottom: 'var(--spacing-16)' }}>
-                <hr style={{ marginBottom: 'var(--spacing-8)' }} />
+                <hr className="project-hr" />
                 <span className="ct-pill">Sources</span>
                 <h2>References</h2>
                 <p>Biographical details, dates, and era descriptions are drawn from the following sources. All images are public domain works sourced from Wikimedia Commons.</p>

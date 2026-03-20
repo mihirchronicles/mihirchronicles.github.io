@@ -123,8 +123,17 @@ footer {
 
 hr {
   margin-top: var(--spacing-1);
-  border: 1px var(--color-dark);
-  border-style: none none dashed;
+  border: none;
+  border-bottom: 2px dashed var(--color-dark);
+  opacity: 0.1;
+}
+
+.project-hr {
+  margin-top: var(--spacing-1);
+  margin-bottom: var(--spacing-12);
+  border: none;
+  border-bottom: 1px dashed var(--color-dark);
+  opacity: 1;
 }
 
 /* Heading */

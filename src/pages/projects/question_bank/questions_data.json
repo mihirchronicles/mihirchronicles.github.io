@@ -1,4 +1,5 @@
-[
+{
+  "initialQuestions": [
     {
         "id": 1,
         "text": "How can I best support my own vulnerability?",
@@ -839,4 +840,187 @@
             "investing"
         ]
     }
-]
+  ],
+  "wisdomCards": [
+    {
+      "id": 1,
+      "question": "What would this look like if it were easy?",
+      "mental_model": "Occam’s Razor",
+      "explanation": "We often over-engineer solutions. This forces the simplest, most direct path to the surface.",
+      "tags": ["productivity", "strategy"],
+      "context": "Strategy Session",
+      "intensity": 2
+    },
+    {
+      "id": 2,
+      "question": "How am I complicit in creating the conditions I say I don't want?",
+      "mental_model": "Radical Responsibility",
+      "explanation": "Destroys the victim narrative and identifies exactly where you have the power to change.",
+      "tags": ["growth", "leadership"],
+      "context": "Personal Reflection",
+      "intensity": 5
+    },
+    {
+      "id": 3,
+      "question": "How could I achieve my 10-year goals in the next six months?",
+      "mental_model": "Constraint Analysis",
+      "explanation": "It reveals the 10x leverage points you are currently ignoring by removing the luxury of time.",
+      "tags": ["ambition", "growth"],
+      "context": "Quarterly Planning",
+      "intensity": 4
+    },
+    {
+      "id": 4,
+      "question": "If you had to destroy this business in one year, what would you do?",
+      "mental_model": "Inversion",
+      "explanation": "A pre-mortem for your product that exposes vulnerabilities before competitors find them.",
+      "tags": ["product", "strategy"],
+      "context": "Executive Offsite",
+      "intensity": 4
+    },
+    {
+      "id": 5,
+      "question": "What if I could only subtract to solve problems?",
+      "mental_model": "Via Negativa",
+      "explanation": "Fixing things by removing friction is often more effective than adding features or tasks.",
+      "tags": ["product", "design"],
+      "context": "Product Review",
+      "intensity": 3
+    },
+    {
+      "id": 6,
+      "question": "Why do the reluctant users hold back?",
+      "mental_model": "Jobs to be Done",
+      "explanation": "Focuses on the specific anxieties and habits that keep people from switching to your product.",
+      "tags": ["product", "research"],
+      "context": "User Research",
+      "intensity": 3
+    },
+    {
+      "id": 7,
+      "question": "What important truth do very few people agree with you on?",
+      "mental_model": "Zero to One",
+      "explanation": "Tests your ability to find non-consensus value—the core of great strategy and investing.",
+      "tags": ["investing", "strategy"],
+      "context": "Dinner Party",
+      "intensity": 4
+    },
+    {
+      "id": 8,
+      "question": "If I could only work for four hours this week, what would I work on?",
+      "mental_model": "Pareto Principle",
+      "explanation": "Forces you to ruthlessly prioritize the 20% of work driving 80% of the value.",
+      "tags": ["productivity", "prioritization"],
+      "context": "Weekly Sync",
+      "intensity": 3
+    },
+    {
+      "id": 9,
+      "question": "What is the highest and best use of you?",
+      "mental_model": "Comparative Advantage",
+      "explanation": "Determines if you are doing what only you can do, or just what is in front of you.",
+      "tags": ["leadership", "growth"],
+      "context": "Career Coaching",
+      "intensity": 3
+    },
+    {
+      "id": 10,
+      "question": "What have you changed your mind about recently?",
+      "mental_model": "Bayesian Updating",
+      "explanation": "A measure of intellectual humility. If you haven't changed your mind, you aren't learning.",
+      "tags": ["growth", "philosophy"],
+      "context": "1-on-1 Mentoring",
+      "intensity": 2
+    },
+    {
+      "id": 11,
+      "question": "What is my process to reduce errors of omission?",
+      "mental_model": "Opportunity Cost",
+      "explanation": "The value lost on missed opportunities is often larger than the loss on bad decisions.",
+      "tags": ["investing", "decision-making"],
+      "context": "Investment Committee",
+      "intensity": 4
+    },
+    {
+      "id": 12,
+      "question": "At what scale do we want the product to operate?",
+      "mental_model": "Scalability Limits",
+      "explanation": "Design for the eventual destination, not just the current bandwidth.",
+      "tags": ["product", "engineering"],
+      "context": "Architecture Review",
+      "intensity": 3
+    },
+    {
+      "id": 13,
+      "question": "What does this narrative do to my being?",
+      "mental_model": "Reframing",
+      "explanation": "The stories we tell ourselves about our stress or work dictate our physical and mental state.",
+      "tags": ["growth", "psychology"],
+      "context": "Personal Reflection",
+      "intensity": 5
+    },
+    {
+      "id": 14,
+      "question": "What is standing between me and being present right now?",
+      "mental_model": "Friction Identification",
+      "explanation": "Identifies the lingering task or unaddressed emotion and allows you to neutralize it.",
+      "tags": ["productivity", "mindfulness"],
+      "context": "Daily Review",
+      "intensity": 2
+    },
+    {
+      "id": 15,
+      "question": "Is this 'activity' or 'progress'?",
+      "mental_model": "Signal vs. Noise",
+      "explanation": "Busy-ness is often a form of laziness—it's easier than being productive.",
+      "tags": ["productivity", "strategy"],
+      "context": "Product Review",
+      "intensity": 3
+    },
+    {
+      "id": 16,
+      "question": "What piece of 'art' would I create if I had to pretend to be an artist?",
+      "mental_model": "Creative Confidence",
+      "explanation": "Lowers the stakes of perfectionism to let raw, unconventional ideas flow.",
+      "tags": ["creativity", "innovation"],
+      "context": "Ideation Workshop",
+      "intensity": 1
+    },
+    {
+      "id": 17,
+      "question": "What happens when a company stops believing in secrets?",
+      "mental_model": "Stagnation Theory",
+      "explanation": "When you stop looking for the 'hidden thing,' you stop being capable of true innovation.",
+      "tags": ["strategy", "culture"],
+      "context": "Executive Offsite",
+      "intensity": 3
+    },
+    {
+      "id": 18,
+      "question": "What is your circle of competence?",
+      "mental_model": "Epistemic Humility",
+      "explanation": "Knowing where your edge ends is more important than how wide your knowledge is.",
+      "tags": ["investing", "decision-making"],
+      "context": "Hiring Interview",
+      "intensity": 3
+    },
+    {
+      "id": 19,
+      "question": "How do habits create strength?",
+      "mental_model": "Compounding",
+      "explanation": "The ROI of a 1% daily improvement in process is massive over long time horizons.",
+      "tags": ["growth", "systems"],
+      "context": "Team Culture",
+      "intensity": 2
+    },
+    {
+      "id": 20,
+      "question": "What would I do if it was impossible for me to fail?",
+      "mental_model": "Risk Assessment",
+      "explanation": "Removes the 'fear filter' to reveal your true high-leverage ambitions.",
+      "tags": ["growth", "ambition"],
+      "context": "Career Coaching",
+      "intensity": 4
+    }
+  ]
+}

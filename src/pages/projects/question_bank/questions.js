@@ -4,7 +4,10 @@ import { graphql } from "gatsby"
 import Layout from "../../../components/layout"
 import Seo from "../../../components/seo"
 
-import initialQuestions from "./questions_data.json";
+import questionsData from "./questions_data.json";
+
+const initialQuestions = questionsData.initialQuestions || [];
+const wisdomCards = questionsData.wisdomCards || [];
 
 const tagsList = ["all", "growth", "conversational", "life", "product", "investing"];
 
@@ -13,6 +16,33 @@ const QuestionsIndex = ({ data, location }) => {
     const [activeTag, setActiveTag] = React.useState("all")
     const [randomQuestion, setRandomQuestion] = React.useState(null)
     const [isAnimating, setIsAnimating] = React.useState(false)
+    const [activeWisdomIdx, setActiveWisdomIdx] = React.useState(0)
+
+    const totalWisdom = wisdomCards.length
+    const goNextWisdom = React.useCallback(() => setActiveWisdomIdx(i => (i + 1) % totalWisdom), [totalWisdom])
+    const goPrevWisdom = React.useCallback(() => setActiveWisdomIdx(i => (i - 1 + totalWisdom) % totalWisdom), [totalWisdom])
+
+    React.useEffect(() => {
+        const handler = e => {
+            if (e.key === 'ArrowRight') goNextWisdom()
+            if (e.key === 'ArrowLeft') goPrevWisdom()
+        }
+        window.addEventListener('keydown', handler)
+        return () => window.removeEventListener('keydown', handler)
+    }, [goNextWisdom, goPrevWisdom])
+
+    const getWisdomCardOffset = (i) => {
+        const raw = (i - activeWisdomIdx + totalWisdom) % totalWisdom
+        return raw <= 3 ? raw : -1
+    }
+
+    const wisdomCardStyle = (offset) => {
+        if (offset === 0) return { zIndex: 10, transform: 'translateY(0px) scale(1)', opacity: 1, pointerEvents: 'auto' }
+        if (offset === 1) return { zIndex: 9, transform: 'translateY(10px) scale(0.975)', opacity: 0.85, pointerEvents: 'none' }
+        if (offset === 2) return { zIndex: 8, transform: 'translateY(20px) scale(0.950)', opacity: 0.65, pointerEvents: 'none' }
+        if (offset === 3) return { zIndex: 7, transform: 'translateY(30px) scale(0.925)', opacity: 0.35, pointerEvents: 'none' }
+        return { zIndex: 6, opacity: 0, pointerEvents: 'none', transform: 'translateY(40px) scale(0.9)' }
+    }
 
     const filteredQuestions = React.useMemo(() => {
         if (activeTag === "all") return initialQuestions;
@@ -116,8 +146,54 @@ const QuestionsIndex = ({ data, location }) => {
                 .q-tag:hover {
                     opacity: 0.8;
                 }
+                .q-tag-outline {
+                    color: var(--color-dark) !important;
+                    background-color: transparent !important;
+                    border: 1px solid var(--color-primary-accent);
+                }
+                
+                .wisdom-card-item {
+                    position: absolute;
+                    top: 0; left: 0; right: 0;
+                    border-radius: var(--spacing-2);
+                    background: var(--color-background);
+                    border: 1px solid var(--color-secondary-accent);
+                    transition: all 0.45s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+                    padding: var(--spacing-6);
+                    text-align: left;
+                    display: flex;
+                    flex-direction: column;
+                    min-height: 320px;
+                }
+                .wisdom-stack-wrap {
+                    position: relative;
+                    height: 360px;
+                    margin: 0 auto;
+                }
+                .wisdom-nav-controls {
+                    display: flex;
+                    align-items: center;
+                    justify-content: space-between;
+                    flex-wrap: wrap;
+                    gap: var(--spacing-3);
+                    margin-top: var(--spacing-8);
+                    margin-bottom: var(--spacing-4);
+                }
+                .wisdom-nav-dots {
+                    display: flex;
+                    gap: var(--spacing-2);
+                    align-items: center;
+                    flex-wrap: wrap;
+                    justify-content: center;
+                }
                 @media (max-width: 767px) {
                     .random-card-custom { padding: var(--spacing-6) var(--spacing-4); min-height: 240px; }
+                    .wisdom-stack-wrap { height: auto !important; padding-bottom: var(--spacing-4); }
+                    .wisdom-card-item { position: static !important; display: none !important; transform: none !important; opacity: 1 !important; margin-bottom: var(--spacing-4); }
+                    .wisdom-card-offset-0 { display: block !important; }
+                    .wisdom-nav-controls { gap: var(--spacing-2); }
+                    .ct-button { padding: var(--spacing-2) var(--spacing-4) !important; font-size: var(--fontSize-0) !important; }
+                }
                     .random-question-text { font-size: var(--fontSize-3); }
                 }
             `}</style>
@@ -125,7 +201,7 @@ const QuestionsIndex = ({ data, location }) => {
             <header className="questions-header">
                 <h1 className="main-heading">Question Bank</h1>
                 <p className="ct-responsive-header-text">
-                    A curated collection of interesting prompts for journaling, deep thinking, interviewing, and sparking meaningful conversations. I have been collecting interesting quesitons in my notes app for a while now and thought it would be cool to share them. The questions are filterable by category or you can pick a random one to explore.
+                    A curated collection of interesting prompts for journaling, deep thinking, interviewing, and sparking meaningful conversations from my long running notes. The questions are filterable by category or you can pick a random one to explore. The high-signal 20 are linked to mental models to capture signal from noise.
                 </p>
                 <div style={{ marginTop: 'var(--spacing-8)' }}>
                     <a href="#directory" className="ct-button">
@@ -134,50 +210,107 @@ const QuestionsIndex = ({ data, location }) => {
                 </div>
             </header>
 
-            <hr style={{ marginBottom: 'var(--spacing-12)' }} />
+            <hr className="project-hr" />
 
-            <div className={`ct-card random-card-custom ${isAnimating ? 'animating' : ''}`}>
-                {randomQuestion ? (
-                    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
-                        <div style={{ marginBottom: 'var(--spacing-3)' }}>
-                            {randomQuestion.tags.map(t => (
-                                <span
-                                    key={t}
-                                    role="button"
-                                    tabIndex={0}
-                                    className="q-tag"
-                                    style={{ backgroundColor: tagColors[t] || '#333' }}
-                                    onClick={() => setActiveTag(t)}
-                                    onKeyDown={(e) => {
-                                        if (e.key === 'Enter' || e.key === ' ') {
-                                            e.preventDefault();
-                                            setActiveTag(t);
-                                        }
-                                    }}
-                                    title={`Filter by ${t}`}
-                                >
-                                    {t}
-                                </span>
-                            ))}
-                        </div>
-                        <div className="random-question-text">&ldquo;{randomQuestion.text}&rdquo;</div>
+            <section id="wisdom-cards" style={{ marginBottom: 'var(--spacing-16)' }}>
+                <div style={{ marginBottom: 'var(--spacing-6)' }}>
+                    <h2>The High-Signal 20</h2>
+                    <p style={{ opacity: 0.8, marginTop: 'var(--spacing-2)' }}>
+                        Use the arrows or keyboard ← → to explore. Each card pairs a question with the mental model it triggers.
+                    </p>
+                </div>
+
+                <div className="wisdom-nav-controls">
+                    <button onClick={goPrevWisdom} className="ct-button" aria-label="Previous card">&larr; Prev</button>
+                    <div className="wisdom-nav-dots">
+                        {wisdomCards.map((_, i) => (
+                            <button key={i} className={`nav-dot${i === activeWisdomIdx ? ' active' : ''}`} onClick={() => setActiveWisdomIdx(i)} aria-label={`Go to card ${i + 1}`}>
+                                <span style={{ position: 'absolute', width: 1, height: 1, overflow: 'hidden', clip: 'rect(0,0,0,0)', whiteSpace: 'nowrap' }}>{i + 1}</span>
+                            </button>
+                        ))}
                     </div>
-                ) : (
-                    <div className="random-question-text" style={{ color: 'var(--color-secondary-accent)' }}>
-                        Ready for a thought experiment?
-                    </div>
-                )}
-                <button className="ct-button" onClick={pickRandom}>
-                    {randomQuestion ? "Pick Another" : "Pick Random Question"}
-                </button>
-            </div>
+                    <button onClick={goNextWisdom} className="ct-button" aria-label="Next card">Next &rarr;</button>
+                </div>
+
+                <div className="wisdom-stack-wrap">
+                    {wisdomCards.map((card, i) => {
+                        const offset = getWisdomCardOffset(i);
+                        if (offset < 0) return null;
+                        return (
+                            <div key={card.id} className={`wisdom-card-item wisdom-card-offset-${offset}`} style={wisdomCardStyle(offset)}>
+                                <div style={{ marginBottom: 'var(--spacing-4)', display: 'flex', justifyContent: 'space-between', alignItems: 'baseline' }}>
+                                    <span className="q-tag q-tag-outline" style={{ marginRight: 0 }}>
+                                        {card.mental_model}
+                                    </span>
+                                    <span style={{ fontSize: '0.75rem', opacity: 0.6, fontWeight: 'bold', textTransform: 'uppercase', letterSpacing: '0.05em' }}>
+                                        Intensity {card.intensity}/5
+                                    </span>
+                                </div>
+                                <h3 style={{ fontSize: 'var(--fontSize-3)', marginBottom: 'var(--spacing-4)', lineHeight: 1.3 }}>
+                                    &ldquo;{card.question}&rdquo;
+                                </h3>
+                                <p style={{ fontSize: 'var(--fontSize-1)', opacity: 0.9, lineHeight: 1.5 }}>
+                                    {card.explanation}
+                                </p>
+                                <div style={{ marginTop: 'auto', paddingTop: 'var(--spacing-6)', display: 'flex', flexWrap: 'wrap', gap: '4px' }}>
+                                    {card.tags.map(t => (
+                                        <span key={t} className="q-tag" style={{ backgroundColor: '#444' }}>
+                                            {t}
+                                        </span>
+                                    ))}
+                                </div>
+                            </div>
+                        )
+                    })}
+                </div>
+
+                <p style={{ textAlign: 'center', marginTop: 'var(--spacing-4)', fontSize: 'var(--fontSize-0)' }} className="mono-text">
+                    {activeWisdomIdx + 1} / {totalWisdom}
+                </p>
+            </section>
 
             <section id="directory" style={{ marginBottom: 'var(--spacing-16)' }}>
-                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'baseline', flexWrap: 'wrap', marginBottom: 'var(--spacing-4)' }}>
-                    <h2>Directory</h2>
+                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'baseline', flexWrap: 'wrap', marginBottom: 'var(--spacing-6)' }}>
+                    <h2>Question Bank Directory</h2>
                     <span style={{ fontSize: 'var(--fontSize-0)', opacity: 0.6, fontWeight: 'bold' }}>
                         {filteredQuestions.length} {filteredQuestions.length === 1 ? 'question' : 'questions'}
                     </span>
+                </div>
+
+                <div className={`ct-card random-card-custom ${isAnimating ? 'animating' : ''}`} style={{ marginBottom: 'var(--spacing-8)' }}>
+                    {randomQuestion ? (
+                        <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+                            <div style={{ marginBottom: 'var(--spacing-3)' }}>
+                                {randomQuestion.tags.map(t => (
+                                    <span
+                                        key={t}
+                                        role="button"
+                                        tabIndex={0}
+                                        className="q-tag"
+                                        style={{ backgroundColor: tagColors[t] || '#333' }}
+                                        onClick={() => setActiveTag(t)}
+                                        onKeyDown={(e) => {
+                                            if (e.key === 'Enter' || e.key === ' ') {
+                                                e.preventDefault();
+                                                setActiveTag(t);
+                                            }
+                                        }}
+                                        title={`Filter by ${t}`}
+                                    >
+                                        {t}
+                                    </span>
+                                ))}
+                            </div>
+                            <div className="random-question-text">&ldquo;{randomQuestion.text}&rdquo;</div>
+                        </div>
+                    ) : (
+                        <div className="random-question-text" style={{ color: 'var(--color-secondary-accent)' }}>
+                            Ready for a thought experiment?
+                        </div>
+                    )}
+                    <button className="ct-button" onClick={pickRandom}>
+                        {randomQuestion ? "Pick Another" : "Pick Random Question"}
+                    </button>
                 </div>
 
                 <div className="filter-bar">

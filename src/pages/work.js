@@ -108,7 +108,7 @@ const WorkIndex = ({ data, location }) => {
         <ContentContainer>
           <p><strong>[2025]</strong></p>
           <ul>
-            <li>A collection of questions to spark meaningful conversations.</li>
+            <li>A collection of questions to spark meaningful conversations.  This has become my favorite tool for daily journal on reflection and gratitude.</li>
           </ul>
           <p><strong>Link</strong>: <a href="/projects/question_bank/questions">Question Bank</a></p>
         </ContentContainer>
