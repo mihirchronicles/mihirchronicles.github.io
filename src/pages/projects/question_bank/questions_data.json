@@ -1,0 +1,2613 @@
+[
+    {
+        "id": 1,
+        "text": "How can I best support my own vulnerability?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 2,
+        "text": "Why did you quit?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 3,
+        "text": "Whose love do you crave? What wound has it left on you?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 4,
+        "text": "Are you copying someone else's life? Or designing your own?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 5,
+        "text": "How do I become a more perfect instrument?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 6,
+        "text": "Where am I feeling the resistance?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 7,
+        "text": "What would I do to make today horrible?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 8,
+        "text": "What would it take to be kinder today?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 9,
+        "text": "What would it take to complain less?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 10,
+        "text": "Where am I making things more complex than they need to be?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 11,
+        "text": "What would this look like if it were easy and hard?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 12,
+        "text": "What if I did the opposite in every area?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 13,
+        "text": "If I could only work for four hours this week, what would I work on?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 14,
+        "text": "How could I achieve my 10-year goals in six months?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 15,
+        "text": "How would the type of person I want to become handle this?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 16,
+        "text": "What would I do if it was impossible for me to fail?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 17,
+        "text": "How am I complicit in creating the conditions I say I don't want?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 18,
+        "text": "Is there something you should measure in your life that you currently don’t?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 19,
+        "text": "What is the most impressive thing that you have built or achieved?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 20,
+        "text": "Is there anyone in your network you wish you could apprentice under for a few weeks?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 21,
+        "text": "What are habits you wish you had?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 22,
+        "text": "Is this activity or progress?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 23,
+        "text": "Where/what is the body sensation arising independent of the thought? (deconstruction)",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 24,
+        "text": "Who really enriched your life this year in a big way? Who is someone you want to get to know better in the year ahead?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 25,
+        "text": "How will you protect the climate within your skull?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 26,
+        "text": "What’s something you need that you don’t have?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 27,
+        "text": "What is the easiest thing you could do to improve your life, and why aren't you doing it?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 28,
+        "text": "What have you changed your mind about recently?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 29,
+        "text": "What if I could only subtract to solve problems?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 30,
+        "text": "Are you a good person?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 31,
+        "text": "How can you deal with boredom?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 32,
+        "text": "How often are you lonely? How are you dealing with loneliness?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 33,
+        "text": "What are you spending most of your time and energy on? Is it worth it?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 34,
+        "text": "What problems in your life do you feel like you could solve if you were smarter or had more resources?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 35,
+        "text": "Can your friends trust you?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 36,
+        "text": "Who is the most important person in your life that you are willing to live for and die for?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 37,
+        "text": "What is the most important thing in your life, and what would you do if you were free to focus on it?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 38,
+        "text": "What in your life feels excessive? How would it feel to reduce it?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 39,
+        "text": "What brings you joy in life? Do you do too much of it or too little?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 40,
+        "text": "In what ways are you a bad influence on those around you?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 41,
+        "text": "Congratulations, all your hard work has paid off! How does it feel? Do you get the recognition you deserved? Was it worth it?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 42,
+        "text": "What efforts should you realistically be abandoning?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 43,
+        "text": "What are you not putting enough work into?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 44,
+        "text": "What have you abandoned that you could probably succeed at if you tried harder?",
+        "tags": [
+            "growth"
+        ]
+    },
+    {
+        "id": 45,
+        "text": "If you could only give one single answer to anyone you meet, what would it be?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 46,
+        "text": "What’s one thing you’ve figured out in life that most others probably haven’t?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 47,
+        "text": "What is the one activity or person that makes you happiest in the world?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 48,
+        "text": "If you’re on vacation at a hotel with a great free breakfast buffet from 7AM-9AM - what’s your strategy?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 49,
+        "text": "What is one question that you found yourself asking over and over again? What version of an answer are you living your way into?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 50,
+        "text": "How does the lighting touch the ground? (What's the first step towards the vision?)",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 51,
+        "text": "Who made you smile today?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 52,
+        "text": "A genie appears in front of you and offers you one wish, what would that wish be?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 53,
+        "text": "What piece of advice would you give to your older self?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 54,
+        "text": "Imagine you are on your deathbed, what do you wish you did more in your life?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 55,
+        "text": "How could you be more useful to those around you?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 56,
+        "text": "Is there any part of your life you wish you had more influence on?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 57,
+        "text": "Have you seen something recently and thought to yourself ‘I wish I had done that’?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 58,
+        "text": "If you could pick up a new skill in an instant what would it be?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 59,
+        "text": "What are three things you are currently worried about?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 60,
+        "text": "When do you feel most productive at work?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 61,
+        "text": "Have you seen someone recently do great work that’s gone unnoticed?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 62,
+        "text": "What's not working in your life right now?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 63,
+        "text": "What is something you can apply to your life from the book you are reading now?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 64,
+        "text": "What are you most looking forward to?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 65,
+        "text": "What does your ideal day look like?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 66,
+        "text": "Given the choice of anyone in the world, whom would you want as a dinner guest?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 67,
+        "text": "Would you like to be famous? In what way?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 68,
+        "text": "Before making a telephone call, do you ever rehearse what you are going to say? Why?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 69,
+        "text": "When did you last sing to yourself? To someone else?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 70,
+        "text": "If you were able to live to the age of 90 and retain either the mind or body of a 30-year-old for the last 60 years of your life, which would you want?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 71,
+        "text": "Do you have a secret hunch about how you will die?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 72,
+        "text": "Name three things you and your partner appear to have in common.",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 73,
+        "text": "For what in your life do you feel most grateful?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 74,
+        "text": "If you could change anything about the way you were raised, what would it be?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 75,
+        "text": "Take four minutes and tell your partner your life story in as much detail as possible.",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 76,
+        "text": "If you could wake up tomorrow having gained one quality or ability, what would it be?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 77,
+        "text": "If a crystal ball could tell you the truth about yourself, your life, the future or anything else, what would you want to know?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 78,
+        "text": "Is there something that you’ve dreamed of doing for a long time? Why haven’t you done it?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 79,
+        "text": "What do you value most in a friendship?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 80,
+        "text": "What does friendship mean to you?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 81,
+        "text": "What is your most treasured memory?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 82,
+        "text": "What is your most terrible memory?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 83,
+        "text": "If you knew that in one year you would die suddenly, would you change anything about the way you are now living? Why?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 84,
+        "text": "What roles do love and affection play in your life?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 85,
+        "text": "How close and warm is your family? Do you feel your childhood was happier than most other people’s?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 86,
+        "text": "How do you feel about your relationship with your mother?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 87,
+        "text": "Your house, containing everything you own, catches fire. After saving your loved ones and pets, you have time to safely make a final dash to save any one item. What would it be? Why?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 88,
+        "text": "Of all the people in your family, whose death would you find most disturbing? Why?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 89,
+        "text": "Share a personal problem and ask your partner’s advice on how he or she might handle it. Also, ask your partner to reflect back to you how you seem to be feeling about the problem you have chosen.",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 90,
+        "text": "What do you think were the ingredients in that encapsulated period of time that led to that spontaneous actualization or realization of feeling as you did?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 91,
+        "text": "How in holy hell have I become the janitor of a mountain of bullshit?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 92,
+        "text": "Why are kids not taught to edit?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 93,
+        "text": "Why don't kids read?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 94,
+        "text": "Why do people hate writing, and why do people think they can't write well?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 95,
+        "text": "Would Darwin have discovered evolution more quickly if he’d lived in the Information Age, with the Internet as we know it?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 96,
+        "text": "Where does courage come from, and how do we get more of it?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 97,
+        "text": "What is an example of passionate intensity leading to regress?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 98,
+        "text": "Why ask great questions?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 99,
+        "text": "Where does the magic lies?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 100,
+        "text": "How adaptable are we?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 101,
+        "text": "What are some tips for an ability to hold two opposing views at the same time?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 102,
+        "text": "What are the basic elements of conviction?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 103,
+        "text": "Where does ambition come from?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 104,
+        "text": "Does the rate of change in progress varies with age progression?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 105,
+        "text": "What experiences remind you how malleable the world really is?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 106,
+        "text": "How do we get a group of hyper-alpha people to open up?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 107,
+        "text": "What works give you dignity?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 108,
+        "text": "What is human dignity made of?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 109,
+        "text": "What bends you out of shape so much? In other words, what frustrates you?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 110,
+        "text": "Where does our culture of commitment phobia come from?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 111,
+        "text": "How can you make higher-level decisions?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 112,
+        "text": "What are some of the asymmetries in the social domain?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 113,
+        "text": "Are you a cleverer questioner?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 114,
+        "text": "Do you attribute success to luck or skill?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 115,
+        "text": "What's one thing you've removed from your life that's made it significantly better?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 116,
+        "text": "How can we connect the ‘man on the spot’ knowledge of the world’s best talent curators with the blind, fat pocketbooks of our government?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 117,
+        "text": "Rich people need it. Poor people have it. If you eat it, you die. And when you die, you take it with you. What is it?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 118,
+        "text": "What’s it like to cherish the simple life but shoulder a level of fame that must feel suffocating?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 119,
+        "text": "Why do so many smart people fail to discover anything new?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 120,
+        "text": "What is inverse of loneliness?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 121,
+        "text": "What game are you playing? The philosopher Kwame Appiah writes that “in life, the challenge is not so much to figure out how best to play the game; the challenge is to figure out what game you’re playing.”",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 122,
+        "text": "What is confidence?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 123,
+        "text": "How do you balance the two logical vs rhetoric style?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 124,
+        "text": "How do you develop trust with others? Especially in harsh environments where striving for success is minimal.",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 125,
+        "text": "How do you manage ego when it doesn’t go your way?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 126,
+        "text": "Do you ever see founders that don't have some sort of similar extreme adversity early in their lives?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 127,
+        "text": "If there was a button that if you pressed it would retroactively make your childhood easy, would you press it?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 128,
+        "text": "Why do American houses look the same?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 129,
+        "text": "Why is there such a huge misconception of economics when it is the most important topic for a society?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 130,
+        "text": "Why on Earth do kids learn about dinosaurs before learning about clear thinking?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 131,
+        "text": "The wonder we should concern ourselves with: What else has been hidden by summary? What are the unseen things today that could be growing?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 132,
+        "text": "The world is happening. What are you doing about it despite lack of control?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 133,
+        "text": "What does gut feeling mean to you?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 134,
+        "text": "Why aren't we kinder?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 135,
+        "text": "Why are people so cooperative?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 136,
+        "text": "Looking back, what do you regret?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 137,
+        "text": "What is the highest and best use of you?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 138,
+        "text": "Are you spiritually fit?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 139,
+        "text": "What are you abundant in? What do you lack? How can you give more of what you’re abundant in to others today?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 140,
+        "text": "What would make your life easier?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 141,
+        "text": "How do you stay resilient?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 142,
+        "text": "Why read a lot?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 143,
+        "text": "What’s a low barrier-of-entry, high reward hobby you recently started and still pursue with joy?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 144,
+        "text": "What does this narrative do to my being?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 145,
+        "text": "Why should the high-influence person listen to the low-influence person if the former sees the latter as having little to offer?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 146,
+        "text": "If advice is so often useless, why do people continue offering it?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 147,
+        "text": "What comes first, safety or disclosure?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 148,
+        "text": "Why do some people have an action for bias while others seem to make a lot of noise and go nowhere?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 149,
+        "text": "Did you have any experience early in your building creative things or putting out creative things where you were derivative?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 150,
+        "text": "What is a sign of intelligence that most confuse with a sign of stupidity?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 151,
+        "text": "How does habits create strength?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 152,
+        "text": "How to construct your tribe?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 153,
+        "text": "When to compare and not compare?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 154,
+        "text": "How lucky are we to live in this beautiful place?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 155,
+        "text": "What is standing between me & being present right now?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 156,
+        "text": "What's the successor to the book? And how could books be improved?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 157,
+        "text": "What's the successor to the scientific paper and the scientific journal?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 158,
+        "text": "Which story (book, film, whatever) have you most cried at and what about your life does it remind you of?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 159,
+        "text": "Which emotions are you not allowed to feel, and where did you learn it was unsafe to feel them?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 160,
+        "text": "Look around your environment. Now look again, but this time notice the thing you tried not to see the first time because it was making you anxious and avoidant. What is that thing and why is it scary?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 161,
+        "text": "You can swap lives with anyone you know. Who do you pick and why?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 162,
+        "text": "Congrats, you get a superpower! You may now experience one particular emotion, as strongly as you want, whenever you want to. Which emotion do you pick, and when do you use this power?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 163,
+        "text": "What in your life could you give up to make the world a better place? Why don't you?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 164,
+        "text": "If you were behaving unethically, how would you know? Is there anyone who you would trust to tell you?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 165,
+        "text": "What have you not yet acknowledged must end? Are you prepared for its absence?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 166,
+        "text": "What would you do if you were much braver than you are?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 167,
+        "text": "Consider the standards you hold yourself to. What would the world look like it they were widely adopted? Would any of them make things worse? Would people be happier?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 168,
+        "text": "What two films would you like to combine into one?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 169,
+        "text": "When was the last time you were hopelessly lost?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 170,
+        "text": "What’s your best example of correlation not equaling causation?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 171,
+        "text": "What’s quickly becoming obsolete?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 172,
+        "text": "Think of a brand, now what would an honest slogan for that brand be?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 173,
+        "text": "If you had a giraffe that you needed to hide, where would you hide it?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 174,
+        "text": "Where’s the line between soup and cereal?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 175,
+        "text": "What weird potato chip flavor that doesn’t exist would you like to try?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 176,
+        "text": "How much do you plan vs prepare for the future?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 177,
+        "text": "What profession doesn’t get enough credit or respect?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 178,
+        "text": "What’s better broken than whole?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 179,
+        "text": "What piece of “art” would you create if you had to pretend to be an artist and submit something to a gallery?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 180,
+        "text": "What’s the cutest thing you can imagine? Something so cute it’s almost painful.",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 181,
+        "text": "What’s the biggest overreaction you’ve ever seen?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 182,
+        "text": "What’s the most physically painful thing you’ve ever experienced?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 183,
+        "text": "What’s the most emotionally painful thing you’ve ever experienced?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 184,
+        "text": "What topic could you spend hours talking about?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 185,
+        "text": "What’s your best example of easy come, easy go?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 186,
+        "text": "What was ruined because it became popular?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 187,
+        "text": "If cartoon physics suddenly replaced real physics, what are some things you would want to try?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 188,
+        "text": "What from the present will withstand the test of time?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 189,
+        "text": "How ambitious are you?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 190,
+        "text": "Who is the most creative person you know?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 191,
+        "text": "What trend are you tired of?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 192,
+        "text": "What’s your secret talent?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 193,
+        "text": "Do you have any memory of a moment that made you laugh so hard?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 194,
+        "text": "Which apocalyptic dystopia do you think is most likely?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 195,
+        "text": "What odd smell do you really enjoy?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 196,
+        "text": "What brand are you most loyal to?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 197,
+        "text": "What’s the most ridiculous animal on the planet?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 198,
+        "text": "What’s your best story from a wedding?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 199,
+        "text": "What was your most recent lie?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 200,
+        "text": "What’s the hardest you’ve ever worked?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 201,
+        "text": "What problem are you currently grappling with?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 202,
+        "text": "What riddles do you know?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 203,
+        "text": "Should kidneys be able to be bought and sold?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 204,
+        "text": "What food is delicious but a pain to eat?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 205,
+        "text": "What weird food combinations do you really enjoy?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 206,
+        "text": "Do you think that aliens exist?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 207,
+        "text": "What are you currently worried about?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 208,
+        "text": "Who do you go out of your way to be nice to?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 209,
+        "text": "If a young person asked you, “What have you learned in your ____ years in this world,” what would you tell him or her?",
+        "tags": [
+            "conversational"
+        ]
+    },
+    {
+        "id": 210,
+        "text": "Some people say that they have had difficult or stressful experiences, but they have learned important lessons from them. Is that true for you too? Can you give an example?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 211,
+        "text": "As you look back over your life, do you see any “turning points”; that is, a key event or experience that changed the course of your life or set you on a different track?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 212,
+        "text": "What would you say you know now about living a happy and successful life that you didn’t know when you were twenty?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 213,
+        "text": "What can younger people do to avoid having regrets later in life?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 214,
+        "text": "What would you say are the major values or principles that you live by?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 215,
+        "text": "When does pain facilitate greatness?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 216,
+        "text": "Why being more intelligent is bad?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 217,
+        "text": "What does free mean?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 218,
+        "text": "What is process?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 219,
+        "text": "How to explore?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 220,
+        "text": "Why focus?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 221,
+        "text": "Where would we be without the intellectual generosity of our ancestors?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 222,
+        "text": "What are the change events that are bigger than you that you're riding?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 223,
+        "text": "Can morals be derived from reason?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 224,
+        "text": "Are we machines?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 225,
+        "text": "Would you rather fight a horse sized duck or 100 duck sized horses?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 226,
+        "text": "What is science?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 227,
+        "text": "What important truth do very few people agree with you on?  (inspired by Peter Thiel",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 228,
+        "text": "Do people in wealthier countries have a moral obligation to help those in poorer countries?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 229,
+        "text": "Is some degree of censorship necessary?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 230,
+        "text": "Can scientific truth be dangerous?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 231,
+        "text": "Do humans need to be governed?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 232,
+        "text": "Do we understand the present better than the past?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 233,
+        "text": "If language influences how we perceive color, what other things could languages be changing our perception of?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 234,
+        "text": "Is memory sufficient to be a historian?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 235,
+        "text": "Does language only serve to communicate?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 236,
+        "text": "Are all truths demonstrable?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 237,
+        "text": "Does the idea of total freedom make sense?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 238,
+        "text": "How much does language affect our thinking?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 239,
+        "text": "Is hierarchy necessary for all successful human communities?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 240,
+        "text": "Is it possible to prove that other people besides yourself have consciousness?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 241,
+        "text": "Are people ethically obligated to improve themselves?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 242,
+        "text": "Is defending your rights the same as defending your interests?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 243,
+        "text": "Do questions deserve answers?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 244,
+        "text": "What is true about the conspiracy myth?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 245,
+        "text": "What is it that makes the vast majority of humanity comply with a system that drives Earth and humankind to ruin?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 246,
+        "text": "What is the diseased tissue upon which the virus of ignorance gains purchase?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 247,
+        "text": "Do people in wealthier countries have a moral obligation to help those in poorer countries?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 248,
+        "text": "Are “forces” fundamental? Is “energy” fundamental? Are “fields” fundamental?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 249,
+        "text": "How does time work?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 250,
+        "text": "Why did life emerge?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 251,
+        "text": "Why did humans create religions?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 252,
+        "text": "What makes you feel safe?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 253,
+        "text": "How did Zen come to beginning?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 254,
+        "text": "What is to be awakened?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 255,
+        "text": "Who is in a position to set limits on what we will know?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 256,
+        "text": "Do intellectuals have wisdom? Or are wise people intellectual?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 257,
+        "text": "Is man related to something infinite or not?",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 258,
+        "text": "If nobody is around to hear a tree when it falls did it fall? If a tree falls in the forest and nobody is around to hear it, it didn’t fall.",
+        "tags": [
+            "life"
+        ]
+    },
+    {
+        "id": 259,
+        "text": "At what scale do we want the product to operate?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 260,
+        "text": "What do dashboards do?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 261,
+        "text": "Why documentation culture?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 262,
+        "text": "What are bigger jobs to be done items?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 263,
+        "text": "What jobs to be done need to be enabled?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 264,
+        "text": "How are you understanding customer needs?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 265,
+        "text": "What competition do you fear most?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 266,
+        "text": "What obstacles will you face, and how will you overcome them?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 267,
+        "text": "Who would be your next hire?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 268,
+        "text": "What domain expertise do you have?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 269,
+        "text": "How much does customer acquisition cost?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 270,
+        "text": "Six months from now, what's going to be your biggest problem?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 271,
+        "text": "What is your distribution strategy?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 272,
+        "text": "What are the top things users want?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 273,
+        "text": "How are you meeting customers?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 274,
+        "text": "Where do new users come from?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 275,
+        "text": "What is the next step with the product evolution?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 276,
+        "text": "What's the conversion rate?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 277,
+        "text": "Will your team stick at this?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 278,
+        "text": "Who would you hire, or how would you add to your team?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 279,
+        "text": "Why do the reluctant users hold back?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 280,
+        "text": "How big an opportunity is there?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 281,
+        "text": "What is your burn rate?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 282,
+        "text": "What is your user growth rate?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 283,
+        "text": "Why isn't someone already doing this?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 284,
+        "text": "What makes new users try you?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 285,
+        "text": "What do you understand about your users?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 286,
+        "text": "How is your product different?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 287,
+        "text": "Are you open to changing your idea?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 288,
+        "text": "Who is going to be your first paying customer?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 289,
+        "text": "What emotion do I want the other person to leave with?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 290,
+        "text": "What change do I want the other person to make?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 291,
+        "text": "What can I do in the meeting to increase the other person's trust in me?",
+        "tags": [
+            "product"
+        ]
+    },
+    {
+        "id": 292,
+        "text": "How to build a fantastic network?",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 293,
+        "text": "Where or how do you spend a majority of your time, and what do you use as a barometer for your return on invested time?",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 294,
+        "text": "Of your competitors, who do you respect the most and why?",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 295,
+        "text": "Tell me why you’ve been successful, and how do you sustain it? How do you measure whether you are successful?",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 296,
+        "text": "What three things would you tell a friend about how to be successful in your company?",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 297,
+        "text": "What is really hard for new hires to get used to in this firm?",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 298,
+        "text": "What do you want to be known for?",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 299,
+        "text": "If you were a private business, how would you operate differently?",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 300,
+        "text": "What do you like about working here?",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 301,
+        "text": "Who are your current and past mentors, and what impact did they have on your life?",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 302,
+        "text": "What three things would you do to destroy the business as quickly as possible? Give yourself a one-year time frame.",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 303,
+        "text": "If we were meeting three years from today, what would need to have happened during that time for you to feel happy about your progress?",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 304,
+        "text": "What type of information do you need on a weekly basis?",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 305,
+        "text": "If you were away for one year, which key metrics would best tell you how the business was doing?",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 306,
+        "text": "Why can’t other people do what you are doing?",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 307,
+        "text": "What's your comparative advantage? How do you invest in it and improve it to magnify the opportunities where that advantage is indispensable?",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 308,
+        "text": "Of all the businesses you’ve looked at, what’s the best one, and why?",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 309,
+        "text": "What are you compulsive about?",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 310,
+        "text": "Why, what and how. Great companies, highly successful companies have real clarity in these 3 things. So the why questions are the fundamental ones. Why do we exist? Why should someone want to work here? Why should we come and go the extra mile and care? That's about purpose. The what questions are: what are my products and services? What are the target customer segments I'm trying to serve? What is our business model? That's strategy. The how questions are: how are we going to behave? How are we going to operate as an organization and as a team? How are we going to bring our purpose and our culture to life? That's about culture.",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 311,
+        "text": "In which (single) area of life do you have the best taste? Optional follow-up: Do you work in that area? Why or why not?",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 312,
+        "text": "Do management's capabilities fit with what the task is going to be for that company? Don't get overly persuaded by one person. Typically, the people that have risen to the top are great at storytelling, extraordinarily persuasive, and believe what they're saying. When we invest we are trying to invest in what a company will be, not what it was or what it is. There are no future facts. Form your own outlook separate from what management tells you.",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 313,
+        "text": "What's been your biggest recent error of omission and did you make any changes, even at the margin, to your process as a result of that error? Either the stock you wish had sold, the stock you wish you had bought. Ask this instead of the error of commission because everyone should be able to talk about their mistakes.",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 314,
+        "text": "Which functions in the business could you outsource if you really had to? And the purpose of that is to understand where the value is *really* being generated in the business, versus the ancillary activities that support that. That question is trying to understand what capability drives their competitive advantage.",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 315,
+        "text": "How much time or money would be needed to copy your products or services?",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 316,
+        "text": "What are the three most important financial and non-financial KPIs (key performance indicators) on your dashboard? What does management think is critical to the business that drives value?",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 317,
+        "text": "When do you choose to build versus buy? How do they make that decision of going to buy an asset versus go green field? What are common mistakes you've seen others make in the industry? This would be to get a sense of not just *how* the industry works, but also what management *sees* as a fatal flaw that they try to avoid-and whether they have a good understanding of what can break the business side; the risk management side of it.",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 318,
+        "text": "What happens when a company stops believing in secrets?",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 319,
+        "text": "What would the ideal company culture look like?",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 320,
+        "text": "How to prevent bottleneck?",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 321,
+        "text": "How can people grow an online audience?",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 322,
+        "text": "How close to that 10 can you get when you’re first getting to know someone and deciding whether they are a fit for your team?",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 323,
+        "text": "Why can't we find workers?",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 324,
+        "text": "What is the motivation in business when P&L is the ultimate scoreboard?",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 325,
+        "text": "How to build a business that lasts 100 years?",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 326,
+        "text": "How to think clearly?",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 327,
+        "text": "What's the cost of doing a poor job?",
+        "tags": [
+            "interview"
+        ]
+    },
+    {
+        "id": 328,
+        "text": "If you were to outrageously brag about something that makes you exceptional without fear of looking arrogant, what would it be?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 329,
+        "text": "What skill or mindset of yours do you find the most difficult to transfer to even the most talented members of your team?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 330,
+        "text": "Why not invest in a cheap, tax-efficient, globally diversified basket of ETFs and go do something else (more productive) instead?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 331,
+        "text": "Why do you keep doing it? What is the compulsion that keeps you going? What itch always needs scratching?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 332,
+        "text": "May I please see what's inside your portfolio?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 333,
+        "text": "How do you deal with ideological contradictions, especially if you know an investment will be extremely lucrative but also conflict with your personal ethics/beliefs?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 334,
+        "text": "When and why did you start believing it was skill and not luck?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 335,
+        "text": "Who do you consider to be the best investor of all time?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 336,
+        "text": "Where are you on the spectrum of faking it to making it and why? And in which direction?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 337,
+        "text": "What is your process to reduce errors of omission?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 338,
+        "text": "How would you know when there was no more edge at your table?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 339,
+        "text": "What is the best improvement they've ever made to their decision-making process?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 340,
+        "text": "What mistake do you keep making?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 341,
+        "text": "What would you prefer? 100 VC-sized Softbanks or 1 Softbank-sized VC?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 342,
+        "text": "What was the scariest darkest moment of your career, and how did you get through it?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 343,
+        "text": "Why didn't you just buy FANG?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 344,
+        "text": "What do you know about the world of investing today, that you wish you knew decades ago when you were first starting out?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 345,
+        "text": "What are some techniques you use to “sit tight”, i.e. to avoid over-trading?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 346,
+        "text": "How do you deal with feelings of isolation/being different?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 347,
+        "text": "Is YOLO the new FOMO?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 348,
+        "text": "What’s your one pick for the next decade and why?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 349,
+        "text": "How often do you guess?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 350,
+        "text": "How much is enough?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 351,
+        "text": "How do you size positions?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 352,
+        "text": "Why did you invest or pass?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 353,
+        "text": "What’s shifting in society that you are positioned to capture value from?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 354,
+        "text": "What are the top 3 mistakes that you see other investors making that you avoid?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 355,
+        "text": "Who are your sounding boards/trusted advisors, and how did you choose them?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 356,
+        "text": "When do you sell? Do you have a sell checklist?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 357,
+        "text": "How does one identify value and growth traps?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 358,
+        "text": "What are your blind spots?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 359,
+        "text": "Describe your research process. How do you generate ideas, diligence process, decision to invest/not invest? What's your process, from idea, to implementation, to risk management, to exit?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 360,
+        "text": "What is that one change in your process or behavior that has helped you the most in improving your investment outcomes?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 361,
+        "text": "What do you consider your most entrenched priors/biases?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 362,
+        "text": "How long did it take you to define and develop your circle of competence?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 363,
+        "text": "How do you mitigate bias in your investment process?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 364,
+        "text": "How long did it take to find the strategy that worked for you, and how did you commit to it without second guessing yourself?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 365,
+        "text": "Do you still enjoy playing this game? Why or why not?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 366,
+        "text": "What’s your information consumption looks like? I want to know how you isolate noises vs signals.",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 367,
+        "text": "Do you trust your gut? If so, what is your source of conviction?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 368,
+        "text": "Is there any difference between speculation and gambling? The terms are often used interchangeably, but speculation presupposes intellectual",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 369,
+        "text": "Is speculation right?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 370,
+        "text": "How can people avoid being swept up in a popular delusion?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 371,
+        "text": "Investing is hard enough. Why make it harder by investing in industries with headwinds?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 372,
+        "text": "What are the technological headwinds & the cost headwinds?",
+        "tags": [
+            "investing"
+        ]
+    },
+    {
+        "id": 373,
+        "text": "What company do you despise?",
+        "tags": [
+            "investing"
+        ]
+    }
+]
