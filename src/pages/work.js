@@ -67,12 +67,9 @@ const WorkIndex = ({ data, location }) => {
           <Zoom>
             <StaticImage src="../images/artists.png" alt="famous artists" className="gallery-image" />
           </Zoom>
-          <Zoom>
-            <StaticImage src="../images/trees.png" alt="trees" className="gallery-image" />
-          </Zoom>
         </ImageContainer>
         <ContentContainer>
-          <p><strong>[Ongoing]</strong></p>
+          <p><strong>[2026]</strong></p>
           <ul>
             <li>A collection of tools used in my journey as a painter. These are the tools I use to learn the tactical details of color theory, paint brushes, and techniques from great masters.</li>
             <li>An interactive tool on color theory. It is inspired by the teachings of Josef Albers which explore how colors behave, interact, and deceive the human eye. <a href="/projects/painters_toolbox/color_theory">Color Guide</a>
@@ -81,9 +78,23 @@ const WorkIndex = ({ data, location }) => {
             </li>
             <li>An interactive guide on famous artists and their work. <a href="/projects/painters_toolbox/artists">Artists Guide</a>
             </li>
-            <li>An interactive guide on how to paint trees. <a href="/projects/painters_toolbox/trees">Tree Guide</a>
-            </li>
           </ul>
+        </ContentContainer>
+      </WorkContainer>
+
+      <h2>Tree Architecture</h2>
+      <WorkContainer>
+        <ImageContainer>
+          <Zoom>
+            <StaticImage src="../images/trees.png" alt="trees" className="gallery-image" />
+          </Zoom>
+        </ImageContainer>
+        <ContentContainer>
+          <p><strong>[2025]</strong></p>
+          <ul>
+            <li>An interactive guide on the architecture of trees for painters.</li>
+          </ul>
+          <p><strong>Link</strong>: <a href="/projects/trees/trees">Trees</a></p>
         </ContentContainer>
       </WorkContainer>
 
