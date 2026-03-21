@@ -1089,12 +1089,20 @@ code {
 }
 
 @media (max-width: 767px) {
+  .art-carousel-wrapper {
+    margin-bottom: var(--spacing-12);
+  }
+
   .art-nav-button.prev {
     left: 0.5rem;
   }
 
   .art-nav-button.next {
     right: 0.5rem;
+  }
+
+  .art-thumbnail-container {
+    display: none !important;
   }
 }
 
