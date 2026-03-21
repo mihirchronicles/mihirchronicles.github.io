@@ -53,7 +53,7 @@ const ArtIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <h1>Art</h1>
-      <p className="ct-responsive-header-text">Art has always been a powerful tool to expand my sense of creativity. Engaging with shapes and colors feels joyful. It helps me escape from the mundane realities of life and allows me to indulge in fun and playful moments.</p>
+      <p className="ct-responsive-header-text">Art is a powerful tool that expands my sense of creativity. Engaging with shapes, colors, and composition feels joyful. It helps me escape from the mundane realities of life and allows me to indulge in fun and playful moments.</p>
       <div className="art-carousel-wrapper">
         <div className="art-main-image-container">
           <button className="art-nav-button prev" onClick={prevImage} aria-label="Previous Image">❮</button>

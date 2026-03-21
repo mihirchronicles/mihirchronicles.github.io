@@ -52,8 +52,8 @@ const BookshelfIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <h1>Bookshelf</h1>
-      <p className="ct-responsive-header-text">Reading is my form of forced meditation. To nurture a lifelong sense of curiosity, I employ a multi-disciplinary approach to select and read a wide range of books. Below are my book summaries.</p>
-      
+      <p className="ct-responsive-header-text">Reading is my form of forced meditation. Below are my book summaries.</p>
+
       <h2>Book Summaries</h2>
       <ul>
         {posts.map(post => {

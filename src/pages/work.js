@@ -15,8 +15,7 @@ const WorkIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <h1>Work</h1>
-      <p className="ct-responsive-header-text">A curated selection of personal and professional projects focused on tools and customer-facing products I've built.</p>
-
+      <p className="ct-responsive-header-text">A selection of fun personal and professional projects I have built over the years.</p>
       <h2>Painter's Toolbox</h2>
       <article className="work-container">
         <div className="work-image-container">
