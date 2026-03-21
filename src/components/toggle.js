@@ -1,15 +1,4 @@
 import * as React from "react"
-import styled from "styled-components"
-
-const ToggleWrapper = styled.div`
-  display: flex;
-  align-items: center;
-  gap: var(--spacing-2);
-
-  @media (max-width: 42rem) {
-    padding-right: var(--spacing-2);
-  }
-`;
 
 const SunIcon = () => (
   <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="var(--color-dark)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
@@ -30,51 +19,6 @@ const MoonIcon = () => (
     <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
   </svg>
 )
-
-const ToggleLabel = styled.label`
-  position: relative;
-  display: inline-block;
-  width: 40px;
-  height: 20px;
-`;
-
-const ToggleInput = styled.input`
-  opacity: 0;
-  width: 0;
-  height: 0;
-
-  &:checked + span {
-    background-color: var(--color-primary-accent);
-  }
-
-  &:checked + span:before {
-    transform: translateX(20px);
-  }
-`;
-
-const ToggleSlider = styled.span`
-  position: absolute;
-  cursor: pointer;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: var(--color-secondary-accent);
-  transition: .4s;
-  border-radius: 20px;
-
-  &:before {
-    position: absolute;
-    content: "";
-    height: 14px;
-    width: 14px;
-    left: 3px;
-    bottom: 3px;
-    background-color: var(--color-light);
-    transition: .4s;
-    border-radius: 50%;
-  }
-`;
 
 const Toggle = () => {
   const [isDark, setIsDark] = React.useState(false);
@@ -100,17 +44,18 @@ const Toggle = () => {
   };
 
   return (
-    <ToggleWrapper>
+    <div className="theme-toggle-wrapper">
       {isDark ? <MoonIcon /> : <SunIcon />}
-      <ToggleLabel aria-label="Toggle Dark Mode">
-        <ToggleInput
+      <label className="theme-toggle-label" aria-label="Toggle Dark Mode">
+        <input
+          className="theme-toggle-input"
           type="checkbox"
           checked={isDark}
           onChange={handleToggle}
         />
-        <ToggleSlider />
-      </ToggleLabel>
-    </ToggleWrapper>
+        <span className="theme-toggle-slider" />
+      </label>
+    </div>
   )
 }
 

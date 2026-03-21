@@ -235,22 +235,7 @@ const ArtistsIndex = ({ data, location }) => {
                     height: 560px;
                     margin: 0 auto;
                 }
-                .artist-nav-controls {
-                    display: flex;
-                    align-items: center;
-                    justify-content: space-between;
-                    flex-wrap: wrap;
-                    gap: var(--spacing-3);
-                    margin-top: var(--spacing-8);
-                    margin-bottom: var(--spacing-4);
-                }
-                .artist-nav-dots {
-                    display: flex;
-                    gap: var(--spacing-2);
-                    align-items: center;
-                    flex-wrap: wrap;
-                    justify-content: center;
-                }
+
                 @media (max-width: 767px) {
                     /* Reset card to normal flow, only active card visible */
                     .card-stack-wrap { height: auto !important; padding-bottom: var(--spacing-4); }
@@ -263,14 +248,12 @@ const ArtistsIndex = ({ data, location }) => {
                     .portrait-img { object-fit: contain !important; object-position: center center !important; background: var(--color-background); }
                     /* Works */
                     .work-thumb { width: 60px !important; height: 60px !important; }
-                    /* Nav */
-                    .artist-nav-controls { gap: var(--spacing-2); }
+
                     .ct-button { padding: var(--spacing-2) var(--spacing-4) !important; font-size: var(--fontSize-0) !important; }
                 }
                 @media (max-width: 480px) {
                     .artist-portrait-wrap { height: 180px !important; }
-                    .artist-nav-dots { gap: var(--spacing-1); }
-                    .nav-dot { width: 6px !important; height: 6px !important; }
+
                 }
                 .work-thumb {
                     width: 80px;
@@ -298,38 +281,7 @@ const ArtistsIndex = ({ data, location }) => {
                     color: #fff;
                     opacity: 0.85;
                 }
-                .reference-table {
-                    width: 100%;
-                    border-collapse: collapse;
-                    font-size: var(--fontSize-0);
-                }
-                .reference-table th {
-                    text-align: left;
-                    padding: var(--spacing-2) var(--spacing-3);
-                    border-bottom: 2px solid var(--color-dark);
-                    font-family: var(--font-heading);
-                    font-weight: var(--fontWeight-black);
-                    text-transform: uppercase;
-                    letter-spacing: 0.05em;
-                    font-size: var(--fontSize-0);
-                    background: var(--color-background);
-                    white-space: nowrap;
-                }
-                .reference-table td {
-                    padding: var(--spacing-3);
-                    border-bottom: 1px solid var(--color-secondary-accent);
-                    vertical-align: top;
-                    font-size: var(--fontSize-0);
-                }
-                .reference-table tr:hover td { background: rgba(0,0,0,0.03); }
-                .era-dot {
-                    display: inline-block;
-                    width: 8px;
-                    height: 8px;
-                    border-radius: 50%;
-                    margin-right: 6px;
-                    flex-shrink: 0;
-                }
+
 
             `}</style>
 
@@ -353,16 +305,7 @@ const ArtistsIndex = ({ data, location }) => {
                     <p>Use the arrows or keyboard ← → to move through the deck. Each card reveals the artist's approach and technique.</p>
                 </div>
 
-                {/* Navigation controls */}
-                <div className="artist-nav-controls">
-                    <button onClick={goPrev} className="ct-button" aria-label="Previous artist">&larr; Prev</button>
-                    <div className="artist-nav-dots">
-                        {artists.map((_, i) => (
-                            <button key={i} className={`nav-dot${i === activeIdx ? ' active' : ''}`} onClick={() => setActiveIdx(i)} aria-label={`Go to artist ${i + 1}`}><span style={{ position: 'absolute', width: 1, height: 1, overflow: 'hidden', clip: 'rect(0,0,0,0)', whiteSpace: 'nowrap' }}>{i + 1}</span></button>
-                        ))}
-                    </div>
-                    <button onClick={goNext} className="ct-button" aria-label="Next artist">Next &rarr;</button>
-                </div>
+
 
                 {/* Card stack */}
                 <div className="card-stack-wrap">
@@ -446,10 +389,19 @@ const ArtistsIndex = ({ data, location }) => {
                     <p style={{ margin: 0, fontSize: 'var(--fontSize-0)' }}>{artist.technique}</p>
                 </div>
 
-                {/* Counter */}
-                <p style={{ textAlign: 'center', marginTop: 'var(--spacing-4)', fontSize: 'var(--fontSize-0)' }} className="mono-text">
-                    {activeIdx + 1} / {total}
-                </p>
+                {/* Navigation controls */}
+                <div className="card-nav-controls">
+                    <button onClick={goPrev} className="ct-button" aria-label="Previous artist">&larr; Prev</button>
+                    <div className="nav-dots-desktop">
+                        {artists.map((_, i) => (
+                            <button key={i} className={`nav-dot${i === activeIdx ? ' active' : ''}`} onClick={() => setActiveIdx(i)} aria-label={`Go to artist ${i + 1}`}><span style={{ position: 'absolute', width: 1, height: 1, overflow: 'hidden', clip: 'rect(0,0,0,0)', whiteSpace: 'nowrap' }}>{i + 1}</span></button>
+                        ))}
+                    </div>
+                    <div className="nav-counter-mobile mono-text">
+                        {activeIdx + 1} / {total}
+                    </div>
+                    <button onClick={goNext} className="ct-button" aria-label="Next artist">Next &rarr;</button>
+                </div>
             </section>
 
             <hr className="project-hr" />

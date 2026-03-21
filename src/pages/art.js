@@ -2,89 +2,8 @@ import * as React from "react"
 import { useState } from "react"
 import { graphql } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
-import styled from "styled-components"
-
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-
-const CarouselWrapper = styled.div`
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 2rem;
-  margin-top: var(--spacing-8);
-`
-
-const MainImageContainer = styled.div`
-  width: 100%;
-  position: relative;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-`
-
-const NavButton = styled.button`
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  background: rgba(0, 0, 0, 0.4);
-  color: white;
-  border: none;
-  font-size: 2rem;
-  padding: 0.5rem 1rem;
-  cursor: pointer;
-  z-index: 10;
-  border-radius: var(--spacing-1);
-  backdrop-filter: blur(4px);
-
-  &:hover {
-    background: rgba(0, 0, 0, 0.8);
-  }
-
-  &.prev {
-    left: 1rem;
-  }
-
-  &.next {
-    right: 1rem;
-  }
-`
-
-const ThumbnailContainer = styled.div`
-  display: flex;
-  gap: 1rem;
-  overflow-x: auto;
-  padding: 1rem 0;
-  width: 100%;
-  justify-content: flex-start;
-  
-  /* Hide scrollbar for cleaner look */
-  scrollbar-width: none;
-  &::-webkit-scrollbar {
-    display: none;
-  }
-`
-
-const ThumbnailWrapper = styled.div`
-  flex: 0 0 80px;
-  height: 80px;
-  cursor: pointer;
-  opacity: ${props => props.active ? 1 : 0.4};
-  transition: opacity 0.2s, border-color 0.2s;
-  border: ${props => props.active ? '3px solid var(--color-primary-accent)' : '3px solid transparent'};
-  border-radius: var(--spacing-1);
-  overflow: hidden;
-
-  &:hover {
-    opacity: 1;
-  }
-
-  .gatsby-image-wrapper {
-    width: 100%;
-    height: 100%;
-  }
-`
-
 const ArtIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const [currentIndex, setCurrentIndex] = useState(0)
@@ -135,25 +54,25 @@ const ArtIndex = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <h1>Art</h1>
       <p className="ct-responsive-header-text">Art has always been a powerful tool to expand my sense of creativity. Engaging with shapes and colors feels joyful. It helps me escape from the mundane realities of life and allows me to indulge in fun and playful moments.</p>
-      <CarouselWrapper>
-        <MainImageContainer>
-          <NavButton className="prev" onClick={prevImage} aria-label="Previous Image">❮</NavButton>
+      <div className="art-carousel-wrapper">
+        <div className="art-main-image-container">
+          <button className="art-nav-button prev" onClick={prevImage} aria-label="Previous Image">❮</button>
           {images[currentIndex]}
-          <NavButton className="next" onClick={nextImage} aria-label="Next Image">❯</NavButton>
-        </MainImageContainer>
+          <button className="art-nav-button next" onClick={nextImage} aria-label="Next Image">❯</button>
+        </div>
 
-        <ThumbnailContainer>
+        <div className="art-thumbnail-container">
           {thumbnails.map((thumb, index) => (
-            <ThumbnailWrapper
+            <div
               key={index}
-              active={index === currentIndex}
+              className={`art-thumbnail-wrapper ${index === currentIndex ? 'active' : ''}`}
               onClick={() => setCurrentIndex(index)}
             >
               {thumb}
-            </ThumbnailWrapper>
+            </div>
           ))}
-        </ThumbnailContainer>
-      </CarouselWrapper>
+        </div>
+      </div>
     </Layout>
   )
 }

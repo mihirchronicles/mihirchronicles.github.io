@@ -280,62 +280,7 @@ const TreesIndex = ({ data, location }) => {
                     justify-content: center;
                 }
 
-                /* Slider styles */
-                .color-range {
-                    -webkit-appearance: none;
-                    width: 100%;
-                    background: transparent;
-                    margin: 1.5rem 0;
-                }
-                .color-range:focus { outline: none; }
-                .color-range::-webkit-slider-thumb {
-                    -webkit-appearance: none;
-                    height: 24px;
-                    width: 16px;
-                    border-radius: var(--spacing-1);
-                    background: var(--color-background);
-                    cursor: pointer;
-                    margin-top: -10px;
-                    border: 2px solid var(--color-dark);
-                    box-shadow: 2px 2px 0px 0px var(--color-dark);
-                    transition: transform 0.1s, box-shadow 0.1s;
-                }
-                .color-range::-moz-range-thumb {
-                    height: 24px;
-                    width: 16px;
-                    border-radius: var(--spacing-1);
-                    background: var(--color-background);
-                    cursor: pointer;
-                    border: 2px solid var(--color-dark);
-                    box-shadow: 2px 2px 0px 0px var(--color-dark);
-                    transition: transform 0.1s, box-shadow 0.1s;
-                }
-                .color-range:active::-webkit-slider-thumb {
-                    background: var(--color-dark);
-                    transform: translate(2px, 2px);
-                    box-shadow: 0px 0px 0px 0px var(--color-dark);
-                }
-                .color-range:active::-moz-range-thumb {
-                    background: var(--color-dark);
-                    transform: translate(2px, 2px);
-                    box-shadow: 0px 0px 0px 0px var(--color-dark);
-                }
-                .color-range::-webkit-slider-runnable-track {
-                    width: 100%;
-                    height: 4px;
-                    cursor: pointer;
-                    background: var(--color-dark);
-                    border: 1px solid var(--color-dark);
-                    border-radius: 4px;
-                }
-                .color-range::-moz-range-track {
-                    width: 100%;
-                    height: 4px;
-                    cursor: pointer;
-                    background: var(--color-dark);
-                    border: 1px solid var(--color-dark);
-                    border-radius: 4px;
-                }
+
 
             `}</style>
 

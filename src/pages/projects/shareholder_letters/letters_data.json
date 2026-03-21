@@ -1,0 +1,154 @@
+{
+  "letters": [
+    {
+      "id": "buffett",
+      "author": "Warren Buffett",
+      "company": "Berkshire Hathaway",
+      "sourceLink": "https://www.berkshirehathaway.com/letters/letters.html",
+      "focus": "Value Investing & Moats",
+      "description": "Perhaps the most famous letters in finance, Buffett’s annual missives offer timeless wisdom on investing, corporate governance, and human psychology.",
+      "lessons": [
+        {
+          "title": "The Economic Moat",
+          "content": "Businesses that earn high returns on capital need a structural advantage—like a brand, network effect, or cost advantage—to protect them from competitors.",
+          "quote": "A truly great business must have an enduring 'moat' that protects excellent returns on invested capital."
+        },
+        {
+          "title": "Circle of Competence",
+          "content": "A rational investor only invests in what they deeply understand. Staying within the boundaries of your knowledge is far more important than the size of the boundary.",
+          "quote": "Risk comes from not knowing what you're doing."
+        },
+        {
+          "title": "Mr. Market",
+          "content": "The stock market is manic-depressive. Prices fluctuate wildly based on emotion, but long-term business value changes slowly. Use market volatility to your advantage rather than letting it dictate your actions.",
+          "quote": "Be fearful when others are greedy, and greedy when others are fearful."
+        }
+      ]
+    },
+    {
+      "id": "marks",
+      "author": "Howard Marks",
+      "company": "Oaktree Capital",
+      "sourceLink": "https://www.oaktreecapital.com/insights/memos",
+      "focus": "Risk & Market Cycles",
+      "description": "Marks’ memos are revered by legendary investors for their deep insights into risk assessment, market psychology, and understanding economic cycles.",
+      "lessons": [
+        {
+          "title": "Second-Level Thinking",
+          "content": "To beat the market, you must think differently and better than the consensus. First-level thinking says 'It's a good company, let's buy.' Second-level thinking says 'It's a good company, but everyone thinks it's a great company, so it's overpriced. Let's sell.'",
+          "quote": "You can't do the same things others do and expect to outperform."
+        },
+        {
+          "title": "The Pendulum of Investor Psychology",
+          "content": "Markets swing like a pendulum between greed and fear, optimism and pessimism. Recognizing where the pendulum is in its arc is crucial for survival.",
+          "quote": "Rule No. 1: Most things will prove to be cyclical. Rule No. 2: Some of the greatest opportunities for gain and loss come when other people forget Rule No. 1."
+        },
+        {
+          "title": "Understanding Risk",
+          "content": "Risk is not volatility; risk is the probability of a permanent loss of capital. Higher risk does not guarantee higher returns; it only guarantees a wider range of possible outcomes.",
+          "quote": "Risk means more things can happen than will happen."
+        }
+      ]
+    },
+    {
+      "id": "dimon",
+      "author": "Jamie Dimon",
+      "company": "JPMorgan Chase",
+      "sourceLink": "https://www.jpmorganchase.com/ir/annual-report",
+      "focus": "Execution & Macro Policy",
+      "description": "Dimon’s letters provide a masterclass in bank management, geopolitical analysis, and managing massive scale through a 'fortress balance sheet'.",
+      "lessons": [
+        {
+          "title": "The Fortress Balance Sheet",
+          "content": "Financial institutions must maintain overwhelming financial strength to survive panics and capitalize on opportunities during downturns.",
+          "quote": "We will maintain a fortress balance sheet, with strong capital and liquidity, so we can weather any storm."
+        },
+        {
+          "title": "OODA Loop in Business",
+          "content": "Observe, Orient, Decide, Act. Speed and decisiveness in execution are critical. A good plan violently executed now is better than a perfect plan executed next week.",
+          "quote": "Bureaucracy drives out good people and breeds mediocrity. It is the enemy of execution."
+        },
+        {
+          "title": "A Duty to Society",
+          "content": "Dimon consistently argues that large corporations have a duty to actively participate in public policy and solve societal issues, not just maximize short-term profit.",
+          "quote": "Businesses must earn the trust of their customers and communities every single day."
+        }
+      ]
+    },
+    {
+      "id": "fink",
+      "author": "Larry Fink",
+      "company": "BlackRock",
+      "sourceLink": "https://www.blackrock.com/corporate/investor-relations/larry-fink-ceo-letter",
+      "focus": "Stakeholder Capitalism & Purpose",
+      "description": "Fink's annual letters to CEOs shape the global dialogue on corporate responsibility, sustainability, and the true purpose of a corporation.",
+      "lessons": [
+        {
+          "title": "Purpose and Profit",
+          "content": "A company must have a clear purpose beyond making money. Purpose is the engine of long-term profitability and the animating force for achieving it.",
+          "quote": "Purpose is not the sole pursuit of profits but the animating force for achieving them."
+        },
+        {
+          "title": "Climate Risk is Investment Risk",
+          "content": "The transition to a net-zero economy will fundamentally reshape every business. Companies must plan for this transition or risk being left behind.",
+          "quote": "Every government, company, and shareholder must confront climate change."
+        },
+        {
+          "title": "Stakeholder Capitalism",
+          "content": "Fink advocates that companies must serve all stakeholders—employees, customers, suppliers, and communities—to generate durable, long-term returns for shareholders.",
+          "quote": "A company cannot achieve long-term profits without embracing purpose and considering the needs of a broad range of stakeholders."
+        }
+      ]
+    },
+    {
+      "id": "leonard",
+      "author": "Mark Leonard",
+      "company": "Constellation Software",
+      "sourceLink": "https://www.csisoftware.com/category/pres-letters",
+      "focus": "Decentralization & ROIC",
+      "description": "Leonard is known for his extreme secrecy and brilliant track record. His letters outline a philosophy of decentralization and obsessive focus on Return on Invested Capital.",
+      "lessons": [
+        {
+          "title": "Radical Decentralization",
+          "content": "As companies grow, bureaucracy tends to destroy value. The antidote is keeping business units extremely small, autonomous, and accountable.",
+          "quote": "We prefer to maintain a decentralized structure where small, focused teams can operate entrepreneurially."
+        },
+        {
+          "title": "High Hurdle Rates",
+          "content": "Capital allocation is the CEO's most important job. Constellation refuses to deploy capital unless it meets exceptionally high internal rate of return hurdles.",
+          "quote": "Our primary objective is to continually increase the intrinsic value of the business for our shareholders."
+        },
+        {
+          "title": "The Perpetual Owner",
+          "content": "Constellation buys Vertical Market Software companies with the intent to hold them forever, providing a permanent home rather than stripping and flipping them.",
+          "quote": "We are long-term owners. We don’t buy companies to sell them."
+        }
+      ]
+    },
+    {
+      "id": "bezos",
+      "author": "Jeff Bezos",
+      "company": "Amazon",
+      "sourceLink": "https://www.aboutamazon.com/about-us/shareholder-letters",
+      "focus": "Customer Obsession & 'Day 1'",
+      "description": "Starting with his original 1997 letter, Bezos established a framework for long-term thinking, relentless innovation, and keeping the entrepreneurial spirit alive.",
+      "lessons": [
+        {
+          "title": "Customer Obsession",
+          "content": "Don't just listen to customers; invent on their behalf. Customers are always beautifully, wonderfully dissatisfied, even when they say they are happy.",
+          "quote": "If you’re competitor-focused, you have to wait until there is a competitor doing something. Being customer-focused allows you to be more pioneering."
+        },
+        {
+          "title": "The 'Day 1' Philosophy",
+          "content": "Day 2 is stasis. Followed by irrelevance. Followed by excruciating, painful decline. To maintain Day 1 vitality, you must resist proxies, embrace external trends, and make high-velocity decisions.",
+          "quote": "It is always Day 1."
+        },
+        {
+          "title": "Long-Term Thinking",
+          "content": "If everything you do needs to work on a three-year time horizon, you're competing against a lot of people. If you're willing to invest on a seven-year time horizon, you're competing against a fraction of those people.",
+          "quote": "It's all about the long term."
+        }
+      ]
+    }
+  ]
+}

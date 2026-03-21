@@ -7,14 +7,12 @@
   "dependencies": {
     "@fontsource/merriweather": "^4.5.14",
     "@fontsource/montserrat": "^4.5.14",
-    "babel-plugin-styled-components": "^2.0.7",
     "gatsby": "^5.16.1",
     "gatsby-plugin-feed": "^5.16.0",
     "gatsby-plugin-google-gtag": "^5.16.0",
     "gatsby-plugin-image": "^3.16.0",
     "gatsby-plugin-manifest": "^5.16.0",
     "gatsby-plugin-sharp": "^5.16.0",
-    "gatsby-plugin-styled-components": "^6.16.0",
     "gatsby-remark-autolink-headers": "^6.16.0",
     "gatsby-remark-images": "^7.16.0",
     "gatsby-remark-prismjs": "^7.16.0",
@@ -26,8 +24,7 @@
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-is": "^19.2.4",
-    "react-medium-image-zoom": "^5.4.0",
-    "styled-components": "^5.3.6"
+    "react-medium-image-zoom": "^5.4.0"
   },
   "overrides": {
     "babel-plugin-lodash": {

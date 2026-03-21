@@ -1,38 +1,8 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
-import styled from "styled-components"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-
-const TagList = styled.ul`
-  display: flex;
-  flex-wrap: wrap;
-  list-style: none;
-  padding: 0;
-  margin-bottom: 2rem;
-  margin-left: var(--spacing-0);
-  gap: 0.5rem;
-`
-
-const TagButton = styled.button`
-  background-color: ${props => props.active ? 'var(--color-dark)' : 'transparent'};
-  color: ${props => props.active ? 'var(--color-background)' : 'var(--color-dark)'};
-  border: 2px solid var(--color-dark);
-  border-radius: 4px;
-  padding: 0.25rem 0.5rem;
-  cursor: pointer;
-  font-size: 0.8rem;
-  font-weight: 800;
-  transition: all 0.2s ease;
-
-  &:hover {
-    background-color: ${props => props.active ? 'var(--color-dark)' : 'var(--color-secondary-accent)'};
-    color: ${props => props.active ? 'var(--color-background)' : 'var(--color-light)'};
-    border-color: ${props => props.active ? 'var(--color-dark)' : 'var(--color-secondary-accent)'};
-  }
-`
-
 const NotesIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes
@@ -59,19 +29,19 @@ const NotesIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <h1>Notes</h1>
-      <p className="ct-responsive-header-text"> A collection of deep dives, personal notes and essays. They are a reflection of my thoughts and observations. I explore topics that I cannot stop thinking about or pulls me deeply. Each topic digs deeper into my own ignorance which helps me clarify my thoughts. This is a continuous journey, and I often revisit them as my knowledge expands.</p>
-      <TagList>
+      <p className="ct-responsive-header-text"> A collection of deep dives, personal notes and essays. They are a reflection of my thoughts and observations. I explore topics that I cannot stop thinking about or pulls me deeply.</p>
+      <ul className="notes-tag-list">
         {allTags.map(tag => (
           <li key={tag}>
-            <TagButton
-              active={selectedTag === tag}
+            <button
+              className={`notes-tag-button ${selectedTag === tag ? 'active' : ''}`}
               onClick={() => setSelectedTag(tag)}
             >
               {tag}
-            </TagButton>
+            </button>
           </li>
         ))}
-      </TagList>
+      </ul>
 
       <ul>
         {filteredPosts.map(post => {

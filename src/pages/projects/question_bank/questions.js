@@ -75,9 +75,7 @@ const QuestionsIndex = ({ data, location }) => {
             <Seo title="Questions: To Journal and Think About" />
 
             <style>{`
-                .questions-header {
-                    margin-bottom: var(--spacing-16);
-                }
+
                 .random-card-custom {
                     text-align: center;
                     margin-bottom: var(--spacing-12);
@@ -163,42 +161,28 @@ const QuestionsIndex = ({ data, location }) => {
                     text-align: left;
                     display: flex;
                     flex-direction: column;
-                    min-height: 320px;
+                    height: 420px;
+                    overflow-y: auto;
                 }
                 .wisdom-stack-wrap {
                     position: relative;
-                    height: 360px;
+                    height: 460px;
                     margin: 0 auto;
                 }
-                .wisdom-nav-controls {
-                    display: flex;
-                    align-items: center;
-                    justify-content: space-between;
-                    flex-wrap: wrap;
-                    gap: var(--spacing-3);
-                    margin-top: var(--spacing-8);
-                    margin-bottom: var(--spacing-4);
-                }
-                .wisdom-nav-dots {
-                    display: flex;
-                    gap: var(--spacing-2);
-                    align-items: center;
-                    flex-wrap: wrap;
-                    justify-content: center;
-                }
+
                 @media (max-width: 767px) {
                     .random-card-custom { padding: var(--spacing-6) var(--spacing-4); min-height: 240px; }
                     .wisdom-stack-wrap { height: auto !important; padding-bottom: var(--spacing-4); }
-                    .wisdom-card-item { position: static !important; display: none !important; transform: none !important; opacity: 1 !important; margin-bottom: var(--spacing-4); }
+                    .wisdom-card-item { position: static !important; display: none !important; transform: none !important; opacity: 1 !important; margin-bottom: var(--spacing-4); height: auto !important; }
                     .wisdom-card-offset-0 { display: block !important; }
-                    .wisdom-nav-controls { gap: var(--spacing-2); }
+
                     .ct-button { padding: var(--spacing-2) var(--spacing-4) !important; font-size: var(--fontSize-0) !important; }
                 }
                     .random-question-text { font-size: var(--fontSize-3); }
                 }
             `}</style>
 
-            <header className="questions-header">
+            <header style={{ textAlign: 'left', marginBottom: 'var(--spacing-16)' }}>
                 <h1 className="main-heading">Question Bank</h1>
                 <p className="ct-responsive-header-text">
                     A curated collection of interesting prompts for journaling, deep thinking, interviewing, and sparking meaningful conversations from my long running notes. The questions are filterable by category or you can pick a random one to explore. The high-signal 20 are linked to mental models to capture signal from noise.
@@ -220,17 +204,7 @@ const QuestionsIndex = ({ data, location }) => {
                     </p>
                 </div>
 
-                <div className="wisdom-nav-controls">
-                    <button onClick={goPrevWisdom} className="ct-button" aria-label="Previous card">&larr; Prev</button>
-                    <div className="wisdom-nav-dots">
-                        {wisdomCards.map((_, i) => (
-                            <button key={i} className={`nav-dot${i === activeWisdomIdx ? ' active' : ''}`} onClick={() => setActiveWisdomIdx(i)} aria-label={`Go to card ${i + 1}`}>
-                                <span style={{ position: 'absolute', width: 1, height: 1, overflow: 'hidden', clip: 'rect(0,0,0,0)', whiteSpace: 'nowrap' }}>{i + 1}</span>
-                            </button>
-                        ))}
-                    </div>
-                    <button onClick={goNextWisdom} className="ct-button" aria-label="Next card">Next &rarr;</button>
-                </div>
+
 
                 <div className="wisdom-stack-wrap">
                     {wisdomCards.map((card, i) => {
@@ -264,7 +238,22 @@ const QuestionsIndex = ({ data, location }) => {
                     })}
                 </div>
 
-                <p style={{ textAlign: 'center', marginTop: 'var(--spacing-4)', fontSize: 'var(--fontSize-0)' }} className="mono-text">
+                <div className="card-nav-controls">
+                    <button onClick={goPrevWisdom} className="ct-button" aria-label="Previous card">&larr; Prev</button>
+                    <div className="nav-dots-desktop">
+                        {wisdomCards.map((_, i) => (
+                            <button key={i} className={`nav-dot${i === activeWisdomIdx ? ' active' : ''}`} onClick={() => setActiveWisdomIdx(i)} aria-label={`Go to card ${i + 1}`}>
+                                <span style={{ position: 'absolute', width: 1, height: 1, overflow: 'hidden', clip: 'rect(0,0,0,0)', whiteSpace: 'nowrap' }}>{i + 1}</span>
+                            </button>
+                        ))}
+                    </div>
+                    <div className="nav-counter-mobile mono-text">
+                        {activeWisdomIdx + 1} / {totalWisdom}
+                    </div>
+                    <button onClick={goNextWisdom} className="ct-button" aria-label="Next card">Next &rarr;</button>
+                </div>
+                
+                <p style={{ textAlign: 'center', marginTop: 'var(--spacing-4)', fontSize: 'var(--fontSize-0)' }} className="mono-text nav-counter-desktop">
                     {activeWisdomIdx + 1} / {totalWisdom}
                 </p>
             </section>
