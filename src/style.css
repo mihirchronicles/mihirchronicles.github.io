@@ -402,9 +402,11 @@ a:focus {
   box-shadow: 0 0 0.10rem 0.10rem var(--color-secondary-accent);
 }
 
-.bio-avatar-link:hover {
-  border: none;
-  background-color: transparent;
+.bio-avatar-link:hover,
+.bio-avatar-link:active,
+.bio-avatar-link:focus {
+  border: none !important;
+  background-color: transparent !important;
 }
 
 .bio-avatar:hover {
