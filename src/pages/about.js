@@ -24,7 +24,7 @@ const AboutIndex = ({ data, location }) => {
       <h1>About</h1>
 
       <StaticImage src="../images/mehere.png" alt="MihirChronicles" className="about-image" />
-      <p className="ct-responsive-header-text">I build <strong>products</strong> for living. A life-long student of <strong>human behavior</strong> & <strong>financial markets</strong>. This site shares my continuous learning and investigation of topics I am interested in. I put a lot of love and labor into it.</p>
+      <p className="ct-responsive-header-text">I build <strong>products</strong> for living. A life-long student of <strong>capital markets</strong> & <strong>human psychology</strong>. I also enjoy building <strong>indie products</strong>. This site shares my continuous learning and investigation of topics I am interested in. I put a lot of love and labor into it.</p>
       <p>...</p>
       <p>Exploration is dear to my heart. Learning is more fun & valuable to me than status seeking games such as acquiring fancy titles. I hope learning does not change as I get older. Learning is one thing, but teaching is another. The latter is much harder to strive for because we have to put our demons like ego and selfish acts to rest. This is why I share my learnings.</p>
       <p>I have picked up a few games in life that I thoroughly enjoy. I have listed them below. I go back and forth between these games, but they all balance me well.</p>
