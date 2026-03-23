@@ -411,8 +411,11 @@ a:focus {
 
 .bio-avatar:hover {
   border: var(--spacing-3px) solid var(--color-dark);
+  margin: 0;
   padding: var(--spacing-px);
-  box-shadow: none;
+  box-shadow: none !important;
+  background-color: transparent !important;
+
 }
 
 .gallery-image {
