@@ -293,18 +293,50 @@ Not perfect, but below are my favorite virtues I try to live by.
 - **Nostalgia allows you to reorient your perspective on time.** It helps you feel like time is slowing down. The way to experience nostalgia are to do new things which allows you to welcome change, focus on small details because it forces you to be proactive about tiny things in life and embrace intensity because it will invoke strong emotions. All of these things will make you feel like time is stretching.
 
 
-## Kevin Kelly's wisdom
+## Practical advice from Kevin Kelly
 
-In “Excellent Advice for Living,” Kevin Kelly lays out a lifetime of wisdom into practical guidance for navigating the complexities of life. Inspired by his desire to share valuable insights with his young adult children, Kelly's reflections are worth noting. Below are the key maxims:
+In [Excellent Advice for Living](https://kk.org/books/excellent-advice-for-living), Kevin Kelly features 450 maxims on all sorts of subjects. KK is an ultimate optimist who I look up to. His advice is practical and worth noting. Below are my favorite maxims. 
 
-1. Mindset & Personal Growth
-
-- **Enthusiasm is Power**: Being enthusiastic is worth 25 IQ points.
-- **Infinite Games**: Don’t measure your life with someone else’s ruler. Find a game you want to play forever and play it your own way
-- 
-
-2. Work, Creativity & Success
-
-3. Relationships & Communication
-
-4. Practical Life Advice
+- **Being enthusiastic is worth 25 IQ points.**
+- **Listening well is a superpower. Keep asking “Is there more?” until there is no more.**
+- **Taking a break is a sign of strength, not weakness.**
+- **Gratitude unlocks all other virtues. Practice it like a daily prayer.**
+- **Don’t create things to make money; make money so you can create things. The reward for good work is more work.**
+- **Whenever you have a choice between being right and being kind, be kind. No exceptions.**
+- **99% of success is just showing up. In fact, most success is just persistence.**
+- **You don’t need more time because you already have all the time you will ever get; you need more focus.**
+- **The greatest teaching is called “doing.”**
+- **Always demand a deadline. A deadline weeds out the extraneous and the ordinary. It prevents you from trying to make it perfect, so you have to make it different. Different is better.**
+- **The advantage of a ridiculously ambitious goal is that it sets the bar very high so even if your effort falls short, it may exceed an ordinary success.**
+- **Shorten your to-do list by asking yourself, ‘What is the worst that will happen if this does not get done?’ Eliminate all but the disasters.**
+- **Be prepared: When you have 90% of a large project completed, finishing the final details will take another 90%. Houses and films are famous for having two 90%s.**
+- **If you are not embarrassed by your past self, you have probably not grown up yet.**
+- **The foundation of maturity: Just because it’s not your fault doesn’t mean it’s not your responsibility.**
+- **You can be whatever you want to be, so be the person who ends meetings early.**
+- **When you are stuck, explain your problem to others. Often simply laying out a problem will present a solution. Make ‘explaining the problem’ part of your troubleshooting process.**
+- **Speak confidently as if you are right, but listen carefully as if you are wrong.**
+- **As long as an idea stays in your head, it is perfect. But perfect things are never real. Immediately put an idea down into words, or in a sketch, or as a cardboard prototype. Now your idea is much closer to reality because it is imperfect.**
+- **When you are stuck, make a long list of everything that cannot possibly work. On that list will be a seed that leads to a solution that will work.**
+- **To transcend the influence of your heroes, copy them shamelessly like a student to get them out of your system. That is the way of all matters.**
+- **When you are stuck, sleep on it. Give your subconscious an assignment while you sleep. You’ll have an answer in the morning.**
+- **Most overnight successes – in fact, any significant successes – take at least 5 years. Budget your life accordingly.**
+- **Efficiency is highly overrated; goofing off is highly underrated. Regularly scheduled sabbaths, sabbaticals, vacations, breaks, aimless walks and time off are essential for top performance of any kind. The best work ethic requires a good rest ethic.**
+- **You first have to follow the rules with diligence in order to break them productively.**
+- **Draw to discover what you see. Write to discover what you think.**
+- **Separate the processes of creation from improving. You can’t write and edit, or sculpt and polish, or make and analyze at the same time. If you do, the editor stops the creator. While you invent, don’t select. While you sketch, don’t inspect. While you write the first draft, don’t reflect. At the start, the creator mind must be unleashed from judgement.**
+- **Most articles and stories are improved significantly if you delete the first page of the manuscript. Start with the action.**
+- **You choose to be lucky by believing that any setbacks are just temporary.**
+- **Try hard to solicit constructive criticism early. You want to hear what’s not working as soon as possible. When it is finished you can’t improve it.**
+- **Make one to throw away. The only way to write a great book is to first write an awful book. ditto for a move, song, piece of furniture, or anything.**
+- **The main reason to produce something every day is that you must throw away a lot of good work to reach the great stuff. To let it all go easily you need to be convinced that there is “more where that came from.” You get that in steady production.**
+- **If you loan someone $20 and you never see them again because they are avoiding paying you back, that makes it worth $20.**
+- **We tend to overestimate what we can do in a day, and underestimate what we can do in a decade. Miraculous things can be accomplished if you give it 10 years. A long game will compound small gains that will be able to overcome even big mistakes.**
+- **You can reduce the annoyance of someone's stupid belief by increasing your understanding of why they believe it.**
+- **Habit is far more dependable than inspiration. Focus on becoming the person who never misses a workout.**
+- **The purpose of a habit is to remove that action from self-negotiation.**
+- **To make something great, redo it. The secret to fine things is remaking them.**
+- **Expand your mind by thinking with your feet on a walk or with your hand in a notebook.**
+- **Act like you belong there. Pretend to be in control and people will assume you are.**
+- **If you mess up, fess up. Nothing elevates a person higher than taking responsibility for mistakes.**
+- **Hatred is a curse that only poisons the hater. Release a grudge like poison.**
+- **Perhaps the most counterintuitive truth of the universe is that the more you give, the more you get.**

@@ -145,8 +145,8 @@ const QuestionsIndex = ({ data, location }) => {
                     opacity: 0.8;
                 }
                 .q-tag-outline {
-                    color: var(--color-dark) !important;
-                    background-color: transparent !important;
+                    color: var(--color-light) !important;
+                    background-color: var(--color-primary-accent) !important;
                     border: 1px solid var(--color-primary-accent);
                 }
                 
@@ -185,7 +185,7 @@ const QuestionsIndex = ({ data, location }) => {
             <header style={{ textAlign: 'left', marginBottom: 'var(--spacing-16)' }}>
                 <h1 className="main-heading">Question Bank</h1>
                 <p className="ct-responsive-header-text">
-                    A curated collection of interesting prompts for journaling, deep thinking, interviewing, and sparking meaningful conversations from my long running notes. The questions are filterable by category or you can pick a random one to explore. The high-signal 20 are linked to mental models to capture signal from noise.
+                    A collection of interesting prompts for journaling, deep thinking, interviewing, and sparking meaningful conversations. The questions are filterable by categories.
                 </p>
                 <div style={{ marginTop: 'var(--spacing-8)' }}>
                     <a href="#directory" className="ct-button">
@@ -198,9 +198,9 @@ const QuestionsIndex = ({ data, location }) => {
 
             <section id="wisdom-cards" style={{ marginBottom: 'var(--spacing-16)' }}>
                 <div style={{ marginBottom: 'var(--spacing-6)' }}>
-                    <h2>The High-Signal 20</h2>
+                    <h2>Deep Reviews</h2>
                     <p style={{ opacity: 0.8, marginTop: 'var(--spacing-2)' }}>
-                        Use the arrows or keyboard ← → to explore. Each card pairs a question with the mental model it triggers.
+                        Use the arrows or keyboard ← → to explore. Each card pairs a question with a mental model.
                     </p>
                 </div>
 
@@ -214,7 +214,7 @@ const QuestionsIndex = ({ data, location }) => {
                             <div key={card.id} className={`wisdom-card-item wisdom-card-offset-${offset}`} style={wisdomCardStyle(offset)}>
                                 <div style={{ marginBottom: 'var(--spacing-4)', display: 'flex', justifyContent: 'space-between', alignItems: 'baseline' }}>
                                     <span className="q-tag q-tag-outline" style={{ marginRight: 0 }}>
-                                        {card.mental_model}
+                                        {card.context}
                                     </span>
                                     <span style={{ fontSize: '0.75rem', opacity: 0.6, fontWeight: 'bold', textTransform: 'uppercase', letterSpacing: '0.05em' }}>
                                         Intensity {card.intensity}/5
@@ -225,6 +225,9 @@ const QuestionsIndex = ({ data, location }) => {
                                 </h3>
                                 <p style={{ fontSize: 'var(--fontSize-1)', opacity: 0.9, lineHeight: 1.5 }}>
                                     {card.explanation}
+                                </p>
+                                <p style={{ fontSize: 'var(--fontSize-1)', opacity: 0.9, lineHeight: 1.5 }}>
+                                    <strong>Mental Model:</strong> {card.mental_model}
                                 </p>
                                 <div style={{ marginTop: 'auto', paddingTop: 'var(--spacing-6)', display: 'flex', flexWrap: 'wrap', gap: '4px' }}>
                                     {card.tags.map(t => (
@@ -252,7 +255,7 @@ const QuestionsIndex = ({ data, location }) => {
                     </div>
                     <button onClick={goNextWisdom} className="ct-button" aria-label="Next card">Next &rarr;</button>
                 </div>
-                
+
                 <p style={{ textAlign: 'center', marginTop: 'var(--spacing-4)', fontSize: 'var(--fontSize-0)' }} className="mono-text nav-counter-desktop">
                     {activeWisdomIdx + 1} / {totalWisdom}
                 </p>

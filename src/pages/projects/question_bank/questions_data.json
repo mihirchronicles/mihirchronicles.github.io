@@ -892,7 +892,7 @@
         },
         {
             "id": 5,
-            "question": "What if I could only subtract to solve problems?",
+            "question": "What if I could only subtract to solve problems? What would it be?",
             "mental_model": "Via Negativa",
             "explanation": "Fixing things by removing friction is often more effective than adding features or tasks.",
             "tags": [
@@ -1012,9 +1012,9 @@
         },
         {
             "id": 15,
-            "question": "Is this 'activity' or 'progress'?",
+            "question": "Is this activity or progress?",
             "mental_model": "Signal vs. Noise",
-            "explanation": "Busy-ness is often a form of laziness-it's easier than being productive.",
+            "explanation": "Busy-ness is often a form of laziness - it is easier than being productive.",
             "tags": [
                 "productivity",
                 "strategy"
@@ -1024,7 +1024,7 @@
         },
         {
             "id": 16,
-            "question": "What piece of 'art' would I create if I had to pretend to be an artist?",
+            "question": "What piece of “art” would I create if I had to pretend to be an artist?",
             "mental_model": "Creative Confidence",
             "explanation": "Lowers the stakes of perfectionism to let raw, unconventional ideas flow.",
             "tags": [
@@ -1038,7 +1038,7 @@
             "id": 17,
             "question": "What happens when a company stops believing in secrets?",
             "mental_model": "Stagnation Theory",
-            "explanation": "When you stop looking for the 'hidden thing,' you stop being capable of true innovation.",
+            "explanation": "When you stop looking for the “hidden thing,” you stop being capable of true innovation.",
             "tags": [
                 "strategy",
                 "culture"
