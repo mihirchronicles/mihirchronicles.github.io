@@ -297,46 +297,133 @@ Not perfect, but below are my favorite virtues I try to live by.
 
 In [Excellent Advice for Living](https://kk.org/books/excellent-advice-for-living), Kevin Kelly features 450 maxims on all sorts of subjects. KK is an ultimate optimist who I look up to. His advice is practical and worth noting. Below are my favorite maxims. 
 
-- **Being enthusiastic is worth 25 IQ points.**
-- **Listening well is a superpower. Keep asking “Is there more?” until there is no more.**
-- **Taking a break is a sign of strength, not weakness.**
-- **Gratitude unlocks all other virtues. Practice it like a daily prayer.**
-- **Don’t create things to make money; make money so you can create things. The reward for good work is more work.**
-- **Whenever you have a choice between being right and being kind, be kind. No exceptions.**
-- **99% of success is just showing up. In fact, most success is just persistence.**
-- **You don’t need more time because you already have all the time you will ever get; you need more focus.**
-- **The greatest teaching is called “doing.”**
-- **Always demand a deadline. A deadline weeds out the extraneous and the ordinary. It prevents you from trying to make it perfect, so you have to make it different. Different is better.**
-- **The advantage of a ridiculously ambitious goal is that it sets the bar very high so even if your effort falls short, it may exceed an ordinary success.**
-- **Shorten your to-do list by asking yourself, ‘What is the worst that will happen if this does not get done?’ Eliminate all but the disasters.**
-- **Be prepared: When you have 90% of a large project completed, finishing the final details will take another 90%. Houses and films are famous for having two 90%s.**
-- **If you are not embarrassed by your past self, you have probably not grown up yet.**
-- **The foundation of maturity: Just because it’s not your fault doesn’t mean it’s not your responsibility.**
-- **You can be whatever you want to be, so be the person who ends meetings early.**
-- **When you are stuck, explain your problem to others. Often simply laying out a problem will present a solution. Make ‘explaining the problem’ part of your troubleshooting process.**
-- **Speak confidently as if you are right, but listen carefully as if you are wrong.**
-- **As long as an idea stays in your head, it is perfect. But perfect things are never real. Immediately put an idea down into words, or in a sketch, or as a cardboard prototype. Now your idea is much closer to reality because it is imperfect.**
-- **When you are stuck, make a long list of everything that cannot possibly work. On that list will be a seed that leads to a solution that will work.**
-- **To transcend the influence of your heroes, copy them shamelessly like a student to get them out of your system. That is the way of all matters.**
-- **When you are stuck, sleep on it. Give your subconscious an assignment while you sleep. You’ll have an answer in the morning.**
-- **Most overnight successes – in fact, any significant successes – take at least 5 years. Budget your life accordingly.**
-- **Efficiency is highly overrated; goofing off is highly underrated. Regularly scheduled sabbaths, sabbaticals, vacations, breaks, aimless walks and time off are essential for top performance of any kind. The best work ethic requires a good rest ethic.**
-- **You first have to follow the rules with diligence in order to break them productively.**
-- **Draw to discover what you see. Write to discover what you think.**
-- **Separate the processes of creation from improving. You can’t write and edit, or sculpt and polish, or make and analyze at the same time. If you do, the editor stops the creator. While you invent, don’t select. While you sketch, don’t inspect. While you write the first draft, don’t reflect. At the start, the creator mind must be unleashed from judgement.**
-- **Most articles and stories are improved significantly if you delete the first page of the manuscript. Start with the action.**
-- **You choose to be lucky by believing that any setbacks are just temporary.**
-- **Try hard to solicit constructive criticism early. You want to hear what’s not working as soon as possible. When it is finished you can’t improve it.**
-- **Make one to throw away. The only way to write a great book is to first write an awful book. ditto for a move, song, piece of furniture, or anything.**
-- **The main reason to produce something every day is that you must throw away a lot of good work to reach the great stuff. To let it all go easily you need to be convinced that there is “more where that came from.” You get that in steady production.**
-- **If you loan someone $20 and you never see them again because they are avoiding paying you back, that makes it worth $20.**
-- **We tend to overestimate what we can do in a day, and underestimate what we can do in a decade. Miraculous things can be accomplished if you give it 10 years. A long game will compound small gains that will be able to overcome even big mistakes.**
-- **You can reduce the annoyance of someone's stupid belief by increasing your understanding of why they believe it.**
-- **Habit is far more dependable than inspiration. Focus on becoming the person who never misses a workout.**
-- **The purpose of a habit is to remove that action from self-negotiation.**
-- **To make something great, redo it. The secret to fine things is remaking them.**
-- **Expand your mind by thinking with your feet on a walk or with your hand in a notebook.**
-- **Act like you belong there. Pretend to be in control and people will assume you are.**
-- **If you mess up, fess up. Nothing elevates a person higher than taking responsibility for mistakes.**
-- **Hatred is a curse that only poisons the hater. Release a grudge like poison.**
-- **Perhaps the most counterintuitive truth of the universe is that the more you give, the more you get.**
+I. Mindset & Personal Growth
+
+* **Being enthusiastic is worth 25 IQ points.**
+* **Gratitude unlocks all other virtues. Practice it like a daily prayer.**
+* **If you are not embarrassed by your past self, you have probably not grown up yet.**
+* **The foundation of maturity: Just because it’s not your fault doesn’t mean it’s not your responsibility.**
+* **Speak confidently as if you are right, but listen carefully as if you are wrong.**
+* **You choose to be lucky by believing that any setbacks are just temporary.**
+* **Habit is far more dependable than inspiration. Focus on becoming the person who never misses a workout.**
+* **The purpose of a habit is to remove that action from self-negotiation.**
+* **Act like you belong there. Pretend to be in control and people will assume you are.**
+* **If you mess up, fess up. Nothing elevates a person higher than taking responsibility for mistakes.**
+* **Hatred is a curse that only poisons the hater. Release a grudge like poison.**
+* **You are what you do, not what you say or believe.**
+* **The future is decided by optimists.**
+* **Stay hungry. Passion, persistence, and ingenuity are required to invent.**
+* **Writing down one thing you are grateful for each day is the cheapest possible therapy.**
+* **If you meet a jerk, ignore them. If you meet jerks everywhere, look deeper into yourself.**
+* **It is easier to change how you think by changing your behavior than the reverse. Act out the change you seek.**
+* **Be a good ancestor. Do something a future generation will thank you for.**
+* **Believe the entire universe is conspiring behind your back to make you a success.**
+* **Life lessons will be presented in the order they are needed.**
+* **Cultivate an allergy to average.**
+* **Calm is contagious. Be calm to help others.**
+
+II. The Craft: Creativity & Building
+
+* **Don’t create things to make money; make money so you can create things. The reward for good work is more work.**
+* **The greatest teaching is called “doing.”**
+* **Always demand a deadline. A deadline weeds out the extraneous and the ordinary. It prevents you from trying to make it perfect, so you have to make it different. Different is better.**
+* **The advantage of a ridiculously ambitious goal is that it sets the bar very high so even if your effort falls short, it may exceed an ordinary success.**
+* **As long as an idea stays in your head, it is perfect. But perfect things are never real. Immediately put an idea down into words, or in a sketch, or as a cardboard prototype. Now your idea is much closer to reality because it is imperfect.**
+* **To transcend the influence of your heroes, copy them shamelessly like a student to get them out of your system. That is the way of all matters.**
+* **Separate the processes of creation from improving. You can’t write and edit, or sculpt and polish, or make and analyze at the same time. If you do, the editor stops the creator.**
+* **Most articles and stories are improved significantly if you delete the first page of the manuscript. Start with the action.**
+* **Make one to throw away. The only way to write a great book is to first write an awful book.**
+* **The main reason to produce something every day is that you must throw away a lot of good work to reach the great stuff. To let it all go easily you need to be convinced that there is “more where that came from.”**
+* **To make something great, redo it. The secret to fine things is remaking them.**
+* **Anything real begins with the fiction of what could be. Imagination is a potent force.**
+* **A multitude of bad ideas is necessary for one good idea.**
+* **When you create things that only you can do, you are not an impostor; you are ordained.**
+* **To be interesting, tell your story with uncommon honesty.**
+
+III. Productivity, Focus & Problem Solving
+
+* **You don’t need more time because you already have all the time you will ever get; you need more focus.**
+* **Shorten your to-do list by asking yourself, ‘What is the worst that will happen if this does not get done?’ Eliminate all but the disasters.**
+* **Be prepared: When you have 90% of a large project completed, finishing the final details will take another 90%.**
+* **When you are stuck, explain your problem to others. Often simply laying out a problem will present a solution.**
+* **When you are stuck, make a long list of everything that cannot possibly work. On that list will be a seed that leads to a solution that will work.**
+* **When you are stuck, sleep on it. Give your subconscious an assignment while you sleep. You’ll have an answer in the morning.**
+* **Efficiency is highly overrated; goofing off is highly underrated. The best work ethic requires a good rest ethic.**
+* **Draw to discover what you see. Write to discover what you think.**
+* **Focus on the important. The urgent is a tyrant; the important should be your king.**
+* **Show me your calendar and I will tell you your priorities.**
+* **Small things done every day are more important than what we do occasionally.**
+* **Don’t aim for better ways to finish tasks; aim for better tasks you never want to stop doing.**
+* **Focus on your biggest opportunities, not your biggest problems.**
+* **When you truly think for yourself, your conclusions will not be predictable.**
+* **Figure out when you are most productive and protect that time.**
+* **You first have to follow the rules with diligence in order to break them productively.**
+
+IV. Relationships, Communication & Empathy
+
+* **Listening well is a superpower. Keep asking “Is there more?” until there is no more.**
+* **Whenever you have a choice between being right and being kind, be kind. No exceptions.**
+* **You can be whatever you want to be, so be the person who ends meetings early.**
+* **If you loan someone $20 and you never see them again because they are avoiding paying you back, that makes it worth $20.**
+* **You can reduce the annoyance of someone's stupid belief by increasing your understanding of why they believe it.**
+* **When someone is nasty, treat their behavior like an illness they have to maintain empathy.**
+* **Life gets better as you replace transactions with relationships.**
+* **Don’t aim to have others like you; aim to have them respect you.**
+* **Compliment people behind their back.**
+* **If you avoid seeking approval, your power is limitless.**
+* **Before you speak, pass words through three gates: Is it true? Is it necessary? Is it kind?**
+* **Trusting the best in everyone is a small price for occasionally being cheated.**
+* **You can change someone’s life by offering simple words of encouragement.**
+* **Mastering the view through the eyes of others will unlock many doors.**
+* **Trust is earned in drops and lost in buckets.**
+* **Outlaw the word “you” during domestic arguments.**
+* **Understand what “yes” means for the other party in a negotiation.**
+* **The Rule of Three: To get the real reason, ask a person to go deeper three times.**
+* **To be interesting, be interested.**
+* **Assume people are busy or distracted if they turn you down; try again later.**
+* **Ask for advice instead of feedback to get a partner instead of a critic.**
+* **Don't say anything in an email you wouldn't say directly to the person.**
+* **Spend as much time crafting a subject line as the message itself.**
+* **Make others feel they are important.**
+* **Simplify, simplify, simplify, then exaggerate to get your message across.**
+
+V. Wealth, Strategy & The Long Game
+
+* **Taking a break is a sign of strength, not weakness.**
+* **99% of success is just showing up. In fact, most success is just persistence.**
+* **Most overnight successes – in fact, any significant successes – take at least 5 years. Budget your life accordingly.**
+* **We tend to overestimate what we can do in a day, and underestimate what we can do in a decade. Miraculous things can be accomplished if you give it 10 years.**
+* **Perhaps the most counterintuitive truth of the universe is that the more you give, the more you get.**
+* **The thing that made you weird as a kid could make you great as an adult if you don't lose it.**
+* **Your purpose in life should exceed you. Work for something larger than yourself.**
+* **Work to become, not to acquire.**
+* **Bad things can happen fast, but almost all good things happen slowly.**
+* **Finite games are played to win; infinite games are played to keep the game going.**
+* **Be frugal in all things except in your passions.**
+* **Take one simple thing extremely seriously, as if it were the only thing in the world.**
+* **Greatness is incompatible with optimizing in the short term. It requires a long view.**
+* **Embrace detours. Lucky breaks often happen on a detour from the main goal.**
+* **To answer “What should I do now?” first answer “Who should I become?”**
+* **Remove anything that no longer gives you joy to make room for what does.**
+* **Don’t fight the old; build the new to make the existing model obsolete.**
+* **Do more of what looks like work to others but is play for you.**
+* **If you repeated today 365 times, would you be where you want to be next year?**
+* **Evaluate choices as if you were looking back 25 years from today.**
+* **Promote what you love rather than bashing what you hate.**
+* **Pay attention to who you’re around when you feel best. Be with them more often.**
+* **If nobody else does what you do, you won't need a resume.**
+* **Unwavering honesty helps seal in trust.**
+* **What you own will eventually own you. Choose selectively.**
+* **Commit to doing no work one day a week (a Sabbath) to be more productive.**
+* **Forgiveness is a gift to yourself, not others.**
+* **Collecting things only benefits you if you display and share them.**
+* **You can’t reason someone out of a notion they didn't reason themselves into.**
+* **Pick the path that produces change when undecided.**
+* **Rule of Seven in Research: You can find anything if you are willing to go seven levels deep.**
+* **Pay attention to incentives. Never think about something else when you should be thinking about the power of incentives.**
+* **Master one thing to command a viewpoint and find your bliss.**
+* **Keep the main thing the main thing.**
+* **The highest leverage for money is buying someone else's time.**
+* **To succeed, get other people to pay you. To become wealthy, help others succeed.**
+* **No secrets. You are better off delivering unwelcome news yourself directly.**
+* **First, always ask for what you want.**
