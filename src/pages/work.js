@@ -32,8 +32,8 @@ const WorkIndex = ({ data, location }) => {
         <div className="work-content-container">
           <p><strong>[2026]</strong></p>
           <ul>
-            <li>A collection of tools used in my journey as a painter. These are the tools I use to learn the tactical details of color theory, paint brushes, and techniques from great masters.</li>
-            <li>An interactive tool on color theory. It is inspired by the teachings of Josef Albers which explore how colors behave, interact, and deceive the human eye. <strong>Link</strong>: <a href="/projects/painters_toolbox/color_theory">Color Guide</a>
+            <li>A collection of tools used in my journey as a painter.</li>
+            <li>An interactive tool on color theory inspired by the teachings of Josef Albers. <strong>Link</strong>: <a href="/projects/painters_toolbox/color_theory">Color Guide</a>
             </li>
             <li>An interactive guide on paint brushes. <strong>Link</strong>: <a href="/projects/painters_toolbox/paint_brushes">Paint Brush Guide</a>
             </li>

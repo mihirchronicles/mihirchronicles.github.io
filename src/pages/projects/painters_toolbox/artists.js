@@ -130,8 +130,8 @@ const ArtistsIndex = ({ data, location }) => {
             <section id="explore" style={{ marginBottom: 'var(--spacing-16)' }}>
                 <div>
                     <span className="ct-pill">Explore</span>
-                    <h2>The Masters</h2>
-                    <p>Use the arrows or keyboard ← → to move through the deck. Each card reveals the artist's approach and technique.</p>
+                    <h2>Masterpieces</h2>
+                    <p>Use the arrows or keyboard ← → to move through the deck. Each card reveals their masterpieces and technique.</p>
                 </div>
 
 
