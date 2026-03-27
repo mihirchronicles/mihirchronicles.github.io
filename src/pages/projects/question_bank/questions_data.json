@@ -1036,9 +1036,9 @@
         },
         {
             "id": 17,
-            "question": "What is current stagnation caused by - is it due to a lack of demand (underconsumption/high savings), or a lack of supply (weak productivity growth), or due to demographics (aging population), or due to capital goods becoming cheaper and more efficient?",
+            "question": "What is current stagnation caused by?",
             "mental_model": "Stagnation Theory",
-            "explanation": "A long-term economic condition characterized by slow or nonexistent growth, often marked by low investment, high unemployment, and low interest rates indicating cyclical or structural issues.",
+            "explanation": "A long-term economic conditions are characterized by cyclical or structural issues due to a lack of demand (underconsumption/high savings) or a lack of supply (weak productivity growth), or due to demographics (aging population), or due to capital goods becoming cheaper and more efficient.",
             "tags": [
                 "economics",
                 "innovation"
