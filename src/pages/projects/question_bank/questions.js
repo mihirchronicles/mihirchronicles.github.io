@@ -198,7 +198,7 @@ const QuestionsIndex = ({ data, location }) => {
 
             <section id="wisdom-cards" style={{ marginBottom: 'var(--spacing-16)' }}>
                 <div style={{ marginBottom: 'var(--spacing-6)' }}>
-                    <h2>Deep Reviews</h2>
+                    <h2>Wisdom Cards</h2>
                     <p style={{ opacity: 0.8, marginTop: 'var(--spacing-2)' }}>
                         Use the arrows or keyboard ← → to explore. Each card pairs a question with a mental model.
                     </p>
@@ -214,7 +214,7 @@ const QuestionsIndex = ({ data, location }) => {
                             <div key={card.id} className={`wisdom-card-item wisdom-card-offset-${offset}`} style={wisdomCardStyle(offset)}>
                                 <div style={{ marginBottom: 'var(--spacing-4)', display: 'flex', justifyContent: 'space-between', alignItems: 'baseline' }}>
                                     <span className="q-tag q-tag-outline" style={{ marginRight: 0 }}>
-                                        {card.context}
+                                        {card.category}
                                     </span>
                                     <span style={{ fontSize: '0.75rem', opacity: 0.6, fontWeight: 'bold', textTransform: 'uppercase', letterSpacing: '0.05em' }}>
                                         Intensity {card.intensity}/5

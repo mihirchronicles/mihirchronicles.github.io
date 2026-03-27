@@ -848,10 +848,10 @@
             "mental_model": "Occam’s Razor",
             "explanation": "We often over-engineer solutions. This forces the simplest, most direct path to the surface.",
             "tags": [
-                "productivity",
+                "scale",
                 "strategy"
             ],
-            "context": "Strategy Session",
+            "category": "Product Development",
             "intensity": 2
         },
         {
@@ -863,31 +863,31 @@
                 "growth",
                 "leadership"
             ],
-            "context": "Personal Reflection",
+            "category": "Personal Reflection",
             "intensity": 5
         },
         {
             "id": 3,
-            "question": "How could I achieve my 10-year goals in the next six months?",
+            "question": "How could I create momentum by achieving my 10-year goals in the next six months?",
             "mental_model": "Constraint Analysis",
             "explanation": "It reveals the 10x leverage points you are currently ignoring by removing the luxury of time.",
             "tags": [
                 "ambition",
                 "growth"
             ],
-            "context": "Quarterly Planning",
+            "category": "Personal Reflection",
             "intensity": 4
         },
         {
             "id": 4,
-            "question": "If you had to destroy this business in one year, what would you do?",
+            "question": "What behavior you want to avoid that will fail you in life?",
             "mental_model": "Inversion",
-            "explanation": "A pre-mortem for your product that exposes vulnerabilities before competitors find them.",
+            "explanation": "Having a certain kind of temperament is more important than brains.",
             "tags": [
-                "product",
-                "strategy"
+                "growth",
+                "leadership"
             ],
-            "context": "Executive Offsite",
+            "category": "Personal Reflection",
             "intensity": 4
         },
         {
@@ -899,19 +899,19 @@
                 "product",
                 "design"
             ],
-            "context": "Product Review",
+            "category": "Product Development",
             "intensity": 3
         },
         {
             "id": 6,
-            "question": "Why do the reluctant users hold back?",
+            "question": "What is the most important thing you need to get done? If this product wasn't available, what would you do instead?",
             "mental_model": "Jobs to be Done",
-            "explanation": "Focuses on the specific anxieties and habits that keep people from switching to your product.",
+            "explanation": "Focuses on the underlying motivations, functional needs, and emotional triggers that drive customers to “hire” a product for a specific purpose.",
             "tags": [
                 "product",
                 "research"
             ],
-            "context": "User Research",
+            "category": "Product Development",
             "intensity": 3
         },
         {
@@ -923,7 +923,7 @@
                 "investing",
                 "strategy"
             ],
-            "context": "Dinner Party",
+            "category": "Personal Reflection",
             "intensity": 4
         },
         {
@@ -935,7 +935,7 @@
                 "productivity",
                 "prioritization"
             ],
-            "context": "Weekly Sync",
+            "category": "Personal Reflection",
             "intensity": 3
         },
         {
@@ -947,7 +947,7 @@
                 "leadership",
                 "growth"
             ],
-            "context": "Career Coaching",
+            "category": "Personal Reflection",
             "intensity": 3
         },
         {
@@ -959,19 +959,19 @@
                 "growth",
                 "philosophy"
             ],
-            "context": "1-on-1 Mentoring",
+            "category": "Personal Reflection",
             "intensity": 2
         },
         {
             "id": 11,
-            "question": "What is my process to reduce errors of omission?",
+            "question": "What is my process to avoid prematurely omitting potential value when uncertain?",
             "mental_model": "Opportunity Cost",
             "explanation": "The value lost on missed opportunities is often larger than the loss on bad decisions.",
             "tags": [
-                "investing",
+                "product",
                 "decision-making"
             ],
-            "context": "Investment Committee",
+            "category": "Product Development",
             "intensity": 4
         },
         {
@@ -981,9 +981,9 @@
             "explanation": "Design for the eventual destination, not just the current bandwidth.",
             "tags": [
                 "product",
-                "engineering"
+                "architecture"
             ],
-            "context": "Architecture Review",
+            "category": "Product Development",
             "intensity": 3
         },
         {
@@ -995,7 +995,7 @@
                 "growth",
                 "psychology"
             ],
-            "context": "Personal Reflection",
+            "category": "Personal Reflection",
             "intensity": 5
         },
         {
@@ -1007,19 +1007,19 @@
                 "productivity",
                 "mindfulness"
             ],
-            "context": "Daily Review",
+            "category": "Personal Reflection",
             "intensity": 2
         },
         {
             "id": 15,
             "question": "Is this activity or progress?",
             "mental_model": "Signal vs. Noise",
-            "explanation": "Busy-ness is often a form of laziness - it is easier than being productive.",
+            "explanation": "Busy-ness is often a form of laziness. It is easier than being productive.",
             "tags": [
                 "productivity",
-                "strategy"
+                "growth"
             ],
-            "context": "Product Review",
+            "category": "Personal Reflection",
             "intensity": 3
         },
         {
@@ -1031,20 +1031,20 @@
                 "creativity",
                 "innovation"
             ],
-            "context": "Ideation Workshop",
+            "category": "Product Development",
             "intensity": 1
         },
         {
             "id": 17,
-            "question": "What happens when a company stops believing in secrets?",
+            "question": "What is current stagnation caused by - is it due to a lack of demand (underconsumption/high savings), or a lack of supply (weak productivity growth), or due to demographics (aging population), or due to capital goods becoming cheaper and more efficient?",
             "mental_model": "Stagnation Theory",
-            "explanation": "When you stop looking for the “hidden thing,” you stop being capable of true innovation.",
+            "explanation": "A long-term economic condition characterized by slow or nonexistent growth, often marked by low investment, high unemployment, and low interest rates",
             "tags": [
-                "strategy",
-                "culture"
+                "economics",
+                "innovation"
             ],
-            "context": "Executive Offsite",
-            "intensity": 3
+            "category": "Product Development",
+            "intensity": 4
         },
         {
             "id": 18,
@@ -1052,34 +1052,34 @@
             "mental_model": "Epistemic Humility",
             "explanation": "Knowing where your edge ends is more important than how wide your knowledge is.",
             "tags": [
-                "investing",
+                "ambition",
                 "decision-making"
             ],
-            "context": "Hiring Interview",
+            "category": "Personal Reflection",
             "intensity": 3
         },
         {
             "id": 19,
             "question": "How do habits create strength?",
             "mental_model": "Compounding",
-            "explanation": "The ROI of a 1% daily improvement in process is massive over long time horizons.",
+            "explanation": "The ROI of a 1% daily improvement in process is massive over long time horizons and is the foundation of momentum.",
             "tags": [
                 "growth",
                 "systems"
             ],
-            "context": "Team Culture",
+            "category": "Personal Reflection",
             "intensity": 2
         },
         {
             "id": 20,
-            "question": "What would I do if it was impossible for me to fail?",
+            "question": "In a worst-case scenario, is the risk worth taking? And if you fail, would you be okay with the outcome?",
             "mental_model": "Risk Assessment",
-            "explanation": "Removes the 'fear filter' to reveal your true high-leverage ambitions.",
+            "explanation": "Identifying potential hazards, evaluating their likelihood and impact, and determining mitigation strategies identifies what can go wrong, and establishing controls to prevent harm or financial loss.",
             "tags": [
                 "growth",
                 "ambition"
             ],
-            "context": "Career Coaching",
+            "category": "Product Development",
             "intensity": 4
         }
     ]
