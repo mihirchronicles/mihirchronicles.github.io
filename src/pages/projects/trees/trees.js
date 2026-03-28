@@ -26,29 +26,42 @@ const TreesIndex = ({ data, location }) => {
             medium: 'Oil, Acrylic',
             paintersNote: 'Paint the crown as three stacked cloud masses, one lit from above, one mid-tone, one deep shadow below. The trunk shortens to almost nothing beneath the crown at distance.',
             svgPath: (
-                <g>
+                <g filter="url(#soft-shadow)">
                     {/* Ground hint */}
                     <line x1="20" y1="295" x2="180" y2="295" stroke="var(--color-secondary-accent)" strokeWidth="1" strokeDasharray="4 4" opacity="0.4" />
                     {/* Trunk */}
-                    <path d="M90 295 Q88 260 85 230 Q90 215 95 230 Q97 260 110 295 Z" fill="#7c5c3a" stroke="var(--color-dark)" strokeWidth="1.5" />
+                    <path d="M90 295 Q88 260 85 230 Q90 215 95 230 Q97 260 110 295 Z" fill="url(#trunk-grad)" stroke="var(--color-dark)" strokeWidth="1.5" />
                     {/* Main scaffold branches */}
-                    <line x1="90" y1="240" x2="50" y2="200" stroke="#7c5c3a" strokeWidth="7" strokeLinecap="round" />
-                    <line x1="95" y1="235" x2="145" y2="195" stroke="#7c5c3a" strokeWidth="6" strokeLinecap="round" />
-                    <line x1="92" y1="225" x2="92" y2="175" stroke="#7c5c3a" strokeWidth="5" strokeLinecap="round" />
+                    <line x1="90" y1="240" x2="50" y2="200" stroke="url(#trunk-grad)" strokeWidth="7" strokeLinecap="round" />
+                    <line x1="95" y1="235" x2="145" y2="195" stroke="url(#trunk-grad)" strokeWidth="6" strokeLinecap="round" />
+                    <line x1="92" y1="225" x2="92" y2="175" stroke="url(#trunk-grad)" strokeWidth="5" strokeLinecap="round" />
                     {/* Secondary branches */}
-                    <line x1="50" y1="200" x2="30" y2="170" stroke="#7c5c3a" strokeWidth="4" strokeLinecap="round" />
-                    <line x1="50" y1="200" x2="70" y2="165" stroke="#7c5c3a" strokeWidth="3" strokeLinecap="round" />
-                    <line x1="145" y1="195" x2="165" y2="165" stroke="#7c5c3a" strokeWidth="3.5" strokeLinecap="round" />
-                    <line x1="145" y1="195" x2="130" y2="160" stroke="#7c5c3a" strokeWidth="3" strokeLinecap="round" />
-                    {/* Crown masses */}
-                    <ellipse cx="92" cy="130" rx="65" ry="48" fill="#3d7a45" opacity="0.9" />
-                    <ellipse cx="55" cy="155" rx="40" ry="32" fill="#3d7a45" opacity="0.85" />
-                    <ellipse cx="140" cy="150" rx="38" ry="30" fill="#3d7a45" opacity="0.85" />
+                    <line x1="50" y1="200" x2="30" y2="170" stroke="url(#trunk-grad)" strokeWidth="4" strokeLinecap="round" />
+                    <line x1="50" y1="200" x2="70" y2="165" stroke="url(#trunk-grad)" strokeWidth="3" strokeLinecap="round" />
+                    <line x1="145" y1="195" x2="165" y2="165" stroke="url(#trunk-grad)" strokeWidth="3.5" strokeLinecap="round" />
+                    <line x1="145" y1="195" x2="130" y2="160" stroke="url(#trunk-grad)" strokeWidth="3" strokeLinecap="round" />
+
+                    {/* Core Shadow Rims */}
+                    <ellipse cx="94" cy="134" rx="65" ry="48" fill="url(#oak-shadow)" opacity="0.9" />
+                    <ellipse cx="57" cy="158" rx="40" ry="32" fill="url(#oak-shadow)" opacity="0.9" />
+                    <ellipse cx="142" cy="154" rx="38" ry="30" fill="url(#oak-shadow)" opacity="0.9" />
+
+                    {/* Main Mid-Tone Masses */}
+                    <ellipse cx="92" cy="130" rx="65" ry="48" fill="url(#oak-mid)" opacity="0.95" />
+                    <ellipse cx="55" cy="155" rx="40" ry="32" fill="url(#oak-mid)" opacity="0.95" />
+                    <ellipse cx="140" cy="150" rx="38" ry="30" fill="url(#oak-mid)" opacity="0.95" />
+
+                    {/* Highlight Rims */}
+                    <ellipse cx="90" cy="126" rx="64" ry="46" fill="url(#oak-light)" opacity="0.4" />
+                    <ellipse cx="53" cy="151" rx="38" ry="30" fill="url(#oak-light)" opacity="0.4" />
+                    <ellipse cx="138" cy="146" rx="36" ry="28" fill="url(#oak-light)" opacity="0.4" />
+
                     {/* Highlight top mass */}
-                    <ellipse cx="88" cy="105" rx="45" ry="32" fill="#5fa865" opacity="0.7" />
+                    <ellipse cx="88" cy="105" rx="45" ry="32" fill="url(#oak-light)" opacity="0.9" />
+
                     {/* Sky holes */}
-                    <ellipse cx="75" cy="140" rx="10" ry="7" fill="var(--color-background)" opacity="0.4" />
-                    <ellipse cx="115" cy="145" rx="8" ry="6" fill="var(--color-background)" opacity="0.35" />
+                    <ellipse cx="75" cy="140" rx="10" ry="7" fill="var(--color-background)" opacity="0.75" />
+                    <ellipse cx="115" cy="145" rx="8" ry="6" fill="var(--color-background)" opacity="0.75" />
                     {/* Labels */}
                     <text x="115" y="260" fontSize="9" fill="var(--color-secondary-accent)" fontFamily="monospace">Trunk</text>
                     <line x1="110" y1="258" x2="96" y2="255" stroke="var(--color-secondary-accent)" strokeWidth="0.8" />
@@ -66,23 +79,33 @@ const TreesIndex = ({ data, location }) => {
             medium: 'Watercolor, Oil',
             paintersNote: 'Work top to bottom. Each tier is a dark wedge with a lighter front edge. The silhouette edge is ragged and irregular, resist the urge to make it smooth.',
             svgPath: (
-                <g>
+                <g filter="url(#soft-shadow)">
                     <line x1="20" y1="295" x2="180" y2="295" stroke="var(--color-secondary-accent)" strokeWidth="1" strokeDasharray="4 4" opacity="0.4" />
                     {/* Trunk */}
-                    <rect x="92" y="240" width="16" height="55" fill="#7c5c3a" stroke="var(--color-dark)" strokeWidth="1.5" rx="2" />
+                    <rect x="92" y="240" width="16" height="55" fill="url(#trunk-grad)" stroke="var(--color-dark)" strokeWidth="1.5" rx="2" />
+
+                    {/* Shadow Tiers (Offset down) */}
+                    <polygon points="100,228 32,263 168,263" fill="#18301c" opacity="0.8" />
+                    <polygon points="100,188 47,223 153,223" fill="#18301c" opacity="0.8" />
+                    <polygon points="100,153 60,186 140,186" fill="#18301c" opacity="0.8" />
+
                     {/* Triangular tiers — bottom to top */}
-                    <polygon points="100,225 30,260 170,260" fill="#2d5c35" stroke="var(--color-dark)" strokeWidth="1" />
-                    <polygon points="100,185 45,220 155,220" fill="#2d5c35" stroke="var(--color-dark)" strokeWidth="1" />
-                    <polygon points="100,150 58,183 142,183" fill="#326238" stroke="var(--color-dark)" strokeWidth="1" />
-                    <polygon points="100,118 68,148 132,148" fill="#3a7040" stroke="var(--color-dark)" strokeWidth="1" />
-                    <polygon points="100,90 76,118 124,118" fill="#3a7040" stroke="var(--color-dark)" strokeWidth="1" />
-                    <polygon points="100,68 82,92 118,92" fill="#4a8050" stroke="var(--color-dark)" strokeWidth="1" />
+                    <polygon points="100,225 30,260 170,260" fill="url(#pine-dark)" />
+                    <polygon points="100,185 45,220 155,220" fill="url(#pine-dark)" />
+                    <polygon points="100,150 58,183 142,183" fill="url(#pine-mid)" />
+                    <polygon points="100,118 68,148 132,148" fill="url(#pine-mid)" />
+                    <polygon points="100,90 76,118 124,118" fill="url(#pine-light)" />
+                    <polygon points="100,68 82,92 118,92" fill="url(#pine-light)" />
                     {/* Leader tip */}
-                    <polygon points="100,40 88,70 112,70" fill="#4a8050" stroke="var(--color-dark)" strokeWidth="1" />
-                    <polygon points="100,22 92,42 108,42" fill="#5a906a" />
+                    <polygon points="100,40 88,70 112,70" fill="url(#pine-light)" />
+                    <polygon points="100,22 92,42 108,42" fill="#7db864" />
+
                     {/* Tier highlights (front edge) */}
-                    <line x1="62" y1="183" x2="138" y2="183" stroke="#5a8c5a" strokeWidth="2" opacity="0.5" />
-                    <line x1="48" y1="220" x2="152" y2="220" stroke="#4a7a4a" strokeWidth="2" opacity="0.5" />
+                    <polygon points="100,223 35,257 165,257" fill="#4a8c52" opacity="0.6" />
+                    <polygon points="100,183 50,217 150,217" fill="#4a8c52" opacity="0.6" />
+                    <polygon points="100,148 62,180 138,180" fill="#5fa865" opacity="0.6" />
+                    <polygon points="100,116 71,145 129,145" fill="#5fa865" opacity="0.6" />
+                    <polygon points="100,88 79,115 121,115" fill="#7db864" opacity="0.6" />
                     {/* Labels */}
                     <text x="118" y="252" fontSize="9" fill="var(--color-secondary-accent)" fontFamily="monospace">Trunk</text>
                     <line x1="116" y1="250" x2="108" y2="248" stroke="var(--color-secondary-accent)" strokeWidth="0.8" />
@@ -100,22 +123,41 @@ const TreesIndex = ({ data, location }) => {
             medium: 'Watercolor, Oil',
             paintersNote: 'Paint the upward-arching scaffold branches first. Then hang cascading curtains of thin downward strokes from them. The trunk is barely visible, the curtain IS the tree.',
             svgPath: (
-                <g>
+                <g filter="url(#soft-shadow)">
                     <line x1="20" y1="295" x2="180" y2="295" stroke="var(--color-secondary-accent)" strokeWidth="1" strokeDasharray="4 4" opacity="0.4" />
                     {/* Trunk */}
-                    <path d="M95 295 Q93 260 91 230 Q95 215 99 230 Q101 255 105 295 Z" fill="#7c5c3a" stroke="var(--color-dark)" strokeWidth="1.5" />
+                    <path d="M95 295 Q93 260 91 230 Q95 215 99 230 Q101 255 105 295 Z" fill="url(#trunk-grad)" stroke="var(--color-dark)" strokeWidth="1.5" />
                     {/* Main upward scaffold */}
-                    <path d="M95 230 Q75 200 50 180" fill="none" stroke="#7c5c3a" strokeWidth="5" strokeLinecap="round" />
-                    <path d="M97 225 Q115 195 150 178" fill="none" stroke="#7c5c3a" strokeWidth="5" strokeLinecap="round" />
-                    <path d="M96 220 Q96 190 96 165" fill="none" stroke="#7c5c3a" strokeWidth="4" strokeLinecap="round" />
-                    {/* Crown top dome */}
-                    <ellipse cx="96" cy="155" rx="60" ry="28" fill="#4a8050" opacity="0.85" />
+                    <path d="M95 230 Q75 200 50 180" fill="none" stroke="url(#trunk-grad)" strokeWidth="5" strokeLinecap="round" />
+                    <path d="M97 225 Q115 195 150 178" fill="none" stroke="url(#trunk-grad)" strokeWidth="5" strokeLinecap="round" />
+                    <path d="M96 220 Q96 190 96 165" fill="none" stroke="url(#trunk-grad)" strokeWidth="4" strokeLinecap="round" />
+
+                    {/* Crown top dome - enhanced fluffiness */}
+                    <g opacity="0.95">
+                        {/* Shadow core */}
+                        <ellipse cx="96" cy="158" rx="62" ry="30" fill="#18301c" opacity="0.9" />
+
+                        {/* Mid-tone fluff clumps */}
+                        <ellipse cx="96" cy="155" rx="60" ry="28" fill="url(#willow-dome)" />
+                        <ellipse cx="65" cy="162" rx="28" ry="22" fill="url(#willow-dome)" />
+                        <ellipse cx="125" cy="160" rx="30" ry="24" fill="url(#willow-dome)" />
+                        <ellipse cx="80" cy="150" rx="35" ry="20" fill="url(#willow-dome)" />
+                        <ellipse cx="110" cy="148" rx="32" ry="18" fill="url(#willow-dome)" />
+
+                        {/* Specular highlight tufts */}
+                        <ellipse cx="80" cy="146" rx="25" ry="14" fill="#7db864" opacity="0.5" />
+                        <ellipse cx="110" cy="144" rx="22" ry="12" fill="#7db864" opacity="0.5" />
+                        <ellipse cx="96" cy="142" rx="30" ry="15" fill="#7db864" opacity="0.4" />
+                        <ellipse cx="65" cy="156" rx="18" ry="10" fill="#7db864" opacity="0.3" />
+                        <ellipse cx="125" cy="154" rx="20" ry="12" fill="#7db864" opacity="0.3" />
+                    </g>
+
                     {/* Cascading curtain strands */}
                     {[20, 35, 50, 65, 80, 96, 112, 128, 145, 160, 172].map((x, i) => {
                         const startY = 155 + (i % 2 === 0 ? -8 : -12)
                         const endY = 245 + (i % 3 === 0 ? 10 : 0)
                         const cx2 = x + (i % 2 === 0 ? 5 : -5)
-                        return <path key={i} d={`M${x} ${startY} Q${cx2} ${(startY + endY) / 2} ${x} ${endY}`} fill="none" stroke="#4a8050" strokeWidth="1.5" strokeLinecap="round" opacity="0.85" />
+                        return <path key={i} d={`M${x} ${startY} Q${cx2} ${(startY + endY) / 2} ${x} ${endY}`} fill="none" stroke="url(#willow-dome)" strokeWidth="2.5" strokeLinecap="round" opacity="0.9" />
                     })}
                     {/* Labels */}
                     <text x="108" y="260" fontSize="9" fill="var(--color-secondary-accent)" fontFamily="monospace">Trunk</text>
@@ -132,16 +174,38 @@ const TreesIndex = ({ data, location }) => {
             medium: 'Acrylic, Gouache',
             paintersNote: 'The trunk is never straight, paint it as a gentle S-curve with horizontal ring scars. Fronds arch upward then droop at the tips. Paint each frond as a single confident stroke.',
             svgPath: (
-                <g>
+                <g filter="url(#soft-shadow)">
                     <line x1="20" y1="295" x2="180" y2="295" stroke="var(--color-secondary-accent)" strokeWidth="1" strokeDasharray="4 4" opacity="0.4" />
                     {/* Trunk S-curve with texture rings */}
-                    <path d="M88 295 Q92 260 96 220 Q98 185 100 155 Q103 130 100 110" fill="none" stroke="#b5824a" strokeWidth="14" strokeLinecap="round" />
-                    <path d="M89 295 Q93 260 97 220 Q99 185 101 155 Q104 130 101 110" fill="none" stroke="#c9954f" strokeWidth="10" strokeLinecap="round" />
+                    <path d="M88 295 Q92 260 96 220 Q98 185 100 155 Q103 130 100 110" fill="none" stroke="url(#trunk-grad)" strokeWidth="14" strokeLinecap="round" />
+                    <path d="M89 295 Q93 260 97 220 Q99 185 101 155 Q104 130 101 110" fill="none" stroke="#c9954f" strokeWidth="6" strokeLinecap="round" opacity="0.5" />
                     {/* Ring scars */}
                     {[130, 150, 170, 195, 220, 248, 272].map((y, i) => (
-                        <line key={i} x1={88 + i * 0.5} y1={y} x2={104 + i * 0.3} y2={y} stroke="#7c5c3a" strokeWidth="1.5" opacity="0.6" />
+                        <line key={i} x1={88 + i * 0.5} y1={y} x2={104 + i * 0.3} y2={y} stroke="#3d2e1a" strokeWidth="2" opacity="0.6" />
                     ))}
-                    {/* Fronds radiating from crown */}
+
+                    {/* Deep shadow background fronds */}
+                    {[
+                        { cx: 100, cy: 108, tx: 35, ty: 75 },
+                        { cx: 100, cy: 108, tx: 165, ty: 75 },
+                        { cx: 100, cy: 108, tx: 70, ty: 15 },
+                        { cx: 100, cy: 108, tx: 130, ty: 15 },
+                    ].map((f, i) => {
+                        const qx = (f.cx + f.tx) / 2 + (i % 2 === 0 ? 12 : -12)
+                        const qy = (f.cy + f.ty) / 2
+                        return (
+                            <path key={`bg-${i}`} d={`M${f.cx} ${f.cy} Q${qx - 8} ${qy + 8} ${f.tx} ${f.ty} Q${qx + 8} ${qy - 8} ${f.cx} ${f.cy} Z`} fill="#18301c" opacity="0.8" />
+                        )
+                    })}
+
+                    {/* Coconut/Fruit Cluster at Crownshaft */}
+                    <circle cx="94" cy="110" r="5" fill="#4a3b22" />
+                    <circle cx="106" cy="109" r="6" fill="#3d2e1a" />
+                    <circle cx="100" cy="114" r="5" fill="#5a4628" />
+                    <circle cx="97" cy="106" r="4.5" fill="#5a4628" />
+                    <circle cx="103" cy="107" r="4" fill="#6b5331" />
+
+                    {/* Main Lush Fronds radiating from crown */}
                     {[
                         { cx: 100, cy: 108, tx: 30, ty: 55 },
                         { cx: 100, cy: 108, tx: 55, ty: 35 },
@@ -152,9 +216,20 @@ const TreesIndex = ({ data, location }) => {
                         { cx: 100, cy: 108, tx: 40, ty: 80 },
                         { cx: 100, cy: 108, tx: 160, ty: 85 },
                         { cx: 100, cy: 108, tx: 100, ty: 20 },
-                    ].map((f, i) => (
-                        <path key={i} d={`M${f.cx} ${f.cy} Q${(f.cx + f.tx) / 2 + (i % 2 === 0 ? 8 : -8)} ${(f.cy + f.ty) / 2} ${f.tx} ${f.ty}`} fill="none" stroke="#4a7a28" strokeWidth="2.5" strokeLinecap="round" />
-                    ))}
+                    ].map((f, i) => {
+                        const qx = (f.cx + f.tx) / 2 + (i % 2 === 0 ? 8 : -8)
+                        const qy = (f.cy + f.ty) / 2
+                        return (
+                            <g key={i}>
+                                {/* Thick crescent belly (shadow/mid) */}
+                                <path d={`M${f.cx} ${f.cy} Q${qx - 7} ${qy + 5} ${f.tx} ${f.ty} Q${qx + 4} ${qy - 4} ${f.cx} ${f.cy} Z`} fill="url(#oak-shadow)" opacity="0.9" />
+                                {/* Main fleshy leaf */}
+                                <path d={`M${f.cx} ${f.cy} Q${qx - 3} ${qy + 2} ${f.tx} ${f.ty} Q${qx + 2} ${qy - 2} ${f.cx} ${f.cy} Z`} fill="url(#pine-mid)" opacity="0.95" />
+                                {/* Original spine strict geometry mapping */}
+                                <path d={`M${f.cx} ${f.cy} Q${qx} ${qy} ${f.tx} ${f.ty}`} fill="none" stroke="#7db864" strokeWidth="1.5" strokeLinecap="round" opacity="0.8" />
+                            </g>
+                        )
+                    })}
                     {/* Labels */}
                     <text x="112" y="200" fontSize="9" fill="var(--color-secondary-accent)" fontFamily="monospace">Trunk</text>
                     <line x1="110" y1="198" x2="105" y2="195" stroke="var(--color-secondary-accent)" strokeWidth="0.8" />
@@ -170,31 +245,37 @@ const TreesIndex = ({ data, location }) => {
             medium: 'Watercolor, Oil',
             paintersNote: 'The white bark is your lightest value, protect it by painting around it. Birch crowns are transparent: paint sky through the crown, then add fine dark twigs as calligraphy over the top.',
             svgPath: (
-                <g>
+                <g filter="url(#soft-shadow)">
                     <line x1="20" y1="295" x2="180" y2="295" stroke="var(--color-secondary-accent)" strokeWidth="1" strokeDasharray="4 4" opacity="0.4" />
                     {/* Three trunks — white bark with dark marks */}
-                    <path d="M80 295 Q78 240 76 180 Q78 140 80 100" fill="none" stroke="#e8e0d0" strokeWidth="9" strokeLinecap="round" />
-                    <path d="M100 295 Q100 245 100 190 Q101 155 102 80" fill="none" stroke="#ede8e0" strokeWidth="10" strokeLinecap="round" />
-                    <path d="M118 295 Q120 248 121 195 Q122 160 120 110" fill="none" stroke="#e8e0d0" strokeWidth="8" strokeLinecap="round" />
+                    <path d="M80 295 Q78 240 76 180 Q78 140 80 100" fill="none" stroke="url(#bark-grad)" strokeWidth="9" strokeLinecap="round" />
+                    <path d="M100 295 Q100 245 100 190 Q101 155 102 80" fill="none" stroke="url(#bark-grad)" strokeWidth="10" strokeLinecap="round" />
+                    <path d="M118 295 Q120 248 121 195 Q122 160 120 110" fill="none" stroke="url(#bark-grad)" strokeWidth="8" strokeLinecap="round" />
+
                     {/* Bark detail marks */}
                     {[120, 150, 175, 200, 225, 255, 275].map((y, i) => (
-                        <line key={i} x1={76 + i * 0.3} y1={y} x2={84 + i * 0.2} y2={y + 3} stroke="#555" strokeWidth="1.5" opacity="0.35" strokeLinecap="round" />
+                        <line key={i} x1={76 + i * 0.3} y1={y} x2={84 + i * 0.2} y2={y + 3} stroke="#333" strokeWidth="1.5" opacity="0.5" strokeLinecap="round" />
                     ))}
                     {[130, 160, 185, 210, 240].map((y, i) => (
-                        <line key={`b${i}`} x1={98} y1={y} x2={106} y2={y + 3} stroke="#555" strokeWidth="1.5" opacity="0.35" strokeLinecap="round" />
+                        <line key={`b${i}`} x1={98} y1={y} x2={106} y2={y + 3} stroke="#333" strokeWidth="1.5" opacity="0.5" strokeLinecap="round" />
                     ))}
+
+                    {/* Shadow Rims */}
+                    <ellipse cx="100" cy="122" rx="55" ry="65" fill="#3a7040" opacity="0.25" />
+
                     {/* Transparent crown — sparse foliage clusters */}
-                    <ellipse cx="100" cy="120" rx="55" ry="65" fill="#5a8a3a" opacity="0.25" />
-                    <ellipse cx="82" cy="140" rx="28" ry="35" fill="#5a8a3a" opacity="0.3" />
-                    <ellipse cx="112" cy="130" rx="30" ry="32" fill="#5a8a3a" opacity="0.3" />
-                    <ellipse cx="98" cy="95" rx="22" ry="25" fill="#6a9a4a" opacity="0.35" />
+                    <ellipse cx="100" cy="120" rx="55" ry="65" fill="url(#oak-mid)" opacity="0.3" />
+                    <ellipse cx="82" cy="140" rx="28" ry="35" fill="url(#oak-mid)" opacity="0.35" />
+                    <ellipse cx="112" cy="130" rx="30" ry="32" fill="url(#oak-mid)" opacity="0.35" />
+                    <ellipse cx="98" cy="95" rx="22" ry="25" fill="url(#oak-light)" opacity="0.4" />
+
                     {/* Fine wiry branches */}
                     {[
                         { x1: 80, y1: 140, x2: 45, y2: 115 }, { x1: 80, y1: 130, x2: 55, y2: 105 },
                         { x1: 100, y1: 130, x2: 68, y2: 100 }, { x1: 102, y1: 120, x2: 130, y2: 90 },
                         { x1: 118, y1: 145, x2: 152, y2: 118 }, { x1: 119, y1: 135, x2: 145, y2: 108 },
                     ].map((b, i) => (
-                        <line key={i} x1={b.x1} y1={b.y1} x2={b.x2} y2={b.y2} stroke="#444" strokeWidth="1" opacity="0.5" strokeLinecap="round" />
+                        <line key={i} x1={b.x1} y1={b.y1} x2={b.x2} y2={b.y2} stroke="#333" strokeWidth="1.2" opacity="0.6" strokeLinecap="round" />
                     ))}
                     {/* Labels */}
                     <text x="130" y="220" fontSize="9" fill="var(--color-secondary-accent)" fontFamily="monospace">White bark</text>
@@ -266,6 +347,53 @@ const TreesIndex = ({ data, location }) => {
     return (
         <Layout location={location} title={siteTitle}>
             <Seo title="Trees: Architecture of Growth" />
+
+
+            {/* Soft, premium lighting defs (no harsh distortion) */}
+            <svg width="0" height="0" style={{ position: 'absolute' }}>
+                <defs>
+                    <filter id="soft-shadow" x="-20%" y="-20%" width="140%" height="140%">
+                        <feDropShadow dx="0" dy="8" stdDeviation="6" floodColor="#000" floodOpacity="0.25" />
+                    </filter>
+                    <linearGradient id="trunk-grad" gradientUnits="userSpaceOnUse" x1="50" y1="0" x2="150" y2="0">
+                        <stop offset="0%" stopColor="#8b6842" />
+                        <stop offset="100%" stopColor="#5c3d1e" />
+                    </linearGradient>
+                    <radialGradient id="oak-shadow" cx="50%" cy="80%" r="50%">
+                        <stop offset="0%" stopColor="#2d5c35" />
+                        <stop offset="100%" stopColor="#1a3320" />
+                    </radialGradient>
+                    <radialGradient id="oak-mid" cx="40%" cy="30%" r="50%">
+                        <stop offset="0%" stopColor="#4a8c52" />
+                        <stop offset="100%" stopColor="#3d7a45" />
+                    </radialGradient>
+                    <radialGradient id="oak-light" cx="30%" cy="20%" r="50%">
+                        <stop offset="0%" stopColor="#7db864" />
+                        <stop offset="100%" stopColor="#5fa865" />
+                    </radialGradient>
+                    <linearGradient id="pine-dark" x1="0" y1="0" x2="0" y2="1">
+                        <stop offset="0%" stopColor="#326238" />
+                        <stop offset="100%" stopColor="#214526" />
+                    </linearGradient>
+                    <linearGradient id="pine-mid" x1="0" y1="0" x2="0" y2="1">
+                        <stop offset="0%" stopColor="#4a8050" />
+                        <stop offset="100%" stopColor="#2e5433" />
+                    </linearGradient>
+                    <linearGradient id="pine-light" x1="0" y1="0" x2="0" y2="1">
+                        <stop offset="0%" stopColor="#5a906a" />
+                        <stop offset="100%" stopColor="#3a6b47" />
+                    </linearGradient>
+                    <radialGradient id="willow-dome" cx="50%" cy="30%" r="50%">
+                        <stop offset="0%" stopColor="#6a9a4a" />
+                        <stop offset="100%" stopColor="#4a8050" />
+                    </radialGradient>
+                    <linearGradient id="bark-grad" gradientUnits="userSpaceOnUse" x1="50" y1="0" x2="150" y2="0">
+                        <stop offset="0%" stopColor="#fffcf5" />
+                        <stop offset="50%" stopColor="#e8e0d0" />
+                        <stop offset="100%" stopColor="#c8c0b0" />
+                    </linearGradient>
+                </defs>
+            </svg>
 
             <style>{`
 
@@ -465,27 +593,31 @@ const TreesIndex = ({ data, location }) => {
                         {/* Lit tree SVG */}
                         <div className="tree-preview-container" style={{ backgroundColor: 'var(--color-background)', border: '1px solid var(--color-secondary-accent)', borderRadius: 'var(--spacing-1)' }}>
                             <svg viewBox="0 0 200 320" style={{ width: '100%', height: '100%' }}>
-                                {/* Ground */}
-                                <line x1="20" y1="295" x2="180" y2="295" stroke="var(--color-secondary-accent)" strokeWidth="1" strokeDasharray="4 4" opacity="0.4" />
-                                {/* Trunk with cast shadow */}
-                                <path d={`M95 295 Q93 260 91 235 Q95 218 99 235 Q101 258 105 295 Z`} fill="#5c3d1e" stroke="var(--color-dark)" strokeWidth="1.5" />
-                                {/* Main scaffold branches */}
-                                <line x1="93" y1="245" x2="55" y2="205" stroke="#5c3d1e" strokeWidth="6" strokeLinecap="round" />
-                                <line x1="96" y1="240" x2="145" y2="200" stroke="#5c3d1e" strokeWidth="5" strokeLinecap="round" />
-                                <line x1="94" y1="230" x2="94" y2="180" stroke="#5c3d1e" strokeWidth="5" strokeLinecap="round" />
-                                {/* Shadow mass — darkest, interior/bottom */}
-                                <ellipse cx="95" cy={140 - shadowDy * 0.2} rx="58" ry="44" fill="#1a3320" />
-                                {/* Mid-tone mass */}
-                                <ellipse cx={95 - shadowDx * 0.15} cy={132} rx="50" ry="38" fill="#2d5c35" />
-                                {/* Highlight mass — lit side */}
-                                <ellipse cx={hx} cy={hy} rx="38" ry="28" fill="#5a8a40" />
-                                {/* Brightest highlight cluster */}
-                                <ellipse cx={hx + lc.highlight[0] * 0.15} cy={hy + lc.highlight[1] * 0.15} rx="22" ry="16" fill="#7db864" opacity="0.85" />
+                                <g filter="url(#soft-shadow)">
+                                    {/* Ground */}
+                                    <line x1="20" y1="295" x2="180" y2="295" stroke="var(--color-secondary-accent)" strokeWidth="1" strokeDasharray="4 4" opacity="0.4" />
+                                    {/* Cast shadow on ground */}
+                                    <ellipse cx={100 + shadowDx} cy={296} rx="40" ry="6" fill="#000" opacity="0.15" />
+                                    {/* Trunk with cast shadow */}
+                                    <path d={`M95 295 Q93 260 91 235 Q95 218 99 235 Q101 258 105 295 Z`} fill="url(#trunk-grad)" stroke="var(--color-dark)" strokeWidth="1.5" />
+                                    {/* Main scaffold branches */}
+                                    <line x1="93" y1="245" x2="55" y2="205" stroke="url(#trunk-grad)" strokeWidth="6" strokeLinecap="round" />
+                                    <line x1="96" y1="240" x2="145" y2="200" stroke="url(#trunk-grad)" strokeWidth="5" strokeLinecap="round" />
+                                    <line x1="94" y1="230" x2="94" y2="180" stroke="url(#trunk-grad)" strokeWidth="5" strokeLinecap="round" />
+                                    {/* Shadow mass — darkest, interior/bottom */}
+                                    <ellipse cx="95" cy={140 - shadowDy * 0.2} rx="58" ry="44" fill="#1a3320" />
+                                    {/* Mid-tone mass */}
+                                    <ellipse cx={95 - shadowDx * 0.15} cy={132} rx="50" ry="38" fill="#2d5c35" />
+                                    {/* Highlight mass — lit side */}
+                                    <ellipse cx={hx} cy={hy} rx="38" ry="28" fill="#5a8a40" />
+                                    {/* Brightest highlight cluster */}
+                                    <ellipse cx={hx + lc.highlight[0] * 0.15} cy={hy + lc.highlight[1] * 0.15} rx="22" ry="16" fill="#7db864" opacity="0.9" />
+                                    <ellipse cx={hx + lc.highlight[0] * 0.2} cy={hy + lc.highlight[1] * 0.2} rx="12" ry="8" fill="#a4e08b" opacity="0.8" />
+                                </g>
                                 {/* Sky holes / negative space */}
                                 <ellipse cx={95 + shadowDx * 0.3} cy={150} rx="9" ry="6" fill="var(--color-background)" opacity="0.45" />
                                 <ellipse cx={95 + shadowDx * 0.5} cy={135} rx="6" ry="5" fill="var(--color-background)" opacity="0.35" />
-                                {/* Cast shadow on ground */}
-                                <ellipse cx={100 + shadowDx} cy={296} rx="40" ry="6" fill="var(--color-dark)" opacity="0.15" />
+
                                 {/* Light source indicator */}
                                 <circle cx={100 + lc.highlight[0] * 1.2} cy={50 + lc.highlight[1] * 0.8} r="10" fill="#fbbf24" opacity="0.85" />
                                 <line x1={100 + lc.highlight[0] * 1.2} y1={50 + lc.highlight[1] * 0.8} x2={hx} y2={hy} stroke="#fbbf24" strokeWidth="0.8" strokeDasharray="3 3" opacity="0.5" />
