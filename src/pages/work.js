@@ -63,7 +63,7 @@ const WorkIndex = ({ data, location }) => {
       <article className="work-container">
         <div className="work-image-container">
           <Zoom>
-            <StaticImage src="../images/question_bank.png" alt="question_bank" className="gallery-image" />
+            <StaticImage src="../images/high_signal_questions.png" alt="high_signal_questions" className="gallery-image" />
           </Zoom>
         </div>
         <div className="work-content-container">

@@ -198,9 +198,9 @@ const QuestionsIndex = ({ data, location }) => {
 
             <section id="wisdom-cards" style={{ marginBottom: 'var(--spacing-16)' }}>
                 <div style={{ marginBottom: 'var(--spacing-6)' }}>
-                    <h2>Wisdom Cards</h2>
+                    <h2>High Signal Questions</h2>
                     <p style={{ opacity: 0.8, marginTop: 'var(--spacing-2)' }}>
-                        Use the arrows or keyboard ← → to explore. Each card pairs a question with a mental model.
+                        Below are some high signal questions that help you gain widom and insights. Use the arrows or keyboard ← → to explore. Each card pairs a question with a mental model.
                     </p>
                 </div>
 
