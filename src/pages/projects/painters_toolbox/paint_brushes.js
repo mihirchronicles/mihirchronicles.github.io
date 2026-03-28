@@ -26,16 +26,16 @@ const PaintBrushesIndex = ({ data, location }) => {
             svgPath: (
                 <g>
                     {/* Handle */}
-                    <path d="M45 300 L55 300 L57 200 L43 200 Z" fill="#b45309" stroke="var(--color-dark)" strokeWidth="2" />
+                    <path d="M45 300 L55 300 L57 200 L43 200 Z" fill="url(#handle-grad)" stroke="var(--color-dark)" strokeWidth="2" />
                     {/* Ferrule */}
-                    <rect x="40" y="180" width="20" height="25" fill="#cbd5e1" stroke="var(--color-dark)" strokeWidth="2" />
+                    <rect x="40" y="180" width="20" height="25" fill="url(#ferrule-grad)" stroke="var(--color-dark)" strokeWidth="2" />
                     {/* Fan bristles */}
                     {[...Array(13)].map((_, i) => {
                         const angle = -80 + i * 13.3;
                         const rad = angle * Math.PI / 180;
                         const x2 = 50 + Math.sin(rad) * 100;
                         const y2 = 175 - Math.cos(rad) * 100;
-                        return <line key={i} x1="50" y1="175" x2={x2} y2={y2} stroke="#451a03" strokeWidth="2" strokeLinecap="round" />;
+                        return <line key={i} x1="50" y1="175" x2={x2} y2={y2} stroke="url(#bristle-grad)" strokeWidth="2" strokeLinecap="round" />;
                     })}
                 </g>
             )
@@ -48,11 +48,11 @@ const PaintBrushesIndex = ({ data, location }) => {
             svgPath: (
                 <g>
                     {/* Handle */}
-                    <path d="M45 300 L55 300 L57 120 L43 120 Z" fill="#b45309" stroke="var(--color-dark)" strokeWidth="2" />
+                    <path d="M45 300 L55 300 L57 120 L43 120 Z" fill="url(#handle-grad)" stroke="var(--color-dark)" strokeWidth="2" />
                     {/* Ferrule */}
-                    <rect x="42" y="100" width="16" height="22" fill="#cbd5e1" stroke="var(--color-dark)" strokeWidth="2" />
+                    <rect x="42" y="100" width="16" height="22" fill="url(#ferrule-grad)" stroke="var(--color-dark)" strokeWidth="2" />
                     {/* Long thin bristle */}
-                    <path d="M47 100 Q50 30 50 10 Q50 30 53 100 Z" fill="#451a03" />
+                    <path d="M47 100 Q50 30 50 10 Q50 30 53 100 Z" fill="url(#bristle-grad)" />
                 </g>
             )
         },
@@ -64,11 +64,11 @@ const PaintBrushesIndex = ({ data, location }) => {
             svgPath: (
                 <g>
                     {/* Handle */}
-                    <path d="M45 300 L55 300 L57 180 L43 180 Z" fill="#b45309" stroke="var(--color-dark)" strokeWidth="2" />
+                    <path d="M45 300 L55 300 L57 180 L43 180 Z" fill="url(#handle-grad)" stroke="var(--color-dark)" strokeWidth="2" />
                     {/* Ferrule */}
-                    <rect x="38" y="155" width="24" height="28" fill="#cbd5e1" stroke="var(--color-dark)" strokeWidth="2" />
+                    <rect x="38" y="155" width="24" height="28" fill="url(#ferrule-grad)" stroke="var(--color-dark)" strokeWidth="2" />
                     {/* Large dome bristle */}
-                    <ellipse cx="50" cy="120" rx="30" ry="40" fill="#451a03" />
+                    <ellipse cx="50" cy="120" rx="30" ry="40" fill="url(#bristle-grad)" />
                 </g>
             )
         },
@@ -80,11 +80,11 @@ const PaintBrushesIndex = ({ data, location }) => {
             svgPath: (
                 <g>
                     {/* Handle */}
-                    <path d="M45 300 L55 300 L57 185 L43 185 Z" fill="#b45309" stroke="var(--color-dark)" strokeWidth="2" />
+                    <path d="M45 300 L55 300 L57 185 L43 185 Z" fill="url(#handle-grad)" stroke="var(--color-dark)" strokeWidth="2" />
                     {/* Ferrule */}
-                    <rect x="40" y="163" width="20" height="25" fill="#cbd5e1" stroke="var(--color-dark)" strokeWidth="2" />
+                    <rect x="40" y="163" width="20" height="25" fill="url(#ferrule-grad)" stroke="var(--color-dark)" strokeWidth="2" />
                     {/* Angled flat bristle */}
-                    <path d="M40 163 L60 163 L70 90 L50 100 Z" fill="#451a03" />
+                    <path d="M40 163 L60 163 L70 90 L50 100 Z" fill="url(#bristle-grad)" />
                 </g>
             )
         },
@@ -96,13 +96,13 @@ const PaintBrushesIndex = ({ data, location }) => {
             svgPath: (
                 <g>
                     {/* Long handle */}
-                    <path d="M45 300 L55 300 L56 160 L44 160 Z" fill="#b45309" stroke="var(--color-dark)" strokeWidth="2" />
+                    <path d="M45 300 L55 300 L56 160 L44 160 Z" fill="url(#handle-grad)" stroke="var(--color-dark)" strokeWidth="2" />
                     {/* Wide ferrule area */}
-                    <rect x="28" y="140" width="44" height="22" fill="#cbd5e1" stroke="var(--color-dark)" strokeWidth="2" />
+                    <rect x="28" y="140" width="44" height="22" fill="url(#ferrule-grad)" stroke="var(--color-dark)" strokeWidth="2" />
                     {/* Wide flat bristles */}
                     {[...Array(7)].map((_, i) => {
                         const x = 32 + i * 6;
-                        return <line key={i} x1={x} y1="140" x2={x} y2="60" stroke="#451a03" strokeWidth="3" strokeLinecap="round" />;
+                        return <line key={i} x1={x} y1="140" x2={x} y2="60" stroke="url(#bristle-grad)" strokeWidth="3" strokeLinecap="round" />;
                     })}
                 </g>
             )
@@ -115,11 +115,11 @@ const PaintBrushesIndex = ({ data, location }) => {
             svgPath: (
                 <g>
                     {/* Handle */}
-                    <path d="M45 300 L55 300 L57 185 L43 185 Z" fill="#b45309" stroke="var(--color-dark)" strokeWidth="2" />
+                    <path d="M45 300 L55 300 L57 185 L43 185 Z" fill="url(#handle-grad)" stroke="var(--color-dark)" strokeWidth="2" />
                     {/* Ferrule */}
-                    <rect x="39" y="163" width="22" height="25" fill="#cbd5e1" stroke="var(--color-dark)" strokeWidth="2" />
+                    <rect x="39" y="163" width="22" height="25" fill="url(#ferrule-grad)" stroke="var(--color-dark)" strokeWidth="2" />
                     {/* Short flat bristle block with slight curve */}
-                    <path d="M39 163 L61 163 L62 115 Q50 108 38 115 Z" fill="#451a03" />
+                    <path d="M39 163 L61 163 L62 115 Q50 108 38 115 Z" fill="url(#bristle-grad)" />
                 </g>
             )
         },
@@ -131,16 +131,16 @@ const PaintBrushesIndex = ({ data, location }) => {
             svgPath: (
                 <g>
                     {/* Handle */}
-                    <path d="M45 300 L55 300 L57 175 L43 175 Z" fill="#b45309" stroke="var(--color-dark)" strokeWidth="2" />
+                    <path d="M45 300 L55 300 L57 175 L43 175 Z" fill="url(#handle-grad)" stroke="var(--color-dark)" strokeWidth="2" />
                     {/* Ferrule — wide, short */}
-                    <rect x="36" y="153" width="28" height="24" fill="#cbd5e1" stroke="var(--color-dark)" strokeWidth="2" />
+                    <rect x="36" y="153" width="28" height="24" fill="url(#ferrule-grad)" stroke="var(--color-dark)" strokeWidth="2" />
                     {/* Dense cluster of short, stiff bristles */}
                     {[...Array(5)].map((_, col) =>
                         [...Array(4)].map((_, row) => {
                             const bx = 39 + col * 5.5;
                             const by = 153 - row * 14;
                             const offsetX = (col + row) % 2 === 0 ? 1 : -1;
-                            return <line key={`${col}-${row}`} x1={bx} y1={by} x2={bx + offsetX} y2={by - 12} stroke="#451a03" strokeWidth="2.5" strokeLinecap="round" />;
+                            return <line key={`${col}-${row}`} x1={bx} y1={by} x2={bx + offsetX} y2={by - 12} stroke="url(#bristle-grad)" strokeWidth="2.5" strokeLinecap="round" />;
                         })
                     )}
                 </g>
@@ -154,12 +154,12 @@ const PaintBrushesIndex = ({ data, location }) => {
             svgPath: (
                 <g>
                     {/* Handle — rounded wood grip */}
-                    <path d="M45 300 L55 300 L56 210 L44 210 Z" fill="#b45309" stroke="var(--color-dark)" strokeWidth="2" />
-                    <ellipse cx="50" cy="215" rx="8" ry="12" fill="#b45309" stroke="var(--color-dark)" strokeWidth="2" />
+                    <path d="M45 300 L55 300 L56 210 L44 210 Z" fill="url(#handle-grad)" stroke="var(--color-dark)" strokeWidth="2" />
+                    <ellipse cx="50" cy="215" rx="8" ry="12" fill="url(#handle-grad)" stroke="var(--color-dark)" strokeWidth="2" />
                     {/* Metal shank */}
-                    <rect x="48" y="155" width="4" height="58" fill="#94a3b8" stroke="var(--color-dark)" strokeWidth="1" />
+                    <rect x="48" y="155" width="4" height="58" fill="url(#ferrule-grad)" stroke="var(--color-dark)" strokeWidth="1" />
                     {/* Flat blade — trowel shape */}
-                    <path d="M35 155 L65 155 L60 80 Q50 70 40 80 Z" fill="#cbd5e1" stroke="var(--color-dark)" strokeWidth="2" />
+                    <path d="M35 155 L65 155 L60 80 Q50 70 40 80 Z" fill="url(#ferrule-grad)" stroke="var(--color-dark)" strokeWidth="2" />
                     {/* Blade highlight */}
                     <line x1="45" y1="148" x2="43" y2="88" stroke="#fff" strokeWidth="1.5" opacity="0.6" strokeLinecap="round" />
                 </g>
@@ -173,9 +173,9 @@ const PaintBrushesIndex = ({ data, location }) => {
             svgPath: (
                 <g>
                     {/* Handle */}
-                    <path d="M45 300 L55 300 L56 175 L44 175 Z" fill="#b45309" stroke="var(--color-dark)" strokeWidth="2" />
+                    <path d="M45 300 L55 300 L56 175 L44 175 Z" fill="url(#handle-grad)" stroke="var(--color-dark)" strokeWidth="2" />
                     {/* Wide ferrule */}
-                    <rect x="33" y="153" width="34" height="24" fill="#cbd5e1" stroke="var(--color-dark)" strokeWidth="2" />
+                    <rect x="33" y="153" width="34" height="24" fill="url(#ferrule-grad)" stroke="var(--color-dark)" strokeWidth="2" />
                     {/* Very wide, soft dome of bristles */}
                     <ellipse cx="50" cy="118" rx="28" ry="38" fill="#78716c" />
                     {/* Lighter tips to show the two-tone badger hair */}
@@ -236,6 +236,26 @@ const PaintBrushesIndex = ({ data, location }) => {
     return (
         <Layout location={location} title={siteTitle}>
             <Seo title="Paint Brushes: Tools of Expression" />
+            <svg width="0" height="0" style={{ position: 'absolute', pointerEvents: 'none' }}>
+                <defs>
+                    <linearGradient id="handle-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+                        <stop offset="0%" stopColor="#78350f" />
+                        <stop offset="40%" stopColor="#d97706" />
+                        <stop offset="100%" stopColor="#78350f" />
+                    </linearGradient>
+                    <linearGradient id="ferrule-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+                        <stop offset="0%" stopColor="#64748b" />
+                        <stop offset="30%" stopColor="#f8fafc" />
+                        <stop offset="70%" stopColor="#cbd5e1" />
+                        <stop offset="100%" stopColor="#475569" />
+                    </linearGradient>
+                    <linearGradient id="bristle-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+                        <stop offset="0%" stopColor="#291002" />
+                        <stop offset="50%" stopColor="#5c2304" />
+                        <stop offset="100%" stopColor="#291002" />
+                    </linearGradient>
+                </defs>
+            </svg>
 
             <style>{`
 
@@ -316,23 +336,37 @@ const PaintBrushesIndex = ({ data, location }) => {
                         <div className="brush-preview-container" style={{ backgroundColor: 'var(--color-background)', border: '1px solid var(--color-secondary-accent)' }}>
                             <svg viewBox="0 0 100 300" style={{ width: '100%', height: '100%', overflow: 'visible' }}>
                                 {/* Ferrule */}
-                                <rect x="35" y="150" width="30" height="40" fill="#cbd5e1" stroke="var(--color-dark)" strokeWidth="2" />
-                                <line x1="35" y1="160" x2="65" y2="160" stroke="var(--color-dark)" strokeWidth="1" opacity="0.5" />
-                                <line x1="35" y1="180" x2="65" y2="180" stroke="var(--color-dark)" strokeWidth="1" opacity="0.5" />
+                                <g filter="drop-shadow(0px 2px 3px rgba(0,0,0,0.15))">
+                                    <rect x="35" y="150" width="30" height="40" fill="url(#ferrule-grad)" stroke="var(--color-dark)" strokeWidth="2" />
+                                    <line x1="35" y1="160" x2="65" y2="160" stroke="var(--color-dark)" strokeWidth="1" opacity="0.3" />
+                                    <line x1="35" y1="180" x2="65" y2="180" stroke="var(--color-dark)" strokeWidth="1" opacity="0.3" />
+                                </g>
 
                                 {/* Handle */}
-                                <path d="M35 190 L65 190 L60 300 L40 300 Z" fill="#b45309" stroke="var(--color-dark)" strokeWidth="2" />
+                                <g filter="drop-shadow(0px 2px 3px rgba(0,0,0,0.15))">
+                                    <path d="M35 190 L65 190 L60 300 L40 300 Z" fill="url(#handle-grad)" stroke="var(--color-dark)" strokeWidth="2" />
+                                </g>
 
                                 {/* Bristles changing based on shape */}
-                                <g className="brush-element">
+                                <g className="brush-element" filter="drop-shadow(0px 1px 2px rgba(0,0,0,0.2))">
                                     {activeShape === 'Round' && (
-                                        <path d="M35 150 Q50 50 50 10 Q50 50 65 150 Z" fill="#451a03" />
+                                        <g>
+                                            <path d="M35 150 Q50 50 50 10 Q50 50 65 150 Z" fill="url(#bristle-grad)" />
+                                            <path d="M48 150 Q50 80 50 15 Q50 80 52 150 Z" fill="#7a3007" opacity="0.6" />
+                                        </g>
                                     )}
                                     {activeShape === 'Flat' && (
-                                        <rect x="35" y="80" width="30" height="70" fill="#451a03" />
+                                        <g>
+                                            <rect x="35" y="80" width="30" height="70" fill="url(#bristle-grad)" />
+                                            <rect x="40" y="80" width="4" height="70" fill="#7a3007" opacity="0.4" />
+                                            <rect x="56" y="80" width="4" height="70" fill="#291002" opacity="0.3" />
+                                        </g>
                                     )}
                                     {activeShape === 'Filbert' && (
-                                        <path d="M35 150 L35 100 Q50 70 65 100 L65 150 Z" fill="#451a03" />
+                                        <g>
+                                            <path d="M35 150 L35 100 Q50 70 65 100 L65 150 Z" fill="url(#bristle-grad)" />
+                                            <path d="M48 150 L48 100 Q50 80 52 100 L52 150 Z" fill="#7a3007" opacity="0.6" />
+                                        </g>
                                     )}
                                 </g>
                             </svg>
