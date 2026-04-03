@@ -107,27 +107,67 @@ const ColorTheoryIndex = ({ data, location }) => {
     }, [hex])
 
     React.useEffect(() => {
-        // Draw color wheel
-        if (colorWheelRef.current) {
-            const canvas = colorWheelRef.current;
-            const ctx = canvas.getContext('2d');
-            const radius = canvas.width / 2;
+        const drawWheel = () => {
+            if (colorWheelRef.current) {
+                const canvas = colorWheelRef.current;
+                const ctx = canvas.getContext('2d');
+                const radius = canvas.width / 2;
 
-            ctx.clearRect(0, 0, canvas.width, canvas.height); // clear for good measure
+                const isBrowser = typeof document !== 'undefined';
+                const textColor = isBrowser ? getComputedStyle(document.body).getPropertyValue('--color-dark').trim() || '#0E1013' : '#0E1013';
+                const bgColor = isBrowser ? getComputedStyle(document.body).getPropertyValue('--color-background').trim() || '#efe8d8' : '#efe8d8';
 
-            for (let angle = 0; angle < 360; angle++) {
+                ctx.clearRect(0, 0, canvas.width, canvas.height); // clear for good measure
+
+                const segments = 12;
+                const angleStep = 360 / segments;
+
+                for (let i = 0; i < segments; i++) {
+                    const angle = i * angleStep;
+                    const startAngle = (angle - 90) * Math.PI / 180;
+                    const endAngle = (angle + angleStep - 90) * Math.PI / 180;
+
+                    ctx.beginPath();
+                    ctx.moveTo(radius, radius);
+                    ctx.arc(radius, radius, radius, startAngle, endAngle);
+                    ctx.closePath();
+                    ctx.fillStyle = `hsl(${angle + angleStep / 2}, 100%, 50%)`;
+                    ctx.fill();
+
+                    // Bold segment borders
+                    ctx.strokeStyle = textColor;
+                    ctx.lineWidth = 4;
+                    ctx.stroke();
+                }
+
+                // Retro inner cutout
                 ctx.beginPath();
-                ctx.moveTo(radius, radius);
-                ctx.arc(radius, radius, radius, (angle - 90) * Math.PI / 180, (angle - 88) * Math.PI / 180);
-                ctx.closePath();
-                ctx.fillStyle = `hsl(${angle}, 100%, 50%)`;
+                ctx.arc(radius, radius, radius * 0.3, 0, 2 * Math.PI);
+                ctx.fillStyle = bgColor;
                 ctx.fill();
+                ctx.strokeStyle = textColor;
+                ctx.lineWidth = 6;
+                ctx.stroke();
             }
+        };
 
-            ctx.beginPath();
-            ctx.arc(radius, radius, radius * 0.3, 0, 2 * Math.PI);
-            ctx.fillStyle = '#ffffff';
-            ctx.fill();
+        drawWheel();
+
+        // Re-draw when theme changes
+        const observer = new MutationObserver((mutations) => {
+            mutations.forEach((mutation) => {
+                if (mutation.attributeName === 'class') {
+                    setTimeout(drawWheel, 50);
+                }
+            });
+        });
+
+        if (typeof document !== 'undefined') {
+            observer.observe(document.body, { attributes: true });
+        }
+
+        return () => {
+            observer.disconnect();
         }
     }, [])
 
@@ -358,18 +398,23 @@ const ColorTheoryIndex = ({ data, location }) => {
                     margin: 0 auto;
                     border-radius: 50%;
                     overflow: hidden;
-                    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+                    border: 4px solid var(--color-dark);
                 }
                 .gamut-wheel {
                     background: conic-gradient(
                         from 90deg,
-                        hsl(0, 100%, 50%),
-                        hsl(60, 100%, 50%),
-                        hsl(120, 100%, 50%),
-                        hsl(180, 100%, 50%),
-                        hsl(240, 100%, 50%),
-                        hsl(300, 100%, 50%),
-                        hsl(360, 100%, 50%)
+                        hsl(15, 100%, 50%) 0deg 30deg,
+                        hsl(45, 100%, 50%) 30deg 60deg,
+                        hsl(75, 100%, 50%) 60deg 90deg,
+                        hsl(105, 100%, 50%) 90deg 120deg,
+                        hsl(135, 100%, 50%) 120deg 150deg,
+                        hsl(165, 100%, 50%) 150deg 180deg,
+                        hsl(195, 100%, 50%) 180deg 210deg,
+                        hsl(225, 100%, 50%) 210deg 240deg,
+                        hsl(255, 100%, 50%) 240deg 270deg,
+                        hsl(285, 100%, 50%) 270deg 300deg,
+                        hsl(315, 100%, 50%) 300deg 330deg,
+                        hsl(345, 100%, 50%) 330deg 360deg
                     );
                     width: 100%;
                     height: 100%;
@@ -472,17 +517,16 @@ const ColorTheoryIndex = ({ data, location }) => {
             <section id="beginner" style={{ marginBottom: 'var(--spacing-16)' }}>
                 <div>
                     <span className="ct-pill">Phase 01</span>
-                    <h2>Beginner: The Foundations</h2>
+                    <h2>Beginner: Anatomy of the Color Wheel</h2>
                     <p>Before we can manipulate color, we must organize it. The color wheel is the most basic tool for understanding how human vision categorizes the spectrum of light. This section introduces the core vocabulary needed to communicate visual ideas.</p>
                 </div>
 
                 <div className="ct-grid cols-2">
                     <div className="ct-card flex-col-center">
-                        <canvas ref={colorWheelRef} width="300" height="300" style={{ maxWidth: '100%', height: 'auto', borderRadius: '50%' }}></canvas>
-                        <p style={{ marginTop: 'var(--spacing-6)', fontSize: 'var(--fontSize-0)', fontWeight: 'bold' }}>Continuous HSL Spectrum</p>
+                        <canvas ref={colorWheelRef} width="300" height="300" style={{ maxWidth: '100%', height: 'auto', borderRadius: '50%', border: '4px solid var(--color-dark)' }}></canvas>
+                        <p style={{ marginTop: 'var(--spacing-6)', fontSize: 'var(--fontSize-0)', fontWeight: 'bold' }}>12-Step Retro HSL Wheel</p>
                     </div>
                     <div>
-                        <h3>Anatomy of the Wheel</h3>
                         <p>The standard color wheel maps the visible spectrum into a circle. By arranging colors this way, we can immediately see relationships and categories.</p>
 
                         <ul style={{ listStyleType: 'none', marginLeft: 0 }}>
@@ -578,7 +622,7 @@ const ColorTheoryIndex = ({ data, location }) => {
                             </div>
 
                             <div className="flex-col-center" style={{ marginTop: 'var(--spacing-4)' }}>
-                                <div className="ct-preview-box" style={{ backgroundColor: rgbString }}></div>
+                                <div className="ct-preview-box" style={{ backgroundColor: rgbString, border: '4px solid var(--color-dark)' }}></div>
                                 <div style={{ marginTop: 'var(--spacing-6)' }}>
                                     <label htmlFor="hexInput" className="sr-only" aria-label="Hex Color Key" style={{ display: 'none' }}>Hex Value</label>
                                     <input id="hexInput" type="text" className="mono-text hex-input" value={hexInput} onChange={handleHexChange} maxLength="7" />
@@ -798,10 +842,10 @@ const ColorTheoryIndex = ({ data, location }) => {
                         <div className="flex-col-center">
                             <div className="gamut-container">
                                 <div className="gamut-wheel"></div>
-                                {/* White center to simulate saturation dropping towards middle */}
-                                <div style={{ position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)', width: '30%', height: '30%', borderRadius: '50%', background: 'radial-gradient(circle, white 0%, transparent 100%)', opacity: 0.8 }}></div>
+                                {/* Center retro cutout to match first wheel */}
+                                <div style={{ position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)', zIndex: 1, width: '30%', height: '30%', borderRadius: '50%', background: 'var(--color-background)', border: '6px solid var(--color-dark)' }}></div>
 
-                                <svg className="gamut-overlay" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+                                <svg className="gamut-overlay" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg" style={{ zIndex: 2 }}>
                                     <defs>
                                         <mask id="gamutMask">
                                             <rect width="300" height="300" fill="white" />
@@ -812,6 +856,17 @@ const ColorTheoryIndex = ({ data, location }) => {
                                             />
                                         </mask>
                                     </defs>
+                                    {Array.from({ length: 12 }).map((_, i) => (
+                                        <line
+                                            key={`slice-${i}`}
+                                            x1="150"
+                                            y1="150"
+                                            x2={150 + 150 * Math.cos((i * 30 - 90) * Math.PI / 180)}
+                                            y2={150 + 150 * Math.sin((i * 30 - 90) * Math.PI / 180)}
+                                            stroke="var(--color-dark)"
+                                            strokeWidth="4"
+                                        />
+                                    ))}
                                     {/* The semi-transparent overlay that hides colors OUTSIDE the gamut */}
                                     <rect width="300" height="300" fill="var(--color-background)" opacity="0.85" mask="url(#gamutMask)" />
                                     {/* The border drawing the shape itself */}
