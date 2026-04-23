@@ -12,9 +12,9 @@ Dale Carnegie’s work is masterpiece of self-help and persuasive writing. Altho
 
 Dale Carnegie's writes and shares his big ideas broken down into 4 sections with each section consisting of several principles.
 
-### Part I: Fundamental Techniques in handling people
+**Part I: Fundamental Techniques in handling people**
 
-**Principle 1: Don't criticize, condemn or complain.**
+_Principle 1: Don't criticize, condemn or complain._
 - Ninety-nine times out of a hundred, people don't criticize themselves for anything, no matter how wrong it may be.
 - Criticism is dangerous, because it wound a person's precious pride, hurts the sense of importance, and arouses resentment.
 - B.F. Skinner experiment found animal rewarded for good behavior will learn much more rapidly and retain what it learns far more effectively than an animal punished for bad behavior.
@@ -26,7 +26,7 @@ Dale Carnegie's writes and shares his big ideas broken down into 4 sections with
 - Often parents are tempted to criticize their children. Before you criticize them, read one of the classics of American journalism, “Father Forgets.” It's about a father who realizes that he had only criticized his boy when the little boy was just doing his thing.
 - Instead of condemning people, try to understand them.
 
-**Principle 2: Give honest, sincere appreciation.**
+_Principle 2: Give honest, sincere appreciation._
 - Sigmund Freud said that everything that you and I do springs from two motives: the sex urge and the desire to be great.
 - John Dewey, one of America's most profound philosophers said that the deepest urge in human nature is the desire to be important.
 - Lincoln once began a letter saying: “Everybody likes a compliment.”
@@ -40,7 +40,7 @@ Dale Carnegie's writes and shares his big ideas broken down into 4 sections with
 - In the long run, flattery will do more harm than good. Flattery is counterfeit, and like counterfeit money, it will eventually get you into trouble if you pass it to someone else. The difference between flattery and appreciation is simple: one is sincere and the other is insincere, one comes with heart out and the other from teeth out, one is selfish and the other is unselfish and one is universally admired and the other is not.
 - Nothing pleases children more than the parental interest and approval.
 
-**Principle 3: Arouse in the other person as eager want.**
+_Principle 3: Arouse in the other person as eager want._
 - The only way on earth to influence other people is to talk about what they want and show them how to get it. If you don't want your children to smoke, don't preach at them, and don't talk what you want, but show them that how smoking can keep them from making the basketball team.
 - Why do people make donation to Red Cross? Because they want to feel good about themselves. If they had not wanted that feeling more than they wanted money, they would have not made the donation.
 - When people are dissatisfied with customer service, they last out at them. Instead of sympathizing with them, they threaten them. To resolve the issues you must understand the point of view of other side. Henry Ford said: “If there is any one secret of success, it lies in the ability to get the other person's point of view and see things from that person's angle as well as from your own.” 
@@ -51,15 +51,15 @@ Dale Carnegie's writes and shares his big ideas broken down into 4 sections with
 - Negotiation is not a zero-sum game. Each party should gain from negotiation.
 - Parents often make mistakes on understanding what their kids want.
 
-### Part II: Six ways to make people like you
+**Part II: Six ways to make people like you**
 
-**Principle 1: Become genuinely interested in people.**
+_Principle 1: Become genuinely interested in people._
 - Dog is the only animal that doesn't have to work for a living. A hen has to lay eggs, a cow has to give milk, and a canary has to sing. But a dog makes his living by giving nothing but love.
 - If the author doesn't like people, people won't like his or her stories.
 - Theodore Roosevelt greeted all the White House servants by name, even the scullery maids. When Roosevelt visited the White House after his term, the head usher said with tears: “It is the only happy day we had in nearly two years, and not one of us would exchange it for a hundred-dollar bill.”
 - If we want to make friends, let's greet people with animation and enthusiasm.
 
-**Principle 2: Smile.**
+_Principle 2: Smile._
 - Charles Schwab once said his smile had been worth a million bucks. A baby's smile has the same effect.
 - There's far more information in a smile than a frown. That's why encouragement is a much more effective teaching device than punishment.
 - You must have a good time meeting people if you expect them to have a good time meeting you.
@@ -68,7 +68,7 @@ Dale Carnegie's writes and shares his big ideas broken down into 4 sections with
 - Do not fear being misunderstood and do not waste a minute thinking about your enemies.
 - Chinese proverb: “A man without a smiling face must open a shop.” Your smile is a messenger of a good will.
 
-**Principle 3: Remember that a person's name is to that person the sweetest and most important sound in any language.**
+_Principle 3: Remember that a person's name is to that person the sweetest and most important sound in any language._
 - Jim Farley deliberately remembered everyone's name (50,000 people) that came across him. Why is he important? Because he was the campaign manager for Franklin D. Roosevelt. Without him, Roosevelt would've not made it to White House.
 - Farley discovered early in life that the average person is more interested in his or her own name than in all the other names on earth put together. 
 - You gain compliment when you recall someone's name, but you have a sharp disadvantage when you forget or misspell it.
@@ -79,18 +79,18 @@ Dale Carnegie's writes and shares his big ideas broken down into 4 sections with
 - Napoleon, the Thirds, Emperor of France deliberately remembered everyone's name. If he didn't catch the name, he would ask the person to repeat it again. He would even go one step further by asking how is it spelled. During the conversation, he would repeat the name several times and associate it with features, expression and general appearance for easy recall.
 - Remembering names takes time and that is why many don't do it. Emerson said: “Good manners are made up of petty sacrifices.”
 
-**Principle 4: Be a good listener. Encourage others to talk about themselves.**
+_Principle 4: Be a good listener. Encourage others to talk about themselves._
 - How to have an interesting conversation? Listen intently with genuine interest.
 - Harvard president, Charles W.Eliot once said: “There is no mystery about successful business intercourse....Exclusive attention to the person who is speaking to you is very important. Nothing else is so flattering as that.” You don't have to study for four years in Harvard to discover that.
 - Listening is not silence, but an activity by listening attentively, patiently waiting for your turn and not letting the temptation of interrupting kick in. This allows the other person to get into receptive mood.
 - Lincoln would invite his neighbor from Springfield to DC just so his neighbor could listen. This was Lincoln's way of saying things out loud by doing all the talking himself.
 - Isaac F. Marcosson, a journalist who interviewed hundreds of celebrities thought many people fail to make a favorable impression because they don't listen attentively. They are concerned with what they are going to say next that they do not keep their ears open.
 
-**Principle 5: Talk in terms of other person's interest.**
+_Principle 5: Talk in terms of other person's interest._
 - Roosevelt knew that all leaders royal road to people's heart is to talk about the things he or she treasures most.
 - Whenever Roosevelt expected a visitor, he sat up late the night before, reading up on the subject in which he knew his guest was particularly interested.
 
-**Principle 6: Make other person feel important-and do it sincerely.**
+_Principle 6: Make other person feel important-and do it sincerely._
 - One should never make someone important so they can something back in return.
 - By being selfish we will never radiate a little happiness and pass on a bit honest appreciation without trying to get something out of the other person in return-if our souls are no bigger than sour crab apples, we shall meet with the failure we so richly deserve.
 - Carry out an act of kindness and sincere heartful appreciation because of wanting something priceless.
@@ -103,9 +103,9 @@ Dale Carnegie's writes and shares his big ideas broken down into 4 sections with
 - This principle is applicable to elderly folks. In the isolated loneliness of old age, an elderly will crave a little human warmth, a sincere appreciation.
 - Talk to people about themselves and they will listen for hours.
 
-### Part III. How to win people to your way of thinking
+**Part III. How to win people to your way of thinking**
 
-**Principle 1: The only way to get the best of an argument is to avoid it.**
+_Principle 1: The only way to get the best of an argument is to avoid it._
 - Why argue with someone who has not asked for your opinion? Always avoid arguments because that is the only way to high heaven.
 - Ben Franklin said: “If you argue and rankle and contradict, you may achieve a victory sometimes; but it will be an empty victory because you will never get your opponent's goodwill.
 - One argues because the person wants the feeling of importance by loudly asserting his or her authority.
@@ -123,7 +123,7 @@ Dale Carnegie's writes and shares his big ideas broken down into 4 sections with
     - Postpone action to give both sides time to think through the problem.
 - When two people yell, there is no communication, just noise and vibrations. So one should listen when the other yells. A very sound advice for married couple.
 
-**Principle 2: Show respect for the other person's opinions. Never say, “You're wrong.”**
+_Principle 2: Show respect for the other person's opinions. Never say, “You're wrong.”_
 - Don't argue with your customer or your spouse or your adversary. Don't tell them they are wrong, don't get them stirred up. Use diplomacy.
 - Benjamin Franklin conquered diplomacy by forbearing all direct contradiction to the sentiment of others, and all positive assertion of his own.
 - When we are wrong, we admit it to ourselves. And, if handled gently and tactfully, we may admit it to others and even take pride in our frankness and open-mindedness.
@@ -134,42 +134,42 @@ Dale Carnegie's writes and shares his big ideas broken down into 4 sections with
 - Socrates said: “One thing only I know, and that is I know nothing.” Well none of us are smarter than Socrates so quit telling people they are wrong.
 - Galielo once said: “You cannot teach a man anything; you can only help him to find it within himself.”
 
-**Principle 3: If you are wrong, admit it quickly and emphatically.**
+_Principle 3: If you are wrong, admit it quickly and emphatically._
 - “If you are wrong, admit it quickly and emphatically.” - Dale Carnegie
 - “By fighting you never get enough, but by yielding you get more than you expected.”
 
-**Principle 4: Begin a friendly way.**
+_Principle 4: Begin a friendly way._
 - If your temper is aroused and you tell them a thing or two, you will have a fine time unloading your feelings. But what about the other person? Will he share your pleasure? Will your belligerent tones, your hostile attitude, make it easy for him to agree with you?
 - Lincoln said: “It is an old and true maxim that a drop of honey catches more flies than a gallon of gall. So with men, if you would win a man to your cause, first convince him that you are his sincere friend. There in a drop of honey that catches his heart; which, say what you will, is the great high road to his reason.”
 
-**Principle 5: Get the other person saying “yes” “yes” immediately.**
+_Principle 5: Get the other person saying “yes” “yes” immediately._
 - In talking with people, don't begin by discussing the things on which you differ. Begin by emphasizing–the things on which you agree. The flow of “yes” at the outset will keep your opponent from possibly saying  “no.”
 - Socrates was one of the wisest persuaders because he got everyone around him to say yes. Getting people to say yes from the outset is now called the “Socratic Method.” He kept on asking questions until his opponents agreed without even realizing it.
 - Chinese proverb: “He who treads softly goes far.”
 
-**Principle 6: Let the other person do a great deal of the talking.**
+_Principle 6: Let the other person do a great deal of the talking._
 - Most people trying to win others to their way of thinking do too much talking themselves. Let the other people talk themselves out. They know more about their business and problems than you do. So ask them questions. Let them tell you a few things.
 
-**Principle 7: Let the other person feel that the idea is his or hers.**
+_Principle 7: Let the other person feel that the idea is his or hers._
 - Consulting people about their wishes and desires will give them the boost they much needed.
 
-**Principle 8: Try honestly to see things from the other person's point of view.**
+_Principle 8: Try honestly to see things from the other person's point of view._
 - Remember that other people may be totally wrong. But they don't think so. Don't condemn them. Any fool can do that. Try to understand them. Only wise, tolerant, exceptional people even try to do that.
 - Always think in term of the other person's point of view, and see things from that person's angle as well as your own.
 
-**Principle 9: Be sympathetic with other people's ideas and desires.**
+_Principle 9: Be sympathetic with other people's ideas and desires._
 - Being sympathetic will stop arguments, eliminate ill feeling, create good will and make other person listen attentively.
 - Ever wondered why children display their injury eagerly? It is because sympathy the human species universally craves. Self-pity is true for adults as well but being sympathetic will earn you a good will.
 
-**Principle 10: Appeal to the nobler motives.**
+_Principle 10: Appeal to the nobler motives._
 - When no information can be secured about the other person, the only sound basis on which to proceed is to assume that he or she is sincere and honest.
 - So, in order to change people, appeal to the nobler motives.
 
-**Principle 11: Dramatize your ideas.**
+_Principle 11: Dramatize your ideas._
 - To engage others and make them intensely interested, use dramatization.
 - Merely stating a truth isn't enough. The truth has to be more vivid, interesting, dramatic. You have to use showmanship. The movies do it. Television does it. And you will have to do it too if you want attention.
 
-**Principle 12: Throw down a challenge.**
+_Principle 12: Throw down a challenge._
 - When being challenged to meet goals, gamify the process.
 - Charles Schwab said: “The way to get things done is to stimulate competition. I do not mean in a sordid, money-getting way, but in the desire to excel.”
 - The desire to excel is faced by challenge. An infallible way of appealing to people of spirit.
@@ -177,7 +177,7 @@ Dale Carnegie's writes and shares his big ideas broken down into 4 sections with
 - The one major factor that motivated people was the work itself. If the work looked interesting, the worker looked forward to it. It is not the money or benefits that is a motivating factor, it is the interesting work that keeps one engaged and challenged.
 - The game in itself is loved by successful people. The chance for self-expression, the chance to prove his or her self-worth, to excel, to win. The desire to excel. The desire for feeling of importance.
 
-### Part IV. Be a leader: how to change people without giving offense or arousing resentment
+**Part IV. Be a leader: how to change people without giving offense or arousing resentment**
 
 - Principle 1: Begin with praise and honest appreciation.
 - Principle 2: Call attention to people's mistakes indirectly.

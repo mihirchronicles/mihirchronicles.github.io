@@ -31,14 +31,14 @@ McPhee is an American writer. He is considered one of the pioneers of creative n
 - I’d much rather watch people do what they do than talk to them across a desk.
 - Another mantra, which I still write in chalk on the blackboard, is “A Thousand Details Add Up to One Impression.” It’s actually a quote from Cary Grant.
 - Sometimes in a nervous frenzy I just fling words as if I were flinging mud at a wall. Blurt out, heave out, babble out something-anything-as a first draft.
-- Writers come in two principal categories -- those who are overtly insecure and those who are covertly insecure.
+- Writers come in two principal categories - those who are overtly insecure and those who are covertly insecure.
 - A lead is good not because it dances, fires cannons, or whistles like a train but because it is absolute to what follows.
 - Writing is selection. Just to start a piece of writing you have to choose one word and only one from more than a million in the language. Now keep going. What is your next word?
 - For nonfiction projects, ideas are everywhere. They just go by in a ceaseless stream.
 - The dictionary definitions of words you are trying to replace are far more likely to help you out than a scattershot wad from a thesaurus.
 - If you lack confidence in setting one word after another and sense that you are stuck in a place from which you will never be set free, if you feel sure that you will never make it and were not cut out to do this, if your prose seems stillborn and you completely lack confidence, you must be a writer. If you say you see things differently and describe your efforts positively, if you tell people that you “just love to write,” you may be delusional. How could anyone ever know that something is good before it exists?” And unless you can identify what is not succeeding-unless you can see those dark clunky spots that are giving you such a low opinion of your prose as it develops-how are you going to be able to tone it up and make it work?
 - “Norman Maclean called A River Runs Through It fiction, and the word “fiction” appeared in the book’s front matter. A River Runs Through It was autobiographical fact in nearly all aspects but one. For private reasons, the author had shifted the site of his brother’s murder and, being Norman Maclean, considered that change and others quite enough fabrication to disqualify the text as nonfiction.” 
-- It is possible in managing a quote--not to say manipulating a quote--to present something that is both verbatim and false.
+- It is possible in managing a quote - not to say manipulating a quote - to present something that is both verbatim and false.
 - When you have writer’s block. You write, ‘Dear Mother.’ And then you tell your mother about the block, the frustration, the ineptitude, the despair.
 - The way to do a piece of writing is three or four times over, never once. For me, the hardest part comes first, getting something–anything–out in front of me. 
 - You select what goes in and you decide what stays out. At base you only have one criterion: If something interests you, it goes in–if not, it stays out. 

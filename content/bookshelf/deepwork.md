@@ -10,29 +10,25 @@ Cal Newport’s Deep Work is about the benefits of deep work and practical steps
 
 ## II. Big Ideas
 
-### Deep Work vs Shallow Work:
-- Deep Work: Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit.
-- Shallow Work: Non-cognitively demanding, logistical-style tasks, often performed while distracted. These efforts tend to not create much new value in the world and are easy to replicate book assumes network tools negatively impact deep work.
-
-**High quality work = Time spent * Intensity of focus**
-
-### Philosophies to integrating deep work:
-- Monastic – attempts to maximize deep efforts by eliminating or radically minimizing shallow obligations.
-- Bimodal – seek to eliminate distraction / shallowness only during certain times. During the deep time, work monastically. The minimum time to dedicate is a day.
-- Rhythmic – argues that the easiest way to consistently start deep work sessions is to transform them into a simple regular habit.
-- Journalistic – you fit deep work wherever you can into your schedule.
-
-### Four disciplines for developing deep work habits:
-- Focus on the wildly important – identify a small number of ambitious outcomes to pursue with your hours.
-- Act on the lead measures – lag measures: describe the thing you’re trying to improve. Lead measures: the new behaviors that will drive success on the lag measures. Focus on lead measures and lag measures will follow.
-- Keep a compelling scoreboard – create a sense of competition that drives you to focus on these measures.
-- Create a cadence of accountability – confront your scoreboard and commit to specific actions to help improve.
-
-### There are 4 rules to follow if you want to do deep work:
-- Work Deeply
-- Embrace Boredom
-- Quit Social Media
-- Drain the Shallows
+- Deep Work vs Shallow Work:
+    - Deep Work: Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit.
+    - Shallow Work: Non-cognitively demanding, logistical-style tasks, often performed while distracted. These efforts tend to not create much new value in the world and are easy to replicate book assumes network tools negatively impact deep work.
+- High quality work = Time spent * Intensity of focus
+- Philosophies to integrating deep work:
+    - Monastic - attempts to maximize deep efforts by eliminating or radically minimizing shallow obligations.
+    - Bimodal - seek to eliminate distraction / shallowness only during certain times. During the deep time, work monastically. The minimum time to dedicate is a day.
+    - Rhythmic - argues that the easiest way to consistently start deep work sessions is to transform them into a simple regular habit.
+    - Journalistic - you fit deep work wherever you can into your schedule.
+- Four disciplines for developing deep work habits:
+    - Focus on the wildly important - identify a small number of ambitious outcomes to pursue with your hours.
+    - Act on the lead measures - lag measures: describe the thing you’re trying to improve. Lead measures: the new behaviors that will drive success on the lag measures. Focus on lead measures and lag measures will follow.
+    - Keep a compelling scoreboard - create a sense of competition that drives you to focus on these measures.
+    - Create a cadence of accountability - confront your scoreboard and commit to specific actions to help improve.
+- There are 4 rules to follow if you want to do deep work:
+    - Work Deeply
+    - Embrace Boredom
+    - Quit Social Media
+    - Drain the Shallows
 
 ## III. Quotes
 

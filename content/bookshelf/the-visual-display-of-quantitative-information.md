@@ -10,13 +10,10 @@ path: "/bookshelf/visual-display-of-quantitative-information"
 
 ## II. Big Ideas
 
-- Data graphics visually display measured quantities by means of
-1the combined use of points, lines, a coordinate system, numbers, symbols, words, shading, and color. The diversity of skills required to build a graph - the visual-artistic, empirical-statistical, and mathematical. 
+- Data graphics visually display measured quantities by means of the combined use of points, lines, a coordinate system, numbers, symbols, words, shading, and color. The diversity of skills required to build a graph - the visual-artistic, empirical-statistical, and mathematical. 
 - It was not until 1750-1800 that statistical graphics, length and area to show quantity, time-series, scatter-plots, and multivariate displays were invented. The remarkable William Playfair (1759-1823) developed or improved upon nearly all the fundamental graphical designs, seeking to replace conventional tables of numbers with the systematic visual representations of his linear arithmetic.
 - Often the most effective way to describe, explore, and summarize a set of numbers even a very large set is to look at pictures of those numbers. Furthermore, of all methods for analyzing and communicating statistical information, well-designed data graphics are usually the simplest and at the same time the most powerful. 
-- EXCELLENCE in statistical graphics consists of complex ideas
-communicated with clarity, precision, and efficiency. Graphical
-displays should:
+- EXCELLENCE in statistical graphics consists of complex ideas communicated with clarity, precision, and efficiency. Graphical displays should:
     - show the data
     - induce the viewer to think about the substance rather than about methodology, graphic design, the technology of graphic production, or something else
     - avoid distorting what the data have to say
@@ -26,8 +23,7 @@ displays should:
     - reveal the data at several levels of detail, from a broad overview to the fine structure
     - serve a reasonably clear purpose: description, exploration, tabulation, or decoration
     - be closely integrated with the statistical and verbal descriptions of a data set.
-- The problem with time-series is that the simple passage of time is not a good explanatory variable: descriptive chronology is not causal explanation. There are occasional exceptions, especially when
-there is a clear mechanism that drives the Y-variable.
+- The problem with time-series is that the simple passage of time is not a good explanatory variable: descriptive chronology is not causal explanation. There are occasional exceptions, especially when there is a clear mechanism that drives the Y-variable.
 - Principles of Graphical Excellence:
     - Graphical excellence is the well-designed presentation of interesting data a matter of substance, of statistics, and of design.
     - Graphical excellence consists of complex ideas communicated with clarity, precision, and efficiency.
@@ -35,8 +31,7 @@ there is a clear mechanism that drives the Y-variable.
     - Graphical excellence is nearly always multivariate. 
     - Graphical excellence requires telling the truth about the data.
 - Tables usually outperform graphics in reporting on small data sets of 20 numbers or less.
-- Graphical integrity is more likely to result if these six principles
-are followed:
+- Graphical integrity is more likely to result if these six principles are followed:
     - The representation of numbers, as physically measured on the surface of the graphic itself, should be directly proportional to the numerical quantities represented.
     - Clear, detailed, and thorough labeling should be used to defeat graphical distortion and ambiguity. Write out explanations of the data on the graphic itself. Label important events in the data.
     - Show data variation, not design variation.
@@ -48,7 +43,7 @@ are followed:
     - lie
     - employ only the simplest designs, often unstandardized time-series based on a small handful of data points
     - miss the real news actually in the data.
-- How can graphic mediocrity be remedied? These doctrines blame the victims (the audience and the data rather than the perpetrators. Graphical competence demands three quite different skills: the substantive, statistical, and artistic. Yet now most graphical work, particularly at news publications, is under the direction of but a single expertise--the artistic. Allowing artist-illustrators to control the design and content of statistical graphics is almost like allowing typographers to control the content, style, and editing of prose. 
+- How can graphic mediocrity be remedied? These doctrines blame the victims (the audience and the data rather than the perpetrators. Graphical competence demands three quite different skills: the substantive, statistical, and artistic. Yet now most graphical work, particularly at news publications, is under the direction of but a single expertise - the artistic. Allowing artist-illustrators to control the design and content of statistical graphics is almost like allowing typographers to control the content, style, and editing of prose. 
 - Five principles in the theory of data graphics produce substantial changes in graphical design. The principles apply to many graphics and yield a series of design options through cycles of graphical revision and editing:
     - Above all else, show the data.
     - Maximize the data-ink ratio.
@@ -87,7 +82,7 @@ are followed:
 - As to the propriety and justness of representing sums of money, and time, by parts of space, tho' very readily agreed to by most men, yet a few seem to apprehend that there may possibly be some deception in it, of which they are not aware. - William Playfair, The Commercial and Political Atlas (London, 1786)
 - Different people see the same areas somewhat differently; perceptions change with experience; and perceptions are context-different.
 - Misperception and miscommunication are certainly not special to statistical graphics.
-- Why do artists draw graphics that lie? Why do the world's major newspaper and magazines publish them?...Lurking behind the inept graphic is a lack of judgment about quantitative evidence, Nearly all those who produce graphics for mass publication are trained exclusively in the fine arts and have had little experience with the analysis of data. Such experience is essential for achieving precision and grace in the presence of statistics, but even textbooks of graphical design are silent on how to think about numbers. Illustrators too often see their work as an exclusively artistic enterprise--the words "creative," "concept," and "style" combine regularly in all possible permutations, a Big Think jargon for the small task of constructing a time-series a few data points long. Those who get ahead are those who beautify data, never mind statistical integrity.
+- Why do artists draw graphics that lie? Why do the world's major newspaper and magazines publish them?...Lurking behind the inept graphic is a lack of judgment about quantitative evidence, Nearly all those who produce graphics for mass publication are trained exclusively in the fine arts and have had little experience with the analysis of data. Such experience is essential for achieving precision and grace in the presence of statistics, but even textbooks of graphical design are silent on how to think about numbers. Illustrators too often see their work as an exclusively artistic enterprise - the words "creative," "concept," and "style" combine regularly in all possible permutations, a Big Think jargon for the small task of constructing a time-series a few data points long. Those who get ahead are those who beautify data, never mind statistical integrity.
 - The doctrine of boring data serves political ends, helping to advance certain interests over others in bureaucratic struggles for control of a publication's resources. For if the numbers are dull dull dull, then an artist, indeed many artists, indeed an Art Department and an Art Director are required to animate the data, lest the eyes of the audience glaze over. Thus the doctrine encourages placing data graphics under control of artists rather than in the hands of those who write the words and know the substance. As the art bureaucracy grows, style replaces content. And the word people, having lost space in the publication to data decorators, console themselves with thoughts that statistics are really rather tedious anyway.
 - If the statistics are boring, then you've got the wrong numbers. Finding the right numbers requires as much specialized skill- statistical skill-and hard work as creating a beautiful design or covering a complex news story.
 - Many believe that graphical displays should divert and entertain those in the audience who find the words in the text too difficult.

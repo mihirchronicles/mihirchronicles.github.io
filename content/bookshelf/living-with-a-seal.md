@@ -10,7 +10,6 @@ This was laugh-out-loud funny, and inspiring. Jesse Itlzer is someone who I idol
 
 ## II. Big Ideas
 
-Jesse Itlzer writes-
 - Pre-SEAL I sometimes would be on the couch and not want to do whatever needed to be done and I’d be like “Fuck it,” and blow it off. Procrastinate.
 - He was taught that if you have a job to do, you do it with 120 percent effort. I have been operating under the assumption that if someone that works for me does something 80 percent of the way I would do it, that’s enough.
 - One of the best things about having SEAL as your “Spirit Animal” is that you can take him everywhere you go.

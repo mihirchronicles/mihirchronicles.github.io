@@ -12,8 +12,7 @@ This book was recommended by Robert Ultimo, professor at Feltre School. Being Lo
 
 The book is divided into 5 sections.
 
-### Part One-Preparing the Mind for Logic
-This section talks about the preparations we need to make in order to think and reason well.
+**Part One-Preparing the Mind for Logic**. This section talks about the preparations we need to make in order to think and reason well.
 * Facts-objective facts of the external world.
 * Ideas-are the "representations" of the objective facts.
 * Mind-ours and those of others.
@@ -21,16 +20,14 @@ This section talks about the preparations we need to make in order to think and 
 * Statements-are propositions which are the building blocks of logic.
 * Knowledge-consists of objective facts, ideas and words.
 
-### Part Two-The Basic Principles of Logic
-This section talks about the principles of logic that governs logical thinking. First principles are self-evident and cannot be proven like an an axiom that cannot be deduced from any other within a system.
+**Part Two-The Basic Principles of Logic**. This section talks about the principles of logic that governs logical thinking. First principles are self-evident and cannot be proven like an an axiom that cannot be deduced from any other within a system.
 
 * The principle of identity.
 * The principle of the excluded middle.
 * The principle of sufficient reason.
 * The principle of contradiction or non-contradiction.
 
-### Part Three-Argument: The Language of Logic
-An argument is basically the linguistic expression of logical thinking. It is a claim that is justified by reasons and/or evidences. It has two elements:
+**Part Three-Argument: The Language of Logic**. An argument is basically the linguistic expression of logical thinking. It is a claim that is justified by reasons and/or evidences. It has two elements:
 * Premises (major and/or minor)
 * And a conclusion
 
@@ -48,11 +45,9 @@ Logic is both science and art. Arguments have two purposes:
 * To produce true conclusions (science).
 * To persuade people using story-telling (art).
 
-### Part Four-The Sources of Illogical Thinking
-This section talks about attitude that must be avoided for any irrational thinking. Emotions or perception can influence reasoning or negatively affect reasoning when an objective goal is to search for truth.
+**Part Four-The Sources of Illogical Thinking**. This section talks about attitude that must be avoided for any irrational thinking. Emotions or perception can influence reasoning or negatively affect reasoning when an objective goal is to search for truth.
 
-### Part Five-The Principal Forms of Illogical Thinking
-This section lists logical fallacies. There are two categories of logical fallacies, the formal and the informal logical fallacy.
+**Part Five-The Principal Forms of Illogical Thinking**. This section lists logical fallacies. There are two categories of logical fallacies, the formal and the informal logical fallacy.
 
 * Formal logical fallacies are mistakes that involve the “form” or “structure” of the argument.
 * Informal logical fallacies are mistakes that a person commits when, instead of addressing his opponent's argument, he diverts his or the audience's attention.
