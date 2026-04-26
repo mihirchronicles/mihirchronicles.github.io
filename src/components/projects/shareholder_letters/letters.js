@@ -1,14 +1,10 @@
 import React from "react"
-import { graphql } from "gatsby"
-import Layout from "../../../components/layout"
-import Seo from "../../../components/seo"
 
 import lettersData from "./letters_data.json"
 
 const letters = lettersData.letters
 
-const LettersIndex = ({ data, location }) => {
-    const siteTitle = data.site.siteMetadata?.title || `Title`
+const LettersIndex = ({ location }) => {
     const [activeIdx, setActiveIdx] = React.useState(0)
 
     const total = letters.length
@@ -40,8 +36,8 @@ const LettersIndex = ({ data, location }) => {
     }
 
     return (
-        <Layout location={location} title={siteTitle}>
-            <Seo title="Shareholder Letters: Wisdom from the Elite" />
+        <>
+
 
             <style>{`
                 /* Card stack - desktop: absolute stacking; mobile: single card in flow */
@@ -71,7 +67,6 @@ const LettersIndex = ({ data, location }) => {
             `}</style>
 
             <header style={{ textAlign: 'left', marginBottom: 'var(--spacing-16)' }}>
-                <h1 className="main-heading">Shareholder Letters</h1>
                 <p className="ct-responsive-header-text">
                     An interactive guide to the most influential shareholder letters and memos. Learn about capital allocation, long-term thinking, risk, and leadership from the world's finest operators and investors.
                 </p>
@@ -97,12 +92,12 @@ const LettersIndex = ({ data, location }) => {
                         return (
                             <div key={L.id} className={`letter-card-item letter-card-offset-${offset}`} style={cardStyle(offset)}>
                                 <div className="letter-card-inner" style={{ display: 'flex', gap: 'var(--spacing-8)', padding: 'var(--spacing-8)', boxSizing: 'border-box', height: '100%' }}>
-                                    
+
                                     {/* Author column */}
                                     <div className="author-info-wrap" style={{ width: '220px', minWidth: '220px', flexShrink: 0, borderRight: '2px dashed var(--color-secondary-accent)', paddingRight: 'var(--spacing-6)' }}>
                                         <h2 style={{ fontSize: 'var(--fontSize-4)', marginTop: 0, marginBottom: 'var(--spacing-1)' }}>{L.author}</h2>
                                         <p style={{ fontWeight: 'bold', margin: '0 0 var(--spacing-4) 0', color: 'var(--color-primary-accent)' }}>{L.company}</p>
-                                        
+
                                         <div style={{ marginBottom: 'var(--spacing-4)' }}>
                                             <span style={{ fontSize: '0.75rem', fontWeight: 'bold', textTransform: 'uppercase', letterSpacing: '0.05em', opacity: 0.6 }}>Core Focus</span>
                                             <p style={{ margin: 'var(--spacing-1) 0 0 0', fontWeight: 'bold' }}>{L.focus}</p>
@@ -111,7 +106,7 @@ const LettersIndex = ({ data, location }) => {
                                         <p style={{ fontSize: 'var(--fontSize-0)', opacity: 0.9, lineHeight: 1.5 }}>
                                             {L.description}
                                         </p>
-                                        
+
                                         <div style={{ marginTop: 'var(--spacing-4)' }}>
                                             <a href={L.sourceLink} target="_blank" rel="noopener noreferrer" style={{ fontSize: 'var(--fontSize-0)', fontWeight: 'bold' }}>
                                                 Read Source Letters &rarr;
@@ -159,23 +154,14 @@ const LettersIndex = ({ data, location }) => {
                     </div>
                     <button onClick={goNext} className="ct-button" aria-label="Next">Next &rarr;</button>
                 </div>
-                
+
                 <p style={{ textAlign: 'center', marginTop: 'var(--spacing-4)', fontSize: 'var(--fontSize-0)' }} className="mono-text nav-counter-desktop">
                     {activeIdx + 1} / {total}
                 </p>
             </section>
-        </Layout>
+        </>
     )
 }
 
 export default LettersIndex
 
-export const pageQuery = graphql`
-  query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-  }
-`

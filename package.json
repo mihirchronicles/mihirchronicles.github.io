@@ -7,11 +7,13 @@
   "dependencies": {
     "@fontsource/merriweather": "^4.5.14",
     "@fontsource/montserrat": "^4.5.14",
+    "@mdx-js/react": "^2.0.0",
     "gatsby": "^5.16.1",
     "gatsby-plugin-feed": "^5.16.0",
     "gatsby-plugin-google-gtag": "^5.16.0",
     "gatsby-plugin-image": "^3.16.0",
     "gatsby-plugin-manifest": "^5.16.0",
+    "gatsby-plugin-mdx": "^5.16.0",
     "gatsby-plugin-sharp": "^5.16.0",
     "gatsby-remark-autolink-headers": "^6.16.0",
     "gatsby-remark-images": "^7.16.0",
@@ -29,9 +31,16 @@
   "overrides": {
     "babel-plugin-lodash": {
       "@babel/types": "~7.20.0"
-    }
+    },
+    "tar": ">=6.2.1",
+    "serialize-javascript": ">=6.0.2",
+    "trim": ">=0.0.3",
+    "sharp": ">=0.33.2",
+    "ws": ">=8.17.1",
+    "shell-quote": ">=1.7.3"
   },
   "devDependencies": {
+    "ajv": "^8.20.0",
     "gh-pages": "^5.0.0",
     "patch-package": "^8.0.1",
     "prettier": "^2.8.3",

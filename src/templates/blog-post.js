@@ -1,15 +1,18 @@
 import * as React from "react"
-import { Link, graphql } from "gatsby"
+import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
 const BlogPostTemplate = ({
-  data: { previous, next, site, markdownRemark: post },
+  data: { previous, previousMdx, next, nextMdx, site, markdownRemark, mdx },
   location,
+  children
 }) => {
+  const post = markdownRemark || mdx
   const siteTitle = site.siteMetadata?.title || `Title`
-  const hasToc = post.tableOfContents && post.tableOfContents.length > 0;
+  const hasToc = post.tableOfContents && post.tableOfContents.length > 0; // mdx toc is an object, markdownRemark toc is string. For mdx we might need to adjust this later if needed. For now let's just do truthy check or use mdx toc.items length
+  const isMdx = !!mdx;
 
   /* Active State Tracking */
   React.useEffect(() => {
@@ -64,10 +67,16 @@ const BlogPostTemplate = ({
             <p>{post.frontmatter.date}</p>
             <hr></hr>
           </header>
-          <section
-            dangerouslySetInnerHTML={{ __html: post.html }}
-            itemProp="articleBody"
-          />
+          {isMdx ? (
+            <section itemProp="articleBody">
+              {children}
+            </section>
+          ) : (
+            <section
+              dangerouslySetInnerHTML={{ __html: post.html }}
+              itemProp="articleBody"
+            />
+          )}
           <footer>
           </footer>
         </article>
@@ -102,7 +111,8 @@ const BlogPostTemplate = ({
   )
 }
 
-export const Head = ({ data: { markdownRemark: post } }) => {
+export const Head = ({ data: { markdownRemark, mdx } }) => {
+  const post = markdownRemark || mdx;
   return (
     <Seo
       title={post.frontmatter.title}
@@ -135,6 +145,15 @@ export const pageQuery = graphql`
         description
       }
     }
+    mdx(id: { eq: $id }) {
+      id
+      excerpt(pruneLength: 160)
+      frontmatter {
+        title
+        date(formatString: "MMMM DD, YYYY")
+        description
+      }
+    }
     previous: markdownRemark(id: { eq: $previousPostId }) {
       fields {
         slug
@@ -143,7 +162,23 @@ export const pageQuery = graphql`
         title
       }
     }
+    previousMdx: mdx(id: { eq: $previousPostId }) {
+      fields {
+        slug
+      }
+      frontmatter {
+        title
+      }
+    }
     next: markdownRemark(id: { eq: $nextPostId }) {
+      fields {
+        slug
+      }
+      frontmatter {
+        title
+      }
+    }
+    nextMdx: mdx(id: { eq: $nextPostId }) {
       fields {
         slug
       }

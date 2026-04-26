@@ -6,7 +6,7 @@ import mehere from '../images/mehere.png'
 
 const Layout = ({ location, title, children, isBlogPost = false }) => {
   const rootPath = `${__PATH_PREFIX__}/`
-  const isRootPath = location.pathname === rootPath
+  const isRootPath = location?.pathname === rootPath
 
   let
     header = (

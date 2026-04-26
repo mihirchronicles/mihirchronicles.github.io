@@ -1,11 +1,6 @@
 import * as React from "react"
-import { graphql } from "gatsby"
 
-import Layout from "../../../components/layout"
-import Seo from "../../../components/seo"
-
-const ColorTheoryIndex = ({ data, location }) => {
-    const siteTitle = data.site.siteMetadata?.title || `Title`
+const ColorTheoryIndex = ({ location }) => {
 
     // States for intermediate section
     const [h, setH] = React.useState(180)
@@ -175,6 +170,14 @@ const ColorTheoryIndex = ({ data, location }) => {
     React.useEffect(() => {
         let chartCheckInterval;
 
+        if (typeof window !== 'undefined' && !document.getElementById('chartjs-script')) {
+            const script = document.createElement('script');
+            script.id = 'chartjs-script';
+            script.src = 'https://cdn.jsdelivr.net/npm/chart.js';
+            script.async = true;
+            document.head.appendChild(script);
+        }
+
         const initChart = () => {
             if (window.Chart && rgbChartRef.current && !chartInstance.current) {
                 const chartCtx = rgbChartRef.current.getContext('2d');
@@ -263,7 +266,7 @@ const ColorTheoryIndex = ({ data, location }) => {
     }, [rgb])
 
     return (
-        <Layout location={location} title={siteTitle}>
+        <>
             <style>{`
 
 
@@ -503,7 +506,6 @@ const ColorTheoryIndex = ({ data, location }) => {
             `}</style>
 
             <header style={{ textAlign: 'left', marginBottom: 'var(--spacing-16)' }}>
-                <h1 className="main-heading">Interaction Of Color</h1>
                 <p className="ct-responsive-header-text">
                     A journey from the fundamental physics of light to the psychological illusions of human perception. Inspired by the teachings of Josef Albers, explore how colors behave, interact, and fool our eyes.
                 </p>
@@ -889,38 +891,9 @@ const ColorTheoryIndex = ({ data, location }) => {
                 </div>
             </section>
 
-        </Layout>
+        </>
     )
 }
 
 export default ColorTheoryIndex
 
-export const Head = () => (
-    <>
-        <Seo title="Interaction of Color: A Digital Exploration" />
-        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    </>
-)
-
-export const pageQuery = graphql`
-  {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-    allMarkdownRemark(sort: { frontmatter: { date: DESC } }) {
-      nodes {
-        excerpt
-        fields {
-          slug
-        }
-        frontmatter {
-          date(formatString: "MMMM DD, YYYY")
-          title
-          description
-        }
-      }
-    }
-  }
-`

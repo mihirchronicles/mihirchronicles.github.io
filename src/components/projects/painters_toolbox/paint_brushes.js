@@ -1,11 +1,9 @@
 import * as React from "react"
-import { graphql } from "gatsby"
 
-import Layout from "../../../components/layout"
-import Seo from "../../../components/seo"
 
-const PaintBrushesIndex = ({ data, location }) => {
-    const siteTitle = data.site.siteMetadata?.title || `Title`
+import Seo from "../../seo"
+
+const PaintBrushesIndex = ({ location }) => {
 
     // States for Phase 01: Shapes
     const [activeShape, setActiveShape] = React.useState('Round'); // Round, Flat, Filbert
@@ -234,8 +232,8 @@ const PaintBrushesIndex = ({ data, location }) => {
 
 
     return (
-        <Layout location={location} title={siteTitle}>
-            <Seo title="Paint Brushes: Tools of Expression" />
+        <>
+
             <svg width="0" height="0" style={{ position: 'absolute', pointerEvents: 'none' }}>
                 <defs>
                     <linearGradient id="handle-grad" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -568,18 +566,9 @@ const PaintBrushesIndex = ({ data, location }) => {
                 </div>
 
             </section>
-        </Layout>
+        </>
     )
 }
 
 export default PaintBrushesIndex
 
-export const pageQuery = graphql`
-  query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-  }
-`

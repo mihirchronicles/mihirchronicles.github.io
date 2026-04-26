@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/click-events-have-key-events, jsx-a11y/no-static-element-interactions */
 import * as React from "react"
 import { useState } from "react"
 import { graphql } from "gatsby"

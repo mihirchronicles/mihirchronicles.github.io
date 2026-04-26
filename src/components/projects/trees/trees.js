@@ -1,11 +1,6 @@
 import * as React from "react"
-import { graphql } from "gatsby"
 
-import Layout from "../../../components/layout"
-import Seo from "../../../components/seo"
-
-const TreesIndex = ({ data, location }) => {
-    const siteTitle = data.site.siteMetadata?.title || `Title`
+const TreesIndex = ({ location }) => {
 
     // Phase 01: Species selector
     const [activeSpecies, setActiveSpecies] = React.useState('Oak')
@@ -345,8 +340,8 @@ const TreesIndex = ({ data, location }) => {
     ]
 
     return (
-        <Layout location={location} title={siteTitle}>
-            <Seo title="Trees: Architecture of Growth" />
+        <>
+
 
 
             {/* Soft, premium lighting defs (no harsh distortion) */}
@@ -413,7 +408,6 @@ const TreesIndex = ({ data, location }) => {
             `}</style>
 
             <header style={{ textAlign: 'left', marginBottom: 'var(--spacing-16)' }}>
-                <h1 className="main-heading">Trees</h1>
                 <p className="ct-responsive-header-text">
                     Trees have captivated me for as long as I can remember: their form, their structure, the way light moves through them. This interactive guide explores tree anatomy through an artist's eye, breaking down each element from foundational basics to more nuanced detail, so you can observe, understand, and paint them with greater confidence.
                 </p>
@@ -682,18 +676,9 @@ const TreesIndex = ({ data, location }) => {
                 </div>
             </section>
 
-        </Layout>
+        </>
     )
 }
 
 export default TreesIndex
 
-export const pageQuery = graphql`
-  query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-  }
-`

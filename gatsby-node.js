@@ -27,6 +27,17 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
           }
         }
       }
+      allMdx(sort: { frontmatter: { date: ASC } }, limit: 1000) {
+        nodes {
+          id
+          fields {
+            slug
+          }
+          internal {
+            contentFilePath
+          }
+        }
+      }
     }
   `)
 
@@ -39,10 +50,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   }
 
   const posts = result.data.allMarkdownRemark.nodes
-
-  // Create blog posts pages
-  // But only if there's at least one markdown file found at "content/[folder name]" (defined in gatsby-config.js)
-  // `context` is available in the template as a prop and as a variable in GraphQL
+  const mdxPosts = result.data.allMdx ? result.data.allMdx.nodes : []
 
   if (posts.length > 0) {
     posts.forEach((post, index) => {
@@ -60,6 +68,24 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       })
     })
   }
+
+  if (mdxPosts.length > 0) {
+    mdxPosts.forEach((post, index) => {
+      const previousPostId = index === 0 ? null : mdxPosts[index - 1].id
+      const nextPostId = index === mdxPosts.length - 1 ? null : mdxPosts[index + 1].id
+
+      // Gatsby 5 MDX API: use component: `${template}?__contentFilePath=${contentFilePath}`
+      createPage({
+        path: post.fields.slug,
+        component: `${blogPost}?__contentFilePath=${post.internal.contentFilePath}`,
+        context: {
+          id: post.id,
+          previousPostId,
+          nextPostId,
+        },
+      })
+    })
+  }
 }
 
 /**
@@ -68,8 +94,8 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions
 
-  if (node.internal.type === `MarkdownRemark`) {
-    const value = createFilePath({ node, getNode })
+  if (node.internal.type === `MarkdownRemark` || node.internal.type === `Mdx`) {
+    const value = node.frontmatter?.path || createFilePath({ node, getNode })
 
     createNodeField({
       name: `slug`,
@@ -108,6 +134,11 @@ exports.createSchemaCustomization = ({ actions }) => {
     }
 
     type MarkdownRemark implements Node {
+      frontmatter: Frontmatter
+      fields: Fields
+    }
+
+    type Mdx implements Node {
       frontmatter: Frontmatter
       fields: Fields
     }

@@ -1,8 +1,4 @@
 import * as React from "react"
-import { graphql } from "gatsby"
-
-import Layout from "../../../components/layout"
-import Seo from "../../../components/seo"
 
 import questionsData from "./questions_data.json";
 
@@ -11,8 +7,7 @@ const wisdomCards = questionsData.wisdomCards || [];
 
 const tagsList = ["all", "growth", "conversational", "life", "product", "investing"];
 
-const QuestionsIndex = ({ data, location }) => {
-    const siteTitle = data.site.siteMetadata?.title || `Title`
+const QuestionsIndex = ({ location }) => {
     const [activeTag, setActiveTag] = React.useState("all")
     const [randomQuestion, setRandomQuestion] = React.useState(null)
     const [isAnimating, setIsAnimating] = React.useState(false)
@@ -71,8 +66,8 @@ const QuestionsIndex = ({ data, location }) => {
     }
 
     return (
-        <Layout location={location} title={siteTitle}>
-            <Seo title="Questions: To Journal and Think About" />
+        <>
+
 
             <style>{`
 
@@ -183,7 +178,6 @@ const QuestionsIndex = ({ data, location }) => {
             `}</style>
 
             <header style={{ textAlign: 'left', marginBottom: 'var(--spacing-16)' }}>
-                <h1 className="main-heading">Question Bank</h1>
                 <p className="ct-responsive-header-text">
                     A collection of interesting prompts for journaling, deep thinking, interviewing, and sparking meaningful conversations. The questions are filterable by categories.
                 </p>
@@ -370,18 +364,9 @@ const QuestionsIndex = ({ data, location }) => {
                 </div>
             </section>
 
-        </Layout>
+        </>
     )
 }
 
 export default QuestionsIndex
 
-export const pageQuery = graphql`
-  query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-  }
-`

@@ -1,15 +1,11 @@
+/* eslint-disable jsx-a11y/control-has-associated-label, jsx-a11y/click-events-have-key-events, jsx-a11y/no-static-element-interactions */
 import * as React from "react"
-import { graphql } from "gatsby"
-
-import Layout from "../../../components/layout"
-import Seo from "../../../components/seo"
 
 // ─── Artist Data ────────────────────────────────────────────────────────────
 import artists from "./artists.json"
 
 // ─── Component ──────────────────────────────────────────────────────────────
-const ArtistsIndex = ({ data, location }) => {
-    const siteTitle = data.site.siteMetadata?.title || `Title`
+const ArtistsIndex = ({ location }) => {
     const [activeIdx, setActiveIdx] = React.useState(0)
     const [imgErrors, setImgErrors] = React.useState({})
 
@@ -46,8 +42,8 @@ const ArtistsIndex = ({ data, location }) => {
     const artist = artists[activeIdx]
 
     return (
-        <Layout location={location} title={siteTitle}>
-            <Seo title="Famous Artists: Masters of the Craft" />
+        <>
+
 
             <style>{`
                 /* Card stack - desktop: absolute stacking; mobile: single card in flow */
@@ -115,7 +111,6 @@ const ArtistsIndex = ({ data, location }) => {
             `}</style>
 
             <header style={{ textAlign: 'left', marginBottom: 'var(--spacing-16)' }}>
-                <h1 className="main-heading">Famous Artists</h1>
                 <p className="ct-responsive-header-text">
                     World's most famous artists who permanently altered the course of painting. Study what they understood about light, form, color, and the nature of seeing itself, and you will paint differently forever.
                 </p>
@@ -301,18 +296,9 @@ const ArtistsIndex = ({ data, location }) => {
                 </ul>
             </section>
 
-        </Layout>
+        </>
     )
 }
 
 export default ArtistsIndex
 
-export const pageQuery = graphql`
-  query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-  }
-`

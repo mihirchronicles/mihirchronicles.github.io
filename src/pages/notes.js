@@ -5,7 +5,11 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 const NotesIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
-  const posts = data.allMarkdownRemark.nodes
+  const mdPosts = data.allMarkdownRemark.nodes
+  const mdxPosts = data.allMdx?.nodes || []
+  const posts = [...mdPosts, ...mdxPosts].sort((a, b) => {
+    return new Date(b.frontmatter.date) - new Date(a.frontmatter.date)
+  })
   const [selectedTag, setSelectedTag] = React.useState("all")
 
   // Extract all unique tags
@@ -81,6 +85,22 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       filter: { fileAbsolutePath: { regex: "/content/notes/" }}
+      sort: { frontmatter: { date: DESC } }) {
+      nodes {
+        excerpt
+        fields {
+          slug
+        }
+        frontmatter {
+          date(formatString: "MMMM DD, YYYY")
+          title
+          description
+          tags
+        }
+      }
+    }
+    allMdx(
+      filter: { internal: { contentFilePath: { regex: "/content/notes/" } } }
       sort: { frontmatter: { date: DESC } }) {
       nodes {
         excerpt
