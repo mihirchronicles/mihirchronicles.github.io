@@ -9,22 +9,80 @@
         "accent": "#d32f2f",
         "knownFor": "Intensely personal and symbolic self-portraits that explored themes of identity, the human body, and pain.",
         "technique": "She painted using bright, vibrant colors heavily influenced by indigenous Mexican culture, often painting precise, detailed strokes on canvas or masonite.",
-        "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Frida_Kahlo%2C_by_Guillermo_Kahlo.jpg/200px-Frida_Kahlo%2C_by_Guillermo_Kahlo.jpg",
+        "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Frida_Kahlo%2C_by_Guillermo_Kahlo.jpg/250px-Frida_Kahlo%2C_by_Guillermo_Kahlo.jpg",
         "works": [
             {
-                "title": "The Two Fridas",
-                "year": "1939",
-                "img": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/The_Two_Fridas.jpg/200px-The_Two_Fridas.jpg"
+                "title": "Frida Kahlo Museum, Mexico City",
+                "year": "1904",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Frida_Kahlo_House%2C_Mexico_City_%286998147374%29.jpg/250px-Frida_Kahlo_House%2C_Mexico_City_%286998147374%29.jpg"
             },
             {
-                "title": "Self-Portrait with Thorn Necklace and Hummingbird",
-                "year": "1940",
-                "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Frida_Kahlo_%28self_portrait%29.jpg/200px-Frida_Kahlo_%28self_portrait%29.jpg"
+                "title": "Self-Portrait with Monkey",
+                "year": "1938",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Frida_Kahlo_Self-portrait_with_monkey_1938.jpg/250px-Frida_Kahlo_Self-portrait_with_monkey_1938.jpg"
             },
             {
                 "title": "Viva la Vida",
                 "year": "1954",
                 "img": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Viva_la_Vida%2C_Frida_Kahlo%2C_Museo_Frida.webp"
+            }
+        ]
+    },
+    {
+        "name": "Georgia O'Keeffe",
+        "years": "1887 – 1986",
+        "era": "Modernism",
+        "eraDesc": "United States, early to mid-20th century. A movement that broke from traditional representation to explore abstract forms, bold colors, and the emotional essence of the natural world.",
+        "nationality": "American",
+        "style": "Precisionism, Modernism",
+        "accent": "#e67e22",
+        "knownFor": "The 'Mother of American Modernism.' She is iconic for her large-scale, magnified paintings of flowers, New York skyscrapers, and the stark, vibrant landscapes of the New Mexico desert.",
+        "technique": "Precisionist clarity and subtle tonal gradations. She stripped subjects of unnecessary detail to focus on their essential shapes. Her use of 'magnification' forced viewers to see common objects, like flowers or bones, as vast, abstract architectures of color.",
+        "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Georgia_O%27Keeffe_MET_DP230868.jpg/250px-Georgia_O%27Keeffe_MET_DP230868.jpg",
+        "works": [
+            {
+                "title": "Taos Pueblo",
+                "year": "1929",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Taos_Pueblo_Georgia_O%27Keeffe.jpg/330px-Taos_Pueblo_Georgia_O%27Keeffe.jpg"
+            },
+            {
+                "title": "Canyon with Crows",
+                "year": "1917",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Georgia_O%27Keeffe%2C_Canyon_with_Crows.tif/lossless-page1-330px-Georgia_O%27Keeffe%2C_Canyon_with_Crows.tif.png"
+            },
+            {
+                "title": "Lake George Reflection",
+                "year": "1921",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Georgia_O%27Keeffe_-_Lake_George_Reflection.jpg/330px-Georgia_O%27Keeffe_-_Lake_George_Reflection.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Katsushika Hokusai",
+        "years": "1760 – 1849",
+        "era": "Edo Period (Ukiyo-e)",
+        "eraDesc": "Japan, 1603–1867. A flourishing of urban culture where art focused on the 'floating world'—the theaters, tea houses, and natural landscapes enjoyed by the rising merchant class.",
+        "nationality": "Japanese",
+        "style": "Ukiyo-e, Landscape",
+        "accent": "#005aab",
+        "knownFor": "The master of woodblock prints who brought Japanese art to the global stage. He is best known for 'The Great Wave' and his obsession with depicting Mount Fuji from every conceivable angle.",
+        "technique": "Woodblock printing (moku hanga). He pioneered the use of imported Prussian blue and combined traditional Japanese flat-plane aesthetics with elements of Western perspective to create deep, dramatic landscapes.",
+        "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Hokusai_selfportrait.jpg/250px-Hokusai_selfportrait.jpg",
+        "works": [
+            {
+                "title": "Fine Wind, Clear Weather",
+                "year": "c. 1760-1849",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Katsushika_Hokusai%2C_published_by_Nishimuraya_Yohachi_%28Eijud%C5%8D%29_-_Fine_Wind%2C_Clear_Weather_%28Gaif%C5%AB_kaisei%29%2C_also_known_as_Red_Fuji%2C_from_the_series_Thirty-six_Views_o..._-_Google_Art_Project_-_Cropped.jpg/330px-thumbnail.jpg"
+            },
+            {
+                "title": "The Great Wave off Kanagawa",
+                "year": "c. 1760–1849",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsunami_by_hokusai_19th_century.jpg/330px-Tsunami_by_hokusai_19th_century.jpg"
+            },
+            {
+                "title": "Land Surveyors in the Edo Period",
+                "year": "1848",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Land-Surveyors-Edo-Period-Katsushika-Hokusai.png/330px-Land-Surveyors-Edo-Period-Katsushika-Hokusai.png"
             }
         ]
     },
@@ -38,80 +96,22 @@
         "accent": "#7c5c1e",
         "knownFor": "The union of art and science. Leonardo dissected corpses to understand anatomy, studied optics, and modeled fluid dynamics, all to make paint on wood breathtakingly accurate.",
         "technique": "Sfumato: pigment tones are blended so gradually that all edges dissolve. There are no outlines in da Vinci, only the soft, smoky transition from light to shadow that gives the Mona Lisa her haunting gaze.",
-        "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg/200px-Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg",
+        "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Leonardo_da_Vinci_-_presumed_self-portrait_-_lossless.png/250px-Leonardo_da_Vinci_-_presumed_self-portrait_-_lossless.png",
         "works": [
             {
                 "title": "Mona Lisa",
                 "year": "c. 1503",
-                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/200px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg"
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/250px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg"
             },
             {
                 "title": "The Last Supper",
                 "year": "c. 1498",
-                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/%C3%9Altima_Cena_-_Da_Vinci_5.jpg/200px-%C3%9Altima_Cena_-_Da_Vinci_5.jpg"
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/%C3%9Altima_Cena_-_Da_Vinci_5.jpg/250px-%C3%9Altima_Cena_-_Da_Vinci_5.jpg"
             },
             {
                 "title": "Vitruvian Man",
                 "year": "c. 1490",
-                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg/200px-Da_Vinci_Vitruve_Luc_Viatour.jpg"
-            }
-        ]
-    },
-    {
-        "name": "Michelangelo",
-        "years": "1475 – 1564",
-        "era": "High Renaissance",
-        "eraDesc": "Italy, 1490–1527. The peak of Renaissance idealism, harmony, proportion, and classical beauty dominate. Art serves religion, humanism, and the glorification of the human form.",
-        "style": "Monumental Idealism, Terribilità",
-        "nationality": "Italian",
-        "accent": "#6a4a8a",
-        "knownFor": "Art as physical force. His figures strain with supernatural energy, muscles, tendons, and divine tension carved or painted with a sculptural understanding no painter before or after has matched.",
-        "technique": "Terribilità, a sublime, awe-inspiring power. His forms are always oversized and straining, imbuing biblical subjects with visceral physical reality. He worked fresco 'buon fresco,' painting into wet plaster in single sessions that still glow today.",
-        "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Miguel_%C3%81ngel%2C_por_Daniele_da_Volterra_%28detalle%29.jpg/200px-Miguel_%C3%81ngel%2C_por_Daniele_da_Volterra_%28detalle%29.jpg",
-        "works": [
-            {
-                "title": "The Creation of Adam",
-                "year": "c. 1512",
-                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg/200px-Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg"
-            },
-            {
-                "title": "Sistine Chapel Ceiling",
-                "year": "1508–1512",
-                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sistina-interno.jpg/200px-Sistina-interno.jpg"
-            },
-            {
-                "title": "The Last Judgement",
-                "year": "1536–1541",
-                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Last_Judgement_%28Michelangelo%29.jpg/200px-Last_Judgement_%28Michelangelo%29.jpg"
-            }
-        ]
-    },
-    {
-        "name": "Rembrandt van Rijn",
-        "years": "1606 – 1669",
-        "era": "Dutch Golden Age",
-        "eraDesc": "Netherlands, 1588–1672. A flourishing of secular, merchant-class art: portraits, landscapes, still lifes, and domestic interiors painted with extraordinary realism and craft.",
-        "style": "Baroque, Chiaroscuro Realism",
-        "nationality": "Dutch",
-        "accent": "#8B4513",
-        "knownFor": "The master of light and psychological truth. He painted the same human face, his own, over 90 times across a lifetime, creating the first sustained visual autobiography in Western art.",
-        "technique": "Chiaroscuro taken to its extreme: Rembrandt's subjects emerge from absolute darkness into a single shaft of warm light. He built paint surface in thick impasto for highlights and near-transparent glazes for shadows, a physical record of light itself.",
-        "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Rembrandt_van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg/200px-Rembrandt_van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg",
-        "works": [
-            {
-                "title": "The Night Watch",
-                "year": "1642",
-                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/The_Nightwatch_by_Rembrandt_-_Rijksmuseum.jpg/200px-The_Nightwatch_by_Rembrandt_-_Rijksmuseum.jpg"
-            },
-            {
-                "title": "Self-Portrait (Kenwood)",
-                "year": "c. 1665",
-                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rembrandt_Self-portrait_%28Kenwood%29.jpg/200px-Rembrandt_Self-portrait_%28Kenwood%29.jpg"
-            },
-            {
-                "title": "The Anatomy Lesson",
-                "year": "1632",
-                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Rembrandt_Harmensz._van_Rijn_007.jpg/200px-Rembrandt_Harmensz._van_Rijn_007.jpg"
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg/250px-Da_Vinci_Vitruve_Luc_Viatour.jpg"
             }
         ]
     },
@@ -125,22 +125,22 @@
         "accent": "#1a5fa8",
         "knownFor": "The painter who made emotion visible. Van Gogh bent every rule of representation to externalize internal feeling, his swirling skies, molten suns, and writhing cypress trees are pure psychological states rendered in pigment.",
         "technique": "Impasto brushwork with directional energy. Every stroke is a deliberate mark, not a blend. He used short, curved dashes to build texture, and complementary color juxtapositions (blue-orange, yellow-violet) that vibrate at the edges without mixing.",
-        "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project.jpg/200px-Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project.jpg",
+        "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project.jpg/250px-Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project.jpg",
         "works": [
             {
                 "title": "The Starry Night",
                 "year": "1889",
-                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/200px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/250px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"
             },
             {
                 "title": "Sunflowers",
                 "year": "1888",
-                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Vincent_van_Gogh_-_Sunflowers_-_VGM_F458.jpg/200px-Vincent_van_Gogh_-_Sunflowers_-_VGM_F458.jpg"
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Vincent_van_Gogh_-_Sunflowers_-_VGM_F458.jpg/250px-Vincent_van_Gogh_-_Sunflowers_-_VGM_F458.jpg"
             },
             {
                 "title": "The Bedroom in Arles",
                 "year": "1888",
-                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg/200px-Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg"
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg/250px-Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg"
             }
         ]
     },
@@ -154,22 +154,22 @@
         "accent": "#2e7d32",
         "knownFor": "The painter of light itself. Monet rejected the idea that painting should describe objects, instead he captured the fleeting, luminous impression of light falling on a surface at one specific moment in time.",
         "technique": "Broken color and optical mixing. Rather than blending pigments on the palette, Monet placed pure colors side by side on the canvas. The eye mixes them at viewing distance, producing a vibrancy that no mixed pigment can achieve.",
-        "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Claude_Monet_1899_Nadar_crop.jpg/200px-Claude_Monet_1899_Nadar_crop.jpg",
+        "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Claude_Monet_1899_Nadar_crop.jpg/250px-Claude_Monet_1899_Nadar_crop.jpg",
         "works": [
             {
                 "title": "Water Lilies",
                 "year": "1906",
-                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Claude_Monet_-_Water_Lilies_-_1906%2C_Ryerson.jpg/200px-Claude_Monet_-_Water_Lilies_-_1906%2C_Ryerson.jpg"
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Claude_Monet_-_Water_Lilies_-_1906%2C_Ryerson.jpg/250px-Claude_Monet_-_Water_Lilies_-_1906%2C_Ryerson.jpg"
             },
             {
                 "title": "Impression, Sunrise",
                 "year": "1872",
-                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Monet_-_Impression%2C_Sunrise.jpg/200px-Monet_-_Impression%2C_Sunrise.jpg"
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Monet_-_Impression%2C_Sunrise.jpg/250px-Monet_-_Impression%2C_Sunrise.jpg"
             },
             {
                 "title": "Haystacks",
                 "year": "1890–91",
-                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Monet_-_Grainstacks%2C_White_Frost_Effect_%281889%29_Google_Art_Project.jpg/200px-Monet_-_Grainstacks%2C_White_Frost_Effect_%281889%29_Google_Art_Project.jpg"
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Monet_-_Grainstacks%2C_White_Frost_Effect_%281889%29_Google_Art_Project.jpg/250px-Monet_-_Grainstacks%2C_White_Frost_Effect_%281889%29_Google_Art_Project.jpg"
             }
         ]
     },
@@ -183,12 +183,12 @@
         "accent": "#c62828",
         "knownFor": "The destruction and reconstruction of visual reality. Picasso asked: why show a face from one viewpoint when you can paint all viewpoints simultaneously? He fractured form and rebuilt it from fragments of perception.",
         "technique": "Analytical Cubism: objects are broken into geometric planes and reassembled on the picture surface. Multiple simultaneous perspectives exist in one image. Later, Synthetic Cubism introduced collage materials, newspaper, rope, wallpaper, into the painted surface.",
-        "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pablo_picasso_1.jpg/200px-Pablo_picasso_1.jpg",
+        "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pablo_picasso_1.jpg/250px-Pablo_picasso_1.jpg",
         "works": [
             {
                 "title": "Les Demoiselles d'Avignon",
                 "year": "1907",
-                "img": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Les_Demoiselles_d%27Avignon.jpg/200px-Les_Demoiselles_d%27Avignon.jpg"
+                "img": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Les_Demoiselles_d%27Avignon.jpg/250px-Les_Demoiselles_d%27Avignon.jpg"
             },
             {
                 "title": "Guernica",
@@ -198,41 +198,12 @@
             {
                 "title": "Girl Before a Mirror",
                 "year": "1932",
-                "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Girl_Before_a_Mirror.jpg/150px-Girl_Before_a_Mirror.jpg"
+                "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Girl_Before_a_Mirror.jpg/250px-Girl_Before_a_Mirror.jpg"
             }
         ]
     },
     {
-        "name": "Raphael",
-        "years": "1483 – 1520",
-        "era": "High Renaissance",
-        "eraDesc": "Italy, 1490–1527. The peak of Renaissance idealism, harmony, proportion, and classical beauty dominate. Art serves religion, humanism, and the glorification of the human form.",
-        "nationality": "Italian",
-        "style": "Harmonious Idealism, Grace",
-        "accent": "#ad7a1f",
-        "knownFor": "Beauty as the highest truth. Raphael synthesized Leonardo's depth, Michelangelo's power, and his own innate sense of grace into an art of perfect harmony, figures that feel simultaneously ideal and warmly human.",
-        "technique": "Compositional clarity and pyramidal grouping. Raphael organized complex figure groups into stable geometric forms, triangles, circles, that produce an effortless sense of order. His color is warm and harmonious; his drawing, the most classically refined of the Renaissance.",
-        "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Raffaello_Sanzio.jpg/200px-Raffaello_Sanzio.jpg",
-        "works": [
-            {
-                "title": "School of Athens",
-                "year": "1509–1511",
-                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg/200px-%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg"
-            },
-            {
-                "title": "The Sistine Madonna",
-                "year": "1512",
-                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Raphael_-_Raffaello_Sanzio_-_The_Sistine_Madonna.jpg/200px-Raphael_-_Raffaello_Sanzio_-_The_Sistine_Madonna.jpg"
-            },
-            {
-                "title": "Transfiguration",
-                "year": "1516–1520",
-                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Raffael_Transfigurazione.jpg/200px-Raffael_Transfigurazione.jpg"
-            }
-        ]
-    },
-    {
-        "name": "Jan Vermeer",
+        "name": "Johannes Vermeer",
         "years": "1632 – 1675",
         "era": "Dutch Golden Age",
         "eraDesc": "Netherlands, 1588–1672. A flourishing of secular, merchant-class art: portraits, landscapes, still lifes, and domestic interiors painted with extraordinary realism and craft.",
@@ -241,51 +212,22 @@
         "accent": "#1565c0",
         "knownFor": "The painter of hushed interiors and the poetry of daylight. In 34–36 surviving paintings, Vermeer turned domestic life, a woman reading, pouring milk, playing a lute, into visions of quiet, luminous eternity.",
         "technique": "It is thought Vermeer used a camera obscura to project the scene onto his canvas, achieving the precise fall of diffused light through a window. He built surfaces with extremely thin transparent layers and used expensive pigments like lapis lazuli blue liberally.",
-        "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/1665_Girl_with_a_Pearl_Earring.jpg/200px-1665_Girl_with_a_Pearl_Earring.jpg",
+        "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/1665_Girl_with_a_Pearl_Earring.jpg/250px-1665_Girl_with_a_Pearl_Earring.jpg",
         "works": [
             {
                 "title": "Girl with a Pearl Earring",
                 "year": "c. 1665",
-                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/1665_Girl_with_a_Pearl_Earring.jpg/200px-1665_Girl_with_a_Pearl_Earring.jpg"
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/1665_Girl_with_a_Pearl_Earring.jpg/250px-1665_Girl_with_a_Pearl_Earring.jpg"
             },
             {
                 "title": "The Milkmaid",
                 "year": "c. 1657–1658",
-                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg/200px-Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg"
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg/250px-Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg"
             },
             {
-                "title": "The Art of Painting",
-                "year": "c. 1666–1668",
-                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg/200px-Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg"
-            }
-        ]
-    },
-    {
-        "name": "Caravaggio",
-        "years": "1571 – 1610",
-        "era": "Baroque",
-        "eraDesc": "Europe, 1600–1750. Dramatic tension, emotional immediacy, and theatrical use of light. Baroque painting heightens religious and mythological scenes to a visceral, almost cinematic intensity.",
-        "nationality": "Italian",
-        "style": "Tenebrism, Dramatic Naturalism",
-        "accent": "#37474f",
-        "knownFor": "The revolutionary who put real street people into sacred scenes. Caravaggio refused idealized figures, his apostles have dirty feet, his Madonnas look like models from the Roman slums. He shocked and transformed European painting overnight.",
-        "technique": "Tenebrism, an extreme form of chiaroscuro where figures emerge from absolute, unlit blackness. He likely used a single candle spotlight and painted from live models directly, skipping preparatory drawings. The immediacy is palpable in every canvas.",
-        "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/The_Calling_of_Saint_Matthew-Caravaggo_%281599-1600%29.jpg/200px-The_Calling_of_Saint_Matthew-Caravaggo_%281599-1600%29.jpg",
-        "works": [
-            {
-                "title": "The Calling of Saint Matthew",
-                "year": "1599–1600",
-                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/The_Calling_of_Saint_Matthew-Caravaggo_%281599-1600%29.jpg/200px-The_Calling_of_Saint_Matthew-Caravaggo_%281599-1600%29.jpg"
-            },
-            {
-                "title": "Judith Beheading Holofernes",
-                "year": "c. 1598–1599",
-                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Judith_Beheading_Holofernes_-_Caravaggio.jpg/200px-Judith_Beheading_Holofernes_-_Caravaggio.jpg"
-            },
-            {
-                "title": "Supper at Emmaus",
-                "year": "1601",
-                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Caravaggio_-_The_Supper_at_Emmaus_-_National_Gallery%2C_London.jpg/200px-Caravaggio_-_The_Supper_at_Emmaus_-_National_Gallery%2C_London.jpg"
+                "title": "The Little Street",
+                "year": "c. 1658",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Johannes_Vermeer_-_Gezicht_op_huizen_in_Delft%2C_bekend_als_%27Het_straatje%27_-_Google_Art_Project.jpg/250px-Johannes_Vermeer_-_Gezicht_op_huizen_in_Delft%2C_bekend_als_%27Het_straatje%27_-_Google_Art_Project.jpg"
             }
         ]
     },
@@ -299,22 +241,22 @@
         "accent": "#bf5c00",
         "knownFor": "The painter of atmosphere and the sublime. Turner dissolved landscape into pure light and weather, his later canvases have more in common with Abstract Expressionism than with classical painting, a century before its time.",
         "technique": "Wet-on-wet and scraping. Turner would lay down broad washes of color on damp canvas, then work across the wet surface rapidly, lifting and dragging pigment. He also used a palette knife to scrape back glazes to luminous whites, a technique now called 'reserve whites'.",
-        "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Joseph_Mallord_William_Turner_-_Self-Portrait_-_Google_Art_Project.jpg/200px-Joseph_Mallord_William_Turner_-_Self-Portrait_-_Google_Art_Project.jpg",
+        "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Joseph_Mallord_William_Turner_-_Self-Portrait_-_Google_Art_Project.jpg/250px-Joseph_Mallord_William_Turner_-_Self-Portrait_-_Google_Art_Project.jpg",
         "works": [
             {
                 "title": "The Fighting Temeraire",
                 "year": "1839",
-                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/The_Fighting_Temeraire%2C_JMW_Turner%2C_National_Gallery.jpg/200px-The_Fighting_Temeraire%2C_JMW_Turner%2C_National_Gallery.jpg"
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/The_Fighting_Temeraire%2C_JMW_Turner%2C_National_Gallery.jpg/250px-The_Fighting_Temeraire%2C_JMW_Turner%2C_National_Gallery.jpg"
             },
             {
                 "title": "Rain, Steam and Speed",
                 "year": "1844",
-                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Rain%2C_Steam_and_Speed_the_Great_Western_Railway.jpg/200px-Rain%2C_Steam_and_Speed_the_Great_Western_Railway.jpg"
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Turner_-_Rain%2C_Steam_and_Speed_-_National_Gallery_file.jpg/330px-Turner_-_Rain%2C_Steam_and_Speed_-_National_Gallery_file.jpg"
             },
             {
-                "title": "Venice from the Porch of Madonna",
-                "year": "c. 1835",
-                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Joseph_Mallord_William_Turner_-_Venice_from_the_Porch_of_Madonna_della_Salute_-_Google_Art_Project.jpg/200px-Joseph_Mallord_William_Turner_-_Venice_from_the_Porch_of_Madonna_della_Salute_-_Google_Art_Project.jpg"
+                "title": "The Golden Bough",
+                "year": "c. 1834",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/%28Barcelona%29_The_Golden_Bough_-_Joseph_Mallord_William_Turner_-_Tate_Britain.jpg/330px-%28Barcelona%29_The_Golden_Bough_-_Joseph_Mallord_William_Turner_-_Tate_Britain.jpg"
             }
         ]
     }
