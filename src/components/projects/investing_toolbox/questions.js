@@ -178,9 +178,6 @@ const QuestionsIndex = ({ location }) => {
             `}</style>
 
             <header style={{ textAlign: 'left', marginBottom: 'var(--spacing-16)' }}>
-                <p className="ct-responsive-header-text">
-                    A collection of interesting prompts for journaling, deep thinking, interviewing, and sparking meaningful conversations. The questions are filterable by categories.
-                </p>
                 <div style={{ marginTop: 'var(--spacing-8)' }}>
                     <a href="#directory" className="ct-button">
                         View Directory &darr;

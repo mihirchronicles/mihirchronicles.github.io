@@ -506,9 +506,6 @@ const ColorTheoryIndex = ({ location }) => {
             `}</style>
 
             <header style={{ textAlign: 'left', marginBottom: 'var(--spacing-16)' }}>
-                <p className="ct-responsive-header-text">
-                    A journey from the fundamental physics of light to the psychological illusions of human perception. Inspired by the teachings of Josef Albers, explore how colors behave, interact, and fool our eyes.
-                </p>
                 <div style={{ marginTop: 'var(--spacing-8)' }}>
                     <a href="#beginner" className="ct-button">Start the Journey &darr;</a>
                 </div>

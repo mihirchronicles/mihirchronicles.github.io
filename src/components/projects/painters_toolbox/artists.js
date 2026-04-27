@@ -111,9 +111,6 @@ const ArtistsIndex = ({ location }) => {
             `}</style>
 
             <header style={{ textAlign: 'left', marginBottom: 'var(--spacing-16)' }}>
-                <p className="ct-responsive-header-text">
-                    World's most famous artists who permanently altered the course of painting. Study what they understood about light, form, color, and the nature of seeing itself, and you will paint differently forever.
-                </p>
                 <div style={{ marginTop: 'var(--spacing-8)' }}>
                     <a href="#explore" className="ct-button">Meet the Masters &darr;</a>
                 </div>
@@ -292,7 +289,6 @@ const ArtistsIndex = ({ location }) => {
                     <li><a href="https://commons.wikimedia.org/" target="_blank" rel="noopener noreferrer">Wikimedia Commons</a>: public domain portraits and artwork images</li>
                     <li><a href="https://www.metmuseum.org/toah/" target="_blank" rel="noopener noreferrer">The Metropolitan Museum of Art (Heilbrunn Timeline of Art History)</a>: era context and movement overviews</li>
                     <li><a href="https://www.khanacademy.org/humanities/art-history" target="_blank" rel="noopener noreferrer">Khan Academy Art History</a>: technique descriptions and style analysis</li>
-                    <li>H.W. Janson, <em>History of Art</em> (8th edition): general reference for biographical and technique notes.</li>
                 </ul>
             </section>
 

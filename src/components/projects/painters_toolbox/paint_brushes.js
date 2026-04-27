@@ -1,8 +1,5 @@
 import * as React from "react"
 
-
-import Seo from "../../seo"
-
 const PaintBrushesIndex = ({ location }) => {
 
     // States for Phase 01: Shapes
@@ -277,10 +274,6 @@ const PaintBrushesIndex = ({ location }) => {
             `}</style>
 
             <header style={{ textAlign: 'left', marginBottom: 'var(--spacing-16)' }}>
-                <h1 className="main-heading">Paint Brushes</h1>
-                <p className="ct-responsive-header-text">
-                    From the anatomy of animal hair to the physics of fluid dynamics on digital canvas. A guide to the most essential instrument in an artist's arsenal.
-                </p>
                 <div style={{ marginTop: 'var(--spacing-8)' }}>
                     <a href="#beginner" className="ct-button">Start the Journey &darr;</a>
                 </div>

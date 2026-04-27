@@ -37,8 +37,6 @@ const LettersIndex = ({ location }) => {
 
     return (
         <>
-
-
             <style>{`
                 /* Card stack - desktop: absolute stacking; mobile: single card in flow */
                 .letter-card-item {
@@ -67,9 +65,6 @@ const LettersIndex = ({ location }) => {
             `}</style>
 
             <header style={{ textAlign: 'left', marginBottom: 'var(--spacing-16)' }}>
-                <p className="ct-responsive-header-text">
-                    An interactive guide to the most influential shareholder letters and memos. Learn about capital allocation, long-term thinking, risk, and leadership from the world's finest operators and investors.
-                </p>
                 <div style={{ marginTop: 'var(--spacing-8)' }}>
                     <a href="#explore" className="ct-button">Start Reading &darr;</a>
                 </div>
