@@ -152,17 +152,7 @@ Communication requires language. The visual language of design is no exception. 
         - Modification: An object that has been slightly altered has been modified. Modification does not change the basic characteristics of an object. A rectangle whose corners have been slightly rounded still appears to be a rectangle.
         - Variation: When objects are repeated with minor variance or modification the repetition is called variance.
 
-## Color theory
 
-Color is a powerful tool in design. It can be used to evoke emotions, create visual interest, and communicate information. Below is a list of some key color theory concepts:
-
-- **Hue**: The pure color, such as red, yellow, or blue.
-- **Saturation**: The intensity or purity of a color.
-- **Value**: The lightness or darkness of a color.
-- **Complementary colors**: Colors that are opposite each other on the color wheel.
-- **Analogous colors**: Colors that are next to each other on the color wheel.
-- **Triadic colors**: Three colors that are equally spaced on the color wheel.
-- **Monochromatic colors**: Different shades of the same color.
 
 ## Motion graphics
 
