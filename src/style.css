@@ -44,8 +44,9 @@ html {
   --spacing-32: 8rem;
   --fontFamily-sans: 'Futura', "Inter var", Verdana, Helvetica;
   --fontFamily-serif: "Inter var", 'Futura', Verdana, Helvetica;
-  --font-body: var(--fontFamily-serif);
   --font-heading: var(--fontFamily-sans);
+  --font-body: var(--fontFamily-serif);
+  --font-link: var(--fontFamily-sans);
   --fontWeight-normal: 400;
   --fontWeight-semi-normal: 500;
   --fontWeight-bold: 700;

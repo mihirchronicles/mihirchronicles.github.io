@@ -291,7 +291,8 @@ Not perfect, but below are my favorite virtues I try to live by.
 - **Lack of father figure taught me to gift time, not things. Becoming a father taught me to never mess this up.**
 - **Real growth doesn’t just happen in the doing, but in the quiet moments after, when the brain rewires itself through rest and reflection.** Recent studies on neuroplasticity or brain plasticity is proving the importance of silence, meditation and inward journey practiced by thousands of years in the eastern part of the world. Information reinforcement happens when you are away from material. This type of deliberate learning allows the brain to rewire itself.
 - **Nostalgia allows you to reorient your perspective on time.** It helps you feel like time is slowing down. The way to experience nostalgia are to do new things which allows you to welcome change, focus on small details because it forces you to be proactive about tiny things in life and embrace intensity because it will invoke strong emotions. All of these things will make you feel like time is stretching.
-
+- **Being aware of the present moment is more useful than gaining knowledge or experience.** Experience is always in the past. Knowledge is always about the past. Only the present moment is real. Awareness of the present moment is the key to happiness. No amount of knowledge or experience can replace the power of being present.
+- **The act of creation is not same as performance.** It is about expression and not about the show. The joy of creation is in the process and not in the reception. You do not have control over how people receive your creation so don't get hung up on performance.
 
 ## Practical advice from Kevin Kelly
 
