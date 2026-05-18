@@ -1,5 +1,5 @@
 ---
-title: "Same North Star, New Terrain"
+title: "Same North Star New Terrain"
 tags: ["product"]
 date: "2026-05-17"
 draft: true
@@ -16,7 +16,7 @@ All this to say, the boundaries between specialization are narrowing. Specializa
 
 When the conditions start to shift what do you double down on?
 
-The signal should always be the user!
+The signal should always be the *user*!
 
 A good PM deploys and moves on to the next thing. A great PM takes the users from current state to their desired state.
 
