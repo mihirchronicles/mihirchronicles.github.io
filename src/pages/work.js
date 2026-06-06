@@ -64,13 +64,12 @@ const WorkIndex = ({ data, location }) => {
           </Zoom>
         </div>
         <div className="work-content-container">
-          <p><strong>[2023]</strong></p>
+          <p><strong>[2023 - Current]</strong></p>
           <ul>
-            <li>Conceptualized and developed a cohesive brand identity for a digital resource dedicated to overcoming imposter syndrome.</li>
-            <li>Executed end-to-end creative direction, designing a complete visual system including a custom logo, illustrations, and high-fidelity website mockups.</li>
-            <li>Project was abandoned.</li>
+            <li>A side project on imposter syndrome.</li>
+            <li>Conceptualized and developed a cohesive brand identity for a digital resource dedicated to overcoming imposter syndrome. Executed end-to-end creative direction, designing a complete visual system including a custom logo, illustrations, and high-fidelity website mockups.</li>
           </ul>
-          <p><strong>Website</strong>: <a href="https://bigimposter.webflow.io">Big Imposter</a></p>
+          <p><strong>Website</strong>: <a href="https://bigimposter.com">Big Imposter</a></p>
         </div>
       </article>
 
