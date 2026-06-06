@@ -67,7 +67,7 @@ const WorkIndex = ({ data, location }) => {
           <p><strong>[2023]</strong></p>
           <ul>
             <li>A side project on imposter syndrome.</li>
-            <li>Conceptualized and developed a cohesive brand identity for a digital resource dedicated to overcoming imposter syndrome. Executed end-to-end creative direction, designing a complete visual system including a custom logo, illustrations, and high-fidelity website mockups.</li>
+            <li>The website features a step-by-step guide to overcoming imposter syndrome using CBT techniques, as well as a collection of resources and tools to help people on their journey.</li>
           </ul>
           <p><strong>Website</strong>: <a href="https://bigimposter.com">Big Imposter</a></p>
         </div>
