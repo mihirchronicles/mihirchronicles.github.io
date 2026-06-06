@@ -64,7 +64,7 @@ const WorkIndex = ({ data, location }) => {
           </Zoom>
         </div>
         <div className="work-content-container">
-          <p><strong>[2023 - Current]</strong></p>
+          <p><strong>[2023]</strong></p>
           <ul>
             <li>A side project on imposter syndrome.</li>
             <li>Conceptualized and developed a cohesive brand identity for a digital resource dedicated to overcoming imposter syndrome. Executed end-to-end creative direction, designing a complete visual system including a custom logo, illustrations, and high-fidelity website mockups.</li>
