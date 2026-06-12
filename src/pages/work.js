@@ -67,7 +67,7 @@ const WorkIndex = ({ data, location }) => {
           <p><strong>[2023]</strong></p>
           <ul>
             <li>A side project on imposter syndrome.</li>
-            <li>The website features a step-by-step guide to overcoming imposter syndrome using CBT techniques, as well as a collection of resources and tools to help people on their journey.</li>
+            <li>A poetry studio for beating the big imposter syndrome. The project features poems written by me on imposter syndrome.</li>
           </ul>
           <p><strong>Website</strong>: <a href="https://bigimposter.com">Big Imposter</a></p>
         </div>
