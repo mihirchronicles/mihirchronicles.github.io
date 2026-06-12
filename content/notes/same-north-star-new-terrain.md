@@ -1,9 +1,9 @@
 ---
-title: "Same North Star New Terrain"
+title: "New Terrain Same North Star"
 tags: ["product"]
 date: "2026-05-17"
 draft: true
-path: "/notes/same-north-star-new-terrain"
+path: "/notes/new-terrain-same-north-star"
 ---
 
 The stakes are higher for any PMs in the era of LLM driven solutions. 
