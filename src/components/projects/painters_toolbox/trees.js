@@ -321,16 +321,6 @@ const TreesIndex = ({ location }) => {
     const shadowDx = -lc.highlight[0] * 0.6
     const shadowDy = 30
 
-    // ─── Phase 03: Workflow steps ─────────────────────────────────────────
-    const workflowSteps = [
-        { step: '01', name: 'Sky First', description: 'Lay in the full sky before touching the tree. The tree is painted into and over the sky, not behind it. This gives atmospheric depth to the silhouette edges.' },
-        { step: '02', name: 'Shadow Mass', description: 'Block the darkest foliage mass first, the underside and deep interior of the crown. This is your anchor. All lighter values must relate to this dark.' },
-        { step: '03', name: 'Mid-Tone Fill', description: 'Add the mid-tone green across the bulk of the crown. Work broadly. This is the “local color” of the tree, not its light or shadow, just its own hue.' },
-        { step: '04', name: 'Highlight Clusters', description: 'Apply the lightest green only on the upward-facing foliage surfaces. Keep it small, highlights should never cover more than 20% of the crown area.' },
-        { step: '05', name: 'Branch Breaks', description: 'Pull branches and sky back through the crown with negative painting. This is what separates a believable tree from a green blob. Work dark over light.' },
-        { step: '06', name: 'Edge Quality', description: 'Vary hard and soft edges around the silhouette, hard in light, soft in shadow. A single continuous hard edge kills the illusion of depth in the crown.' },
-    ]
-
     // ─── Color palette ───────────────────────────────────────────────────
     const treePalette = [
         { name: 'Deep Shadow', hex: '#1a3320', mix: 'Sap Green + Ivory Black + touch of Burnt Umber' },
@@ -634,23 +624,6 @@ const TreesIndex = ({ location }) => {
                                 <p style={{ margin: 0, fontSize: 'var(--fontSize-0)' }}>The cast shadow on the ground anchors the tree to the earth. Without it, trees appear to float. The shadow ellipse always falls opposite the light source and is slightly cooler in temperature than the bark color.</p>
                             </div>
                         </div>
-                    </div>
-                </div>
-
-                {/* Painting workflow */}
-                <div style={{ marginTop: 'var(--spacing-16)' }}>
-                    <h3>Painting Workflow</h3>
-                    <p>A structured sequence prevents common mistakes. Follow these six steps in order, resist jumping ahead to details before the masses are resolved.</p>
-                    <div className="ct-grid cols-3" style={{ marginBottom: 0, marginTop: 'var(--spacing-8)' }}>
-                        {workflowSteps.map(s => (
-                            <div key={s.step} className="ct-card" style={{ padding: 'var(--spacing-5)', margin: 0, border: '1px solid var(--color-dark)' }}>
-                                <div style={{ display: 'flex', alignItems: 'baseline', gap: 'var(--spacing-3)', marginBottom: 'var(--spacing-3)' }}>
-                                    <span style={{ fontSize: 'var(--fontSize-1)', fontWeight: 'bold', fontFamily: 'var(--font-heading)', color: 'var(--color-primary-accent)', lineHeight: 1 }}>{s.step}</span>
-                                    <p style={{ margin: 0 }}><strong>{s.name}</strong></p>
-                                </div>
-                                <p style={{ fontSize: 'var(--fontSize-0)', margin: 0 }}>{s.description}</p>
-                            </div>
-                        ))}
                     </div>
                 </div>
 

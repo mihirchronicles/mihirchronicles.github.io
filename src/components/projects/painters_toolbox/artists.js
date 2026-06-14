@@ -278,20 +278,6 @@ const ArtistsIndex = ({ location }) => {
                 </div>
             </section>
 
-            {/* ─── SOURCES ─────────────────────────────────────────────── */}
-            <section style={{ marginBottom: 'var(--spacing-16)' }}>
-                <hr className="project-hr" />
-                <span className="ct-pill">Sources</span>
-                <h2>References</h2>
-                <p>Biographical details, dates, and era descriptions are drawn from the following sources. All images are public domain works sourced from Wikimedia Commons.</p>
-                <ul style={{ marginTop: 'var(--spacing-4)' }}>
-                    <li><a href="https://en.wikipedia.org/wiki/Wikipedia:Contents/Arts_and_culture" target="_blank" rel="noopener noreferrer">Wikipedia Arts &amp; Culture</a>: biographical summaries, dates, and movements</li>
-                    <li><a href="https://commons.wikimedia.org/" target="_blank" rel="noopener noreferrer">Wikimedia Commons</a>: public domain portraits and artwork images</li>
-                    <li><a href="https://www.metmuseum.org/toah/" target="_blank" rel="noopener noreferrer">The Metropolitan Museum of Art (Heilbrunn Timeline of Art History)</a>: era context and movement overviews</li>
-                    <li><a href="https://www.khanacademy.org/humanities/art-history" target="_blank" rel="noopener noreferrer">Khan Academy Art History</a>: technique descriptions and style analysis</li>
-                </ul>
-            </section>
-
         </>
     )
 }
