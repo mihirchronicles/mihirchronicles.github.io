@@ -67,7 +67,6 @@ const WorkIndex = ({ data, location }) => {
           <p><strong>[2023]</strong></p>
           <ul>
             <li>A poetry studio for beating the big imposter syndrome.</li>
-            <li></li>
           </ul>
           <p><strong>Website</strong>: <a href="https://bigimposter.com">Big Imposter</a></p>
         </div>
