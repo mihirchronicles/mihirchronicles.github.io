@@ -66,8 +66,8 @@ const WorkIndex = ({ data, location }) => {
         <div className="work-content-container">
           <p><strong>[2023]</strong></p>
           <ul>
-            <li>A side project on imposter syndrome.</li>
-            <li>A poetry studio for beating the big imposter syndrome. The project features poems written by me on imposter syndrome.</li>
+            <li>A poetry studio for beating the big imposter syndrome.</li>
+            <li></li>
           </ul>
           <p><strong>Website</strong>: <a href="https://bigimposter.com">Big Imposter</a></p>
         </div>
