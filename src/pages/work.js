@@ -17,6 +17,22 @@ const WorkIndex = ({ data, location }) => {
       <h1>Work</h1>
       <p className="ct-responsive-header-text">A collection of selected indie products and work projects I have built over the years.</p>
 
+      <h2>A Tree Club</h2>
+      <article className="work-container">
+        <div className="work-image-container">
+          <Zoom>
+            <StaticImage src="../images/atreeclub.png" alt="a tree club" className="gallery-image" />
+          </Zoom>
+        </div>
+        <div className="work-content-container">
+          <p><strong>[2026]</strong></p>
+          <ul>
+            <li>A passion project on trees and forestry.</li>
+          </ul>
+          {/* <p><strong>Website</strong>: <a href="">atreeclub</a></p> */}
+        </div>
+      </article>
+
       <h2>DAFgiving360 (Schwab Charitable)</h2>
       <article className="work-container">
         <div className="work-image-container">
