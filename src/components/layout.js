@@ -41,7 +41,7 @@ const Layout = ({ location, title, children, isBlogPost = false }) => {
         <hr></hr>
         <p><i>Drop me a note if you are curious to chat. Newsletter goes out once a year in December.</i></p>
         <div style={{ marginBottom: '1rem' }}>
-          <a href="https://twitter.com/mihirchronicles"><strong>Twitter</strong></a>
+          <a href="https://mihirchronicles.substack.com/"><strong>Substack</strong></a>
           {` `}
           <span> | </span>
           <a href="https://www.linkedin.com/in/mihirchronicles/"><strong>Linkedin</strong></a>
