@@ -21,7 +21,10 @@ const WorkIndex = ({ data, location }) => {
       <article className="work-container">
         <div className="work-image-container">
           <Zoom>
-            <StaticImage src="../images/atreeclub.png" alt="a tree club" className="gallery-image" />
+            <StaticImage src="../images/atreeclub.png" alt="a tree club landing" className="gallery-image" />
+          </Zoom>
+          <Zoom>
+            <StaticImage src="../images/atreeclub1.png" alt="a tree club " className="gallery-image" />
           </Zoom>
         </div>
         <div className="work-content-container">
