@@ -1941,12 +1941,17 @@ code {
 
 @media (max-width: 42rem) {
   .photo-roll-grid {
-    grid-template-columns: repeat(3, 1fr) !important;
+    grid-template-columns: repeat(5, 1fr) !important;
+    gap: var(--spacing-1);
   }
 
   .photo-tile--lead {
     grid-row: auto !important;
     grid-column: auto !important;
+  }
+
+  .photo-tile-overflow-count {
+    font-size: var(--fontSize-0);
   }
 }
 
