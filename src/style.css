@@ -1961,6 +1961,7 @@ code {
   align-items: center;
   justify-content: center;
   padding: var(--spacing-5);
+  overflow-y: auto;
 }
 
 .photo-lightbox-stage {
@@ -1973,7 +1974,7 @@ code {
 
 .photo-lightbox-image {
   max-width: min(1100px, 92vw);
-  max-height: 78vh;
+  max-height: 68vh;
   object-fit: contain;
   border-radius: var(--spacing-1);
 }
@@ -2022,6 +2023,17 @@ code {
   animation: photo-lightbox-fade 0.15s ease;
 }
 
+/* Anchor nav buttons to the viewport-filling backdrop rather than the
+   image stage, whose width shrinks to fit narrow/portrait photos and
+   would otherwise pull the prev/next buttons into overlap. */
+.photo-lightbox-backdrop .art-nav-button.prev {
+  left: var(--spacing-4);
+}
+
+.photo-lightbox-backdrop .art-nav-button.next {
+  right: var(--spacing-4);
+}
+
 @keyframes photo-lightbox-fade {
   from {
     opacity: 0;
@@ -2029,5 +2041,62 @@ code {
 
   to {
     opacity: 1;
+  }
+}
+
+.photo-lightbox-thumbnail-strip {
+  display: flex;
+  gap: var(--spacing-2);
+  max-width: min(1100px, 92vw);
+  width: 100%;
+  margin-top: var(--spacing-4);
+  overflow-x: auto;
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+}
+
+.photo-lightbox-thumbnail-strip::-webkit-scrollbar {
+  display: none;
+}
+
+.photo-lightbox-thumbnail {
+  flex: 0 0 64px;
+  height: 64px;
+  padding: 0;
+  border: 2px solid transparent;
+  border-radius: var(--spacing-1);
+  overflow: hidden;
+  background: none;
+  cursor: pointer;
+  opacity: 0.5;
+  transition: opacity 0.2s ease, border-color 0.2s ease;
+}
+
+.photo-lightbox-thumbnail:hover {
+  opacity: 0.85;
+}
+
+.photo-lightbox-thumbnail.active {
+  opacity: 1;
+  border-color: var(--color-primary-accent);
+}
+
+.photo-lightbox-thumbnail .gatsby-image-wrapper {
+  width: 100%;
+  height: 100%;
+}
+
+.photo-lightbox-thumbnail .gatsby-image-wrapper img {
+  object-fit: cover;
+}
+
+@media (max-width: 767px) {
+  .photo-lightbox-thumbnail-strip {
+    gap: var(--spacing-1);
+  }
+
+  .photo-lightbox-thumbnail {
+    flex-basis: 48px;
+    height: 48px;
   }
 }

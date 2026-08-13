@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/no-static-element-interactions, jsx-a11y/click-events-have-key-events, jsx-a11y/no-noninteractive-element-interactions */
 import * as React from "react"
 import { useEffect, useRef } from "react"
-import { getSrc } from "gatsby-plugin-image"
+import { GatsbyImage, getSrc } from "gatsby-plugin-image"
 import { formatDate } from "../utils/date"
 
 const SWIPE_THRESHOLD = 50
@@ -10,6 +10,7 @@ const Lightbox = ({ roll, index, onClose, onNavigate }) => {
   const backdropRef = useRef(null)
   const closeButtonRef = useRef(null)
   const touchStartX = useRef(null)
+  const activeThumbRef = useRef(null)
 
   const photos = roll.photos
   const total = photos.length
@@ -73,6 +74,10 @@ const Lightbox = ({ roll, index, onClose, onNavigate }) => {
     preload((index - 1 + total) % total)
   }, [index, total, photos])
 
+  useEffect(() => {
+    activeThumbRef.current?.scrollIntoView({ behavior: "smooth", inline: "center", block: "nearest" })
+  }, [index])
+
   const handleTouchStart = (e) => {
     touchStartX.current = e.touches[0].clientX
   }
@@ -111,19 +116,19 @@ const Lightbox = ({ roll, index, onClose, onNavigate }) => {
         ✕
       </button>
 
-      <div className="photo-lightbox-stage" onClick={(e) => e.stopPropagation()}>
-        <button
-          type="button"
-          className="art-nav-button prev"
-          aria-label="Previous photo"
-          onClick={(e) => {
-            e.stopPropagation()
-            goPrev()
-          }}
-        >
-          ❮
-        </button>
+      <button
+        type="button"
+        className="art-nav-button prev"
+        aria-label="Previous photo"
+        onClick={(e) => {
+          e.stopPropagation()
+          goPrev()
+        }}
+      >
+        ❮
+      </button>
 
+      <div className="photo-lightbox-stage" onClick={(e) => e.stopPropagation()}>
         <div className="photo-lightbox-image-wrap" key={index}>
           <img
             className="photo-lightbox-image"
@@ -131,19 +136,19 @@ const Lightbox = ({ roll, index, onClose, onNavigate }) => {
             alt={altText}
           />
         </div>
-
-        <button
-          type="button"
-          className="art-nav-button next"
-          aria-label="Next photo"
-          onClick={(e) => {
-            e.stopPropagation()
-            goNext()
-          }}
-        >
-          ❯
-        </button>
       </div>
+
+      <button
+        type="button"
+        className="art-nav-button next"
+        aria-label="Next photo"
+        onClick={(e) => {
+          e.stopPropagation()
+          goNext()
+        }}
+      >
+        ❯
+      </button>
 
       <div className="photo-lightbox-caption-block" onClick={(e) => e.stopPropagation()}>
         {photo.caption && <div className="photo-lightbox-caption">{photo.caption}</div>}
@@ -151,6 +156,28 @@ const Lightbox = ({ roll, index, onClose, onNavigate }) => {
           {photo.place} · {formatDate(photo.date)} · {index + 1} / {total}
         </div>
       </div>
+
+      {total > 1 && (
+        <div className="photo-lightbox-thumbnail-strip" onClick={(e) => e.stopPropagation()}>
+          {photos.map((p, i) => {
+            const isActive = i === index
+            const thumbAlt = p.caption || `${p.place}, ${formatDate(p.date)}`
+            return (
+              <button
+                type="button"
+                key={p.file}
+                ref={isActive ? activeThumbRef : null}
+                className={`photo-lightbox-thumbnail${isActive ? " active" : ""}`}
+                aria-label={thumbAlt}
+                aria-current={isActive}
+                onClick={() => onNavigate(i)}
+              >
+                {p.image && <GatsbyImage image={p.image} alt="" />}
+              </button>
+            )
+          })}
+        </div>
+      )}
     </div>
   )
 }
