@@ -1,13 +1,12 @@
 /* eslint-disable jsx-a11y/click-events-have-key-events, jsx-a11y/no-static-element-interactions */
 import * as React from "react"
-import { useState } from "react"
 import { graphql } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import useCarousel from "../utils/useCarousel"
 const ArtIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
-  const [currentIndex, setCurrentIndex] = useState(0)
 
   const images = [
     <StaticImage src="../images/art/chicity.png" alt="chi city" className="gallery-image" />,
@@ -43,13 +42,7 @@ const ArtIndex = ({ data, location }) => {
     <StaticImage src="../images/art/leo_art.jpeg" alt="leo" />
   ]
 
-  const nextImage = () => {
-    setCurrentIndex((prevIndex) => (prevIndex + 1) % images.length)
-  }
-
-  const prevImage = () => {
-    setCurrentIndex((prevIndex) => (prevIndex === 0 ? images.length - 1 : prevIndex - 1))
-  }
+  const [currentIndex, setCurrentIndex, nextImage, prevImage] = useCarousel(images.length)
 
   return (
     <Layout location={location} title={siteTitle}>

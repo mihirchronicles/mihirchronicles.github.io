@@ -87,14 +87,12 @@ export const pageQuery = graphql`
       filter: { fileAbsolutePath: { regex: "/content/notes/" }}
       sort: { frontmatter: { date: DESC } }) {
       nodes {
-        excerpt
         fields {
           slug
         }
         frontmatter {
           date(formatString: "MMMM DD, YYYY")
           title
-          description
           tags
         }
       }
@@ -103,14 +101,12 @@ export const pageQuery = graphql`
       filter: { internal: { contentFilePath: { regex: "/content/notes/" } } }
       sort: { frontmatter: { date: DESC } }) {
       nodes {
-        excerpt
         fields {
           slug
         }
         frontmatter {
           date(formatString: "MMMM DD, YYYY")
           title
-          description
           tags
         }
       }

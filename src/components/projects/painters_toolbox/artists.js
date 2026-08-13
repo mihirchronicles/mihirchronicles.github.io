@@ -3,26 +3,14 @@ import * as React from "react"
 
 // ─── Artist Data ────────────────────────────────────────────────────────────
 import artists from "./artists.json"
+import useCarousel from "../../../utils/useCarousel"
 
 // ─── Component ──────────────────────────────────────────────────────────────
-const ArtistsIndex = ({ location }) => {
-    const [activeIdx, setActiveIdx] = React.useState(0)
+const ArtistsIndex = () => {
     const [imgErrors, setImgErrors] = React.useState({})
 
     const total = artists.length
-
-    const goNext = React.useCallback(() => setActiveIdx(i => (i + 1) % total), [total])
-    const goPrev = React.useCallback(() => setActiveIdx(i => (i - 1 + total) % total), [total])
-
-    // keyboard navigation
-    React.useEffect(() => {
-        const handler = e => {
-            if (e.key === 'ArrowRight') goNext()
-            if (e.key === 'ArrowLeft') goPrev()
-        }
-        window.addEventListener('keydown', handler)
-        return () => window.removeEventListener('keydown', handler)
-    }, [goNext, goPrev])
+    const [activeIdx, setActiveIdx, goNext, goPrev] = useCarousel(total)
 
     const handleImgError = (key) => setImgErrors(prev => ({ ...prev, [key]: true }))
 
@@ -43,73 +31,6 @@ const ArtistsIndex = ({ location }) => {
 
     return (
         <>
-
-
-            <style>{`
-                /* Card stack - desktop: absolute stacking; mobile: single card in flow */
-                .artist-card-item {
-                    position: absolute;
-                    top: 0; left: 0; right: 0;
-                    border-radius: var(--spacing-2);
-                    background: var(--color-background);
-                    border: 1px solid var(--color-secondary-accent);
-                    transition: all 0.45s cubic-bezier(0.25, 0.46, 0.45, 0.94);
-                }
-                .card-stack-wrap {
-                    position: relative;
-                    height: 560px;
-                    margin: 0 auto;
-                }
-
-                @media (max-width: 767px) {
-                    /* Reset card to normal flow, only active card visible */
-                    .card-stack-wrap { height: auto !important; padding-bottom: var(--spacing-4); }
-                    .artist-card-item { position: static !important; display: none !important; transform: none !important; opacity: 1 !important; }
-                    .artist-card-offset-0 { display: block !important; }
-                    /* Card inner layout */
-                    .artist-card-inner { flex-direction: column !important; gap: var(--spacing-3) !important; padding: var(--spacing-4) !important; height: auto !important; }
-                    /* Portrait */
-                    .artist-portrait-wrap { width: 100% !important; height: 220px !important; min-width: unset !important; }
-                    .portrait-img { object-fit: contain !important; object-position: center center !important; background: var(--color-background); }
-                    /* Works */
-                    .work-thumb { width: 60px !important; height: 60px !important; }
-
-                    .ct-button { padding: var(--spacing-2) var(--spacing-4) !important; font-size: var(--fontSize-0) !important; }
-                }
-                @media (max-width: 480px) {
-                    .artist-portrait-wrap { height: 180px !important; }
-
-                }
-                .work-thumb {
-                    width: 80px;
-                    height: 80px;
-                    object-fit: cover;
-                    border-radius: var(--spacing-1);
-                    border: 2px solid var(--color-dark);
-                    background: var(--color-background);
-                }
-                .portrait-img {
-                    width: 100%;
-                    height: 100%;
-                    object-fit: cover;
-                    object-position: top center;
-                }
-                .portrait-placeholder {
-                    width: 100%;
-                    height: 100%;
-                    display: flex;
-                    align-items: center;
-                    justify-content: center;
-                    font-size: 4rem;
-                    font-weight: bold;
-                    font-family: var(--font-heading);
-                    color: #fff;
-                    opacity: 0.85;
-                }
-
-
-            `}</style>
-
             <header style={{ textAlign: 'left', marginBottom: 'var(--spacing-16)' }}>
                 <div style={{ marginTop: 'var(--spacing-8)' }}>
                     <a href="#explore" className="ct-button">Meet the Masters &darr;</a>
@@ -129,7 +50,7 @@ const ArtistsIndex = ({ location }) => {
 
 
                 {/* Card stack */}
-                <div className="card-stack-wrap">
+                <div className="artist-card-stack-wrap">
                     {artists.map((a, i) => {
                         const offset = getCardOffset(i)
                         if (offset < 0) return null
@@ -215,7 +136,7 @@ const ArtistsIndex = ({ location }) => {
                     <button onClick={goPrev} className="ct-button" aria-label="Previous artist">&larr; Prev</button>
                     <div className="nav-dots-desktop">
                         {artists.map((_, i) => (
-                            <button key={i} className={`nav-dot${i === activeIdx ? ' active' : ''}`} onClick={() => setActiveIdx(i)} aria-label={`Go to artist ${i + 1}`}><span style={{ position: 'absolute', width: 1, height: 1, overflow: 'hidden', clip: 'rect(0,0,0,0)', whiteSpace: 'nowrap' }}>{i + 1}</span></button>
+                            <button key={i} className={`nav-dot${i === activeIdx ? ' active' : ''}`} onClick={() => setActiveIdx(i)} aria-label={`Go to artist ${i + 1}`}><span className="sr-only">{i + 1}</span></button>
                         ))}
                     </div>
                     <div className="nav-counter-mobile mono-text">

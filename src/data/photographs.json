@@ -1,0 +1,39 @@
+[
+  {
+    "slug": "vipassana-2021",
+    "title": "Vipassana in North Fork, California",
+    "date": "2021-10",
+    "photos": [
+      {
+        "file": "vipassana-2021/01-vipassana.jpg",
+        "caption": "Meditation hall",
+        "place": "North Fork, California",
+        "date": "2021-10-03"
+      },
+      {
+        "file": "vipassana-2021/02-vipassana.jpg",
+        "caption": "An old tree",
+        "place": "North Fork, California",
+        "date": "2021-10-03"
+      },
+      {
+        "file": "vipassana-2021/03-vipassana.jpg",
+        "caption": "In the woods",
+        "place": "North Fork, California",
+        "date": "2021-10-03"
+      },
+      {
+        "file": "vipassana-2021/04-vipassana.jpg",
+        "caption": "Sitting logs",
+        "place": "North Fork, California",
+        "date": "2021-10-03"
+      },
+      {
+        "file": "vipassana-2021/05-vipassana.jpg",
+        "caption": "Meditation trail",
+        "place": "North Fork, California",
+        "date": "2021-10-03"
+      }
+    ]
+  }
+]

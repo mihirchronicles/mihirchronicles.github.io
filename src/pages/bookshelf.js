@@ -95,14 +95,12 @@ export const pageQuery = graphql`
       filter: { fileAbsolutePath: { regex: "/content/bookshelf/" }}
       sort: { frontmatter: { date: DESC } }) {
       nodes {
-        excerpt
         fields {
           slug
         }
         frontmatter {
           date(formatString: "MMMM DD, YYYY")
           title
-          description
         }
       }
     }

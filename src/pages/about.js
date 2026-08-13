@@ -1,13 +1,37 @@
 import * as React from "react"
-import { graphql } from "gatsby"
-import { StaticImage } from "gatsby-plugin-image"
+import { graphql, Link } from "gatsby"
+import { StaticImage, GatsbyImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import photographsData from "../data/photographs.json"
+
+const RECENT_MOMENTS_COUNT = 5
+
+const buildRecentPhotos = (data) => {
+  const imageMap = new Map()
+  data.allFile.nodes.forEach((node) => {
+    imageMap.set(node.relativePath, node.gridImage?.gatsbyImageData)
+  })
+
+  const allPhotos = photographsData.flatMap((roll) =>
+    roll.photos.map((photo) => ({
+      ...photo,
+      rollSlug: roll.slug,
+      rollTitle: roll.title,
+      image: imageMap.get(`photographs/${photo.file}`),
+    }))
+  )
+
+  allPhotos.sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : 0))
+  return allPhotos.slice(0, RECENT_MOMENTS_COUNT)
+}
 
 const AboutIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes
+  const recentPhotos = React.useMemo(() => buildRecentPhotos(data), [data])
+  const rollTitles = [...new Set(recentPhotos.map((photo) => photo.rollTitle))].join(" · ")
 
   if (posts.length === 0) {
     return (
@@ -31,6 +55,26 @@ const AboutIndex = ({ data, location }) => {
       <p><strong>The game of studying markets</strong> is always fun because it challenges me to adapt. First, why investing? I was raised by a single mother. And when we were in the thick of barely having anything, investing was my way out. I set out to invest my teenage earnings in stocks to be self-sufficient and help my mom with bills. Besides that, there was no better way to learn about the real world than throwing myself out there. I purchased my first stock at the age of 17, which happened to be right before the 2008 recession. In a few months, I lost all my savings that I accumulated from my summer jobs. The pain from losing a huge sum of money at a young age was tough to swallow, but I learned several lessons early on in my life. It shaped my choices and way of thinking. This is when understanding the psychology of markets and business became fascinating to me. In the end, markets are people. If we understand markets, we understand people, and vice-versa. Money is the greatest incentive to study human behavior, emotions, and decision-making. It is also a great multiplier of making dreams come true. Capital allocation, if done right, is a great way to move society forward.</p>
       <p><strong>The game of creation</strong> is another one. There is something beautiful about bringing abstraction to life. If I wouldn't have studied finance and accounting, I would have gone to school for design or engineering. I built my first product after graduating from college. It wasn't rocket science—a bamboo pen with postcards packaged beautifully. The ability to bring the vision to life and sharing with others was fulfilling. Soon after that, I learned how to write code. Creating has become my obsession. My motto is now “don't complain, create.”</p>
       <p>Lastly, <strong>the game of finding harmony with soul</strong>. I cherish immersing out in the nature, being out in the woods, hiking trails, climbing mountains, gazing at the stars, reading in solitude, teaching my son about life and creating beautiful things. When I pursue these things, I am in my truest element. There is no pain, and more importantly my soul is alive. All these things help me build surplus of positive energy. All I am striving for is to become a tree with continuous goals—firmly rooted, building deep systems, growing slowly, abandoning fail paths, finding new paths, seeking light, free from external conditions, working bottoms up, building inside out, cultivating others, and exploring for the sake of exploration without any expectations.</p>
+
+      {recentPhotos.length > 0 && (
+        <section className="photo-teaser">
+          <div className="photo-teaser-header">
+            <span className="photo-teaser-label">Recent moments</span>
+            <Link to="/photographs" className="photo-teaser-link">All photographs →</Link>
+          </div>
+          <div className="photo-teaser-grid">
+            {recentPhotos.map((photo) => (
+              <Link key={photo.file} to={`/photographs#${photo.rollSlug}`} className="photo-teaser-tile">
+                {photo.image && (
+                  <GatsbyImage image={photo.image} alt={photo.caption || `${photo.place}, ${photo.date}`} />
+                )}
+              </Link>
+            ))}
+          </div>
+          <p className="photo-teaser-footer mono-text">{rollTitles}</p>
+        </section>
+      )}
+
       <p><i>Scientia potentia est,</i></p>
       <p><i>Mihir Patel</i></p>
     </Layout>
@@ -55,14 +99,20 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(sort: { frontmatter: { date: DESC } }) {
       nodes {
-        excerpt
         fields {
           slug
         }
         frontmatter {
           date(formatString: "MMMM DD, YYYY")
           title
-          description
+        }
+      }
+    }
+    allFile(filter: { relativeDirectory: { glob: "photographs/*" } }) {
+      nodes {
+        relativePath
+        gridImage: childImageSharp {
+          gatsbyImageData(layout: CONSTRAINED, width: 600, placeholder: BLURRED, formats: [AUTO, WEBP, AVIF])
         }
       }
     }

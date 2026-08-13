@@ -99,17 +99,9 @@ Mr. S.N. Goenka explains the purpose of why you should strive to live artfully d
 > Observing reality as it is by observing the truth inside-this is knowing oneself directly and experientially. As one practices, one keeps freeing oneself from the misery of mental impurities. From the gross, external, apparent truth, one penetrates to the ultimate truth of mind and matter. Then one transcends that, and experiences a truth which is beyond mind and matter, beyond time and space, beyond the conditioned field of relativity: the truth of total liberation from all defilements, all impurities, all suffering. Whatever name one gives this ultimate truth is irrelevant; it is the final goal of everyone.
 
 ## California Vipassana Center (North Fork) 
-All pictures below were taken by my friend Victor Tse who was generous enough to give me a ride to and from the center. I also learned so much from him during my ride about his experiences. I earned a new friendship along with calmness. The center is located in North Fork in California.
+Picture below was taken by my friend Victor Tse who was generous enough to give me a ride to and from the center. I also learned so much from him during my ride about his experiences. I earned a new friendship along with calmness. The center is located in North Fork in California.
 
 <img src="../../src/images/vipassana-1.jpg" alt="vipassana"/>
-<br>
-<img src="../../src/images/vipassana-2.jpg" alt="vipassana"/>
-<br>
-<img src="../../src/images/vipassana-3.jpg" alt="vipassana"/>
-<br>
-<img src="../../src/images/vipassana-4.jpg" alt="vipassana"/>
-<br>
-<img src="../../src/images/vipassana-5.jpg" alt="vipassana"/>
 
 ## Further reading
 <details>

@@ -1,8 +1,7 @@
 import * as React from "react"
 import { Link } from "gatsby"
+import { StaticImage } from "gatsby-plugin-image"
 import Toggle from "./toggle"
-
-import mehere from '../images/mehere.png'
 
 const Layout = ({ location, title, children, isBlogPost = false }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -23,7 +22,8 @@ const Layout = ({ location, title, children, isBlogPost = false }) => {
     <div className={`global-wrapper ${isBlogPost ? "wide-wrapper" : ""}`} data-is-root-path={isRootPath}>
       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
         <Link to="/" className="bio-avatar-link">
-          <img src={mehere}
+          <StaticImage
+            src="../images/mehere.png"
             className="bio-avatar"
             layout="fixed"
             formats={["auto", "webp", "avif"]}
@@ -31,7 +31,7 @@ const Layout = ({ location, title, children, isBlogPost = false }) => {
             height={32}
             quality={95}
             alt="The Mihir Chronicles"
-          ></img>
+          />
         </Link>
         <Toggle />
       </div>
@@ -41,9 +41,6 @@ const Layout = ({ location, title, children, isBlogPost = false }) => {
         <hr></hr>
         <p><i>Drop me a note if you are curious to chat. Newsletter goes out once a year in December.</i></p>
         <div style={{ marginBottom: '1rem' }}>
-          {/* <a href="https://mihirchronicles.substack.com/"><strong>Substack</strong></a>
-          {` `}
-          <span> | </span> */}
           <a href="https://www.linkedin.com/in/mihirchronicles/"><strong>Linkedin</strong></a>
           {` `}
           <span> | </span>
