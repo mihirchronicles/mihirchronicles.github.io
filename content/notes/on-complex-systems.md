@@ -117,7 +117,7 @@ Since its founding, the National Aeronautics, and Space Administration (NASA) ha
 - All other products in the system structure are realized by integration. Designers not only develop the design solutions to the products intended to perform the operational functions of the system but also establish requirements for the products and services that enable each operational/mission product in the system structure.
 - The first is design. After the entire framework and top-level design are made, it is then realized by engineering methods; at the same time, management is also involved in the process of experimentation. Only in this way can it be ensured that the problems can be adjusted and corrected in time so that they can get back on track as soon as possible.
 
-<img src="../../src/images/nasa_systems_engineering.png" alt="NASA Systems Engineering"/>
+<img src="../../src/images/notes/nasa_systems_engineering.png" alt="NASA Systems Engineering"/>
 
 ## Santa Fe Institute (SFI)
 
@@ -604,7 +604,7 @@ They provide situational awareness and shared assumptions about a context necess
     - III. Product Rental: Consumption is rapidly increasing as the market grows. The object is profitable, new features can differentiate it, and there is a refinement of needs. Things are starting to get competitive, and the profit margins mean it’s a crowded market.
     - IV. Commodity/Utility: The object is widespread and stabilizing. It’s a mature and ordered market. The high volume has decreased margins. Operational efficiency is king, and failure is not tolerated in the market. This is the cost of doing business (like oil & gas).
 - Wardley Map Canvas Template
-    - <img src="../../src/images/wardley-map.jpeg" alt="wardley map canvas"/>
+    - <img src="../../src/images/notes/wardley-map.jpeg" alt="wardley map canvas"/>
 
 **Further reading**
 
@@ -827,7 +827,7 @@ The analytics framework presented in Lean Analytics takes many of the stages in 
 4. Revenue - You’re looking for a scalable and sustainable business with the right margins in a healthy ecosystem.
 5. Scale - You’re looking to scale up the business on all fronts.
 
-<img src="../../src/images/lean_analytics.png" alt="lean_analytics"/>
+<img src="../../src/images/notes/lean_analytics.png" alt="lean_analytics"/>
 
 _Source_: https://leananalyticsbook.com/the-lean-gates-of-analytics/
 

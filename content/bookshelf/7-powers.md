@@ -36,7 +36,7 @@ I thoroughly enjoyed this book and realized how misunderstood the discipline of 
     - To assess which journeys are worth taking, you must first understand which destinations are desirable. Fortunately the 7 Powers does exactly that: it maps the only seven worthwhile destinations.
     - All Power starts with invention, be it the invention of a product, process, business model or brand. The adage “‘Me too’ won’t do” guides the creation of Power. Invention propels the other key element of the Fundamental Equation of Strategy-market size.
     - Planning rarely creates Power. It may meaningfully boost Power once you have established it, but if Power does not yet exist, you can’t rely on planning. Instead you must create something new that produces substantial economic gain in the value chain.
-    - <img src="../../src/images/7-powers-dynamics.png" alt="7-powers-dynamics"/>
+    - <img src="../../src/images/books/7-powers-dynamics.png" alt="7-powers-dynamics"/>
     - Operational excellence by itself is not enough.
 
 ### The Clock for the Power Progression
@@ -51,7 +51,7 @@ I thoroughly enjoyed this book and realized how misunderstood the discipline of 
 - Stage 3: After-Stability. The business may still be growing considerably, but growth has slowed from “explosive” levels, with 30–40% per-year unit growth as a workable choice for the cutoff. Above this rate, the market doubles in two years, sufficiently fluid for market leadership swaps without value-destroying counter-moves. A word of caution: parsing by growth should not create the impression that the phases above are congruent with the well-known product life cycle stages of introduction, growth, maturity and decline. Finally, there are two types of Power that are likely to be established in the stability stage.
     - Process Power
     - Branding
-- <img src="../../src/images/7-powers-progression.png" alt="7-powers-progression"/>
+- <img src="../../src/images/books/7-powers-progression.png" alt="7-powers-progression"/>
 
 ## Barriers
 
@@ -63,7 +63,7 @@ I thoroughly enjoyed this book and realized how misunderstood the discipline of 
 
 ### 7 Powers Framework
 
-- <img src="../../src/images/7-powers-ecosystem.png" alt="7-powers"/>
+- <img src="../../src/images/books/7-powers-ecosystem.png" alt="7-powers"/>
 
 ## III. Quotes
 

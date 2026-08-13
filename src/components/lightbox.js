@@ -116,39 +116,41 @@ const Lightbox = ({ roll, index, onClose, onNavigate }) => {
         ✕
       </button>
 
-      <button
-        type="button"
-        className="art-nav-button prev"
-        aria-label="Previous photo"
-        onClick={(e) => {
-          e.stopPropagation()
-          goPrev()
-        }}
-      >
-        ❮
-      </button>
+      <div className="photo-lightbox-row">
+        <button
+          type="button"
+          className="art-nav-button prev"
+          aria-label="Previous photo"
+          onClick={(e) => {
+            e.stopPropagation()
+            goPrev()
+          }}
+        >
+          ❮
+        </button>
 
-      <div className="photo-lightbox-stage" onClick={(e) => e.stopPropagation()}>
-        <div className="photo-lightbox-image-wrap" key={index}>
-          <img
-            className="photo-lightbox-image"
-            src={getSrc(photo.imageLarge)}
-            alt={altText}
-          />
+        <div className="photo-lightbox-stage" onClick={(e) => e.stopPropagation()}>
+          <div className="photo-lightbox-image-wrap" key={index}>
+            <img
+              className="photo-lightbox-image"
+              src={getSrc(photo.imageLarge)}
+              alt={altText}
+            />
+          </div>
         </div>
-      </div>
 
-      <button
-        type="button"
-        className="art-nav-button next"
-        aria-label="Next photo"
-        onClick={(e) => {
-          e.stopPropagation()
-          goNext()
-        }}
-      >
-        ❯
-      </button>
+        <button
+          type="button"
+          className="art-nav-button next"
+          aria-label="Next photo"
+          onClick={(e) => {
+            e.stopPropagation()
+            goNext()
+          }}
+        >
+          ❯
+        </button>
+      </div>
 
       <div className="photo-lightbox-caption-block" onClick={(e) => e.stopPropagation()}>
         {photo.caption && <div className="photo-lightbox-caption">{photo.caption}</div>}

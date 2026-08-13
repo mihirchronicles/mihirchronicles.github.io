@@ -1964,23 +1964,63 @@ code {
   overflow-y: auto;
 }
 
+/* Prev button, image stage, and next button as flex siblings in one row,
+   so the buttons always claim their own space and can never overlap the
+   image, regardless of viewport width or image aspect ratio. */
+.photo-lightbox-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--spacing-3);
+  width: 100%;
+  max-width: min(1200px, 96vw);
+}
+
 .photo-lightbox-stage {
   position: relative;
   display: flex;
   align-items: center;
   justify-content: center;
-  max-width: min(1100px, 92vw);
+  flex: 1 1 auto;
+  min-width: 0;
 }
 
 .photo-lightbox-image {
-  max-width: min(1100px, 92vw);
+  display: block;
+  max-width: 100%;
   max-height: 68vh;
   object-fit: contain;
   border-radius: var(--spacing-1);
 }
 
+.photo-lightbox-row .art-nav-button {
+  position: static;
+  flex-shrink: 0;
+  transform: none;
+}
+
+.photo-lightbox-row .art-nav-button:hover {
+  transform: translate(-2px, -2px);
+}
+
+.photo-lightbox-row .art-nav-button:active {
+  transform: translate(2px, 2px);
+}
+
+@media (max-width: 480px) {
+  .photo-lightbox-row {
+    gap: var(--spacing-2);
+  }
+
+  .photo-lightbox-row .art-nav-button {
+    width: 36px;
+    height: 36px;
+    font-size: 1.1rem;
+  }
+}
+
 .photo-lightbox-caption-block {
-  max-width: min(1100px, 92vw);
+  max-width: min(1200px, 96vw);
   width: 100%;
   margin-top: var(--spacing-4);
   text-align: left;
@@ -2020,18 +2060,9 @@ code {
   display: flex;
   align-items: center;
   justify-content: center;
+  min-width: 0;
+  max-width: 100%;
   animation: photo-lightbox-fade 0.15s ease;
-}
-
-/* Anchor nav buttons to the viewport-filling backdrop rather than the
-   image stage, whose width shrinks to fit narrow/portrait photos and
-   would otherwise pull the prev/next buttons into overlap. */
-.photo-lightbox-backdrop .art-nav-button.prev {
-  left: var(--spacing-4);
-}
-
-.photo-lightbox-backdrop .art-nav-button.next {
-  right: var(--spacing-4);
 }
 
 @keyframes photo-lightbox-fade {
@@ -2047,7 +2078,7 @@ code {
 .photo-lightbox-thumbnail-strip {
   display: flex;
   gap: var(--spacing-2);
-  max-width: min(1100px, 92vw);
+  max-width: min(1200px, 96vw);
   width: 100%;
   margin-top: var(--spacing-4);
   overflow-x: auto;

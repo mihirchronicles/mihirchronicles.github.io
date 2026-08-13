@@ -101,7 +101,7 @@ Mr. S.N. Goenka explains the purpose of why you should strive to live artfully d
 ## California Vipassana Center (North Fork) 
 Picture below was taken by my friend Victor Tse who was generous enough to give me a ride to and from the center. I also learned so much from him during my ride about his experiences. I earned a new friendship along with calmness. The center is located in North Fork in California.
 
-<img src="../../src/images/vipassana-1.jpg" alt="vipassana"/>
+<img src="../../src/images/notes/vipassana-1.jpg" alt="vipassana"/>
 
 ## Further reading
 <details>

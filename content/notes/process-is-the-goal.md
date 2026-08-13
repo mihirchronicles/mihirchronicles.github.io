@@ -40,7 +40,7 @@ Goal-setting was clearly becoming a status game, so lessening the importance of 
 
 I started taking inspiration from Benjamin Franklin's daily system. He was a systems thinker. He also accomplished a lot in his lifetime. He set up a system to ask daily questions at the start of the day and at the end of the day: _what good shall I do today? and what good have I done today?_ This is a very simple yet impactful system. He spent time reflecting back every day while moving forward. He frequently journaled which allowed for daily reflection.
 
-<img src="../../src/images/benjamin_franklin_schedule.png" alt="Benjamin Franklin's System"/>
+<img src="../../src/images/notes/benjamin_franklin_schedule.png" alt="Benjamin Franklin's System"/>
 <br>
 
 As an adult, I have gone deeper and deeper into habit creation, which is strictly practiced. I use Notion to manage my process. However, tools do not shape me or my process, but the process does. Tools play an important role in keeping up with the process, but the tools could be a simple pen and paper.

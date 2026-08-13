@@ -159,7 +159,7 @@ In college during my final quarter, I took some creative classes. I didn't need 
 
 Covid hit in 2020 and I picked up on making art again after work and during the weekends. I realized how therapeutic drawing was. I forgot about everything that was going around me. I came to a realization that getting lost in making and creating art was therapeutic. Everyone should find hobbies because they inspire us to tap into our creative side. Making art is like meditating with a pen which requires no typing or browsing endlessly on devices. It requires singular focus. Below are some of the sketches from 2020 quarantining.
 
-<img src="../../src/images/art.png" alt="artwork"/>
+<img src="../../src/images/notes/art.png" alt="artwork"/>
 <br>
 
 Art is contextual. It depends on conditions such as emotions, interests, perspectives and global issues. Art uncovers stigma, truth and propaganda. It is inspiring and moving. There is something else about making art which is getting lost in the process and letting our imaginations play out. It is an iterative process which never stops. To say the least, work of an artist is never completed, only abandoned.
@@ -207,7 +207,7 @@ It takes a very long time to find something that works. My sales were flat for t
 
 I also started spending more time on distributing and cold emails. My sales grew, social media accounts grew and newsletter grew. But all-in-all, the spike in the chart below is directly correlated with my distribution efforts. My efforts are still inconsistent, but one thing is clear, efforts lead to action. Building anything valuable takes time, effort and energy. Don't skip distribution.
 
-<img src="../../src/images/wise-charlie-growth.png" alt="wisecharlie-growth"/>
+<img src="../../src/images/notes/wise-charlie-growth.png" alt="wisecharlie-growth"/>
 
 4. **Opportunity cost**
 I have a development background so I was obsessed with building features from scratch. I spent time developing the first version of the website using HTML, CSS and Vue.js. As my features got complex, I wasted more time on managing code rather than building and distribution.

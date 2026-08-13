@@ -21,7 +21,7 @@ const WorkIndex = ({ data, location }) => {
       <article className="work-container">
         <div className="work-image-container">
           <Zoom>
-            <StaticImage src="../images/atreeclub.png" alt="a tree club landing" className="gallery-image" />
+            <StaticImage src="../images/work/atreeclub.png" alt="a tree club landing" className="gallery-image" />
           </Zoom>
         </div>
         <div className="work-content-container">
@@ -37,7 +37,7 @@ const WorkIndex = ({ data, location }) => {
       <article className="work-container">
         <div className="work-image-container">
           <Zoom>
-            <StaticImage src="../images/daf.png" alt="dafgiving360 donor advised fund" className="gallery-image" />
+            <StaticImage src="../images/work/daf.png" alt="dafgiving360 donor advised fund" className="gallery-image" />
           </Zoom>
         </div>
         <div className="work-content-container">
@@ -55,7 +55,7 @@ const WorkIndex = ({ data, location }) => {
       <article className="work-container">
         <div className="work-image-container">
           <Zoom>
-            <StaticImage src="../images/sip.png" alt="schwab intelligent portfolios" className="gallery-image" />
+            <StaticImage src="../images/work/sip.png" alt="schwab intelligent portfolios" className="gallery-image" />
           </Zoom>
         </div>
         <div className="work-content-container">
@@ -73,10 +73,10 @@ const WorkIndex = ({ data, location }) => {
       <article className="work-container">
         <div className="work-image-container">
           <Zoom>
-            <StaticImage src="../images/big_imposter_1.png" alt="big_imposter" className="gallery-image" />
+            <StaticImage src="../images/work/big_imposter_1.png" alt="big_imposter" className="gallery-image" />
           </Zoom>
           <Zoom>
-            <StaticImage src="../images/big_imposter_2.png" alt="big_imposter" className="gallery-image" />
+            <StaticImage src="../images/work/big_imposter_2.png" alt="big_imposter" className="gallery-image" />
           </Zoom>
         </div>
         <div className="work-content-container">
@@ -92,16 +92,16 @@ const WorkIndex = ({ data, location }) => {
       <article className="work-container">
         <div className="work-image-container">
           <Zoom>
-            <StaticImage src="../images/wise_charlie_deck.jpg" alt="wisecharlie" className="gallery-image" />
+            <StaticImage src="../images/work/wise_charlie_deck.jpg" alt="wisecharlie" className="gallery-image" />
           </Zoom>
           <Zoom>
-            <StaticImage src="../images/wise_charlie1.png" alt="wisecharlie" className="gallery-image" />
+            <StaticImage src="../images/work/wise_charlie1.png" alt="wisecharlie" className="gallery-image" />
           </Zoom>
           <Zoom>
-            <StaticImage src="../images/wise_charlie_logo.jpg" alt="wisecharlie" className="gallery-image" />
+            <StaticImage src="../images/work/wise_charlie_logo.jpg" alt="wisecharlie" className="gallery-image" />
           </Zoom>
           <Zoom>
-            <StaticImage src="../images/wise_charlie_landing_page.png" alt="wisecharlie" className="gallery-image" />
+            <StaticImage src="../images/work/wise_charlie_landing_page.png" alt="wisecharlie" className="gallery-image" />
           </Zoom>
         </div>
         <div className="work-content-container">
@@ -124,7 +124,7 @@ const WorkIndex = ({ data, location }) => {
       <article className="work-container">
         <div className="work-image-container">
           <Zoom>
-            <StaticImage src="../images/morningstar_dot_com.png" alt="morningstar_dot_com" className="gallery-image" />
+            <StaticImage src="../images/work/morningstar_dot_com.png" alt="morningstar_dot_com" className="gallery-image" />
           </Zoom>
         </div>
         <div className="work-content-container">
@@ -141,7 +141,7 @@ const WorkIndex = ({ data, location }) => {
       <article className="work-container">
         <div className="work-image-container">
           <Zoom>
-            <StaticImage src="../images/morningstar_design_system.png" alt="designsystem" className="gallery-image" />
+            <StaticImage src="../images/work/morningstar_design_system.png" alt="designsystem" className="gallery-image" />
           </Zoom>
         </div>
         <div className="work-content-container">
@@ -160,10 +160,10 @@ const WorkIndex = ({ data, location }) => {
       <article className="work-container">
         <div className="work-image-container">
           <Zoom>
-            <StaticImage src="../images/spendout.png" alt="spendout" className="gallery-image" />
+            <StaticImage src="../images/work/spendout.png" alt="spendout" className="gallery-image" />
           </Zoom>
           <Zoom>
-            <StaticImage src="../images/spendout2.png" alt="spendout2" className="gallery-image" />
+            <StaticImage src="../images/work/spendout2.png" alt="spendout2" className="gallery-image" />
           </Zoom>
         </div>
         <div className="work-content-container">
@@ -180,13 +180,13 @@ const WorkIndex = ({ data, location }) => {
       <article className="work-container">
         <div className="work-image-container">
           <Zoom>
-            <StaticImage src="../images/humblepens.png" alt="humblepens" className="gallery-image" />
+            <StaticImage src="../images/work/humblepens.png" alt="humblepens" className="gallery-image" />
           </Zoom>
           <Zoom>
-            <StaticImage src="../images/humble_pen.jpg" alt="humblepen" className="gallery-image" />
+            <StaticImage src="../images/work/humble_pen.jpg" alt="humblepen" className="gallery-image" />
           </Zoom>
           <Zoom>
-            <StaticImage src="../images/hp_sketch.png" width={700} alt="humblepen" className="gallery-image" />
+            <StaticImage src="../images/work/hp_sketch.png" width={700} alt="humblepen" className="gallery-image" />
           </Zoom>
         </div>
         <div className="work-content-container">
