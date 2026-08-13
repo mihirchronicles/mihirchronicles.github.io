@@ -67,9 +67,8 @@ const PhotographsIndex = ({ data, location }) => {
       <div className="photographs-rolls">
         {visibleRolls.map((roll, rollIndex) => {
           const hasLead = roll.photos.length >= 5
-          const leadRight = hasLead && rollIndex % 2 === 1
           const gridClass = hasLead
-            ? `photo-roll-grid ${leadRight ? "photo-roll-grid--lead-right" : "photo-roll-grid--lead-left"}`
+            ? "photo-roll-grid photo-roll-grid--lead-left"
             : "photo-roll-grid photo-roll-grid--no-lead"
           const overflowCount = roll.photos.length > 5 ? roll.photos.length - 4 : 0
           const visibleCount = hasLead ? Math.min(5, roll.photos.length) : roll.photos.length
@@ -80,14 +79,14 @@ const PhotographsIndex = ({ data, location }) => {
               <div className="photo-roll-header">
                 <span className="photo-roll-title">{roll.title}</span>
                 <span className="photo-roll-meta mono-text">
-                  {monthLabel(roll.date)} · {roll.photos.length} photo{roll.photos.length === 1 ? "" : "s"}
+                  {monthLabel(roll.date)}, {roll.photos.length} photo{roll.photos.length === 1 ? "" : "s"}
                 </span>
               </div>
               <div className={gridClass}>
                 {tiles.map((photo, i) => {
                   const isLead = hasLead && i === 0
                   const isOverflowTile = overflowCount > 0 && i === 4
-                  const tileStyle = isLead ? { gridRow: "span 2", gridColumn: leadRight ? 3 : 1 } : undefined
+                  const tileStyle = isLead ? { gridRow: "span 2", gridColumn: 1 } : undefined
 
                   return (
                     <button

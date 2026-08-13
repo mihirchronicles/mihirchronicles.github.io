@@ -35,5 +35,42 @@
         "date": "2021-10-03"
       }
     ]
+  },
+    {
+    "slug": "haiti-2013",
+    "title": "The School of Choice, Haiti",
+    "date": "2013-02",
+    "photos": [
+      {
+        "file": "haiti-2013/01-haiti-2013.png",
+        "caption": "Stroll in the village",
+        "place": "Mirebalais, Haiti",
+        "date": "2013-02-03"
+      }, 
+      {
+        "file": "haiti-2013/02-haiti-2013.png",
+        "caption": "Walk by the river bank ",
+        "place": "Mirebalais, Haiti",
+        "date": "2013-02-03"
+      },
+      {
+        "file": "haiti-2013/03-haiti-2013.png",
+        "caption": "Sharing American candies with kids at l'Ecole de Choix (The School of Choice)",
+        "place": "Mirebalais, Haiti",
+        "date": "2013-02-04"
+      },
+      {
+        "file": "haiti-2013/04-haiti-2013.png",
+        "caption": "Leonardo Jospeh showing his students the endless possibilities of microscope",
+        "place": "Mirebalais, Haiti",
+        "date": "2013-02-04"
+      },
+      {
+        "file": "haiti-2013/05-haiti-2013.png",
+        "caption": "Soccer & kids at l'Ecole de Choix",
+        "place": "Mirebalais, Haiti",
+        "date": "2013-02-04"
+      }
+    ]
   }
 ]

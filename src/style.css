@@ -1841,6 +1841,7 @@ code {
   display: flex;
   flex-direction: column;
   gap: var(--spacing-12);
+  margin-bottom: var(--spacing-8);
 }
 
 .photo-roll-header {
@@ -1865,15 +1866,12 @@ code {
 
 .photo-roll-grid {
   display: grid;
+  grid-auto-flow: dense;
   gap: var(--spacing-2);
 }
 
 .photo-roll-grid--lead-left {
   grid-template-columns: 2fr 1fr 1fr;
-}
-
-.photo-roll-grid--lead-right {
-  grid-template-columns: 1fr 1fr 2fr;
 }
 
 .photo-roll-grid--no-lead {
@@ -1900,6 +1898,10 @@ code {
 .photo-tile:focus {
   background: none;
   border-bottom: none;
+}
+
+.photo-tile--lead {
+  aspect-ratio: auto;
 }
 
 .photo-tile .gatsby-image-wrapper {
@@ -1932,7 +1934,7 @@ code {
 }
 
 .photo-show-more {
-  margin: 0 auto;
+  margin: 0 auto var(--spacing-8) auto;
   display: block;
   width: fit-content;
 }
