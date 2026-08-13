@@ -4,7 +4,23 @@ import { StaticImage, GatsbyImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import photographsData from "../data/photographs.json"
+import nationalParksAndForests from "../data/photographs/national-parks-and-forests.json"
+import fieldTrips from "../data/photographs/field-trips.json"
+import telescope from "../data/photographs/telescope.json"
+import talks from "../data/photographs/talks.json"
+import artCulture from "../data/photographs/art-culture.json"
+import buildings from "../data/photographs/buildings.json"
+import personalQuests from "../data/photographs/personal-quests.json"
+
+const photographsData = [
+  nationalParksAndForests,
+  fieldTrips,
+  telescope,
+  talks,
+  artCulture,
+  buildings,
+  personalQuests,
+]
 
 const RECENT_MOMENTS_COUNT = 5
 

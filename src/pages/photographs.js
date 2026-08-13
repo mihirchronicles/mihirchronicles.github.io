@@ -5,10 +5,26 @@ import { GatsbyImage } from "gatsby-plugin-image"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 import Lightbox from "../components/lightbox"
-import photographsData from "../data/photographs.json"
+import nationalParksAndForests from "../data/photographs/national-parks-and-forests.json"
+import fieldTrips from "../data/photographs/field-trips.json"
+import telescope from "../data/photographs/telescope.json"
+import talks from "../data/photographs/talks.json"
+import artCulture from "../data/photographs/art-culture.json"
+import buildings from "../data/photographs/buildings.json"
+import personalQuests from "../data/photographs/personal-quests.json"
 import { monthLabel } from "../utils/date"
 
 const ROLLS_PAGE_SIZE = 8
+
+const photographsData = [
+  nationalParksAndForests,
+  fieldTrips,
+  telescope,
+  talks,
+  artCulture,
+  buildings,
+  personalQuests,
+]
 
 const buildRolls = (data) => {
   const imageMap = new Map()
@@ -21,7 +37,7 @@ const buildRolls = (data) => {
 
   const rolls = photographsData.map((roll) => {
     const photos = [...roll.photos]
-      .sort((a, b) => (a.date < b.date ? -1 : a.date > b.date ? 1 : a.file.localeCompare(b.file)))
+      .sort((a, b) => (a.date > b.date ? -1 : a.date < b.date ? 1 : 0))
       .map((photo) => {
         const images = imageMap.get(`photographs/${photo.file}`) || {}
         return {
@@ -62,7 +78,7 @@ const PhotographsIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <h1>Photographs</h1>
-      <p className="ct-responsive-header-text">A collection of few moments that stuck. The ones I keep returning to which left a big impact in my life.</p>
+      <p className="ct-responsive-header-text">A small pile of collections that have stayed with me over the years. These collections pull me deeper and deeper as I age. Some are places. Some are people. All centered around human soul.</p>
       <div className="photographs-rolls">
         {visibleRolls.map((roll, rollIndex) => {
           const hasLead = roll.photos.length >= 5

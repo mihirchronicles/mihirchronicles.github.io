@@ -1,0 +1,79 @@
+{
+  "slug": "talks",
+  "title": "Talks",
+  "date": "2021-01-01",
+  "photos": [
+    {
+      "file": "talks/2021-01-morningstar-chicago-01.png",
+      "caption": "John C. Bogle, Vanguard",
+      "place": "Chicago, Illinois",
+      "date": "2021-01-01"
+    },
+    {
+      "file": "talks/2021-01-morningstar-chicago-02.png",
+      "caption": "Doris Kearns Goodwin",
+      "place": "Chicago, Illinois",
+      "date": "2021-01-01"
+    },
+    {
+      "file": "talks/2021-01-morningstar-chicago-03.png",
+      "caption": "Mellody Hobson, Ariel Investments",
+      "place": "Chicago, Illinois",
+      "date": "2021-01-01"
+    },
+    {
+      "file": "talks/2021-01-morningstar-chicago-04.png",
+      "caption": "Morgan Housel, Collaborative Fund",
+      "place": "Chicago, Illinois",
+      "date": "2021-01-01"
+    },
+    {
+      "file": "talks/2021-01-morningstar-chicago-05.png",
+      "caption": "Michael J. Mauboussin",
+      "place": "Chicago, Illinois",
+      "date": "2021-01-01"
+    },
+    {
+      "file": "talks/2021-01-morningstar-chicago-06.png",
+      "caption": "Larry Fink, BlackRock",
+      "place": "Chicago, Illinois",
+      "date": "2021-01-01"
+    },
+    {
+      "file": "talks/2021-01-morningstar-chicago-07.png",
+      "caption": "Boyd Varty",
+      "place": "Chicago, Illinois",
+      "date": "2021-01-01"
+    },
+    {
+      "file": "talks/2021-01-morningstar-chicago-08.png",
+      "caption": "Sonal Desai, Franklin Templeton",
+      "place": "Chicago, Illinois",
+      "date": "2021-01-01"
+    },
+    {
+      "file": "talks/2021-01-morningstar-chicago-09.png",
+      "caption": "Daniel Needham, Morningstar",
+      "place": "Chicago, Illinois",
+      "date": "2021-01-01"
+    },
+    {
+      "file": "talks/2021-01-morningstar-chicago-10.png",
+      "caption": "Morgan Housel, Collaborative Fund.",
+      "place": "Chicago, Illinois",
+      "date": "2021-01-01"
+    },
+    {
+      "file": "talks/2021-01-morningstar-chicago-11.png",
+      "caption": "Walt Bettinger, Charles Schwab",
+      "place": "Chicago, Illinois",
+      "date": "2021-01-01"
+    },
+    {
+      "file": "talks/2015-05-utah-provo-meetup.png",
+      "caption": "A panel discussion at an art space",
+      "place": "Utah",
+      "date": "2015-05-01"
+    }
+  ]
+}

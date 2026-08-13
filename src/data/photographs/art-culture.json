@@ -1,0 +1,55 @@
+{
+  "slug": "art-culture",
+  "title": "Art & Culture",
+  "date": "2015-05-01",
+  "photos": [
+    {
+      "file": "art-culture/2015-05-utah-artist-mural.png",
+      "caption": "Painting a mountain mural",
+      "place": "Utah",
+      "date": "2015-05-01"
+    },
+    {
+      "file": "art-culture/2015-05-utah-hot-air-balloon.png",
+      "caption": "Hot air balloons drifting overhead",
+      "place": "Utah",
+      "date": "2015-05-01"
+    },
+    {
+      "file": "art-culture/2015-05-utah-owl.png",
+      "caption": "Face to face with an owl",
+      "place": "Utah",
+      "date": "2015-05-01"
+    },
+    {
+      "file": "art-culture/2015-05-utah-provo-food-trucks.png",
+      "caption": "A food truck rally in the parking lot",
+      "place": "Provo, Utah",
+      "date": "2015-05-01"
+    },
+    {
+      "file": "art-culture/2015-05-utah-jobs-pixel-art.png",
+      "caption": "A pixel-art mural on the side of a building",
+      "place": "Provo, Utah",
+      "date": "2015-05-01"
+    },
+    {
+      "file": "art-culture/2015-05-utah-einstein-pixel-art.png",
+      "caption": "A closer look at the pixel-art mural",
+      "place": "Provo, Utah",
+      "date": "2015-05-01"
+    },
+    {
+      "file": "art-culture/2013-11-india-jugaad-.png",
+      "caption": "Handwoven stools at a craft market",
+      "place": "India",
+      "date": "2013-11-01"
+    },
+    {
+      "file": "art-culture/2013-02-haiti-street-art.png",
+      "caption": "Painting a pan drum by hand",
+      "place": "Mirebalais, Haiti",
+      "date": "2013-02-04"
+    }
+  ]
+}

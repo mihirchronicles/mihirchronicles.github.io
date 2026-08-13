@@ -1,0 +1,79 @@
+{
+  "slug": "buildings",
+  "title": "Buildings",
+  "date": "2015-05-01",
+  "photos": [
+    {
+      "file": "buildings/2015-05-utah-mormon-temple.png",
+      "caption": "The Provo City Center Temple",
+      "place": "Provo, Utah",
+      "date": "2015-05-01"
+    },
+    {
+      "file": "buildings/2015-05-utah-startup candy.png",
+      "caption": "Starup Candy building",
+      "place": "Provo, Utah",
+      "date": "2015-05-01"
+    },
+    {
+      "file": "buildings/2015-05-utah-salt-lake-downtown.png",
+      "caption": "Full moon over the downtown skyline",
+      "place": "Salt Lake City, Utah",
+      "date": "2015-05-01"
+    },
+    {
+      "file": "buildings/2013-11-india-delhi-temple.png",
+      "caption": "The Lotus Temple",
+      "place": "Delhi, India",
+      "date": "2013-11-01"
+    },
+    {
+      "file": "buildings/2013-11-india-pune-temple-2.png",
+      "caption": "An ornate ceiling painting of Radha and Krishna",
+      "place": "India",
+      "date": "2013-11-01"
+    },
+    {
+      "file": "buildings/2013-11-india-pune-temple.png",
+      "caption": "Climbing the temple gopuram steps",
+      "place": "India",
+      "date": "2013-11-01"
+    },
+    {
+      "file": "buildings/2013-11-india-lucknow-palace-2.png",
+      "caption": "Bara Imambara",
+      "place": "Lucknow, India",
+      "date": "2013-11-01"
+    },
+    {
+      "file": "buildings/2013-11-india-lucknow-palace.png",
+      "caption": "The grand hall of Bara Imambara",
+      "place": "Lucknow, India",
+      "date": "2013-11-01"
+    },
+    {
+      "file": "buildings/2013-11-india-delhi-2.png",
+      "caption": "Parliament House",
+      "place": "New Delhi, India",
+      "date": "2013-11-01"
+    },
+    {
+      "file": "buildings/2013-11-india-delhi.png",
+      "caption": "Rajpath, looking toward Rashtrapati Bhavan",
+      "place": "New Delhi, India",
+      "date": "2013-11-01"
+    },
+    {
+      "file": "buildings/2013-11-india-monastery.png",
+      "caption": "The Buddhist monastery",
+      "place": "Manali, Himachal Pradesh, India",
+      "date": "2013-11-01"
+    },
+    {
+      "file": "buildings/2013-11-india-kerala.png",
+      "caption": "A colonial-era basilica",
+      "place": "India",
+      "date": "2013-11-01"
+    }
+  ]
+}
