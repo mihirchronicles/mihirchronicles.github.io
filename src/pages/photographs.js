@@ -10,7 +10,7 @@ import fieldTrips from "../data/photographs/field-trips.json"
 import telescope from "../data/photographs/telescope.json"
 import talks from "../data/photographs/talks.json"
 import artCulture from "../data/photographs/art-culture.json"
-import buildings from "../data/photographs/buildings.json"
+import architecture from "../data/photographs/architecture.json"
 import personalQuests from "../data/photographs/personal-quests.json"
 import { monthLabel } from "../utils/date"
 
@@ -22,7 +22,7 @@ const photographsData = [
   telescope,
   talks,
   artCulture,
-  buildings,
+  architecture,
   personalQuests,
 ]
 

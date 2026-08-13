@@ -1,8 +1,20 @@
 {
   "slug": "art-culture",
-  "title": "Art & Culture",
-  "date": "2015-05-01",
+  "title": "Arts & culture",
+  "date": "2020-01-01",
   "photos": [
+    {
+      "file": "art-culture/2020-chicago-fire-fc-mural.png",
+      "caption": "A mural of a Chicago Fire FC player",
+      "place": "Chicago, Illinois",
+      "date": "2020-01-01"
+    },
+    {
+      "file": "art-culture/2019-printers-row-chicago-mural.png",
+      "caption": "A large-scale mural in Printers Row",
+      "place": "Chicago, Illinois",
+      "date": "2019-01-01"
+    },
     {
       "file": "art-culture/2015-05-utah-artist-mural.png",
       "caption": "Painting a mountain mural",
@@ -38,6 +50,30 @@
       "caption": "A closer look at the pixel-art mural",
       "place": "Provo, Utah",
       "date": "2015-05-01"
+    },
+    {
+      "file": "art-culture/2015-chicago-artist-bear-mural.png",
+      "caption": "\"Rise from the Ashes\" mural",
+      "place": "Chicago, Illinois",
+      "date": "2015-01-01"
+    },
+    {
+      "file": "art-culture/2015-chicago-1871-mural.png",
+      "caption": "Mural at 1871, Chicago's tech hub",
+      "place": "Chicago, Illinois",
+      "date": "2015-01-01"
+    },
+    {
+      "file": "art-culture/2015-milwaukee-nba-lebron.png",
+      "caption": "LeBron James at a Bucks game",
+      "place": "Milwaukee, Wisconsin",
+      "date": "2015-01-01"
+    },
+    {
+      "file": "art-culture/2015-vintage-film-projector.png",
+      "caption": "A vintage film projector",
+      "place": "",
+      "date": "2015-01-01"
     },
     {
       "file": "art-culture/2013-11-india-jugaad-.png",

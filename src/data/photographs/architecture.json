@@ -1,0 +1,217 @@
+{
+  "slug": "architecture",
+  "title": "Architecture",
+  "date": "2020-01-01",
+  "photos": [
+    {
+      "file": "architecture/2020-chicago-lakefront-path.png",
+      "caption": "A run along the lakefront path",
+      "place": "Chicago, Illinois",
+      "date": "2020-01-01"
+    },
+    {
+      "file": "architecture/2020-chicago-river-bridge-2.png",
+      "caption": "Another bridge lift along the river",
+      "place": "Chicago, Illinois",
+      "date": "2020-01-01"
+    },
+    {
+      "file": "architecture/2019-chicago-river-bridge-3.png",
+      "caption": "The Wabash Avenue bridge raised",
+      "place": "Chicago, Illinois",
+      "date": "2019-01-01"
+    },
+    {
+      "file": "architecture/2015-05-utah-mormon-temple.png",
+      "caption": "The Provo City Center Temple",
+      "place": "Provo, Utah",
+      "date": "2015-05-01"
+    },
+    {
+      "file": "architecture/2015-05-utah-startup candy.png",
+      "caption": "Starup Candy building",
+      "place": "Provo, Utah",
+      "date": "2015-05-01"
+    },
+    {
+      "file": "architecture/2015-05-utah-salt-lake-downtown.png",
+      "caption": "Full moon over the downtown skyline",
+      "place": "Salt Lake City, Utah",
+      "date": "2015-05-01"
+    },
+    {
+      "file": "architecture/2015-chicago-river-bridge.png",
+      "caption": "A drawbridge lifted over the Chicago River",
+      "place": "Chicago, Illinois",
+      "date": "2015-01-01"
+    },
+    {
+      "file": "architecture/2015-chicago-river-wrigley-building.png",
+      "caption": "The Wrigley Building along the river",
+      "place": "Chicago, Illinois",
+      "date": "2015-01-01"
+    },
+    {
+      "file": "architecture/2015-chicago-marina-city.png",
+      "caption": "Marina City towers",
+      "place": "Chicago, Illinois",
+      "date": "2015-01-01"
+    },
+    {
+      "file": "architecture/2015-chicago-marina-city-2.png",
+      "caption": "A closer look at Marina City",
+      "place": "Chicago, Illinois",
+      "date": "2015-01-01"
+    },
+    {
+      "file": "architecture/2015-chicago-medinah-temple.png",
+      "caption": "The former Medinah Temple",
+      "place": "Chicago, Illinois",
+      "date": "2015-01-01"
+    },
+    {
+      "file": "architecture/2015-chicago-skyline.png",
+      "caption": "The Chicago skyline",
+      "place": "Chicago, Illinois",
+      "date": "2015-01-01"
+    },
+    {
+      "file": "architecture/2015-chicago-skyline-sunset.png",
+      "caption": "Sunset over the skyline",
+      "place": "Chicago, Illinois",
+      "date": "2015-01-01"
+    },
+    {
+      "file": "architecture/2015-chicago-harbor.png",
+      "caption": "Sailboats in the harbor",
+      "place": "Chicago, Illinois",
+      "date": "2015-01-01"
+    },
+    {
+      "file": "architecture/2015-chicago-lakefront-statue.png",
+      "caption": "A statue along the lakefront",
+      "place": "Chicago, Illinois",
+      "date": "2015-01-01"
+    },
+    {
+      "file": "architecture/2015-boston-charles-river-sailboats.png",
+      "caption": "Sailboats on the Charles River",
+      "place": "Boston, Massachusetts",
+      "date": "2015-01-01"
+    },
+    {
+      "file": "architecture/2015-frankfurt-alte-oper.png",
+      "caption": "The Alte Oper fountain",
+      "place": "Frankfurt, Germany",
+      "date": "2015-01-01"
+    },
+    {
+      "file": "architecture/2015-frankfurt-katharinenkirche.png",
+      "caption": "St. Katharine's Church",
+      "place": "Frankfurt, Germany",
+      "date": "2015-01-01"
+    },
+    {
+      "file": "architecture/2015-frankfurt-romerberg.png",
+      "caption": "The R\u00f6merberg square",
+      "place": "Frankfurt, Germany",
+      "date": "2015-01-01"
+    },
+    {
+      "file": "architecture/2015-frankfurt-skyline.png",
+      "caption": "The Frankfurt skyline",
+      "place": "Frankfurt, Germany",
+      "date": "2015-01-01"
+    },
+    {
+      "file": "architecture/2014-doejo-hq-chicago.png",
+      "caption": "Doejo HQ",
+      "place": "Chicago, Illinois",
+      "date": "2014-01-01"
+    },
+    {
+      "file": "architecture/2014-washington-dc.png",
+      "caption": "The U.S. Capitol",
+      "place": "Washington, D.C.",
+      "date": "2014-01-01"
+    },
+    {
+      "file": "architecture/2013-12-frankfurt.png",
+      "caption": "Frankfurt",
+      "place": "Frankfurt, Germany",
+      "date": "2013-12-01"
+    },
+    {
+      "file": "architecture/2013-12-frankfurt-holbeinsteg-bridge.png",
+      "caption": "Holbeinsteg Bridge",
+      "place": "Frankfurt, Germany",
+      "date": "2013-12-01"
+    },
+    {
+      "file": "architecture/2013-11-india-delhi-temple.png",
+      "caption": "The Lotus Temple",
+      "place": "Delhi, India",
+      "date": "2013-11-01"
+    },
+    {
+      "file": "architecture/2013-11-india-pune-temple-2.png",
+      "caption": "An ornate ceiling painting of Radha and Krishna",
+      "place": "India",
+      "date": "2013-11-01"
+    },
+    {
+      "file": "architecture/2013-11-india-pune-temple.png",
+      "caption": "Climbing the temple gopuram steps",
+      "place": "India",
+      "date": "2013-11-01"
+    },
+    {
+      "file": "architecture/2013-11-india-lucknow-palace-2.png",
+      "caption": "Bara Imambara",
+      "place": "Lucknow, India",
+      "date": "2013-11-01"
+    },
+    {
+      "file": "architecture/2013-11-india-lucknow-palace.png",
+      "caption": "The grand hall of Bara Imambara",
+      "place": "Lucknow, India",
+      "date": "2013-11-01"
+    },
+    {
+      "file": "architecture/2013-11-india-lucknow-palace-3.png",
+      "caption": "The gateway to Bara Imambara",
+      "place": "Lucknow, India",
+      "date": "2013-11-01"
+    },
+    {
+      "file": "architecture/2013-11-india-delhi-2.png",
+      "caption": "Parliament House",
+      "place": "New Delhi, India",
+      "date": "2013-11-01"
+    },
+    {
+      "file": "architecture/2013-11-india-delhi.png",
+      "caption": "Rajpath, looking toward Rashtrapati Bhavan",
+      "place": "New Delhi, India",
+      "date": "2013-11-01"
+    },
+    {
+      "file": "architecture/2013-11-india-monastery.png",
+      "caption": "The Buddhist monastery",
+      "place": "Manali, Himachal Pradesh, India",
+      "date": "2013-11-01"
+    },
+    {
+      "file": "architecture/2013-11-india-kerala.png",
+      "caption": "A colonial-era basilica",
+      "place": "India",
+      "date": "2013-11-01"
+    },
+    {
+      "file": "architecture/2010-boston-harvard.png",
+      "caption": "Harvard University",
+      "place": "Boston, Massachusetts",
+      "date": "2010-01-01"
+    }
+  ]
+}

@@ -22,12 +22,6 @@
       "date": "2021-01-01"
     },
     {
-      "file": "talks/2021-01-morningstar-chicago-04.png",
-      "caption": "Morgan Housel, Collaborative Fund",
-      "place": "Chicago, Illinois",
-      "date": "2021-01-01"
-    },
-    {
       "file": "talks/2021-01-morningstar-chicago-05.png",
       "caption": "Michael J. Mauboussin",
       "place": "Chicago, Illinois",
@@ -74,6 +68,12 @@
       "caption": "A panel discussion at an art space",
       "place": "Utah",
       "date": "2015-05-01"
+    },
+    {
+      "file": "talks/2015-chicago-ideas-week-talk.png",
+      "caption": "Dan Gilbert and Kelly Grier on entrepreneurship",
+      "place": "Chicago, Illinois",
+      "date": "2015-01-01"
     }
   ]
 }

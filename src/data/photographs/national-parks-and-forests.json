@@ -1,6 +1,6 @@
 {
   "slug": "national-parks-and-forests",
-  "title": "National Parks & Forests",
+  "title": "National parks & forests",
   "date": "2017-08-11",
   "photos": [
     {
@@ -30,18 +30,6 @@
     {
       "file": "national-parks-and-forests/2017-08-yosemite-05.png",
       "caption": "A smoke-hazed sunset over the valley",
-      "place": "Yosemite National Park, California",
-      "date": "2017-08-11"
-    },
-    {
-      "file": "national-parks-and-forests/2017-08-yosemite-06.png",
-      "caption": "The sun setting behind the ridgeline",
-      "place": "Yosemite National Park, California",
-      "date": "2017-08-11"
-    },
-    {
-      "file": "national-parks-and-forests/2017-08-yosemite-07.png",
-      "caption": "The Milky Way at dusk",
       "place": "Yosemite National Park, California",
       "date": "2017-08-11"
     },
@@ -157,6 +145,12 @@
       "file": "national-parks-and-forests/2015-05-utah-23.png",
       "caption": "A rainbow over the mountains",
       "place": "Provo, Utah",
+      "date": "2015-05-01"
+    },
+    {
+      "file": "national-parks-and-forests/2015-05-utah-24.png",
+      "caption": "Utah",
+      "place": "Utah",
       "date": "2015-05-01"
     },
     {

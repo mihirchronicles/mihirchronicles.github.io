@@ -1,17 +1,11 @@
 {
   "slug": "field-trips",
-  "title": "Field Trips",
+  "title": "Field trips",
   "date": "2013-11-01",
   "photos": [
     {
       "file": "field-trips/2013-11-india-tea-plant.png",
       "caption": "Rolling tea plantations",
-      "place": "Munnar, Kerala, India",
-      "date": "2013-11-01"
-    },
-    {
-      "file": "field-trips/2013-11-india-tea-plant-2.png",
-      "caption": "A path through the tea gardens",
       "place": "Munnar, Kerala, India",
       "date": "2013-11-01"
     },

@@ -1872,6 +1872,8 @@ code {
 
 .photo-roll-grid--lead-left {
   grid-template-columns: 2fr 1fr 1fr;
+  grid-template-rows: repeat(2, 1fr);
+  aspect-ratio: 2 / 1;
 }
 
 .photo-roll-grid--no-lead {
@@ -1901,7 +1903,11 @@ code {
 }
 
 .photo-tile--lead {
+  /* Grid area is fully deterministic (fixed rows/columns), so let the tile
+     stretch to fill it exactly rather than forcing a ratio that would leave
+     a gap at the bottom equal to the row gap. */
   aspect-ratio: auto;
+  height: 100%;
 }
 
 .photo-tile .gatsby-image-wrapper {
@@ -1942,12 +1948,15 @@ code {
 @media (max-width: 42rem) {
   .photo-roll-grid {
     grid-template-columns: repeat(5, 1fr) !important;
+    grid-template-rows: none !important;
+    aspect-ratio: auto !important;
     gap: var(--spacing-1);
   }
 
   .photo-tile--lead {
     grid-row: auto !important;
     grid-column: auto !important;
+    aspect-ratio: 1 / 1;
   }
 
   .photo-tile-overflow-count {

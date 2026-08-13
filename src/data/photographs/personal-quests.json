@@ -1,71 +1,47 @@
 {
   "slug": "personal-quests",
-  "title": "Personal Quests",
+  "title": "Personal quests",
   "date": "2021-10-03",
   "photos": [
     {
       "file": "personal-quests/2021-10-vipassana-01.jpg",
-      "caption": "Meditation hall",
+      "caption": "10 day Vipassana retreat - meditation hall",
       "place": "North Fork, California",
       "date": "2021-10-03"
     },
     {
       "file": "personal-quests/2021-10-vipassana-02.jpg",
-      "caption": "An old tree",
-      "place": "North Fork, California",
-      "date": "2021-10-03"
-    },
-    {
-      "file": "personal-quests/2021-10-vipassana-03.jpg",
-      "caption": "In the woods",
-      "place": "North Fork, California",
-      "date": "2021-10-03"
-    },
-    {
-      "file": "personal-quests/2021-10-vipassana-04.jpg",
-      "caption": "Sitting logs",
+      "caption": "10 day Vipassana retreat - in the woods",
       "place": "North Fork, California",
       "date": "2021-10-03"
     },
     {
       "file": "personal-quests/2021-10-vipassana-05.jpg",
-      "caption": "Meditation trail",
+      "caption": "10 day Vipassana retreat - meditation trail",
       "place": "North Fork, California",
       "date": "2021-10-03"
     },
     {
       "file": "personal-quests/2013-11-india-bike-ride-himalayas.png",
-      "caption": "Mountain biking in the hills",
+      "caption": "Backpacing in the Himalayas - mountain biking",
       "place": "Manali, Himachal Pradesh, India",
-      "date": "2013-11-01"
-    },
-    {
-      "file": "personal-quests/2013-11-india-09.png",
-      "caption": "Looking out over the valley",
-      "place": "Manali, Himachal Pradesh, India",
-      "date": "2013-11-01"
-    },
-    {
-      "file": "personal-quests/2013-11-india-himalayan-hike.png",
-      "caption": "Snow peaks above the rooftops",
-      "place": "Himachal Pradesh, India",
       "date": "2013-11-01"
     },
     {
       "file": "personal-quests/2013-11-india-himalayan-hike-2.png",
-      "caption": "Bundled up in the mountains",
+      "caption": "Backpacing in the Himalayas",
       "place": "Himachal Pradesh, India",
       "date": "2013-11-01"
     },
     {
       "file": "personal-quests/2013-11-india-25-himalayan-camp.png",
-      "caption": "Camp for the night",
+      "caption": "Backpacing in the Himalayas - camping",
       "place": "Himachal Pradesh, India",
       "date": "2013-11-01"
     },
     {
       "file": "personal-quests/2013-11-india-zip-line-himalayan-rapids.png",
-      "caption": "Ziplining over the rapids",
+      "caption": "Backpacing in the Himalayas - ziplining over the rapids",
       "place": "Himachal Pradesh, India",
       "date": "2013-11-01"
     }
