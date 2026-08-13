@@ -62,8 +62,7 @@ const PhotographsIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <h1>Photographs</h1>
-      <p className="ct-responsive-header-text">Some of the critical moments worth snapping and sharing from my life.</p>
-
+      <p className="ct-responsive-header-text">A collection of few moments that stuck. The ones I keep returning to which left a big impact in my life.</p>
       <div className="photographs-rolls">
         {visibleRolls.map((roll, rollIndex) => {
           const hasLead = roll.photos.length >= 5

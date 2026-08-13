@@ -1963,6 +1963,14 @@ code {
   padding: var(--spacing-5);
 }
 
+.photo-lightbox-stage {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: min(1100px, 92vw);
+}
+
 .photo-lightbox-image {
   max-width: min(1100px, 92vw);
   max-height: 78vh;
