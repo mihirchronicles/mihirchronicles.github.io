@@ -27,7 +27,7 @@ const WorkIndex = ({ data, location }) => {
         <div className="work-content-container">
           <p><strong>[2026]</strong></p>
           <ul>
-            <li>A passion project made for the love of trees and forests.</li>
+            <li>A passion project for the love of trees and forests. A catalog of what makes each species unique, going deep on trees and forestry, planting 1,000 trees over a lifetime, and making art along the way.</li>
           </ul>
           <p><strong>Website</strong>: <a href="https://atreeclub.com/">A Tree Club</a></p>
         </div>

@@ -6,11 +6,8 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 import Lightbox from "../components/lightbox"
 import nationalParksAndForests from "../data/photographs/national-parks-and-forests.json"
-import fieldTrips from "../data/photographs/field-trips.json"
-import telescope from "../data/photographs/telescope.json"
 import talks from "../data/photographs/talks.json"
-import artCulture from "../data/photographs/art-culture.json"
-import architecture from "../data/photographs/architecture.json"
+import artCultureArchitecture from "../data/photographs/art-culture-architecture.json"
 import personalQuests from "../data/photographs/personal-quests.json"
 import { monthLabel } from "../utils/date"
 
@@ -18,12 +15,9 @@ const ROLLS_PAGE_SIZE = 8
 
 const photographsData = [
   nationalParksAndForests,
-  fieldTrips,
-  telescope,
-  talks,
-  artCulture,
-  architecture,
   personalQuests,
+  artCultureArchitecture,
+  talks,
 ]
 
 const buildRolls = (data) => {
@@ -35,7 +29,7 @@ const buildRolls = (data) => {
     })
   })
 
-  const rolls = photographsData.map((roll) => {
+  return photographsData.map((roll) => {
     const photos = [...roll.photos]
       .sort((a, b) => (a.date > b.date ? -1 : a.date < b.date ? 1 : 0))
       .map((photo) => {
@@ -49,8 +43,6 @@ const buildRolls = (data) => {
       })
     return { ...roll, photos }
   })
-
-  return rolls.sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : 0))
 }
 
 const PhotographsIndex = ({ data, location }) => {
