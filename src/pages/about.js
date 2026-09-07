@@ -69,7 +69,7 @@ const AboutIndex = ({ data, location }) => {
         <section className="photo-teaser">
           <div className="photo-teaser-header">
             <span className="photo-teaser-label">Recent moments</span>
-            <Link to="/photographs" className="photo-teaser-link">All photographs →</Link>
+            <Link to="/photographs" className="photo-teaser-link">Photograph Collection →</Link>
           </div>
           <div className="photo-teaser-grid">
             {recentPhotos.map((photo) => (
