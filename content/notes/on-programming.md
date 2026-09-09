@@ -364,10 +364,10 @@ This list is meant as a quick and basic introduction to JavaScript strings.
 *   Sit between either single quotes (`' '`), double quotes (`" "`), or backticks ( `` ``).
 *   Can be concatenated (stuck together) with the `+` operator, or with backticks (template strings) in ES6.
 *   Template strings, or template literals, can take any valid JavaScript expression, allowing dynamic strings.
-*   Can contain special characters, such as quotation marks, as long as they are escaped - e.g. `"She'\ll be coming '\round the mountain when she comes"`.
+*   Can contain special characters, such as quotation marks, as long as they are escaped – e.g. `"She'\ll be coming '\round the mountain when she comes"`.
 *   There's no need to escape dissimilar quote marks. For example: "This 'is' fine". This is probably why we tend to favour double quotes in HTML attribute values, and singles in JS (since it allows you to create some innerHTML without the need for escaping).
 *   When using template literals, you don't need to escape `'` or `"` ... and ``this` `"is"` `'also'` `fine``
-*   Is either a _string primitive_ - immutable and more common, e.g. `const stringPrimitive = "Hello, I am a string.";` .
+*   Is either a _string primitive_ – immutable and more common, e.g. `const stringPrimitive = "Hello, I am a string.";` .
 *   Or a _string object_ - `const stringObject = new String("Hello, I am a string.");`
 *   The `typeof` operator is used to determine if a string's type is _string_ or _object_.
 *   Each character is indexed and can be accessed by an index number using square bracket notation (e.g. "Hello World" - `myString[0]` outputs "H").
@@ -485,10 +485,10 @@ A wrapper to help manage the code that is running. There are lots of lexical env
 <details>
   <summary>Creation Phase</summary>
 
-   - Execution context is created - Global Object, “this”
-   - Outer Env - Setup memory space for variables and Functions 
-   - “Hoisting” - Hoisting: Variables setup (set equal to undefined)
-   - Functions setup - All variables in JS are set to undefined initially. 
+   - Execution context is created – Global Object, “this”
+   - Outer Env – Setup memory space for variables and Functions 
+   - “Hoisting” – Hoisting: Variables setup (set equal to undefined)
+   - Functions setup – All variables in JS are set to undefined initially. 
    - Not defined != undefined: `undefined` is a special keyword in JS. It takes up memory space. If not declared, you will get `Uncaught Reference error: x is not defined`.
    - Never set a variable to `undefined`. If you define it then it is hard to debug whether you undefined or the JS engine undefined.
 </details>
@@ -807,7 +807,7 @@ window.libraryName = window.libraryName || "Lib 2";
 <details>
   <summary>Functional programming in JS</summary>
   
-The core idea of functional programming in JS - that we can plug our pure functions into higher order abstractions - is at the very heart of functional programming. A higher order function is a function that takes another function as a parameter. In JavaScript, functions are "first-class citizens." That means we can assign them to variables, create them inside of other functions, and pass them as arguments like any other object. Iteration in functional programming relies on a holy trinity of functions: map, filter, and reduce. We can use functional programming to reduce boilerplate in everyday code, keeping it DRY.
+The core idea of functional programming in JS – that we can plug our pure functions into higher order abstractions – is at the very heart of functional programming. A higher order function is a function that takes another function as a parameter. In JavaScript, functions are "first-class citizens." That means we can assign them to variables, create them inside of other functions, and pass them as arguments like any other object. Iteration in functional programming relies on a holy trinity of functions: map, filter, and reduce. We can use functional programming to reduce boilerplate in everyday code, keeping it DRY.
 </details>
 
 ## Tooling

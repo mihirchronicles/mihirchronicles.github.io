@@ -13,8 +13,8 @@ This was laugh-out-loud funny, and inspiring. Jesse Itlzer is someone who I idol
 - Pre-SEAL I sometimes would be on the couch and not want to do whatever needed to be done and I’d be like “Fuck it,” and blow it off. Procrastinate.
 - He was taught that if you have a job to do, you do it with 120 percent effort. I have been operating under the assumption that if someone that works for me does something 80 percent of the way I would do it, that’s enough.
 - One of the best things about having SEAL as your “Spirit Animal” is that you can take him everywhere you go.
-- The persistence and perseverance to achieve a long-term goal is a key driver to success. I’ve always had that blueprint, but SEAL helped me redefine success-Never Quit.
-- I learned that by constantly doing things that are hard and making myself uncomfortable, I improve my ability to handle obstacles. I get comfortable being uncomfortable-and that’s real mental toughness.
+- The persistence and perseverance to achieve a long-term goal is a key driver to success. I’ve always had that blueprint, but SEAL helped me redefine success – Never Quit.
+- I learned that by constantly doing things that are hard and making myself uncomfortable, I improve my ability to handle obstacles. I get comfortable being uncomfortable – and that’s real mental toughness.
 - But maybe the most important thing I learned from SEAL was the level of appreciation he has for difficulty. The harder the training, the more courage it took to do and the more satisfaction was derived from it. SEAL taught me that you only get one shot at life and you should find out what’s in your reserve tank. Coasting is for “pussies” as SEAL would say and it’s when you dig deep that you feel the most alive. He lives his life that way.
 - Now that SEAL is gone, I realize I don’t need a lot of the crazy stuff in my life. These challenges I keep putting in front of myself to fulfill me. I’m not going to do any more of that. I’m staying put and focusing on the little things. I don’t need manufactured adventures in my life to change me.
 - But he runs because he raises a lot of money for charity when he does to help the families of SEALs who died on the battlefield.
@@ -35,20 +35,20 @@ This was laugh-out-loud funny, and inspiring. Jesse Itlzer is someone who I idol
 - SEAL believes push-ups are the single best exercise for strength. He also believes proper form is the key. You get more out of ten push-ups the right way than thirty done improperly. Proper form: back straight, ass up slightly, neck straight (don’t drop your neck). Go down and break ninety degrees with elbows, and make sure your chest hits the floor. Go all the way up (until arm is fully extended).
 - Any time when you live a little outside of the norm people look at you: (a) with some admiration and (b) like you’re crazy.
 - Any success I have ever had in my life usually occurred when I was not chasing the money but was doing things out of passion.
-- I eat only fruit until noon. That’s been my thing since I read Fit for Life by Harvey Diamond in 1992. For over twenty-five years, just fruit till noon...He credits it to a philosophy and lifestyle called “natural hygiene,” and he lays out the road map in Fit for Life. I read the book three times, and it completely changed my life...One of the main underlying philosophies in his book is that we use more energy for digestion than all other bodily functions combined. That’s why we are usually tired after a big meal...That said, the average American will eat seventy tons of food in their lifetime. Imagine how hard the body has to work to process and break down all of that food...The more efficiently we can digest all this food and the less stress we put on the digestive process, the more energy we will have for everything else...According to Fit for Life, fruit is the perfect food because on top of being sweet and delicious, it’s super-easy to digest...In fact, it is the only food that bypasses the stomach and is digested in the small intestines...It unleashes all its nutrients and goodness without using much, if any, energy, which frees up your energy for other things. As long as you eat fruit on an empty stomach, you can reap amazing benefits...According to Diamond, you don’t have to look beyond the animal kingdom to see evidence of this. The strongest animals in the world thrive on a fruit-and plant-based diet...Silverback gorillas, for example, are thirty times as strong as man and three times our size. Their DNA is 99 percent similar to that of humans, and they are our closest living relatives next to chimps. How are they so strong? Oh yeah, their diet is made up mostly of fruit and leaves. The silverback gorilla doesn’t eat turkey sandwiches, chips, and McDonald’s.
+- I eat only fruit until noon. That’s been my thing since I read Fit for Life by Harvey Diamond in 1992. For over twenty-five years, just fruit till noon...He credits it to a philosophy and lifestyle called “natural hygiene,” and he lays out the road map in Fit for Life. I read the book three times, and it completely changed my life...One of the main underlying philosophies in his book is that we use more energy for digestion than all other bodily functions combined. That’s why we are usually tired after a big meal...That said, the average American will eat seventy tons of food in their lifetime. Imagine how hard the body has to work to process and break down all of that food...The more efficiently we can digest all this food and the less stress we put on the digestive process, the more energy we will have for everything else...According to Fit for Life, fruit is the perfect food because on top of being sweet and delicious, it’s super-easy to digest...In fact, it is the only food that bypasses the stomach and is digested in the small intestines...It unleashes all its nutrients and goodness without using much, if any, energy, which frees up your energy for other things. As long as you eat fruit on an empty stomach, you can reap amazing benefits...According to Diamond, you don’t have to look beyond the animal kingdom to see evidence of this. The strongest animals in the world thrive on a fruit – and plant-based diet...Silverback gorillas, for example, are thirty times as strong as man and three times our size. Their DNA is 99 percent similar to that of humans, and they are our closest living relatives next to chimps. How are they so strong? Oh yeah, their diet is made up mostly of fruit and leaves. The silverback gorilla doesn’t eat turkey sandwiches, chips, and McDonald’s.
 
 ## III. Quotes
 
-- I don’t stop when I’m tired. I stop when I’m done. - SEAL
-- I don’t celebrate victories but I learn from failures. - SEAL
-- Fear is one of the best motivators. Anger is the other. - SEAL
-- Don’t get too comfortable. Ever. - SEAL
-- If you can’t do the basics, you can’t do shit. - SEAL
-- Every day is a challenge, otherwise it’s not a regular day. - SEAL
-- I don’t need new friends. I like to keep my shit lean and tight. - SEAL
-- It doesn’t have to be fun. It has to be effective. - SEAL
-- I don’t do shit for applauses. I don’t do shit for fanfare. I do shit for me. - SEAL
-- I like to sit back and enjoy the pain. I earned it. - SEAL
-- Every day do something that makes you uncomfortable. - SEAL
-- Money is fun to make, fun to spend, and fun to give away. That sums it all up. - Sara Blakely
-- Failure is just life’s way of nudging you and letting you know you’re off course. - Sara Blakely
+- I don’t stop when I’m tired. I stop when I’m done. – SEAL
+- I don’t celebrate victories but I learn from failures. – SEAL
+- Fear is one of the best motivators. Anger is the other. – SEAL
+- Don’t get too comfortable. Ever. – SEAL
+- If you can’t do the basics, you can’t do shit. – SEAL
+- Every day is a challenge, otherwise it’s not a regular day. – SEAL
+- I don’t need new friends. I like to keep my shit lean and tight. – SEAL
+- It doesn’t have to be fun. It has to be effective. – SEAL
+- I don’t do shit for applauses. I don’t do shit for fanfare. I do shit for me. – SEAL
+- I like to sit back and enjoy the pain. I earned it. – SEAL
+- Every day do something that makes you uncomfortable. – SEAL
+- Money is fun to make, fun to spend, and fun to give away. That sums it all up. – Sara Blakely
+- Failure is just life’s way of nudging you and letting you know you’re off course. – Sara Blakely

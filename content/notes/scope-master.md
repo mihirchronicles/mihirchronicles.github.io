@@ -30,7 +30,7 @@ If your startup is product-led, growth is dependent on the features you ship, it
 
 A few of these startups will eventually evolve into large and complex organizations. During quarterly town halls, everyone comprehends the north star message from management, but when it’s time to plan, they encounter dependency challenges. There is no cohesion, and progress is slow. You feel nostalgic about the days when you would ship features fast. That guiding principle shared by the executive team during a town hall quickly evaporates. Customers are already forgotten, and you find yourself entangled in the complexities of the organization. 
 
-To diagnose this problem, you need to understand your organizational structure. Management shared the north star is A during all hands. However, Squad B believes it is A + B, Squad C believes it is A + C, and Squad D believes it is A + B + D. Regardless of how big or small these teams are, no one is ever aligned. Planning sessions are painful. In my observation, there is another management error-relying solely on all hands for projects to be delivered. 
+To diagnose this problem, you need to understand your organizational structure. Management shared the north star is A during all hands. However, Squad B believes it is A + B, Squad C believes it is A + C, and Squad D believes it is A + B + D. Regardless of how big or small these teams are, no one is ever aligned. Planning sessions are painful. In my observation, there is another management error – relying solely on all hands for projects to be delivered. 
 
 Organization communication is as critical as the organizational structure because you ship your product organization.
 

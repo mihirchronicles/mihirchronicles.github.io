@@ -123,7 +123,7 @@ A book about Charlie Munger. The originality lacks because it is a collection of
 
 - Develop into a lifelong self-learner through voracious reading; cultivate curiosity and strive to become a little wiser every day.
 - I believe in the discipline of mastering the best that other people have ever figured out. I don’t believe in just sitting down and trying to dream it all up yourself. Nobody’s that smart.
-- Remember that reputation and integrity are your most valuable assets-and can be lost in a heartbeat.
+- Remember that reputation and integrity are your most valuable assets – and can be lost in a heartbeat.
 - Envy is a really stupid sin because it’s the only one you could never possibly have any fun at. There’s a lot of pain and no fun. Why would you want to get on that trolley?
 - Mimicking the herd invites regression to the mean (merely average performance).
 - Man’s imperfect, limited-capacity brain easily drifts into working with what’s easily available to it. And the brain can’t use what it can’t remember or when it’s blocked from recognizing because it’s heavily influenced by one or more psychological tendencies bearing strongly on it … the deep structure of the human mind requires that the way to full scope competency of virtually any kind is to learn it all to fluency-like it or not.

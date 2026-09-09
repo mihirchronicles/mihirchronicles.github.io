@@ -23,7 +23,7 @@ Carlo Rovelli writes and shares breakthrough theories of physics.
 - The electromagnetic field: this field is really entity that, diffused everywhere, carries radio waves, fills space, can vibrate and oscillate like the surface of a lake, and transports the electrical force. 
 - Since his youth, Einstein had been fascinated by the electromagnetic field. He soon came to understand that gravity, like electricity, must be conveyed by a field as well: a gravitational field analogous to the electrical field must exist. He aimed at understanding how gravitational field worked. 
 - An extraordinary idea occurred to him, a stroke of pure genius: the gravitational field is not diffused through space; the gravitational field is the space itself. This is the idea of the general theory of relativity. Newton's space, through which things move, and the gravitational field are one and the same thing. 
-- Space is no longer something distinct from matter-it is one the material components of the world. This was the moment of enlightenment. 
+- Space is no longer something distinct from matter – it is one the material components of the world. This was the moment of enlightenment. 
 - When a large star has burned up all its combustible substance (hydrogen), it goes out. What remains is no longer supported by the heat of the combustion and collapses under its own weight, to a point where it bends space to such a degree that it plummets into an actual hole. These are famous black holes.
 - Eienstien's equation shows that space cannot stand still; it must be expanding. This explains what we know big bang.
 - The theory contends that space moves like the surface of the sea. The effects of these gravitational waves are observed in the sky on binary stars.
@@ -66,7 +66,7 @@ Carlo Rovelli writes and shares breakthrough theories of physics.
 - Evidence indicates that it is something _not_ described by the Standard Model; otherwise we would see it.
 - It is hardly surprising that there are more things in heaven and earth than have been dreamed of in our philosophy or physics. 
 - We did not suspect the existence of radio waves and neutrinos. 
-- The Standard Model remains the best that we have. It's predictions have all been confirmed, and, apart from dark matter and gravity as described in the general theory of relativity as the curvature of space-time - it describes well every aspect of the perceived world. 
+- The Standard Model remains the best that we have. It's predictions have all been confirmed, and, apart from dark matter and gravity as described in the general theory of relativity as the curvature of space-time – it describes well every aspect of the perceived world. 
 
 ### Grains of Space
 - The twentieth century gave us the two gems: general relativity and quantum mechanics. 
@@ -127,7 +127,7 @@ Carlo Rovelli writes and shares breakthrough theories of physics.
 
 ## III. Quotes
 
-- In his youth Albert Einstein spent a year loafing aimlessly. You don't get anywhere by not wasting time-something, unfortunately, that the parents of teenagers tend frequently to forget.
+- In his youth Albert Einstein spent a year loafing aimlessly. You don't get anywhere by not wasting time – something, unfortunately, that the parents of teenagers tend frequently to forget.
 - Ever since we discovered that Earth is round and reality is not as it appears to us: every time we glimpse a new aspect of it, it is a deeply emotional experience. Another veil has fallen.
 - A world of happening. Not things.
 - Physics is not only a history of successes.

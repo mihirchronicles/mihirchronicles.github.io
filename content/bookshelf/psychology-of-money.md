@@ -6,13 +6,13 @@ path: "/bookshelf/psychology-of-money"
 
 ## I. Brief Summary
 
-This book triggered so many emotions at so many levels every time I flipped a chapter. I have been reading Morgan's blog since 2015 and I consider him as one of the best writers in the field of behavioral science and personal finance. Morgan has a writing power like no other-each chapter is built thread by thread, weaving in and out of each other. If I could pass this down to every single kid in the world and especially in America, this is the book I would recommend! My relationship with money and investing is personal and a lot of the lessons I have learned come from those experiences. If you want a life that is fulfilling and leads to freedom, pick this book and read it every year.
+This book triggered so many emotions at so many levels every time I flipped a chapter. I have been reading Morgan's blog since 2015 and I consider him as one of the best writers in the field of behavioral science and personal finance. Morgan has a writing power like no other – each chapter is built thread by thread, weaving in and out of each other. If I could pass this down to every single kid in the world and especially in America, this is the book I would recommend! My relationship with money and investing is personal and a lot of the lessons I have learned come from those experiences. If you want a life that is fulfilling and leads to freedom, pick this book and read it every year.
 
 ## Big Ideas
 
-The premise of this book is literally the title of this book-the psychology of money. It is not how smart you are with your money, but how you behave with your money. The book is covered with several anecdotes to drive the lessons home.
+The premise of this book is literally the title of this book – the psychology of money. It is not how smart you are with your money, but how you behave with your money. The book is covered with several anecdotes to drive the lessons home.
 
-I work in investment industry so a lot of the lessons shared in the book were nothing new, but the beauty of the lessons lies within Morgan's ability to write and connect ideas. One thing is clear after reading this book-money means many things to many people. What is enough for me might not be enough for someone else and vice-versa. But everyone should strive to live a peaceful life and if the financial affairs are not in order, it might impact your health and personal relationships. Just like money, habits also compound. It is worth investing in good habits and assessing our behavior around personal finance topics.
+I work in investment industry so a lot of the lessons shared in the book were nothing new, but the beauty of the lessons lies within Morgan's ability to write and connect ideas. One thing is clear after reading this book – money means many things to many people. What is enough for me might not be enough for someone else and vice-versa. But everyone should strive to live a peaceful life and if the financial affairs are not in order, it might impact your health and personal relationships. Just like money, habits also compound. It is worth investing in good habits and assessing our behavior around personal finance topics.
 
 Finance is one of the greatest shows on Earth. It offers lessons in confidence, risk and happiness. Finance on Wall Street is treated much like physics, but it should be treated more like psychology. Below are the important lessons that Morgan shared in his book, but I highly encourage reading the book because the little stories related to each big idea is much more meaningful than the summary of ideas.
 
@@ -38,8 +38,8 @@ Finance is one of the greatest shows on Earth. It offers lessons in confidence, 
 
 ## Quotes
 
-- “A genius is the man who can do the average thing when everyone else around him is losing his mind.” - Napoleon
-- “The world is full of obvious things which nobody by any chance ever observes.” - Sherlock Holmes
+- “A genius is the man who can do the average thing when everyone else around him is losing his mind.” – Napoleon
+- “The world is full of obvious things which nobody by any chance ever observes.” – Sherlock Holmes
 - A genius who loses control of their emotions can be a financial disaster. The opposite is also true. Ordinary folks with no financial education can be wealthy if they have a handful of behavioral skills that have nothing to do with formal measures of intelligence.
 - Most of the reason why, I believe, is that we think about and are taught about money in ways that are too much like physics (with rules and laws) and not enough like psychology (with emotions and nuance).
 - To grasp why people bury themselves in debt you don’t need to study interest rates; you need to study the history of greed, insecurity, and optimism.
@@ -47,14 +47,14 @@ Finance is one of the greatest shows on Earth. It offers lessons in confidence, 
 - When judging others, attributing success to luck makes you look jealous and mean, even if we know it exists. And when judging yourself, attributing success to luck can be too demoralizing to accept.
 - Failure can be a lousy teacher, because it seduces smart people into thinking their decisions were terrible when sometimes they just reflect the unforgiving realities of risk.
 - But more important is that as much as we recognize the role of luck in success, the role of risk means we should forgive ourselves and leave room for understanding when judging failures.
-- “Yes, but I have something he will never have … enough.” - Joseph Heller
+- “Yes, but I have something he will never have … enough.” – Joseph Heller
 - The only way to know how much food you can eat is to eat until you’re sick. Few try this because vomiting hurts more than any meal is good. For some reason the same logic doesn’t translate to business and investing, and many will only stop reaching for more when they break and are forced to.
 - If I had to summarize money success in a single word it would be “survival.”
 - Capitalism is hard. But part of the reason this happens is because getting money and keeping money are two different skills.
 - Compounding only works if you can give an asset years and years to grow. It’s like planting oak trees: A year of growth will never show much progress, 10 years can make a meaningful difference, and 50 years can create something absolutely extraordinary.
-- way: “Having an ‘edge’ and surviving are two different things: the first requires the second. You need to avoid ruin. At all costs.” - Nassim Taleb
+- way: “Having an ‘edge’ and surviving are two different things: the first requires the second. You need to avoid ruin. At all costs.” – Nassim Taleb
 - A mindset that can be paranoid and optimistic at the same time is hard to maintain, because seeing things as black or white takes less effort than accepting nuance. But you need short-term paranoia to keep you alive long enough to exploit long-term optimism.
-- “I’ve been banging away at this thing for 30 years. I think the simple math is, some projects work and some don’t. There’s no reason to belabor either one. Just get on to the next.” - Brad Pitt
+- “I’ve been banging away at this thing for 30 years. I think the simple math is, some projects work and some don’t. There’s no reason to belabor either one. Just get on to the next.” – Brad Pitt
 - Stock goes to zero, have a nice day.
 - There are 100 billion planets in our galaxy and only one, as far as we know, with intelligent life. The fact that you are reading this book is the result of the longest tail you can imagine.
 - It was my dream to have one of these cars of my own, because (I thought) they sent such a strong signal to others that you made it. You’re smart. You’re rich. You have taste. You’re important. Look at me. When you see someone driving a nice car, you rarely think, “Wow, the guy driving that car is cool.” Instead, you think, “Wow, if I had that car people would think I’m cool.” Subconscious or not, this is how people think.
@@ -77,7 +77,7 @@ planning on your plan not going according to the plan.
 - ... the hardest-working guy I knew. These people have a lot to teach because they have an unfiltered understanding of every inch of the road to success.
 - Compounding works best when you can give a plan years or decades to grow. This is true for not only savings but careers and relationships. Endurance is key.
 - Sunk costs-anchoring decisions to past efforts that can’t be refunded-are a devil in a world where people change over time. They make our future selves prisoners to our past, different, selves. It’s the equivalent of a stranger making major life decisions for you.
-- “Every job looks easy when you’re not the one doing it.” - Jeff Immelt
+- “Every job looks easy when you’re not the one doing it.” – Jeff Immelt
 - Pessimism just sounds smarter and more plausible than optimism.
 - Growth is driven by compounding, which always takes time. Destruction is driven by single points of failure, which can happen in seconds, and loss of confidence, which can happen in an instant.
 - In 2007, we told a story about the stability of housing prices, the prudence of bankers, and the ability of financial markets to accurately price risk. In 2009 we stopped believing that story. In 2009 we inflicted narrative damage on ourselves, and it was vicious. It’s one of the most potent economic forces that exists.
@@ -85,7 +85,7 @@ planning on your plan not going according to the plan.
 - Everyone has an incomplete view of the world. But we form a complete narrative to fill in the gaps.
 - Incentives are a powerful motivator, and we should always remember how they influence our own financial goals and outlooks. It can’t be overstated: there is no greater force in finance than room for error, and the higher the stakes, the wider it should be.
 - Coming to terms with how much you don’t know means coming to terms with how much of what happens in the world is out of your control. And that can be hard to accept.
-- Risk is what's left over when you think you've thought of everything. - Carl Richards
+- Risk is what's left over when you think you've thought of everything. – Carl Richards
 - Investing has a social component that’s often ignored when viewed through a strictly financial lens.
 - The reason surprises occur is not because our models are wrong or our intelligence is low. It’s because the odds that Adolf Hitler’s parents argued on the evening nine months before he was born were the same as them conceiving a child.
 - The world is never that nice. There’s a price tag, a bill that must be paid. This is the price of market returns. The fee. It is the cost of admission. 

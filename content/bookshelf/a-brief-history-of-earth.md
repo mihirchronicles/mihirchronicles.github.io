@@ -6,7 +6,7 @@ path: "/bookshelf/a-brief-history-of-earth.md"
 
 ## I. Brief Summary
 
-This was gifted to me by my wife on my birthday. It was a great tour of everything about our planet Earth. This book is written by an influential geologist and a professor who has dedicated his entire life studying the history of our planet. Understanding the geologic history is critical to understanding where our planet is headed. The book is filled with lessons on transformations-life, sea, atmosphere, mass extinctions, animals and humans. Andrew Knoll pleas on climate crisis led by humans in the beginning and at the end. I learned quite a bit about the transformation of the Earth, but also the importance of really how long it takes for evolution to take place and ruining it in a few decades have dire consequences to sustain our lives.
+This was gifted to me by my wife on my birthday. It was a great tour of everything about our planet Earth. This book is written by an influential geologist and a professor who has dedicated his entire life studying the history of our planet. Understanding the geologic history is critical to understanding where our planet is headed. The book is filled with lessons on transformations – life, sea, atmosphere, mass extinctions, animals and humans. Andrew Knoll pleas on climate crisis led by humans in the beginning and at the end. I learned quite a bit about the transformation of the Earth, but also the importance of really how long it takes for evolution to take place and ruining it in a few decades have dire consequences to sustain our lives.
 
 ## II. Big Ideas
 
@@ -24,7 +24,7 @@ This was gifted to me by my wife on my birthday. It was a great tour of everythi
     - Hominins differed from other great apes in critical way. They walk upright.
     - Early humans lived only in Africa, but a bit more than 100,000 years ago, one population stuck its toe into the wider world, dwelling in what is now Israel along with Neanderthals. Then, 50,000-70,000 years ago, our species spread rapidly throughout Asia and Europe.
     - Homo sapiens has shaped the world around us since our inception and now does so in unprecedented ways, the latest movement in the long symphonic dance of Earth and life.
-    - The human population, whom we call Clovis-suggests that humans played a major role in removing large mammal species from North America.
+    - The human population, whom we call Clovis – suggests that humans played a major role in removing large mammal species from North America.
     - Agriculture and pollution are both challenging natural ecosystems. For example, there are dead zones, meaning depleting oxygen in ambient waters found in Gulf of Mexico and other coastal seaways.
     - Globally, hunting has depleted numerous bird and mammal populations.
     - One in six global fisheries has collapsed in recent decaded. Commercial fishing was banned, but nearly three decades later, the cod have yet to recover.
@@ -44,7 +44,7 @@ This was gifted to me by my wife on my birthday. It was a great tour of everythi
 - The story of Earth and the organism it sustains is far grander than any Hollywood blockbuster, filled with enough plot twists to rival a bestselling thriller.
 - Somehow om this dynamic stage, life established a foothold and eventually transformed our planet's surface, paving the way for trilobites, dinosaurs, and a species that can speak, reflect, fashion tools, and in the end, change the world again.
 - Population decline is not extinction, but it is road down which species travel on their way to biological endgame.
-- In the end, we will conserve only what we love, we will love only what we understand, and we will understand only what we are taught. - Baba Dioum
+- In the end, we will conserve only what we love, we will love only what we understand, and we will understand only what we are taught. – Baba Dioum
 - Our understanding of the universe and its history comes largely from the most ephemeral sources: light. That's what makes our starry sky a celestial history book.
 - If light chronicles the history of the universe, rock tell our planet's history.
 - Earth writes its history with one hand and erases it with the other.
@@ -60,5 +60,5 @@ This was gifted to me by my wife on my birthday. It was a great tour of everythi
 - By the time the glacier collapsed, some 70 percent of all known animal species had disappeared.
 - 400 million years ago, land plants already lived in close association with fungi, exchanging food for nutrients. In the absence of this partnership, Earth's green revolution might have never occurred.
 - Vertebrates, our own ancestors, were relatively late comers to the party.
-- The principal physical part of soil formation-chemical weathering-is itself enhanced by roots that penetrate into the subsurface, releasing organic acids as they go.
+- The principal physical part of soil formation – chemical weathering – is itself enhanced by roots that penetrate into the subsurface, releasing organic acids as they go.
 - Mass extinctions have clearly played a role in shaping evolutionary history.

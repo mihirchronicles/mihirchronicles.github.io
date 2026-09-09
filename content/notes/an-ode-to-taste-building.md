@@ -30,7 +30,7 @@ In design, taste is a currency. Hence, we think great creators come with taste. 
 
 In addition to discovery, taste requires creators to be sensitive to their environment to capture details. We are all different, but we all have the same fears. Understanding what is universal versus what is unique can be advantageous to a creator. Taste requires emotional tolerance and self-conscious.
 
-Having a beautifully decorated wall doesn’t necessarily indicate your taste. What truly matters is how you express your taste in your surroundings-the way you welcome your guests at home, treat your colleagues, and strangers. Your overall ambiance and demeanor reflect your taste. Your vibe is taste.
+Having a beautifully decorated wall doesn’t necessarily indicate your taste. What truly matters is how you express your taste in your surroundings – the way you welcome your guests at home, treat your colleagues, and strangers. Your overall ambiance and demeanor reflect your taste. Your vibe is taste.
 
 Taste in ideas isn't enough. Taste goes beyond virtuous designers. You don't have to be a creator to be tasteful. Taste comes in emotions, moral values and judgement.
 

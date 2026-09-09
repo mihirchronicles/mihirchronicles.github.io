@@ -40,10 +40,10 @@ Stephen King needs no introduction in its current era. His novels are well-read 
 - Must you write complete sentences each time, every time? Perish the thought. If your work consists only of fragments and floating clauses, the Grammar Police aren’t going to come and take you away. Even William Strunk, that Mussolini of rhetoric, recognized the delicious pliability of language. “It is an old observation,” he writes, “that the best writers sometimes disregard the rules of rhetoric.” Yet he goes on to add this thought, which I urge you to consider: “Unless he is certain of doing well, [the writer] will probably do best to follow the rules.
 - Plot is, I think, the good writer’s last resort and the dullard’s first choice. The story which results from it is apt to feel artificial and labored. I lean more heavily on intuition, and have been able to do that because my books tend to be based on situation rather than story.
 - Strunk and White don’t speculate as to why so many writers are attracted to passive verbs, but I’m willing to; I think timid writers like them for the same reason timid lovers like passive partners. The passive voice is safe.
-- I'm convinced that fear is at the root of most bad writing. If one is writing for one's own pleasure, that fear may be mild - timidity is the word I've used here. If, however, one is working under deadline - a school paper, a newspaper article, the SAT writing sample - that fear may be intense.
+- I'm convinced that fear is at the root of most bad writing. If one is writing for one's own pleasure, that fear may be mild – timidity is the word I've used here. If, however, one is working under deadline – a school paper, a newspaper article, the SAT writing sample – that fear may be intense.
 - The object of fiction isn't grammatical correctness but to make the reader welcome and then tell a story. Writing is seduction. Good talk is part of seduction.
 - If you disapprove, I can only shrug my shoulders. It's what I have.
-- The rest of it - and perhaps the best of it - is a permission slip: you can, you should, and if you're brave enough to start, you will.
+- The rest of it – and perhaps the best of it – is a permission slip: you can, you should, and if you're brave enough to start, you will.
 - If you write (or paint or dance or sculpt or sing, I suppose), someone will try to make you feel lousy about it, that’s all. I’m not editorializing, just trying to give you the facts as I see them.
 - When you write, you want to get rid of the world, do you not? Of coarse you do. When you're writing, you're creating your own worlds.
 - What you need to remember is that there’s a difference between lecturing about what you know and using it to enrich the story. The latter is good. The former is not.
@@ -69,7 +69,7 @@ Stephen King needs no introduction in its current era. His novels are well-read 
 - The scariest moment is always just before you start. After that, things can only get better.
 - I think the best stories always end up being about the people rather than the event, which is to say character-driven.
 - When you write a book, you spend day after day scanning and identifying the trees. When you’re done, you have to step back and look at the forest.
-- I like to get ten pages a day, which amounts to 2,000 words. That’s 180,000 words over a three-month span, a goodish length for a book - something in which the reader can get happily lost, if the tale is done well and stays fresh.
+- I like to get ten pages a day, which amounts to 2,000 words. That’s 180,000 words over a three-month span, a goodish length for a book – something in which the reader can get happily lost, if the tale is done well and stays fresh.
 - Bad writing is more than a matter of shit syntax and faulty observation; bad writing usually arises from a stubborn refusal to tell stories about what people actually do―to face the fact, let us say, that murderers sometimes help old ladies cross the street.
 - Reading in bed can be heaven, assuming you can get just the right amount of light on the page and aren't prone to spilling your coffee or cognac on the sheets.
 - Writing is a lonely job. Having someone who believes in you makes a lot of difference. They don't have to make speeches. Just believing is usually enough.

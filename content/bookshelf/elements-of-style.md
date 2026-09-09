@@ -6,7 +6,7 @@ path: "/bookshelf/elements-of-style"
 
 ## I. Brief Summary
 
-An essential manual which offers practical advice on improving writing skills and writing style. The Elements of Style is short, precise, and to the point-keeping it with the rules of brevity and clarity it promotes. According to Strunk, students learn better through their own work and tailored instruction, as opposed to wading through large textbooks. 
+An essential manual which offers practical advice on improving writing skills and writing style. The Elements of Style is short, precise, and to the point – keeping it with the rules of brevity and clarity it promotes. According to Strunk, students learn better through their own work and tailored instruction, as opposed to wading through large textbooks. 
 
 ## II. Big Ideas
 
@@ -79,4 +79,4 @@ An essential manual which offers practical advice on improving writing skills an
 - It is an old observation that the best writers sometimes disregard the rules of rhetoric. When they do so, however, the reader will usually find in the sentence some compensating merit, attained at the cost of the violation. Unless he is certain of doing as well, he will probably do best to follow the rules. After he has learned, by their guidance, to write plain English adequate for everyday uses, let him look, for the secrets of style, to the study of the masters of literature.
 - Make the paragraph the unit of composition: one paragraph to each topic.
 - A sentence should contain no unnecessary words, a paragraph no unnecessary sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary parts.
-- A careful and honest writer does not need to worry about style. As you become proficient in the use of language, your style will emerge, because you yourself will emerge, and when this happens you will find it increasingly easy to breakthrough the barriers that separate you from other minds, other hearts - which is, of course, the purpose of writing, as well as its principal reward.
+- A careful and honest writer does not need to worry about style. As you become proficient in the use of language, your style will emerge, because you yourself will emerge, and when this happens you will find it increasingly easy to breakthrough the barriers that separate you from other minds, other hearts – which is, of course, the purpose of writing, as well as its principal reward.

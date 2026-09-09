@@ -13,7 +13,7 @@ A great book for thinking deeper about the relationship of color, and how we per
 - Color is the most relative medium in art.
 - Experience is the best teacher of color.
 - It is difficult to visualize specific colors. Visual memory is very poor by comparison to auditory memory.
-- People have strong preferences in regard to colors. In addition, people have strong associations with particular colors or color combinations-reds and greens together represent Christmas, pink is feminine, green is eco-friendly, etc.
+- People have strong preferences in regard to colors. In addition, people have strong associations with particular colors or color combinations – reds and greens together represent Christmas, pink is feminine, green is eco-friendly, etc.
 - Few people are able to distinguish tonal value in different hues within close intervals. In other words, it is more difficult to see whether a blue and an orange are of equal, greater or lesser value than it is to distinguish values within shades of the same hue (e.g., two different shades of blue). There are exercises in the book that will help you to become better at this.
 - When two colors have the same value, they “vibrate.” Because the eye reads value more than hue, vibrating colors compete for the eye’s attention and are uncomfortable to look at. This is especially important in typography because colored type on a colored background must retain adequate tonal contrast in order to be legible.
 - While there are innumerable colors, in most of the world’s languages, there are only about 30 names for different hues.
@@ -41,7 +41,7 @@ A great book for thinking deeper about the relationship of color, and how we per
 - Anyone who predicts the effect of colors proves that he has no experience with color.
 - I have said to my students ‘I am putting you into a vacuum and asking you to breathe.’
 - This book presents results of search, not of what is academically called research.
-- As it is not a compilation from books, it does not end with a list of books - either books read, or books not read. Instead, this book ends with an acknowledgement of my students who are the authors of sample studies, and whom I therefore consider my indirect but first collaborators.
+- As it is not a compilation from books, it does not end with a list of books – either books read, or books not read. Instead, this book ends with an acknowledgement of my students who are the authors of sample studies, and whom I therefore consider my indirect but first collaborators.
 - I like to state that my students in color have taught me more color than have books about color.
 - “Action” is the noun for the verb “to act”.
 - The word as such [value], when unspecified, permits application in innumerable directions... Unfortunately, the careless use of “value,” particularly with regard to equal lightness-as well as false examples reproduced in books-has destroyed it as a means of measure.

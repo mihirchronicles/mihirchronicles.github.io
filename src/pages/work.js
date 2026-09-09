@@ -41,7 +41,7 @@ const WorkIndex = ({ data, location }) => {
           </Zoom>
         </div>
         <div className="work-content-container">
-          <p><strong>[2023 - 2025]</strong></p>
+          <p><strong>[2023 – 2025]</strong></p>
           <ul>
             <li> Led digital product strategy and execution for donor-advised funds (DAF), directly facilitating a total of $8.9 billion in charitable grants during fiscal year 2025.</li>
             <li> Scaled automated granting workflows and directed end-to-end product development, optimizing capabilities to connect donors with 255,000+ charities nationwide.</li>
@@ -59,7 +59,7 @@ const WorkIndex = ({ data, location }) => {
           </Zoom>
         </div>
         <div className="work-content-container">
-          <p><strong>[2021 - 2023]</strong></p>
+          <p><strong>[2021 – 2023]</strong></p>
           <ul>
             <li>The Challenge: The existing automated investing onboarding flow was friction-heavy, requiring too many steps for risk profiling.</li>
             <li>The Solution: Led the effort to modernize the risk profile and portfolio recommendation algorithms, focusing on a minimalist, user-centric design.</li>
@@ -105,10 +105,10 @@ const WorkIndex = ({ data, location }) => {
           </Zoom>
         </div>
         <div className="work-content-container">
-          <p><strong>[2018 - 2021]</strong></p>
+          <p><strong>[2018 – 2021]</strong></p>
           <ul>
             <li>A “pocket tool for independent thinking” consisting of 100 mental model cards in a compact, custom-designed box.</li>
-            <li>Founded and bootstrapped Wise Charlie—an educational project on Charlie Munger's mental models—over a traditional MBA. Dedicated to mastering the 'latticework' of interdisciplinary thinking by translating big ideas from physics, psychology, and math into accessible, high-leverage tools for better decision-making</li>
+            <li>Founded and bootstrapped Wise Charlie – an educational project on Charlie Munger's mental models – over a traditional MBA. Dedicated to mastering the 'latticework' of interdisciplinary thinking by translating big ideas from physics, psychology, and math into accessible, high-leverage tools for better decision-making</li>
             <li>Democratized high-leverage thinking, transforming dense academic concepts into engaging tools for critical decision-making and pattern recognition.</li>
             <li>Managed end-to-end physical product lifecycle as a solo founder, successfully navigating manufacturing, logistics, and shipping challenges distinct from digital product development.</li>
             <li>Achieved market validation with 600+ paying customers, delivering a physical tool for critical thinking to a diverse user base of educators, investors, and designers.</li>
@@ -145,7 +145,7 @@ const WorkIndex = ({ data, location }) => {
           </Zoom>
         </div>
         <div className="work-content-container">
-          <p><strong>[2018 - 2020]</strong></p>
+          <p><strong>[2018 – 2020]</strong></p>
           <ul>
             <li>Unified UX and code standards across a portfolio of 60+ client-facing products, resolving fragmentation through the implementation of a centralized Design System.</li>
             <li>Created a living style guide and component library, ensuring consistency and accessibility across all products.</li>
@@ -190,7 +190,7 @@ const WorkIndex = ({ data, location }) => {
           </Zoom>
         </div>
         <div className="work-content-container">
-          <p><strong>[2012 - 2015]</strong></p>
+          <p><strong>[2012 – 2015]</strong></p>
           <ul>
             <li>Humble Pen was my crash course in the reality of physical goods versus digital products.</li>
             <li>Origin: Inspired by a 2012 trip to Haiti and letters from students, I founded a “One-for-One” venture to merge design with social impact.</li>

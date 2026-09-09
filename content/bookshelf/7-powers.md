@@ -34,7 +34,7 @@ I thoroughly enjoyed this book and realized how misunderstood the discipline of 
 - “What must I do to establish Power?” and “When can I establish it?” Part II of this book reveals the answers to these questions. 
     - Here’s the first important takeaway from our consideration of Dynamics: “getting there” (Dynamics) is completely different from “being there” (Statics).
     - To assess which journeys are worth taking, you must first understand which destinations are desirable. Fortunately the 7 Powers does exactly that: it maps the only seven worthwhile destinations.
-    - All Power starts with invention, be it the invention of a product, process, business model or brand. The adage “‘Me too’ won’t do” guides the creation of Power. Invention propels the other key element of the Fundamental Equation of Strategy-market size.
+    - All Power starts with invention, be it the invention of a product, process, business model or brand. The adage “‘Me too’ won’t do” guides the creation of Power. Invention propels the other key element of the Fundamental Equation of Strategy – market size.
     - Planning rarely creates Power. It may meaningfully boost Power once you have established it, but if Power does not yet exist, you can’t rely on planning. Instead you must create something new that produces substantial economic gain in the value chain.
     - <img src="../../src/images/books/7-powers-dynamics.png" alt="7-powers-dynamics"/>
     - Operational excellence by itself is not enough.

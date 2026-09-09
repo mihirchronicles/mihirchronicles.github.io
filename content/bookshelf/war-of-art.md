@@ -31,10 +31,10 @@ Pressfield investigates this inner voice which he calls “resistance” which p
         - We master the technique of our jobs.
         - We have a sense of humor about our jobs.
         - We receive praise or blame in the real world.
-- Tiger Woods has a coach. The greatest golfer has a teacher. A coach he turns to for advice and constructive criticism. And he does this because he knows that even though he’s the best-he can always get better.
+- Tiger Woods has a coach. The greatest golfer has a teacher. A coach he turns to for advice and constructive criticism. And he does this because he knows that even though he’s the best – he can always get better.
 - Hierarchies vs Territories
-    - Inspired by how animal kingdom operates. By how they rank within a Hierarchy-such as, say, a hen in a pecking order, or a wolf in a pack. By their connection to a Territory-like a home base or home court, a hunting ground or turf they’re comfortable operating within.
-    - Hierarchies and territories are important because they provide us-(both humans as well as animals)-with psychological security. They help maintain order and a certain degree of organization. They help us understand our place and where we stand in the world. But there’s a sharp distinction between these two paradigms-the Hierarchy vs a Territory.
+    - Inspired by how animal kingdom operates. By how they rank within a Hierarchy – such as, say, a hen in a pecking order, or a wolf in a pack. By their connection to a Territory-like a home base or home court, a hunting ground or turf they’re comfortable operating within.
+    - Hierarchies and territories are important because they provide us-(both humans as well as animals)-with psychological security. They help maintain order and a certain degree of organization. They help us understand our place and where we stand in the world. But there’s a sharp distinction between these two paradigms – the Hierarchy vs a Territory.
     - Most people naturally tend to lean towards the Hierarchy paradigm. This is because it’s easier for us to slip into when we’re growing up (popular vs geeks in high school). Eventually, as we grow into adulthood, most of us allow the hierarchy to remain in place only in a different way (buy this beer, get this job, drive this car, and everyone will love you.) We allow social hierarchies to place a ceiling on how much we earn and how high we climb. Corporations are hierarchies. Governments are hierarchies. High school was the ultimate hierarchy.
     - But Hierarchies have proven themselves ineffective for the individual seeking to live a more fulfilling life doing work that matters to him/her. Ultimately, says Pressfield, “for the artist to define himself hierarchically is fatal.” 
     - Hierarchies stifle creativity. An individual who defines himself by his place in a pecking order will:
@@ -50,7 +50,7 @@ Pressfield investigates this inner voice which he calls “resistance” which p
         - A territory can only be claimed alone. You can team with a partner, you can work out with a friend, but you only need your self to soak up your territory’s juice.
         - A territory can only be claimed by work. When Arnold Schwarzenegger hits the gym, he’s on his own turf. But what made it his own are the hours and years of sweat he put in to claim it. The territory doesn’t give, it gives back.
         - A territory returns exactly what you put it in. Territories are fair. Every bit of energy you put in goes infallibly into your account. The territory never devalues. A territory never crashes. What you deposited, you get back, dollar for dollar."
-        - Your territory is your calling. It’s your “gym”, your “playground”, your “notebook”, your “microphone”. It’s that place you know you need to be in order to do your best work. I you don’t know it-figure it out. If you’ve figured it out - then claim it-not just once, but every single day.
+        - Your territory is your calling. It’s your “gym”, your “playground”, your “notebook”, your “microphone”. It’s that place you know you need to be in order to do your best work. I you don’t know it – figure it out. If you’ve figured it out – then claim it – not just once, but every single day.
 - Going beyond resistance is the higher realm. That’s where the angels, the Muses come in. This is the opposite force of resistance. Angels who forward the weight of artists. Whether in form of spirit, religion or higher realm, invoking the Muses in favor of you will create equal force against the resistance.
 
 ## III. Quotes
@@ -81,10 +81,10 @@ Pressfield investigates this inner voice which he calls “resistance” which p
 - Resistance by definition is self-sabotage.
 - The amateur believes he must first overcome his fear; then he can do his work. The professional knows that fear can never be overcome.
 - Resistance is directly proportional to love. If you're feeling massive Resistance, the good news is that it means there's tremendous love there too.
-- The more resistance you experience, the more important your unmanifested art/project/enterprise is to you - and the more gratification you will feel when you finally do it.
+- The more resistance you experience, the more important your unmanifested art/project/enterprise is to you – and the more gratification you will feel when you finally do it.
 - It's not the writing part that's hard. What's hard is sitting down to write. What keeps us from sitting down is Resistance.
 - Resistance is not a peripheral opponent. Resistance arises from within. It is self-generated and self-perpetuated. Resistance is the enemy within.
-- Whatever you can do, or dream you can, begin it. Boldness has genius, magic, and power in it. Begin it now. - W. H. Murray
+- Whatever you can do, or dream you can, begin it. Boldness has genius, magic, and power in it. Begin it now. – W. H. Murray
 - The best and only thing that one artist can do for another is to serve as an example and an inspiration.
 - The paradox seems to be, as Socrates demonstrated long ago, that the truly free individual is free only to the extent of his own self-mastery. While those who will not govern themselves are condemned to find masters to govern over them.
 - Resistance cannot be seen, touched, heard, or smelled. But it can be felt.

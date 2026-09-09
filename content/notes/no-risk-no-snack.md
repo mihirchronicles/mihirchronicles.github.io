@@ -10,7 +10,7 @@ What is my risk tolerance?
 
 I was recently told that I am low on risk tolerance. I was confused with the feedback. The intention of the feedback wasn't negative, but to scale me on the risk spectrum. I personally appreciated the conversation, but nonetheless, investigation was warranted.
 
-I have learned about risk taking from two worlds-investing and entrepreneurship. I have invested in common stocks to grow my personal portfolio since I was a teenager. It's been a decade and a half. In addition, I have started multiple businesses in that same amount of time. One flopped, and the other had a decent outcome.
+I have learned about risk taking from two worlds – investing and entrepreneurship. I have invested in common stocks to grow my personal portfolio since I was a teenager. It's been a decade and a half. In addition, I have started multiple businesses in that same amount of time. One flopped, and the other had a decent outcome.
 
 They both inherently required making bets, but they were both different types of bets.
 
@@ -20,7 +20,7 @@ These lessons had a huge impact on me. I decided to never make those same mistak
 
 I became a risk mitigator. The impact of that was I became too skeptical about everything and missed out on the large returns before the COVID-19 pandemic. I had no interest in get-rich-quickly conversations.
 
-While everyone in the industry spent time debating about the biggest risk to the economy, I was watching the show from the sidelines. Everyone was busy making predictions about Tesla, Bitcoin, NFTs, interest rates, tax cuts, China, and money printing. But the industry missed out on the most important event of our lifetime-COVID-19 pandemic.
+While everyone in the industry spent time debating about the biggest risk to the economy, I was watching the show from the sidelines. Everyone was busy making predictions about Tesla, Bitcoin, NFTs, interest rates, tax cuts, China, and money printing. But the industry missed out on the most important event of our lifetime – COVID-19 pandemic.
 
 Carl Richards, the author of The Behavior Gap said, “Risk is what’s left when you think you’ve thought of everything.” There is no better definition of risk than this.
 
@@ -41,7 +41,7 @@ I have now built two products which required funding from my own pocket without 
 
 For the pen and mental model project, I was brave enough to live life creatively. I didn't care about assessing risk. I had to listen to my gut.
 
-The creative side is to bring the idea floating in my head to life. And if all failed, I would learn a skill or two. None of these ideas were change-the-world type of ideas. I would consider them lifestyle businesses within educational category. Both were strong enough to bring to life.
+The creative side is to bring the idea floating in my head to life. And if all failed, I would learn a skill or two. None of these ideas were change – the-world type of ideas. I would consider them lifestyle businesses within educational category. Both were strong enough to bring to life.
 
 Entrepreneurship is like adventuring out into wilderness. There are no roads or buses. You rely on your intuition. You work hard. And you take risky path to the unknowns. But when all is said and done, you discover something beautiful. And you can share the experience with the world. Both of my products felt that way!
 

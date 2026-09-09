@@ -8,7 +8,7 @@ path: "/notes/momentum"
 
 In 1983, Michael Bloomberg unveiled a desktop computer known as “the terminal” that would revolutionize financial markets. The keyboard, initially called the Chiclet, was toy-like. None of the yellow keys worked when it launched. The yellow keys were for major markets-commodities, equities, municipal debt, preferred stocks, mortgages, money markets, governments, corporates, and currencies. Initially, only government bonds worked. The rest of the features weren't completed for three to seven years.
 
-There is a lesson in this story-don't be afraid to put things out there even if they are half-working. The Bloomberg terminal is a major success story today because Mike Bloomberg was comfortable letting go of perfectionism.
+There is a lesson in this story – don't be afraid to put things out there even if they are half-working. The Bloomberg terminal is a major success story today because Mike Bloomberg was comfortable letting go of perfectionism.
 
 This is a story of momentum. 
 

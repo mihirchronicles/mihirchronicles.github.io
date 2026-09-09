@@ -39,7 +39,7 @@ Pablo Coelho shares the story of a shepherd boy from the Spanish province of And
 
 - Then we warriors of light must be prepared to have patience in difficult times and to know that the Universe is conspiring in our favor, even though me may not understand how.
 - Each day, each hour, is part of the good fight.
-- Each man kills the thing he loves. - Oscar Wilde
+- Each man kills the thing he loves. – Oscar Wilde
 - If you believe yourself worthy of the thing you fought so hard to get, then you become an instrument of God, you help the Soul of the World, and you understand why you are here.
 - When someone sees the same people every day, as had happened with him at the seminary, they wind up becoming a part of that person's life. And then they want the person to change. If someone isn't want others want them to be, the others become angry. Everyone seems to have a clear idea of how other people should lead their lives, but none about his or her own.
 - The boy was tempted to be rude, and move to another bench, but his father had taught him to be respectful of the elderly.

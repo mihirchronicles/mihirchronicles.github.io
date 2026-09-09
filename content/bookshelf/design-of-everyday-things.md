@@ -98,7 +98,7 @@ This is a must-read for problem solvers and anyone who wants to design products 
 - Errors shouldn’t ever be blamed on the user. Rather, errors are the result of bad designs. Norman provides some tips on how to design for error, which include:
     - Understand the causes of error and design to minimize those causes.
     - Do sensibility checks. Does the action pass the “common sense” test?
-    - Make it possible to reverse actions - to “undo” them - or make it harder to do what cannot be reversed.
+    - Make it possible to reverse actions – to “undo” them – or make it harder to do what cannot be reversed.
     - Make it easier for people to discover the errors that do occur, and make them easier to correct.
     - Don’t treat the action as an error; rather, try to help the person complete the action properly. Think of the action as an approximation to what is desired.
 - There are two components of design:

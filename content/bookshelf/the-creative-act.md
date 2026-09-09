@@ -91,7 +91,7 @@ Rick Rubin provides wisdom on creativity. Rubin is a legendary music producer, a
 - Flaws are human, and the attraction of art is the humanity held in it. If we were machinelike, the art wouldn’t resonate. It would be soulless. With life comes pain, insecurity, and fear.
 - Being part of an artistic community can be one of the great joys of life.
 - Talent is the ability to let ideas manifest themselves through you.
-- The word inspire comes from the Latin-inspirare, meaning to breathe in or blow into. For the lungs to draw in air, they must first be emptied. For the mind to draw inspiration, it wants space to welcome the new. The universe seeks balance. Through this absence, you are inviting energy in.
+- The word inspire comes from the Latin – inspirare, meaning to breathe in or blow into. For the lungs to draw in air, they must first be emptied. For the mind to draw inspiration, it wants space to welcome the new. The universe seeks balance. Through this absence, you are inviting energy in.
 - Receive wisdom skillfully. Try it on for size and see how it fits. Incorporate what’s useful. Let go of the rest. And no matter how credible the source, test and tune in to yourself to discover what works for you.
 - The only practice that matters is the one you consistently do, not the practice of any other artist.
 - Something will be gained through the process, whatever the result. Give yourself permission to be wrong and experience the joy of being surprised.

@@ -23,7 +23,7 @@ A book on investment legends. William Green is a well-known financial journalist
                 - To buy when others are despondently selling and to sell when others are enthusiastically buying is the most difficult. But it pays the greatest rewards.
             - Beware of your own ignorance.
                 - So many people buy something with the tiniest amount of information. They don't really understand what it is that they are buying. The one with the greatest information is likely to come out ahead. It takes a huge amount of work and study and investigation. Templeton claimed that diligence had played a much greater role in his success than innate talent.
-                - He often spoke of his determination to give the extra ounce - to make the extra call, to schedule the extra meeting, to take the extra research trip. He was similarly dedicated to his lifelong programme of continuous self-education.
+                - He often spoke of his determination to give the extra ounce – to make the extra call, to schedule the extra meeting, to take the extra research trip. He was similarly dedicated to his lifelong programme of continuous self-education.
             - You should diversify broadly to protect yourself from your own fallibility.
                 - Investing is so difficult, that even the best investors should assume that they'll be right no more than two-thirds of the time, however hard they work.
             - Invest in a company only if it falls within your circle of competence.
@@ -124,11 +124,11 @@ A book on investment legends. William Green is a well-known financial journalist
     - **Mohnish Pabrai**
         - Pabrai studied the best investors, figured out why they were successful then cloned (copied) their approach (studying is a huge part to make sure he clones the right things). He did for more than just investing strategies. He gets investment ideas by searching through 13F’s of the top investors, looks at the top holdings, studies the stocks, and tries to figure out why it’s a top holding.
         - I’m a shameless copycat. Everything in my life is cloned. I have no original ideas.
-        - Never use leverage. The case of Rick Guerlin-he tried to get rich faster than necessary. He was leveraged going into the 1973-74 crash, hit by margin calls, and forced to sell his shares in Berkshire Hathaway for less than they were worth (Buffett bought them).
+        - Never use leverage. The case of Rick Guerlin – he tried to get rich faster than necessary. He was leveraged going into the 1973-74 crash, hit by margin calls, and forced to sell his shares in Berkshire Hathaway for less than they were worth (Buffett bought them).
         - He avoids short selling because the upside is only 100% but the downside is unlimited.
         - He ignores macroeconomics. It’s too complex.
         - He avoids meeting the management of companies he owns. Avoids being biased by sales speak and unreliable information.
-        - The key isn’t to get rich, it’s financial independence-to do what you want to do without money constraints.
+        - The key isn’t to get rich, it’s financial independence – to do what you want to do without money constraints.
         - Pabrai cloned Buffett’s 3 core concepts:
             - Buying a stock means buying a piece of a business with a value, not a piece of paper.
             - That value of the businesses is not always reflected in stock prices. The key is to stay disconnected from the market’s craziness and patiently wait for mispriced opportunities.
@@ -148,7 +148,7 @@ A book on investment legends. William Green is a well-known financial journalist
     - **Fred Martin**
     - **Ken Shubin Stein**
     - **Matthew McClennan**
-        - Eveillard retired in 2008 and passed control of the First Eagle Global Fund to Matthew McLennan. McLennan follows a strategy-looks for at least a 30% margin of safety and owns over 100 stocks in the funds. 
+        - Eveillard retired in 2008 and passed control of the First Eagle Global Fund to Matthew McLennan. McLennan follows a strategy – looks for at least a 30% margin of safety and owns over 100 stocks in the funds. 
         - Our goal is not to try to become rich quickly. It’s resilient wealth creation.
         - The goal directs every investment decision.
         - On risk: just because something has never happened, doesn’t mean it can’t happen. We must be prepared for the possibility.
@@ -160,7 +160,7 @@ A book on investment legends. William Green is a well-known financial journalist
     - **Francis Chou**
     - **Thyra Zerhusen**
     - **Thomas Russo**
-        - I call myself a farmer. Wall Street is flooded with hunters-people who try to go out and find the big game. They fell it and bring it back, and there’s a huge feast and everything is fabulous, and then they look for the next big game. I plant seeds and then I spend all of my time cultivating them.
+        - I call myself a farmer. Wall Street is flooded with hunters – people who try to go out and find the big game. They fell it and bring it back, and there’s a huge feast and everything is fabulous, and then they look for the next big game. I plant seeds and then I spend all of my time cultivating them.
         - e looks for companies with the “capacity to suffer.” They are built to survive tough times and outlast the competition.
         - Less jam today for more jam tomorrow, the three little piggies, etc, are childhood tales that inculcate thoughtful people with the message of deferred gratification. Society has, however, created endless reasons why decision makers mistakenly prefer more jam today even at the expense of jam tomorrow. Much investment opportunity arises from being able to take the other side of the short-termism bet. I have been blessed with investors who permit me to take the longer view.
     - **Chuck Akre**
@@ -173,9 +173,9 @@ A book on investment legends. William Green is a well-known financial journalist
     - **Mason Hawkins**
     - **Bill Ackman**
     - **Jeff Vinik**
-        - The best fund manager of his generation at Fidelity. He was so successful because he used the same consistent approach to investing throughout his career-individual companies with good earnings outlooks at reasonable valuations.
+        - The best fund manager of his generation at Fidelity. He was so successful because he used the same consistent approach to investing throughout his career – individual companies with good earnings outlooks at reasonable valuations.
         - The more companies you can analyse, the more cashflow statements you can go through, the more good ideas you're going to find and the better the performance is going to be. There's no substitute for hard work.
-        - Work hard-harder than everyone-read more cashflow statements, more annual reports-knowledge compounds over time.
+        - Work hard – harder than everyone – read more cashflow statements, more annual reports – knowledge compounds over time.
     - **Mario Gabelli**
     - **Laura Geritz**
         - You don’t need to be watching the news to find out what’s changing in the world every ten minutes. It is more valuable to travel, read, think deeply about what the world will be like in 10 years. This gives you a huge edge over investors just watching markets go up and down.
@@ -226,7 +226,7 @@ A book on investment legends. William Green is a well-known financial journalist
             - Companies that take advantage of economies of scale to grow revenue while lowering the cost of business only to share those cost savings with customers to further entrench their advantage over competitors.
             - Increased revenues begets scale savings begets lower costs begets lower prices begets increased revenues.
             - Costco is an example. It deferred profits for customer satisfaction/retention and long-term growth.
-            - Amazon is another example. According to Bezos in 2005 Shareholder Letter-Relentlessly returning efficiency improvements and scale economies to customers in the form of lower prices creates a virtuous cycle that leads over the long term to a much larger dollar amount of free cash flow, and thereby to a much more valuable Amazon.com.
+            - Amazon is another example. According to Bezos in 2005 Shareholder Letter – Relentlessly returning efficiency improvements and scale economies to customers in the form of lower prices creates a virtuous cycle that leads over the long term to a much larger dollar amount of free cash flow, and thereby to a much more valuable Amazon.com.
             - Tend to be founder-led companies where the founder is obsessive about small details.
             - Tend to prioritize the customer experience.
             - Tend to be serial cost-cutters.
@@ -251,19 +251,19 @@ A book on investment legends. William Green is a well-known financial journalist
 
 ## III. Quotes
 
-- Everything is on a path to fade. - Matthew McLennan
+- Everything is on a path to fade. – Matthew McLennan
 - Most people make the mistake of adding too much complexity to their lives. They skim the surface, preoccupying themselves with the superficial and the extraneous. As the best investors show, sustained excellence requires us to subtract and go deep.
 - If you’re going to be in this game for the long pull, which is the way to do it, you better be able to handle a fifty percent decline without fussing too much about it. And so my lesson to all of you is, conduct your life so that you can handle the fifty percent decline with aplomb and grace. Don’t try to avoid it. It will come. In fact, I would say if it doesn’t come, you’re not being aggressive enough.
 - Munger has also learned to control certain toxic emotions that would corrode his enjoyment of life. “Crazy anger. Crazy resentment. Avoid all that stuff,” he tells me. “I don’t let it run. I don’t let it start.” The same goes for envy, which he considers the dumbest of the seven deadly sins because it’s not even fun. He also disdains the tendency to view oneself as a victim, and he has no patience for whining. When I ask if he has a mental process that helps him to defuse self-defeating emotions, he replies, “I know that anger is stupid. I know that resentment is stupid. I know self-pity is stupid. So I don’t do them....I’m trying not to be stupid every day, all day.
 - You get a lot of A’s and B’s in school. In the stock market, you get a lot of F’s. And if you’re right six or seven times out of ten, you’re very good.
 - All of humanity’s problems stem from man’s inability to sit quietly in a room alone.
 - I feel wealthier not because I have more money but because I’ve got health, good friendships, I’ve got a great family. Prosperity takes all of these things into consideration: health, wealth, happiness, peace of mind. That’s what a prosperous person is, not just a lot of money. That doesn’t mean anything. – Van Den Berg
-- If all you succeed in doing in life is getting rich by buying little pieces of paper, it’s a failed life. Life is more than being shrewd in wealth accumulation. - Charlie Munger
+- If all you succeed in doing in life is getting rich by buying little pieces of paper, it’s a failed life. Life is more than being shrewd in wealth accumulation. – Charlie Munger
 - It’s frightening to think that you might not know something, but more frightening to think that, by and large, the world is run by people who have faith that they know exactly what’s going on.
 - If you just go around and identify all of the disasters and say, ‘What caused that?’ and try to avoid it, it turns out to be a very simple way to find opportunities and avoid troubles.
 - I don’t have any wonderful insights that other people don’t have. I just have slightly more consistently than others avoided idiocy. Other people are trying to be smart. All I’m trying to be is non-idiotic. I find that all you have to do to get ahead in life is to be non-idiotic and live a long time. It’s harder to be non-idiotic than most people think.
 - Take up one idea. Make that one idea your life. Think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea and just leave every other idea alone. This is the way to success.
-- The Art of Subtraction-If there is one habit that all of the investors in this chapter have in common, it’s this: They focus almost exclusively on what they’re best at and what matters most to them. Their success derives from this fierce insistence on concentrating deeply in a relatively narrow area while disregarding countless distractions that could interfere with their pursuit of excellence. Jason Zweig, an old friend who is a personal finance columnist at the Wall Street Journal and the editor of a revised edition of The Intelligent Investor, once wrote to me, “Think of Munger and Miller and Buffett: guys who just won’t spend a minute of time or an iota of mental energy doing or thinking about anything that doesn’t make them better....Their skill is self-honesty. They don’t lie to themselves about what they are and aren’t good at. Being honest with yourself like that has to be part of the secret. It’s so hard and so painful to do, but so important.
+- The Art of Subtraction – If there is one habit that all of the investors in this chapter have in common, it’s this: They focus almost exclusively on what they’re best at and what matters most to them. Their success derives from this fierce insistence on concentrating deeply in a relatively narrow area while disregarding countless distractions that could interfere with their pursuit of excellence. Jason Zweig, an old friend who is a personal finance columnist at the Wall Street Journal and the editor of a revised edition of The Intelligent Investor, once wrote to me, “Think of Munger and Miller and Buffett: guys who just won’t spend a minute of time or an iota of mental energy doing or thinking about anything that doesn’t make them better....Their skill is self-honesty. They don’t lie to themselves about what they are and aren’t good at. Being honest with yourself like that has to be part of the secret. It’s so hard and so painful to do, but so important.
 - Once you have a sense that life is meaningless, what should you do? Not fuck up life for other people. Leave the planet a better place than you found it. Do a good job with your kids. The rest of it is a game. It doesn’t matter.
 - The difference between successful people and really successful people is that really successful people say no to almost everything.
 - How to prepare for the future instead of fooling ourselves into believing we can predict it.
@@ -271,14 +271,14 @@ A book on investment legends. William Green is a well-known financial journalist
 - Fragility comes in many forms.
 - The ideal amount to give your kids is enough so they can do anything, but not so much that they can do nothing.
 - Templeton, Soros, and Buffett share “the willingness to be lonely, the willingness to take a position that others don’t think is too bright. They have an inner conviction that a lot of people do not have.”– Michael Lipper
-- A necessary characteristic of great investors is that they can’t be overly influenced by what other people think. The easiest way not to be overly influenced by what other people think is not to be that aware of what they think. If you don’t really notice that and don’t really care about what other people think, that will make it easier to be a great investor. - Chris Davis
-- If you’re even a slightly above average investor who spends less than you earn, over a lifetime you cannot help but get very wealthy. - Buffett
-- You don’t have to swing at everything-you can wait for your pitch. The problem when you’re a money manager is that your fans keep yelling, ‘Swing, you bum!’ - Warren Buffett
-- We, and our judgment, and all mortal things go on flowing and rolling unceasingly. Thus nothing certain can be established about one thing by another, both the judging and the judged being in continual change. - Michel De Montaigne
-- The art of being wise is the art of knowing what to overlook. - William James
-- To attain knowledge, add things every day. To attain wisdom, subtract things every day. - Lao-tzu
-- Uncertainty compels diversification. Diversification is and always has been the first tenet of the Prudent Man Rule of Investing....In sub-Saharan Africa, for centuries, people believed cattle were the safest repository of wealth. That was until the great drought came along. - Barton Biggs
-- The stock market is a sadistic, contrary, changeable beast and nothing is forever. - Barton Biggs
-- The crucial question is whether the investor will, in fact, hold on. The problem is not in the market, but in ourselves, our perceptions, and our reactions to our perceptions. This is why it is so important for each client to develop a realistic knowledge of his own and/or his organization’s tolerance for market fluctuations. - Charles Ellis
-- The only thing we can really count on in this uncertain world is human unreliability itself. - Garrett Harden
-- It struck me that we should think small, not big, and adopt a philosophy of continuous improvement through the aggregation of marginal gains. Forget about perfection; focus on progression, and compound the improvements. - Sir David Brailsford, coach of the British cycling team
+- A necessary characteristic of great investors is that they can’t be overly influenced by what other people think. The easiest way not to be overly influenced by what other people think is not to be that aware of what they think. If you don’t really notice that and don’t really care about what other people think, that will make it easier to be a great investor. – Chris Davis
+- If you’re even a slightly above average investor who spends less than you earn, over a lifetime you cannot help but get very wealthy. – Buffett
+- You don’t have to swing at everything – you can wait for your pitch. The problem when you’re a money manager is that your fans keep yelling, ‘Swing, you bum!’ – Warren Buffett
+- We, and our judgment, and all mortal things go on flowing and rolling unceasingly. Thus nothing certain can be established about one thing by another, both the judging and the judged being in continual change. – Michel De Montaigne
+- The art of being wise is the art of knowing what to overlook. – William James
+- To attain knowledge, add things every day. To attain wisdom, subtract things every day. – Lao-tzu
+- Uncertainty compels diversification. Diversification is and always has been the first tenet of the Prudent Man Rule of Investing....In sub-Saharan Africa, for centuries, people believed cattle were the safest repository of wealth. That was until the great drought came along. – Barton Biggs
+- The stock market is a sadistic, contrary, changeable beast and nothing is forever. – Barton Biggs
+- The crucial question is whether the investor will, in fact, hold on. The problem is not in the market, but in ourselves, our perceptions, and our reactions to our perceptions. This is why it is so important for each client to develop a realistic knowledge of his own and/or his organization’s tolerance for market fluctuations. – Charles Ellis
+- The only thing we can really count on in this uncertain world is human unreliability itself. – Garrett Harden
+- It struck me that we should think small, not big, and adopt a philosophy of continuous improvement through the aggregation of marginal gains. Forget about perfection; focus on progression, and compound the improvements. – Sir David Brailsford, coach of the British cycling team
