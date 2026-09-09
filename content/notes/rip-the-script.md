@@ -12,7 +12,7 @@ Two of the most iconic consumer brands on the planet broke in the same decade, a
 
 Same script. Opposite charts. Starbucks is up roughly 25% this year. Nike is down about half since Hill took over.
 
-If the market were grading CEOs on the promise to go back to basics, the lines wouldn't split this hard. So what is actually happening? Two lessons stick: the kind I want to remember the next time “a great brand, new CEO comeback” story tempts me.
+If the market were grading CEOs on the promise to go back to basics, the lines wouldn't split this hard. So what is actually happening? There are lessons to be learned from “a great brand, new CEO comeback” headline.
 
 **Lesson 1: Not all turnarounds are the same turnaround.** 
 
