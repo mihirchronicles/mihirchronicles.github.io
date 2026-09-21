@@ -1,2 +1,64 @@
+# /removal: the crawl trap was the ?url= query string (1.17M unique variants),
+# not the page. There is exactly ONE opt-out page. Block the variants, keep the
+# page crawlable â€” a privacy-sensitive site must be able to show search engines
+# that a working opt-out exists. '?' is a literal here (only * and $ are
+# wildcards), so "Disallow: /removal?" matches only URLs carrying a query string
+# and never the bare page.
 User-agent: *
-Disallow:
+Allow: /
+Allow: /removal$
+Disallow: /removal?
+
+# Named groups for crawlers that ignore the generic Disallow above.
+# Cloudflare's edge-injected managed robots.txt prepends its own
+# "User-agent: * / Allow: /" group; crawlers that first-match instead of
+# RFC 9309-merging duplicate * groups never see our Disallow. Named groups
+# outrank * in every parser. Both bots hammered /removal?url= (1.17M unique
+# variants) and /api/og/ cards in Aug 2026 â€” 99% of meta-webindexer's crawl.
+User-agent: meta-webindexer
+Disallow: /removal
+Disallow: /api/og/
+
+User-agent: Amzn-SearchBot
+Disallow: /removal
+Disallow: /api/og/
+
+# SEO crawlers: blocked.
+# (Also enforced at the Cloudflare WAF by user-agent, which is what actually stops them.)
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SiteAuditBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: AhrefsSiteAudit
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: DataForSEOBot
+Disallow: /
+
+User-agent: Barkrowler
+Disallow: /
+
+User-agent: SplitSignalBot
+Disallow: /
+
+User-agent: ThinkBot
+Disallow: /
+
+User-agent: Brightbot
+Disallow: /
+
+Sitemap: https://mihirchronicles.com/sitemap.xml
