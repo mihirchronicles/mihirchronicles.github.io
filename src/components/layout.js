@@ -44,6 +44,9 @@ const Layout = ({ location, title, children, isBlogPost = false }) => {
           <a href="https://www.linkedin.com/in/mihirchronicles/"><strong>Linkedin</strong></a>
           {` `}
           <span> | </span>
+          <a href="https://vsco.co/mihirchronicles/gallery"><strong>VSCO</strong></a>
+          {` `}
+          <span> | </span>
           <a href="https://eepurl.com/hRGv2D"><strong>Newsletter</strong></a>
         </div>
       </footer>

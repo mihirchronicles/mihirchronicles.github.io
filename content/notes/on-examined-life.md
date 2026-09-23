@@ -71,7 +71,7 @@ Not perfect, but below are my favorite virtues I try to live by.
 
 > If art is to nourish the roots of our culture, society must set the artist free to follow his vision wherever it takes him. We must never forget that art is not a form of propaganda; it is a form of truth. – JFK
 
-> If something isn’t working, listen. Action without understanding is the beginning of destruction.  - Victor Saad
+> If something isn’t working, listen. Action without understanding is the beginning of destruction. – Victor Saad
 
 - **Live frugal, but not cheap.** Learn to avoid lifestyle inflation and shifting up your goal post. Consume to meet the basic needs, waste nothing and be content with what you have. But don’t make mistake frugality with letting go of your youth and having fun. You don't have to cheap out on having fun. Both fun and frugality can co-exist. People who live far below their means enjoy freedom that people who are busy upgrading their lifestyles can’t fathom. Frugality allows you to stay rich. Getting rich and staying rich are different things that require different skills. Spending money to show off is the fastest way to lose money. Debt will cripple you. Savings will give you wings to fly on. Freedom plus time are worth much more than nice cars and clothes.
 
@@ -121,7 +121,7 @@ Not perfect, but below are my favorite virtues I try to live by.
 
 > The best never stop improving! Average players want to be left alone. Good players want to be coached, and great players want to be told the truth. – Michael Jordan
 
-> Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less. Language is a skin of the culture. Perspective comes from zooming out. Insight comes from zooming in. They’re both enhanced by zoning out for a while. -  NA 
+> Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less. Language is a skin of the culture. Perspective comes from zooming out. Insight comes from zooming in. They’re both enhanced by zoning out for a while. – NA 
 
 > To my mind there are no advantages and many disadvantages in lectures compared with reading. – Darwin
 
@@ -159,7 +159,7 @@ Not perfect, but below are my favorite virtues I try to live by.
 
 > Hard work enables one to excel over those who coast through life. – John Boyd
 
-> A lot of people say they want to be great, but they’re not willing to make the sacrifices necessary to achieve greatness. They have other concerns, whether important or not, and they spread themselves out. That’s totally fine. After all, greatness is not for everybody.  - Kobe Bryant
+> A lot of people say they want to be great, but they’re not willing to make the sacrifices necessary to achieve greatness. They have other concerns, whether important or not, and they spread themselves out. That’s totally fine. After all, greatness is not for everybody. – Kobe Bryant
 
 > Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present. – Marcus Aurelius
 

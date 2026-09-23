@@ -272,9 +272,9 @@ See resources [here](http://getbem.com/introduction/) and [here](https://zellwk.
 
 Pseudo selectors are only two types of selectors. The others are: simple selectors, attribute selectors, multiple selectors and combinators. All of these help us to target and style HTML elements. So, pseudo selectors include both pseudo elements and pseudo classes. They are added to the end of other selectors, and don't apply to whole elements, only parts of them.
 
-The pseudo classes (e.g. `:hover`, `:focus`, and `:nth-of-type()` - plus 38 others) style elements in a _certain state_.
+The pseudo classes (e.g. `:hover`, `:focus`, and `:nth-of-type()` – plus 38 others) style elements in a _certain state_.
 
-The pseudo elements (e.g. `::after`, `::before`, and `::first-letter` - plus 3 others, not including experimental ones) apparently need `::` rather than `:`. These don't depend on the state of an element.
+The pseudo elements (e.g. `::after`, `::before`, and `::first-letter` – plus 3 others, not including experimental ones) apparently need `::` rather than `:`. These don't depend on the state of an element.
 
   - [MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Pseudo-classes_and_pseudo-elements) page has great examples and learning playground to learn the topic.
   - https://codepen.io/pehaa/pen/ROapJZ
@@ -368,9 +368,9 @@ This list is meant as a quick and basic introduction to JavaScript strings.
 *   There's no need to escape dissimilar quote marks. For example: "This 'is' fine". This is probably why we tend to favour double quotes in HTML attribute values, and singles in JS (since it allows you to create some innerHTML without the need for escaping).
 *   When using template literals, you don't need to escape `'` or `"` ... and ``this` `"is"` `'also'` `fine``
 *   Is either a _string primitive_ – immutable and more common, e.g. `const stringPrimitive = "Hello, I am a string.";` .
-*   Or a _string object_ - `const stringObject = new String("Hello, I am a string.");`
+*   Or a _string object_ – `const stringObject = new String("Hello, I am a string.");`
 *   The `typeof` operator is used to determine if a string's type is _string_ or _object_.
-*   Each character is indexed and can be accessed by an index number using square bracket notation (e.g. "Hello World" - `myString[0]` outputs "H").
+*   Each character is indexed and can be accessed by an index number using square bracket notation (e.g. "Hello World" – `myString[0]` outputs "H").
 *   Similar methods to the one above include: `charAt()`, `indexOf()`, `lastIndexOf()`, `slice()`.
 *   Other common methods and properties are: `length`, `toUpperCase()`, `toLowerCase()`, `split()`, `trim()`, `replace()`.
 *   Use [Escape Tool](https://www.the-art-of-web.com/javascript/escape/) if you run into escape character issues.

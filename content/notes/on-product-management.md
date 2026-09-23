@@ -325,7 +325,7 @@ Strategy is a plan of action to get from point A (current) to point B (future).
 
 > A strategy is like a lever that magnifies force. – Richard Rumelt
 
-> Bad strategy is long on goals and short on policy or action. It assumes that goals are all you need. It puts forward strategic objectives that are incoherent and, sometimes, totally impracticable. It uses high-sounding words and phrases to hide these failings.  - Richard Rumelt
+> Bad strategy is long on goals and short on policy or action. It assumes that goals are all you need. It puts forward strategic objectives that are incoherent and, sometimes, totally impracticable. It uses high-sounding words and phrases to hide these failings. – Richard Rumelt
 
 > In your life, there are going to be constant demands for your time and attention. How are you going to decide which of those demands gets resources? The trap many people fall into is to allocate their time to whoever screams loudest, and their talent to whatever offers them the fastest reward. That’s a dangerous way to build a strategy. – Clayton M. Christensen
 
