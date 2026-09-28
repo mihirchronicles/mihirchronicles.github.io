@@ -1,6 +1,6 @@
 ---
 title: "Retreat Seeking Dilemma"
-tags: ["life"]
+tags: ["humanity"]
 date: "2023-08-26"
 draft: false
 path: "/notes/retreat-seeking-dilemma"

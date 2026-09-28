@@ -1,6 +1,6 @@
 ---
 title: "No Risk No Snack"
-tags: ["life"]
+tags: ["humanity"]
 date: "2023-09-10"
 draft: false
 path: "/notes/no-risk-no-snack"

@@ -1,6 +1,6 @@
 ---
 title: "On Financial Services"
-tags: ["on", "investing"]
+tags: ["on", "money"]
 date: "2022-11-01"
 draft: false
 path: "/notes/on-financial-services"

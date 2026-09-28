@@ -1,6 +1,6 @@
 ---
 title: "Leveraging Both Ears "
-tags: ["life"]
+tags: ["humanity"]
 date: "2024-03-28"
 draft: false
 path: "/notes/leveraging-both-ears"

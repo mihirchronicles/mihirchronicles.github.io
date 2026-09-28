@@ -1,6 +1,6 @@
 ---
 title: "Doomer Mentality"
-tags: ["life"]
+tags: ["humanity"]
 date: "2026-02-01"
 draft: false
 path: "/notes/doomer-mentality"

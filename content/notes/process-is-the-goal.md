@@ -1,6 +1,6 @@
 ---
 title: "Process Is The Goal"
-tags: ["life"]
+tags: ["humanity"]
 date: "2020-12-30"
 draft: false
 path: "/notes/process-is-the-goal"

@@ -1,6 +1,6 @@
 ---
 title: "Declare Do Repeat"
-tags: ["life"]
+tags: ["humanity"]
 date: "2023-08-05"
 draft: false
 path: "/notes/declare-do-repeat"

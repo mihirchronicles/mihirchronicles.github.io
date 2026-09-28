@@ -1,6 +1,6 @@
 ---
 title: "Embracing Unfair Advantage"
-tags: ["life"]
+tags: ["humanity"]
 date: "2023-10-29"
 draft: false
 path: "/notes/embracing-unfair-advantage"

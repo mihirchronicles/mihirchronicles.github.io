@@ -1,6 +1,6 @@
 ---
 title: "Masterpiece Seekers"
-tags: ["life"]
+tags: ["humanity"]
 date: "2018-12-01"
 draft: false
 path: "/notes/masterpiece-seekers"

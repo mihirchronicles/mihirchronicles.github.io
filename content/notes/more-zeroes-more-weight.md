@@ -1,6 +1,6 @@
 ---
 title: "More Zeroes More Weight"
-tags: ["life"]
+tags: ["humanity"]
 date: "2023-09-01"
 draft: false
 path: "/notes/more-zeroes-more-weight"

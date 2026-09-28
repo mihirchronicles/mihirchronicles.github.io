@@ -1,6 +1,6 @@
 ---
 title: "On Mental Models"
-tags: ["on", "investing"]
+tags: ["on", "money"]
 date: "2021-09-03"
 draft: false
 path: "/notes/on-mental-models"

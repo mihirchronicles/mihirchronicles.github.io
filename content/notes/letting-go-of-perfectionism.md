@@ -1,6 +1,6 @@
 ---
 title: "Letting Go Of Perfectionism"
-tags: ["life"]
+tags: ["humanity"]
 date: "2024-01-19"
 draft: false
 path: "/notes/letting-go-of-perfectionism"

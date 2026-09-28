@@ -1,6 +1,6 @@
 ---
 title: "Beating The Big Imposter"
-tags: ["life"]
+tags: ["humanity"]
 date: "2023-02-10"
 draft: false
 path: "/notes/beating-big-imposter"

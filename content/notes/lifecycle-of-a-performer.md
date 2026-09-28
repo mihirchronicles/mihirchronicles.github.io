@@ -1,6 +1,6 @@
 ---
 title: "Lifecycle Of A Performer"
-tags: ["life"]
+tags: ["humanity"]
 date: "2023-09-17"
 draft: false
 path: "/notes/lifecycle-of-a-performer"

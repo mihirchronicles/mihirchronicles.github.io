@@ -1,6 +1,6 @@
 ---
 title: "On Links"
-tags: ["on", "life"]
+tags: ["on", "humanity"]
 date: "2015-01-01"
 draft: false
 path: "/notes/on-links"

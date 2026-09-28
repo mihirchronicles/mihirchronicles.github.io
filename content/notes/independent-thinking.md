@@ -1,6 +1,6 @@
 ---
 title: "Rationalizing Independent Thinking"
-tags: ["life"]
+tags: ["humanity"]
 date: "2018-01-01"
 draft: false
 path: "/notes/independent-thinking"
