@@ -1,6 +1,6 @@
 ---
 title: "Rip The Script"
-tags: ["money"]
+tags: ["investing"]
 date: "2026-09-08"
 draft: false
 path: "/notes/rip-the-script"

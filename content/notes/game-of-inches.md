@@ -1,6 +1,6 @@
 ---
 title: "Game Of Inches"
-tags: ["money"]
+tags: ["investing"]
 date: "2020-12-19"
 draft: false
 path: "/notes/game-of-inches"
