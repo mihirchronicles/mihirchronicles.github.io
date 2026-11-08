@@ -80,7 +80,6 @@ We're rooted, we're rising, but not for the view,
 
 We plant shade we'll never sit in for the kids coming through.
 
-
 **Verse 3: The Builders Grove**
 
 Look around this room, you won't find a lone pine,
