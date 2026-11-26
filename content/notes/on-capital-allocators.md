@@ -1,9 +1,9 @@
 ---
-title: "On Investing"
+title: "On Capital Allocators"
 tags: ["on", "investing"]
 date: "2022-11-01"
 draft: false
-path: "/notes/on-investing"
+path: "/notes/on-capital-allocators"
 ---
 
 ## Lessons from capital allocators
