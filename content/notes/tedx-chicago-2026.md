@@ -6,7 +6,7 @@ draft: false
 path: "/notes/tedx-chicago-2026"
 ---
 
-On October 3rd I spent the day at TEDxChicago 2026. The theme was “We The People.” Three words, with the weight on “we.” I walked in expecting big ideas about systems and I did, but I also walked out thinking about verbs.
+On October 3rd I spent the day at [TEDxChicago 2026](https://www.ted.com/tedx/events/70458). The theme was “We The People.” Three words, with the weight on “we.” I walked in expecting big ideas about systems and I did, but I also walked out thinking about verbs.
 
 Hope without action is just a wish. Democracy is a verb. Love is a verb. Hope is one too. Let the verb drive your agency.
 
